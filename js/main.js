@@ -1,12 +1,12 @@
 /* White Cakes
    Edit contact details and the form endpoint here only. */
 const SITE = {
-  whatsappDisplay: "+63 9XX XXX XXXX",
-  whatsappUrl: "https://wa.me/639XXXXXXXXX",
+  whatsappDisplay: "+63 947 438 2632",
+  whatsappUrl: "https://wa.me/639474382632",
   formUrl: "https://formspree.io/f/YOUR_FORM_ID",
   email: "info@thewhitecakes.com",
-  instagram: "https://instagram.com/thewhitecakes",
-  facebook: "https://facebook.com/thewhitecakes"
+  instagram: "https://instagram.com/thewhitecakescebu",
+  facebook: "https://www.facebook.com/profile.php?id=61596567450476"
 };
 
 (function () {
