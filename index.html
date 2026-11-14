@@ -63,7 +63,7 @@
 <body id="top">
   <a class="skip" href="#main">Skip to content</a>
 
-  <header class="site-header">
+  <header class="site-header" id="site-header">
     <a class="brand" href="#top">
       <!-- Optional logo: when you add assets/logo.jpg, replace the SVG monogram
            below with <img src="assets/logo.jpg" alt="White Cakes" width="44" height="44"> -->
@@ -82,22 +82,28 @@
       </svg>
       <span class="wordmark">White Cakes</span>
     </a>
-    <nav class="nav" aria-label="Primary">
-      <a href="#collection">Collection</a>
-      <a href="#occasions">Occasions</a>
-      <a href="journal/index.html">Journal</a>
-      <a href="#how">How to order</a>
-    </nav>
-    <a class="header-cta" href="#order">Order</a>
+    <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <div class="header-end">
+      <nav class="nav" id="primary-nav" aria-label="Primary">
+        <a href="#collection">Collection</a>
+        <a href="#occasions">Occasions</a>
+        <a href="journal/index.html">Journal</a>
+        <a href="#how">How to order</a>
+      </nav>
+      <a class="header-cta" href="#order">Order</a>
+    </div>
   </header>
 
   <main id="main">
     <section class="hero" aria-labelledby="hero-title">
       <div class="hero-visual" data-parallax>
         <!-- Live cake photo. Replace assets/hero.webp when a studio shoot is ready. -->
-        <img src="assets/hero.webp" width="840" height="1120" alt="Ivory celebration cake with dusty-blue marble, piped shells, and blush roses" fetchpriority="high" decoding="async">
+        <div class="media-frame media-frame-hero">
+          <img src="assets/hero.webp" width="840" height="1120" alt="Ivory celebration cake with dusty-blue marble, piped shells, and blush roses" fetchpriority="high" decoding="async">
+        </div>
       </div>
       <div class="hero-copy">
+        <p class="eyebrow">Cebu · made to order</p>
         <h1 id="hero-title">White Cakes</h1>
         <p class="tagline">Handcrafted luxury cakes, made to order in Cebu.</p>
         <p class="hero-note">Baked for your date, with three days’ notice. Pick up in Cebu, or we deliver.</p>
@@ -111,14 +117,20 @@
     <section class="section" id="collection" aria-labelledby="collection-title">
       <div class="section-inner">
         <p class="kicker">Signature collection</p>
-        <h2 id="collection-title">Three cakes</h2>
+        <div class="section-head">
+          <h2 id="collection-title">Three cakes</h2>
+          <p class="section-dek">Ivory buttercream, piped by hand. Choose a cake, then tell us your date.</p>
+        </div>
         <!-- Prices: edit the three price lines below. -->
         <ol class="cakes">
           <li class="reveal">
             <div class="cake-art">
-              <img src="assets/marble.webp" width="800" height="800" alt="Signature Marble cake, ivory buttercream with dusty-blue marble and one rose" loading="lazy" decoding="async">
+              <div class="media-frame">
+                <img src="assets/marble.webp" width="800" height="800" alt="Signature Marble cake, ivory buttercream with dusty-blue marble and one rose" loading="lazy" decoding="async">
+              </div>
             </div>
             <div class="cake-copy">
+              <span class="cake-index" aria-hidden="true">01</span>
               <h3>Signature Marble</h3>
               <p>A 6-inch cake in smooth ivory buttercream, with dusty-blue marble worked through the side, a shell border, and a single rose. It is the cake for a birthday table or a dinner where everyone is served from the same centerpiece.</p>
               <dl class="cake-meta">
@@ -132,9 +144,12 @@
           </li>
           <li class="reveal">
             <div class="cake-art">
-              <img src="assets/bouquet.webp" width="800" height="800" alt="Bouquet Cake covered with piped blush roses and sage leaves" loading="lazy" decoding="async">
+              <div class="media-frame">
+                <img src="assets/bouquet.webp" width="800" height="800" alt="Bouquet Cake covered with piped blush roses and sage leaves" loading="lazy" decoding="async">
+              </div>
             </div>
             <div class="cake-copy">
+              <span class="cake-index" aria-hidden="true">02</span>
               <h3>Bouquet Cake</h3>
               <p>Ivory cream covered with piped blush roses and sage leaves. Lower and softer than the marble cake, it reads as a bunch of flowers you can cut. A gift, an anniversary, or a table that wants color more than height.</p>
               <dl class="cake-meta">
@@ -148,9 +163,12 @@
           </li>
           <li class="reveal">
             <div class="cake-art">
-              <img src="assets/bento.webp" width="800" height="800" alt="Small bento cake with a blush ribbon, piped shells, and a single rose" loading="lazy" decoding="async">
+              <div class="media-frame">
+                <img src="assets/bento.webp" width="800" height="800" alt="Small bento cake with a blush ribbon, piped shells, and a single rose" loading="lazy" decoding="async">
+              </div>
             </div>
             <div class="cake-copy">
+              <span class="cake-index" aria-hidden="true">03</span>
               <h3>Bento Cake</h3>
               <p>A 4-inch cake with a shell border, a blush ribbon, and one rose. Enough for two, or for one person you want to mark a day for. It travels more easily than a tall cake, which matters in Cebu traffic and heat.</p>
               <dl class="cake-meta">
@@ -257,7 +275,7 @@
           In the Formspree dashboard, send notifications to info@thewhitecakes.com.
           This form posts from the browser to Formspree. It is not a Netlify form.
         -->
-        <form id="order-form" action="https://formspree.io/f/YOUR_FORM_ID" method="post" enctype="multipart/form-data">
+        <form id="order-form" class="order-panel" action="https://formspree.io/f/YOUR_FORM_ID" method="post" enctype="multipart/form-data">
           <p id="form-status" class="form-status" role="status" aria-live="polite"></p>
           <div class="form-fields">
             <div class="hp" aria-hidden="true">

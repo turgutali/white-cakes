@@ -28,6 +28,37 @@ const SITE = {
     link.href = SITE.facebook;
   });
 
+  const header = document.getElementById("site-header");
+  if (header) {
+    const onScroll = function () {
+      header.classList.toggle("is-scrolled", window.scrollY > 12);
+    };
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+  }
+
+  const navToggle = document.querySelector(".nav-toggle");
+  const primaryNav = document.getElementById("primary-nav");
+  if (navToggle && primaryNav) {
+    const closeMenu = function () {
+      document.body.classList.remove("is-menu-open");
+      navToggle.setAttribute("aria-expanded", "false");
+      navToggle.textContent = "Menu";
+    };
+    navToggle.addEventListener("click", function () {
+      const open = !document.body.classList.contains("is-menu-open");
+      document.body.classList.toggle("is-menu-open", open);
+      navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+      navToggle.textContent = open ? "Close" : "Menu";
+    });
+    primaryNav.querySelectorAll("a").forEach(function (link) {
+      link.addEventListener("click", closeMenu);
+    });
+    window.addEventListener("resize", function () {
+      if (window.innerWidth >= 800) closeMenu();
+    });
+  }
+
   const cake = document.querySelector("[data-parallax]");
   if (cake && !reduceMotion) {
     let ticking = false;
@@ -35,7 +66,7 @@ const SITE = {
       if (ticking) return;
       ticking = true;
       requestAnimationFrame(function () {
-        const shift = Math.min(window.scrollY * 0.12, 36);
+        const shift = Math.min(window.scrollY * 0.08, 28);
         cake.style.transform = "translate3d(0," + shift.toFixed(2) + "px,0)";
         ticking = false;
       });
@@ -49,7 +80,7 @@ const SITE = {
       entries.forEach(function (entry) {
         dock.classList.toggle("is-hidden", entry.isIntersecting);
       });
-    }, { threshold: 0, rootMargin: "0px 0px -64px 0px" });
+    }, { threshold: 0, rootMargin: "0px 0px -72px 0px" });
     watcher.observe(order);
   }
 
