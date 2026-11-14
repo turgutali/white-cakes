@@ -1028,25 +1028,14 @@ form.is-sent .form-fields {
 
 /* —— Journal subpages —— */
 
-body.sub .site-header {
-  position: sticky;
-  top: 0;
-}
-
-body.sub .nav-toggle,
-body.sub .dock {
-  display: none;
-}
-
-body.sub {
-  padding-bottom: 0;
-}
-
 .journal-index,
 .article {
   width: min(740px, 100%);
   margin: 0 auto;
-  padding: var(--space-lg) max(20px, 5vw) var(--space-xl);
+  padding:
+    calc(var(--header-h) + var(--space-lg) + env(safe-area-inset-top))
+    max(20px, 5vw)
+    var(--space-xl);
   position: relative;
   z-index: 1;
 }
