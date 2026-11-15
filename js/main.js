@@ -5,8 +5,8 @@ const SITE = {
   whatsappUrl: "https://wa.me/639474382632",
   formUrl: "https://formspree.io/f/xjywgqvq",
   email: "info@thewhitecakes.com",
-  instagram: "https://instagram.com/thewhitecakescebu",
-  facebook: "https://www.facebook.com/profile.php?id=61596567450476"
+  instagram: "https://www.instagram.com/thewhitecakescebu/",
+  facebook: "https://www.facebook.com/thewhitecakes/"
 };
 
 (function () {

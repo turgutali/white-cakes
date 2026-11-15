@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+  <rect width="180" height="180" rx="40" fill="#1B2340"/>
+  <text x="22" y="122" fill="#F8F4EC" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="500">W</text>
+  <text x="92" y="118" fill="#F8F4EC" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-style="italic" font-weight="500">C</text>
+  <g fill="none" stroke="#F8F4EC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M48 92c.8-16 .2-30-1-48"/>
+    <path d="M46.5 42c-3.8-7.5 3.2-14.5 8.5-8 2.6 3.8.8 7.8-3.5 8.5"/>
+  </g>
+</svg>
