@@ -1133,6 +1133,18 @@ form.is-sent .form-fields {
   color: var(--navy-soft);
 }
 
+.landing-figure-wide .media-frame img,
+.gallery-wide img {
+  width: 100%;
+  height: auto;
+}
+
+@media (min-width: 800px) {
+  .gallery-list .gallery-wide {
+    grid-column: 1 / -1;
+  }
+}
+
 .related-pages {
   margin-top: var(--space-lg);
   padding-top: var(--space-md);

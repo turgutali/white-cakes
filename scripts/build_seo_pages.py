@@ -80,6 +80,7 @@ def footer(rel: str = "..") -> str:
 
 
 def page(
+    slug: str,
     title: str,
     description: str,
     h1: str,
@@ -423,7 +424,7 @@ def main():
     for p in PAGES:
         out_dir = ROOT / p["slug"]
         out_dir.mkdir(parents=True, exist_ok=True)
-        html = page(**{k: v for k, v in p.items() if k != "slug"})
+        html = page(**p)
         (out_dir / "index.html").write_text(html, encoding="utf-8")
         print("wrote", out_dir / "index.html")
 
