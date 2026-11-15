@@ -124,7 +124,7 @@
         <a href="#delivery">Delivery</a>
         <a href="#how">How to order</a>
       </nav>
-      <a class="header-cta" href="#order">Order</a>
+      <a class="header-cta" href="order/">Order</a>
     </div>
   </header>
 
@@ -142,7 +142,7 @@
         <p class="tagline">Signature Marble, Bouquet, and Bento cakes, finished by hand.</p>
         <p class="hero-note">Baked for your date, with three days’ notice. Pick up in Cebu, or we deliver.</p>
         <div class="hero-actions">
-          <a class="btn" href="#order">Order Your Cake</a>
+          <a class="btn" href="order/">Design your cake</a>
           <a class="btn btn-quiet" data-wa href="https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20cake" rel="noopener noreferrer">WhatsApp</a>
         </div>
       </div>
@@ -172,7 +172,7 @@
                 <div><dt>For</dt><dd>Birthdays and shared dinners</dd></div>
               </dl>
               <p class="page-link"><a href="custom-cakes-cebu/">About Signature Marble</a></p>
-              <a class="order-this" href="#order" data-order-cake="Signature Marble" data-order-size="6&quot;">Order this</a>
+              <a class="order-this" href="order/?cake=Signature%20Marble&amp;size=6%22">Order this</a>
             </div>
           </li>
           <li class="reveal">
@@ -191,7 +191,7 @@
                 <div><dt>For</dt><dd>Gifts and small celebrations</dd></div>
               </dl>
               <p class="page-link"><a href="bouquet-cakes-cebu/">About bouquet cakes</a></p>
-              <a class="order-this" href="#order" data-order-cake="Bouquet Cake">Order this</a>
+              <a class="order-this" href="order/?cake=Bouquet%20Cake">Order this</a>
             </div>
           </li>
           <li class="reveal">
@@ -210,7 +210,7 @@
                 <div><dt>For</dt><dd>Two people, a desk, a quiet gift</dd></div>
               </dl>
               <p class="page-link"><a href="bento-cakes-cebu/">About bento cakes</a></p>
-              <a class="order-this" href="#order" data-order-cake="Bento" data-order-size="Bento 4&quot;">Order this</a>
+              <a class="order-this" href="order/?cake=Bento&amp;size=Bento%204%22">Order this</a>
             </div>
           </li>
         </ol>
@@ -258,7 +258,7 @@
             <p>Traffic across the metro moves in windows, not minutes. We agree a range when we confirm — and we ask for at least three days’ notice on every order.</p>
           </article>
         </div>
-        <p class="next-step"><a href="#order">Start the order</a></p>
+        <p class="next-step"><a href="order/">Start the order</a></p>
       </div>
     </section>
 
@@ -272,19 +272,19 @@
             <h3>Birthdays</h3>
             <p>A 6-inch Signature Marble holds the table: ivory, dusty-blue marble, one rose, and the name or the year written on top.</p>
             <a class="order-this" href="birthday-cakes-cebu/">Birthday cakes guide</a>
-            <a class="order-this" href="#order" data-order-cake="Signature Marble" data-order-size="6&quot;">Order a birthday cake</a>
+            <a class="order-this" href="order/?cake=Signature%20Marble&amp;size=6%22">Order a birthday cake</a>
           </li>
           <li>
             <h3>Small celebrations</h3>
             <p>A 4-inch bento for two plates, a Tuesday, or a promotion that does not need a crowd. Shells, a ribbon, a single rose.</p>
             <a class="order-this" href="bento-cakes-cebu/">Bento cakes</a>
-            <a class="order-this" href="#order" data-order-cake="Bento" data-order-size="Bento 4&quot;">Order a bento</a>
+            <a class="order-this" href="order/?cake=Bento&amp;size=Bento%204%22">Order a bento</a>
           </li>
           <li>
             <h3>Gifting</h3>
             <p>The Bouquet Cake travels as flowers you can eat. Tell us who it is for and the line you want piped, and whether we deliver it in Cebu.</p>
             <a class="order-this" href="anniversary-cakes-cebu/">Anniversary &amp; gift cakes</a>
-            <a class="order-this" href="#order" data-order-cake="Bouquet Cake">Order a bouquet</a>
+            <a class="order-this" href="order/?cake=Bouquet%20Cake">Order a bouquet</a>
           </li>
         </ul>
       </div>
@@ -312,7 +312,7 @@
             <p>We reply within a day with a yes and a time. Pickup is in Cebu. Delivery needs a full address and someone to receive it. Keep buttercream cool on the way — <a href="journal/buttercream-in-cebu-heat.html">how to hold a cake in this heat</a>.</p>
           </li>
         </ol>
-        <p class="next-step"><a href="#order">Start the order</a></p>
+        <p class="next-step"><a href="order/">Start the order</a></p>
       </div>
     </section>
 
@@ -329,91 +329,13 @@
             <li>Any words for the top, and a photo if the design is custom</li>
           </ul>
         </div>
-        <!--
-          Orders post to Formspree (SITE.formUrl in js/main.js). Notifications go to the inbox you set in Formspree.
-          This form posts from the browser to Formspree. It is not a Netlify form.
-        -->
-        <form id="order-form" class="order-panel" action="https://formspree.io/f/xjywgqvq" method="post" enctype="multipart/form-data">
-          <p id="form-status" class="form-status" role="status" aria-live="polite"></p>
-          <div class="form-fields">
-            <div class="hp" aria-hidden="true">
-              <label for="gotcha">Leave this empty</label>
-              <input id="gotcha" type="text" name="_gotcha" tabindex="-1" autocomplete="off">
-            </div>
-
-            <div class="field">
-              <label for="full-name">Full name <abbr title="required">*</abbr></label>
-              <input id="full-name" name="name" type="text" autocomplete="name" required>
-            </div>
-            <div class="field">
-              <label for="phone">Mobile / WhatsApp number <abbr title="required">*</abbr></label>
-              <input id="phone" name="phone" type="tel" autocomplete="tel" inputmode="tel" required>
-            </div>
-            <div class="field">
-              <label for="email">Email</label>
-              <input id="email" name="email" type="email" autocomplete="email">
-            </div>
-            <div class="field">
-              <label for="cake">Cake type</label>
-              <select id="cake" name="cake">
-                <option value="">Select</option>
-                <option>Signature Marble</option>
-                <option>Bouquet Cake</option>
-                <option>Bento</option>
-                <option>Custom</option>
-              </select>
-            </div>
-            <div class="field">
-              <label for="size">Size</label>
-              <select id="size" name="size">
-                <option value="">Select</option>
-                <option>Bento 4"</option>
-                <option>6"</option>
-                <option>8"</option>
-              </select>
-            </div>
-            <div class="field">
-              <label for="flavor">Flavor</label>
-              <select id="flavor" name="flavor">
-                <option value="">Select</option>
-                <option>Chocolate</option>
-                <option>Vanilla</option>
-                <option>Ube</option>
-                <option>Mango</option>
-                <option>Red Velvet</option>
-              </select>
-            </div>
-            <div class="field">
-              <label for="cake-message">Message on cake</label>
-              <input id="cake-message" name="message" type="text" maxlength="80" autocomplete="off">
-            </div>
-            <div class="field">
-              <label for="date-needed">Date needed <abbr title="required">*</abbr></label>
-              <input id="date-needed" name="date" type="date" required aria-describedby="date-hint">
-              <p id="date-hint" class="hint">At least 3 days from today.</p>
-            </div>
-            <fieldset class="fulfill">
-              <legend>Pickup or delivery</legend>
-              <div class="fulfill-options">
-                <label for="pickup"><input id="pickup" type="radio" name="fulfillment" value="pickup" checked> Pickup</label>
-                <label for="delivery"><input id="delivery" type="radio" name="fulfillment" value="delivery"> Delivery</label>
-              </div>
-            </fieldset>
-            <div class="field" id="address-field" hidden>
-              <label for="address">Delivery address <abbr title="required">*</abbr></label>
-              <textarea id="address" name="address" rows="3" autocomplete="street-address"></textarea>
-            </div>
-            <div class="field">
-              <label for="photo">Inspiration photo <span class="opt">(optional)</span></label>
-              <input id="photo" name="photo" type="file" accept="image/*">
-            </div>
-            <div class="field">
-              <label for="notes">Notes</label>
-              <textarea id="notes" name="notes" rows="4"></textarea>
-            </div>
-            <button class="btn" type="submit">Send order</button>
+        <div class="order-cta-panel">
+          <p class="lede">Tap through five quick steps on your phone. The cake preview updates as you choose design, flavor, and the words on top.</p>
+          <div class="hero-actions">
+            <a class="btn" href="order/">Design &amp; order your cake</a>
+            <a class="btn btn-quiet" data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp</a>
           </div>
-        </form>
+        </div>
       </div>
     </section>
 
@@ -456,7 +378,7 @@
           </figure>
         </div>
         <p class="follow">Instagram <a data-ig href="https://www.instagram.com/thewhitecakescebu/" rel="noopener noreferrer">@thewhitecakescebu</a></p>
-        <p class="next-step"><a href="#order">Order a cake from the collection</a></p>
+        <p class="next-step"><a href="order/">Order a cake from the collection</a></p>
       </div>
     </section>
 
@@ -492,7 +414,7 @@
   <aside class="close-band" aria-labelledby="close-title">
     <div class="section-inner">
       <p id="close-title">Tell us the date. We confirm within a day.</p>
-      <a class="btn" href="#order">Order Your Cake</a>
+      <a class="btn" href="order/">Order Your Cake</a>
     </div>
   </aside>
 
@@ -531,7 +453,7 @@
   </footer>
 
   <nav class="dock" aria-label="Quick actions">
-    <a href="#order">Order</a>
+    <a href="order/">Order</a>
     <a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp</a>
   </nav>
 

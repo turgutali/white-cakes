@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en-PH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Design &amp; Order Your Cake | The White Cakes - Cebu</title>
+  <meta name="description" content="Design your cake on mobile: pick Marble, Bouquet, or Bento, see it on screen, then send your order to White Cakes Cebu. At least three days' notice.">
+  <link rel="canonical" href="https://www.thewhitecakes.com/order/">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="Design &amp; Order Your Cake | The White Cakes - Cebu">
+  <meta property="og:url" content="https://www.thewhitecakes.com/order/">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link rel="stylesheet" href="../css/order-wizard.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png" sizes="180x180">
+</head>
+<body class="sub order-page">
+  <a class="skip" href="#order-wizard">Skip to order</a>
+  <header class="site-header" id="site-header">
+    <a class="brand" href="/">
+      <span class="wordmark">White Cakes</span>
+    </a>
+    <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <div class="header-end">
+      <nav class="nav" id="primary-nav" aria-label="Primary">
+        <a href="/#collection">Collection</a>
+        <a href="/faq/">FAQ</a>
+        <a href="/journal/">Journal</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <div id="order-wizard" class="order-wizard" data-step="1">
+      <div class="order-preview-wrap" aria-live="polite" aria-atomic="true">
+        <div class="order-preview" id="order-preview" data-tall="true">
+          <img id="preview-img" src="/assets/hero-celebration-cake-cebu.webp" width="840" height="1120" alt="Your cake preview" decoding="async">
+          <p id="preview-message" class="order-preview-message" hidden>Your message</p>
+        </div>
+        <div class="order-preview-meta">
+          <p id="preview-caption" class="order-preview-caption">Pick a design to start</p>
+          <span id="preview-size" class="order-preview-size" hidden></span>
+          <span id="preview-flavor" class="order-preview-flavor" hidden></span>
+        </div>
+        <p class="preview-note">Studio reference — yours is piped to order for your date.</p>
+      </div>
+
+      <div class="order-wizard-main">
+        <ol id="order-progress" class="order-progress" aria-label="Order steps">
+          <li data-step-dot="1" class="is-active" title="Design"></li>
+          <li data-step-dot="2" title="Size"></li>
+          <li data-step-dot="3" title="Flavor"></li>
+          <li data-step-dot="4" title="Message &amp; date"></li>
+          <li data-step-dot="5" title="Details"></li>
+        </ol>
+
+        <form id="order-wizard-form" class="order-wizard-form" action="https://formspree.io/f/xjywgqvq" method="post" enctype="multipart/form-data">
+          <p id="wizard-status" class="form-status" role="status" aria-live="polite"></p>
+          <div class="hp" aria-hidden="true">
+            <input type="text" name="_gotcha" tabindex="-1" autocomplete="off">
+          </div>
+          <input type="hidden" name="cake" value="">
+          <input type="hidden" name="size" value="">
+          <input type="hidden" name="flavor" value="">
+          <input type="hidden" name="message" value="">
+          <input type="hidden" name="date" value="">
+          <input type="hidden" name="name" value="">
+          <input type="hidden" name="phone" value="">
+          <input type="hidden" name="email" value="">
+          <input type="hidden" name="fulfillment" value="pickup">
+          <input type="hidden" name="address" value="">
+          <input type="hidden" name="notes" value="">
+
+          <section data-step-panel="1">
+            <h1 class="order-step-title">Design your cake</h1>
+            <p class="hint-inline">Tap a style. The preview updates as you build your order.</p>
+            <div class="cake-pick-grid">
+              <button type="button" class="cake-pick" data-pick-cake="marble">
+                <img src="../assets/signature-marble-cake-cebu.webp" width="400" height="400" alt="" loading="lazy">
+                <span>Signature Marble</span>
+              </button>
+              <button type="button" class="cake-pick" data-pick-cake="bouquet">
+                <img src="../assets/bouquet-cake-pink-wrapper-cebu.webp" width="400" height="533" alt="" loading="lazy">
+                <span>Bouquet</span>
+              </button>
+              <button type="button" class="cake-pick" data-pick-cake="bento">
+                <img src="../assets/bento-cake-cebu.webp" width="400" height="400" alt="" loading="lazy">
+                <span>Bento</span>
+              </button>
+              <button type="button" class="cake-pick" data-pick-cake="custom">
+                <img src="../assets/hero-celebration-cake-cebu.webp" width="400" height="533" alt="" loading="lazy">
+                <span>Custom</span>
+              </button>
+            </div>
+          </section>
+
+          <section data-step-panel="2" hidden>
+            <h2 class="order-step-title">Size</h2>
+            <div id="size-options" class="pick-row"></div>
+          </section>
+
+          <section data-step-panel="3" hidden>
+            <h2 class="order-step-title">Flavor</h2>
+            <p class="hint-inline">Baked inside — shown on the label below your preview.</p>
+            <div class="pick-row flavor-pills">
+              <label class="pick-btn" data-pick-flavor="Chocolate" style="--pill-accent: #5c4033"><input type="radio" name="flavor_ui">Chocolate</label>
+              <label class="pick-btn" data-pick-flavor="Vanilla"><input type="radio" name="flavor_ui">Vanilla</label>
+              <label class="pick-btn" data-pick-flavor="Ube" style="--pill-accent: #9b7bb8"><input type="radio" name="flavor_ui">Ube</label>
+              <label class="pick-btn" data-pick-flavor="Mango" style="--pill-accent: #e8a54b"><input type="radio" name="flavor_ui">Mango</label>
+              <label class="pick-btn" data-pick-flavor="Red Velvet" style="--pill-accent: #a63d4a"><input type="radio" name="flavor_ui">Red Velvet</label>
+            </div>
+          </section>
+
+          <section data-step-panel="4" hidden>
+            <h2 class="order-step-title">Message &amp; date</h2>
+            <div class="wizard-field">
+              <label for="wizard-cake-message">Words on the cake</label>
+              <input id="wizard-cake-message" type="text" maxlength="80" autocomplete="off" placeholder="e.g. Happy Birthday, Ana">
+            </div>
+            <div class="wizard-field">
+              <label for="wizard-date">Date needed</label>
+              <input id="wizard-date" type="date" required>
+              <p class="hint-inline">At least 3 days from today.</p>
+            </div>
+            <div class="wizard-field" id="custom-photo-wrap">
+              <label for="wizard-photo">Reference photo <span class="opt">(custom or ideas)</span></label>
+              <input id="wizard-photo" name="photo" type="file" accept="image/*">
+            </div>
+          </section>
+
+          <section data-step-panel="5" hidden>
+            <h2 class="order-step-title">Your details</h2>
+            <div class="wizard-field">
+              <label for="wizard-name">Full name</label>
+              <input id="wizard-name" type="text" autocomplete="name" required>
+            </div>
+            <div class="wizard-field">
+              <label for="wizard-phone">Mobile / WhatsApp</label>
+              <input id="wizard-phone" type="tel" inputmode="tel" autocomplete="tel" required>
+            </div>
+            <div class="wizard-field">
+              <label for="wizard-email">Email <span class="opt">(optional)</span></label>
+              <input id="wizard-email" type="email" autocomplete="email">
+            </div>
+            <fieldset class="fulfill">
+              <legend>Pickup or delivery</legend>
+              <div class="fulfill-options pick-row">
+                <label class="pick-btn is-selected"><input type="radio" name="fulfillment_pick" value="pickup" checked> Pickup</label>
+                <label class="pick-btn"><input type="radio" name="fulfillment_pick" value="delivery"> Delivery</label>
+              </div>
+            </fieldset>
+            <div class="wizard-field" id="wizard-address-field" hidden>
+              <label for="wizard-address">Delivery address</label>
+              <textarea id="wizard-address" rows="3" autocomplete="street-address"></textarea>
+            </div>
+            <div class="wizard-field">
+              <label for="wizard-notes">Notes</label>
+              <textarea id="wizard-notes" rows="3"></textarea>
+            </div>
+          </section>
+
+          <div class="wizard-actions">
+            <button type="button" class="btn btn-quiet" id="wizard-back" hidden>Back</button>
+            <button type="button" class="btn" id="wizard-next">Continue</button>
+            <a class="btn btn-quiet" id="wizard-whatsapp" href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp</a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </main>
+
+  <nav class="dock" aria-label="Quick actions">
+    <a href="/order/">Order</a>
+    <a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp</a>
+  </nav>
+  <script src="../js/main.js" defer></script>
+  <script src="../js/order-wizard.js" defer></script>
+</body>
+</html>

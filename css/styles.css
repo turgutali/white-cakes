@@ -607,6 +607,36 @@ h2 {
 
 /* —— Order —— */
 
+.order-cta-panel {
+  padding: var(--space-md);
+  border: 1px solid var(--line);
+  background: var(--ivory-soft);
+}
+
+.order-cta-panel .hero-actions {
+  margin-top: var(--space-md);
+}
+
+@media (max-width: 799px) {
+  ol.cakes {
+    display: flex;
+    flex-direction: row;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: var(--space-sm);
+    padding-bottom: 0.5rem;
+    -webkit-overflow-scrolling: touch;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+  }
+
+  ol.cakes > li {
+    flex: 0 0 min(88vw, 340px);
+    scroll-snap-align: center;
+  }
+}
+
 .order-layout {
   display: grid;
   gap: var(--space-lg);
