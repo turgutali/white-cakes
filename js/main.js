@@ -1,8 +1,11 @@
 /* White Cakes
    Edit contact details and the form endpoint here only. */
+const WA_TEXT = encodeURIComponent("Hi White Cakes, I'd like to order a cake");
+
 const SITE = {
   whatsappDisplay: "+63 947 438 2632",
   whatsappUrl: "https://wa.me/639474382632",
+  whatsappOrderUrl: "https://wa.me/639474382632?text=" + WA_TEXT,
   formUrl: "https://formspree.io/f/xjywgqvq",
   email: "info@thewhitecakes.com",
   instagram: "https://www.instagram.com/thewhitecakescebu/",
@@ -13,7 +16,8 @@ const SITE = {
   const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
   document.querySelectorAll("[data-wa]").forEach(function (link) {
-    link.href = SITE.whatsappUrl;
+    const usePrefill = link.classList.contains("btn");
+    link.href = usePrefill ? SITE.whatsappOrderUrl : SITE.whatsappUrl;
   });
 
   document.querySelectorAll("[data-wa-label]").forEach(function (node) {
