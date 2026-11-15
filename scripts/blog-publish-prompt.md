@@ -1,0 +1,1571 @@
+# Prompt: publish the 12 White Cakes journal posts
+
+Paste everything below this line into your site builder or AI coder. The full text of all 12 posts, including their JSON-LD, is at the bottom of this file. The same posts are also in `/workspace/site/blog/` as separate `.md` files if you'd rather upload them.
+
+---
+
+You are updating the static website for **The White Cakes - Cebu** (https://www.thewhitecakes.com). It is a made-to-order luxury cake cloud kitchen in Lahug, Cebu City. There is no storefront or walk-in, pickup is by arrangement, and delivery covers Cebu City, Mandaue and Lapu-Lapu. Keep the existing design system, fonts, colours (ivory, midnight navy, dusty blue, blush, sage) and the "Notes from the bench" journal style. Language: `en-PH`.
+
+**Hard rules**
+- **No prices** anywhere: no ₱, PHP, peso amounts, `priceRange` or `offers`, in text, schema or meta.
+- Do not invent reviews, ratings, awards, years in business, addresses or customer quotes.
+- Do not change the wording of the posts, except to convert Markdown to HTML.
+- WhatsApp: `https://wa.me/639474382632` (keep the `?text=` prefill given in each post). Messenger: `https://m.me/thewhitecakes`. The visible number is `+63 947 438 2632`.
+
+## Posts to publish in this run
+
+> **POSTS TO PUBLISH IN THIS RUN: 01, 02, 03, 04**
+> (Edit this line on later runs, e.g. "05, 06" on 1 Dec. Only touch the posts listed here. Treat all other posts as not yet live.)
+
+| # | Suggested publish date | URL | `<title>` |
+|---|---|---|---|
+| 01 | 2026-11-17 | `/journal/christmas-cake-delivery-cebu.html` | Christmas Cake Delivery in Cebu \| The White Cakes - Cebu |
+| 02 | 2026-11-20 | `/journal/what-is-a-bento-cake.html` | What Is a Bento Cake? Cebu Guide \| The White Cakes - Cebu |
+| 03 | 2026-11-24 | `/journal/how-to-choose-wedding-cake-cebu.html` | Choosing a Wedding Cake in Cebu \| The White Cakes - Cebu |
+| 04 | 2026-11-27 | `/journal/cake-delivery-cebu.html` | Metro Cebu Cake Delivery Guide \| The White Cakes - Cebu |
+| 05 | 2026-12-01 | `/journal/how-far-ahead-to-order-a-cake-cebu.html` | How Early to Order a Cake in Cebu \| The White Cakes - Cebu |
+| 06 | 2026-12-04 | `/journal/bouquet-cake-gift-cebu.html` | Bouquet Cakes as Gifts in Cebu \| The White Cakes - Cebu |
+| 07 | 2026-12-08 | `/journal/corporate-office-cakes-cebu.html` | Corporate & Office Cakes in Cebu \| The White Cakes - Cebu |
+| 08 | 2026-12-11 | `/journal/debut-cake-cebu.html` | Debut Cakes in Cebu: 18th Birthday \| The White Cakes - Cebu |
+| 09 | 2026-12-15 | `/journal/first-birthday-sinulog-cake-cebu.html` | First Birthday & Sinulog Cakes \| The White Cakes - Cebu |
+| 10 | 2026-12-22 | `/journal/how-to-brief-a-custom-cake-cebu.html` | How to Brief a Custom Cake in Cebu \| The White Cakes - Cebu |
+| 11 | 2027-01-05 | `/journal/christening-cake-cebu.html` | Christening Cakes in Cebu \| The White Cakes - Cebu |
+| 12 | 2027-01-15 | `/journal/valentines-bouquet-cake-cebu.html` | Valentine's Bouquet Cakes in Cebu \| The White Cakes - Cebu |
+
+Posts 02 and 03 **replace the existing draft stubs at the same URLs** (`/journal/what-is-a-bento-cake.html` and `/journal/how-to-choose-wedding-cake-cebu.html`). The other 10 are new files.
+
+## 1. Build each post page
+
+For every post in this run, create or overwrite `/journal/<slug>.html` using the template of the existing live posts (for example `/journal/how-to-order.html`: same header, nav, footer, `<article class="article">`, CSS and JS).
+
+From the post's front matter:
+- `<title>`: use `title` exactly (60 characters or fewer).
+- `<meta name="description">`: use `meta_description` exactly (155 characters or fewer).
+- `<link rel="canonical">`: use `url`, written out plainly (`https://www.thewhitecakes.com/journal/...`). **No escaped slashes** (`https:\/\/`).
+- `og:type` = `article`, `og:title` = `h1`, `og:description` = `meta_description`, `og:url` = `url`, `og:image` = `https://www.thewhitecakes.com/assets/og.jpg`, `og:image:alt` = `og_image_alt`. Add matching Twitter card tags.
+- `<meta name="robots" content="index, follow, max-image-preview:large">`. For 02 and 03, **remove `noindex`** and the "Draft · not published" label.
+- `<html lang="en-PH">`.
+
+Body:
+- Convert the Markdown between the front matter and `<!-- JSONLD -->` to semantic HTML. Use one `<h1>`, `<h2>` for the question headings, `<h3>` for the FAQ questions, and real `<ul>`/`<ol>` lists. Code blocks become `<pre>`.
+- Directly under the H1, add a byline: `By White Cakes · Lahug, Cebu City · <time datetime="YYYY-MM-DD">Published D Month YYYY</time>`, using the post's publish date.
+- Render the **"Quick answer"** paragraph as a visually distinct lead paragraph (for example, a soft ivory box with a dusty-blue left border). Keep the words "Quick answer:" in it.
+- **Photo placeholders** (the `> **Photo placeholder (real photo only):** ...` blocks): **do not show them on the page.** Replace each one with an HTML comment `<!-- PHOTO TODO: <description> | alt="<suggested alt text>" -->`. Do **not** generate or insert AI images. When the owner supplies a real photo later, insert it there as `.webp` with the suggested alt text, width and height, and `loading="lazy"`. Strip all EXIF and other metadata before uploading.
+- Make internal links root-relative (`/bento-cakes-cebu/`). If a link points to a journal post that is **not yet live**, render its anchor text as plain text and keep a comment `<!-- LINK WHEN LIVE: /journal/... -->`. Links that already exist on the site must stay live links.
+- Show the final "Order..." section as the existing CTA block with the WhatsApp and Messenger buttons.
+
+Structured data:
+- Paste the post's `<script type="application/ld+json">` block (under "Structured data") into `<head>` **exactly as given**. It already contains `BlogPosting`, `FAQPage` (matching the visible FAQ word for word) and `BreadcrumbList`.
+- Remove the old `Article` or `BreadcrumbList` JSON-LD on 02 and 03 so there is no duplicate.
+- If you publish a post on a different day from its suggested date, change `datePublished`, `dateModified` and the visible byline date to the real date.
+
+## 2. Journal index `/journal/`
+
+- Remove the "Coming soon on the bench..." line and any links to draft stubs. Leave no placeholder or draft entries anywhere on the site.
+- List **all live posts**, newest first: the new posts published in this run plus the 4 existing ones (`how-to-order.html`, `choosing-a-flavor.html`, `which-cake.html`, `buttercream-in-cebu-heat.html`). Each entry gets its H1 as a link and a one-line summary taken from that post's meta description.
+- Update the intro line so it no longer says "Four practical pieces." Describe it generally, for example "Practical notes on ordering, delivery and celebrating with cake in Cebu."
+- Set the index `<title>` to `Journal: Cake Guides for Cebu | The White Cakes - Cebu`, and write a unique meta description of 155 characters or fewer.
+- Add `BreadcrumbList` JSON-LD (Home > Journal) and a `Blog` JSON-LD with `blogPost` entries (headline, url, datePublished) for every live post.
+
+## 3. Cross-links from product, occasion and area pages
+
+On each page below, add a small section at the bottom of the main content, above the CTA, titled **"From our journal"**. Link 2–4 posts using the post's H1 as descriptive anchor text, and **only posts that are live**. Add more links on later runs as more posts go live.
+
+| Page | Link these posts (when live) |
+|---|---|
+| `/cake-delivery-cebu-city/` | 04 delivery guide, 01 Christmas, 07 corporate, 09 first birthday & Sinulog |
+| `/cake-delivery-mandaue/` | 04 delivery guide, 01 Christmas, 07 corporate |
+| `/cake-delivery-lapu-lapu/` | 04 delivery guide, 01 Christmas, 09 first birthday & Sinulog, 12 Valentine's |
+| `/birthday-cakes-cebu/` | 08 debut, 09 first birthday, 02 bento, 05 how far ahead |
+| `/anniversary-cakes-cebu/` | 06 bouquet gift, 12 Valentine's, 02 bento |
+| `/wedding-cakes-cebu/` | 03 wedding, 10 custom brief, 05 how far ahead |
+| `/corporate-cake-orders-cebu/` | 07 corporate, 05 how far ahead, 02 bento |
+| `/bento-cakes-cebu/` | 02 bento, 07 corporate, 12 Valentine's |
+| `/bouquet-cakes-cebu/` | 06 bouquet gift, 12 Valentine's, 01 Christmas |
+| `/custom-cakes-cebu/` | 10 custom brief, 11 christening, 08 debut, 03 wedding |
+| `/faq/` | 05 how far ahead, 04 delivery guide, 10 custom brief. Put these in a "Related guides" block **below** the FAQ list. Do not edit the FAQ answers, so the FAQPage schema still matches. |
+| Home page journal section | The 3 newest live posts |
+
+On 02 (bento), replace the old line "Until this is finished, read our bento cakes in Cebu guide" entirely with the new post. Nothing from the stub stays.
+
+## 4. Sitemap and robots
+
+- Add each newly published post to `/sitemap.xml`: `<loc>` = post URL, `<lastmod>` = its publish date, `<changefreq>monthly</changefreq>`, `<priority>0.7</priority>`.
+- Update `<lastmod>` for `/journal/` and for every page where you added cross-links to today's date.
+- Unpublished posts and drafts must not appear in the sitemap.
+- Keep `robots.txt` allowing everything, including AI search crawlers (`OAI-SearchBot`, `GPTBot`, `PerplexityBot`, `Google-Extended`, `ClaudeBot`, `Bingbot`). Do not add Disallow rules for them.
+
+## 5. Optional: `/llms.txt` for AI search
+
+Create `/llms.txt` (plain Markdown). It should contain:
+- a one-paragraph description of the business, using only facts already on the site: cloud kitchen in Lahug, Cebu City; no storefront; three-day minimum notice; Signature Marble (6"), Bouquet Cake and Bento (4"); flavours chocolate, vanilla, ube, mango, red velvet; delivery to Cebu City, Mandaue and Lapu-Lapu; prices not published yet; WhatsApp +63 947 438 2632;
+- links to the product, occasion and area pages, `/faq/`, and every live journal post, each with its meta description.
+
+Update it on each run.
+
+## 6. Checks before you finish
+
+Report back with:
+1. Every file changed or added.
+2. Confirmation that no price or peso amount appears anywhere.
+3. Confirmation that every JSON-LD block is valid (Rich Results Test / schema.org validator syntax), that FAQ text matches the visible text, and that there are no escaped slashes in canonical or `og:url`.
+4. Confirmation that every internal link returns 200 and no link points to an unpublished post.
+5. Confirmation that the sitemap is valid XML and lists only indexable pages.
+6. Confirmation that no draft or placeholder text is left anywhere ("Draft", "Placeholder", "Coming soon", `9XX`).
+
+After publishing, the owner will submit the sitemap and request indexing for the new URLs in Google Search Console and Bing Webmaster Tools.
+
+---
+
+# Full text of the 12 posts
+
+
+<!-- ===== FILE: 01-christmas-cake-delivery-cebu.md ===== -->
+
+---
+title: "Christmas Cake Delivery in Cebu | The White Cakes - Cebu"
+meta_description: "Ordering a Christmas cake in Cebu? How early to message, which cakes travel as gifts, and holiday delivery to Cebu City, Mandaue and Lapu-Lapu."
+h1: "Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake"
+slug: christmas-cake-delivery-cebu
+url: https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html
+publish_date: 2026-11-17
+date_modified: 2026-11-17
+order: 1
+status: new post
+primary_keyword: "Christmas cake delivery Cebu"
+secondary_keywords: ["Christmas cake Cebu", "Noche Buena cake Cebu", "Christmas gift cake Cebu", "cake delivery Mandaue Lapu-Lapu December"]
+internal_links: ["/bouquet-cakes-cebu/", "/bento-cakes-cebu/", "/cake-delivery-cebu-city/", "/cake-delivery-mandaue/", "/cake-delivery-lapu-lapu/", "/journal/buttercream-in-cebu-heat.html", "/faq/"]
+og_image_alt: "Ivory and dusty-blue marble cake with a single piped rose, made to order in Cebu for Christmas"
+---
+
+# Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake
+
+**Quick answer:** To get a Christmas cake delivered in Cebu, message White Cakes at least three days before your date, and earlier in December when the bench fills. We bake to order in Lahug and deliver to Cebu City, Mandaue and Lapu-Lapu within an agreed window. Send your date, cake, flavour and full address for a personalized quote.
+
+> **Photo placeholder (real photo only):** the Signature Marble cake on a simple table with a little greenery. Suggested alt text: "Ivory buttercream cake with dusty-blue marbling and one piped rose, ready for a Christmas table in Cebu"
+
+Christmas in Cebu runs long. The carols start in September. By December the calendar is full: office parties, barkada exchange gifts, family reunions after Simbang Gabi, Noche Buena on the 24th, and Media Noche to close the year. A cake shows up at almost all of them. This guide explains how to get a hand-finished one from our kitchen without last-minute stress.
+
+We are a cloud kitchen in Lahug, so there is no storefront and no walk-in counter. Every cake is baked for the date you name, finished in buttercream by hand, and then picked up by arrangement or delivered. That model shapes everything below.
+
+## What cakes can you order for Christmas from White Cakes?
+
+We are not inventing a special holiday menu. You can order the same three cakes we make all year, plus custom work:
+
+- **Signature Marble.** A 6-inch cake in smooth ivory buttercream with dusty-blue marbling, a shell border and a single rose. It is the centrepiece for a family Noche Buena table or a small reunion dinner. See it on our [custom cakes page](/custom-cakes-cebu/).
+- **Bouquet Cake.** Buttercream rosettes finished like a wrapped bouquet. It is the cake we suggest when it is a gift. More on the [bouquet cakes page](/bouquet-cakes-cebu/).
+- **Bento Cake.** A 4-inch cake with shells, a blush ribbon and one rose, for two people, a desk, or a small thank-you. See the [bento cakes page](/bento-cakes-cebu/).
+
+Flavours are chocolate, vanilla, ube, mango and red velvet. Red velvet and chocolate tend to suit a festive table. Ube is the one a Cebuano lola may be happiest to see.
+
+Our look is Korean-inspired and minimalist: ivory, marble and dusty blue, piped by hand. If you want a seasonal touch, such as a short line like "Merry Christmas, Lola" or a deeper accent colour, send it with your order. We will tell you honestly what buttercream can do on your date. We pipe. We don't print edible sheets or sculpt fondant.
+
+## How early should you order a Christmas cake in Cebu?
+
+Our minimum is **three days before your date**, all year. The cake is mixed and baked for your day. It cools, gets its crumb coat, and only then is it piped and given time to set before it travels. That cannot be rushed.
+
+December is different because many people want the same few dates. Here is how the 2026 calendar works with the three-day rule:
+
+- **Christmas Eve (Thursday, 24 December 2026)** for Noche Buena: message us by **Monday, 21 December** at the very latest. We suggest the first or second week of December.
+- **Christmas Day (Friday, 25 December):** message us first to confirm the date is open before you plan around it.
+- **New Year's Eve (Thursday, 31 December)** for Media Noche: message us by **Monday, 28 December** at the latest.
+- **Office parties and exchange-gift days** in early to mid December: message us as soon as HR sets the date.
+
+Three days is a minimum, not a promise that your day is still free. When the bench is full, we say so in our reply instead of taking an order we cannot finish properly. Our guide on [how to order a custom cake in Cebu](/journal/how-to-order.html) explains the full process.
+
+## Which cake makes the best Christmas gift in Cebu?
+
+For a gift that arrives at someone else's door, choose the **Bouquet Cake**. Around Christmas, many people pair a bunch of roses with a mall cake. A bouquet cake is both in one: flowers you can slice. It looks like a present when the door opens, and it is lower than a tall tier, so it travels more calmly.
+
+For colleagues, a ninong or ninang, or a neighbour, a **Bento Cake** works well. It is small, personal and easy to hand over. It also fits a desk at IT Park or a fridge already full of leftover lechon.
+
+For your own family table, the **Signature Marble** is the centrepiece.
+
+If you want to send cakes to several people, list each one with its address and the line on top. Each cake is piped separately, so the same three-day rule applies to every one.
+
+## Can you deliver Christmas cakes to Cebu City, Mandaue and Lapu-Lapu?
+
+Yes. We deliver to all three cities in December, with a few honest notes about holiday traffic:
+
+- **Cebu City** ([delivery details](/cake-delivery-cebu-city/)): Lahug, IT Park, Banilad, Mabolo, Capitol Site and downtown all get heavy traffic near the malls in December, especially on weekends and paydays. We confirm a delivery window, not an exact minute.
+- **Mandaue** ([delivery details](/cake-delivery-mandaue/)): routes along A.S. Fortuna, U.N. Avenue and toward the reclamation area slow down in the evenings. Villages with gate passes need your name on the guard's list before the driver arrives.
+- **Lapu-Lapu and Mactan** ([delivery details](/cake-delivery-lapu-lapu/)): the bridges to Mactan get congested before the holidays. Resorts need the guest name on the order so security can match it. We build in a buffer, and we will tell you if your ceremony time is not realistic.
+
+Someone must be there to receive the cake. A buttercream cake waiting in a warm vehicle outside a locked gate is exactly what we want to avoid. If your schedule is tight, ask for **pickup in Cebu City** instead. The meeting time and place are confirmed when we accept your order.
+
+## How do you keep a buttercream cake safe until Noche Buena?
+
+Noche Buena is late at night, and Cebu is warm even in December. If the cake arrives in the afternoon:
+
+1. Put it in the fridge, in its closed box, on a shelf away from strong smells like garlic, fish or leftover adobo.
+2. Take it out about 20 to 30 minutes before slicing so the crumb softens and the flavour comes back.
+3. Never leave it in a parked car, on a sunny counter, or near the stove while the ham is cooking.
+
+Our full guide, [keeping a buttercream cake in Cebu heat](/journal/buttercream-in-cebu-heat.html), covers car rides and timing in detail.
+
+## What should you send when you order?
+
+Save a round of back-and-forth by including these in your first message:
+
+- Your name and a mobile number we can reach
+- The date (a calendar day, not "the weekend before Christmas")
+- The cake: Signature Marble, Bouquet, Bento or Custom
+- The flavour
+- The exact words for the top, spelled the way you want them piped
+- Pickup, or delivery with a full address, a landmark and the receiver's number
+- A reference photo if you want something custom
+
+We reply within 24 hours with a confirmation, a question, or an honest no. Prices are not published while we prepare for launch, so every order gets a personalized quote.
+
+## Frequently asked questions
+
+### What is the last day to order a Christmas Eve cake in Cebu?
+Our minimum is three days, so for Thursday, 24 December 2026 the latest is Monday, 21 December. December dates fill quickly, though, so message us in early December. We will confirm whether your date is still open.
+
+### Do you have a special Christmas cake menu?
+No. You can order our Signature Marble, Bouquet Cake, Bento Cake or a custom design in chocolate, vanilla, ube, mango or red velvet. Send a short seasonal line or a reference photo, and we will tell you what buttercream can do.
+
+### Can you deliver a Christmas cake as a gift to someone else's house?
+Yes, within Cebu City, Mandaue and Lapu-Lapu. Give us the recipient's full address, a landmark and the mobile number of whoever will receive it. If it is a surprise, put the message in the order notes. We text the delivery window to you, not to the recipient.
+
+### Do you deliver on Christmas Day and New Year's Day?
+Message us first. Holiday dates depend on the bench schedule, and we will confirm honestly whether your date is available before you plan around it.
+
+### How much is a Christmas cake from White Cakes?
+We have not published prices yet because we are preparing for launch. Send your date, cake, size and address on WhatsApp or Messenger, and we will reply with a personalized quote within 24 hours.
+
+## Order your Christmas cake
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20Christmas%20cake)** or on **[Messenger](https://m.me/thewhitecakes)** with your date, cake and delivery address. We bake in Lahug and deliver to Cebu City, Mandaue and Lapu-Lapu. Please give us at least three days, and more in December.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html#article","headline":"Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake","description":"Ordering a Christmas cake in Cebu? How early to message, which cakes travel as gifts, and holiday delivery to Cebu City, Mandaue and Lapu-Lapu.","abstract":"To get a Christmas cake delivered in Cebu, message White Cakes at least three days before your date, and earlier in December when the bench fills. We bake to order in Lahug and deliver to Cebu City, Mandaue and Lapu-Lapu within an agreed window. Send your date, cake, flavour and full address for a personalized quote.","datePublished":"2026-11-17","dateModified":"2026-11-17","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html"},"url":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"Christmas cake delivery Cebu, Christmas cake Cebu, Noche Buena cake Cebu, Christmas gift cake Cebu, cake delivery Mandaue Lapu-Lapu December","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"Christmas cake delivery Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html#faq","mainEntity":[{"@type":"Question","name":"What is the last day to order a Christmas Eve cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Our minimum is three days, so for Thursday, 24 December 2026 the latest is Monday, 21 December. December dates fill quickly, though, so message us in early December. We will confirm whether your date is still open."}},{"@type":"Question","name":"Do you have a special Christmas cake menu?","acceptedAnswer":{"@type":"Answer","text":"No. You can order our Signature Marble, Bouquet Cake, Bento Cake or a custom design in chocolate, vanilla, ube, mango or red velvet. Send a short seasonal line or a reference photo, and we will tell you what buttercream can do."}},{"@type":"Question","name":"Can you deliver a Christmas cake as a gift to someone else's house?","acceptedAnswer":{"@type":"Answer","text":"Yes, within Cebu City, Mandaue and Lapu-Lapu. Give us the recipient's full address, a landmark and the mobile number of whoever will receive it. If it is a surprise, put the message in the order notes. We text the delivery window to you, not to the recipient."}},{"@type":"Question","name":"Do you deliver on Christmas Day and New Year's Day?","acceptedAnswer":{"@type":"Answer","text":"Message us first. Holiday dates depend on the bench schedule, and we will confirm honestly whether your date is available before you plan around it."}},{"@type":"Question","name":"How much is a Christmas cake from White Cakes?","acceptedAnswer":{"@type":"Answer","text":"We have not published prices yet because we are preparing for launch. Send your date, cake, size and address on WhatsApp or Messenger, and we will reply with a personalized quote within 24 hours."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake","item":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 02-what-is-a-bento-cake.md ===== -->
+
+---
+title: "What Is a Bento Cake? Cebu Guide | The White Cakes - Cebu"
+meta_description: "A bento cake is a small 4-inch cake for one or two people. What it is, who it suits, and how to order a hand-piped bento cake in Cebu."
+h1: "What Is a Bento Cake? A Small-Cake Guide for Cebu"
+slug: what-is-a-bento-cake
+url: https://www.thewhitecakes.com/journal/what-is-a-bento-cake.html
+publish_date: 2026-11-20
+date_modified: 2026-11-20
+order: 2
+status: replaces existing noindex draft (same URL). Remove noindex, add to sitemap.
+primary_keyword: "what is a bento cake"
+secondary_keywords: ["bento cake Cebu", "bento cake delivery Cebu", "mini cake Cebu", "Korean bento cake Cebu"]
+internal_links: ["/bento-cakes-cebu/", "/birthday-cakes-cebu/", "/journal/which-cake.html", "/journal/how-to-order.html", "/cake-delivery-cebu-city/"]
+og_image_alt: "4-inch ivory bento cake with piped shells, a blush ribbon and one rose, made in Cebu"
+---
+
+# What Is a Bento Cake? A Small-Cake Guide for Cebu
+
+**Quick answer:** A bento cake is a small cake, usually about four inches across, made for one to three people and packed in a compact box. At White Cakes in Cebu, our bento is a 4-inch round in ivory buttercream with piped shells, a blush ribbon and one rose. It is baked to order with at least three days' notice.
+
+> **Photo placeholder (real photo only):** a bento cake from directly above, showing the shells and the single rose. Suggested alt text: "Top view of a 4-inch ivory bento cake with piped shells and a single buttercream rose"
+
+If you have scrolled through Cebu food pages recently, you have seen bento cakes: little round cakes in small boxes, often with a short message on top. This guide explains what the term means, who the cake is really for, and how ours differs from the rush versions you may have seen.
+
+## What does "bento" mean on a cake?
+
+The name comes from the Japanese *bento*, a single-portion boxed meal. A bento cake borrows the idea: one small cake, sized for one sitting and packed in a compact box you can carry in one hand. The style spread through Korean cafés and social media. That is why many people in the Philippines call it a "Korean bento cake" or a "lunchbox cake."
+
+There is no official size, but most bento cakes are around four inches in diameter and low in height. Many are minimalist, with a smooth pastel coat, a simple piped border and a short phrase on top. That minimalism is part of why the style suits our kitchen. Our whole collection follows a quiet Korean-inspired look in ivory, marble, blush and dusty blue.
+
+## How big is a bento cake, and who is it for?
+
+Our bento is a **4-inch round**. In practice that means two generous slices, or three modest ones after a meal. It works best for:
+
+- **Two people at one table:** a monthsary, a quiet anniversary, or a "we survived the week" Friday.
+- **A desk celebration:** a colleague's birthday at an IT Park office where a tall cake would be awkward.
+- **Someone celebrating alone:** a student in a Lahug or Talamban boarding house, or a family member working far from home.
+- **A small gift you carry yourself:** a thank-you for a teacher, a ninang, or a friend who helped you move.
+
+A bento is **not** a party centrepiece. If you are feeding a family table, the 6-inch Signature Marble is the better start (see [birthday cakes in Cebu](/birthday-cakes-cebu/)). If you are not sure which cake fits, our guide [Marble, bouquet, or bento](/journal/which-cake.html) walks through the choice.
+
+## Why does a bento cake suit Cebu so well?
+
+Two reasons: traffic and heat.
+
+A low, small cake travels more safely than a tall tier. Think of a ride from Mabolo to Mactan in afternoon traffic, or along A.S. Fortuna into Mandaue at rush hour. A bento fits flat on a car seat. If you mention a motorcycle, it is the cake we will point you to, because it sits in a top box far better than a 6-inch centrepiece.
+
+Buttercream also softens in Cebu warmth. A smaller cake goes from our hands to your table, and from your table into the fridge, more quickly. It is easier to keep cool and easier to finish before it sits out too long.
+
+There is a third, quieter reason. Cebu celebrates a lot: birthdays, monthsaries, promotions, passing the board exam. Not every one of those needs a party. A bento lets you mark the day without making it an event.
+
+## What flavours and messages can you get on a bento cake?
+
+Our bento comes in the same five flavours as the rest of the collection: **chocolate, vanilla, ube, mango and red velvet**. A 4-inch bento is one flavour per cake.
+
+The top has room for a **short line**. "Happy Birthday, Ate," "Congrats, RN," or a name and a date fit comfortably. Send the words exactly as you want them piped, spelling included. If your message is long, tell us and we will say whether it fits a 4-inch top or suggest a shorter version.
+
+Our finish is always hand-piped buttercream: shells around the edge, a blush ribbon and one rose. We do not use printed toppers or edible photo sheets.
+
+## How is a hand-finished bento different from a same-day one?
+
+Same-day bento cakes are easy to find in Cebu. They come from mall counters, marketplace sellers and delivery apps. They are a different product, built for speed: pre-made bases, printed toppers and rush slots.
+
+Ours is built for a named date. We mix and bake for your day, let the cake cool, crumb-coat it, and then pipe the shells, ribbon and rose by hand. That is why we ask for **at least three days**. If you need a cake tonight, we are honestly not the right kitchen. If you want a small cake that looks finished, with your words on it, on a day three or more days away, start here.
+
+## How do you order a bento cake from White Cakes?
+
+1. Choose your date, at least three days out.
+2. Choose a flavour and write the line for the top.
+3. Decide on pickup in Cebu City (arranged when we confirm) or delivery to Cebu City, Mandaue or Lapu-Lapu.
+4. Message us on WhatsApp or Messenger, or use the order form with "Bento" selected.
+
+For delivery, include a full address, a landmark and the mobile number of the person receiving it. Condos near IT Park and Cebu Business Park need lobby instructions. Villages in Banilad or Talamban need a gate note. Our [Cebu City delivery page](/cake-delivery-cebu-city/) has more detail. For the full checklist, read [how to order a custom cake in Cebu](/journal/how-to-order.html).
+
+We reply within 24 hours. Because we are still preparing for launch, prices are not published. Every order gets a personalized quote.
+
+## How should you keep a bento cake before eating it?
+
+Keep it in its box, upright and out of the sun. If you collect it in the morning for an evening celebration, refrigerate it and take it out 20 to 30 minutes before slicing. Do not leave it in a parked car, even briefly. Because it is small, a bento warms up faster than a big cake, so the clock matters more, not less.
+
+## Frequently asked questions
+
+### How many people does a bento cake serve?
+Our 4-inch bento serves two people generously, or three after a meal. For a family table, choose the 6-inch Signature Marble or message us with your guest count.
+
+### Why is it called a bento cake?
+The name borrows from the Japanese bento, a single-portion boxed meal, because the cake is small and packed in a compact box. The style became popular through Korean cafés and social media, which is why it is often called a Korean bento cake.
+
+### Can I order a bento cake for tomorrow in Cebu?
+Not from us. We need at least three days so the cake can be baked, cooled, crumb-coated and hand-piped for your date. Same-day sellers work on a different model.
+
+### Can you write a message on a bento cake?
+Yes. A short line fits on the 4-inch top, such as a name, "Happy Birthday" or a short congratulations. Send the exact spelling. If the message is long, we will tell you whether it fits.
+
+### Do you deliver bento cakes in Cebu?
+Yes, to Cebu City, Mandaue and Lapu-Lapu, with a full address, a landmark and someone to receive it. Pickup in Cebu City is also arranged when we confirm your order.
+
+## Order a bento cake
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20bento%20cake)** or on **[Messenger](https://m.me/thewhitecakes)** with your date, flavour and the line for the top. See the full [bento cakes page](/bento-cakes-cebu/) for details.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/what-is-a-bento-cake.html#article","headline":"What Is a Bento Cake? A Small-Cake Guide for Cebu","description":"A bento cake is a small 4-inch cake for one or two people. What it is, who it suits, and how to order a hand-piped bento cake in Cebu.","abstract":"A bento cake is a small cake, usually about four inches across, made for one to three people and packed in a compact box. At White Cakes in Cebu, our bento is a 4-inch round in ivory buttercream with piped shells, a blush ribbon and one rose. It is baked to order with at least three days' notice.","datePublished":"2026-11-20","dateModified":"2026-11-20","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/what-is-a-bento-cake.html"},"url":"https://www.thewhitecakes.com/journal/what-is-a-bento-cake.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"what is a bento cake, bento cake Cebu, bento cake delivery Cebu, mini cake Cebu, Korean bento cake Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"what is a bento cake"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/what-is-a-bento-cake.html#faq","mainEntity":[{"@type":"Question","name":"How many people does a bento cake serve?","acceptedAnswer":{"@type":"Answer","text":"Our 4-inch bento serves two people generously, or three after a meal. For a family table, choose the 6-inch Signature Marble or message us with your guest count."}},{"@type":"Question","name":"Why is it called a bento cake?","acceptedAnswer":{"@type":"Answer","text":"The name borrows from the Japanese bento, a single-portion boxed meal, because the cake is small and packed in a compact box. The style became popular through Korean cafés and social media, which is why it is often called a Korean bento cake."}},{"@type":"Question","name":"Can I order a bento cake for tomorrow in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Not from us. We need at least three days so the cake can be baked, cooled, crumb-coated and hand-piped for your date. Same-day sellers work on a different model."}},{"@type":"Question","name":"Can you write a message on a bento cake?","acceptedAnswer":{"@type":"Answer","text":"Yes. A short line fits on the 4-inch top, such as a name, \"Happy Birthday\" or a short congratulations. Send the exact spelling. If the message is long, we will tell you whether it fits."}},{"@type":"Question","name":"Do you deliver bento cakes in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Yes, to Cebu City, Mandaue and Lapu-Lapu, with a full address, a landmark and someone to receive it. Pickup in Cebu City is also arranged when we confirm your order."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"What Is a Bento Cake? A Small-Cake Guide for Cebu","item":"https://www.thewhitecakes.com/journal/what-is-a-bento-cake.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 03-how-to-choose-wedding-cake-cebu.md ===== -->
+
+---
+title: "Choosing a Wedding Cake in Cebu | The White Cakes - Cebu"
+meta_description: "How to choose a wedding cake in Cebu: guest count, venue heat, buttercream vs fondant, delivery, and what to send for a quote. No guesswork."
+h1: "How to Choose a Wedding Cake in Cebu"
+slug: how-to-choose-wedding-cake-cebu
+url: https://www.thewhitecakes.com/journal/how-to-choose-wedding-cake-cebu.html
+publish_date: 2026-11-24
+date_modified: 2026-11-24
+order: 3
+status: replaces existing noindex draft (same URL). Remove noindex, add to sitemap.
+primary_keyword: "wedding cake Cebu"
+secondary_keywords: ["how to choose a wedding cake Cebu", "wedding cake Cebu price", "intimate wedding cake Cebu", "buttercream wedding cake Cebu", "Mactan beach wedding cake"]
+internal_links: ["/wedding-cakes-cebu/", "/custom-cakes-cebu/", "/anniversary-cakes-cebu/", "/journal/buttercream-in-cebu-heat.html", "/journal/choosing-a-flavor.html", "/faq/"]
+og_image_alt: "Ivory buttercream wedding cake with dusty-blue marbling and piped roses for an intimate Cebu wedding"
+---
+
+# How to Choose a Wedding Cake in Cebu
+
+**Quick answer:** To choose a wedding cake in Cebu, start with your real guest count, your venue (air-conditioned hall or open-air garden or beach) and the time the cake will be cut. Then pick a finish that survives that setting. White Cakes makes hand-piped buttercream cakes for intimate weddings and quotes from your brief.
+
+> **Photo placeholder (real photo only):** the Signature Marble or a custom ivory cake on a simple cake stand with soft natural light. Suggested alt text: "Ivory buttercream wedding cake with dusty-blue marbling on a cake stand in Cebu"
+
+Cebu has no shortage of wedding settings. Couples choose heritage churches downtown, garden venues up in the Busay and Talamban hills, hotel ballrooms around Cebu Business Park, and beach resorts on Mactan. Each setting asks something different of a cake. This guide walks through the decisions in the order that actually matters.
+
+A note on who we are: White Cakes is a made-to-order cloud kitchen in Lahug, not a hotel pastry shop with display tiers. Our sweet spot is **intimate weddings, civil ceremonies, engagement dinners and rehearsal nights**. These are cakes finished by hand in ivory, blush, dusty blue and sage. If your plan is a towering five-tier for 400 guests, we will tell you honestly whether our bench can do it.
+
+## How many guests does your wedding cake need to serve?
+
+Start with a realistic number, not the invitation list. Then ask how the cake will be served:
+
+- **As dessert after dinner.** Everyone gets a slice, so size matters most.
+- **During cocktails or alongside a dessert table.** Smaller slices, and not every guest takes one.
+- **Mostly for the cake-cutting photo and the couple's first slice.** Many Cebu couples keep the display cake modest and serve guests something else.
+
+Tell us which one it is. A 6-inch cake is right for a civil wedding lunch with immediate family. A larger or tiered cake needs more bench time and earlier planning. We don't publish tier diagrams. We reply with the size and finish we can do for your date.
+
+## Is buttercream or fondant better for a wedding in Cebu?
+
+Both exist for good reasons, but we only work in **buttercream**. It tastes like cake rather than sugar paste, and it gives the soft, piped, minimalist finish of our collection: smooth ivory sides, marbling, shells and roses.
+
+The honest trade-off is heat. Buttercream softens in warm air. Fondant holds up better outdoors, which is why many outdoor weddings use it. If you choose buttercream, plan around it:
+
+- **Air-conditioned venues** (hotel function rooms, restaurants, indoor reception halls) are the easiest.
+- **Open-air gardens and beachfronts** need the cake kept inside or in the shade until it is cut, and set out as close to the cutting as possible.
+- **Afternoon photo sessions** with the cake outdoors are the riskiest moment. Schedule them quickly, or shoot indoors.
+
+Our note on [keeping a buttercream cake in Cebu heat](/journal/buttercream-in-cebu-heat.html) explains what happens to piped cream in a warm room. Tell us the time the cake will be **cut**, not only when it is delivered.
+
+## Intimate wedding or hotel tier: which is right for you?
+
+If you are planning a civil wedding, a small church wedding followed by lunch, or a garden ceremony for fifty, a single beautiful cake usually looks more intentional than a tall stack. Our [Signature Marble](/custom-cakes-cebu/) (ivory, dusty-blue marble, a shell border and one rose) is a natural fit, and so is a custom design built on the same palette.
+
+If your reception is a large ballroom event with a coordinated programme, a hotel package or a specialist wedding cake supplier with an on-site team may suit you better. We say so plainly because we would rather point you in the right direction than overpromise.
+
+For engagement parties, pamamanhikan dinners and anniversaries after the wedding, see our [anniversary cakes page](/anniversary-cakes-cebu/). Many couples come back to the same palette for their first year.
+
+## Which flavour should you choose for a wedding cake?
+
+We bake **chocolate, vanilla, ube, mango and red velvet**. Some quick guidance:
+
+- **Vanilla** lets the design lead and suits mixed-age tables.
+- **Chocolate** is the safest crowd-pleaser.
+- **Ube** feels Filipino and celebratory, and older relatives often love it.
+- **Mango** is bright but softer in heat, so serve it indoors.
+- **Red velvet** works with a bolder palette.
+
+Read [choosing a flavor](/journal/choosing-a-flavor.html) for the longer version. For a larger cake, ask whether a second flavour is possible.
+
+## How much does a wedding cake cost in Cebu?
+
+This is one of the most searched questions, and the honest answer is that it depends on size, number of tiers, finish, date and delivery distance. That is true at every cake maker. We have **not published prices** because we are preparing for launch. Send us your brief and we will reply within 24 hours with what we can make and a personalized quote.
+
+What to include in your message:
+
+1. Wedding date and the time the cake will be cut
+2. Venue name and city (Cebu City, Mandaue, Lapu-Lapu/Mactan)
+3. Indoor air-conditioned, or open air
+4. Realistic guest count and how the cake will be served
+5. Palette (ivory, blush, dusty blue, sage, or your own) and one to three reference photos
+6. Flavour preference
+7. Any words, initials or a date for the cake
+
+Our [wedding cakes page](/wedding-cakes-cebu/) has the same checklist.
+
+## What happens on the wedding day: delivery and setup?
+
+We deliver within Cebu City, Mandaue and Lapu-Lapu. Please plan for these points:
+
+- **Someone at the venue must receive the cake.** Usually that is your coordinator or a venue staff member whose name and number you give us.
+- **Resorts on Mactan** need the guest or event name on the order so security at the gate can match it.
+- **We do not provide on-site cutting or a setup crew.** The cake arrives finished, and the venue or coordinator places it.
+- **Ask your venue** about outside-cake policies and any corkage. That is between you and the venue, and we do not negotiate it.
+
+Delivery is confirmed as a **window**, not an exact minute, because bridge traffic to Mactan and city traffic around wedding hours can shift. Allow a buffer before the programme.
+
+## When should you start talking to a cake maker?
+
+As soon as your date and venue are fixed. Our minimum for any cake is three days, but weddings should come much earlier, especially for multi-tier enquiries or dates in December, around Valentine's, or during Sinulog week in January, when the whole city is busy. Early contact lets us block the bench for your date and tell you honestly what is possible.
+
+## Frequently asked questions
+
+### How far ahead should I order a wedding cake in Cebu?
+Message us as soon as your date and venue are set. Three days is our minimum for any cake, but multi-tier wedding cakes need much more lead time. Busy seasons like December and Valentine's fill early.
+
+### Do you make fondant wedding cakes?
+No. We work only in hand-piped buttercream: smooth ivory, marbling, shells and roses. We do not sculpt fondant or use printed edible sheets.
+
+### Will a buttercream cake survive an outdoor wedding in Cebu?
+It can, with planning. Keep the cake indoors or in the shade until it is cut, set it out as late as possible, and avoid long outdoor photo sessions with it. Tell us the cutting time when you send your brief.
+
+### Do you deliver wedding cakes to resorts in Mactan?
+Yes, we deliver to Lapu-Lapu and Mactan. Give us the venue, the guest or event name for the gate, and the name and number of the person receiving the cake. We confirm a delivery window with a buffer for bridge traffic.
+
+### Do you set up or cut the wedding cake at the venue?
+No. We deliver the finished cake to the person you name at the venue. Placement and cutting are handled by your coordinator or the venue staff.
+
+### How much is a wedding cake from White Cakes?
+Prices are not published yet while we prepare for launch. Send your date, venue, guest count and reference photos, and we will reply within 24 hours with a personalized quote.
+
+## Start your wedding cake brief
+
+Send your date, venue and guest count on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20wedding%20cake)** or **[Messenger](https://m.me/thewhitecakes)**. More answers are in our [FAQ](/faq/).
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/how-to-choose-wedding-cake-cebu.html#article","headline":"How to Choose a Wedding Cake in Cebu","description":"How to choose a wedding cake in Cebu: guest count, venue heat, buttercream vs fondant, delivery, and what to send for a quote. No guesswork.","abstract":"To choose a wedding cake in Cebu, start with your real guest count, your venue (air-conditioned hall or open-air garden or beach) and the time the cake will be cut. Then pick a finish that survives that setting. White Cakes makes hand-piped buttercream cakes for intimate weddings and quotes from your brief.","datePublished":"2026-11-24","dateModified":"2026-11-24","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/how-to-choose-wedding-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/how-to-choose-wedding-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"wedding cake Cebu, how to choose a wedding cake Cebu, wedding cake Cebu price, intimate wedding cake Cebu, buttercream wedding cake Cebu, Mactan beach wedding cake","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"wedding cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/how-to-choose-wedding-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"How far ahead should I order a wedding cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Message us as soon as your date and venue are set. Three days is our minimum for any cake, but multi-tier wedding cakes need much more lead time. Busy seasons like December and Valentine's fill early."}},{"@type":"Question","name":"Do you make fondant wedding cakes?","acceptedAnswer":{"@type":"Answer","text":"No. We work only in hand-piped buttercream: smooth ivory, marbling, shells and roses. We do not sculpt fondant or use printed edible sheets."}},{"@type":"Question","name":"Will a buttercream cake survive an outdoor wedding in Cebu?","acceptedAnswer":{"@type":"Answer","text":"It can, with planning. Keep the cake indoors or in the shade until it is cut, set it out as late as possible, and avoid long outdoor photo sessions with it. Tell us the cutting time when you send your brief."}},{"@type":"Question","name":"Do you deliver wedding cakes to resorts in Mactan?","acceptedAnswer":{"@type":"Answer","text":"Yes, we deliver to Lapu-Lapu and Mactan. Give us the venue, the guest or event name for the gate, and the name and number of the person receiving the cake. We confirm a delivery window with a buffer for bridge traffic."}},{"@type":"Question","name":"Do you set up or cut the wedding cake at the venue?","acceptedAnswer":{"@type":"Answer","text":"No. We deliver the finished cake to the person you name at the venue. Placement and cutting are handled by your coordinator or the venue staff."}},{"@type":"Question","name":"How much is a wedding cake from White Cakes?","acceptedAnswer":{"@type":"Answer","text":"Prices are not published yet while we prepare for launch. Send your date, venue, guest count and reference photos, and we will reply within 24 hours with a personalized quote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"How to Choose a Wedding Cake in Cebu","item":"https://www.thewhitecakes.com/journal/how-to-choose-wedding-cake-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 04-cake-delivery-cebu.md ===== -->
+
+---
+title: "Metro Cebu Cake Delivery Guide | The White Cakes - Cebu"
+meta_description: "Where we deliver cakes in Metro Cebu: Cebu City, Mandaue and Lapu-Lapu. What to send, delivery windows, bridge traffic, and when pickup is better."
+h1: "Cake Delivery in Metro Cebu: Where We Deliver and How It Works"
+slug: cake-delivery-cebu
+url: https://www.thewhitecakes.com/journal/cake-delivery-cebu.html
+publish_date: 2026-11-27
+date_modified: 2026-11-27
+order: 4
+status: new post
+primary_keyword: "cake delivery Cebu"
+secondary_keywords: ["cake delivery Cebu City", "cake delivery Mandaue", "cake delivery Lapu-Lapu", "cake delivery Mactan", "cake delivery IT Park"]
+internal_links: ["/cake-delivery-cebu-city/", "/cake-delivery-mandaue/", "/cake-delivery-lapu-lapu/", "/faq/", "/journal/buttercream-in-cebu-heat.html", "/journal/how-to-order.html"]
+og_image_alt: "Boxed buttercream cake ready for delivery from a Lahug cloud kitchen to Metro Cebu"
+---
+
+# Cake Delivery in Metro Cebu: Where We Deliver and How It Works
+
+**Quick answer:** White Cakes delivers hand-finished buttercream cakes from our Lahug cloud kitchen to Cebu City, Mandaue and Lapu-Lapu (including Mactan). Order at least three days ahead, and send a full address, a landmark and the receiver's mobile number. We confirm a delivery window, not an exact minute. Pickup in Cebu City is also available by arrangement.
+
+> **Photo placeholder (real photo only):** a closed cake box being handed over at a door or condo lobby. Suggested alt text: "White Cakes cake box handed to a customer at a condo lobby in Cebu City"
+
+"Cake delivery Cebu" can mean very different things. Some shops promise a cake within hours. Others pair a bouquet of roses with a mall cake. We are neither. We are a made-to-order kitchen in Lahug, with no storefront and no walk-in counter. We bake each cake for a named date and bring it to you. This guide explains exactly where we deliver, what we need, and what to expect on the day.
+
+## Where does White Cakes deliver in Metro Cebu?
+
+We deliver to three cities:
+
+- **[Cebu City](/cake-delivery-cebu-city/):** Lahug, IT Park, Banilad, Mabolo, Capitol Site, the Ayala and Cebu Business Park area, Talamban, Sambag, downtown and the barangays along the main corridors.
+- **[Mandaue](/cake-delivery-mandaue/):** A.S. Fortuna, U.N. Avenue, Subangdaku, the North Reclamation Area, and subdivisions along the coastal road toward Consolacion.
+- **[Lapu-Lapu and Mactan](/cake-delivery-lapu-lapu/):** Pusok, Maribago, Mactan Newtown, the Punta Engaño road, and resorts and villages across the island.
+
+**Where we don't currently list delivery:** towns outside those three cities, such as Talisay, Consolacion, Liloan or Cordova. If your address is near a boundary, send the pin and a landmark and we will tell you honestly whether we can reach it. If we can't, pickup in Cebu City may still work for you.
+
+## How does delivery work in Cebu City?
+
+Cebu City is our home base. From Lahug, IT Park, Banilad and Mabolo are close, while downtown, the port area and the uphill barangays take longer at peak hours.
+
+- **Condos and offices** (IT Park, Cebu Business Park, Banilad towers) need lobby instructions, the floor and unit number if allowed, and the name of whoever will come down. Guards usually cannot accept a cake on your behalf, and buttercream should not wait in a warm guardhouse.
+- **Villages in Banilad, Talamban and Maria Luisa** often have gate passes. Put your name on the guest list and tell us the phase and block, not only the subdivision name.
+- **Schools and hospitals** need the exact building and a reachable number.
+
+## What should you know about delivery to Mandaue?
+
+Mandaue is right next to Cebu City, but routes along A.S. Fortuna, M.C. Briones (the national highway) and U.N. Avenue slow down at rush hour. Some factory gates in the reclamation area require visitor passes. Arrange the pass before the driver arrives and write the details in your order. A low bento travels more comfortably than a tall cake on a long, warm ride.
+
+## How do deliveries to Lapu-Lapu and Mactan work?
+
+Mactan Island is reached by bridge: the original Mactan–Mandaue Bridge and the Marcelo Fernan Bridge from Mandaue, or the Cebu–Cordova Link Expressway (CCLEX) from Cebu City's South Road Properties. Bridge traffic is unpredictable, especially in the late afternoon, during the December holidays and around Sinulog in January. We build in a buffer.
+
+**Resorts and short-term rentals** along the Punta Engaño road and in Maribago check deliveries at the gate. Put the guest name from the booking on the order, or the driver may be turned away. If the cake must arrive before a fixed time, like a proposal dinner or a ceremony, tell us. We will say honestly whether that window is realistic.
+
+## What do you need to include in a delivery order?
+
+Copy this into your message:
+
+1. **Date of delivery** (a calendar date, at least three days out)
+2. **Full address:** street, building or village, phase/block/lot, barangay, city
+3. **Landmark** visible from the road (a church, a school, a sari-sari store, a gas station)
+4. **Receiver's name and mobile number**, if it is not you
+5. **Gate, lobby or pass instructions**
+6. **Your preferred time range** and the time the cake will be served
+
+If the cake is a surprise, tell us. We text the delivery window to you, not to the recipient, unless you ask otherwise.
+
+## Why do you give a delivery window and not an exact time?
+
+Because Metro Cebu traffic moves in blocks. A flyover closure, a school dismissal on Gorordo Avenue, a fiesta procession or a jam on the bridge can add half an hour without warning. We agree a realistic window when we confirm your order, and we text you when the cake leaves the kitchen.
+
+**Someone must be there to receive it.** A buttercream cake in a parked vehicle outside a locked gate is the situation we work hardest to avoid. Once it arrives, follow our guide on [keeping a buttercream cake in Cebu heat](/journal/buttercream-in-cebu-heat.html). Refrigerate it if the party is hours away.
+
+## Can I order a cake for same-day delivery in Cebu?
+
+Not from us. Every cake needs **at least three days**: it is baked for your date, cooled, crumb-coated and then piped by hand. Same-day cake delivery services in Cebu work on a different model, with ready bases, printed toppers and rush slots. If your date is inside three days, tell us plainly and we will tell you plainly whether anything is possible. Usually the honest answer is no.
+
+## When is pickup better than delivery?
+
+Pickup in Cebu City is arranged when we confirm your order. We don't publish a street address, and the meeting point and time come in our reply. Pickup makes sense when:
+
+- your schedule is tight and you can't guarantee someone at the door,
+- you're heading to a venue outside our delivery cities, or
+- you'd rather carry the cake yourself, flat on a seat with the air-conditioning on.
+
+The full ordering checklist is in [how to order a custom cake in Cebu](/journal/how-to-order.html).
+
+## Frequently asked questions
+
+### Which areas in Cebu do you deliver cakes to?
+We deliver to Cebu City, Mandaue and Lapu-Lapu, including Mactan. That covers areas like Lahug, IT Park, Banilad, Mabolo, Talamban, A.S. Fortuna, the North Reclamation Area, Pusok, Maribago and the Punta Engaño road. Send a pin if you are unsure.
+
+### Do you deliver to Talisay, Consolacion or Cordova?
+They are not in our current delivery list. Send your pin and a landmark and we will confirm honestly. If we can't deliver, pickup in Cebu City may work.
+
+### Do you offer same-day cake delivery in Cebu?
+No. Each cake is baked and hand-piped for your date, so we need at least three days' notice.
+
+### Can you deliver a cake as a surprise?
+Yes. Give us the recipient's address, landmark and number, and put the message in the order notes. We send the delivery window to you, not to the recipient, unless you ask.
+
+### What if nobody is home when the cake arrives?
+Please make sure someone can receive it. A buttercream cake cannot safely wait in a warm vehicle. If your schedule is uncertain, choose pickup in Cebu City instead.
+
+## Order a cake for delivery
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20cake%20for%20delivery)** or **[Messenger](https://m.me/thewhitecakes)** with your date, address and cake. Prices aren't published yet, so you'll get a personalized quote within 24 hours. More answers are in our [FAQ](/faq/).
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/cake-delivery-cebu.html#article","headline":"Cake Delivery in Metro Cebu: Where We Deliver and How It Works","description":"Where we deliver cakes in Metro Cebu: Cebu City, Mandaue and Lapu-Lapu. What to send, delivery windows, bridge traffic, and when pickup is better.","abstract":"White Cakes delivers hand-finished buttercream cakes from our Lahug cloud kitchen to Cebu City, Mandaue and Lapu-Lapu (including Mactan). Order at least three days ahead, and send a full address, a landmark and the receiver's mobile number. We confirm a delivery window, not an exact minute. Pickup in Cebu City is also available by arrangement.","datePublished":"2026-11-27","dateModified":"2026-11-27","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/cake-delivery-cebu.html"},"url":"https://www.thewhitecakes.com/journal/cake-delivery-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"cake delivery Cebu, cake delivery Cebu City, cake delivery Mandaue, cake delivery Lapu-Lapu, cake delivery Mactan, cake delivery IT Park","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"cake delivery Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/cake-delivery-cebu.html#faq","mainEntity":[{"@type":"Question","name":"Which areas in Cebu do you deliver cakes to?","acceptedAnswer":{"@type":"Answer","text":"We deliver to Cebu City, Mandaue and Lapu-Lapu, including Mactan. That covers areas like Lahug, IT Park, Banilad, Mabolo, Talamban, A.S. Fortuna, the North Reclamation Area, Pusok, Maribago and the Punta Engaño road. Send a pin if you are unsure."}},{"@type":"Question","name":"Do you deliver to Talisay, Consolacion or Cordova?","acceptedAnswer":{"@type":"Answer","text":"They are not in our current delivery list. Send your pin and a landmark and we will confirm honestly. If we can't deliver, pickup in Cebu City may work."}},{"@type":"Question","name":"Do you offer same-day cake delivery in Cebu?","acceptedAnswer":{"@type":"Answer","text":"No. Each cake is baked and hand-piped for your date, so we need at least three days' notice."}},{"@type":"Question","name":"Can you deliver a cake as a surprise?","acceptedAnswer":{"@type":"Answer","text":"Yes. Give us the recipient's address, landmark and number, and put the message in the order notes. We send the delivery window to you, not to the recipient, unless you ask."}},{"@type":"Question","name":"What if nobody is home when the cake arrives?","acceptedAnswer":{"@type":"Answer","text":"Please make sure someone can receive it. A buttercream cake cannot safely wait in a warm vehicle. If your schedule is uncertain, choose pickup in Cebu City instead."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Cake Delivery in Metro Cebu: Where We Deliver and How It Works","item":"https://www.thewhitecakes.com/journal/cake-delivery-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 05-how-far-ahead-to-order-a-cake-cebu.md ===== -->
+
+---
+title: "How Early to Order a Cake in Cebu | The White Cakes - Cebu"
+meta_description: "How many days before should you order a cake in Cebu? Why we ask for three days, when to message earlier, and how to get a quick yes."
+h1: "How Far Ahead Should You Order a Cake in Cebu?"
+slug: how-far-ahead-to-order-a-cake-cebu
+url: https://www.thewhitecakes.com/journal/how-far-ahead-to-order-a-cake-cebu.html
+publish_date: 2026-12-01
+date_modified: 2026-12-01
+order: 5
+status: new post
+primary_keyword: "how many days before to order a cake Cebu"
+secondary_keywords: ["cake order lead time Cebu", "advance cake order Cebu", "custom cake how many days", "order cake in advance Cebu City"]
+internal_links: ["/journal/how-to-order.html", "/faq/", "/wedding-cakes-cebu/", "/corporate-cake-orders-cebu/", "/custom-cakes-cebu/"]
+og_image_alt: "Hands piping buttercream shells on an ivory cake in a Cebu kitchen"
+---
+
+# How Far Ahead Should You Order a Cake in Cebu?
+
+**Quick answer:** For a hand-finished custom cake in Cebu, order at least three days before your date. At White Cakes, that is our firm minimum. Weddings, multiple cakes, large debuts and busy dates like Christmas, Valentine's and Sinulog week should be booked one to several weeks earlier. Same-day and next-day orders aren't possible on our bench.
+
+> **Photo placeholder (real photo only):** close-up of hands piping shells or a rose on an ivory cake. Suggested alt text: "Buttercream shell border being piped by hand on an ivory cake in Cebu"
+
+It's the question we get most often, usually phrased as "Pwede pa for Saturday?" The honest answer depends on what is being made and when. This guide explains our three-day rule, what those days are actually for, and when you should message even earlier.
+
+## Why does White Cakes ask for three days' notice?
+
+Because every cake is made for your date, not pulled from a display case. We are a cloud kitchen in Lahug with no counter of ready cakes. When your order comes in, nothing exists yet. The three days protect the parts of the process that cannot be rushed without the finish suffering.
+
+This isn't a negotiating number that bends on a quiet Tuesday. It is the minimum for every cake we make: the 4-inch bento, the Bouquet Cake, the 6-inch Signature Marble and custom work.
+
+## What actually happens during those three days?
+
+Roughly, the work looks like this:
+
+1. **Confirming the order.** We reply within 24 hours with a yes, a question, or an honest no. Details like spelling, flavour, pickup or delivery, and payment are settled here.
+2. **Baking for your date.** The cake is mixed and baked so it is fresh for the day you named, not days before.
+3. **Cooling and crumb coat.** A warm cake can't be coated. Once it cools, a thin first layer of buttercream seals the crumb and needs time to firm up, especially in Cebu's warmth.
+4. **Final coat and piping.** The smooth ivory coat, the dusty-blue marble, the shells, ribbon and roses are all piped by hand.
+5. **Setting before travel.** Piped buttercream needs a little time to set before the cake can ride through traffic to Mandaue or across the bridge to Mactan.
+
+Take any step away and you see it on the cake: soft edges, smudged shells, a rose that slides.
+
+## When should you order a cake even earlier?
+
+Three days is the floor. Message us **earlier** if any of these apply:
+
+- **Weddings and engagement dinners.** Contact us as soon as your date and venue are set. Multi-tier cakes take far more bench time than a single 6-inch. See [wedding cakes in Cebu](/wedding-cakes-cebu/).
+- **Several cakes on one date.** Office birthdays, client gifts or a family ordering for three households: each cake is piped separately. See [corporate cake orders](/corporate-cake-orders-cebu/).
+- **Debuts and large receptions.** A bigger cake for a hotel or function hall needs extra planning.
+- **Custom designs** with a reference photo, where we may need to suggest changes for buttercream. See [custom cakes](/custom-cakes-cebu/).
+- **Busy dates in Cebu:** Christmas Eve and New Year's Eve, Valentine's Day, Sinulog week in January, Mother's Day in May, and graduation season, when everyone wants the same weekend.
+
+For these, a week or more of notice is kinder to everyone, and for weddings, much more. The earlier we know, the more likely your date is still open.
+
+## Can you make a cake for tomorrow or today?
+
+No, and we would rather say so clearly. If your date is inside three days, tell us plainly and we will answer plainly. We don't offer a rush fee to jump the queue, because the limit isn't the price. It is the time the cake needs.
+
+If you truly need a cake today, look for same-day sellers. Several in Cebu are built for that, with ready bases and quick toppers. They are simply a different kind of cake from ours.
+
+## What's the best day to send your order?
+
+As soon as you know the date. A few Cebu-specific tips:
+
+- **Weekend parties:** for a Saturday celebration, message us by Wednesday at the absolute latest, and earlier in the week is better.
+- **Monthsaries and anniversaries:** these dates come around every month or year, so book ahead and stop worrying.
+- **Office celebrations at IT Park or Cebu Business Park:** send the order as soon as HR or your team lead confirms the date, along with lobby and pass details.
+- **Fiesta and family reunions:** Mandaue, Lapu-Lapu and the barangays across Cebu each have fiesta days. If yours falls on a busy weekend, book early.
+
+## How do you send an order so we can say yes quickly?
+
+The fastest orders contain everything in the first message:
+
+- Your name and mobile number
+- The date (a calendar day) and the time the cake will be served
+- The cake: Signature Marble, Bouquet, Bento or Custom
+- The flavour: chocolate, vanilla, ube, mango or red velvet
+- The words for the top, spelled exactly
+- Pickup in Cebu City, or delivery with a full address, a landmark and the receiver's number
+- A reference photo, if custom
+
+Our step-by-step guide is [how to order a custom cake in Cebu](/journal/how-to-order.html), and short answers are on the [FAQ](/faq/). Prices aren't published yet while we prepare for launch, so we send a personalized quote with our reply.
+
+## Frequently asked questions
+
+### How many days before should I order a cake in Cebu?
+At least three days before your date for any White Cakes order. For weddings, several cakes, large events or busy holidays, message us one to several weeks earlier.
+
+### Can I order a cake for tomorrow?
+Not from us. Each cake is baked, cooled, crumb-coated and hand-piped for your date, which takes at least three days.
+
+### Do you charge a rush fee for urgent cakes?
+No. We don't take rush orders, so there is no rush fee. If your date is inside three days, we will tell you honestly that we can't make it.
+
+### How far ahead should I order a wedding cake?
+As soon as your date and venue are fixed. Multi-tier cakes need much more time than our three-day minimum, and popular dates fill early.
+
+### What if I need to change the date after ordering?
+Message us as soon as possible. Whether we can move it depends on the bench schedule, and we will tell you honestly in our reply.
+
+## Book your date
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20book%20a%20cake%20date)** or **[Messenger](https://m.me/thewhitecakes)** with your date and cake. We reply within 24 hours.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/how-far-ahead-to-order-a-cake-cebu.html#article","headline":"How Far Ahead Should You Order a Cake in Cebu?","description":"How many days before should you order a cake in Cebu? Why we ask for three days, when to message earlier, and how to get a quick yes.","abstract":"For a hand-finished custom cake in Cebu, order at least three days before your date. At White Cakes, that is our firm minimum. Weddings, multiple cakes, large debuts and busy dates like Christmas, Valentine's and Sinulog week should be booked one to several weeks earlier. Same-day and next-day orders aren't possible on our bench.","datePublished":"2026-12-01","dateModified":"2026-12-01","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/how-far-ahead-to-order-a-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/how-far-ahead-to-order-a-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"how many days before to order a cake Cebu, cake order lead time Cebu, advance cake order Cebu, custom cake how many days, order cake in advance Cebu City","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"how many days before to order a cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/how-far-ahead-to-order-a-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"How many days before should I order a cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"At least three days before your date for any White Cakes order. For weddings, several cakes, large events or busy holidays, message us one to several weeks earlier."}},{"@type":"Question","name":"Can I order a cake for tomorrow?","acceptedAnswer":{"@type":"Answer","text":"Not from us. Each cake is baked, cooled, crumb-coated and hand-piped for your date, which takes at least three days."}},{"@type":"Question","name":"Do you charge a rush fee for urgent cakes?","acceptedAnswer":{"@type":"Answer","text":"No. We don't take rush orders, so there is no rush fee. If your date is inside three days, we will tell you honestly that we can't make it."}},{"@type":"Question","name":"How far ahead should I order a wedding cake?","acceptedAnswer":{"@type":"Answer","text":"As soon as your date and venue are fixed. Multi-tier cakes need much more time than our three-day minimum, and popular dates fill early."}},{"@type":"Question","name":"What if I need to change the date after ordering?","acceptedAnswer":{"@type":"Answer","text":"Message us as soon as possible. Whether we can move it depends on the bench schedule, and we will tell you honestly in our reply."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"How Far Ahead Should You Order a Cake in Cebu?","item":"https://www.thewhitecakes.com/journal/how-far-ahead-to-order-a-cake-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 06-bouquet-cake-gift-cebu.md ===== -->
+
+---
+title: "Bouquet Cakes as Gifts in Cebu | The White Cakes - Cebu"
+meta_description: "A bouquet cake is flowers you can slice. When to send one in Cebu, what to tell us, and how delivery works in Cebu City, Mandaue and Lapu-Lapu."
+h1: "Bouquet Cakes as a Gift in Cebu: Flowers You Can Slice"
+slug: bouquet-cake-gift-cebu
+url: https://www.thewhitecakes.com/journal/bouquet-cake-gift-cebu.html
+publish_date: 2026-12-04
+date_modified: 2026-12-04
+order: 6
+status: new post
+primary_keyword: "bouquet cake Cebu"
+secondary_keywords: ["cake bouquet delivery Cebu", "flower cake gift Cebu", "anniversary cake delivery Cebu", "thank you cake Cebu"]
+internal_links: ["/bouquet-cakes-cebu/", "/anniversary-cakes-cebu/", "/cake-delivery-cebu-city/", "/journal/which-cake.html", "/journal/how-to-order.html"]
+og_image_alt: "Buttercream bouquet cake with piped rosettes, a tissue-style wrap and a bow, made in Cebu"
+---
+
+# Bouquet Cakes as a Gift in Cebu: Flowers You Can Slice
+
+**Quick answer:** A bouquet cake is a buttercream cake piped with rosettes and finished like a wrapped bouquet, so it looks like flowers and tastes like cake. In Cebu, it is a thoughtful gift for anniversaries, thank-yous and get-well wishes. White Cakes bakes each one to order with three days' notice and delivers to Cebu City, Mandaue and Lapu-Lapu.
+
+> **Photo placeholder (real photo only):** the Bouquet Cake from a slight angle, showing the rosettes, pleated collar and bow. Suggested alt text: "Bouquet cake with piped buttercream rosettes, a pleated tissue-style collar and a bow"
+
+In Cebu, a gift often comes in two parts: a bunch of roses from a flower shop and a cake from the mall. A bouquet cake puts both in one box. This guide explains what ours is, when it is the right gift, and how to send one so it arrives looking the way it should.
+
+## What exactly is a bouquet cake?
+
+Our [Bouquet Cake](/bouquet-cakes-cebu/) is buttercream piped into rosettes, with sage leaves tucked between them. The collar is pleated like tissue wrapping, pearls run along the edge, and a bow sits at the waist. It reads as a bouquet on arrival and becomes dessert once someone picks up a knife.
+
+It is lower and softer than our Signature Marble. "Bouquet" describes the finish, not one fixed size. Tell us the table or the number of people and we confirm the scale when we reply. All five flavours are available: chocolate, vanilla, ube, mango and red velvet.
+
+Every rosette is piped by hand. We don't use printed sheets, wafer-paper flowers or artificial stems.
+
+## When is a bouquet cake the right gift?
+
+Choose a bouquet cake when the person would rather be given flowers than a tall birthday cake with candles:
+
+- **Anniversaries and monthsaries.** Soft, romantic and sized for a dinner for two or a small family table. See [anniversary cakes](/anniversary-cakes-cebu/).
+- **Thank-you gifts.** For a ninang who helped with the wedding, a doctor or nurse after a hospital stay, or a teacher at the end of the school year.
+- **Mother's Day and lola's birthday.** For the woman in the family who always says "Ayaw na, sayang ra" when you buy flowers.
+- **Congratulations.** A new job, passing the boards, a new home in Talamban or a first condo near IT Park.
+- **A table that wants colour more than height,** like a merienda, a small lunch or a despedida.
+
+If children are waiting to see their name on a cake with candles, choose the Signature Marble instead. Our guide [Marble, bouquet, or bento](/journal/which-cake.html) explains the difference.
+
+## Why send a bouquet cake instead of flowers and a cake?
+
+Practically, it is one delivery instead of two, one box to receive instead of two, and nothing to throw away a few days later. A bouquet cake doesn't wilt on the dining table, and everyone at home gets a slice.
+
+It also says something different. A grocery cake plus roses is familiar. A hand-piped bouquet in ivory, blush and dusty blue shows that someone planned ahead, at least three days ahead in fact.
+
+## What should you tell us when sending a bouquet cake as a gift?
+
+Gifts go wrong when the delivery details are thin. Include:
+
+1. **Who it is for,** with their name for the order notes.
+2. **The line on the cake,** spelled exactly ("Happy Anniversary, Mahal," "Salamat, Doc," "Happy 70th, Lola").
+3. **The date,** at least three days out.
+4. **The full delivery address**: street, building or village, unit or block and lot, barangay and city.
+5. **A landmark** visible from the road.
+6. **The receiver's mobile number,** or the person who will open the door.
+7. **Surprise or not.** If it is a surprise, we text the delivery window to you, not to them.
+
+Our full checklist is in [how to order a custom cake in Cebu](/journal/how-to-order.html).
+
+## How does a bouquet cake arrive looking like a bouquet?
+
+The finish is the gift, so we plan around protecting it:
+
+- We confirm a **delivery window** that suits the recipient, not just the sender.
+- **Someone must receive it.** Guards at condo lobbies around Cebu Business Park and IT Park usually can't hold a cake, and a buttercream bouquet shouldn't wait in a warm guardhouse.
+- For **villages in Banilad, Talamban or Mandaue**, put the recipient's name on the gate list.
+- For **Mactan resorts and homes**, give the guest name for gate checks and allow for bridge traffic.
+
+Delivery details for each city are on the [Cebu City](/cake-delivery-cebu-city/), Mandaue and Lapu-Lapu pages.
+
+## How should the recipient keep a bouquet cake?
+
+A short note for whoever receives it:
+
+- Keep it upright, in its box, out of the sun.
+- If it will be served later that day, refrigerate it in the closed box, away from strong-smelling food.
+- Take it out 20 to 30 minutes before slicing.
+- Don't leave it in a car or by a sunny window. Cebu afternoons soften piped flowers quickly.
+
+You might even forward these lines to the recipient with your message.
+
+## Frequently asked questions
+
+### What is a bouquet cake?
+It is a buttercream cake piped with rosettes and sage leaves and finished like a wrapped bouquet, with a pleated collar, pearls and a bow. It looks like flowers and is sliced like a cake.
+
+### Can I send a bouquet cake to someone in Cebu as a surprise?
+Yes. We deliver to Cebu City, Mandaue and Lapu-Lapu. Give us the recipient's address, landmark and number, and mark it as a surprise. We text the delivery window to you only.
+
+### How big is your bouquet cake?
+Bouquet describes the finish rather than a single size. Tell us the number of people or the table, and we confirm the scale in our reply.
+
+### Are the flowers on the bouquet cake real?
+No. Every flower is piped by hand in buttercream. We don't put fresh or artificial flowers on the cake. Ask us if you want to know which parts of the finish are edible.
+
+### How far ahead should I order a bouquet cake?
+At least three days before the date. For Valentine's, Mother's Day and December, message us earlier because those dates fill quickly.
+
+## Send a bouquet cake
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20send%20a%20bouquet%20cake)** or **[Messenger](https://m.me/thewhitecakes)** with the date, the recipient's address and the line for the top. Prices aren't published yet, so we will send you a personalized quote.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/bouquet-cake-gift-cebu.html#article","headline":"Bouquet Cakes as a Gift in Cebu: Flowers You Can Slice","description":"A bouquet cake is flowers you can slice. When to send one in Cebu, what to tell us, and how delivery works in Cebu City, Mandaue and Lapu-Lapu.","abstract":"A bouquet cake is a buttercream cake piped with rosettes and finished like a wrapped bouquet, so it looks like flowers and tastes like cake. In Cebu, it is a thoughtful gift for anniversaries, thank-yous and get-well wishes. White Cakes bakes each one to order with three days' notice and delivers to Cebu City, Mandaue and Lapu-Lapu.","datePublished":"2026-12-04","dateModified":"2026-12-04","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/bouquet-cake-gift-cebu.html"},"url":"https://www.thewhitecakes.com/journal/bouquet-cake-gift-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"bouquet cake Cebu, cake bouquet delivery Cebu, flower cake gift Cebu, anniversary cake delivery Cebu, thank you cake Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"bouquet cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/bouquet-cake-gift-cebu.html#faq","mainEntity":[{"@type":"Question","name":"What is a bouquet cake?","acceptedAnswer":{"@type":"Answer","text":"It is a buttercream cake piped with rosettes and sage leaves and finished like a wrapped bouquet, with a pleated collar, pearls and a bow. It looks like flowers and is sliced like a cake."}},{"@type":"Question","name":"Can I send a bouquet cake to someone in Cebu as a surprise?","acceptedAnswer":{"@type":"Answer","text":"Yes. We deliver to Cebu City, Mandaue and Lapu-Lapu. Give us the recipient's address, landmark and number, and mark it as a surprise. We text the delivery window to you only."}},{"@type":"Question","name":"How big is your bouquet cake?","acceptedAnswer":{"@type":"Answer","text":"Bouquet describes the finish rather than a single size. Tell us the number of people or the table, and we confirm the scale in our reply."}},{"@type":"Question","name":"Are the flowers on the bouquet cake real?","acceptedAnswer":{"@type":"Answer","text":"No. Every flower is piped by hand in buttercream. We don't put fresh or artificial flowers on the cake. Ask us if you want to know which parts of the finish are edible."}},{"@type":"Question","name":"How far ahead should I order a bouquet cake?","acceptedAnswer":{"@type":"Answer","text":"At least three days before the date. For Valentine's, Mother's Day and December, message us earlier because those dates fill quickly."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Bouquet Cakes as a Gift in Cebu: Flowers You Can Slice","item":"https://www.thewhitecakes.com/journal/bouquet-cake-gift-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 07-corporate-office-cakes-cebu.md ===== -->
+
+---
+title: "Corporate & Office Cakes in Cebu | The White Cakes - Cebu"
+meta_description: "Ordering cakes for an office in Cebu? Bento sets for teams, client gifts, IT Park and Mactan delivery, lobby passes and lead times explained."
+h1: "Corporate and Office Cakes in Cebu: A Practical Guide for Teams"
+slug: corporate-office-cakes-cebu
+url: https://www.thewhitecakes.com/journal/corporate-office-cakes-cebu.html
+publish_date: 2026-12-08
+date_modified: 2026-12-08
+order: 7
+status: new post
+primary_keyword: "corporate cake Cebu"
+secondary_keywords: ["office birthday cake Cebu", "IT Park cake delivery", "client gift cake Cebu", "bento cakes for office Cebu", "company cake order Mandaue"]
+internal_links: ["/corporate-cake-orders-cebu/", "/bento-cakes-cebu/", "/custom-cakes-cebu/", "/cake-delivery-cebu-city/", "/cake-delivery-mandaue/", "/faq/"]
+og_image_alt: "Several 4-inch bento cakes lined up for an office celebration in Cebu"
+---
+
+# Corporate and Office Cakes in Cebu: A Practical Guide for Teams
+
+**Quick answer:** For office cakes in Cebu, order one shared cake for a team table or several 4-inch bento cakes for individual desks or client gifts. White Cakes delivers to offices in Cebu City (including IT Park and Cebu Business Park), Mandaue and Lapu-Lapu. Order at least three days ahead with the company name, lobby instructions and a receiving contact.
+
+> **Photo placeholder (real photo only):** a row of bento cakes on a clean office table. Suggested alt text: "Row of ivory bento cakes with blush ribbons for a team celebration at a Cebu office"
+
+Cebu runs on offices. There are BPO towers at Cebu IT Park, headquarters in Cebu Business Park, warehouses and showrooms in Mandaue, and factories in the Mactan Economic Zone. All of them celebrate: birthdays every month, promotions, anniversaries, Christmas parties, client visits. This guide is for the admin, HR lead or team captain who has been asked to "handle the cake."
+
+## What do offices usually order: one big cake or several small ones?
+
+There are two common approaches, and the right one depends on how your team actually gathers.
+
+**One shared cake.** For a team huddle around a pantry table or a boardroom celebration, a 6-inch [Signature Marble](/custom-cakes-cebu/) or a Bouquet Cake makes a clear centrepiece. Ask us about a larger size if your team is big. We confirm what the bench can do for your date.
+
+**Several bento cakes.** For hybrid teams, night-shift and day-shift splits, or client gifts, 4-inch [bento cakes](/bento-cakes-cebu/) work better. Each person gets a finished cake with their name, and nobody fights over the last slice at 3 a.m. Each bento is piped separately, so send a list with names and flavours if they differ.
+
+Flavours for both are chocolate, vanilla, ube, mango and red velvet. Chocolate is the safest for a mixed office. Ube makes the Filipino teammates happy.
+
+## Can you put our company logo on a cake?
+
+We don't print logos. We pipe in buttercream and don't use edible photo sheets. What we can do is take **your brand colours** as the palette for a custom cake, and pipe a short line like the company name, "Happy 5th Anniversary, Team" or "Welcome to Cebu." Send reference images and we will tell you honestly what translates to buttercream. See our [corporate cake orders page](/corporate-cake-orders-cebu/).
+
+## How does delivery work for offices at IT Park, downtown, Mandaue and Mactan?
+
+We deliver to offices across our three cities:
+
+- **Cebu IT Park and Lahug:** close to our kitchen, but the towers have strict lobbies. [Cebu City delivery details](/cake-delivery-cebu-city/).
+- **Cebu Business Park and the Ayala area:** heavy traffic at lunch and after 5 p.m. Plan the window early in the day.
+- **Downtown and the port area:** allow extra time.
+- **Mandaue:** offices along A.S. Fortuna, the North Reclamation Area and U.N. Avenue. Factory gates often need passes. [Mandaue delivery details](/cake-delivery-mandaue/).
+- **Lapu-Lapu and Mactan:** economic zone gates and bridge traffic. Arrange the gate pass in advance and expect a wider window.
+
+We always agree a **delivery window**, not an exact minute, because Metro Cebu traffic moves in blocks.
+
+## What should you include on a corporate cake order?
+
+A complete first message saves a day of back-and-forth:
+
+1. **Company name** and the name of the person ordering
+2. **Contact mobile number** (one that is answered during the delivery window)
+3. **Delivery address:** tower, floor, unit, street and city, plus a landmark
+4. **Lobby or gate instructions:** visitor pass, loading bay, which entrance
+5. **Receiving person:** name and number of whoever will come down
+6. **Date and time range,** at least three days ahead
+7. **Quantity, cake type and flavours**, with a list of names if each cake is personalised
+8. **Words for each cake,** spelled exactly
+
+**Important:** security guards usually can't accept or hold a cake for you, and buttercream shouldn't sit in a warm guardhouse. Have someone ready to receive it.
+
+## How much lead time and what about billing?
+
+**Lead time:** at least three days per order, even for many bentos, because every cake is piped by hand. For monthly team birthdays, send all the dates for the month in one message. For Christmas parties in December, message us as soon as the date is set, since December fills quickly.
+
+**Billing:** the payment method is confirmed when we reply to your order. If your procurement team needs a formal quotation, ask on WhatsApp. We will tell you exactly what we can provide. We don't publish prices yet because we are preparing for launch, so every order gets a personalized quote.
+
+## Are cakes good client gifts in Cebu?
+
+They can be, if they travel well. A **bento cake** is easy to hand over at a client lunch. A **Bouquet Cake** works for a client anniversary or a thank-you to a partner company, delivered with their name on top. For gifts that go to a client's home or office, give us the recipient's details and mark it a surprise. We text the window to you, not to them.
+
+For Christmas client gifting, start early. A dozen hand-piped bentos for the same December week needs real bench time.
+
+## Frequently asked questions
+
+### Do you deliver cakes to IT Park offices?
+Yes. Cebu IT Park is close to our Lahug kitchen. Send the tower, floor, lobby instructions and the name and number of the person who will receive the cake.
+
+### Can you print our company logo on a cake?
+No. We don't use edible print sheets. We can use your brand colours as the palette and pipe the company name or a short message in buttercream.
+
+### Can we order several bento cakes for a team?
+Yes. Send the quantity, flavours and a list of names if each cake is personalised. Each one is piped separately, and we need at least three days' notice.
+
+### Can you provide a quotation for our procurement team?
+Ask us on WhatsApp with your order details. Prices aren't published yet, and we will tell you exactly what quotation and payment details we can provide for your order.
+
+### Do you deliver to offices in Mactan and Mandaue?
+Yes, we deliver to Mandaue and Lapu-Lapu, including Mactan. Arrange gate passes in advance and allow for a wider delivery window because of bridge traffic.
+
+## Order cakes for your office
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20cakes%20for%20our%20office)** or **[Messenger](https://m.me/thewhitecakes)** with your company name, date, quantity and address. More answers are in our [FAQ](/faq/).
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/corporate-office-cakes-cebu.html#article","headline":"Corporate and Office Cakes in Cebu: A Practical Guide for Teams","description":"Ordering cakes for an office in Cebu? Bento sets for teams, client gifts, IT Park and Mactan delivery, lobby passes and lead times explained.","abstract":"For office cakes in Cebu, order one shared cake for a team table or several 4-inch bento cakes for individual desks or client gifts. White Cakes delivers to offices in Cebu City (including IT Park and Cebu Business Park), Mandaue and Lapu-Lapu. Order at least three days ahead with the company name, lobby instructions and a receiving contact.","datePublished":"2026-12-08","dateModified":"2026-12-08","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/corporate-office-cakes-cebu.html"},"url":"https://www.thewhitecakes.com/journal/corporate-office-cakes-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"corporate cake Cebu, office birthday cake Cebu, IT Park cake delivery, client gift cake Cebu, bento cakes for office Cebu, company cake order Mandaue","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"corporate cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/corporate-office-cakes-cebu.html#faq","mainEntity":[{"@type":"Question","name":"Do you deliver cakes to IT Park offices?","acceptedAnswer":{"@type":"Answer","text":"Yes. Cebu IT Park is close to our Lahug kitchen. Send the tower, floor, lobby instructions and the name and number of the person who will receive the cake."}},{"@type":"Question","name":"Can you print our company logo on a cake?","acceptedAnswer":{"@type":"Answer","text":"No. We don't use edible print sheets. We can use your brand colours as the palette and pipe the company name or a short message in buttercream."}},{"@type":"Question","name":"Can we order several bento cakes for a team?","acceptedAnswer":{"@type":"Answer","text":"Yes. Send the quantity, flavours and a list of names if each cake is personalised. Each one is piped separately, and we need at least three days' notice."}},{"@type":"Question","name":"Can you provide a quotation for our procurement team?","acceptedAnswer":{"@type":"Answer","text":"Ask us on WhatsApp with your order details. Prices aren't published yet, and we will tell you exactly what quotation and payment details we can provide for your order."}},{"@type":"Question","name":"Do you deliver to offices in Mactan and Mandaue?","acceptedAnswer":{"@type":"Answer","text":"Yes, we deliver to Mandaue and Lapu-Lapu, including Mactan. Arrange gate passes in advance and allow for a wider delivery window because of bridge traffic."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Corporate and Office Cakes in Cebu: A Practical Guide for Teams","item":"https://www.thewhitecakes.com/journal/corporate-office-cakes-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 08-debut-cake-cebu.md ===== -->
+
+---
+title: "Debut Cakes in Cebu: 18th Birthday | The White Cakes - Cebu"
+meta_description: "Planning a debut in Cebu? What an 18th birthday cake needs to do, sizing, colour and motif, lead time, venue delivery and how to brief us."
+h1: "Debut Cakes in Cebu: Choosing an 18th Birthday Cake"
+slug: debut-cake-cebu
+url: https://www.thewhitecakes.com/journal/debut-cake-cebu.html
+publish_date: 2026-12-11
+date_modified: 2026-12-11
+order: 8
+status: new post
+primary_keyword: "debut cake Cebu"
+secondary_keywords: ["18th birthday cake Cebu", "debutante cake Cebu", "debut cake delivery Cebu City", "elegant debut cake"]
+internal_links: ["/birthday-cakes-cebu/", "/custom-cakes-cebu/", "/wedding-cakes-cebu/", "/journal/how-to-order.html", "/cake-delivery-cebu-city/"]
+og_image_alt: "Ivory and dusty-blue buttercream cake with piped roses and the number 18 for a debut in Cebu"
+---
+
+# Debut Cakes in Cebu: Choosing an 18th Birthday Cake
+
+**Quick answer:** A debut cake in Cebu should match the reception's palette, survive the venue's temperature and look beautiful in photos at the cake-cutting. Choose one generous centrepiece for a hall or a smaller family cake for an intimate party. Order from White Cakes at least three days ahead, and much earlier for large receptions.
+
+> **Photo placeholder (real photo only):** an ivory cake with piped roses and a simple "18" or name on top. Suggested alt text: "Elegant ivory buttercream debut cake with piped roses and a name on top, Cebu"
+
+The debut is one of the biggest celebrations in a Filipina's life. It marks her 18th birthday, often with a formal reception, a cotillion, the 18 roses dance, 18 candles and 18 treasures from the people closest to her. In Cebu, debuts take place in hotel function rooms, restaurants, garden venues, clubhouses in Banilad and Talamban villages, and family homes. The cake sits in the middle of it all. This guide is for the debutante, her parents, or the titas who were given the job.
+
+## What does a debut cake need to do at a Cebu reception?
+
+A debut cake has three jobs:
+
+1. **Look right in photos.** The cake is in the cake-cutting shot, behind the debutante for the candle ceremony, and in a hundred phone pictures.
+2. **Match the theme.** Debut themes are often colour-led: dusty blue, blush, sage, ivory, champagne. A cake in the same palette ties the stage together.
+3. **Taste good and serve the guests you plan to serve.** Some families slice it for everyone. Others treat it as a display cake and serve another dessert.
+
+Our style is Korean-inspired minimalist: hand-piped buttercream, smooth ivory, marbling, shells and roses. For a debut that leans elegant rather than cartoonish, it fits naturally.
+
+## What size debut cake should you choose?
+
+It depends on the reception:
+
+- **Intimate family debut** (dinner at home or at a restaurant with close family and friends): our 6-inch [Signature Marble](/custom-cakes-cebu/) or a Bouquet Cake can be enough as a centrepiece.
+- **Mid-size reception** (a clubhouse or function room with friends and relatives): tell us the guest count. A larger single cake may be possible depending on your date.
+- **Large hotel debut** with a full programme and many guests: tell us early. Bigger and taller cakes need much more bench time. If what you need is beyond what our bench can finish properly, we will say so honestly instead of overpromising.
+
+Also tell us **how the cake will be served**: sliced for every guest, or mainly for the ceremony and photos.
+
+## Can you put "18" or her name on a debut cake?
+
+Yes. Hand-piped lettering suits a debut well: her name, "18," "Happy 18th," or a short line in the theme. Send the words spelled exactly. Double-check the spelling of names with an unusual letter or an "h" (Jhanelle, Kristine with a K).
+
+For colour and motif, send the invitation, a mood board or two or three reference photos. We pipe buttercream, so roses, shells, marbling and soft colour work very well. Fondant figures, sculpted crowns and edible photo prints are **not** what we do. If a reference relies on them, we will suggest a buttercream version or tell you plainly.
+
+For more birthday ideas across ages, see [birthday cakes in Cebu](/birthday-cakes-cebu/).
+
+## Which flavour works best for a debut crowd?
+
+We bake **chocolate, vanilla, ube, mango and red velvet**:
+
+- **Chocolate** is the crowd-pleaser for teenagers and titos alike.
+- **Red velvet** suits blush or deep-rose themes.
+- **Ube** is the Filipino favourite, and grandparents tend to love it.
+- **Vanilla** works for a pastel theme where the design leads.
+- **Mango** is bright and summery, but best for air-conditioned venues.
+
+## How early should you order a debut cake, and can you deliver to the venue?
+
+Our minimum is **three days**, but debuts are planned months ahead. Message us as soon as you have the date and venue, especially for larger cakes, December or summer-season dates, or dates near Sinulog in January.
+
+We deliver to venues in **Cebu City, Mandaue and Lapu-Lapu**. For hotels and function halls, give us:
+
+- the venue name, the room or hall, and the loading entrance,
+- the coordinator's or venue contact's name and number,
+- the time the cake should arrive and the time it will be cut.
+
+We don't provide on-site setup or cutting, so the venue or coordinator places the cake. Delivery is confirmed as a window. For Mactan resorts, add the event name for gate clearance. Details for the city are on our [Cebu City delivery page](/cake-delivery-cebu-city/).
+
+**Heat note:** if the reception is outdoors, keep the cake in an air-conditioned room until the programme reaches it.
+
+## How do you brief us for a debut cake?
+
+Copy this into your message:
+
+1. Debut date, venue and city
+2. Indoor (AC) or outdoor
+3. Guest count and how the cake will be served
+4. Theme colours and two or three reference photos
+5. Words on the cake (name, "18")
+6. Flavour
+7. Coordinator's name and number
+
+Our guide [how to order a custom cake in Cebu](/journal/how-to-order.html) has the full checklist. For formal palettes, our [wedding cakes page](/wedding-cakes-cebu/) shows how we think about large-event briefs.
+
+## Frequently asked questions
+
+### How far ahead should I order a debut cake in Cebu?
+At least three days is our minimum. Debuts with large receptions should message us as soon as the date and venue are set so we can confirm what the bench can do.
+
+### Can you make a multi-tier debut cake?
+Possibly, depending on the size and your date. Tall cakes need much more bench time, so message us early with the guest count. If it is beyond what we can finish properly, we will tell you honestly.
+
+### Do you make fondant debut cakes with figurines?
+No. We work in hand-piped buttercream with roses, shells, marbling and lettering. We will suggest a buttercream version of your reference or tell you plainly if it isn't possible.
+
+### Can you deliver the debut cake to a hotel in Cebu?
+Yes, within Cebu City, Mandaue and Lapu-Lapu. Give us the venue, the hall, the coordinator's contact, and the arrival and cutting times. We deliver but don't set up on site.
+
+### How much is a debut cake?
+Prices aren't published yet while we prepare for launch. Send your date, guest count and theme, and we will reply within 24 hours with a personalized quote.
+
+## Plan her debut cake
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20debut%20cake)** or **[Messenger](https://m.me/thewhitecakes)** with the date, venue and theme.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/debut-cake-cebu.html#article","headline":"Debut Cakes in Cebu: Choosing an 18th Birthday Cake","description":"Planning a debut in Cebu? What an 18th birthday cake needs to do, sizing, colour and motif, lead time, venue delivery and how to brief us.","abstract":"A debut cake in Cebu should match the reception's palette, survive the venue's temperature and look beautiful in photos at the cake-cutting. Choose one generous centrepiece for a hall or a smaller family cake for an intimate party. Order from White Cakes at least three days ahead, and much earlier for large receptions.","datePublished":"2026-12-11","dateModified":"2026-12-11","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/debut-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/debut-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"debut cake Cebu, 18th birthday cake Cebu, debutante cake Cebu, debut cake delivery Cebu City, elegant debut cake","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"debut cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/debut-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"How far ahead should I order a debut cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"At least three days is our minimum. Debuts with large receptions should message us as soon as the date and venue are set so we can confirm what the bench can do."}},{"@type":"Question","name":"Can you make a multi-tier debut cake?","acceptedAnswer":{"@type":"Answer","text":"Possibly, depending on the size and your date. Tall cakes need much more bench time, so message us early with the guest count. If it is beyond what we can finish properly, we will tell you honestly."}},{"@type":"Question","name":"Do you make fondant debut cakes with figurines?","acceptedAnswer":{"@type":"Answer","text":"No. We work in hand-piped buttercream with roses, shells, marbling and lettering. We will suggest a buttercream version of your reference or tell you plainly if it isn't possible."}},{"@type":"Question","name":"Can you deliver the debut cake to a hotel in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Yes, within Cebu City, Mandaue and Lapu-Lapu. Give us the venue, the hall, the coordinator's contact, and the arrival and cutting times. We deliver but don't set up on site."}},{"@type":"Question","name":"How much is a debut cake?","acceptedAnswer":{"@type":"Answer","text":"Prices aren't published yet while we prepare for launch. Send your date, guest count and theme, and we will reply within 24 hours with a personalized quote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Debut Cakes in Cebu: Choosing an 18th Birthday Cake","item":"https://www.thewhitecakes.com/journal/debut-cake-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 09-first-birthday-sinulog-cake-cebu.md ===== -->
+
+---
+title: "First Birthday & Sinulog Cakes | The White Cakes - Cebu"
+meta_description: "Planning a first birthday in Cebu around Sinulog? When to order, festival traffic and delivery windows, and soft-palette cakes for a baby's party."
+h1: "First Birthday Cakes in Cebu, and Ordering Around Sinulog Week"
+slug: first-birthday-sinulog-cake-cebu
+url: https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html
+publish_date: 2026-12-15
+date_modified: 2026-12-15
+order: 9
+status: new post (seasonal, publish mid-December for January)
+primary_keyword: "first birthday cake Cebu"
+secondary_keywords: ["Sinulog cake Cebu", "1st birthday cake Cebu City", "baby birthday cake Cebu", "cake delivery during Sinulog"]
+internal_links: ["/birthday-cakes-cebu/", "/custom-cakes-cebu/", "/cake-delivery-cebu-city/", "/cake-delivery-lapu-lapu/", "/journal/how-far-ahead-to-order-a-cake-cebu.html"]
+og_image_alt: "Soft blush and ivory buttercream cake with a piped number 1 for a first birthday in Cebu"
+---
+
+# First Birthday Cakes in Cebu, and Ordering Around Sinulog Week
+
+**Quick answer:** For a first birthday cake in Cebu, choose a soft-palette centrepiece like our 6-inch Signature Marble, plus an optional small bento for the baby. Order at least three days ahead. If the party falls in January near Sinulog (traditionally the third Sunday, 17 January in 2027), book one to two weeks early and expect wider delivery windows.
+
+> **Photo placeholder (real photo only):** a soft blush or dusty-blue cake with a piped "1" next to a small bento. Suggested alt text: "First birthday buttercream cake with a piped number one and a small bento cake beside it"
+
+In Filipino families, a baby's first birthday is a big day, often bigger than any birthday that follows for years. Relatives come from the province, ninongs and ninangs arrive with gifts, and the handaan fills the house or the function room. In Cebu, many of those parties land in January, right around Sinulog, when the city is at its busiest. This guide covers both: the cake, and the calendar.
+
+## What makes a good first birthday cake?
+
+A first birthday cake is mostly for the parents, the lolas and the photos. Baby will mostly be curious about the candle. That means:
+
+- **It should photograph well** next to the baby, the backdrop and the balloons.
+- **It should carry the name and the "1"** clearly.
+- **It should feed the adults** you are actually serving it to.
+
+Our [Signature Marble](/custom-cakes-cebu/) (6-inch ivory buttercream with dusty-blue marbling, a shell border and a single rose) is a calm, elegant centrepiece for a family table. For a girl's party, many parents prefer a blush palette. For a boy, dusty blue or sage. All of it is hand-piped buttercream. See [birthday cakes in Cebu](/birthday-cakes-cebu/) for more.
+
+## Can you make a first birthday cake without a cartoon character?
+
+Yes, and that is our style. Many first birthday parties in Cebu follow a character theme. If you want something softer and more timeless, we can use **colour and motif** instead of a costume cake:
+
+- the theme colours from the invitation,
+- the baby's name and a piped "1",
+- roses, shells or marbling in a soft Korean-inspired minimalist look.
+
+We don't make fondant figures, sculpted characters or edible photo prints. If your theme depends on a character, we can echo its colours in buttercream and leave the character to the toppers, backdrop and giveaways.
+
+Some parents add a **4-inch bento** as the baby's own cake for the candle, the first taste, or a gentle "smash" photo, while the main cake stays intact for guests. Flavours are chocolate, vanilla, ube, mango and red velvet. Vanilla is a gentle choice for a baby's first taste. Ask your paediatrician if you have any concerns about ingredients. Our cakes contain gluten and dairy.
+
+## When is Sinulog, and how does it affect cake orders?
+
+Sinulog is Cebu City's festival in honour of the Santo Niño, traditionally celebrated on the **third Sunday of January**. In 2027, that falls on **Sunday, 17 January**. Always confirm dates and activities in the official announcements. The festival season brings novenas, processions, the grand parade, huge crowds and road closures around downtown and the parade route.
+
+For cake orders, that means:
+
+- **Book early.** Our minimum is three days, but for the week leading up to Sinulog, message us one to two weeks ahead. See [how far ahead to order a cake in Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+- **Expect wider delivery windows,** especially near downtown Cebu City and on routes affected by closures.
+- **Consider a different day** for the party if it can move. A date away from the main festival days is likely to be easier on the roads.
+
+We don't list a Santo Niño-themed cake, and we don't sculpt figures. For a Sinulog-week celebration, ask about a cheerful palette and a short line in buttercream.
+
+## How does delivery work during the festival?
+
+We deliver to **Cebu City, Mandaue and Lapu-Lapu** all year, but Sinulog week needs extra planning:
+
+- **Cebu City** ([details](/cake-delivery-cebu-city/)): downtown, the area around the Basilica Minore del Santo Niño and the parade route are the hardest to reach on peak days. Uptown areas like Lahug, Banilad and Talamban are generally easier, but traffic spills over.
+- **Mandaue:** city-to-Mandaue routes slow down with festival traffic.
+- **Lapu-Lapu and Mactan** ([details](/cake-delivery-lapu-lapu/)): bridge queues grow as visitors arrive through Mactan-Cebu International Airport and head into the city. Allow a buffer.
+
+Tell us when the cake will be cut, not just when the party starts. If your timing is tight, choose **pickup in Cebu City** on a day and time we confirm.
+
+## What about a smaller cake when the party is at home?
+
+Not every first birthday is a hall party. If you are celebrating at home with grandparents and godparents, one 6-inch cake is often enough, with a bento for the baby. Keep the cake in the fridge until about 20 to 30 minutes before the candle, because a living room full of relatives in January is still warm.
+
+## Frequently asked questions
+
+### When is Sinulog 2027?
+Sinulog is traditionally held on the third Sunday of January, which in 2027 is 17 January. Check the official Sinulog and Cebu City announcements for the final schedule and road closures.
+
+### How early should I order a first birthday cake for a January party?
+Our minimum is three days. For parties near Sinulog week, message us one to two weeks ahead, because many families celebrate in January and delivery windows get wider.
+
+### Do you make cartoon-character first birthday cakes?
+We don't make fondant figures or printed characters. We can match your theme colours in hand-piped buttercream with the baby's name and a piped "1."
+
+### Can I order a small cake just for the baby?
+Yes. A 4-inch bento works well as the baby's own cake for the candle or a first taste, alongside a larger cake for guests. Our cakes contain gluten and dairy.
+
+### Do you deliver during Sinulog?
+Yes, within Cebu City, Mandaue and Lapu-Lapu, with wider windows on festival days. Downtown and the parade route are the hardest to reach, so pickup may be easier.
+
+## Order a first birthday cake
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20first%20birthday%20cake)** or **[Messenger](https://m.me/thewhitecakes)** with the date, the baby's name, the theme colours and the address. Prices aren't published yet, so we will send a personalized quote.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html#article","headline":"First Birthday Cakes in Cebu, and Ordering Around Sinulog Week","description":"Planning a first birthday in Cebu around Sinulog? When to order, festival traffic and delivery windows, and soft-palette cakes for a baby's party.","abstract":"For a first birthday cake in Cebu, choose a soft-palette centrepiece like our 6-inch Signature Marble, plus an optional small bento for the baby. Order at least three days ahead. If the party falls in January near Sinulog (traditionally the third Sunday, 17 January in 2027), book one to two weeks early and expect wider delivery windows.","datePublished":"2026-12-15","dateModified":"2026-12-15","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"first birthday cake Cebu, Sinulog cake Cebu, 1st birthday cake Cebu City, baby birthday cake Cebu, cake delivery during Sinulog","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"first birthday cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"When is Sinulog 2027?","acceptedAnswer":{"@type":"Answer","text":"Sinulog is traditionally held on the third Sunday of January, which in 2027 is 17 January. Check the official Sinulog and Cebu City announcements for the final schedule and road closures."}},{"@type":"Question","name":"How early should I order a first birthday cake for a January party?","acceptedAnswer":{"@type":"Answer","text":"Our minimum is three days. For parties near Sinulog week, message us one to two weeks ahead, because many families celebrate in January and delivery windows get wider."}},{"@type":"Question","name":"Do you make cartoon-character first birthday cakes?","acceptedAnswer":{"@type":"Answer","text":"We don't make fondant figures or printed characters. We can match your theme colours in hand-piped buttercream with the baby's name and a piped \"1.\""}},{"@type":"Question","name":"Can I order a small cake just for the baby?","acceptedAnswer":{"@type":"Answer","text":"Yes. A 4-inch bento works well as the baby's own cake for the candle or a first taste, alongside a larger cake for guests. Our cakes contain gluten and dairy."}},{"@type":"Question","name":"Do you deliver during Sinulog?","acceptedAnswer":{"@type":"Answer","text":"Yes, within Cebu City, Mandaue and Lapu-Lapu, with wider windows on festival days. Downtown and the parade route are the hardest to reach, so pickup may be easier."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"First Birthday Cakes in Cebu, and Ordering Around Sinulog Week","item":"https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 10-how-to-brief-a-custom-cake-cebu.md ===== -->
+
+---
+title: "How to Brief a Custom Cake in Cebu | The White Cakes - Cebu"
+meta_description: "Ordering a custom cake in Cebu? What a useful reference photo shows, what buttercream can and can't do, and what to send for a fast, clear reply."
+h1: "How to Brief a Custom Cake in Cebu (Reference Photos That Actually Help)"
+slug: how-to-brief-a-custom-cake-cebu
+url: https://www.thewhitecakes.com/journal/how-to-brief-a-custom-cake-cebu.html
+publish_date: 2026-12-22
+date_modified: 2026-12-22
+order: 10
+status: new post
+primary_keyword: "custom cake Cebu"
+secondary_keywords: ["how to order a custom cake in Cebu", "custom cake reference photo", "buttercream custom cake Cebu", "personalized cake Cebu"]
+internal_links: ["/custom-cakes-cebu/", "/journal/how-to-order.html", "/journal/which-cake.html", "/wedding-cakes-cebu/", "/faq/"]
+og_image_alt: "Reference photo and colour swatches beside an ivory buttercream cake being piped in Cebu"
+---
+
+# How to Brief a Custom Cake in Cebu (Reference Photos That Actually Help)
+
+**Quick answer:** To brief a custom cake in Cebu, send the date, guest count, venue (indoor or outdoor), palette, the exact words for the top, one to three reference photos, and pickup or delivery details. At White Cakes we pipe by hand in buttercream, so tell us which part of each photo you love. We reply within 24 hours.
+
+> **Photo placeholder (real photo only):** a phone showing a reference photo next to the finished cake it inspired. Suggested alt text: "Customer reference photo on a phone beside the finished hand-piped buttercream cake"
+
+"Just send a peg" is how most custom cakes start in Cebu. Then the screenshot arrives: a five-tier cake from a Pinterest board, photographed in perfect light, made in a different country, with fondant and gold leaf. Somewhere between that photo and your table, expectations need to meet reality. This guide shows you how to brief a custom cake so the cake you get is the cake you pictured.
+
+For the order checklist itself, see [how to order a custom cake in Cebu](/journal/how-to-order.html). This post focuses on the creative brief.
+
+## What does a useful reference photo show?
+
+A good reference isn't the most beautiful cake you can find. It is the one closest to what you want, with a clear note about **why** you chose it. When you send a photo, add one line:
+
+- "I love the colour of this one."
+- "This piping style, but on a smaller cake."
+- "Exactly this, but in dusty blue instead of pink."
+- "Just the roses on top. Ignore the gold."
+
+Two or three photos with notes are better than ten without. If the photos disagree (one all-white, one bright rainbow), tell us which one wins.
+
+Also helpful: a photo of the **invitation, venue or outfit**, so the cake belongs in the room.
+
+## What can buttercream do, and what can't it?
+
+We work only in **hand-piped buttercream**. It is the signature of our Korean-inspired minimalist style, and it tastes like cake rather than sugar paste.
+
+**Buttercream does beautifully:**
+- smooth ivory and pastel coats
+- marbling (our dusty-blue marble is the signature)
+- shells, borders, ruffles and pearls
+- piped roses, rosettes and leaves
+- hand-piped lettering
+- soft palettes: ivory, blush, dusty blue, sage
+
+**Buttercream doesn't do (and we don't offer):**
+- sculpted fondant figures and characters
+- edible photo prints or logos printed from a file
+- perfectly sharp, hard edges in hot outdoor settings
+- gravity-defying structures and very tall tiers on short notice
+
+If your reference relies on something in the second list, we will suggest a buttercream version or tell you honestly that it isn't our bench. We would rather say no than deliver something we can't finish properly.
+
+## How should you describe colours and words on the cake?
+
+**Colour:** screens lie. A "dusty blue" on your phone may be grey or teal on ours. Name the colour in words, send a photo of the actual object if you can (a ribbon, a dress, a napkin), and accept that buttercream colours look slightly softer than print. If a requested shade is outside what we can pipe on your date, we say so in our reply.
+
+**Words:** type them exactly as they should appear: capital letters, punctuation and the correct spelling of names. Cebuano and Filipino nicknames are often spelled several ways ("Inday," "Ynday"), so pick one. Keep it short. A 4-inch bento holds a short line. A 6-inch cake holds a name and a few words.
+
+## How do guest count and our three cakes help your brief?
+
+Custom doesn't mean starting from nothing. Most custom orders begin from one of our three cakes and change the colour, flowers or words. See [Marble, bouquet, or bento](/journal/which-cake.html):
+
+- **Signature Marble (6-inch):** a small family table. Tell us your guest count and we confirm whether it is enough.
+- **Bouquet Cake:** a gift or a soft, floral table, with the scale confirmed in our reply.
+- **Bento (4-inch):** two people or a small gift.
+
+For anything bigger, such as weddings, debuts or large corporate events, give us the realistic guest count and how the cake will be served. See [wedding cakes](/wedding-cakes-cebu/) and [custom cakes](/custom-cakes-cebu/).
+
+## What should a complete custom cake brief include?
+
+Copy this template into WhatsApp or Messenger:
+
+```
+Date:
+Occasion:
+Guest count / how it will be served:
+Venue + indoor (AC) or outdoor:
+Starting cake (Marble / Bouquet / Bento / Custom):
+Flavour (chocolate / vanilla / ube / mango / red velvet):
+Palette:
+Words on top (exact spelling):
+Reference photos + one line on what you like in each:
+Pickup in Cebu City, or delivery address + landmark + receiver number:
+```
+
+Our minimum lead time is **three days**. For complex custom work, give us more.
+
+## What happens after you send the brief?
+
+We reply **within 24 hours** with one of three things:
+
+1. **A yes**, with any small adjustments for buttercream and a personalized quote (prices aren't published yet while we prepare for launch).
+2. **A question**, if a detail is unclear, such as size, colour or spelling.
+3. **An honest no**, if the design or date is beyond what we can finish properly, often with a suggestion that would work.
+
+Once confirmed, the payment method is settled in our reply, and your cake goes on the bench for your date. More answers are in our [FAQ](/faq/).
+
+## Frequently asked questions
+
+### How many reference photos should I send for a custom cake?
+One to three photos are ideal. Add a short note for each on what you like, whether it is the colour, the piping or the shape, so we know which details matter.
+
+### Can you copy a cake from Pinterest exactly?
+We use references as inspiration and pipe everything by hand in buttercream. If a photo relies on fondant, edible prints or very tall structures, we will suggest a buttercream version or tell you honestly.
+
+### Can you match my exact colour?
+We try to get close. Name the colour, send a photo of a real object in that shade if you can, and expect buttercream to look slightly softer than a screen. We tell you in our reply if a shade isn't possible.
+
+### How long a message can you write on a cake?
+A 4-inch bento holds a short line. A 6-inch cake holds a name and a few words. Send the exact text and we will say whether it fits.
+
+### How far ahead should I send a custom cake brief?
+At least three days before your date. For complex designs, weddings or busy seasons, message us earlier.
+
+## Send your brief
+
+Paste the template above into **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20here%27s%20my%20custom%20cake%20brief)** or **[Messenger](https://m.me/thewhitecakes)**, with your photos attached. We bake in Lahug and deliver to Cebu City, Mandaue and Lapu-Lapu.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/how-to-brief-a-custom-cake-cebu.html#article","headline":"How to Brief a Custom Cake in Cebu (Reference Photos That Actually Help)","description":"Ordering a custom cake in Cebu? What a useful reference photo shows, what buttercream can and can't do, and what to send for a fast, clear reply.","abstract":"To brief a custom cake in Cebu, send the date, guest count, venue (indoor or outdoor), palette, the exact words for the top, one to three reference photos, and pickup or delivery details. At White Cakes we pipe by hand in buttercream, so tell us which part of each photo you love. We reply within 24 hours.","datePublished":"2026-12-22","dateModified":"2026-12-22","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/how-to-brief-a-custom-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/how-to-brief-a-custom-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"custom cake Cebu, how to order a custom cake in Cebu, custom cake reference photo, buttercream custom cake Cebu, personalized cake Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"custom cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/how-to-brief-a-custom-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"How many reference photos should I send for a custom cake?","acceptedAnswer":{"@type":"Answer","text":"One to three photos are ideal. Add a short note for each on what you like, whether it is the colour, the piping or the shape, so we know which details matter."}},{"@type":"Question","name":"Can you copy a cake from Pinterest exactly?","acceptedAnswer":{"@type":"Answer","text":"We use references as inspiration and pipe everything by hand in buttercream. If a photo relies on fondant, edible prints or very tall structures, we will suggest a buttercream version or tell you honestly."}},{"@type":"Question","name":"Can you match my exact colour?","acceptedAnswer":{"@type":"Answer","text":"We try to get close. Name the colour, send a photo of a real object in that shade if you can, and expect buttercream to look slightly softer than a screen. We tell you in our reply if a shade isn't possible."}},{"@type":"Question","name":"How long a message can you write on a cake?","acceptedAnswer":{"@type":"Answer","text":"A 4-inch bento holds a short line. A 6-inch cake holds a name and a few words. Send the exact text and we will say whether it fits."}},{"@type":"Question","name":"How far ahead should I send a custom cake brief?","acceptedAnswer":{"@type":"Answer","text":"At least three days before your date. For complex designs, weddings or busy seasons, message us earlier."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"How to Brief a Custom Cake in Cebu (Reference Photos That Actually Help)","item":"https://www.thewhitecakes.com/journal/how-to-brief-a-custom-cake-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 11-christening-cake-cebu.md ===== -->
+
+---
+title: "Christening Cakes in Cebu | The White Cakes - Cebu"
+meta_description: "Christening or baptism cake in Cebu: a calm design for the family table, names and blessing lines, flavours, timing around church, and delivery."
+h1: "Christening and Baptism Cakes in Cebu"
+slug: christening-cake-cebu
+url: https://www.thewhitecakes.com/journal/christening-cake-cebu.html
+publish_date: 2027-01-05
+date_modified: 2027-01-05
+order: 11
+status: new post
+primary_keyword: "christening cake Cebu"
+secondary_keywords: ["baptism cake Cebu", "binyag cake Cebu", "christening cake delivery Cebu City", "dedication cake Cebu"]
+internal_links: ["/custom-cakes-cebu/", "/birthday-cakes-cebu/", "/journal/choosing-a-flavor.html", "/journal/buttercream-in-cebu-heat.html", "/cake-delivery-cebu-city/", "/cake-delivery-mandaue/"]
+og_image_alt: "Ivory buttercream christening cake with a single piped rose and a baby's name, Cebu"
+---
+
+# Christening and Baptism Cakes in Cebu
+
+**Quick answer:** A christening cake in Cebu works best when it is calm and elegant: ivory or soft blue or blush buttercream, the baby's name, and a short blessing line. Choose a 6-inch Signature Marble for a family table. Order from White Cakes at least three days ahead, and time delivery for after the church ceremony.
+
+> **Photo placeholder (real photo only):** an ivory cake with a single rose and a piped name, on a simple white tablecloth. Suggested alt text: "Ivory christening cake with a piped name and a single rose on a family table in Cebu"
+
+In Cebu, a baby's christening (*bunyag*) is a family milestone. There is the ceremony at the parish, the ninongs and ninangs, the photos at the baptismal font, and then a lunch at home, at a restaurant or in a function room. The cake comes out at that gathering. This guide covers how to choose one that suits the day, and how to time it around the church.
+
+## What kind of cake suits a christening?
+
+A christening table is usually quieter than a birthday party. A calm cake fits it: soft colour, clean lines and one meaningful detail. That is exactly our style, a Korean-inspired minimalist look in hand-piped buttercream.
+
+Good starting points:
+
+- **[Signature Marble](/custom-cakes-cebu/):** a 6-inch cake in smooth ivory with dusty-blue marbling, a shell border and a single rose. It suits a family lunch for both boys and girls.
+- **Bouquet Cake:** piped rosettes in blush, ivory or sage for a softer, floral table.
+- **Custom:** your colours, from the invitation or the baby's outfit, piped in buttercream.
+
+For a large reception, tell us the guest count and we will say what size the bench can do on your date.
+
+## What can you write on a christening cake?
+
+Most families choose the baby's name with a short line. Some examples families often use:
+
+- "Welcome to the family, [Name]"
+- "God bless, [Name]"
+- "[Name]'s Christening" with the date
+- simply the full name
+
+Send the words **exactly as you want them**, including the baby's full name and the spelling of any second name. Double-check it with the parents. Fixing a misspelled name after piping isn't possible.
+
+We pipe text and soft decoration in buttercream. We don't make fondant figures or printed images. If you'd like a small cross or a dove motif, ask, and we will tell you honestly whether it can be done neatly in buttercream on your date.
+
+## Which flavours do families choose for christenings?
+
+We bake **chocolate, vanilla, ube, mango and red velvet**:
+
+- **Vanilla** keeps the cake light and suits mixed-age tables, from lolos to small cousins.
+- **Chocolate** is the crowd favourite.
+- **Ube** is a Filipino classic that older relatives often look for.
+- **Mango** is bright and fresh, and best for indoor, air-conditioned gatherings.
+- **Red velvet** suits a modern table.
+
+Read [choosing a flavor](/journal/choosing-a-flavor.html) for more. Our cakes contain gluten and dairy. Message us about any allergies.
+
+## How should you time the cake around the church ceremony?
+
+This is where families most often run into trouble. Christening ceremonies are scheduled by the parish, and the party usually starts right after. Plan it like this:
+
+1. **Confirm the ceremony time** with the parish first.
+2. **Have the cake delivered to the reception venue or home**, not to the church, with someone there to receive it.
+3. **Allow a buffer** between the delivery window and the party start. We confirm a window, not an exact minute.
+4. **Refrigerate** the cake if the party starts more than an hour after delivery.
+
+If everyone will be at the church during the delivery window, pick a later window or choose **pickup in Cebu City** at a confirmed time on your way to the reception.
+
+Our minimum lead time is **three days**. For busy months like December, or if the reception is large, message us a week or two earlier.
+
+## Can you deliver a christening cake to my home or venue?
+
+Yes, within **Cebu City, Mandaue and Lapu-Lapu**:
+
+- **Cebu City** ([delivery details](/cake-delivery-cebu-city/)): homes and restaurants in Lahug, Banilad, Mabolo, Talamban, Capitol Site and downtown.
+- **Mandaue** ([delivery details](/cake-delivery-mandaue/)): villages along A.S. Fortuna and the coastal road. Put your name on the gate list.
+- **Lapu-Lapu and Mactan:** homes, resorts and function rooms. For resorts, give the event name for the gate.
+
+Include the full address, a landmark and the name and number of the person receiving the cake.
+
+## How do you keep the cake until it is served?
+
+After the ceremony, the house fills with people and the kitchen gets hot. Keep the cake in its closed box in the fridge, away from strong-smelling food like lechon, pancit or garlic rice. Take it out 20 to 30 minutes before serving. Never leave it in the car while you finish photos at church. Our guide on [buttercream in Cebu heat](/journal/buttercream-in-cebu-heat.html) explains why.
+
+## Frequently asked questions
+
+### What should I write on a christening cake?
+Most families use the baby's full name with a short line such as "God bless," "Welcome to the family" or "[Name]'s Christening" with the date. Send the exact spelling and we pipe it in buttercream.
+
+### How far ahead should I order a christening cake in Cebu?
+At least three days before the date. For large receptions or busy months like December, message us one to two weeks earlier.
+
+### Should the christening cake be delivered to the church?
+We recommend delivering to the reception venue or home, where someone can receive it and keep it cool. A buttercream cake shouldn't wait in a car during the ceremony.
+
+### Can you add a cross or dove to the cake?
+Ask us with a reference photo. We work only in hand-piped buttercream and will tell you honestly whether the motif can be done neatly on your date.
+
+### How much is a christening cake?
+Prices aren't published yet while we prepare for launch. Send the date, guest count and the words for the cake, and we will reply within 24 hours with a personalized quote.
+
+## Order a christening cake
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20christening%20cake)** or **[Messenger](https://m.me/thewhitecakes)** with the date, the baby's name and the address. For a celebration later in the year, see [birthday cakes in Cebu](/birthday-cakes-cebu/).
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/christening-cake-cebu.html#article","headline":"Christening and Baptism Cakes in Cebu","description":"Christening or baptism cake in Cebu: a calm design for the family table, names and blessing lines, flavours, timing around church, and delivery.","abstract":"A christening cake in Cebu works best when it is calm and elegant: ivory or soft blue or blush buttercream, the baby's name, and a short blessing line. Choose a 6-inch Signature Marble for a family table. Order from White Cakes at least three days ahead, and time delivery for after the church ceremony.","datePublished":"2027-01-05","dateModified":"2027-01-05","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/christening-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/christening-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"christening cake Cebu, baptism cake Cebu, binyag cake Cebu, christening cake delivery Cebu City, dedication cake Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"christening cake Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/christening-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"What should I write on a christening cake?","acceptedAnswer":{"@type":"Answer","text":"Most families use the baby's full name with a short line such as \"God bless,\" \"Welcome to the family\" or \"[Name]'s Christening\" with the date. Send the exact spelling and we pipe it in buttercream."}},{"@type":"Question","name":"How far ahead should I order a christening cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"At least three days before the date. For large receptions or busy months like December, message us one to two weeks earlier."}},{"@type":"Question","name":"Should the christening cake be delivered to the church?","acceptedAnswer":{"@type":"Answer","text":"We recommend delivering to the reception venue or home, where someone can receive it and keep it cool. A buttercream cake shouldn't wait in a car during the ceremony."}},{"@type":"Question","name":"Can you add a cross or dove to the cake?","acceptedAnswer":{"@type":"Answer","text":"Ask us with a reference photo. We work only in hand-piped buttercream and will tell you honestly whether the motif can be done neatly on your date."}},{"@type":"Question","name":"How much is a christening cake?","acceptedAnswer":{"@type":"Answer","text":"Prices aren't published yet while we prepare for launch. Send the date, guest count and the words for the cake, and we will reply within 24 hours with a personalized quote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Christening and Baptism Cakes in Cebu","item":"https://www.thewhitecakes.com/journal/christening-cake-cebu.html"}]}]}
+</script>
+```
+
+
+<!-- ===== FILE: 12-valentines-bouquet-cake-cebu.md ===== -->
+
+---
+title: "Valentine's Bouquet Cakes in Cebu | The White Cakes - Cebu"
+meta_description: "Valentine's 2027 in Cebu falls on a Sunday. When to order a bouquet or bento cake, what to write, and delivery to Cebu City, Mandaue and Mactan."
+h1: "Valentine's Day in Cebu: Send a Bouquet Cake"
+slug: valentines-bouquet-cake-cebu
+url: https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html
+publish_date: 2027-01-15
+date_modified: 2027-01-15
+order: 12
+status: new post (seasonal, publish mid-January 2027)
+primary_keyword: "Valentine's cake delivery Cebu"
+secondary_keywords: ["Valentine's bouquet cake Cebu", "Valentine's cake Cebu 2027", "flower cake Valentine's Cebu", "bento cake for couples Cebu"]
+internal_links: ["/bouquet-cakes-cebu/", "/bento-cakes-cebu/", "/anniversary-cakes-cebu/", "/journal/bouquet-cake-gift-cebu.html", "/cake-delivery-cebu-city/", "/cake-delivery-mandaue/", "/cake-delivery-lapu-lapu/"]
+og_image_alt: "Blush and ivory buttercream bouquet cake with piped roses for Valentine's Day in Cebu"
+---
+
+# Valentine's Day in Cebu: Send a Bouquet Cake
+
+**Quick answer:** For Valentine's in Cebu, a bouquet cake gives flowers and dessert in one: buttercream roses you can slice. Valentine's Day 2027 falls on Sunday, 14 February. Order from White Cakes by Thursday, 11 February at the latest (three days' notice), but ideally in January. We deliver to Cebu City, Mandaue and Lapu-Lapu.
+
+> **Photo placeholder (real photo only):** the Bouquet Cake in blush and ivory with a bow. Suggested alt text: "Blush and ivory bouquet cake with piped buttercream roses and a bow for Valentine's Day"
+
+Every February, Cebu fills up with roses. Flower stalls are busy, restaurants in Lahug, IT Park and along the Mactan coast get busy, and delivery riders are everywhere. Many people pair a bunch of roses with a mall cake. This guide is about a calmer alternative, and how to get it to the right door on the right day.
+
+## Why give a bouquet cake on Valentine's instead of flowers alone?
+
+Because roses fade and a cake gets shared. Our [Bouquet Cake](/bouquet-cakes-cebu/) is buttercream piped into rosettes with sage leaves, finished like a wrapped bouquet with a pleated collar, pearls and a bow. It arrives looking like flowers and ends the night as dessert.
+
+It is also one delivery instead of two (florist plus bakery), one box instead of two, and it is hand-piped in a soft Korean-inspired palette of blush, ivory, dusty blue and sage. If you want deeper red roses, ask, and we will tell you honestly what buttercream can do on your date. For more on bouquet cakes as gifts any time of year, read [bouquet cakes as a gift in Cebu](/journal/bouquet-cake-gift-cebu.html).
+
+## How early should you order a Valentine's cake in Cebu?
+
+In 2027, **14 February is a Sunday**. Our minimum is three days, which means:
+
+- **Latest possible order:** Thursday, 11 February 2027
+- **What we recommend:** message us in **January**, because many people want the same weekend and bench space is limited
+- **Office surprise?** Since the 14th is a Sunday, many people send cakes to the office on **Friday, 12 February**. Order for that date by Tuesday, 9 February at the latest.
+
+Remember the three-day rule is a minimum, not a guarantee. When the bench is full, we will tell you honestly instead of rushing your cake.
+
+## What should you write on a Valentine's cake?
+
+Keep it short and personal. Piped lettering looks best with a few words:
+
+- "Happy Valentine's, Mahal"
+- "Love, always"
+- "Be mine, [Name]"
+- "Happy 1st Valentine's"
+- a pet name only the two of you understand
+
+Send the words spelled exactly, including capitals and punctuation. On a bento, a short line fits. On a bouquet, the line usually sits on a small space among the roses, so keep it brief. You can also leave the cake without words and write a card instead.
+
+## How do you make sure someone is at the door to receive it?
+
+Valentine's deliveries go wrong in predictable ways: nobody is home, the guard won't accept it, or the surprise is ruined by a text. To avoid all three:
+
+1. **Pick a time the recipient is definitely there**, at home, at the office or at the restaurant.
+2. **Give the receiver's number**, or a trusted person who will meet the driver (a housemate, a sister, a colleague at reception).
+3. **Mark it as a surprise.** We text the delivery window to you, not to them.
+4. **For condos and offices**, add lobby instructions. Guards usually can't hold a buttercream cake.
+5. **For villages**, put the name on the gate list.
+
+Delivery details for each city:
+- [Cebu City](/cake-delivery-cebu-city/): Lahug, IT Park, Banilad, Mabolo, Talamban, Cebu Business Park
+- [Mandaue](/cake-delivery-mandaue/): A.S. Fortuna, U.N. Avenue, the reclamation area and coastal villages
+- [Lapu-Lapu and Mactan](/cake-delivery-lapu-lapu/): homes, resorts and restaurants. Give the guest or reservation name for resort gates, and allow for bridge traffic on a busy weekend.
+
+We confirm a **delivery window**, not an exact minute. Valentine's weekend traffic is heavy around malls and restaurant strips.
+
+## Is a bento cake better for a Valentine's dinner for two?
+
+Sometimes, yes. If the cake is for **two plates at home**, not a gift on display, a 4-inch [bento cake](/bento-cakes-cebu/) is often the better choice. It has shells, a blush ribbon, one rose and a short line on top. It serves two generously, travels easily, even by motorcycle, and fits in a small condo fridge.
+
+Choose the **Bouquet Cake** when it is a gift that should look like flowers on arrival. Choose the **bento** when it is dessert for a quiet night in. For anniversaries that fall near Valentine's, see [anniversary cakes](/anniversary-cakes-cebu/).
+
+Flavours: chocolate, vanilla, ube, mango and red velvet. Red velvet is the obvious Valentine's choice. Chocolate never disappoints.
+
+## How do you keep the cake fresh until the date?
+
+If the cake arrives in the afternoon and dinner is late, put it in the fridge in its closed box, then take it out 20 to 30 minutes before serving. Don't leave it in the car while you pick up your date, and don't set it near a sunny window. February in Cebu is still warm.
+
+## Frequently asked questions
+
+### When should I order a Valentine's cake in Cebu for 2027?
+Valentine's Day 2027 is Sunday, 14 February. Our latest order date is Thursday, 11 February, but we recommend messaging in January because that weekend fills quickly.
+
+### Can you deliver a Valentine's cake to an office in Cebu?
+Yes. Since 14 February 2027 is a Sunday, many people send cakes on Friday, 12 February. Give us the office address, lobby instructions and someone at reception who can receive it.
+
+### Is a bouquet cake or a bento better for Valentine's?
+Choose a bouquet cake for a gift that should look like flowers on arrival. Choose a 4-inch bento for dessert for two at home.
+
+### Can you make red roses on a bouquet cake?
+Ask us with your date. Our signature palette is blush, ivory, dusty blue and sage, and we will tell you honestly whether a deeper red works in buttercream for your order.
+
+### How much is a Valentine's bouquet cake?
+Prices aren't published yet while we prepare for launch. Send your date, cake and delivery address, and we will reply within 24 hours with a personalized quote.
+
+## Order your Valentine's cake
+
+Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20Valentine%27s%20cake)** or **[Messenger](https://m.me/thewhitecakes)** with the date, the cake, the line on top and the delivery address.
+
+<!-- JSONLD -->
+
+## Structured data (paste into <head>)
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html#article","headline":"Valentine's Day in Cebu: Send a Bouquet Cake","description":"Valentine's 2027 in Cebu falls on a Sunday. When to order a bouquet or bento cake, what to write, and delivery to Cebu City, Mandaue and Mactan.","abstract":"For Valentine's in Cebu, a bouquet cake gives flowers and dessert in one: buttercream roses you can slice. Valentine's Day 2027 falls on Sunday, 14 February. Order from White Cakes by Thursday, 11 February at the latest (three days' notice), but ideally in January. We deliver to Cebu City, Mandaue and Lapu-Lapu.","datePublished":"2027-01-15","dateModified":"2027-01-15","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"Valentine's cake delivery Cebu, Valentine's bouquet cake Cebu, Valentine's cake Cebu 2027, flower cake Valentine's Cebu, bento cake for couples Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"Valentine's cake delivery Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"When should I order a Valentine's cake in Cebu for 2027?","acceptedAnswer":{"@type":"Answer","text":"Valentine's Day 2027 is Sunday, 14 February. Our latest order date is Thursday, 11 February, but we recommend messaging in January because that weekend fills quickly."}},{"@type":"Question","name":"Can you deliver a Valentine's cake to an office in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Yes. Since 14 February 2027 is a Sunday, many people send cakes on Friday, 12 February. Give us the office address, lobby instructions and someone at reception who can receive it."}},{"@type":"Question","name":"Is a bouquet cake or a bento better for Valentine's?","acceptedAnswer":{"@type":"Answer","text":"Choose a bouquet cake for a gift that should look like flowers on arrival. Choose a 4-inch bento for dessert for two at home."}},{"@type":"Question","name":"Can you make red roses on a bouquet cake?","acceptedAnswer":{"@type":"Answer","text":"Ask us with your date. Our signature palette is blush, ivory, dusty blue and sage, and we will tell you honestly whether a deeper red works in buttercream for your order."}},{"@type":"Question","name":"How much is a Valentine's bouquet cake?","acceptedAnswer":{"@type":"Answer","text":"Prices aren't published yet while we prepare for launch. Send your date, cake and delivery address, and we will reply within 24 hours with a personalized quote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Valentine's Day in Cebu: Send a Bouquet Cake","item":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html"}]}]}
+</script>
+```

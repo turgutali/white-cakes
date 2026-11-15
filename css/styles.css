@@ -1082,6 +1082,39 @@ form.is-sent .form-fields {
   margin: 0 0 1.1em;
 }
 
+.quick-answer {
+  background: var(--ivory-soft);
+  border-left: 3px solid var(--dust);
+  padding: var(--space-sm) var(--space-md);
+  margin: var(--space-md) 0 var(--space-lg);
+}
+
+.article-byline {
+  font-family: var(--sans);
+  font-size: 0.88rem;
+  color: var(--navy-soft);
+  margin: 0 0 var(--space-md);
+}
+
+.journal-from-bench,
+.related-guides {
+  margin-top: var(--space-lg);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--line);
+}
+
+.journal-from-bench ul,
+.related-guides ul {
+  list-style: none;
+  padding: 0;
+  margin: var(--space-sm) 0 0;
+}
+
+.journal-from-bench li + li,
+.related-guides li + li {
+  margin-top: var(--space-xs);
+}
+
 .prose h2 {
   font-size: clamp(1.85rem, 4vw, 2.35rem);
   margin: 1.5em 0 0.5em;

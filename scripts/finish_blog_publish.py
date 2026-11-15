@@ -1,0 +1,376 @@
+#!/usr/bin/env python3
+"""Journal index, sitemap, cross-links, llms.txt, robots after posts 01–04."""
+from __future__ import annotations
+
+import json
+import re
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+LASTMOD_SITE = "2026-11-15"
+
+ALL_POSTS = [
+    {
+        "file": "cake-delivery-cebu.html",
+        "h1": "Cake Delivery in Metro Cebu: Where We Deliver and How It Works",
+        "meta": "Where we deliver cakes in Metro Cebu: Cebu City, Mandaue and Lapu-Lapu. What to send, delivery windows, bridge traffic, and when pickup is better.",
+        "date": "2026-11-27",
+    },
+    {
+        "file": "how-to-choose-wedding-cake-cebu.html",
+        "h1": "How to Choose a Wedding Cake in Cebu",
+        "meta": "How to choose a wedding cake in Cebu: guest count, venue heat, buttercream vs fondant, delivery, and what to send for a quote. No guesswork.",
+        "date": "2026-11-24",
+    },
+    {
+        "file": "what-is-a-bento-cake.html",
+        "h1": "What Is a Bento Cake? A Small-Cake Guide for Cebu",
+        "meta": "A bento cake is a small 4-inch cake for one or two people. What it is, who it suits, and how to order a hand-piped bento cake in Cebu.",
+        "date": "2026-11-20",
+    },
+    {
+        "file": "christmas-cake-delivery-cebu.html",
+        "h1": "Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake",
+        "meta": "Ordering a Christmas cake in Cebu? How early to message, which cakes travel as gifts, and holiday delivery to Cebu City, Mandaue and Lapu-Lapu.",
+        "date": "2026-11-17",
+    },
+    {
+        "file": "how-to-order.html",
+        "h1": "How to order a custom cake in Cebu",
+        "meta": "How to order a White Cakes cake in Cebu: what to tell us, the three-day minimum, and the difference between pickup and delivery.",
+        "date": "2026-11-14",
+    },
+    {
+        "file": "choosing-a-flavor.html",
+        "h1": "Choosing a flavor",
+        "meta": "Chocolate, vanilla, ube, mango, or red velvet — how to pick a White Cakes flavor for your Cebu celebration.",
+        "date": "2026-11-14",
+    },
+    {
+        "file": "which-cake.html",
+        "h1": "Marble, bouquet, or bento",
+        "meta": "Which White Cakes design fits a birthday, a gift, or a table for two in Cebu.",
+        "date": "2026-11-14",
+    },
+    {
+        "file": "buttercream-in-cebu-heat.html",
+        "h1": "Buttercream in Cebu heat",
+        "meta": "When to refrigerate, how to ride home with a cake, and what not to do in a parked car.",
+        "date": "2026-11-14",
+    },
+]
+
+CROSSLINKS = {
+    "cake-delivery-cebu-city": [
+        ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
+        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+    ],
+    "cake-delivery-mandaue": [
+        ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
+        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+    ],
+    "cake-delivery-lapu-lapu": [
+        ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
+        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+    ],
+    "birthday-cakes-cebu": [
+        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+    ],
+    "anniversary-cakes-cebu": [
+        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+    ],
+    "wedding-cakes-cebu": [
+        ("How to Choose a Wedding Cake in Cebu", "how-to-choose-wedding-cake-cebu.html"),
+    ],
+    "corporate-cake-orders-cebu": [
+        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+    ],
+    "bento-cakes-cebu": [
+        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+    ],
+    "bouquet-cakes-cebu": [
+        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+    ],
+    "custom-cakes-cebu": [
+        ("How to Choose a Wedding Cake in Cebu", "how-to-choose-wedding-cake-cebu.html"),
+    ],
+}
+
+FAQ_GUIDES = [
+    ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
+]
+
+HOME_JOURNAL = ALL_POSTS[:3]
+
+
+def journal_section_html() -> str:
+    items = "".join(
+        f"""
+        <li>
+          <a href="/journal/{p['file']}">
+            <h3>{p['h1']}</h3>
+            <p>{p['meta']}</p>
+          </a>
+        </li>"""
+        for p in ALL_POSTS
+    )
+    blog_posts = [
+        {
+            "@type": "BlogPosting",
+            "headline": p["h1"],
+            "url": f"https://www.thewhitecakes.com/journal/{p['file']}",
+            "datePublished": p["date"],
+        }
+        for p in ALL_POSTS
+    ]
+    blog_ld = {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "@id": "https://www.thewhitecakes.com/journal/",
+        "name": "Journal — Notes from the bench",
+        "description": "Practical notes on ordering, delivery and celebrating with cake in Cebu.",
+        "publisher": {"@type": "Organization", "name": "The White Cakes - Cebu", "url": "https://www.thewhitecakes.com/"},
+        "blogPost": blog_posts,
+    }
+    crumb = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+            {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        ],
+    }
+    return f"""<!DOCTYPE html>
+<html lang="en-PH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Journal: Cake Guides for Cebu | The White Cakes - Cebu</title>
+  <meta name="description" content="Journal from White Cakes Cebu: ordering, delivery, bento and wedding cakes, Christmas gifts, and buttercream in tropical heat. No prices published yet.">
+  <link rel="canonical" href="https://www.thewhitecakes.com/journal/">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta property="og:title" content="Journal: Cake Guides for Cebu | The White Cakes - Cebu">
+  <meta property="og:description" content="Practical notes on ordering, delivery and celebrating with cake in Cebu.">
+  <meta property="og:url" content="https://www.thewhitecakes.com/journal/">
+  <meta property="og:type" content="website">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png" sizes="180x180">
+  <script type="application/ld+json">
+{json.dumps(crumb, indent=2)}
+  </script>
+  <script type="application/ld+json">
+{json.dumps(blog_ld, indent=2)}
+  </script>
+</head>
+<body class="sub">
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="site-header" id="site-header">
+    <a class="brand" href="/"><span class="wordmark">White Cakes</span></a>
+    <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
+    <div class="header-end">
+      <nav class="nav" id="primary-nav" aria-label="Primary">
+        <a href="/#collection">Collection</a>
+        <a href="/#occasions">Occasions</a>
+        <a href="/journal/">Journal</a>
+        <a href="/#delivery">Delivery</a>
+        <a href="/#order">Order</a>
+      </nav>
+      <a class="header-cta" href="/#order">Order</a>
+    </div>
+  </header>
+  <main id="main" class="article">
+    <h1>Notes from the bench</h1>
+    <p class="dek">Practical notes on ordering, delivery and celebrating with cake in Cebu.</p>
+    <div class="section-inner">
+      <ol class="journal-list">
+        {items}
+      </ol>
+      <p class="next-step"><a href="/#order">Order Your Cake</a></p>
+    </div>
+  </main>
+  <footer class="site-footer">
+    <div class="section-inner">
+      <a class="brand brand-stack" href="/"><span class="wordmark">White Cakes</span></a>
+      <ul class="footer-links">
+        <li><a href="mailto:info@thewhitecakes.com">info@thewhitecakes.com</a></li>
+        <li><a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp <span data-wa-label>+63 947 438 2632</span></a></li>
+        <li><a href="/#order">Order</a></li>
+      </ul>
+      <p class="loc">Cebu, Philippines</p>
+      <p class="legal">© 2026 White Cakes</p>
+    </div>
+  </footer>
+  <script src="../js/main.js" defer></script>
+</body>
+</html>"""
+
+
+def add_crosslinks(slug: str, links: list[tuple[str, str]]):
+    path = ROOT / slug / "index.html"
+    if not path.exists():
+        return
+    t = path.read_text(encoding="utf-8")
+    if "From our journal" in t:
+        t = re.sub(r'<nav class="journal-from-bench".*?</nav>\s*', "", t, flags=re.DOTALL)
+    lis = "".join(
+        f'<li><a href="/journal/{f}">{title}</a></li>' for title, f in links
+    )
+    block = f"""
+          <nav class="journal-from-bench" aria-label="From our journal">
+            <p class="kicker">From our journal</p>
+            <ul>
+              {lis}
+            </ul>
+          </nav>
+          <aside class="article-end">"""
+    t = t.replace('<aside class="article-end">', block, 1)
+    path.write_text(t, encoding="utf-8")
+
+
+def faq_guides():
+    path = ROOT / "faq" / "index.html"
+    t = path.read_text(encoding="utf-8")
+    t = re.sub(r'<nav class="related-guides".*?</nav>\s*', "", t, flags=re.DOTALL)
+    lis = "".join(
+        f'<li><a href="/journal/{f}">{title}</a></li>' for title, f in FAQ_GUIDES
+    )
+    block = f"""
+      <nav class="related-guides" aria-label="Related guides">
+        <p class="kicker">Related guides</p>
+        <ul>
+          {lis}
+        </ul>
+      </nav>
+    </main>"""
+    t = t.replace("</main>", block, 1)
+    path.write_text(t, encoding="utf-8")
+
+
+def home_journal():
+    path = ROOT / "index.html"
+    t = path.read_text(encoding="utf-8")
+    items = "".join(
+        f"""
+          <li>
+            <a href="journal/{p['file']}">
+              <h3>{p['h1']}</h3>
+              <p>{p['meta']}</p>
+            </a>
+          </li>"""
+        for p in HOME_JOURNAL
+    )
+    t = re.sub(
+        r'<ol class="journal-list">.*?</ol>',
+        f'<ol class="journal-list">{items}\n        </ol>',
+        t,
+        count=1,
+        flags=re.DOTALL,
+    )
+    path.write_text(t, encoding="utf-8")
+
+
+def sitemap():
+    urls = [
+        ("/", "weekly", "1.0", LASTMOD_SITE),
+        ("/bento-cakes-cebu/", "monthly", "0.9", LASTMOD_SITE),
+        ("/bouquet-cakes-cebu/", "monthly", "0.9", LASTMOD_SITE),
+        ("/custom-cakes-cebu/", "monthly", "0.9", LASTMOD_SITE),
+        ("/birthday-cakes-cebu/", "monthly", "0.85", LASTMOD_SITE),
+        ("/anniversary-cakes-cebu/", "monthly", "0.85", LASTMOD_SITE),
+        ("/wedding-cakes-cebu/", "monthly", "0.85", LASTMOD_SITE),
+        ("/corporate-cake-orders-cebu/", "monthly", "0.85", LASTMOD_SITE),
+        ("/cake-delivery-cebu-city/", "monthly", "0.85", LASTMOD_SITE),
+        ("/cake-delivery-mandaue/", "monthly", "0.85", LASTMOD_SITE),
+        ("/cake-delivery-lapu-lapu/", "monthly", "0.85", LASTMOD_SITE),
+        ("/faq/", "monthly", "0.8", LASTMOD_SITE),
+        ("/journal/", "weekly", "0.8", LASTMOD_SITE),
+    ]
+    for p in ALL_POSTS:
+        urls.append(
+            (f"/journal/{p['file']}", "monthly", "0.7", p["date"])
+        )
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>']
+    lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    for loc, freq, pri, lm in urls:
+        lines.append(
+            f'  <url><loc>https://www.thewhitecakes.com{loc}</loc><lastmod>{lm}</lastmod><changefreq>{freq}</changefreq><priority>{pri}</priority></url>'
+        )
+    lines.append("</urlset>")
+    (ROOT / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def robots():
+    (ROOT / "robots.txt").write_text(
+        """User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://www.thewhitecakes.com/sitemap.xml
+""",
+        encoding="utf-8",
+    )
+
+
+def llms_txt():
+    lines = [
+        "# The White Cakes - Cebu",
+        "",
+        "The White Cakes is a made-to-order luxury cake cloud kitchen in Lahug, Cebu City. There is no storefront or walk-in counter. Pickup is by arrangement; delivery covers Cebu City, Mandaue, and Lapu-Lapu. Orders need at least three days' notice. Signature Marble (6-inch), Bouquet Cake, and Bento (4-inch); flavours chocolate, vanilla, ube, mango, red velvet. Prices are not published yet. WhatsApp +63 947 438 2632.",
+        "",
+        "## Pages",
+        "",
+        "- [Home](https://www.thewhitecakes.com/) — Custom, bento and bouquet cakes made to order in Metro Cebu.",
+        "- [Bento cakes](https://www.thewhitecakes.com/bento-cakes-cebu/) — 4-inch bento cakes in Cebu.",
+        "- [Bouquet cakes](https://www.thewhitecakes.com/bouquet-cakes-cebu/) — Bouquet-style buttercream cakes.",
+        "- [Custom cakes](https://www.thewhitecakes.com/custom-cakes-cebu/) — Signature Marble and custom celebration cakes.",
+        "- [Birthday cakes](https://www.thewhitecakes.com/birthday-cakes-cebu/) — Birthday cakes made to order.",
+        "- [Anniversary cakes](https://www.thewhitecakes.com/anniversary-cakes-cebu/) — Anniversary and gift cakes.",
+        "- [Wedding cakes](https://www.thewhitecakes.com/wedding-cakes-cebu/) — Intimate wedding and engagement cakes.",
+        "- [Corporate orders](https://www.thewhitecakes.com/corporate-cake-orders-cebu/) — Office and corporate cake delivery.",
+        "- [Cebu City delivery](https://www.thewhitecakes.com/cake-delivery-cebu-city/) — Cake delivery in Cebu City.",
+        "- [Mandaue delivery](https://www.thewhitecakes.com/cake-delivery-mandaue/) — Cake delivery in Mandaue.",
+        "- [Lapu-Lapu delivery](https://www.thewhitecakes.com/cake-delivery-lapu-lapu/) — Cake delivery in Lapu-Lapu and Mactan.",
+        "- [FAQ](https://www.thewhitecakes.com/faq/) — Lead time, delivery, flavours, and ordering.",
+        "",
+        "## Journal",
+        "",
+    ]
+    for p in ALL_POSTS:
+        lines.append(
+            f"- [{p['h1']}](https://www.thewhitecakes.com/journal/{p['file']}) — {p['meta']}"
+        )
+    (ROOT / "llms.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def main():
+    (ROOT / "journal" / "index.html").write_text(journal_section_html(), encoding="utf-8")
+    for slug, links in CROSSLINKS.items():
+        add_crosslinks(slug, links)
+    faq_guides()
+    home_journal()
+    sitemap()
+    robots()
+    llms_txt()
+    print("journal index, crosslinks, sitemap, llms.txt updated")
+
+
+if __name__ == "__main__":
+    main()
