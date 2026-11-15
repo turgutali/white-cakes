@@ -1,39 +1,18 @@
 #!/usr/bin/env python3
-"""Journal index, sitemap, cross-links, llms.txt, robots after posts 01–04."""
+"""Journal index, sitemap, cross-links, llms.txt after full blog publish."""
 from __future__ import annotations
 
 import json
 import re
 from pathlib import Path
 
+import yaml
+
 ROOT = Path(__file__).resolve().parent.parent
+PROMPT = Path(__file__).resolve().parent / "blog-publish-prompt.md"
 LASTMOD_SITE = "2026-11-15"
 
-ALL_POSTS = [
-    {
-        "file": "cake-delivery-cebu.html",
-        "h1": "Cake Delivery in Metro Cebu: Where We Deliver and How It Works",
-        "meta": "Where we deliver cakes in Metro Cebu: Cebu City, Mandaue and Lapu-Lapu. What to send, delivery windows, bridge traffic, and when pickup is better.",
-        "date": "2026-11-27",
-    },
-    {
-        "file": "how-to-choose-wedding-cake-cebu.html",
-        "h1": "How to Choose a Wedding Cake in Cebu",
-        "meta": "How to choose a wedding cake in Cebu: guest count, venue heat, buttercream vs fondant, delivery, and what to send for a quote. No guesswork.",
-        "date": "2026-11-24",
-    },
-    {
-        "file": "what-is-a-bento-cake.html",
-        "h1": "What Is a Bento Cake? A Small-Cake Guide for Cebu",
-        "meta": "A bento cake is a small 4-inch cake for one or two people. What it is, who it suits, and how to order a hand-piped bento cake in Cebu.",
-        "date": "2026-11-20",
-    },
-    {
-        "file": "christmas-cake-delivery-cebu.html",
-        "h1": "Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake",
-        "meta": "Ordering a Christmas cake in Cebu? How early to message, which cakes travel as gifts, and holiday delivery to Cebu City, Mandaue and Lapu-Lapu.",
-        "date": "2026-11-17",
-    },
+LEGACY_POSTS = [
     {
         "file": "how-to-order.html",
         "h1": "How to order a custom cake in Cebu",
@@ -62,48 +41,111 @@ ALL_POSTS = [
 
 CROSSLINKS = {
     "cake-delivery-cebu-city": [
-        ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
-        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+        ("cake-delivery-cebu.html",),
+        ("christmas-cake-delivery-cebu.html",),
+        ("corporate-office-cakes-cebu.html",),
+        ("first-birthday-sinulog-cake-cebu.html",),
     ],
     "cake-delivery-mandaue": [
-        ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
-        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+        ("cake-delivery-cebu.html",),
+        ("christmas-cake-delivery-cebu.html",),
+        ("corporate-office-cakes-cebu.html",),
     ],
     "cake-delivery-lapu-lapu": [
-        ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
-        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+        ("cake-delivery-cebu.html",),
+        ("christmas-cake-delivery-cebu.html",),
+        ("first-birthday-sinulog-cake-cebu.html",),
+        ("valentines-bouquet-cake-cebu.html",),
     ],
     "birthday-cakes-cebu": [
-        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+        ("debut-cake-cebu.html",),
+        ("first-birthday-sinulog-cake-cebu.html",),
+        ("what-is-a-bento-cake.html",),
+        ("how-far-ahead-to-order-a-cake-cebu.html",),
     ],
     "anniversary-cakes-cebu": [
-        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+        ("bouquet-cake-gift-cebu.html",),
+        ("valentines-bouquet-cake-cebu.html",),
+        ("what-is-a-bento-cake.html",),
     ],
     "wedding-cakes-cebu": [
-        ("How to Choose a Wedding Cake in Cebu", "how-to-choose-wedding-cake-cebu.html"),
+        ("how-to-choose-wedding-cake-cebu.html",),
+        ("how-to-brief-a-custom-cake-cebu.html",),
+        ("how-far-ahead-to-order-a-cake-cebu.html",),
     ],
     "corporate-cake-orders-cebu": [
-        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+        ("corporate-office-cakes-cebu.html",),
+        ("how-far-ahead-to-order-a-cake-cebu.html",),
+        ("what-is-a-bento-cake.html",),
     ],
     "bento-cakes-cebu": [
-        ("What Is a Bento Cake? A Small-Cake Guide for Cebu", "what-is-a-bento-cake.html"),
+        ("what-is-a-bento-cake.html",),
+        ("corporate-office-cakes-cebu.html",),
+        ("valentines-bouquet-cake-cebu.html",),
     ],
     "bouquet-cakes-cebu": [
-        ("Christmas Cake Delivery in Cebu: How to Order a Hand-Finished Holiday Cake", "christmas-cake-delivery-cebu.html"),
+        ("bouquet-cake-gift-cebu.html",),
+        ("valentines-bouquet-cake-cebu.html",),
+        ("christmas-cake-delivery-cebu.html",),
     ],
     "custom-cakes-cebu": [
-        ("How to Choose a Wedding Cake in Cebu", "how-to-choose-wedding-cake-cebu.html"),
+        ("how-to-brief-a-custom-cake-cebu.html",),
+        ("christening-cake-cebu.html",),
+        ("debut-cake-cebu.html",),
+        ("how-to-choose-wedding-cake-cebu.html",),
     ],
 }
 
 FAQ_GUIDES = [
-    ("Cake Delivery in Metro Cebu: Where We Deliver and How It Works", "cake-delivery-cebu.html"),
+    ("how-far-ahead-to-order-a-cake-cebu.html",),
+    ("cake-delivery-cebu.html",),
+    ("how-to-brief-a-custom-cake-cebu.html",),
 ]
 
-HOME_JOURNAL = ALL_POSTS[:3]
+
+def load_prompt_posts() -> list[dict]:
+    text = PROMPT.read_text(encoding="utf-8")
+    posts = []
+    for chunk in re.findall(
+        r"<!-- ===== FILE: \d+-.+?\.md ===== -->\s*(.*?)(?=<!-- ===== FILE:|\Z)",
+        text,
+        flags=re.DOTALL,
+    ):
+        if not chunk.lstrip().startswith("---"):
+            continue
+        parts = chunk.split("---\n", 2)
+        meta = yaml.safe_load(parts[1])
+        if not meta or "url" not in meta:
+            continue
+        fname = meta["url"].rsplit("/", 1)[-1]
+        pub = meta["publish_date"]
+        if hasattr(pub, "isoformat"):
+            pub = pub.isoformat()
+        posts.append(
+            {
+                "file": fname,
+                "h1": meta["h1"],
+                "meta": meta["meta_description"],
+                "date": pub,
+            }
+        )
+    return posts
 
 
-def journal_section_html() -> str:
+def all_posts() -> list[dict]:
+    combined = load_prompt_posts() + LEGACY_POSTS
+    combined.sort(key=lambda p: p["date"], reverse=True)
+    return combined
+
+
+def h1_for_file(posts: list[dict], fname: str) -> str:
+    for p in posts:
+        if p["file"] == fname:
+            return p["h1"]
+    return fname
+
+
+def journal_section_html(posts: list[dict]) -> str:
     items = "".join(
         f"""
         <li>
@@ -112,7 +154,7 @@ def journal_section_html() -> str:
             <p>{p['meta']}</p>
           </a>
         </li>"""
-        for p in ALL_POSTS
+        for p in posts
     )
     blog_posts = [
         {
@@ -121,7 +163,7 @@ def journal_section_html() -> str:
             "url": f"https://www.thewhitecakes.com/journal/{p['file']}",
             "datePublished": p["date"],
         }
-        for p in ALL_POSTS
+        for p in posts
     ]
     blog_ld = {
         "@context": "https://schema.org",
@@ -146,7 +188,7 @@ def journal_section_html() -> str:
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Journal: Cake Guides for Cebu | The White Cakes - Cebu</title>
-  <meta name="description" content="Journal from White Cakes Cebu: ordering, delivery, bento and wedding cakes, Christmas gifts, and buttercream in tropical heat. No prices published yet.">
+  <meta name="description" content="Journal from White Cakes Cebu: ordering, delivery, bento and wedding cakes, Christmas gifts, debut, christening, and buttercream in tropical heat.">
   <link rel="canonical" href="https://www.thewhitecakes.com/journal/">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <meta property="og:title" content="Journal: Cake Guides for Cebu | The White Cakes - Cebu">
@@ -195,6 +237,8 @@ def journal_section_html() -> str:
       <ul class="footer-links">
         <li><a href="mailto:info@thewhitecakes.com">info@thewhitecakes.com</a></li>
         <li><a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp <span data-wa-label>+63 947 438 2632</span></a></li>
+        <li><a href="https://www.instagram.com/thewhitecakescebu/" rel="noopener noreferrer">Instagram</a></li>
+        <li><a href="https://www.facebook.com/thewhitecakes/" rel="noopener noreferrer">Facebook</a></li>
         <li><a href="/#order">Order</a></li>
       </ul>
       <p class="loc">Cebu, Philippines</p>
@@ -206,15 +250,14 @@ def journal_section_html() -> str:
 </html>"""
 
 
-def add_crosslinks(slug: str, links: list[tuple[str, str]]):
+def add_crosslinks(slug: str, files: list[tuple[str, ...]], posts: list[dict]):
     path = ROOT / slug / "index.html"
     if not path.exists():
         return
     t = path.read_text(encoding="utf-8")
-    if "From our journal" in t:
-        t = re.sub(r'<nav class="journal-from-bench".*?</nav>\s*', "", t, flags=re.DOTALL)
+    t = re.sub(r'<nav class="journal-from-bench".*?</nav>\s*', "", t, flags=re.DOTALL)
     lis = "".join(
-        f'<li><a href="/journal/{f}">{title}</a></li>' for title, f in links
+        f'<li><a href="/journal/{f}">{h1_for_file(posts, f)}</a></li>' for (f,) in files
     )
     block = f"""
           <nav class="journal-from-bench" aria-label="From our journal">
@@ -224,16 +267,18 @@ def add_crosslinks(slug: str, links: list[tuple[str, str]]):
             </ul>
           </nav>
           <aside class="article-end">"""
+    if "<aside class=\"article-end\">" not in t:
+        return
     t = t.replace('<aside class="article-end">', block, 1)
     path.write_text(t, encoding="utf-8")
 
 
-def faq_guides():
+def faq_guides(posts: list[dict]):
     path = ROOT / "faq" / "index.html"
     t = path.read_text(encoding="utf-8")
     t = re.sub(r'<nav class="related-guides".*?</nav>\s*', "", t, flags=re.DOTALL)
     lis = "".join(
-        f'<li><a href="/journal/{f}">{title}</a></li>' for title, f in FAQ_GUIDES
+        f'<li><a href="/journal/{f}">{h1_for_file(posts, f)}</a></li>' for (f,) in FAQ_GUIDES
     )
     block = f"""
       <nav class="related-guides" aria-label="Related guides">
@@ -247,7 +292,7 @@ def faq_guides():
     path.write_text(t, encoding="utf-8")
 
 
-def home_journal():
+def home_journal(posts: list[dict]):
     path = ROOT / "index.html"
     t = path.read_text(encoding="utf-8")
     items = "".join(
@@ -258,7 +303,7 @@ def home_journal():
               <p>{p['meta']}</p>
             </a>
           </li>"""
-        for p in HOME_JOURNAL
+        for p in posts[:3]
     )
     t = re.sub(
         r'<ol class="journal-list">.*?</ol>',
@@ -267,10 +312,15 @@ def home_journal():
         count=1,
         flags=re.DOTALL,
     )
+    # richer intro under journal section
+    t = t.replace(
+        "Short guides on ordering, flavor, and heat in Cebu.",
+        "Guides on delivery, lead time, bento and wedding cakes, debut, christening, and celebrating in Cebu heat.",
+    )
     path.write_text(t, encoding="utf-8")
 
 
-def sitemap():
+def sitemap(posts: list[dict]):
     urls = [
         ("/", "weekly", "1.0", LASTMOD_SITE),
         ("/bento-cakes-cebu/", "monthly", "0.9", LASTMOD_SITE),
@@ -285,11 +335,10 @@ def sitemap():
         ("/cake-delivery-lapu-lapu/", "monthly", "0.85", LASTMOD_SITE),
         ("/faq/", "monthly", "0.8", LASTMOD_SITE),
         ("/journal/", "weekly", "0.8", LASTMOD_SITE),
+        ("/llms.txt", "monthly", "0.3", LASTMOD_SITE),
     ]
-    for p in ALL_POSTS:
-        urls.append(
-            (f"/journal/{p['file']}", "monthly", "0.7", p["date"])
-        )
+    for p in posts:
+        urls.append((f"/journal/{p['file']}", "monthly", "0.7", p["date"]))
     lines = ['<?xml version="1.0" encoding="UTF-8"?>']
     lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
     for loc, freq, pri, lm in urls:
@@ -329,11 +378,11 @@ Sitemap: https://www.thewhitecakes.com/sitemap.xml
     )
 
 
-def llms_txt():
+def llms_txt(posts: list[dict]):
     lines = [
         "# The White Cakes - Cebu",
         "",
-        "The White Cakes is a made-to-order luxury cake cloud kitchen in Lahug, Cebu City. There is no storefront or walk-in counter. Pickup is by arrangement; delivery covers Cebu City, Mandaue, and Lapu-Lapu. Orders need at least three days' notice. Signature Marble (6-inch), Bouquet Cake, and Bento (4-inch); flavours chocolate, vanilla, ube, mango, red velvet. Prices are not published yet. WhatsApp +63 947 438 2632.",
+        "The White Cakes is a made-to-order luxury cake cloud kitchen in Lahug, Cebu City. There is no storefront or walk-in counter. Pickup is by arrangement; delivery covers Cebu City, Mandaue, and Lapu-Lapu. Orders need at least three days' notice. Signature Marble (6-inch), Bouquet Cake, and Bento (4-inch); flavours chocolate, vanilla, ube, mango, red velvet. Prices are not published yet. WhatsApp +63 947 438 2632. Website: https://www.thewhitecakes.com",
         "",
         "## Pages",
         "",
@@ -353,7 +402,7 @@ def llms_txt():
         "## Journal",
         "",
     ]
-    for p in ALL_POSTS:
+    for p in posts:
         lines.append(
             f"- [{p['h1']}](https://www.thewhitecakes.com/journal/{p['file']}) — {p['meta']}"
         )
@@ -361,15 +410,16 @@ def llms_txt():
 
 
 def main():
-    (ROOT / "journal" / "index.html").write_text(journal_section_html(), encoding="utf-8")
+    posts = all_posts()
+    (ROOT / "journal" / "index.html").write_text(journal_section_html(posts), encoding="utf-8")
     for slug, links in CROSSLINKS.items():
-        add_crosslinks(slug, links)
-    faq_guides()
-    home_journal()
-    sitemap()
+        add_crosslinks(slug, links, posts)
+    faq_guides(posts)
+    home_journal(posts)
+    sitemap(posts)
     robots()
-    llms_txt()
-    print("journal index, crosslinks, sitemap, llms.txt updated")
+    llms_txt(posts)
+    print(f"Updated index, sitemap ({len(posts)} posts), cross-links, llms.txt")
 
 
 if __name__ == "__main__":
