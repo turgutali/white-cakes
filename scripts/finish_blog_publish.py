@@ -255,12 +255,11 @@ def add_crosslinks(slug: str, files: list[tuple[str, ...]], posts: list[dict]):
     if not path.exists():
         return
     t = path.read_text(encoding="utf-8")
-    t = re.sub(r'<nav class="journal-from-bench".*?</nav>\s*', "", t, flags=re.DOTALL)
+    t = re.sub(r"\s*<nav class=\"journal-from-bench\".*?</nav>\s*", "\n          ", t, count=1, flags=re.DOTALL)
     lis = "".join(
         f'<li><a href="/journal/{f}">{h1_for_file(posts, f)}</a></li>' for (f,) in files
     )
-    block = f"""
-          <nav class="journal-from-bench" aria-label="From our journal">
+    block = f"""<nav class="journal-from-bench" aria-label="From our journal">
             <p class="kicker">From our journal</p>
             <ul>
               {lis}
@@ -276,12 +275,11 @@ def add_crosslinks(slug: str, files: list[tuple[str, ...]], posts: list[dict]):
 def faq_guides(posts: list[dict]):
     path = ROOT / "faq" / "index.html"
     t = path.read_text(encoding="utf-8")
-    t = re.sub(r'<nav class="related-guides".*?</nav>\s*', "", t, flags=re.DOTALL)
+    t = re.sub(r"\s*<nav class=\"related-guides\".*?</nav>\s*", "\n      ", t, count=1, flags=re.DOTALL)
     lis = "".join(
         f'<li><a href="/journal/{f}">{h1_for_file(posts, f)}</a></li>' for (f,) in FAQ_GUIDES
     )
-    block = f"""
-      <nav class="related-guides" aria-label="Related guides">
+    block = f"""<nav class="related-guides" aria-label="Related guides">
         <p class="kicker">Related guides</p>
         <ul>
           {lis}
