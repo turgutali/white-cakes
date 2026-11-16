@@ -45,9 +45,9 @@
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Bento Cake",
-  "description": "Order a 4-inch bento cake in Cebu — hand-piped buttercream for two, gifts, and small celebrations. Delivery in Cebu City, Mandaue, and Lapu-Lapu.",
+  "@type": "Product",
+  "name": "Bento Cake (4 inch)",
+  "description": "4-inch hand-piped bento cake in ivory buttercream with shells, a blush ribbon, and one rose. Made to order in Cebu. Launch price 449 PHP until January 15, 2027 inclusive; regular price 599 PHP from January 16, 2027. A 50% deposit confirms the order.",
   "image": [
     {
       "@type": "ImageObject",
@@ -78,27 +78,38 @@
       "height": 800
     }
   ],
-  "serviceType": "Bento cake",
-  "url": "https://www.thewhitecakes.com/bento-cakes-cebu/",
-  "provider": {
-    "@id": "https://www.thewhitecakes.com/#organization"
+  "sku": "bento-4in",
+  "size": "4 inch",
+  "brand": {
+    "@type": "Brand",
+    "name": "The White Cakes"
   },
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Cebu City"
-    },
-    {
-      "@type": "City",
-      "name": "Mandaue City"
-    },
-    {
-      "@type": "City",
-      "name": "Lapu-Lapu City"
-    }
-  ],
   "publisher": {
     "@id": "https://www.thewhitecakes.com/#organization"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.thewhitecakes.com/bento-cakes-cebu/",
+    "price": 449,
+    "priceCurrency": "PHP",
+    "validFrom": "2026-11-16T00:00:00+08:00",
+    "priceValidUntil": "2027-01-15T23:59:59+08:00",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": {
+      "@id": "https://www.thewhitecakes.com/#organization"
+    },
+    "priceSpecification": {
+      "@type": "UnitPriceSpecification",
+      "priceType": "https://schema.org/StrikethroughPrice",
+      "price": 599,
+      "priceCurrency": "PHP"
+    },
+    "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "applicableCountry": "PH",
+      "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+    }
   }
 }
   </script>
@@ -150,6 +161,15 @@
 </figure>
           <div class="prose">
     <p>A bento cake from The White Cakes is a 4-inch round, finished in ivory buttercream with piped shells, a blush ribbon, and one rose. We bake it in our Cebu cloud kitchen for the date you name — there is no walk-in counter and no cake waiting in a display case.</p>
+<h2>Price</h2>
+<p class="price-offer">
+  <span class="price-kicker">Launch price — until January 15, 2027</span>
+  <span class="price-figures">
+    <s class="price-was"><span class="visually-hidden">Regular price </span>₱599</s>
+    <span class="price-now"><span class="visually-hidden">Launch price </span>₱449</span>
+  </span>
+</p>
+<p>The struck-through amount is the regular price from January 16, 2027. A 50% deposit confirms the order. The cake is perishable and made to order, so returns are not accepted. We deliver in Cebu City, Mandaue, and Lapu-Lapu; order at least three days ahead.</p>
 <h2>Who it suits</h2>
 <p>Two people at one table, a desk celebration, a quiet birthday, or a gift you will carry yourself through traffic. In Cebu heat and bridge traffic, a low cake travels more safely than a tall tier. It fits on a passenger seat when the ride is flat and shaded.</p>
 <h2>Flavours and inscription</h2>

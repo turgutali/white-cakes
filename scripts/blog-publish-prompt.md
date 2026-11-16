@@ -7,7 +7,7 @@ Paste everything below this line into your site builder or AI coder. The full te
 You are updating the static website for **The White Cakes - Cebu** (https://www.thewhitecakes.com). It is a made-to-order luxury cake cloud kitchen in Lahug, Cebu City. There is no storefront or walk-in, pickup is by arrangement, and delivery covers Cebu City, Mandaue and Lapu-Lapu. Keep the existing design system, fonts, colours (ivory, midnight navy, dusty blue, blush, sage) and the "Notes from the bench" journal style. Language: `en-PH`.
 
 **Hard rules**
-- **No prices** anywhere: no ₱, PHP, peso amounts, `priceRange` or `offers`, in text, schema or meta.
+- **Prices:** the approved launch list is already live (until January 15, 2027). Do not delete those prices or their Product offers. Bouquet cakes stay price on request, with no price in schema. Do not invent any other peso amount, `priceRange`, review, or rating. Samples later in this file that still say "prices are not published" are historical; do not copy that claim onto the live site.
 - Do not invent reviews, ratings, awards, years in business, addresses or customer quotes.
 - Do not change the wording of the posts, except to convert Markdown to HTML.
 - WhatsApp: `https://wa.me/639474382632` (keep the `?text=` prefill given in each post). Messenger: `https://m.me/thewhitecakes`. The visible number is `+63 947 438 2632`.
@@ -98,7 +98,7 @@ On 02 (bento), replace the old line "Until this is finished, read our bento cake
 ## 5. Optional: `/llms.txt` for AI search
 
 Create `/llms.txt` (plain Markdown). It should contain:
-- a one-paragraph description of the business, using only facts already on the site: cloud kitchen in Lahug, Cebu City; no storefront; three-day minimum notice; Signature Marble (6"), Bouquet Cake and Bento (4"); flavours chocolate, vanilla, ube, mango, red velvet; delivery to Cebu City, Mandaue and Lapu-Lapu; prices not published yet; WhatsApp +63 947 438 2632;
+- a one-paragraph description of the business, using only facts already on the site: cloud kitchen in Lahug, Cebu City; no storefront; three-day minimum notice; Signature Marble (6"), Bouquet Cake and Bento (4"); flavours chocolate, vanilla, ube, mango, red velvet; delivery to Cebu City, Mandaue and Lapu-Lapu; launch prices until January 15, 2027 (bouquet still price on request); WhatsApp +63 947 438 2632;
 - links to the product, occasion and area pages, `/faq/`, and every live journal post, each with its meta description.
 
 Update it on each run.
@@ -107,7 +107,7 @@ Update it on each run.
 
 Report back with:
 1. Every file changed or added.
-2. Confirmation that no price or peso amount appears anywhere.
+2. Confirmation that published prices match the approved launch list, that bouquet cakes have no schema price, and that no other peso amount was invented.
 3. Confirmation that every JSON-LD block is valid (Rich Results Test / schema.org validator syntax), that FAQ text matches the visible text, and that there are no escaped slashes in canonical or `og:url`.
 4. Confirmation that every internal link returns 200 and no link points to an unpublished post.
 5. Confirmation that the sitemap is valid XML and lists only indexable pages.

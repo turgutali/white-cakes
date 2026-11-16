@@ -60,7 +60,7 @@ WEDDING = """<p>We are a made-to-order cloud kitchen in Cebu, not a hotel pastry
 <h2>Delivery and setup</h2>
 <p>We deliver within Cebu City, Mandaue, and Lapu-Lapu. We do not provide on-site cutting service or venue setup crew. Someone at the venue must receive the cake; resorts need a guest name on the order for gate clearance.</p>
 <h2>Quotes</h2>
-<p>We do not publish prices online. Message us with the date and brief; we reply within 24 hours with what we can do and how payment is confirmed for that order.</p>"""
+<p>A 6-inch custom cake starts at ₱1,399 (regular price ₱1,799), an 8-inch starts at ₱1,999 (regular price ₱2,599), and a 2-tier starts at ₱3,399 (regular price ₱4,299). Launch price — until January 15, 2027. These are starting prices; the final price depends on the design. Message us with the date and brief; we reply within 24 hours. A 50% deposit confirms the order.</p>"""
 
 CORPORATE = """<p>Offices in Cebu City, Mandaue, and Lapu-Lapu order from us for client gifts, team milestones, and reception-desk celebrations — one finished cake or several bento boxes, piped by hand rather than pulled from a mall counter.</p>
 <h2>What we need on the order</h2>

@@ -3,7 +3,7 @@
 
 Generates the square icon set from the existing WC monogram and patches every
 HTML page so Google can crawl a stable favicon, one Organization+Bakery entity,
-and service images. Does not emit Product, Offer, price, or review markup.
+and service images. Leaves published Product offers in place. Does not emit reviews or ratings.
 """
 from __future__ import annotations
 
@@ -471,9 +471,9 @@ def clean_node(node):
         return node
     t = node.get("@type")
     types = set(t if isinstance(t, list) else [t])
-    if types & {"Product", "Offer", "AggregateOffer", "AggregateRating", "Review", "Rating"}:
+    if types & {"AggregateOffer", "AggregateRating", "Review", "Rating"}:
         raise SystemExit(f"refusing disallowed type {types}")
-    for bad in ("offers", "price", "lowPrice", "highPrice", "priceCurrency", "priceRange", "aggregateRating", "review", "reviewRating"):
+    for bad in ("lowPrice", "highPrice", "priceRange", "aggregateRating", "review", "reviewRating"):
         node.pop(bad, None)
     for key in ("publisher", "author", "provider"):
         val = node.get(key)
@@ -889,7 +889,7 @@ def write_about() -> None:
           <div><dt>Facebook</dt><dd><a data-fb href="{FB}" rel="noopener noreferrer">The White Cakes - Cebu</a></dd></div>
         </dl>
         <h2>How to order</h2>
-        <p>Use the <a href="/order/">order form</a> or message us on WhatsApp. Send the design, the flavour, the date, the words for the top, and whether you want arranged pickup or delivery. For delivery, include a full address, a landmark, and the name of the person who will meet the cake. Prices are not published on this site. We confirm the order when we reply.</p>
+        <p>Use the <a href="/order/">order form</a> or message us on WhatsApp. Send the design, the flavour, the date, the words for the top, and whether you want arranged pickup or delivery. For delivery, include a full address, a landmark, and the name of the person who will meet the cake. Launch price — until January 15, 2027. The struck-through amount on the menu is the regular price from January 16, 2027. Bouquet cakes are price on request. A 50% deposit confirms the order.</p>
         <p>Read the <a href="/faq/">FAQ</a> for lead time, flavours, and delivery, or start from the <a href="/#collection">collection</a>.</p>
       </div>
     </article>
@@ -1066,7 +1066,7 @@ def write_llms() -> None:
 
 Hand-finished buttercream cakes, baked for a named date. Signature designs are Signature Marble (6-inch), Bouquet Cake, and Bento Cake (4-inch). Also custom celebration cakes, birthday cakes, anniversary and gift cakes, intimate wedding and engagement cakes, and corporate or office orders. Flavours are chocolate, vanilla, ube, mango, and red velvet.
 
-Prices are not published. This site does not list offers, discounts, reviews, or ratings. Ask for a quote for the date and the design.
+Launch prices in PHP are published until January 15, 2027 inclusive. The regular price is charged after that date. Custom designs are starting prices. Bouquet cakes are price on request. A 50% deposit confirms the order. This site does not list reviews or ratings.
 
 ## How to order
 
@@ -1140,7 +1140,7 @@ def validate() -> None:
                 problems.append(f"{rel}: JSON {exc}")
                 continue
             blob = json.dumps(data)
-            for banned in ('"Product"', '"Offer"', '"AggregateOffer"', '"AggregateRating"', '"price"', '"priceRange"', '"review"'):
+            for banned in ('"AggregateOffer"', '"AggregateRating"', '"priceRange"', '"review"'):
                 if banned in blob:
                     problems.append(f"{rel}: found {banned}")
             if '"@type": "Review"' in blob or '"Review"' in blob:

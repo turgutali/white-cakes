@@ -45,70 +45,121 @@
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Custom Celebration Cake",
-  "description": "Custom celebration cakes in Cebu, including Signature Marble with dusty-blue buttercream. Hand-finished, made to order. No storefront — pickup or delivery.",
-  "image": [
+  "@graph": [
     {
-      "@type": "ImageObject",
-      "url": "https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-1x1.jpg",
-      "contentUrl": "https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-1x1.jpg",
-      "width": 800,
-      "height": 800
+      "@type": "Product",
+      "name": "6-inch Custom Cake",
+      "image": [
+        "https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp",
+        "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp"
+      ],
+      "description": "6-inch custom buttercream cake made to order in Cebu, including Signature Marble. Starting launch price 1399 PHP until January 15, 2027 inclusive; regular starting price 1799 PHP from January 16, 2027. The final price depends on the design. A 50% deposit confirms the order.",
+      "sku": "custom-6in",
+      "size": "6 inch",
+      "brand": {
+        "@type": "Brand",
+        "name": "The White Cakes"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.thewhitecakes.com/custom-cakes-cebu/#six-inch",
+        "price": 1399,
+        "priceCurrency": "PHP",
+        "validFrom": "2026-11-16T00:00:00+08:00",
+        "priceValidUntil": "2027-01-15T23:59:59+08:00",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@id": "https://www.thewhitecakes.com/#organization"
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "priceType": "https://schema.org/StrikethroughPrice",
+          "price": 1799,
+          "priceCurrency": "PHP"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "applicableCountry": "PH",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+        }
+      }
     },
     {
-      "@type": "ImageObject",
-      "url": "https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-4x3.jpg",
-      "contentUrl": "https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-4x3.jpg",
-      "width": 800,
-      "height": 600
+      "@type": "Product",
+      "name": "8-inch Custom Cake",
+      "image": [
+        "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp"
+      ],
+      "description": "8-inch custom buttercream cake made to order in Cebu. Starting launch price 1999 PHP until January 15, 2027 inclusive; regular starting price 2599 PHP from January 16, 2027. The final price depends on the design. A 50% deposit confirms the order. The photograph shows our ivory buttercream celebration style.",
+      "sku": "custom-8in",
+      "size": "8 inch",
+      "brand": {
+        "@type": "Brand",
+        "name": "The White Cakes"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.thewhitecakes.com/custom-cakes-cebu/#eight-inch",
+        "price": 1999,
+        "priceCurrency": "PHP",
+        "validFrom": "2026-11-16T00:00:00+08:00",
+        "priceValidUntil": "2027-01-15T23:59:59+08:00",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@id": "https://www.thewhitecakes.com/#organization"
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "priceType": "https://schema.org/StrikethroughPrice",
+          "price": 2599,
+          "priceCurrency": "PHP"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "applicableCountry": "PH",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+        }
+      }
     },
     {
-      "@type": "ImageObject",
-      "url": "https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.jpg",
-      "contentUrl": "https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.jpg",
-      "width": 800,
-      "height": 450
-    },
-    {
-      "@type": "ImageObject",
-      "url": "https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp",
-      "contentUrl": "https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp",
-      "width": 800,
-      "height": 800
-    },
-    {
-      "@type": "ImageObject",
-      "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp",
-      "contentUrl": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp",
-      "width": 840,
-      "height": 1120
-    },
-    {
-      "@type": "ImageObject",
-      "url": "https://www.thewhitecakes.com/assets/cake-slice-cebu.webp",
-      "contentUrl": "https://www.thewhitecakes.com/assets/cake-slice-cebu.webp",
-      "width": 960,
-      "height": 720
-    }
-  ],
-  "serviceType": "Custom celebration cake",
-  "url": "https://www.thewhitecakes.com/custom-cakes-cebu/",
-  "provider": {
-    "@id": "https://www.thewhitecakes.com/#organization"
-  },
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Cebu City"
-    },
-    {
-      "@type": "City",
-      "name": "Mandaue City"
-    },
-    {
-      "@type": "City",
-      "name": "Lapu-Lapu City"
+      "@type": "Product",
+      "name": "2-tier Custom Cake",
+      "image": [
+        "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp"
+      ],
+      "description": "2-tier custom buttercream cake made to order in Cebu. Starting launch price 3399 PHP until January 15, 2027 inclusive; regular starting price 4299 PHP from January 16, 2027. The final price depends on the design. A 50% deposit confirms the order. The photograph shows our ivory buttercream celebration style.",
+      "sku": "custom-2tier",
+      "size": "2 tier",
+      "brand": {
+        "@type": "Brand",
+        "name": "The White Cakes"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "https://www.thewhitecakes.com/custom-cakes-cebu/#two-tier",
+        "price": 3399,
+        "priceCurrency": "PHP",
+        "validFrom": "2026-11-16T00:00:00+08:00",
+        "priceValidUntil": "2027-01-15T23:59:59+08:00",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition",
+        "seller": {
+          "@id": "https://www.thewhitecakes.com/#organization"
+        },
+        "priceSpecification": {
+          "@type": "UnitPriceSpecification",
+          "priceType": "https://schema.org/StrikethroughPrice",
+          "price": 4299,
+          "priceCurrency": "PHP"
+        },
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "applicableCountry": "PH",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+        }
+      }
     }
   ],
   "publisher": {
@@ -164,6 +215,33 @@
 </figure>
           <div class="prose">
     <p>Custom celebration cakes and our Signature Marble are mixed and piped for the calendar day you send us — not pulled from a case. Signature Marble is a 6-inch ivory cake with dusty-blue marbling, a shell border, and one rose. Fully custom work follows your brief and reference photos within what hand-piped buttercream can do.</p>
+<h2>Launch prices</h2>
+<p>Launch price — until January 15, 2027. The struck-through amount is the regular price from January 16, 2027. These are starting prices for custom designs; the final price depends on the design and is confirmed before you pay. A 50% deposit confirms the order. Cakes are perishable and made to order, so returns are not accepted. We deliver in Cebu City, Mandaue, and Lapu-Lapu.</p>
+<h3 id="six-inch">6-inch custom cake</h3>
+<p class="price-offer">
+  <span class="price-kicker">Launch price — until January 15, 2027</span>
+  <span class="price-figures">
+    <s class="price-was"><span class="visually-hidden">Regular price </span>₱1,799</s>
+    <span class="price-now"><span class="visually-hidden">Launch price, starting at </span><span aria-hidden="true">Starting at </span>₱1,399</span>
+  </span>
+</p>
+<p>Signature Marble and other 6-inch custom designs start here.</p>
+<h3 id="eight-inch">8-inch custom cake</h3>
+<p class="price-offer">
+  <span class="price-kicker">Launch price — until January 15, 2027</span>
+  <span class="price-figures">
+    <s class="price-was"><span class="visually-hidden">Regular price </span>₱2,599</s>
+    <span class="price-now"><span class="visually-hidden">Launch price, starting at </span><span aria-hidden="true">Starting at </span>₱1,999</span>
+  </span>
+</p>
+<h3 id="two-tier">2-tier custom cake</h3>
+<p class="price-offer">
+  <span class="price-kicker">Launch price — until January 15, 2027</span>
+  <span class="price-figures">
+    <s class="price-was"><span class="visually-hidden">Regular price </span>₱4,299</s>
+    <span class="price-now"><span class="visually-hidden">Launch price, starting at </span><span aria-hidden="true">Starting at </span>₱3,399</span>
+  </span>
+</p>
 <h2>Signature Marble</h2>
 <p>The marble cake belongs at the centre of a small table: birthdays, family dinners, and celebrations where everyone shares one centerpiece. There is room on top for a name or a short line. If you need more servings, tell us the guest count — we will say whether an 8-inch date is possible on the bench.</p>
 <h2>Custom designs</h2>

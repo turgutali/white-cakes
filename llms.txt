@@ -17,7 +17,18 @@
 
 Hand-finished buttercream cakes, baked for a named date. Signature designs are Signature Marble (6-inch), Bouquet Cake, and Bento Cake (4-inch). Also custom celebration cakes, birthday cakes, anniversary and gift cakes, intimate wedding and engagement cakes, and corporate or office orders. Flavours are chocolate, vanilla, ube, mango, and red velvet.
 
-Prices are not published. This site does not list offers, discounts, reviews, or ratings. Ask for a quote for the date and the design.
+Launch prices in PHP are published until January 15, 2027 inclusive. The regular price is what the shop charges after that date. Custom designs are starting prices; the final price depends on the design. Bouquet cakes are price on request. A 50% deposit confirms the order. Perishable custom cakes are not returnable. This site does not list reviews or ratings.
+
+## Launch prices (PHP)
+
+Valid until January 15, 2027 inclusive. Label: Launch price — until January 15, 2027.
+
+- Bento cake (4 inch): regular 599, launch 449
+- 6-inch custom cake: regular 1799, launch 1399 (starting at)
+- 8-inch custom cake: regular 2599, launch 1999 (starting at)
+- Christmas vintage cake (6 inch): regular 1699, launch 1299
+- 2-tier custom cake: regular 4299, launch 3399 (starting at)
+- Bouquet cake: price on request (no published price)
 
 ## How to order
 

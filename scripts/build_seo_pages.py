@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Generate SEO landing pages for The White Cakes - Cebu (static HTML)."""
+"""Generate SEO landing pages for The White Cakes - Cebu (static HTML).
+
+Do not rerun this over the live pages. Those pages now carry the launch
+prices and Product JSON-LD, which this generator does not emit.
+"""
 from __future__ import annotations
 
 import json
