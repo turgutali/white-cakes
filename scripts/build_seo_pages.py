@@ -190,6 +190,29 @@ def add(**kwargs):
     PAGES.append(kwargs)
 
 
+def service_ld(*, name: str, description: str, image: str, url: str, service_type: str = "Custom cake") -> dict:
+    """Service markup for a made-to-order cake. No price, offer, review, or rating."""
+    return {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": name,
+        "description": description,
+        "image": image,
+        "serviceType": service_type,
+        "url": url,
+        "provider": {
+            "@type": ["Bakery", "LocalBusiness"],
+            "name": "The White Cakes - Cebu",
+            "url": f"{BASE}/",
+        },
+        "areaServed": [
+            {"@type": "City", "name": "Cebu City"},
+            {"@type": "City", "name": "Mandaue City"},
+            {"@type": "City", "name": "Lapu-Lapu City"},
+        ],
+    }
+
+
 add(
     slug="bento-cakes-cebu",
     title="Bento Cakes in Cebu | The White Cakes - Cebu",
@@ -200,14 +223,12 @@ add(
     breadcrumb_label="Bento cakes",
     figure=("bento-cake-cebu.webp", "A 4-inch bento cake with piped shells, blush ribbon, and one rose on ivory linen", 800, 800, "Bento cake, Cebu"),
     related=[("birthday-cakes-cebu", "Birthday cakes"), ("cake-delivery-cebu-city", "Cake delivery — Cebu City"), ("faq", "FAQ")],
-    extra_json_ld=[{
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Bento Cake",
-        "description": "4-inch hand-finished bento cake made to order in Cebu.",
-        "image": f"{BASE}/assets/bento-cake-cebu.webp",
-        "brand": {"@type": "Brand", "name": "The White Cakes - Cebu"},
-    }],
+    extra_json_ld=[service_ld(
+        name="Bento Cake",
+        description="4-inch hand-finished bento cake made to order in Cebu.",
+        image=f"{BASE}/assets/bento-cake-cebu.webp",
+        url=f"{BASE}/bento-cakes-cebu/",
+    )],
     body_html=dedent(
         """\
         <p>Our bento cake is a 4-inch round finished in ivory buttercream with piped shells, a blush ribbon, and a single rose. It is made to order in our Cebu cloud kitchen — there is no walk-in counter and no case of cakes waiting.</p>
@@ -230,14 +251,12 @@ add(
     breadcrumb_label="Bouquet cakes",
     figure=("bouquet-cake-cebu.webp", "Bouquet cake with piped blush roses and sage leaves in Cebu", 800, 800, "Bouquet cake"),
     related=[("anniversary-cakes-cebu", "Anniversary cakes"), ("cake-delivery-mandaue", "Cake delivery — Mandaue"), ("custom-cakes-cebu", "Custom cakes")],
-    extra_json_ld=[{
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Bouquet Cake",
-        "description": "Hand-piped bouquet-style cake made to order in Cebu.",
-        "image": f"{BASE}/assets/bouquet-cake-cebu.webp",
-        "brand": {"@type": "Brand", "name": "The White Cakes - Cebu"},
-    }],
+    extra_json_ld=[service_ld(
+        name="Bouquet Cake",
+        description="Hand-piped bouquet-style cake made to order in Cebu.",
+        image=f"{BASE}/assets/bouquet-cake-cebu.webp",
+        url=f"{BASE}/bouquet-cakes-cebu/",
+    )],
     body_html=dedent(
         """\
         <p>The Bouquet Cake is ivory buttercream covered with piped blush roses and sage leaves. It reads as flowers you can cut — lower and softer than our Signature Marble cake.</p>
@@ -260,14 +279,12 @@ add(
     breadcrumb_label="Custom cakes",
     figure=("signature-marble-cake-cebu.webp", "Signature Marble cake with dusty-blue marbled buttercream and piped shell border", 800, 800, "Signature Marble"),
     related=[("wedding-cakes-cebu", "Wedding cakes"), ("corporate-cake-orders-cebu", "Corporate orders"), ("bento-cakes-cebu", "Bento cakes")],
-    extra_json_ld=[{
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Custom Celebration Cake",
-        "description": "Hand-finished custom and Signature Marble cakes in Cebu.",
-        "image": f"{BASE}/assets/signature-marble-cake-cebu.webp",
-        "brand": {"@type": "Brand", "name": "The White Cakes - Cebu"},
-    }],
+    extra_json_ld=[service_ld(
+        name="Custom Celebration Cake",
+        description="Hand-finished custom and Signature Marble cakes in Cebu.",
+        image=f"{BASE}/assets/signature-marble-cake-cebu.webp",
+        url=f"{BASE}/custom-cakes-cebu/",
+    )],
     body_html=dedent(
         """\
         <p>Every cake leaves our Cebu kitchen made for the date you name. Custom orders can follow your reference photo; our Signature Marble is the house 6-inch design in ivory cream with dusty-blue marble, a shell border, and one rose.</p>
