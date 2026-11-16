@@ -217,36 +217,11 @@ def patch_404():
 
 
 def generate_icons():
-    from PIL import Image
-    import cairosvg
+    """Full square favicon set. See scripts/apply_brand_seo.py."""
+    from apply_brand_seo import generate_brand_icons, write_manifest
 
-    svg = ROOT / "assets/apple-touch-icon.svg"
-    for size, name in [(192, "icon-192.png"), (512, "icon-512.png"), (32, "favicon-32.png")]:
-        cairosvg.svg2png(url=str(svg), write_to=str(ROOT / "assets" / name), output_width=size, output_height=size)
-    # favicon.ico from 32 and 16
-    img32 = Image.open(ROOT / "assets/favicon-32.png")
-    img16 = img32.resize((16, 16), Image.Resampling.LANCZOS)
-    img32.save(ROOT / "favicon.ico", format="ICO", sizes=[(32, 32)])
-    shutil.copy2(ROOT / "favicon.ico", ROOT / "assets/favicon.ico")
-    # logo.jpg square 512 for manifest (overwrite og copy)
-    cairosvg.svg2png(url=str(svg), write_to=str(ROOT / "assets/logo-512.png"), output_width=512, output_height=512)
-    logo = Image.open(ROOT / "assets/logo-512.png").convert("RGB")
-    logo.save(ROOT / "assets/logo.jpg", "JPEG", quality=90)
-
-    manifest = {
-        "name": "The White Cakes - Cebu",
-        "short_name": "White Cakes",
-        "start_url": "/",
-        "display": "standalone",
-        "background_color": "#F8F4EC",
-        "theme_color": "#F8F4EC",
-        "lang": "en-PH",
-        "icons": [
-            {"src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-            {"src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-        ],
-    }
-    (ROOT / "site.webmanifest").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
+    generate_brand_icons()
+    write_manifest()
 
 
 def main():

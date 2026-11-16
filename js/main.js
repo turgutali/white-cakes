@@ -9,7 +9,7 @@ const SITE = {
   formUrl: "https://formspree.io/f/xjywgqvq",
   email: "info@thewhitecakes.com",
   instagram: "https://www.instagram.com/thewhitecakescebu/",
-  facebook: "https://www.facebook.com/thewhitecakes/"
+  facebook: "https://www.facebook.com/profile.php?id=61596567450476"
 };
 
 (function () {

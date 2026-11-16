@@ -171,7 +171,7 @@ def journal_section_html(posts: list[dict]) -> str:
         "@id": "https://www.thewhitecakes.com/journal/",
         "name": "Journal — Notes from the bench",
         "description": "Practical notes on ordering, delivery and celebrating with cake in Cebu.",
-        "publisher": {"@type": "Organization", "name": "The White Cakes - Cebu", "url": "https://www.thewhitecakes.com/"},
+        "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
         "blogPost": blog_posts,
     }
     crumb = {
@@ -195,9 +195,25 @@ def journal_section_html(posts: list[dict]) -> str:
   <meta property="og:description" content="Practical notes on ordering, delivery and celebrating with cake in Cebu.">
   <meta property="og:url" content="https://www.thewhitecakes.com/journal/">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="The White Cakes - Cebu">
+  <meta property="og:locale" content="en_PH">
+  <meta property="og:image" content="https://www.thewhitecakes.com/assets/og.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="An ivory marble cake by The White Cakes - Cebu">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Journal: Cake Guides for Cebu | The White Cakes - Cebu">
+  <meta name="twitter:description" content="Practical notes on ordering, delivery and celebrating with cake in Cebu.">
+  <meta name="twitter:image" content="https://www.thewhitecakes.com/assets/og.jpg">
   <link rel="stylesheet" href="../css/styles.css">
-  <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png" sizes="180x180">
+  <link rel="icon" href="/favicon.ico" sizes="48x48">
+  <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
+  <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
+  <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
+  <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  <link rel="manifest" href="/site.webmanifest">
   <script type="application/ld+json">
 {json.dumps(crumb, indent=2)}
   </script>
@@ -208,7 +224,7 @@ def journal_section_html(posts: list[dict]) -> str:
 <body class="sub">
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header" id="site-header">
-    <a class="brand" href="/"><span class="wordmark">White Cakes</span></a>
+    <a class="brand" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async"><span class="wordmark">White Cakes</span></a>
     <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
     <div class="header-end">
       <nav class="nav" id="primary-nav" aria-label="Primary">
@@ -233,12 +249,12 @@ def journal_section_html(posts: list[dict]) -> str:
   </main>
   <footer class="site-footer">
     <div class="section-inner">
-      <a class="brand brand-stack" href="/"><span class="wordmark">White Cakes</span></a>
+      <a class="brand brand-stack" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async"><span class="wordmark">White Cakes</span></a>
       <ul class="footer-links">
         <li><a href="mailto:info@thewhitecakes.com">info@thewhitecakes.com</a></li>
         <li><a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp <span data-wa-label>+63 947 438 2632</span></a></li>
         <li><a href="https://www.instagram.com/thewhitecakescebu/" rel="noopener noreferrer">Instagram</a></li>
-        <li><a href="https://www.facebook.com/thewhitecakes/" rel="noopener noreferrer">Facebook</a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=61596567450476" rel="noopener noreferrer">Facebook</a></li>
         <li><a href="/#order">Order</a></li>
       </ul>
       <p class="loc">Cebu, Philippines</p>
@@ -319,92 +335,23 @@ def home_journal(posts: list[dict]):
 
 
 def sitemap(posts: list[dict]):
-    urls = [
-        ("/", "weekly", "1.0", LASTMOD_SITE),
-        ("/bento-cakes-cebu/", "monthly", "0.9", LASTMOD_SITE),
-        ("/bouquet-cakes-cebu/", "monthly", "0.9", LASTMOD_SITE),
-        ("/custom-cakes-cebu/", "monthly", "0.9", LASTMOD_SITE),
-        ("/birthday-cakes-cebu/", "monthly", "0.85", LASTMOD_SITE),
-        ("/anniversary-cakes-cebu/", "monthly", "0.85", LASTMOD_SITE),
-        ("/wedding-cakes-cebu/", "monthly", "0.85", LASTMOD_SITE),
-        ("/corporate-cake-orders-cebu/", "monthly", "0.85", LASTMOD_SITE),
-        ("/cake-delivery-cebu-city/", "monthly", "0.85", LASTMOD_SITE),
-        ("/cake-delivery-mandaue/", "monthly", "0.85", LASTMOD_SITE),
-        ("/cake-delivery-lapu-lapu/", "monthly", "0.85", LASTMOD_SITE),
-        ("/faq/", "monthly", "0.8", LASTMOD_SITE),
-        ("/journal/", "weekly", "0.8", LASTMOD_SITE),
-        ("/llms.txt", "monthly", "0.3", LASTMOD_SITE),
-    ]
-    for p in posts:
-        urls.append((f"/journal/{p['file']}", "monthly", "0.7", p["date"]))
-    lines = ['<?xml version="1.0" encoding="UTF-8"?>']
-    lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
-    for loc, freq, pri, lm in urls:
-        lines.append(
-            f'  <url><loc>https://www.thewhitecakes.com{loc}</loc><lastmod>{lm}</lastmod><changefreq>{freq}</changefreq><priority>{pri}</priority></url>'
-        )
-    lines.append("</urlset>")
-    (ROOT / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    del posts
+    from apply_brand_seo import write_sitemap
+
+    write_sitemap()
 
 
 def robots():
-    (ROOT / "robots.txt").write_text(
-        """User-agent: *
-Allow: /
+    from apply_brand_seo import write_robots
 
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: GPTBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-Sitemap: https://www.thewhitecakes.com/sitemap.xml
-""",
-        encoding="utf-8",
-    )
+    write_robots()
 
 
 def llms_txt(posts: list[dict]):
-    lines = [
-        "# The White Cakes - Cebu",
-        "",
-        "The White Cakes is a made-to-order luxury cake cloud kitchen in Lahug, Cebu City. There is no storefront or walk-in counter. Pickup is by arrangement; delivery covers Cebu City, Mandaue, and Lapu-Lapu. Orders need at least three days' notice. Signature Marble (6-inch), Bouquet Cake, and Bento (4-inch); flavours chocolate, vanilla, ube, mango, red velvet. Prices are not published yet. WhatsApp +63 947 438 2632. Website: https://www.thewhitecakes.com",
-        "",
-        "## Pages",
-        "",
-        "- [Home](https://www.thewhitecakes.com/) — Custom, bento and bouquet cakes made to order in Metro Cebu.",
-        "- [Bento cakes](https://www.thewhitecakes.com/bento-cakes-cebu/) — 4-inch bento cakes in Cebu.",
-        "- [Bouquet cakes](https://www.thewhitecakes.com/bouquet-cakes-cebu/) — Bouquet-style buttercream cakes.",
-        "- [Custom cakes](https://www.thewhitecakes.com/custom-cakes-cebu/) — Signature Marble and custom celebration cakes.",
-        "- [Birthday cakes](https://www.thewhitecakes.com/birthday-cakes-cebu/) — Birthday cakes made to order.",
-        "- [Anniversary cakes](https://www.thewhitecakes.com/anniversary-cakes-cebu/) — Anniversary and gift cakes.",
-        "- [Wedding cakes](https://www.thewhitecakes.com/wedding-cakes-cebu/) — Intimate wedding and engagement cakes.",
-        "- [Corporate orders](https://www.thewhitecakes.com/corporate-cake-orders-cebu/) — Office and corporate cake delivery.",
-        "- [Cebu City delivery](https://www.thewhitecakes.com/cake-delivery-cebu-city/) — Cake delivery in Cebu City.",
-        "- [Mandaue delivery](https://www.thewhitecakes.com/cake-delivery-mandaue/) — Cake delivery in Mandaue.",
-        "- [Lapu-Lapu delivery](https://www.thewhitecakes.com/cake-delivery-lapu-lapu/) — Cake delivery in Lapu-Lapu and Mactan.",
-        "- [FAQ](https://www.thewhitecakes.com/faq/) — Lead time, delivery, flavours, and ordering.",
-        "",
-        "## Journal",
-        "",
-    ]
-    for p in posts:
-        lines.append(
-            f"- [{p['h1']}](https://www.thewhitecakes.com/journal/{p['file']}) — {p['meta']}"
-        )
-    (ROOT / "llms.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    del posts
+    from apply_brand_seo import write_llms
+
+    write_llms()
 
 
 def main():

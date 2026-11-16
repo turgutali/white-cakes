@@ -11,22 +11,22 @@ ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://www.thewhitecakes.com"
 TODAY = "2026-11-15"
 
-MARK = dedent(
-    """\
-      <svg class="mark" viewBox="0 0 64 64" width="44" height="44" aria-hidden="true">
-        <rect width="64" height="64" rx="12" fill="#1B2340"/>
-        <text x="7" y="44" fill="#F8F4EC" font-family="Cormorant Garamond, Georgia, serif" font-size="32" font-weight="500">W</text>
-        <text x="30" y="43" fill="#F8F4EC" font-family="Cormorant Garamond, Georgia, serif" font-size="30" font-style="italic" font-weight="500">C</text>
-        <g fill="none" stroke="#F8F4EC" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M16 32c.5-6 .1-11-.3-16"/>
-          <path d="M15.6 24c-3.2.3-4.8 2.4-2.4 3.8"/>
-          <path d="M15.8 22.5c3 .2 4.6 2 2.3 3.5"/>
-          <path d="M15.4 15.2c-1.5-3 1.3-5.6 3.4-3.2 1 1.4.3 3-1.3 3.3"/>
-          <path d="M14.6 13.2c.3-2.2 3.4-3.2 4.2-.6"/>
-          <path d="M17.6 12.4c1.5-1.4 3 .3 1.8 1.8"/>
-        </g>
-      </svg>"""
+MARK = (
+    '<img class="mark" src="/logo-512.png" '
+    'srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" '
+    'sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async">'
 )
+FB = "https://www.facebook.com/profile.php?id=61596567450476"
+ORG_ID = f"{BASE}/#organization"
+ICON_LINKS = """
+      <link rel="icon" href="/favicon.ico" sizes="48x48">
+      <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
+      <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
+      <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
+      <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
+      <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+      <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+      <link rel="manifest" href="/site.webmanifest">"""
 
 
 def header(rel: str = "..") -> str:
@@ -58,12 +58,13 @@ def footer(rel: str = "..") -> str:
         f"""\
     <footer class="site-footer">
       <div class="section-inner">
-        <a class="brand brand-stack" href="{rel}/index.html"><span class="wordmark">White Cakes</span></a>
+        <a class="brand brand-stack" href="{rel}/index.html">{MARK}<span class="wordmark">White Cakes</span></a>
         <ul class="footer-links">
           <li><a href="mailto:info@thewhitecakes.com">info@thewhitecakes.com</a></li>
+          <li><a href="/about/">About</a></li>
           <li><a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp <span data-wa-label>+63 947 438 2632</span></a></li>
           <li><a data-ig href="https://www.instagram.com/thewhitecakescebu/" rel="noopener noreferrer">Instagram</a></li>
-          <li><a data-fb href="https://www.facebook.com/thewhitecakes/" rel="noopener noreferrer">Facebook</a></li>
+          <li><a data-fb href="{FB}" rel="noopener noreferrer">Facebook</a></li>
           <li><a href="{rel}/faq/index.html">FAQ</a></li>
           <li><a href="{rel}/journal/index.html">Journal</a></li>
         </ul>
@@ -150,8 +151,7 @@ def page(
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600&display=swap">
       <link rel="stylesheet" href="../css/styles.css">
-      <link rel="apple-touch-icon" href="../assets/apple-touch-icon.png" sizes="180x180">
-      <link rel="manifest" href="../site.webmanifest">
+      {ICON_LINKS}
       {ld_scripts}
     </head>
     <body class="sub">
@@ -197,14 +197,15 @@ def service_ld(*, name: str, description: str, image: str, url: str, service_typ
         "@type": "Service",
         "name": name,
         "description": description,
-        "image": image,
+        "image": [
+            f"{BASE}/assets/crops/{url.rstrip('/').split('/')[-1]}-1x1.jpg",
+            f"{BASE}/assets/crops/{url.rstrip('/').split('/')[-1]}-4x3.jpg",
+            f"{BASE}/assets/crops/{url.rstrip('/').split('/')[-1]}-16x9.jpg",
+            image,
+        ],
         "serviceType": service_type,
         "url": url,
-        "provider": {
-            "@type": ["Bakery", "LocalBusiness"],
-            "name": "The White Cakes - Cebu",
-            "url": f"{BASE}/",
-        },
+        "provider": {"@id": ORG_ID},
         "areaServed": [
             {"@type": "City", "name": "Cebu City"},
             {"@type": "City", "name": "Mandaue City"},
