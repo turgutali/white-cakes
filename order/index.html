@@ -11,7 +11,7 @@
   <meta property="og:url" content="https://www.thewhitecakes.com/order/">
   <meta property="og:type" content="website">
   <link rel="stylesheet" href="../css/styles.css">
-  <link rel="stylesheet" href="../css/order-wizard.css?v=20261117-2">
+  <link rel="stylesheet" href="../css/order-wizard.css?v=20261118-mobile-ux">
   <meta property="og:site_name" content="The White Cakes - Cebu">
   <meta property="og:locale" content="en_PH">
   <meta property="og:description" content="Design your cake on mobile: pick Marble, Bouquet, or Bento, see it on screen, then send your order to White Cakes Cebu. At least three days&#x27; notice.">
@@ -59,19 +59,18 @@
   "inLanguage": "en-PH"
 }
   </script>
-  <link rel="icon" href="/favicon.ico" sizes="48x48">
-  <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
   <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
+  <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
   <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
   <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="/site.webmanifest">
 </head>
 <body class="sub order-page">
   <a class="skip" href="#order-wizard">Skip to order</a>
   <header class="site-header" id="site-header">
-    <a class="brand" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async">
+    <a class="brand" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-48.png 48w, /favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async">
       <span class="wordmark">White Cakes</span>
     </a>
     <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
@@ -101,12 +100,13 @@
 
       <div class="order-wizard-main">
         <ol id="order-progress" class="order-progress" aria-label="Order steps">
-          <li data-step-dot="1" class="is-active" title="Design"></li>
-          <li data-step-dot="2" title="Size"></li>
-          <li data-step-dot="3" title="Flavor"></li>
-          <li data-step-dot="4" title="Message &amp; date"></li>
-          <li data-step-dot="5" title="Details"></li>
+          <li data-step-dot="1" class="is-active" aria-label="Step 1: Design"></li>
+          <li data-step-dot="2" aria-label="Step 2: Size"></li>
+          <li data-step-dot="3" aria-label="Step 3: Flavor"></li>
+          <li data-step-dot="4" aria-label="Step 4: Message and date"></li>
+          <li data-step-dot="5" aria-label="Step 5: Details"></li>
         </ol>
+        <p id="order-step-count" class="order-step-count" aria-live="polite" aria-atomic="true">Step 1 of 5 · Design</p>
 
         <form id="order-wizard-form" class="order-wizard-form" action="https://formspree.io/f/xjywgqvq" method="post" enctype="multipart/form-data">
           <p id="wizard-status" class="form-status" role="status" aria-live="polite"></p>
@@ -225,7 +225,7 @@
   </main>
   <footer class="site-footer">
     <div class="section-inner">
-      <a class="brand brand-stack" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async"><span class="wordmark">White Cakes</span></a>
+      <a class="brand brand-stack" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-48.png 48w, /favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async"><span class="wordmark">White Cakes</span></a>
       <ul class="footer-links">
         <li><a href="mailto:info@thewhitecakes.com">info@thewhitecakes.com</a></li>
         <li><a href="/about/">About</a></li>

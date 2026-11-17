@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Favicons, logos, and brand structured data for The White Cakes - Cebu.
 
-Generates the square icon set from the existing WC monogram and patches every
+Generates the square icon set from the owner's supplied logo and patches every
 HTML page so Google can crawl a stable favicon, one Organization+Bakery entity,
 and service images. Leaves published Product offers in place. Does not emit reviews or ratings.
 """
@@ -35,16 +35,15 @@ FONT_ITALIC = "/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.t
 
 LOGO_IMG = (
     '<img class="mark" src="/logo-512.png" '
-    'srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" '
+    'srcset="/favicon-48.png 48w, /favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" '
     'sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async">'
 )
 
-ICON_LINKS = """  <link rel="icon" href="/favicon.ico" sizes="48x48">
+ICON_LINKS = """  <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
   <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
-  <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
   <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
   <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="/site.webmanifest">"""
 
@@ -163,7 +162,7 @@ def glyph_group(font_path: str, char: str, font_px: float, x: float, baseline: f
 
 
 def build_logo_svg() -> str:
-    """Outlined WC monogram plus the piping mark from assets/apple-touch-icon.svg."""
+    """Legacy vector generator; published raster assets use the owner's supplied logo."""
     w_group, w_adv = glyph_group(FONT_BOLD, "W", 82, 16, 124)
     c_group, _ = glyph_group(FONT_ITALIC, "C", 76, 16 + w_adv - 6, 120)
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180" role="img" aria-label="The White Cakes - Cebu logo">
@@ -192,10 +191,7 @@ def save_png(im: Image.Image, path: Path) -> None:
 
 
 def generate_brand_icons() -> Image.Image:
-    svg = build_logo_svg()
-    (ROOT / "favicon.svg").write_text(svg, encoding="utf-8")
-    (ROOT / "assets" / "apple-touch-icon.svg").write_text(svg, encoding="utf-8")
-    master = render_master(svg)
+    master = Image.open(ROOT / "assets" / "white-cakes-logo.png").convert("RGBA")
 
     def sized(px: int) -> Image.Image:
         return master.resize((px, px), Image.Resampling.LANCZOS)
@@ -245,7 +241,6 @@ def write_manifest() -> None:
             {"src": "/favicon-96.png", "sizes": "96x96", "type": "image/png", "purpose": "any"},
             {"src": "/favicon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
             {"src": "/favicon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-            {"src": "/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
         ],
     }
     (ROOT / "site.webmanifest").write_text(json.dumps(manifest, indent=2) + "\n", encoding="utf-8")
@@ -332,7 +327,7 @@ def generate_crops() -> dict[str, list[dict]]:
         "16x9": "hero-celebration-cake-cebu.webp",
     }
     brand_images = [
-        image_object(f"{BASE}/logo-512.png", 512, 512),
+        image_object(f"{BASE}/assets/white-cakes-logo.png", 1024, 1024),
     ]
     for label, (aw, ah) in (("1x1", (1, 1)), ("4x3", (4, 3)), ("16x9", (16, 9))):
         cropped = crop_aspect(open_rgb(ROOT / "assets" / brand_sources[label]), aw, ah)
@@ -358,10 +353,10 @@ def logo_object() -> dict:
     return {
         "@type": "ImageObject",
         "@id": f"{BASE}/#logo",
-        "url": f"{BASE}/logo-512.png",
-        "contentUrl": f"{BASE}/logo-512.png",
-        "width": 512,
-        "height": 512,
+        "url": f"{BASE}/assets/white-cakes-logo.png",
+        "contentUrl": f"{BASE}/assets/white-cakes-logo.png",
+        "width": 1024,
+        "height": 1024,
         "caption": "The White Cakes - Cebu logo",
     }
 
@@ -867,7 +862,7 @@ def write_about() -> None:
       <p class="dek">A made-to-order cloud kitchen in Lahug. No storefront, no walk-ins, no published street address.</p>
       <figure class="landing-figure">
         <div class="media-frame">
-          <img src="/logo-512.png" width="512" height="512" alt="The White Cakes - Cebu logo">
+          <img src="/assets/white-cakes-logo.png" width="1024" height="1024" alt="The White Cakes - Cebu logo">
         </div>
         <figcaption>The White Cakes - Cebu</figcaption>
       </figure>
@@ -925,8 +920,7 @@ def write_about() -> None:
 def write_robots() -> None:
     (ROOT / "robots.txt").write_text(
         """# Favicon, apple touch icon, logo, and manifest must stay crawlable.
-# Googlebot and Googlebot-Image need the homepage and /favicon.ico, /favicon-48.png,
-# /favicon-96.png, /favicon-192.png, /favicon-512.png, /apple-touch-icon.png, and /logo-512.png.
+# Googlebot and Googlebot-Image need the homepage and /assets/white-cakes-logo.png.
 
 User-agent: *
 Allow: /
@@ -1002,7 +996,7 @@ def page_images(rel_url: str) -> list[tuple[str, str]]:
     for url in re.findall(r"https://www\.thewhitecakes\.com/[^\"\s]+\.(?:jpg|jpeg|png|webp)", html):
         add(url, "")
     if rel_url == "/":
-        add(f"{BASE}/logo-512.png", "The White Cakes - Cebu logo")
+        add(f"{BASE}/assets/white-cakes-logo.png", "The White Cakes - Cebu logo")
     return found[:1000]
 
 
@@ -1060,7 +1054,7 @@ def write_llms() -> None:
 - WhatsApp: +63 947 438 2632
 - Instagram: {IG}
 - Facebook: {FB}
-- Logo: {BASE}/logo-512.png
+- Logo: {BASE}/assets/white-cakes-logo.png
 
 ## Services
 
@@ -1109,7 +1103,7 @@ def validate() -> None:
     print("favicon.ico sizes", sorted(sizes))
     if sizes != {(16, 16), (32, 32), (48, 48)}:
         raise SystemExit(f"favicon.ico sizes are {sizes}")
-    logo = Image.open(ROOT / "logo-512.png")
+    logo = Image.open(ROOT / "assets" / "white-cakes-logo.png")
     if logo.size[0] < 112 or logo.size[1] < 112 or logo.size[0] != logo.size[1]:
         raise SystemExit(f"logo is {logo.size}, need a square of at least 112")
     robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
@@ -1121,8 +1115,8 @@ def validate() -> None:
             continue
         text = path.read_text(encoding="utf-8")
         rel = path.relative_to(ROOT).as_posix()
-        if 'rel="icon" href="/favicon.ico"' not in text:
-            problems.append(f"{rel}: missing root favicon.ico")
+        if 'href="/assets/white-cakes-logo.png"' not in text:
+            problems.append(f"{rel}: missing official logo asset")
         if 'rel="apple-touch-icon" href="/apple-touch-icon.png"' not in text:
             problems.append(f"{rel}: missing apple touch icon")
         if 'alt="The White Cakes - Cebu logo"' not in text:

@@ -166,12 +166,11 @@ def render_page(meta: dict, body_html: str, jsonld: str, wa_url: str) -> str:
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600&display=swap">
   <link rel="stylesheet" href="../css/styles.css">
-  <link rel="icon" href="/favicon.ico" sizes="48x48">
-  <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
   <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
+  <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
   <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
   <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="/site.webmanifest">
   <script type="application/ld+json">
@@ -182,7 +181,7 @@ def render_page(meta: dict, body_html: str, jsonld: str, wa_url: str) -> str:
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header" id="site-header">
     <a class="brand" href="/">
-      <img class="mark" src="/logo-512.png" srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async">
+      <img class="mark" src="/logo-512.png" srcset="/favicon-48.png 48w, /favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async">
       <span class="wordmark">White Cakes</span>
     </a>
     <button type="button" class="nav-toggle" aria-expanded="false" aria-controls="primary-nav">Menu</button>
@@ -217,7 +216,7 @@ def render_page(meta: dict, body_html: str, jsonld: str, wa_url: str) -> str:
   </main>
   <footer class="site-footer">
     <div class="section-inner">
-      <a class="brand" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async"><span class="wordmark">White Cakes</span></a>
+      <a class="brand" href="/"><img class="mark" src="/logo-512.png" srcset="/favicon-48.png 48w, /favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async"><span class="wordmark">White Cakes</span></a>
       <ul class="footer-links">
         <li><a href="mailto:info@thewhitecakes.com">info@thewhitecakes.com</a></li>
         <li><a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp <span data-wa-label>+63 947 438 2632</span></a></li>

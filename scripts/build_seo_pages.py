@@ -17,19 +17,18 @@ TODAY = "2026-11-15"
 
 MARK = (
     '<img class="mark" src="/logo-512.png" '
-    'srcset="/favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" '
+    'srcset="/favicon-48.png 48w, /favicon-96.png 96w, /favicon-192.png 192w, /logo-512.png 512w" '
     'sizes="44px" width="44" height="44" alt="The White Cakes - Cebu logo" decoding="async">'
 )
 FB = "https://www.facebook.com/profile.php?id=61596567450476"
 ORG_ID = f"{BASE}/#organization"
 ICON_LINKS = """
-      <link rel="icon" href="/favicon.ico" sizes="48x48">
-      <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
-      <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
-      <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
-      <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
-      <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-      <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+        <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
+        <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
+        <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
+        <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
+        <link rel="icon" href="/favicon.ico" sizes="any">
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
       <link rel="manifest" href="/site.webmanifest">"""
 
 

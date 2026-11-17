@@ -406,9 +406,9 @@ a {
 
 .kicker {
   font-family: var(--sans);
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   font-weight: 600;
-  letter-spacing: 0.28em;
+  letter-spacing: 0.16em;
   text-transform: uppercase;
   margin: 0 0 var(--space-sm);
   color: var(--navy-soft);
@@ -913,9 +913,9 @@ form.is-sent .form-fields {
   padding: 10px 12px;
   background: var(--ivory);
   font-family: var(--sans);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 600;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--navy-soft);
 }
@@ -1884,9 +1884,9 @@ form.is-sent .form-fields {
   display: block;
   margin-bottom: 0.35rem;
   font-family: var(--sans);
-  font-size: 0.68rem;
+  font-size: 0.74rem;
   font-weight: 600;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--navy-soft);
 }

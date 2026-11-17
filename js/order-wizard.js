@@ -92,6 +92,7 @@
   const previewFlavor = document.getElementById("preview-flavor");
   const previewSize = document.getElementById("preview-size");
   const progress = document.getElementById("order-progress");
+  const stepCount = document.getElementById("order-step-count");
   const status = document.getElementById("wizard-status");
   const form = document.getElementById("order-wizard-form");
   const btnBack = document.getElementById("wizard-back");
@@ -214,6 +215,7 @@
 
   function setStep(n) {
     state.step = Math.max(1, Math.min(5, n));
+    const stepNames = ["Design", "Size", "Flavor", "Message and date", "Details"];
     stepPanels.forEach(function (panel) {
       const s = Number(panel.getAttribute("data-step-panel"));
       panel.hidden = s !== state.step;
@@ -223,13 +225,21 @@
         const s = Number(dot.getAttribute("data-step-dot"));
         dot.classList.toggle("is-active", s === state.step);
         dot.classList.toggle("is-done", s < state.step);
+        dot.setAttribute("aria-label", "Step " + s + ": " + stepNames[s - 1]);
+        if (s === state.step) dot.setAttribute("aria-current", "step");
+        else dot.removeAttribute("aria-current");
       });
     }
+    if (stepCount) stepCount.textContent = "Step " + state.step + " of 5 · " + stepNames[state.step - 1];
     btnBack.hidden = state.step === 1;
     btnNext.textContent = state.step === 5 ? "Send order" : "Continue";
     btnNext.type = state.step === 5 ? "submit" : "button";
     root.setAttribute("data-step", String(state.step));
-    window.scrollTo({ top: root.offsetTop - 70, behavior: "smooth" });
+    const scrollTarget = window.matchMedia("(max-width: 899px)").matches
+      ? root.querySelector(".order-wizard-main")
+      : root;
+    const top = scrollTarget.getBoundingClientRect().top + window.scrollY - 76;
+    window.scrollTo({ top: top, behavior: "smooth" });
   }
 
   function syncFormFields() {

@@ -140,10 +140,15 @@ def patch_home_meta():
                 t,
                 count=1,
             )
-    if '<link rel="icon" href="/favicon.ico"' not in t:
+    if 'href="/favicon-96.png"' not in t:
         t = t.replace(
             '<link rel="apple-touch-icon"',
-            '<link rel="icon" href="/favicon.ico" sizes="any">\n  <link rel="icon" href="/assets/icon-192.png" type="image/png" sizes="192x192">\n  <link rel="apple-touch-icon"',
+            '<link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">\n  '
+            '<link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">\n  '
+            '<link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">\n  '
+            '<link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">\n  '
+            '<link rel="icon" href="/favicon.ico" sizes="any">\n  '
+            '<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">',
         )
     path.write_text(t, encoding="utf-8")
 
@@ -185,8 +190,12 @@ def patch_404():
   <meta name="description" content="This page is not on The White Cakes - Cebu site. Return home or order a cake in Cebu City, Mandaue, or Lapu-Lapu.">
   <meta name="robots" content="noindex, follow">
   <link rel="stylesheet" href="/css/styles.css">
+  <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
+  <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
+  <link rel="icon" href="/favicon-192.png" type="image/png" sizes="192x192">
+  <link rel="icon" href="/favicon-512.png" type="image/png" sizes="512x512">
   <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" sizes="180x180">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
   <link rel="manifest" href="/site.webmanifest">
 </head>
 <body class="sub page-404">

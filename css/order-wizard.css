@@ -40,7 +40,6 @@
   .order-preview-wrap {
     position: static;
   }
-
 }
 
 .order-preview {
@@ -59,6 +58,12 @@
 
 .order-preview[data-tall="true"]::before {
   padding-top: 120%;
+}
+
+@media (max-width: 899px) {
+  .order-preview[data-tall="true"]::before {
+    padding-top: 90%;
+  }
 }
 
 .order-preview img {
@@ -105,9 +110,9 @@
 
 .order-preview-flavor,
 .order-preview-size {
-  font-size: 0.68rem;
+  font-size: 0.74rem;
   font-weight: 600;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   padding: 0.35rem 0.65rem;
   border: 1px solid var(--line);
@@ -143,6 +148,13 @@
 .order-progress li.is-active,
 .order-progress li.is-done {
   background: var(--navy);
+}
+
+.order-step-count {
+  margin: -0.35rem 0 var(--space-sm);
+  color: var(--navy-soft);
+  font-size: 0.9rem;
+  font-weight: 600;
 }
 
 .order-step-title {
