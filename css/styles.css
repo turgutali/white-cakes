@@ -851,34 +851,77 @@ form.is-sent .form-fields {
 
 .gallery-list {
   display: grid;
-  gap: var(--space-lg);
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  grid-auto-rows: clamp(38px, 5.8vw, 68px);
+  grid-auto-flow: dense;
+  gap: clamp(8px, 1vw, 14px);
 }
 
 .gallery-list figure {
+  display: flex;
+  min-width: 0;
+  min-height: 0;
+  flex-direction: column;
   margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: var(--ivory-soft);
 }
 
 .gallery-list img {
+  display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
+  min-height: 0;
+  flex: 1 1 auto;
   object-fit: cover;
-  box-shadow: var(--shadow-soft);
-  border: 1px solid var(--line);
+  object-position: center;
 }
 
-.gallery-list figure:nth-child(even) {
-  width: 92%;
-  margin-left: auto;
+.gallery-feature {
+  grid-column: span 6;
+  grid-row: span 6;
+}
+
+.gallery-process {
+  grid-column: span 3;
+  grid-row: span 4;
+}
+
+.gallery-process img {
+  object-fit: contain;
+  background: var(--ivory-soft);
+}
+
+.gallery-marble,
+.gallery-stand,
+.gallery-bento {
+  grid-column: span 3;
+  grid-row: span 3;
+}
+
+.gallery-slice,
+.gallery-roses,
+.gallery-table {
+  grid-column: span 4;
+  grid-row: span 3;
 }
 
 .gallery-list figcaption {
-  margin-top: 14px;
+  flex: none;
+  margin: 0;
+  padding: 10px 12px;
+  background: var(--ivory);
   font-family: var(--sans);
-  font-size: 0.65rem;
+  font-size: 0.72rem;
   font-weight: 600;
-  letter-spacing: 0.22em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--navy-soft);
+}
+
+.gallery-feature img {
+  object-position: center 56%;
 }
 
 .follow {
@@ -1185,6 +1228,28 @@ form.is-sent .form-fields {
 }
 
 @media (max-width: 640px) {
+  .gallery-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: clamp(150px, 47vw, 220px);
+    gap: 10px;
+  }
+
+  .gallery-feature,
+  .gallery-process {
+    grid-column: span 2;
+    grid-row: span 2;
+  }
+
+  .gallery-marble,
+  .gallery-stand,
+  .gallery-bento,
+  .gallery-slice,
+  .gallery-roses,
+  .gallery-table {
+    grid-column: span 1;
+    grid-row: span 1;
+  }
+
   .prose .christmas-gallery {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     grid-auto-rows: clamp(170px, 52vw, 220px);
@@ -1298,16 +1363,9 @@ form.is-sent .form-fields {
   color: var(--navy-soft);
 }
 
-.landing-figure-wide .media-frame img,
-.gallery-wide img {
+.landing-figure-wide .media-frame img {
   width: 100%;
   height: auto;
-}
-
-@media (min-width: 800px) {
-  .gallery-list .gallery-wide {
-    grid-column: 1 / -1;
-  }
 }
 
 .related-pages {
@@ -1660,25 +1718,6 @@ form.is-sent .form-fields {
   form .btn {
     width: auto;
     min-width: 240px;
-  }
-
-  .gallery-list {
-    grid-template-columns: 1.2fr 0.8fr;
-    column-gap: var(--space-lg);
-    row-gap: clamp(64px, 8vw, 96px);
-  }
-
-  .gallery-list figure:nth-child(even) {
-    width: auto;
-    margin-left: 12%;
-    margin-top: var(--space-lg);
-  }
-
-  .gallery-list figure:nth-child(5) {
-    grid-column: 1 / -1;
-    width: min(68%, 720px);
-    margin-left: 0;
-    margin-top: 0;
   }
 
   .journal-list a {
