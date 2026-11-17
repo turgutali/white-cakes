@@ -1,7 +1,17 @@
 /* Order wizard — mobile-first cake designer preview */
 
 .order-page {
-  padding-bottom: calc(88px + env(safe-area-inset-bottom));
+  padding-bottom: 0;
+}
+
+/* Keep native hidden states effective when component styles set display. */
+.order-wizard [hidden] {
+  display: none !important;
+}
+
+/* The wizard has its own sticky actions, so a second global dock is redundant. */
+.order-page .dock {
+  display: none;
 }
 
 .order-wizard {
@@ -24,6 +34,13 @@
   position: sticky;
   top: calc(var(--header-h) + 8px);
   z-index: 2;
+}
+
+@media (max-width: 899px) {
+  .order-preview-wrap {
+    position: static;
+  }
+
 }
 
 .order-preview {
@@ -248,6 +265,14 @@
   padding: 0.75rem 0;
   background: linear-gradient(180deg, transparent, var(--ivory) 35%);
   z-index: 3;
+}
+
+@media (max-width: 899px) {
+  .wizard-actions {
+    position: static;
+    background: none;
+    padding: 0;
+  }
 }
 
 @media (min-width: 900px) {
