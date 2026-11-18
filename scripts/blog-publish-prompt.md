@@ -1593,6 +1593,8 @@ og_image_alt: "Ivory buttercream christening cake with a single piped rose and a
 
 In Cebu, a baby's christening (*bunyag*) is a family milestone. There is the ceremony at the parish, the ninongs and ninangs, the photos at the baptismal font, and then a lunch at home, at a restaurant or in a function room. The cake comes out at that gathering. This guide covers how to choose one that suits the day, and how to time it around the church.
 
+Planning for an older child's First Communion? See our [First Communion cake guide for Cebu](/journal/first-communion-cake-cebu.html) for design, inscription and ceremony timing.
+
 ## What kind of cake suits a christening?
 
 A christening table is usually quieter than a birthday party. A calm cake fits it: soft colour, clean lines and one meaningful detail. That is exactly our style, a Korean-inspired minimalist look in hand-piped buttercream.
@@ -2460,6 +2462,125 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
         {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
         {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
         {"@type": "ListItem", "position": 3, "name": "30 Birthday Cake Message Ideas for a Cebu Celebration", "item": "https://www.thewhitecakes.com/journal/birthday-cake-message-ideas-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
+
+<!-- ===== FILE: 21-first-communion-cake-cebu.md ===== -->
+---
+title: "First Communion Cake Cebu | Custom Buttercream Planning Guide"
+meta_description: "Planning a first communion cake in Cebu? Choose a simple custom buttercream design, size it for the family table, and plan around church timing, delivery and lead time."
+url: https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html
+h1: "First Communion Cake in Cebu: Design, Size and Delivery Guide"
+publish_date: 2026-11-18
+og_image_alt: "Ivory buttercream celebration cake in Cebu, suitable as a starting point for a first communion design"
+---
+
+**Quick answer:** For a first communion cake in Cebu, send the celebration date, child's name, guest count, a reference photo and the time the cake will be served. White Cakes does not list a fixed communion design; custom buttercream details need to be confirmed for your date. Allow at least three days and confirm the design, quote, delivery charge and route before paying a deposit.
+
+## Choose a calm design for the family celebration
+
+A first communion cake often sits beside the family table, photos and other keepsakes. Start with the look of the celebration rather than trying to fit every symbol on the cake. An ivory finish, one clear inscription and a small colour accent can keep the cake easy to read in photos.
+
+White Cakes makes hand-piped buttercream cakes in Cebu. There is no fixed communion model or ready-made religious topper listed on the menu. If you want a cross, chalice or another faith-related detail, send a reference and ask whether it can be piped neatly in buttercream for your date. We will confirm what is possible; the site does not promise sculpted figures or printed character images.
+
+A design does not need a large topper to feel personal. The child's name, “First Communion,” and the ceremony date may be enough. Send exact spelling and capitalization before the order is confirmed.
+
+## Choose a size for the guests who will share it
+
+Tell us how many people will be at the home or reception and how the cake will be served. The 4-inch Bento is a small cake for two generous or three modest slices, so it is better as a small keepsake or an intimate treat than the only cake for a family gathering. For a larger table, compare the listed 6-inch and 8-inch custom cakes or ask about a two-tier design. We confirm the right scale from your guest count and design; we do not publish a fixed serving chart.
+
+See the [custom cakes page](/custom-cakes-cebu/) for current sizes and starting prices, and the [Cebu cake price guide](/journal/cake-prices-cebu.html) for how custom quotes work. The final price depends on the design, and delivery is quoted separately for the address.
+
+## Plan the cake around the ceremony and reception
+
+The cake should arrive where someone can receive it and keep it cool. If you want delivery to a church, function room or restaurant, send the full venue name, entrance, receiving contact and the time the cake will be served. We deliver but do not provide setup or cake cutting. A delivery window is confirmed rather than an exact minute, so leave time before the ceremony or meal begins.
+
+For delivery in Cebu City, Mandaue or Lapu-Lapu, provide the complete address, a landmark and the receiver's mobile number. Ask us to confirm the route and charge before the deposit. If the event location is difficult to access or the timing is tight, arrange a different delivery time or pickup by prior confirmation.
+
+## What to send with your order enquiry
+
+To check availability quickly, include:
+
+1. Ceremony and reception date, written as a calendar date.
+2. Child's name and the exact wording for the cake.
+3. Guest count and where the cake will be served.
+4. Flavour choice: chocolate, vanilla, ube, mango or red velvet.
+5. One or two reference photos and the details you want us to keep.
+6. Pickup or delivery; for delivery, include the full address and a receiving contact.
+7. Any allergy information. Our cakes contain gluten and dairy unless agreed otherwise in writing.
+
+Every cake needs at least **three days' notice**. A 50% deposit confirms an order after the design and total are agreed. For a weekend ceremony, send your enquiry as soon as the church date is set; the minimum lead time does not mean every date is still open.
+
+## Frequently asked questions
+
+### Can you make a first communion cake in Cebu?
+
+You can enquire about a custom buttercream cake for a first communion. Send a reference and the date; we will confirm whether the requested details can be piped for that order. There is no fixed communion design on the menu.
+
+### What should I write on a first communion cake?
+
+A child's name with “First Communion” is short and easy to read. You can add the date if the design has room. Send the exact text so we can confirm the layout.
+
+### Can you deliver the cake to the church?
+
+Delivery in Cebu City, Mandaue and Lapu-Lapu is available by arrangement, but the exact church, entrance, receiving contact and delivery window must be confirmed first. We do not set up the cake at the venue.
+
+### How early should I order a communion cake?
+
+At least three days before the date. Ask earlier for a weekend or a busy celebration date, and wait for our confirmation before paying a deposit.
+
+### How much does a first communion cake cost in Cebu?
+
+The 4-inch Bento and custom cakes have published prices or starting prices. The final custom price depends on the design; delivery is quoted separately for the address. See the [current cake price guide](/journal/cake-prices-cebu.html) and ask us for a complete quote.
+
+## Arrange a first communion cake in Cebu
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20first%20communion%20cake%20in%20Cebu). Include the ceremony date, guest count, design reference and delivery details so we can check the order honestly.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html#article",
+      "headline": "First Communion Cake in Cebu: Design, Size and Delivery Guide",
+      "description": "Planning a first communion cake in Cebu? Choose a simple custom buttercream design, size it for the family table, and plan around church timing, delivery and lead time.",
+      "abstract": "White Cakes does not list a fixed communion design; customers can enquire about a custom buttercream cake and send a reference for confirmation. The guide covers inscription, guest count, ceremony and reception timing, delivery, quote and the three-day minimum notice.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "first communion cake Cebu, communion cake Cebu, first communion cake delivery Cebu, custom communion cake Cebu, baptism and communion cake Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "first communion cake in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Can you make a first communion cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "You can enquire about a custom buttercream cake for a first communion. Send a reference and the date; we will confirm whether the requested details can be piped for that order. There is no fixed communion design on the menu."}},
+        {"@type": "Question", "name": "What should I write on a first communion cake?", "acceptedAnswer": {"@type": "Answer", "text": "A child's name with “First Communion” is short and easy to read. You can add the date if the design has room. Send the exact text so we can confirm the layout."}},
+        {"@type": "Question", "name": "Can you deliver the cake to the church?", "acceptedAnswer": {"@type": "Answer", "text": "Delivery in Cebu City, Mandaue and Lapu-Lapu is available by arrangement, but the exact church, entrance, receiving contact and delivery window must be confirmed first. We do not set up the cake at the venue."}},
+        {"@type": "Question", "name": "How early should I order a communion cake?", "acceptedAnswer": {"@type": "Answer", "text": "At least three days before the date. Ask earlier for a weekend or a busy celebration date, and wait for our confirmation before paying a deposit."}},
+        {"@type": "Question", "name": "How much does a first communion cake cost in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "The 4-inch Bento and custom cakes have published prices or starting prices. The final custom price depends on the design; delivery is quoted separately for the address. See the current cake price guide and ask us for a complete quote."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "First Communion Cake in Cebu: Design, Size and Delivery Guide", "item": "https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html"}
       ]
     }
   ]
