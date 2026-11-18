@@ -3,7 +3,8 @@
 
 Generates the square icon set from the owner's supplied logo and patches every
 HTML page so Google can crawl a stable favicon, one Organization+Bakery entity,
-and service images. Leaves published Product offers in place. Does not emit reviews or ratings.
+and service images. Cake requests are quote-and-date based, so this script strips
+Product markup that could incorrectly imply a single-SKU online checkout.
 """
 from __future__ import annotations
 
@@ -470,6 +471,10 @@ def clean_node(node):
         return node
     t = node.get("@type")
     types = set(t if isinstance(t, list) else [t])
+    # Custom, date-based cake orders are confirmed after a quote, not bought
+    # through a single-SKU online checkout. Keep service and article markup.
+    if "Product" in types:
+        return None
     if types & {"AggregateOffer", "AggregateRating", "Review", "Rating"}:
         raise SystemExit(f"refusing disallowed type {types}")
     for bad in ("lowPrice", "highPrice", "priceRange", "aggregateRating", "review", "reviewRating"):
@@ -485,6 +490,8 @@ def clean_node(node):
             continue
         if isinstance(val, (dict, list)):
             node[key] = clean_node(val)
+    if "@graph" in node and not node["@graph"]:
+        return None
     node_type = node.get("@type")
     if node_type in ("FAQPage", "Blog", "BlogPosting", "Service", "AboutPage", "WebPage") and "publisher" not in node:
         node["publisher"] = {"@id": ORG_ID}
@@ -1138,7 +1145,7 @@ def validate() -> None:
                 problems.append(f"{rel}: JSON {exc}")
                 continue
             blob = json.dumps(data)
-            for banned in ('"AggregateOffer"', '"AggregateRating"', '"priceRange"', '"review"'):
+            for banned in ('"@type": "Product"', '"AggregateOffer"', '"AggregateRating"', '"priceRange"', '"review"'):
                 if banned in blob:
                     problems.append(f"{rel}: found {banned}")
             if '"@type": "Review"' in blob or '"Review"' in blob:
