@@ -365,6 +365,116 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
 </script>
 ```
 
+<!-- ===== FILE: 25-monthsary-cake-cebu.md ===== -->
+---
+title: "Monthsary Cake in Cebu | Bento Cake for Two"
+meta_description: "Looking for a monthsary cake in Cebu? See why a 4-inch Bento suits a celebration for two, what short message to add, and how to arrange delivery."
+url: https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html
+h1: "Monthsary Cake in Cebu: Choose a Small Cake for Two"
+publish_date: 2026-11-18
+og_image_alt: "Small hand-piped Bento cake in Cebu for a couple's monthsary celebration"
+---
+
+**Quick answer:** For a monthsary cake in Cebu, a 4-inch Bento is the small-cake option at White Cakes. It serves two generously or three modestly after a meal. Send your date, a short message, flavour and pickup or delivery details; orders need at least three days' notice, and the date must be confirmed before you pay a deposit.
+
+## A small cake for a monthly milestone
+
+A monthsary does not need a large party cake. A Bento suits a quiet dinner for two, a desk surprise or a small celebration at home. The White Cakes Bento is 4 inches across, finished in ivory buttercream with hand-piped details. It is made for the date you request rather than taken from a display case.
+
+The cake is small enough to feel like a personal gift, but it is not designed for a large gathering. It serves two generous slices or three modest ones after a meal. If relatives or friends will share the cake, tell us the guest count and compare the 6-inch or 8-inch custom cakes instead.
+
+## Keep the inscription short
+
+A 4-inch top has limited room. A name, a month number or a few words such as “Happy Monthsary” may fit more clearly than a full sentence. Send the exact message, including punctuation and spelling. We will confirm whether it works with the design before the order is secured.
+
+If the message is personal, include only the words you want piped on the cake. Put a longer note in a card or order note instead. For more short romantic options, see [anniversary cake message ideas for Cebu](/journal/anniversary-cake-message-ideas-cebu.html). If the cake is for a birthday, our [30 birthday cake message ideas](/journal/birthday-cake-message-ideas-cebu.html) offers other short lines.
+
+## Choose a flavour and format
+
+Available flavours are chocolate, vanilla, ube, mango and red velvet. Tell us the flavour when you ask about the date. The 4-inch Bento is one flavour; if you want a special filling or an extra decoration, describe it and wait for confirmation instead of assuming it is included.
+
+Choose the Bento when the cake is mainly for two. A Bouquet Cake is an alternative if the gift should arrive looking like flowers; for a longer dinner or more guests, compare custom cakes. The [Bento cake page](/bento-cakes-cebu/) shows the current design and order details, while the [anniversary cake page](/anniversary-cakes-cebu/) explains the larger gift options.
+
+## Arrange delivery in Cebu
+
+Orders need at least three days' notice. A weekend or busy celebration date may need more planning, and the minimum notice does not mean a slot is automatically available. Send the calendar date first so we can confirm it.
+
+Pickup is arranged after the order is confirmed. Delivery is available by arrangement in Cebu City, Mandaue and Lapu-Lapu. Send the complete address, barangay, landmark and a reachable mobile number so we can check the route and quote the delivery charge. A delivery window is confirmed rather than an exact minute; arrange for someone to receive the cake and keep it cool until serving.
+
+Check the [Cebu cake price guide](/journal/cake-prices-cebu.html) for current starting prices. The Bento price and any promotion can change, so ask for the current total and delivery charge for your date before paying the 50% deposit.
+
+## What to send when asking about a monthsary cake
+
+Include the date, flavour, exact message and pickup or full delivery address in one enquiry. If it is a surprise, tell us who may receive messages and who will accept the cake. We will confirm availability, the design and total before the deposit.
+
+## Frequently asked questions
+
+### What size is a monthsary Bento cake in Cebu?
+
+White Cakes' Bento is 4 inches and serves two generously or three modestly after a meal. If more people will share it, ask about a larger custom cake.
+
+### Can you write “Happy Monthsary” on a Bento cake?
+
+Send the exact words you want. The top is small, so we will confirm whether the message fits clearly with the chosen design before the order is secured.
+
+### How early should I order a monthsary cake?
+
+At least three days before the date. Ask earlier for a weekend or busy date, and wait for availability confirmation before paying a deposit.
+
+### Do you deliver monthsary cakes in Cebu?
+
+Delivery is available by arrangement in Cebu City, Mandaue and Lapu-Lapu. Send the complete address and a receiving contact so we can confirm the route, delivery window and charge.
+
+## Order a monthsary cake in Cebu
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20monthsary%20Bento%20cake%20in%20Cebu). Include the date, flavour, short message and delivery details so we can check availability.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html#article",
+      "headline": "Monthsary Cake in Cebu: Choose a Small Cake for Two",
+      "description": "Looking for a monthsary cake in Cebu? See why a 4-inch Bento suits a celebration for two, what short message to add, and how to arrange delivery.",
+      "abstract": "White Cakes' 4-inch Bento is a small cake for two people. This guide explains sizing, short inscriptions, flavour choices, the three-day minimum lead time and delivery arrangements for a monthsary in Metro Cebu.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/bento-cake-cebu.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "monthsary cake Cebu, monthsary cake Cebu City, bento cake for monthsary Cebu, small anniversary cake Cebu, monthsary cake delivery Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "monthsary cake in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "What size is a monthsary Bento cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "White Cakes' Bento is 4 inches and serves two generously or three modestly after a meal. If more people will share it, ask about a larger custom cake."}},
+        {"@type": "Question", "name": "Can you write “Happy Monthsary” on a Bento cake?", "acceptedAnswer": {"@type": "Answer", "text": "Send the exact words you want. The top is small, so we will confirm whether the message fits clearly with the chosen design before the order is secured."}},
+        {"@type": "Question", "name": "How early should I order a monthsary cake?", "acceptedAnswer": {"@type": "Answer", "text": "At least three days before the date. Ask earlier for a weekend or busy date, and wait for availability confirmation before paying a deposit."}},
+        {"@type": "Question", "name": "Do you deliver monthsary cakes in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "Delivery is available by arrangement in Cebu City, Mandaue and Lapu-Lapu. Send the complete address and a receiving contact so we can confirm the route, delivery window and charge."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Monthsary Cake in Cebu: Choose a Small Cake for Two", "item": "https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- ===== FILE: 24-bisaya-birthday-cake-messages-cebu.md ===== -->
 ---
 title: "Bisaya Birthday Cake Messages in Cebu | Short Cebuano Ideas"
@@ -848,7 +958,7 @@ There is no official size, but most bento cakes are around four inches in diamet
 
 Our bento is a **4-inch round**. In practice that means two generous slices, or three modest ones after a meal. It works best for:
 
-- **Two people at one table:** a monthsary, a quiet anniversary, or a "we survived the week" Friday.
+- **Two people at one table:** a monthsary, a quiet anniversary, or a "we survived the week" Friday. See our [monthsary cake guide for Cebu](/journal/monthsary-cake-cebu.html).
 - **A desk celebration:** a colleague's birthday at an IT Park office where a tall cake would be awkward.
 - **Someone celebrating alone:** a student in a Lahug or Talamban boarding house, or a family member working far from home.
 - **A small gift you carry yourself:** a thank-you for a teacher, a ninang, or a friend who helped you move.

@@ -2,7 +2,7 @@
 
 BENTO = """<p>A bento cake from The White Cakes is a 4-inch round, finished in ivory buttercream with piped shells, a blush ribbon, and one rose. We bake it in our Cebu cloud kitchen for the date you name — there is no walk-in counter and no cake waiting in a display case.</p>
 <h2>Who it suits</h2>
-<p>Two people at one table, a desk celebration, a quiet birthday, or a gift you will carry yourself through traffic. In Cebu heat and bridge traffic, a low cake travels more safely than a tall tier. It fits on a passenger seat when the ride is flat and shaded.</p>
+<p>Two people at one table, a desk celebration, a quiet birthday, a monthsary, or a gift you will carry yourself through traffic. In Cebu heat and bridge traffic, a low cake travels more safely than a tall tier. It fits on a passenger seat when the ride is flat and shaded. Read our <a href="../journal/monthsary-cake-cebu.html">monthsary cake guide for Cebu</a> for message and delivery tips.</p>
 <h2>Flavours and inscription</h2>
 <p>Choose chocolate, vanilla, ube, mango, or red velvet. Send the words for the top exactly as you want them piped — spelling included. If the message is long, tell us and we will say whether it fits a 4-inch top.</p>
 <h2>Lead time</h2>
