@@ -2,7 +2,7 @@
 
 ## Automatic discovery for participating search engines
 
-The workflow submits changed canonical HTML URLs on `main` pushes. It was temporarily paused during the SEO cleanup, then run once after the edits were complete; on 2026-11-18 IndexNow accepted 52 URLs with HTTP 200. Automatic notifications are restored for future HTML releases. The public key file is hosted at the site root. IndexNow can speed discovery for participating engines, but does not guarantee crawling, indexing, or ranking. Google does not use IndexNow.
+Automatic push notifications are disabled while the SEO content package is still being completed. The previous batch was accepted on 2026-11-18 (52 URLs, HTTP 200). When the package is final, run the workflow manually with its default empty `before` value to submit the site's current canonical, indexable HTML URLs in one batch. The public key file is hosted at the site root. IndexNow can speed discovery for participating engines, but does not guarantee crawling, indexing, or ranking. Google does not use IndexNow.
 
 ## Google Search Console
 
