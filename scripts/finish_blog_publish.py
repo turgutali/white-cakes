@@ -40,7 +40,7 @@ LEGACY_POSTS = [
     {
         "file": "cake-sizes-cebu.html",
         "h1": "Cake Sizes in Cebu: 4-Inch, 6-Inch, 8-Inch and Two-Tier Guide",
-        "meta": "Compare 4-inch Bento, 6-inch, 8-inch and two-tier cakes in Cebu. See the verified Bento servings and how to choose a size for your guest list.",
+        "meta": "Cebu cake serving estimates: 4-inch Bento for 2 generous or 3 modest slices, 6-inch for 8–12, 8-inch for 16–24, and common 6+8 two-tier for 30–36.",
         "date": "2026-11-18",
     },
 ]
