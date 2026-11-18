@@ -5,7 +5,7 @@
 - The live sitemap contains 68 canonical URLs, including 50 Journal articles.
 - A public crawl returned HTTP 200 for all 68 sitemap URLs and all 75 unique internal-link destinations found on those pages.
 - The public robots file permits Googlebot, Bingbot, OAI-SearchBot, GPTBot, ClaudeBot, and PerplexityBot. `llms.txt` lists the current service areas, prices, key pages, and Journal articles.
-- The latest completed website batch changed `/cake-delivery-cebu-city/` and `/about/`. IndexNow accepted both URLs in one request (HTTP 200). This informs IndexNow-participating engines; it is not a Google indexing request or guarantee.
+- On 2026-11-19, after the journal content work was live, IndexNow accepted seven updated article URLs in one request (HTTP 200). The follow-up Cebuano pricing update changed `/journal/asa-magpa-order-cake-cebu.html` and `/journal/`; IndexNow accepted both in one request (HTTP 200). These notifications inform IndexNow-participating engines; they are not Google indexing requests or guarantees.
 - A Google search snapshot for `cake delivery Cebu City` localized to Cebu did not show The White Cakes in the visible local or organic results. This is a spot check, not a rank report.
 
 ## Google Search Console
