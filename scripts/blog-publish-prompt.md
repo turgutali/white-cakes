@@ -365,6 +365,162 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
 </script>
 ```
 
+<!-- ===== FILE: 28-chocolate-cake-cebu.md ===== -->
+---
+title: "Chocolate Cake Cebu | Custom Cake Order Guide"
+meta_description: "Looking for chocolate cake in Cebu? Chocolate is a listed White Cakes flavour. Check sizes, design, filling details, price and delivery before ordering."
+url: https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html
+h1: "Chocolate Cake in Cebu: Choose a Custom Cake"
+publish_date: 2026-11-18
+og_image_alt: "Hand-finished celebration cake by White Cakes in Cebu; chocolate is one of the available custom cake flavours"
+---
+
+**Quick answer:** Chocolate is one of the custom cake flavours listed by White Cakes in Cebu. Choose a size and hand-piped buttercream design, then send the date, guest count and reference photo. The flavour listing does not specify the cake's filling, frosting or chocolate intensity, so ask us to confirm those details and the total quote before paying a deposit.
+
+## What to expect when you order chocolate flavour
+
+The current menu lists chocolate, vanilla, ube, mango and red velvet. White Cakes makes cakes to order and finishes them in ivory buttercream with hand-piped details. The menu does not promise a particular chocolate percentage, filling, chocolate ganache, dark or milk chocolate, or chocolate-coloured exterior. If you have a specific preference, include it in your enquiry and wait for confirmation for your date.
+
+This is especially helpful when you are choosing from online photos. A reference may show ganache, drip, cookies, fresh fruit or a dark finish. Send one clear photo and mark which detail matters most. We will confirm what can be made with the available buttercream finish; a picture from another bakery is not a guarantee of the exact ingredients or decoration.
+
+For a side-by-side overview of all five flavours, see [cake flavours in Cebu](/journal/choosing-a-flavor.html). If you already know the event's design and size, review our [custom cake options](/custom-cakes-cebu/).
+
+## Choose a size for the gathering
+
+Tell us how many people will share the cake and whether it is the only dessert. A 4-inch Bento serves two generously or three modestly after a meal. It is suitable for a small celebration, not a full party table. For a group, ask about a 6-inch, 8-inch or two-tier cake and confirm the serving plan with us; we do not publish a fixed portion chart because slice size and decoration change the result.
+
+If the event has children and adults, a birthday, office milestone or family meal, include that context. It helps us discuss the format and inscription. Send exact wording and spelling; a short line is easier to place on a small cake than a long message.
+
+## What to include in your request
+
+Send the date, occasion, guest count or preferred size, chocolate flavour, reference photo, exact inscription, and whether you want arranged pickup or delivery. If you want a particular filling, frosting or chocolate finish, spell it out so we can check it instead of assuming it comes with the flavour.
+
+Orders need at least three days' notice. The date is secured only after we confirm availability, design and total price and receive the 50% deposit. Weekends and detailed designs may need earlier planning. See the [Cebu cake price guide](/journal/cake-prices-cebu.html) for starting prices; the final custom price depends on the confirmed size and design, and delivery is quoted separately.
+
+For delivery in Cebu City, Mandaue or Lapu-Lapu, provide the barangay, landmark, full address and receiving contact. We will confirm the route, fee and delivery window for your address. Buttercream cakes should be kept cool before serving; see our guide to [handling buttercream in Cebu heat](/journal/buttercream-in-cebu-heat.html).
+
+## Frequently asked questions
+
+### Can I order a chocolate cake in Cebu from White Cakes?
+
+Yes. Chocolate is one of the listed flavours for custom cakes. Send the date, size, design reference and pickup or delivery details for an availability check and quote.
+
+### Does the chocolate flavour include ganache or a specific filling?
+
+The flavour list does not specify a separate filling, frosting or chocolate finish. Ask us to confirm the detail you want before paying a deposit.
+
+### What size chocolate cake should I order?
+
+Tell us the guest count and whether other desserts will be served. A 4-inch Bento is for two generous or three modest slices; for a group, enquire about a larger custom size and confirm the serving plan.
+
+### Can I request chocolate drip or a dark exterior?
+
+Send a reference photo and ask whether the requested finish is available. White Cakes lists hand-piped buttercream details; a finish shown in another bakery's photo is not automatically available.
+
+### How early should I order?
+
+Allow at least three days and ask earlier for weekends, holidays or detailed designs. Wait for availability confirmation before paying the 50% deposit.
+
+## Order a chocolate cake in Cebu
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20chocolate%20cake%20in%20Cebu). Include the date, guest count, chocolate flavour, reference, inscription and full delivery details so we can confirm the design and total.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {"@type": "BlogPosting", "@id": "https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html#article", "headline": "Chocolate Cake in Cebu: Choose a Custom Cake", "description": "Looking for chocolate cake in Cebu? Chocolate is a listed White Cakes flavour. Check sizes, design, filling details, price and delivery before ordering.", "abstract": "Chocolate is one of White Cakes' listed custom cake flavours in Cebu. This guide explains which flavour details to confirm, how to choose a size and design, and how to arrange pickup or delivery.", "datePublished": "2026-11-18", "dateModified": "2026-11-18", "inLanguage": "en-PH", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html"}, "url": "https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html", "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp", "width": 1200, "height": 630}, "author": {"@id": "https://www.thewhitecakes.com/#organization"}, "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}, "keywords": "chocolate cake Cebu, chocolate cake Cebu City, order chocolate cake Cebu, custom chocolate cake Cebu, chocolate cake delivery Cebu", "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"}, "about": {"@type": "Thing", "name": "chocolate cake in Cebu"}, "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}},
+    {"@type": "FAQPage", "@id": "https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html#faq", "mainEntity": [
+      {"@type": "Question", "name": "Can I order a chocolate cake in Cebu from White Cakes?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Chocolate is one of the listed flavours for custom cakes. Send the date, size, design reference and pickup or delivery details for an availability check and quote."}},
+      {"@type": "Question", "name": "Does the chocolate flavour include ganache or a specific filling?", "acceptedAnswer": {"@type": "Answer", "text": "The flavour list does not specify a separate filling, frosting or chocolate finish. Ask us to confirm the detail you want before paying a deposit."}},
+      {"@type": "Question", "name": "What size chocolate cake should I order?", "acceptedAnswer": {"@type": "Answer", "text": "Tell us the guest count and whether other desserts will be served. A 4-inch Bento is for two generous or three modest slices; for a group, enquire about a larger custom size and confirm the serving plan."}},
+      {"@type": "Question", "name": "Can I request chocolate drip or a dark exterior?", "acceptedAnswer": {"@type": "Answer", "text": "Send a reference photo and ask whether the requested finish is available. White Cakes lists hand-piped buttercream details; a finish shown in another bakery's photo is not automatically available."}},
+      {"@type": "Question", "name": "How early should I order?", "acceptedAnswer": {"@type": "Answer", "text": "Allow at least three days and ask earlier for weekends, holidays or detailed designs. Wait for availability confirmation before paying the 50% deposit."}}
+    ]},
+    {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"}, {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"}, {"@type": "ListItem", "position": 3, "name": "Chocolate Cake in Cebu: Choose a Custom Cake", "item": "https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html"}]}
+  ]
+}
+</script>
+
+<!-- ===== FILE: 29-vanilla-cake-cebu.md ===== -->
+---
+title: "Vanilla Cake Cebu | Custom Cake Order Guide"
+meta_description: "Order a vanilla cake in Cebu from White Cakes. Compare sizes, plan a buttercream design, and confirm filling, price and delivery for your date."
+url: https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html
+h1: "Vanilla Cake in Cebu: Design and Ordering Guide"
+publish_date: 2026-11-18
+og_image_alt: "Ivory buttercream celebration cake in Cebu; vanilla is one of the available custom cake flavours"
+---
+
+**Quick answer:** Vanilla is one of the custom cake flavours offered by White Cakes in Cebu. Choose a size, send your date and design reference, and tell us the guest count and exact inscription. The flavour listing does not describe a separate filling or another frosting, so request confirmation of those details, the final design and total quote before paying a deposit.
+
+## Plan the flavour and design together
+
+White Cakes lists vanilla alongside chocolate, ube, mango and red velvet. Cakes are made to order and finished in ivory buttercream, with hand-piped details such as shells, roses and marbling. The flavour name alone does not promise a filling, a particular crumb, or a colour other than the listed cake finish. If you have a specific idea for the inside or outside, describe it in your enquiry for confirmation.
+
+For a reference photo, choose one example and say what you want us to notice: the piping, border, colour palette or overall mood. Photos from other bakers may include fondant figures, printed images or decoration that White Cakes does not list. We will confirm which details work with our buttercream style before the order is secured.
+
+Vanilla is one of five listed choices; there is no need to infer a special occasion from the flavour. If you are still comparing, our [Cebu cake flavour guide](/journal/choosing-a-flavor.html) covers the full menu. You can also review the sizes and starting prices on [custom cakes in Cebu](/custom-cakes-cebu/).
+
+## Pick a size for your guest list
+
+A 4-inch Bento serves two generously or three modestly after a meal. It works for a small celebration or a personal gift. For a larger table, tell us the number of guests and whether other desserts will be served, then ask about a 6-inch, 8-inch or two-tier cake. We confirm the serving plan with you because slice size and decoration affect how many portions are practical.
+
+Send the exact message you want piped, including spelling and punctuation. A short name or greeting can fit more clearly on a small cake; a longer note can go on a card. If colour is important, share the palette and we will confirm how it fits the ivory buttercream finish.
+
+## Order details and delivery
+
+Include your date, occasion, guest count, preferred size, vanilla flavour, reference photo, inscription and pickup or delivery choice. If you want a specific filling or decoration, name it directly so we can check availability instead of guessing from the flavour name.
+
+Orders need at least three days' notice. We confirm availability, design and the full amount before the 50% deposit secures the date. Ask earlier for a weekend, holiday or detailed finish. Starting prices are listed in the [Cebu cake price guide](/journal/cake-prices-cebu.html); custom pricing depends on the final size and design, with delivery quoted separately.
+
+For delivery around Cebu City, Mandaue and Lapu-Lapu, send the complete address, barangay, landmark and receiving contact. We confirm the route, fee and delivery window for your location. Keep buttercream cakes cool before serving; see our practical note on [buttercream in Cebu heat](/journal/buttercream-in-cebu-heat.html).
+
+## Frequently asked questions
+
+### Can I order a vanilla cake in Cebu from White Cakes?
+
+Yes. Vanilla is one of the listed custom cake flavours. Send the date, size, design reference and pickup or delivery details so we can confirm availability and the complete quote.
+
+### Does the vanilla cake include a filling?
+
+The flavour list does not specify a separate filling. If you want a particular filling or finish, ask us to confirm it for your order before paying a deposit.
+
+### What size vanilla cake do I need?
+
+Tell us the guest count and whether the cake is the only dessert. A 4-inch Bento serves two generously or three modestly; ask about a larger custom cake for a group and confirm the serving plan.
+
+### Can I request coloured buttercream or a specific design?
+
+Send a reference and colour palette. White Cakes will confirm which details fit the hand-piped buttercream finish and your order date.
+
+### How early should I order?
+
+Allow at least three days' notice, and ask earlier for weekends, holidays or detailed designs. The date is secured after availability is confirmed and the 50% deposit is paid.
+
+## Order a vanilla cake in Cebu
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20vanilla%20cake%20in%20Cebu). Include the date, guest count, vanilla flavour, reference, inscription and delivery details for a clear availability check and quote.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {"@type": "BlogPosting", "@id": "https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html#article", "headline": "Vanilla Cake in Cebu: Design and Ordering Guide", "description": "Order a vanilla cake in Cebu from White Cakes. Compare sizes, plan a buttercream design, and confirm filling, price and delivery for your date.", "abstract": "Vanilla is one of White Cakes' listed custom cake flavours in Cebu. This guide covers how to brief a buttercream design, choose a size, confirm filling details and arrange delivery.", "datePublished": "2026-11-18", "dateModified": "2026-11-18", "inLanguage": "en-PH", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html"}, "url": "https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html", "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp", "width": 1200, "height": 630}, "author": {"@id": "https://www.thewhitecakes.com/#organization"}, "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}, "keywords": "vanilla cake Cebu, vanilla cake Cebu City, order vanilla cake Cebu, custom vanilla cake Cebu, vanilla cake delivery Cebu", "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"}, "about": {"@type": "Thing", "name": "vanilla cake in Cebu"}, "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}},
+    {"@type": "FAQPage", "@id": "https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html#faq", "mainEntity": [
+      {"@type": "Question", "name": "Can I order a vanilla cake in Cebu from White Cakes?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Vanilla is one of the listed custom cake flavours. Send the date, size, design reference and pickup or delivery details so we can confirm availability and the complete quote."}},
+      {"@type": "Question", "name": "Does the vanilla cake include a filling?", "acceptedAnswer": {"@type": "Answer", "text": "The flavour list does not specify a separate filling. If you want a particular filling or finish, ask us to confirm it for your order before paying a deposit."}},
+      {"@type": "Question", "name": "What size vanilla cake do I need?", "acceptedAnswer": {"@type": "Answer", "text": "Tell us the guest count and whether the cake is the only dessert. A 4-inch Bento serves two generously or three modestly; ask about a larger custom cake for a group and confirm the serving plan."}},
+      {"@type": "Question", "name": "Can I request coloured buttercream or a specific design?", "acceptedAnswer": {"@type": "Answer", "text": "Send a reference and colour palette. White Cakes will confirm which details fit the hand-piped buttercream finish and your order date."}},
+      {"@type": "Question", "name": "How early should I order?", "acceptedAnswer": {"@type": "Answer", "text": "Allow at least three days' notice, and ask earlier for weekends, holidays or detailed designs. The date is secured after availability is confirmed and the 50% deposit is paid."}}
+    ]},
+    {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"}, {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"}, {"@type": "ListItem", "position": 3, "name": "Vanilla Cake in Cebu: Design and Ordering Guide", "item": "https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html"}]}
+  ]
+}
+</script>
+
 <!-- ===== FILE: 27-red-velvet-cake-cebu.md ===== -->
 ---
 title: "Red Velvet Cake Cebu | Custom Cake Order Guide"
