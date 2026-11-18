@@ -1,35 +1,21 @@
 # Search Console, Bing, and indexing
 
-## 1. Google Search Console
+## Automatic discovery for participating search engines
 
-1. Open [Google Search Console](https://search.google.com/search-console).
-2. Add property: **URL prefix** `https://www.thewhitecakes.com/`
-3. Choose **HTML tag** verification. Copy the `content="..."` value only.
-4. In the repo, copy `seo-config.example.json` to `seo-config.json` and set `"google_site_verification"` to that value.
-5. Run: `python3 scripts/inject_seo_tags.py`, commit, push to `main`, wait ~2 minutes for GitHub Pages.
-6. Click **Verify** in Search Console.
-7. **Sitemaps** → Submit `https://www.thewhitecakes.com/sitemap.xml`
-8. **URL inspection** → request indexing for:
-   - `https://www.thewhitecakes.com/`
-   - `https://www.thewhitecakes.com/bento-cakes-cebu/`
-   - `https://www.thewhitecakes.com/journal/cake-delivery-cebu.html`
-   - `https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html`
+On each push to `main` that changes HTML pages, GitHub Actions submits their canonical URLs to IndexNow. The public key file is hosted at the site root so participating engines can verify it. IndexNow notifications can speed discovery, but do not guarantee crawling, indexing, or ranking. Google does not use IndexNow.
 
-## 2. Bing Webmaster Tools
+The workflow runs `python3 scripts/submit_indexnow.py <before-sha> <after-sha>`. To send all indexable HTML pages manually, run `python3 scripts/submit_indexnow.py` from a checkout of the target commit.
 
-1. [Bing Webmaster](https://www.bing.com/webmasters) → add site → verify with meta tag.
-2. Put the token in `seo-config.json` → `bing_site_verification`, run inject script, push, verify.
-3. Submit the same sitemap URL.
+## Google Search Console
 
-## 3. Optional GA4
+The sitemap is published at <https://www.thewhitecakes.com/sitemap.xml>. Submit it in Search Console, then use URL Inspection for the homepage and highest-priority service pages when access is available. A sitemap and a crawl request help Google discover URLs; neither guarantees indexing or rankings. Google says a new site may simply be too new and crawling can take days or weeks.
 
-Set `"ga4_measurement_id": "G-XXXXXXXX"` in `seo-config.json` and re-run inject.
+Use the `info@thewhitecakes.com` Google account for White Cakes properties. That account currently reports that it does not have access to `https://www.thewhitecakes.com/`. A property owner needs to add it as a full user or owner before URL Inspection and the performance reports are available there.
 
-## 4. Social bios (manual)
+## Bing Webmaster Tools
 
-- **Instagram** [@thewhitecakescebu](https://www.instagram.com/thewhitecakescebu/): Website = `https://www.thewhitecakes.com`
-- **Facebook** [The White Cakes](https://www.facebook.com/thewhitecakes/): Website field = same URL
+The sitemap can also be submitted in Bing Webmaster Tools. IndexNow notifications are automatic; use Bing Webmaster Tools to inspect its IndexNow activity and indexing status.
 
-## 5. Google Business Profile (optional)
+## Business listings
 
-Service-area business: Cebu City, Mandaue, Lapu-Lapu. No public street address. Same website and WhatsApp as on the site.
+Keep business name, phone, service areas, website, and service-area business details consistent across public listings. The business has a Google Business Profile awaiting video verification; do not create a duplicate listing.
