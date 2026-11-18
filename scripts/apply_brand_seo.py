@@ -1044,15 +1044,35 @@ def write_sitemap() -> None:
 def write_llms() -> None:
     journal_lines = []
     index = (ROOT / "journal" / "index.html").read_text(encoding="utf-8")
-    for href, title in re.findall(r'<a href="(/journal/[^"]+\.html)">\s*<h3>(.*?)</h3>', index, flags=re.S):
-        journal_lines.append(f"- [{re.sub(r'<.*?>', '', title).strip()}]({BASE}{href})")
+    entries = re.findall(
+        r'<li>\s*<a href="(/journal/[^"#]+\.html)">\s*<h3>(.*?)</h3>\s*<p>(.*?)</p>\s*</a>\s*</li>',
+        index,
+        flags=re.S,
+    )
+    for href, title, summary in entries:
+        title_text_value = unescape(re.sub(r"<.*?>", "", title)).strip()
+        summary_text = unescape(re.sub(r"<.*?>", "", summary)).strip()
+        if not summary_text:
+            page = ROOT / href.lstrip("/")
+            page_html = page.read_text(encoding="utf-8") if page.exists() else ""
+            description = re.search(
+                r'<meta\s+name="description"\s+content="([^"]*)"', page_html, flags=re.I
+            )
+            summary_text = unescape(description.group(1)).strip() if description else ""
+        suffix = f" — {summary_text}" if summary_text else ""
+        journal_lines.append(f"- [{title_text_value}]({BASE}{href}){suffix}")
     if not journal_lines:
         for path in sorted((ROOT / "journal").glob("*.html")):
             if path.name == "index.html":
                 continue
-            text = path.read_text(encoding="utf-8")
-            title = title_text(text).split("|")[0].strip()
-            journal_lines.append(f"- [{title}]({BASE}/journal/{path.name})")
+            page_html = path.read_text(encoding="utf-8")
+            title = title_text(page_html).split("|")[0].strip()
+            description = re.search(
+                r'<meta\s+name="description"\s+content="([^"]*)"', page_html, flags=re.I
+            )
+            summary = unescape(description.group(1)).strip() if description else ""
+            suffix = f" — {summary}" if summary else ""
+            journal_lines.append(f"- [{title}]({BASE}/journal/{path.name}){suffix}")
     body = f"""# The White Cakes - Cebu
 
 > The White Cakes - Cebu (also called White Cakes and The White Cakes) is a made-to-order cloud kitchen in Lahug, Cebu. There is no storefront, no walk-in counter, and no street address is published. Pickup is arranged after an order is confirmed. Delivery covers Cebu City, Mandaue City, and Lapu-Lapu City.
@@ -1067,12 +1087,24 @@ def write_llms() -> None:
 - Instagram: {IG}
 - Facebook: {FB}
 - Logo: {BASE}/assets/white-cakes-logo.png
+- Cebu directory profile: {MYCEBU}
 
 ## Services
 
 Hand-finished buttercream cakes, baked for a named date. Signature designs are Signature Marble (6-inch), Bouquet Cake, and Bento Cake (4-inch). Also custom celebration cakes, birthday cakes, anniversary and gift cakes, intimate wedding and engagement cakes, and corporate or office orders. Flavours are chocolate, vanilla, ube, mango, and red velvet.
 
 Launch prices in PHP are published until January 15, 2027 inclusive. The regular price is charged after that date. Custom designs are starting prices. Bouquet cakes are price on request. A 50% deposit confirms the order. This site does not list reviews or ratings.
+
+## Launch prices (PHP)
+
+Valid through January 15, 2027. Custom cake prices are starting prices; the final amount depends on the design.
+
+- Bento cake (4 inch): regular ₱599; launch ₱449
+- 6-inch custom cake: regular ₱1,799; starting at ₱1,399
+- 8-inch custom cake: regular ₱2,599; starting at ₱1,999
+- 2-tier custom cake: regular ₱4,299; starting at ₱3,399
+- Christmas vintage cake (6 inch): regular ₱1,650; Christmas special ₱650 through December 25, 2026
+- Bouquet cake: price on request
 
 ## How to order
 
@@ -1099,10 +1131,11 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 - [Anniversary cakes]({BASE}/anniversary-cakes-cebu/) — Anniversary and gift cakes.
 - [Wedding cakes]({BASE}/wedding-cakes-cebu/) — Intimate wedding and engagement cakes.
 - [Corporate orders]({BASE}/corporate-cake-orders-cebu/) — Office and corporate cake orders.
+- [Christmas cakes]({BASE}/christmas-cakes-cebu/) — 2026 Christmas cake designs, the seasonal cake offer, ordering timeline, and Metro Cebu delivery.
 - [FAQ]({BASE}/faq/) — Lead time, delivery, flavours, and ordering.
 - [Journal]({BASE}/journal/) — Guides for ordering and celebrating in Cebu.
 
-## Journal
+## Journal guides
 
 {chr(10).join(journal_lines)}
 """
