@@ -1004,7 +1004,7 @@ Choose a bouquet cake when the person would rather be given flowers than a tall 
 
 - **Anniversaries and monthsaries.** Soft, romantic and sized for a dinner for two or a small family table. See [anniversary cakes](/anniversary-cakes-cebu/).
 - **Thank-you gifts.** For a ninang who helped with the wedding, a doctor or nurse after a hospital stay, or a teacher at the end of the school year.
-- **Mother's Day and lola's birthday.** For the woman in the family who always says "Ayaw na, sayang ra" when you buy flowers.
+- **Mother's Day and lola's birthday.** For the woman in the family who always says "Ayaw na, sayang ra" when you buy flowers. See our [Mother's Day cake guide for Cebu](/journal/mothers-day-cakes-cebu.html) for date, design and delivery planning.
 - **Congratulations.** A new job, passing the boards, a new home in Talamban or a first condo near IT Park.
 - **A table that wants colour more than height,** like a merienda, a small lunch or a despedida.
 
@@ -2031,6 +2031,138 @@ Use the [order form](/order/) or [message us on WhatsApp](https://wa.me/63947438
         {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
         {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
         {"@type": "ListItem", "position": 3, "name": "How to Send a Cake to Cebu from Abroad", "item": "https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html"}
+      ]
+    }
+  ]
+}
+</script>
+
+<!-- ===== FILE: 18-mothers-day-cakes-cebu.md ===== -->
+---
+title: "Mother's Day Cake Cebu 2027 | Bouquet, Bento & Custom Cakes"
+meta_description: "Choose a Mother's Day cake in Cebu for Mom or Lola. Bouquet, Bento or custom buttercream, with 2027 date and delivery planning for Cebu City, Mandaue and Lapu-Lapu."
+url: https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html
+h1: "Mother's Day Cakes in Cebu: Choose a Gift for Mom"
+publish_date: 2026-11-18
+og_image_alt: "Hand-piped buttercream bouquet cake made in Cebu, a Mother's Day gift option"
+---
+
+**Quick answer:** Mother's Day in the Philippines is commonly observed on the second Sunday of May; in 2027, that is Sunday, 9 May. For a cake in Cebu, choose a Bouquet Cake for a floral gift, a Bento for a small celebration, or a custom cake for the family table. White Cakes needs at least three days' notice, but ask early to confirm the date and delivery route before paying a deposit.
+
+<figure class="editorial-photo"><img src="/assets/bouquet-cake-pink-wrapper-cebu.webp" width="1200" height="1607" alt="Blush bouquet cake finished with hand-piped buttercream flowers and a pleated wrapper, made in Cebu." loading="lazy" decoding="async"><figcaption>A bouquet-style buttercream cake combines a floral look with a cake to share.</figcaption></figure>
+
+## When is Mother's Day in Cebu in 2027?
+
+Mother's Day is commonly celebrated in the Philippines on the second Sunday of May. In 2027, that date is **Sunday, 9 May**; see the [2027 date reference](https://publicholidays.ph/mothers-day/). If you are planning for Mom, Lola, a ninang or another mother figure, settle the date and delivery address before choosing the cake. The occasion itself does not confirm that a particular delivery slot is available.
+
+## Which cake suits Mom or Lola?
+
+Start with how she will celebrate, then choose the design:
+
+- **Bouquet Cake** for someone who loves flowers. Ours is finished with hand-piped buttercream rosettes, sage leaves, a pleated wrapper, pearls and a bow. The flowers are piped in buttercream, not fresh flowers. The bouquet finish is the main gift; tell us how many people will share it so we can confirm a suitable scale. See the [Bouquet Cake page](/bouquet-cakes-cebu/) and our guide to [bouquet cakes as gifts in Cebu](/journal/bouquet-cake-gift-cebu.html).
+- **Bento Cake** for a small celebration at home or a personal cake with a short message. It is 4 inches and sized for two generous or three modest slices. See the [Bento Cake page](/bento-cakes-cebu/).
+- **Signature Marble or a custom cake** for a family meal. Share the guest count and how the cake will be served before choosing between the listed sizes. The [custom cakes page](/custom-cakes-cebu/) shows current starting sizes and prices.
+
+Choose an option Mom would enjoy eating and receiving. If she prefers a quiet family meal over a surprise, plan the handover around that rather than sending a cake when nobody can receive it.
+
+## What should the message on the cake say?
+
+Keep the inscription short enough to read clearly on the top. “Happy Mother's Day, Mom,” “We love you, Lola,” or her name with a few warm words can work. Send the exact text and spelling when you enquire. A long dedication is better on a card than squeezed onto buttercream.
+
+For the colours, send a photo of the invitation, flowers or table setting. One clear reference and a note about the detail you like are more useful than several screenshots that show different designs. We hand-pipe the finish in buttercream and will confirm what can be done for your date. Read our [guide to briefing a custom cake](/journal/how-to-brief-a-custom-cake-cebu.html) if you are choosing a custom design.
+
+## Plan Mother's Day cake delivery in Cebu
+
+White Cakes delivers in **Cebu City, Mandaue City and Lapu-Lapu City**. For a Mother's Day surprise, collect the recipient's complete address, barangay, landmark, mobile number and any condo, subdivision or office receiving instructions before you order. Someone should be available to receive the cake directly and keep it cool; do not plan to leave buttercream in a warm vehicle or unattended lobby.
+
+We need at least **three days' notice** for every cake. Mother's Day is a busy date, so message us as soon as you know your plan and ask us to confirm availability. Send the exact date, full delivery address and preferred time window. We confirm the route, delivery charge and a delivery window before the order is secured. We cannot promise an exact arrival minute, and an address inside our usual delivery area does not guarantee that a particular holiday slot is open.
+
+A 50% deposit confirms the order after we reply with the details. Custom designs have starting prices; bouquet cakes are quoted on request, and delivery is quoted for the address. Check the [current Cebu cake price guide](/journal/cake-prices-cebu.html) and have the full quote confirmed before you pay.
+
+## Mother's Day cake order checklist
+
+Before sending your enquiry, have these details ready:
+
+1. Cake choice and flavour: chocolate, vanilla, ube, mango or red velvet.
+2. The exact date and when the cake will be served.
+3. The recipient's full name, mobile number and complete delivery address.
+4. Landmark, gate or lobby instructions, plus a person who can receive it.
+5. Exact inscription, colour reference and any allergy information.
+6. A backup date in case your first choice is unavailable.
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20Mother%27s%20Day%20cake%20in%20Cebu). We reply within 24 hours with availability or a question.
+
+## Frequently asked questions
+
+### What date is Mother's Day in the Philippines in 2027?
+
+It falls on Sunday, 9 May 2027, the second Sunday of May. Ask us to confirm the cake and delivery slot for your chosen date.
+
+### Can you deliver a Mother's Day cake in Cebu?
+
+Delivery is available in Cebu City, Mandaue and Lapu-Lapu. Holiday-date availability, address access, the delivery charge and a workable window must be confirmed before payment.
+
+### How early should I order a Mother's Day cake?
+
+Three days is the minimum, not a guarantee that a holiday slot remains open. Contact us as soon as you know the date so we can confirm availability before you pay the deposit.
+
+### Are the flowers on the Bouquet Cake fresh?
+
+No. The flowers are piped by hand in buttercream. The Bouquet Cake is a cake finished to look like a wrapped bouquet; it is not a bundle of fresh flowers.
+
+### How much is a Mother's Day cake in Cebu?
+
+A Bento and custom cakes have published starting prices; the final price depends on the design. Bouquet cakes are price on request, and delivery is quoted for the full address. Check the current price guide and request a complete quote for your date.
+
+## Arrange a Mother's Day cake in Cebu
+
+Send the cake choice, date, message and full delivery details in one enquiry. We will confirm availability, the quote and delivery window before you secure the order.
+
+## Order a Mother's Day cake
+
+Use the [order form](/order/) or [message us on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20Mother%27s%20Day%20cake%20in%20Cebu). Include “Mother's Day 2027” and the requested date so we can check the right schedule.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html#article",
+      "headline": "Mother's Day Cakes in Cebu: Choose a Gift for Mom",
+      "description": "Choose a Mother's Day cake in Cebu for Mom or Lola. Bouquet, Bento or custom buttercream, with 2027 date and delivery planning for Cebu City, Mandaue and Lapu-Lapu.",
+      "abstract": "Mother's Day in the Philippines is commonly observed on the second Sunday of May; in 2027, that is Sunday, 9 May. White Cakes offers Bouquet, Bento and custom cakes in Cebu City, Mandaue and Lapu-Lapu. Orders need at least three days' notice, and holiday date and delivery availability must be confirmed before deposit.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp", "width": 1200, "height": 1607},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "Mother's Day cake Cebu, Mother's Day cake delivery Cebu, cake for Mom Cebu, Mother's Day bouquet cake Cebu, cake gift for Lola Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "Mother's Day cake in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "What date is Mother's Day in the Philippines in 2027?", "acceptedAnswer": {"@type": "Answer", "text": "It falls on Sunday, 9 May 2027, the second Sunday of May. Ask us to confirm the cake and delivery slot for your chosen date."}},
+        {"@type": "Question", "name": "Can you deliver a Mother's Day cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "Delivery is available in Cebu City, Mandaue and Lapu-Lapu. Holiday-date availability, address access, the delivery charge and a workable window must be confirmed before payment."}},
+        {"@type": "Question", "name": "How early should I order a Mother's Day cake?", "acceptedAnswer": {"@type": "Answer", "text": "Three days is the minimum, not a guarantee that a holiday slot remains open. Contact us as soon as you know the date so we can confirm availability before you pay the deposit."}},
+        {"@type": "Question", "name": "Are the flowers on the Bouquet Cake fresh?", "acceptedAnswer": {"@type": "Answer", "text": "No. The flowers are piped by hand in buttercream. The Bouquet Cake is a cake finished to look like a wrapped bouquet; it is not a bundle of fresh flowers."}},
+        {"@type": "Question", "name": "How much is a Mother's Day cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "A Bento and custom cakes have published starting prices; the final price depends on the design. Bouquet cakes are price on request, and delivery is quoted for the full address. Check the current price guide and request a complete quote for your date."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Mother's Day Cakes in Cebu: Choose a Gift for Mom", "item": "https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html"}
       ]
     }
   ]
