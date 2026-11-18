@@ -247,6 +247,122 @@ Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=H
 <script type="application/ld+json">
 {"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html#article","headline":"Christmas Cake in Cebu: ₱650 Vintage Special and Delivery","description":"Order a 6-inch Christmas vintage cake in Cebu for ₱650 until Dec 25, 2026 (regular ₱1,650). Three days' notice; delivery to Cebu City, Mandaue and Lapu-Lapu.","abstract":"White Cakes' 6-inch Christmas vintage cake is ₱650 until December 25, 2026 (regular ₱1,650). To order for delivery in Cebu City, Mandaue or Lapu-Lapu, message at least three days ahead; weekends and holiday dates should be requested earlier. Send the date, flavour and full delivery address for confirmation.","datePublished":"2026-11-17","dateModified":"2026-11-18","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html"},"url":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.webp","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"Christmas cake delivery Cebu, Christmas cake Cebu, Noche Buena cake Cebu, Christmas gift cake Cebu, cake delivery Mandaue Lapu-Lapu December","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"Christmas cake delivery Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html#faq","mainEntity":[{"@type":"Question","name":"What is the last day to order a Christmas Eve cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Our minimum is three days, so for Thursday, 24 December 2026 the latest is Monday, 21 December. December dates fill quickly, though, so message us in early December. We will confirm whether your date is still open."}},{"@type":"Question","name":"Do you have a special Christmas cake menu?","acceptedAnswer":{"@type":"Answer","text":"No. You can order our Signature Marble, Bouquet Cake, Bento Cake or a custom design in chocolate, vanilla, ube, mango or red velvet. Send a short seasonal line or a reference photo, and we will tell you what buttercream can do."}},{"@type":"Question","name":"Can you deliver a Christmas cake as a gift to someone else's house?","acceptedAnswer":{"@type":"Answer","text":"Yes, within Cebu City, Mandaue and Lapu-Lapu. Give us the recipient's full address, a landmark and the mobile number of whoever will receive it. If it is a surprise, put the message in the order notes. We text the delivery window to you, not to the recipient."}},{"@type":"Question","name":"Do you deliver on Christmas Day and New Year's Day?","acceptedAnswer":{"@type":"Answer","text":"Message us first. Holiday dates depend on the bench schedule, and we will confirm honestly whether your date is available before you plan around it."}},{"@type":"Question","name":"How much is a Christmas cake from White Cakes?","acceptedAnswer":{"@type":"Answer","text":"The 6-inch Christmas vintage cake is ₱650 until December 25, 2026 (regular ₱1,650). Other designs use the current menu prices; custom prices depend on the design, and Bouquet Cake is price on request. Send your date and full address so we can confirm availability and delivery cost."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Christmas Cake in Cebu: ₱650 Vintage Special and Delivery","item":"https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html"}]}]}
 </script>
+
+<!-- ===== FILE: 22-mango-cake-cebu.md ===== -->
+---
+title: "Mango Cake in Cebu | Order a Custom Mango-Flavoured Cake"
+meta_description: "Looking for a mango cake in Cebu? Mango is one of White Cakes' custom cake flavours. See what to confirm about size, design, delivery and mango filling before ordering."
+url: https://www.thewhitecakes.com/journal/mango-cake-cebu.html
+h1: "Mango Cake in Cebu: What to Confirm Before You Order"
+publish_date: 2026-11-18
+og_image_alt: "Hand-finished celebration cake by White Cakes in Cebu; mango flavour can be requested for a custom order"
+---
+
+**Quick answer:** Mango is one of the flavours available for custom cakes at White Cakes in Cebu. Send your date, size, design reference and delivery address when you enquire. If you specifically want fresh mango pieces, mango filling or fruit on top, ask us to confirm that detail for your order; the flavour selection alone does not promise a particular filling or decoration.
+
+## What mango flavour means for your cake
+
+The phrase “mango cake” can mean different things: a cake with mango flavour, one layered with mango filling, or a cake decorated with fresh fruit. At White Cakes, mango is on the custom cake flavour list. The exact crumb, filling and finish should be confirmed in your order enquiry instead of assumed from the flavour name.
+
+Our cakes are hand-finished with buttercream and made to order. If you have a specific mango cake in mind, send one clear reference photo and point out the part that matters most: mango in the cake, a fruit filling, a mango-coloured finish or fruit decoration. We will tell you what can be done for the date and design before you pay a deposit.
+
+For the broader flavour list, see [cake flavours available in Cebu](/journal/choosing-a-flavor.html). If you are still comparing sizes or designs, start with our [custom cakes in Cebu](/custom-cakes-cebu/) page.
+
+## Pick a size for the people sharing it
+
+For one or two people, the 4-inch Bento is a compact option. It is a small cake, so it may not be enough as the only dessert for a family gathering. A larger celebration can start with a 6-inch or 8-inch custom cake; share the guest count and how it will be served so we can confirm a suitable size. We do not publish a fixed serving chart because slice size and the finished design affect how many portions you get.
+
+Choose the cake format before settling on decoration. A short piped message and a simple colour palette keep the top easy to read. If a reference uses fresh mango, elaborate piping or a topper, ask whether those details are available rather than assuming they are included in the base flavour.
+
+The [Cebu cake price guide](/journal/cake-prices-cebu.html) explains current starting prices and custom quotes. Price depends on the size and confirmed design; delivery is quoted separately for the destination.
+
+## Plan pickup or delivery in Metro Cebu
+
+White Cakes takes made-to-order cake enquiries for Cebu City, Mandaue and Lapu-Lapu. Delivery availability, route and fee depend on the complete address and delivery window. Send the barangay, street or building, a nearby landmark, recipient's mobile number and the time the cake needs to arrive. Wait for confirmation of the route and charge before paying the deposit.
+
+Orders need at least three days' notice. A weekend, holiday or detailed design may need more planning, and the minimum notice does not guarantee a slot is open. If timing is important, include the date and serving time in your first message.
+
+## What to include in your enquiry
+
+Send these details together so we can check the order clearly:
+
+1. The date you need the cake.
+2. Size or guest count.
+3. “Mango” as your flavour choice, plus any specific filling or fruit request.
+4. One reference photo and the design details you want us to keep.
+5. Exact cake message, including spelling and capitalization.
+6. Pickup or delivery; for delivery, send the full address and receiving contact.
+7. Allergy information. Our cakes contain gluten and dairy unless agreed otherwise in writing.
+
+We confirm the design and total before a 50% deposit is paid. Once both are agreed and the deposit is received, the order is confirmed.
+
+## Frequently asked questions
+
+### Can I order a mango cake in Cebu from White Cakes?
+
+Yes. Mango is one of the available flavours for custom cakes. Send your date, size, design reference and any details about the filling or topping so we can confirm the exact order.
+
+### Does the mango flavour include fresh mango pieces or mango filling?
+
+The flavour list does not specify a separate filling or fresh-fruit topping. If you want mango pieces inside or fresh mango on top, ask us to confirm that detail for your date before paying a deposit.
+
+### How much does a mango cake cost in Cebu?
+
+The total depends on cake size and the confirmed design. Delivery is quoted separately for your address. See the [current cake price guide](/journal/cake-prices-cebu.html) and request a complete quote.
+
+### How early should I order?
+
+Send your enquiry at least three days before the date. Ask earlier for weekends, holidays or designs with extra details, and wait for availability confirmation before paying.
+
+## Ask about a mango cake
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20mango%20cake%20in%20Cebu). Include your date, size, any filling or fruit request and delivery address so we can confirm what is possible.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/mango-cake-cebu.html#article",
+      "headline": "Mango Cake in Cebu: What to Confirm Before You Order",
+      "description": "Looking for a mango cake in Cebu? Mango is one of White Cakes' custom cake flavours. See what to confirm about size, design, delivery and mango filling before ordering.",
+      "abstract": "Mango is an available flavour for White Cakes' custom cakes in Cebu. This guide explains how to specify size, design and any filling or fresh-fruit request, and how to confirm delivery, price and lead time.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/mango-cake-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/mango-cake-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/og.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "mango cake Cebu, mango cake Cebu City, order mango cake Cebu, mango-flavoured cake Cebu, custom cake Cebu delivery",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "mango-flavoured cake in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/mango-cake-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Can I order a mango cake in Cebu from White Cakes?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Mango is one of the available flavours for custom cakes. Send your date, size, design reference and any details about the filling or topping so we can confirm the exact order."}},
+        {"@type": "Question", "name": "Does the mango flavour include fresh mango pieces or mango filling?", "acceptedAnswer": {"@type": "Answer", "text": "The flavour list does not specify a separate filling or fresh-fruit topping. If you want mango pieces inside or fresh mango on top, ask us to confirm that detail for your date before paying a deposit."}},
+        {"@type": "Question", "name": "How much does a mango cake cost in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "The total depends on cake size and the confirmed design. Delivery is quoted separately for your address. See the current cake price guide and request a complete quote."}},
+        {"@type": "Question", "name": "How early should I order?", "acceptedAnswer": {"@type": "Answer", "text": "Send your enquiry at least three days before the date. Ask earlier for weekends, holidays or designs with extra details, and wait for availability confirmation before paying."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Mango Cake in Cebu: What to Confirm Before You Order", "item": "https://www.thewhitecakes.com/journal/mango-cake-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
 ```
 
 <!-- ===== FILE: 13-graduation-cakes-cebu.md ===== -->
