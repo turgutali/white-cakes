@@ -13,6 +13,7 @@ import re
 from datetime import date
 from html import escape, unescape
 from pathlib import Path
+import xml.etree.ElementTree as ET
 from xml.sax.saxutils import escape as xml_escape
 
 from fontTools.pens.svgPathPen import SVGPathPen
@@ -138,11 +139,13 @@ SITEMAP_PAGES = [
     ("/cake-delivery-cebu-city/", "monthly", "0.85"),
     ("/cake-delivery-mandaue/", "monthly", "0.85"),
     ("/cake-delivery-lapu-lapu/", "monthly", "0.85"),
+    ("/christmas-cakes-cebu/", "weekly", "0.9"),
     ("/order/", "monthly", "0.95"),
     ("/about/", "monthly", "0.8"),
+    ("/ordering/", "monthly", "0.8"),
     ("/faq/", "monthly", "0.8"),
     ("/journal/", "weekly", "0.8"),
-    ("/llms.txt", "monthly", "0.3"),
+    ("/privacy/", "yearly", "0.2"),
 ]
 
 
@@ -1154,8 +1157,41 @@ def validate() -> None:
     faq = (ROOT / "faq" / "index.html").read_text(encoding="utf-8")
     if '"FAQPage"' not in faq:
         problems.append("faq: FAQPage missing")
-    if "image:image" not in (ROOT / "sitemap.xml").read_text(encoding="utf-8"):
+    sitemap_path = ROOT / "sitemap.xml"
+    sitemap_text = sitemap_path.read_text(encoding="utf-8")
+    if "image:image" not in sitemap_text:
         problems.append("sitemap: no image entries")
+    try:
+        sitemap_root = ET.parse(sitemap_path).getroot()
+        namespace = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+        submitted = {
+            loc.text.strip()
+            for url in sitemap_root.findall(f"{namespace}url")
+            if (loc := url.find(f"{namespace}loc")) is not None and loc.text
+        }
+        expected = set()
+        for path in ROOT.rglob("*.html"):
+            rel = path.relative_to(ROOT).as_posix()
+            if rel == "404.html":
+                continue
+            text = path.read_text(encoding="utf-8")
+            noindex = re.search(r'<meta\s+name=["\']robots["\']\s+content=["\'][^"\']*noindex', text, re.I)
+            if noindex:
+                continue
+            canonical = re.search(r'<link\s+rel=["\']canonical["\']\s+href=["\']([^"\']+)', text, re.I)
+            if canonical is None:
+                problems.append(f"{rel}: missing canonical while checking sitemap")
+            else:
+                expected.add(canonical.group(1))
+        if submitted != expected:
+            missing_urls = sorted(expected - submitted)
+            extra_urls = sorted(submitted - expected)
+            if missing_urls:
+                problems.append("sitemap missing indexable pages: " + ", ".join(missing_urls))
+            if extra_urls:
+                problems.append("sitemap includes non-page or non-canonical URLs: " + ", ".join(extra_urls))
+    except ET.ParseError as exc:
+        problems.append(f"sitemap: invalid XML {exc}")
     if problems:
         raise SystemExit("validation failed:\n" + "\n".join(problems))
     print("validation ok")

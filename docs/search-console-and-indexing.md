@@ -6,7 +6,9 @@ The workflow submits changed canonical HTML URLs on `main` pushes. It was tempor
 
 ## Google Search Console
 
-The `https://www.thewhitecakes.com/` property is available in Search Console under `info@thewhitecakes.com`. `/sitemap.xml` was already submitted; on 2026-11-18 it showed “Successful,” last read 18 November, with 51 discovered pages. Page indexing and performance reports were still processing. URL Inspection showed the Red Velvet guide as indexed with a valid breadcrumb. A sitemap and crawl request help discovery, but do not guarantee indexing or ranking.
+The `https://www.thewhitecakes.com/` property is available in Search Console under `info@thewhitecakes.com`. `/sitemap.xml` is already submitted; on 2026-11-18 it showed “Successful,” last read 18 November, with 51 discovered pages. The Page indexing and Performance reports were still processing. URL Inspection confirmed the homepage is indexed. The new Christmas landing page was initially unknown to Google; its live test passed and the indexing request was accepted on 18 November. Google reports it as queued, not indexed. A sitemap and crawl request help discovery, but do not guarantee indexing or ranking.
+
+Keep `/sitemap.xml` limited to canonical HTML pages intended for Google Search. Do not add `/llms.txt` there; it remains available to AI crawlers at its own URL. When changing the sitemap generator, include every current indexable static page (including `/christmas-cakes-cebu/` and `/ordering/`) and every journal post, then compare the generated URL set against the published sitemap before deployment.
 
 ## Bing Webmaster Tools
 
