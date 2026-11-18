@@ -30,6 +30,7 @@ NAVY = (0x1B, 0x23, 0x40, 255)
 IVORY = (0xF8, 0xF4, 0xEC, 255)
 FB = "https://www.facebook.com/profile.php?id=61596567450476"
 IG = "https://www.instagram.com/thewhitecakescebu/"
+MYCEBU = "https://mycebu.directory/business/the-white-cakes-cebu"
 EMAIL = "info@thewhitecakes.com"
 OLD_FB = "https://www.facebook.com/thewhitecakes/"
 
@@ -400,7 +401,7 @@ def organization_entity(images: list[dict]) -> dict:
             "addressCountry": "PH",
         },
         "areaServed": AREAS,
-        "sameAs": [FB, IG],
+        "sameAs": [FB, IG, MYCEBU],
     }
 
 
