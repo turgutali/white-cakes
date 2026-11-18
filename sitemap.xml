@@ -505,27 +505,57 @@
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.jpg</image:loc>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc>
       <image:title>Christmas wreath cake with green piped garlands and red lettering</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-ribbon.jpg</image:loc>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-ribbon.webp</image:loc>
       <image:title>Christmas wreath cake finished with a red ribbon</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tree-cake.jpg</image:loc>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tree-cake.webp</image:loc>
       <image:title>Ivory Christmas cake topped with a piped evergreen tree</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.jpg</image:loc>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.webp</image:loc>
       <image:title>Deep red tree-shaped Christmas cake with gold decorations</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-heart-cake.jpg</image:loc>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-heart-cake.webp</image:loc>
       <image:title>Pink heart cake with ivory and green piping</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tiered-cake.jpg</image:loc>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tiered-cake.webp</image:loc>
+      <image:title>Two-tier ivory Christmas cake with red and green piped borders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/christmas-cakes-cebu/</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc>
+      <image:title>Christmas wreath cake with green piped garlands and red lettering by The White Cakes Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-ribbon.webp</image:loc>
+      <image:title>Christmas wreath cake finished with a red ribbon</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tree-cake.webp</image:loc>
+      <image:title>Ivory Christmas cake topped with a piped evergreen tree</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.webp</image:loc>
+      <image:title>Deep red tree-shaped Christmas cake with gold decorations</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-heart-cake.webp</image:loc>
+      <image:title>Pink heart cake with ivory and green Christmas piping</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tiered-cake.webp</image:loc>
       <image:title>Two-tier ivory Christmas cake with red and green piped borders</image:title>
     </image:image>
   </url>
