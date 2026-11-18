@@ -17,3 +17,7 @@ The `thewhitecakes.com` site property is available in Bing Webmaster Tools under
 ## Business listings
 
 Keep business name, phone, service areas, website, and service-area business details consistent across public listings. The business has a Google Business Profile awaiting video verification; do not create a duplicate listing.
+
+## Pending content batch (do not request indexing until deployed)
+
+The vintage cake guide and its internal links are being finalized with the current seasonal offer only: 6-inch Christmas vintage cake at ₱650 through December 25, 2026 (listed regular price ₱1,650). It explicitly says year-round vintage availability is not listed. After this content set is checked and published, submit the current sitemap once in Google Search Console and Bing Webmaster Tools; do not submit individual URLs repeatedly.
