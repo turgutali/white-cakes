@@ -248,6 +248,234 @@ Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=H
 </script>
 ```
 
+<!-- ===== FILE: 13-graduation-cakes-cebu.md ===== -->
+---
+title: "Graduation Cakes in Cebu | The White Cakes - Cebu"
+meta_description: "Planning a graduation cake in Cebu? Compare cake sizes, buttercream designs, flavours, delivery details and when to order for a grad celebration."
+h1: "Graduation Cakes in Cebu: Designs, Sizes, and When to Order"
+url: https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html
+publish_date: 2026-11-18
+og_image_alt: "Ivory buttercream celebration cake by The White Cakes in Cebu"
+---
+
+**Quick answer:** For a graduation cake in Cebu, choose a design that suits the gathering: a small Bento cake for a gift or a custom buttercream cake for the family table. White Cakes makes cakes for a named date with at least three days' notice. Send the date, graduate's name, preferred colours, flavour, and whether the cake is for pickup or delivery.
+
+Graduation days often bring relatives together after the ceremony, but the plan can be as simple as a cake at home or a meal with the family. The cake should fit the gathering, the available time and the table it will sit on. This guide explains the choices White Cakes can make in Cebu, Mandaue and Lapu-Lapu, and what information helps us confirm an order.
+
+## Start with the kind of celebration
+
+For a quiet dinner or a gift for one graduate, a 4-inch **Bento Cake** is a small, hand-finished choice. It is sized for two generous slices or three modest ones after a meal. For a home celebration with more people, consider a 6-inch **Signature Marble** or ask us about a custom size. If the gathering is larger, send the guest count before choosing a tiered cake; the number of people and how it will be served matter more than the word “graduation” on its own.
+
+The [Bento cake page](/bento-cakes-cebu/) shows the small cake, while [custom cakes in Cebu](/custom-cakes-cebu/) lists the current starting sizes and prices.
+
+## Choose a design that reads well in photos
+
+Send the school colours or the party palette, the graduate's name, and a short line such as “Congratulations” or the degree. A name and one simple detail usually stay clearer on buttercream than several long lines. Check spelling before you confirm; lettering is piped from the words you send.
+
+White Cakes works in hand-piped buttercream with details such as shells, roses, marbling and lettering. We do not offer fondant figures, edible photo prints or exact printed school logos. If you have a reference photo, send it and we can tell you what parts translate into buttercream and what may need a simpler version. A colour palette is a useful reference; it does not need to be an exact school crest.
+
+## Pick a flavour for the people at the table
+
+Available flavours are **chocolate, vanilla, ube, mango and red velvet**. If the cake is shared by a mixed-age family, tell us whether you want a familiar choice or a flavour that feels more celebratory to your family. The full [flavour guide](/journal/choosing-a-flavor.html) describes the options. If you want a particular flavour and design combination, include both in your message so we can confirm it for your date.
+
+## Plan delivery around the ceremony
+
+We deliver within Cebu City, Mandaue City and Lapu-Lapu City. A venue delivery needs more than the venue name: send the building or hall, the correct entrance, any gate or lobby instructions, the time someone can receive the cake, and a reachable mobile number. We confirm a delivery window rather than an exact minute. We deliver the cake but do not provide venue setup or cutting service.
+
+For a home party, make sure someone can receive the cake and keep it cool until serving. Read the guide to [cake delivery across Metro Cebu](/journal/cake-delivery-cebu.html) and the [Cebu City delivery details](/cake-delivery-cebu-city/).
+
+## When should you order?
+
+The minimum lead time is **three days**. For a graduation date when many family members are celebrating, message earlier so we can confirm that the date and size fit the bench schedule. Ceremony dates can differ by school and year, so wait for the date from your institution before sending a deposit. Our guide explains [how far ahead to order a cake in Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+When you are ready, use the [order form](/order/) or message us on [WhatsApp](https://wa.me/639474382632). Include the date, size or guest count, flavour, words on top, reference colours, and pickup or delivery details. We reply within 24 hours with availability or a question.
+
+## Frequently asked questions
+
+### Can you make a graduation cake in school colours?
+
+Yes, share the colours or a reference and we can confirm a buttercream design. We make hand-finished buttercream cakes, not printed school logos or edible photo cakes.
+
+### How much is a graduation cake in Cebu?
+
+Custom cake prices depend on size and design. Current starting prices are on the [custom cakes page](/custom-cakes-cebu/); the Bento price is on the [Bento page](/bento-cakes-cebu/). Delivery is quoted separately for the full address.
+
+### Can you deliver to a graduation venue?
+
+We deliver to Cebu City, Mandaue and Lapu-Lapu. Send the venue name, exact entrance, a contact person and the time someone can receive the cake. We do not set up the cake at the venue.
+
+### How early should I order?
+
+Three days is the minimum. For a large gathering or a busy graduation weekend, message earlier so we can confirm the schedule.
+
+## Order a graduation cake
+
+Send the date, graduate's name, flavour, design reference and guest count through the [order form](/order/) or [WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20graduation%20cake).
+
+<!-- JSONLD -->
+
+## Structured data
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html#article","headline":"Graduation Cakes in Cebu: Designs, Sizes, and When to Order","description":"Planning a graduation cake in Cebu? Compare cake sizes, buttercream designs, flavours, delivery details and when to order for a grad celebration.","datePublished":"2026-11-18","dateModified":"2026-11-18","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html"},"url":"https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp"},"author":{"@id":"https://www.thewhitecakes.com/#organization"},"publisher":{"@id":"https://www.thewhitecakes.com/#organization"},"keywords":"graduation cake Cebu, graduation cakes Cebu City, graduation cake delivery Cebu, custom graduation cake Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"graduation cakes in Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench","publisher":{"@id":"https://www.thewhitecakes.com/#organization"}}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html#faq","mainEntity":[{"@type":"Question","name":"Can you make a graduation cake in school colours?","acceptedAnswer":{"@type":"Answer","text":"Yes, share the colours or a reference and we can confirm a buttercream design. We make hand-finished buttercream cakes, not printed school logos or edible photo cakes."}},{"@type":"Question","name":"How much is a graduation cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Custom cake prices depend on size and design. Current starting prices are on the custom cakes page; the Bento price is on the Bento page. Delivery is quoted separately for the full address."}},{"@type":"Question","name":"Can you deliver to a graduation venue?","acceptedAnswer":{"@type":"Answer","text":"We deliver to Cebu City, Mandaue and Lapu-Lapu. Send the venue name, exact entrance, a contact person and the time someone can receive the cake. We do not set up the cake at the venue."}},{"@type":"Question","name":"How early should I order?","acceptedAnswer":{"@type":"Answer","text":"Three days is the minimum. For a large gathering or a busy graduation weekend, message earlier so we can confirm the schedule."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Graduation Cakes in Cebu: Designs, Sizes, and When to Order","item":"https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html"}]}]}
+</script>
+```
+
+<!-- ===== FILE: 14-cake-prices-cebu.md ===== -->
+---
+title: "Cake Prices in Cebu: Sizes & Menu | The White Cakes"
+meta_description: "See current cake prices in Cebu by size, learn what custom cake starting prices include, and how delivery charges and deposits are confirmed."
+h1: "Cake Prices in Cebu: Sizes, Custom Designs, and Delivery"
+url: https://www.thewhitecakes.com/journal/cake-prices-cebu.html
+publish_date: 2026-11-18
+og_image_alt: "Signature Marble buttercream cake by The White Cakes in Cebu"
+---
+
+**Quick answer:** The White Cakes menu lists Bento, 6-inch, 8-inch and 2-tier cake prices. Custom cake prices are starting prices; the final design price is confirmed before a deposit. Delivery charges are quoted for the address, not set at one flat rate. A 50% deposit confirms an order.
+
+If you are comparing cake prices in Cebu, check the size, design and delivery separately. A small Bento cake, a custom cake for a family table and a multi-tier cake are different orders. Here is how The White Cakes prices its current menu and what to send for a confirmed quote.
+
+## Current menu prices
+
+The following launch prices apply through **January 15, 2027 inclusive**. Regular prices apply from January 16. The live [cake menu and prices](/#pricing) should be checked before you order in case a promotion has changed.
+
+| Cake | Launch price | Regular price after January 15, 2027 | Notes |
+|---|---:|---:|---|
+| Bento cake, 4 inch | ₱449 | ₱599 | Small cake for two generous slices or three modest slices after a meal |
+| Custom cake, 6 inch | Starting at ₱1,399 | Starting at ₱1,799 | Final price depends on the design |
+| Custom cake, 8 inch | Starting at ₱1,999 | Starting at ₱2,599 | Final price depends on the design |
+| Custom cake, 2 tier | Starting at ₱3,399 | Starting at ₱4,299 | Confirm size, design and date before ordering |
+| Bouquet Cake | Price on request | Price on request | Send the date and design for a quote |
+
+A 6-inch or 8-inch cake is a starting size, not a promise that every design costs the starting price. Hand-piped details, a more complex reference or a larger cake can change the quote. The current [custom cake page](/custom-cakes-cebu/) explains the available sizes. If you need a small cake for two, compare the [Bento cake](/bento-cakes-cebu/) instead of comparing its price to a celebration-size cake.
+
+## Does cake delivery cost extra?
+
+Delivery charges are **not one flat rate** on the menu. Send the complete address, a landmark and the receiving person's mobile number. We confirm the delivery charge with your quote before you pay a deposit. Delivery is available in Cebu City, Mandaue City and Lapu-Lapu City; the [delivery pages](/cake-delivery-cebu-city/) explain what address details help the driver.
+
+We agree on a delivery window rather than an exact minute. We deliver the cake but do not include venue setup, cake cutting or a staffed dessert table. Pickup in Cebu City can be arranged after your order is confirmed.
+
+## What does “starting at” mean?
+
+The 6-inch, 8-inch and 2-tier entries are starting prices for custom cakes. They let you compare sizes, but the final amount depends on what can be made for the date and the design you request. A photo reference helps us see whether the idea fits hand-piped buttercream. We will confirm the exact price before you send a deposit.
+
+The price does not automatically include delivery. Bouquet Cakes do not have a published price; they are quoted after we know the date and design. For a complete quote, tell us the cake, flavour, size, inscription, date, delivery or pickup choice, and your delivery address if applicable.
+
+## How do you confirm the order?
+
+Orders need at least three days' notice. Send the date and cake details through the [order form](/order/) or [WhatsApp](https://wa.me/639474382632). We reply within 24 hours with availability, a question, or a quote. A **50% deposit** confirms the order after the design, price and delivery details are agreed.
+
+## Frequently asked questions
+
+### What is the cheapest cake on the menu?
+
+During the launch promotion through January 15, 2027, the 4-inch Bento is ₱449 (regular price ₱599). It is a small cake for two generous or three modest slices, so choose a larger size if the cake is for a family table.
+
+### Is delivery included in the cake price?
+
+No flat delivery price is listed. We quote the charge for the full address and confirm it before the deposit.
+
+### Why do custom cakes say “starting at”?
+
+The final price depends on the design. The starting prices are for the listed sizes; White Cakes confirms the exact quote after reviewing the reference and date.
+
+### How much deposit do I need?
+
+A 50% deposit confirms the order after the final price and details are agreed.
+
+### How early should I place an order?
+
+At least three days before the date. A busy weekend, larger cake or more involved design may need earlier notice; ask as soon as you know the date.
+
+## Get a confirmed cake quote
+
+Send the size, design reference, flavour, date and delivery address through the [order form](/order/) or [WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20could%20I%20get%20a%20cake%20quote%3F). We will confirm the exact total before the deposit.
+
+<!-- JSONLD -->
+
+## Structured data
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/cake-prices-cebu.html#article","headline":"Cake Prices in Cebu: Sizes, Custom Designs, and Delivery","description":"See current cake prices in Cebu by size, learn what custom cake starting prices include, and how delivery charges and deposits are confirmed.","datePublished":"2026-11-18","dateModified":"2026-11-18","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/cake-prices-cebu.html"},"url":"https://www.thewhitecakes.com/journal/cake-prices-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp"},"author":{"@id":"https://www.thewhitecakes.com/#organization"},"publisher":{"@id":"https://www.thewhitecakes.com/#organization"},"keywords":"cake prices Cebu, cake price Cebu City, custom cake price Cebu, Bento cake price Cebu, cake delivery charge Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"cake prices in Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench","publisher":{"@id":"https://www.thewhitecakes.com/#organization"}}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/cake-prices-cebu.html#faq","mainEntity":[{"@type":"Question","name":"What is the cheapest cake on the menu?","acceptedAnswer":{"@type":"Answer","text":"During the launch promotion through January 15, 2027, the 4-inch Bento is ₱449 (regular price ₱599). It is a small cake for two generous or three modest slices, so choose a larger size if the cake is for a family table."}},{"@type":"Question","name":"Is delivery included in the cake price?","acceptedAnswer":{"@type":"Answer","text":"No flat delivery price is listed. We quote the charge for the full address and confirm it before the deposit."}},{"@type":"Question","name":"Why do custom cakes say “starting at”?","acceptedAnswer":{"@type":"Answer","text":"The final price depends on the design. The starting prices are for the listed sizes; White Cakes confirms the exact quote after reviewing the reference and date."}},{"@type":"Question","name":"How much deposit do I need?","acceptedAnswer":{"@type":"Answer","text":"A 50% deposit confirms the order after the final price and details are agreed."}},{"@type":"Question","name":"How early should I place an order?","acceptedAnswer":{"@type":"Answer","text":"At least three days before the date. A busy weekend, larger cake or more involved design may need earlier notice; ask as soon as you know the date."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Cake Prices in Cebu: Sizes, Custom Designs, and Delivery","item":"https://www.thewhitecakes.com/journal/cake-prices-cebu.html"}]}]}
+</script>
+```
+
+<!-- ===== FILE: 15-ube-cake-cebu.md ===== -->
+---
+title: "Ube Cake in Cebu: Ordering Guide | The White Cakes"
+meta_description: "Order an ube cake in Cebu from White Cakes. See how to choose a size, request a hand-piped buttercream design, and arrange pickup or delivery."
+h1: "Ube Cake in Cebu: How to Order a Custom Ube Cake"
+url: https://www.thewhitecakes.com/journal/ube-cake-cebu.html
+publish_date: 2026-11-18
+og_image_alt: "Hand-finished buttercream cake from The White Cakes in Cebu"
+---
+
+**Quick answer:** Ube is one of the flavours offered by The White Cakes in Cebu. Choose a cake size and buttercream design, then include “ube” in your order request so we can confirm it for your date. Orders need at least three days' notice, with pickup arranged after confirmation or delivery in Metro Cebu.
+
+When you search for ube cake in Cebu, you may be looking for a familiar Filipino flavour, a small cake to share, or a custom celebration cake. At White Cakes, ube is available alongside chocolate, vanilla, mango and red velvet. The cake is made to order and hand-finished in buttercream; this page explains what to send so we can confirm the design and date.
+
+## Choose the cake size first
+
+A 4-inch Bento cake is the small option for two generous slices or three modest slices after a meal. It can suit a quiet celebration or a gift. For a family table, see the 6-inch and 8-inch options on the [custom cakes page](/custom-cakes-cebu/). A larger or tiered order depends on the date and design, so include the number of guests and how you plan to serve it.
+
+## Tell us which details matter most
+
+“Ube cake” tells us the flavour, but a clear order also describes the date, size and finish. If you have a reference photo, share it and point out the parts you care about: the colour palette, piping, border, inscription or overall mood. Our style is hand-piped buttercream, with details such as shells, roses and marbling. We do not offer fondant figures or edible photo prints.
+
+Tell us if the cake is for a birthday, graduation, anniversary or another occasion. We can then discuss a design that fits the event rather than assuming a generic purple cake. If you need a specific filling or preparation, ask first; we will confirm what is available for that order instead of guessing from the flavour name.
+
+## How does ube compare with the other flavours?
+
+White Cakes offers chocolate, vanilla, ube, mango and red velvet. If your guests have different preferences, mention that when you ask; we can confirm the available choice for your cake. The [cake flavour guide](/journal/choosing-a-flavor.html) is a quick overview, and the [custom cake ordering guide](/journal/how-to-order.html) lists the details needed for a complete request.
+
+## Check price and lead time
+
+The 4-inch Bento and custom cake pages show current menu prices. The custom cake prices are starting prices; the final price depends on the design and is confirmed before payment. Delivery charges are quoted separately for the address. A 50% deposit confirms an order after the design and total are agreed. See the current [cake prices in Cebu](/journal/cake-prices-cebu.html) for the menu and quote details.
+
+The minimum lead time is **three days**. Message earlier for a busy date, a larger cake or a detailed design. We reply within 24 hours with availability or a question.
+
+## Pickup and delivery around Cebu
+
+Pickup is arranged in Cebu City after the order is confirmed. Delivery is available in Cebu City, Mandaue City and Lapu-Lapu City. Send the complete address, a landmark and a mobile number for whoever will receive the cake. We agree a delivery window, not an exact minute. Keep the cake in a cool place until serving; the article on [buttercream in Cebu heat](/journal/buttercream-in-cebu-heat.html) has practical handling notes.
+
+## Frequently asked questions
+
+### Do you offer ube cake in Cebu?
+
+Yes. Ube is one of the flavours offered by The White Cakes. Include it in your request so we can confirm it for your date and design.
+
+### Can I order a custom design with ube flavour?
+
+Send the size, date, reference photo and flavour. White Cakes makes hand-piped buttercream cakes and will confirm which parts of the reference can be done for the order.
+
+### How much is an ube cake?
+
+Prices depend on the size and design. See the [Bento menu](/bento-cakes-cebu/) or [custom cake menu](/custom-cakes-cebu/) for current starting prices. Delivery is quoted separately for the address.
+
+### How early should I order an ube cake?
+
+At least three days before the date. Ask earlier for a busy weekend, a larger cake or a more detailed design.
+
+### Can you deliver an ube cake in Cebu?
+
+Delivery is available in Cebu City, Mandaue and Lapu-Lapu. Send a full address, a landmark and the receiver's mobile number so the delivery charge and window can be confirmed.
+
+## Order an ube cake
+
+Use the [order form](/order/) or message us on [WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20an%20ube%20cake). Include the date, size, ube flavour, design reference, inscription and pickup or delivery details.
+
+<!-- JSONLD -->
+
+## Structured data
+
+```html
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/ube-cake-cebu.html#article","headline":"Ube Cake in Cebu: How to Order a Custom Ube Cake","description":"Order an ube cake in Cebu from White Cakes. See how to choose a size, request a hand-piped buttercream design, and arrange pickup or delivery.","datePublished":"2026-11-18","dateModified":"2026-11-18","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/ube-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/ube-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/cake-slice-cebu.webp"},"author":{"@id":"https://www.thewhitecakes.com/#organization"},"publisher":{"@id":"https://www.thewhitecakes.com/#organization"},"keywords":"ube cake Cebu, ube cake Cebu City, order ube cake Cebu, custom ube cake Cebu, ube cake delivery Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"ube cake in Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench","publisher":{"@id":"https://www.thewhitecakes.com/#organization"}}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/ube-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"Do you offer ube cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Yes. Ube is one of the flavours offered by The White Cakes. Include it in your request so we can confirm it for your date and design."}},{"@type":"Question","name":"Can I order a custom design with ube flavour?","acceptedAnswer":{"@type":"Answer","text":"Send the size, date, reference photo and flavour. White Cakes makes hand-piped buttercream cakes and will confirm which parts of the reference can be done for the order."}},{"@type":"Question","name":"How much is an ube cake?","acceptedAnswer":{"@type":"Answer","text":"Prices depend on the size and design. See the Bento menu or custom cake menu for current starting prices. Delivery is quoted separately for the address."}},{"@type":"Question","name":"How early should I order an ube cake?","acceptedAnswer":{"@type":"Answer","text":"At least three days before the date. Ask earlier for a busy weekend, a larger cake or a more detailed design."}},{"@type":"Question","name":"Can you deliver an ube cake in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Delivery is available in Cebu City, Mandaue and Lapu-Lapu. Send a full address, a landmark and the receiver's mobile number so the delivery charge and window can be confirmed."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Ube Cake in Cebu: How to Order a Custom Ube Cake","item":"https://www.thewhitecakes.com/journal/ube-cake-cebu.html"}]}]}
+</script>
+```
+
 
 <!-- ===== FILE: 02-what-is-a-bento-cake.md ===== -->
 

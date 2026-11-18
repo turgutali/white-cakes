@@ -13,7 +13,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 PROMPT = Path(__file__).resolve().parent / "blog-publish-prompt.md"
-PUBLISH_IDS = {"05", "06", "07", "08", "09", "10", "11", "12"}
+PUBLISH_IDS = {"13", "14", "15"}
 
 LIVE_JOURNAL = {
     "how-to-order.html",
@@ -148,14 +148,14 @@ def render_page(meta: dict, body_html: str, jsonld: str, wa_url: str) -> str:
   <meta name="description" content="{desc}">
   <link rel="canonical" href="{url}">
   <meta name="robots" content="index, follow, max-image-preview:large">
-  <meta property="og:image" content="https://www.thewhitecakes.com/assets/og.jpg">
+  <meta property="og:image" content="https://www.thewhitecakes.com/assets/og.webp">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="{og_alt}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{title}">
   <meta name="twitter:description" content="{desc}">
-  <meta name="twitter:image" content="https://www.thewhitecakes.com/assets/og.jpg">
+  <meta name="twitter:image" content="https://www.thewhitecakes.com/assets/og.webp">
   <meta property="og:title" content="{h1}">
   <meta property="og:description" content="{desc}">
   <meta property="og:url" content="{url}">
@@ -193,7 +193,7 @@ def render_page(meta: dict, body_html: str, jsonld: str, wa_url: str) -> str:
         <a href="/#delivery">Delivery</a>
         <a href="/#how">How to order</a>
       </nav>
-      <a class="header-cta" href="/#order">Order</a>
+      <a class="header-cta" href="/order/">Order</a>
     </div>
   </header>
   <main id="main">
@@ -207,7 +207,7 @@ def render_page(meta: dict, body_html: str, jsonld: str, wa_url: str) -> str:
       <aside class="article-end">
         <p>Tell us your date. We confirm within a day.</p>
         <div class="hero-actions">
-          <a class="btn" href="/#order">Order Your Cake</a>
+          <a class="btn" href="/order/">Order Your Cake</a>
           <a class="btn btn-quiet" data-wa href="{html.escape(wa_url, quote=True)}" rel="noopener noreferrer">WhatsApp</a>
           <a class="btn btn-quiet" href="https://m.me/thewhitecakes" rel="noopener noreferrer">Messenger</a>
         </div>
@@ -227,7 +227,7 @@ def render_page(meta: dict, body_html: str, jsonld: str, wa_url: str) -> str:
     </div>
   </footer>
   <nav class="dock" aria-label="Quick actions">
-    <a href="/#order">Order</a>
+    <a href="/order/">Order</a>
     <a data-wa href="https://wa.me/639474382632" rel="noopener noreferrer">WhatsApp</a>
   </nav>
   <script src="../js/main.js" defer></script>

@@ -10,6 +10,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+from datetime import date
 from html import escape, unescape
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
@@ -22,7 +23,7 @@ ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://www.thewhitecakes.com"
 ORG_ID = f"{BASE}/#organization"
 SITE_ID = f"{BASE}/#website"
-TODAY = "2026-11-16"
+TODAY = date.today().isoformat()
 NAVY = (0x1B, 0x23, 0x40, 255)
 IVORY = (0xF8, 0xF4, 0xEC, 255)
 FB = "https://www.facebook.com/profile.php?id=61596567450476"
@@ -333,8 +334,8 @@ def generate_crops() -> dict[str, list[dict]]:
         cropped = crop_aspect(open_rgb(ROOT / "assets" / brand_sources[label]), aw, ah)
         w, h = save_jpeg(cropped, crops_dir / f"brand-{label}.jpg")
         brand_images.append(image_object(f"{BASE}/assets/crops/brand-{label}.jpg", w, h))
-    with Image.open(ROOT / "assets" / "og.jpg") as og:
-        brand_images.append(image_object(f"{BASE}/assets/og.jpg", og.size[0], og.size[1]))
+    with Image.open(ROOT / "assets" / "og.webp") as og:
+        brand_images.append(image_object(f"{BASE}/assets/og.webp", og.size[0], og.size[1]))
     out["__brand__"] = brand_images
     return out
 
@@ -637,7 +638,7 @@ def ensure_social(html: str, rel: str, service_images: dict[str, list[dict]]) ->
         width, height = str(wide["width"]), str(wide["height"])
         alt = meta_content(html, "property", "og:image:alt") or f"{SERVICES[rel]['name']} by The White Cakes - Cebu"
     elif meta_content(html, "property", "og:image"):
-        image = meta_content(html, "property", "og:image") or f"{BASE}/assets/og.jpg"
+        image = meta_content(html, "property", "og:image") or f"{BASE}/assets/og.webp"
         width = meta_content(html, "property", "og:image:width")
         height = meta_content(html, "property", "og:image:height")
         local = image.removeprefix(BASE)
@@ -647,7 +648,7 @@ def ensure_social(html: str, rel: str, service_images: dict[str, list[dict]]) ->
                 width, height = str(im.size[0]), str(im.size[1])
         alt = meta_content(html, "property", "og:image:alt") or "A cake by The White Cakes - Cebu"
     else:
-        image = f"{BASE}/assets/og.jpg"
+        image = f"{BASE}/assets/og.webp"
         width, height = "1200", "630"
         alt = "An ivory marble cake by The White Cakes - Cebu"
 

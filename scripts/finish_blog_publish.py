@@ -197,14 +197,14 @@ def journal_section_html(posts: list[dict]) -> str:
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="The White Cakes - Cebu">
   <meta property="og:locale" content="en_PH">
-  <meta property="og:image" content="https://www.thewhitecakes.com/assets/og.jpg">
+  <meta property="og:image" content="https://www.thewhitecakes.com/assets/og.webp">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="An ivory marble cake by The White Cakes - Cebu">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Journal: Cake Guides for Cebu | The White Cakes - Cebu">
   <meta name="twitter:description" content="Practical notes on ordering, delivery and celebrating with cake in Cebu.">
-  <meta name="twitter:image" content="https://www.thewhitecakes.com/assets/og.jpg">
+  <meta name="twitter:image" content="https://www.thewhitecakes.com/assets/og.webp">
   <link rel="stylesheet" href="../css/styles.css">
   <link rel="icon" href="/favicon-96.png" type="image/png" sizes="96x96">
   <link rel="icon" href="/favicon-48.png" type="image/png" sizes="48x48">
