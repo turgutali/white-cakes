@@ -365,6 +365,127 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
 </script>
 ```
 
+<!-- ===== FILE: 23-gender-reveal-cake-cebu.md ===== -->
+---
+title: "Gender Reveal Cake Cebu | Custom Cake Enquiries"
+meta_description: "Planning a gender reveal cake in Cebu? Ask about a custom buttercream design, confirm any coloured centre or hidden detail, then plan size, delivery and timing."
+url: https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html
+h1: "Gender Reveal Cake in Cebu: Design and Delivery Guide"
+publish_date: 2026-11-18
+og_image_alt: "Custom buttercream cake in Cebu, shown as a neutral starting point for a gender reveal design"
+---
+
+**Quick answer:** White Cakes does not list a ready-made gender reveal cake. You can enquire about a custom buttercream cake in Cebu, but send the design reference and ask us to confirm any hidden colour, coloured centre or topper for your date before paying. Include the reveal time, guest count and delivery address so we can check the size, route and schedule.
+
+## Plan the reveal moment first
+
+Before choosing a cake design, decide how the announcement will happen. Will the cake be cut at a family gathering, displayed on the table, or photographed before it is served? That answer affects whether you need a short message on top, a particular colour outside, or a detail that guests only see when the cake is cut.
+
+White Cakes makes hand-piped buttercream cakes to order. There is no set gender reveal cake or ready-made reveal topper on the menu. If you want a coloured crumb or a hidden filling, send a reference and ask if that interior detail is possible for the order. The flavour list does not guarantee a particular colour or filling; wait for confirmation before you plan the reveal around it.
+
+If another person knows the result and is placing the order, tell us who may receive messages and who will collect or accept delivery. Put the reveal instructions in the order notes and repeat any important detail in writing. We will confirm how the enquiry is recorded, but do not rely on an unconfirmed message or delivery hand-off to keep the surprise secret.
+
+## Choose the cake size for your guests
+
+A 4-inch Bento is a small cake for two generous or three modest slices. It can work for a couple or a very small reveal, but it may not be enough as the only dessert for a larger family gathering. For more guests, compare the 6-inch or 8-inch custom cakes, share the guest count and tell us how the cake will be served. We confirm size and design together; there is no fixed serving chart.
+
+Keep the top simple if you want the cake to photograph clearly. A short line such as “Boy or Girl?” can fit more easily than a long message. Send the exact words, capitalization and colour reference. A reference photo shows the look you like, but it does not mean every topper, fondant figure, printed image or hidden interior detail is available.
+
+See the [custom cakes page](/custom-cakes-cebu/) for current sizes and starting prices, and the [baby shower cake guide](/journal/baby-shower-cakes-cebu.html) for planning a larger family celebration. Delivery is quoted separately for the full address; ask for the current total in the [Cebu cake price guide](/journal/cake-prices-cebu.html).
+
+## Coordinate the party time and delivery
+
+For delivery to a home, restaurant or function room in Cebu City, Mandaue or Lapu-Lapu, provide the complete address, barangay, landmark and a reachable receiving contact. Tell us when the cake will be cut, not only when the party starts. A delivery window is confirmed rather than an exact minute, so leave time for the cake to be received and kept cool before the announcement.
+
+We deliver the cake but do not provide venue setup or cake cutting. If the order is a surprise, identify the person who will answer the door and confirm whether we should contact you or that person about the delivery. We can only follow instructions that are agreed and recorded on the order.
+
+Every cake needs at least three days' notice. Weekends and busy dates may need earlier planning, and three days does not guarantee that a slot is open. Ask us to confirm the date, design, quote and delivery charge before paying the 50% deposit.
+
+## What to send with your enquiry
+
+Include these details in one message:
+
+1. Party date and the time you plan to cut the cake.
+2. Guest count and how the cake will be served.
+3. Cake size or a request for a size recommendation.
+4. Design reference and exact cake message.
+5. Whether the colour should appear outside, inside, or both. Ask us to confirm the interior detail.
+6. Pickup or delivery; for delivery, send the full address and receiving contact.
+7. Who may receive messages if the order needs to remain a surprise.
+
+## Frequently asked questions
+
+### Can I order a gender reveal cake in Cebu from White Cakes?
+
+You can enquire about a custom buttercream cake. There is no ready-made gender reveal model on the menu, so send your reference and date for confirmation of the design and any special details.
+
+### Can the cake reveal a colour when it is cut?
+
+Ask us to confirm whether a coloured centre or filling is possible for your cake and date. The listed flavour does not guarantee a particular interior colour or filling, so wait for written confirmation before planning the reveal.
+
+### Can you keep the reveal secret from the person receiving the cake?
+
+Tell us who may receive messages and who will accept delivery. We will confirm the communication instructions for the order; a surprise hand-off should not be assumed unless we have agreed on it.
+
+### How early should I order a gender reveal cake?
+
+At least three days before the event. Ask earlier for weekends or detailed designs, and wait for availability confirmation before paying a deposit.
+
+### How much is a gender reveal cake in Cebu?
+
+Custom cake starting prices depend on size, and the final quote depends on the confirmed design. Delivery is separate. See the [current Cebu cake price guide](/journal/cake-prices-cebu.html) and request a complete quote for your address.
+
+## Order a gender reveal cake
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20gender%20reveal%20cake%20in%20Cebu). Include your date, guest count, design reference, reveal instructions and delivery details so we can confirm what is possible.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html#article",
+      "headline": "Gender Reveal Cake in Cebu: Design and Delivery Guide",
+      "description": "Planning a gender reveal cake in Cebu? Ask about a custom buttercream design, confirm any coloured centre or hidden detail, then plan size, delivery and timing.",
+      "abstract": "White Cakes does not list a ready-made gender reveal cake. Customers can enquire about a custom buttercream cake and confirm the design, any interior colour or filling, event timing, size, delivery route, price and minimum lead time.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/og.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "gender reveal cake Cebu, gender reveal cake Cebu City, custom reveal cake Cebu, gender reveal cake delivery Cebu, baby reveal cake Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "gender reveal cake in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Can I order a gender reveal cake in Cebu from White Cakes?", "acceptedAnswer": {"@type": "Answer", "text": "You can enquire about a custom buttercream cake. There is no ready-made gender reveal model on the menu, so send your reference and date for confirmation of the design and any special details."}},
+        {"@type": "Question", "name": "Can the cake reveal a colour when it is cut?", "acceptedAnswer": {"@type": "Answer", "text": "Ask us to confirm whether a coloured centre or filling is possible for your cake and date. The listed flavour does not guarantee a particular interior colour or filling, so wait for written confirmation before planning the reveal."}},
+        {"@type": "Question", "name": "Can you keep the reveal secret from the person receiving the cake?", "acceptedAnswer": {"@type": "Answer", "text": "Tell us who may receive messages and who will accept delivery. We will confirm the communication instructions for the order; a surprise hand-off should not be assumed unless we have agreed on it."}},
+        {"@type": "Question", "name": "How early should I order a gender reveal cake?", "acceptedAnswer": {"@type": "Answer", "text": "At least three days before the event. Ask earlier for weekends or detailed designs, and wait for availability confirmation before paying a deposit."}},
+        {"@type": "Question", "name": "How much is a gender reveal cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "Custom cake starting prices depend on size, and the final quote depends on the confirmed design. Delivery is separate. See the current Cebu cake price guide and request a complete quote for your address."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Gender Reveal Cake in Cebu: Design and Delivery Guide", "item": "https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- ===== FILE: 13-graduation-cakes-cebu.md ===== -->
 ---
 title: "Graduation Cakes in Cebu | The White Cakes - Cebu"
@@ -1946,7 +2067,7 @@ Keep the wording short enough to read clearly on the top. A family name, “Welc
 
 ## Pick a flavour guests will enjoy
 
-White Cakes offers chocolate, vanilla, ube, mango and red velvet. If you are choosing for a mixed group, tell us whether the guests have a favourite or want a familiar option. Read the [guide to cake flavours in Cebu](/journal/choosing-a-flavor.html). A 4-inch Bento is one flavour; ask us whether a larger cake can be divided before placing a deposit.
+White Cakes offers chocolate, vanilla, ube, mango and red velvet. If you are choosing for a mixed group, tell us whether the guests have a favourite or want a familiar option. Read the [guide to cake flavours in Cebu](/journal/choosing-a-flavor.html). A 4-inch Bento is one flavour; ask us whether a larger cake can be divided before placing a deposit. If the shower includes a reveal, read our [gender reveal cake guide for Cebu](/journal/gender-reveal-cake-cebu.html) and confirm any coloured centre before booking.
 
 ## Coordinate delivery and timing
 
