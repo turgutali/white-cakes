@@ -3,9 +3,9 @@
 ## Current verified state (2026-11-19)
 
 - The live sitemap contains 68 canonical URLs, including 50 Journal articles.
-- A public crawl returned HTTP 200 for all 68 sitemap URLs and all 75 unique internal-link destinations found on those pages.
+- A public crawl returned HTTP 200 for all 68 sitemap URLs and all 75 unique internal-link destinations found on those pages. A separate Googlebot-user-agent crawl of all 68 current sitemap URLs returned HTTP 200, with matching canonicals and no `noindex` directives. This establishes fetchability, not that Google has crawled or indexed each URL.
 - The public robots file permits Googlebot, Bingbot, OAI-SearchBot, GPTBot, ClaudeBot, and PerplexityBot. `llms.txt` lists the current service areas, prices, key pages, and Journal articles.
-- On 2026-11-19, after the journal content work was live, IndexNow accepted seven updated article URLs in one request (HTTP 200). The follow-up Cebuano pricing update changed `/journal/asa-magpa-order-cake-cebu.html` and `/journal/`; IndexNow accepted both in one request (HTTP 200). These notifications inform IndexNow-participating engines; they are not Google indexing requests or guarantees.
+- On 2026-11-19, after the journal content work was live, IndexNow accepted seven updated article URLs in one request (HTTP 200). The follow-up Cebuano pricing update changed `/journal/asa-magpa-order-cake-cebu.html` and `/journal/`; IndexNow accepted both in one request (HTTP 200). After the order-wizard image description update, IndexNow accepted `/order/` (HTTP 200). These notifications inform IndexNow-participating engines; they are not Google indexing requests or guarantees.
 - A Google search snapshot for `cake delivery Cebu City` localized to Cebu did not show The White Cakes in the visible local or organic results. In a separate signed-out Google session whose displayed location was Singapore, `site:https://www.thewhitecakes.com/` returned no results. This is an indexing warning, not an index count: Google says `site:` results are incomplete and URL Inspection is more reliable ([Google Search operator documentation](https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site)). The owner must complete Search Console sign-in so we can inspect the 68-URL sitemap and exact page status.
 
 ## Google Search Console
