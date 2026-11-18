@@ -365,6 +365,93 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
 </script>
 ```
 
+<!-- ===== FILE: 30-fathers-day-cakes-cebu.md ===== -->
+---
+title: "Father's Day Cakes Cebu | Gift and Delivery Guide"
+meta_description: "Choose a Father's Day cake in Cebu for Dad, Papa or Lolo. Compare Bento, Signature Marble and Bouquet, then confirm the date, inscription and delivery."
+url: https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html
+h1: "Father's Day Cakes in Cebu: Choose a Gift for Dad"
+publish_date: 2026-11-18
+og_image_alt: "Hand-finished buttercream celebration cake in Cebu; Bento, Signature Marble and Bouquet are gift options for Father's Day"
+---
+
+**Quick answer:** For a Father's Day cake in Cebu, choose the format around how Dad will celebrate: a 4-inch Bento for two or three modest portions, a 6-inch Signature Marble for a family table, or a hand-piped Bouquet as a cake gift. Send the event date, guest count, flavour, message and complete delivery details so we can confirm availability and the total before a 50% deposit.
+
+## First, confirm which date your family is celebrating
+
+People commonly plan Father's Day in June, on the third Sunday. In 2027 that falls on Sunday, 20 June, according to [Public Holidays Philippines](https://publicholidays.ph/fathers-day/). Philippine government references also list the first Monday of December as Mother's Day and Father's Day; the [National Commission for Culture and the Arts calendar](https://ncca.gov.ph/events-calendar/monthly-observances-and-significant-dates/) reflects that official observance. Families may follow different dates, so tell us the exact date you want the cake delivered. We will check that date rather than assume.
+
+Father's Day is a busy gifting occasion, but a date on the calendar does not mean a slot is available. Ask early, especially for a weekend, holiday or detailed finish. Orders need at least three days' notice; that is the minimum lead time, not a promise of availability.
+
+## Match the cake to the celebration
+
+- **Bento for a small plan:** The 4-inch Bento serves two generously or three modestly after a meal. Choose it for Dad and one or two family members, or as a small personal gift. It is not sized for a full family table.
+- **Signature Marble for sharing:** The 6-inch Signature Marble has ivory buttercream, dusty-blue marbling, a shell border and one piped rose. It is a single centrepiece for a small family gathering. Send the guest count so we can help you decide if the portions suit your table.
+- **Bouquet as the gift:** The Bouquet Cake is finished with hand-piped buttercream flowers and a wrapper. The flowers are buttercream, not fresh stems. Its scale and quote are confirmed for the order, so ask with the date and number of people sharing it.
+- **Custom design:** If you have another idea, send one clear reference and name the details that matter. We will confirm what can be made in buttercream for your date. A photo from another bakery is a reference, not a promise that every topper or finish is available.
+
+See our [Bento cake guide](/journal/what-is-a-bento-cake.html), [Bouquet Cake gift guide](/journal/bouquet-cake-gift-cebu.html) and [custom cake ordering guide](/journal/how-to-order.html) for more detail on each format.
+
+## Pick a flavour and a short message
+
+White Cakes lists chocolate, vanilla, ube, mango and red velvet. If Dad has a favourite, include it in your enquiry. The flavour name does not specify a separate filling or frosting, so tell us if you have a particular inside detail in mind and ask us to confirm it.
+
+Keep the message readable on the size you choose. “Happy Father's Day,” “Love you, Dad,” or a name and short greeting are easier to place than a long paragraph. Send the exact spelling and punctuation. For more options, see our [short birthday cake messages for Cebu celebrations](/journal/birthday-cake-message-ideas-cebu.html); use only the line that fits your own family.
+
+## Arrange a delivery surprise in Cebu
+
+For delivery to a home, condo, restaurant or family gathering in Cebu City, Mandaue or Lapu-Lapu, send the complete address, barangay, landmark, entrance instructions and a reachable receiving contact. If Dad should not receive order messages, tell us who should handle the enquiry and delivery instead. We confirm a delivery window and fee for the exact address; we do not promise a precise minute.
+
+Include the serving time as well as the date. Ask the venue whether it can receive and keep the cake cool before serving. Our [Cebu buttercream heat guide](/journal/buttercream-in-cebu-heat.html) explains how to handle the cake after hand-off.
+
+## What to send when you order
+
+Include the chosen date, cake format, guest count, flavour, design reference, exact inscription, pickup or delivery choice and full address. We confirm the design, availability and complete quote before payment. Custom cake prices are starting prices; Bouquet Cakes are quoted on request and delivery is quoted separately. See the [Cebu cake price guide](/journal/cake-prices-cebu.html) before you enquire.
+
+## Frequently asked questions
+
+### What date is Father's Day in the Philippines in 2027?
+
+The common June observance falls on Sunday, 20 June 2027. Philippine government references also list a December observance. Choose the date your family is using and send it with your order enquiry so we can check availability.
+
+### What size Father's Day cake should I get?
+
+The 4-inch Bento serves two generously or three modestly. The 6-inch Signature Marble is for a small shared table. Send the guest count and we can confirm whether that format fits your plan.
+
+### Can I order a cake with a message for Dad?
+
+Yes. Send the exact words and spelling. We will confirm whether the message fits the size and design before securing the order.
+
+### Can you deliver a Father's Day cake to a home or restaurant in Cebu?
+
+Delivery is arranged for Cebu City, Mandaue and Lapu-Lapu. Send the complete venue address and receiving contact so we can confirm the route, fee and delivery window.
+
+### How early should I order?
+
+At least three days' notice is required, and Father's Day availability is not guaranteed. Ask early and wait for confirmation before paying the 50% deposit.
+
+## Order a Father's Day cake in Cebu
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20Father%27s%20Day%20cake%20in%20Cebu). Include the exact date, guest count, cake choice, flavour, message and delivery details for an availability check and complete quote.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {"@type": "BlogPosting", "@id": "https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html#article", "headline": "Father's Day Cakes in Cebu: Choose a Gift for Dad", "description": "Choose a Father's Day cake in Cebu for Dad, Papa or Lolo. Compare Bento, Signature Marble and Bouquet, then confirm the date, inscription and delivery.", "abstract": "Compare Bento, Signature Marble, Bouquet and custom buttercream cakes for a Father's Day celebration in Cebu. The guide explains date ambiguity, size, inscription and delivery planning.", "datePublished": "2026-11-18", "dateModified": "2026-11-18", "inLanguage": "en-PH", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html"}, "url": "https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html", "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/og.webp", "width": 1200, "height": 630}, "author": {"@id": "https://www.thewhitecakes.com/#organization"}, "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}, "keywords": "Father's Day cake Cebu, Father's Day cake delivery Cebu, cake for Dad Cebu, Father's Day cake Cebu City, Father's Day gift cake Cebu", "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"}, "about": {"@type": "Thing", "name": "Father's Day cake in Cebu"}, "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}},
+    {"@type": "FAQPage", "@id": "https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html#faq", "mainEntity": [
+      {"@type": "Question", "name": "What date is Father's Day in the Philippines in 2027?", "acceptedAnswer": {"@type": "Answer", "text": "The common June observance falls on Sunday, 20 June 2027. Philippine government references also list a December observance. Choose the date your family is using and send it with your order enquiry so we can check availability."}},
+      {"@type": "Question", "name": "What size Father's Day cake should I get?", "acceptedAnswer": {"@type": "Answer", "text": "The 4-inch Bento serves two generously or three modestly. The 6-inch Signature Marble is for a small shared table. Send the guest count and we can confirm whether that format fits your plan."}},
+      {"@type": "Question", "name": "Can I order a cake with a message for Dad?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Send the exact words and spelling. We will confirm whether the message fits the size and design before securing the order."}},
+      {"@type": "Question", "name": "Can you deliver a Father's Day cake to a home or restaurant in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "Delivery is arranged for Cebu City, Mandaue and Lapu-Lapu. Send the complete venue address and receiving contact so we can confirm the route, fee and delivery window."}},
+      {"@type": "Question", "name": "How early should I order?", "acceptedAnswer": {"@type": "Answer", "text": "At least three days' notice is required, and Father's Day availability is not guaranteed. Ask early and wait for confirmation before paying the 50% deposit."}}
+    ]},
+    {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"}, {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"}, {"@type": "ListItem", "position": 3, "name": "Father's Day Cakes in Cebu: Choose a Gift for Dad", "item": "https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html"}]}
+  ]
+}
+</script>
+
 <!-- ===== FILE: 28-chocolate-cake-cebu.md ===== -->
 ---
 title: "Chocolate Cake Cebu | Custom Cake Order Guide"
