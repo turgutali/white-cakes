@@ -14,12 +14,12 @@ import re
 from datetime import date
 from html import escape, unescape
 from pathlib import Path
+from typing import TYPE_CHECKING
 import xml.etree.ElementTree as ET
 from xml.sax.saxutils import escape as xml_escape
 
-from fontTools.pens.svgPathPen import SVGPathPen
-from fontTools.ttLib import TTFont
-from PIL import Image, ImageDraw
+if TYPE_CHECKING:
+    from PIL import Image
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://www.thewhitecakes.com"
@@ -152,6 +152,9 @@ SITEMAP_PAGES = [
 
 
 def glyph_group(font_path: str, char: str, font_px: float, x: float, baseline: float) -> tuple[str, float]:
+    from fontTools.pens.svgPathPen import SVGPathPen
+    from fontTools.ttLib import TTFont
+
     font = TTFont(font_path)
     glyphs = font.getGlyphSet()
     name = font.getBestCmap()[ord(char)]
@@ -186,6 +189,7 @@ def build_logo_svg() -> str:
 def render_master(svg: str) -> Image.Image:
     import cairosvg
     from io import BytesIO
+    from PIL import Image
 
     png = cairosvg.svg2png(bytestring=svg.encode("utf-8"), output_width=1024, output_height=1024)
     return Image.open(BytesIO(png)).convert("RGBA")
@@ -197,6 +201,8 @@ def save_png(im: Image.Image, path: Path) -> None:
 
 
 def generate_brand_icons() -> Image.Image:
+    from PIL import Image
+
     master = Image.open(ROOT / "assets" / "white-cakes-logo.png").convert("RGBA")
 
     def sized(px: int) -> Image.Image:
@@ -253,6 +259,8 @@ def write_manifest() -> None:
 
 
 def open_rgb(path: Path) -> Image.Image:
+    from PIL import Image
+
     im = Image.open(path)
     if im.mode in ("RGBA", "LA"):
         base = Image.new("RGB", im.size, IVORY[:3])
@@ -262,6 +270,8 @@ def open_rgb(path: Path) -> Image.Image:
 
 
 def crop_aspect(im: Image.Image, aw: int, ah: int, max_edge: int = 1600) -> Image.Image:
+    from PIL import Image
+
     w, h = im.size
     target = aw / ah
     if w / h > target:
@@ -292,6 +302,8 @@ def file_hash(path: Path) -> str:
 
 def generate_crops() -> dict[str, list[dict]]:
     """Return service-relative path -> list of ImageObject dicts."""
+    from PIL import Image
+
     crops_dir = ROOT / "assets" / "crops"
     crops_dir.mkdir(parents=True, exist_ok=True)
     out: dict[str, list[dict]] = {}
@@ -616,6 +628,8 @@ def title_text(html: str) -> str:
 
 
 def ensure_social(html: str, rel: str, service_images: dict[str, list[dict]]) -> str:
+    from PIL import Image
+
     title = title_text(html)
     if "The White Cakes - Cebu" not in title and "The White Cakes" not in title:
         title = f"{title} | The White Cakes - Cebu"
@@ -1143,6 +1157,8 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 
 
 def validate() -> None:
+    from PIL import Image
+
     ico = Image.open(ROOT / "favicon.ico")
     sizes = set(ico.ico.sizes())
     print("favicon.ico sizes", sorted(sizes))
