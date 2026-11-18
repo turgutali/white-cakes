@@ -1008,6 +1008,8 @@ Choose a bouquet cake when the person would rather be given flowers than a tall 
 - **Congratulations.** A new job, passing the boards, a new home in Talamban or a first condo near IT Park.
 - **A table that wants colour more than height,** like a merienda, a small lunch or a despedida.
 
+Planning an anniversary inscription? Our [short anniversary cake message guide](/journal/anniversary-cake-message-ideas-cebu.html) has wording ideas that fit on the cake.
+
 If children are waiting to see their name on a cake with candles, choose the Signature Marble instead. Our guide [Marble, bouquet, or bento](/journal/which-cake.html) explains the difference.
 
 ## Why send a bouquet cake instead of flowers and a cake?
@@ -2163,6 +2165,147 @@ Use the [order form](/order/) or [message us on WhatsApp](https://wa.me/63947438
         {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
         {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
         {"@type": "ListItem", "position": 3, "name": "Mother's Day Cakes in Cebu: Choose a Gift for Mom", "item": "https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
+
+<!-- ===== FILE: 19-anniversary-cake-message-ideas-cebu.md ===== -->
+---
+title: "Anniversary Cake Message Ideas in Cebu | White Cakes"
+meta_description: "Need a short anniversary cake message? Choose from 25 romantic, funny and milestone lines, with tips for fitting names and dates on a Cebu cake."
+url: https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html
+h1: "What to Write on an Anniversary Cake: 25 Short Message Ideas"
+publish_date: 2026-11-18
+og_image_alt: "Anniversary cake in Cebu with hand-piped buttercream flowers and a short dedication"
+---
+
+**Quick answer:** The best anniversary cake message is short, personal and easy to read. Start with “Happy Anniversary, [Name]” or “Still Us,” then add a year or a private joke only if it fits. Send the exact spelling and wording to the baker before confirming the design. For a 4-inch Bento, keep it to a few words; a larger cake can carry a name and a slightly longer line.
+
+## 25 short anniversary cake messages
+
+### Romantic and simple
+
+1. Happy Anniversary, Mahal
+2. Still Us
+3. Always My Person
+4. I Choose You, Again
+5. To More Years Together
+6. My Favourite, Always
+7. Better Together
+8. Here's to Our Story
+9. Still the Best Part of My Day
+10. Love You More Every Year
+
+### Sweet and playful
+
+11. Still Stealing My Fries
+12. Another Year, Same Team
+13. We Still Like Each Other
+14. More Cake, More Us
+15. You're My Favourite Plot Twist
+16. Thanks for Putting Up With Me
+17. Same Love, Better Snacks
+18. Still My Plus One
+
+### Add a name, date or milestone
+
+19. [Name] + [Name], Since [Year]
+20. Happy [Number] Years, Love
+21. [Number] Years and Counting
+22. Our [Number]th Anniversary
+23. [Name], My Always
+24. [Wedding Date] · Still Us
+25. To Our Next Chapter, [Name]
+
+Use the examples as a starting point, not a rule. A private phrase the two of you actually use usually feels more personal than a long quote copied from the internet. If the message needs a number, double-check the year count and send the date in the order notes.
+
+## Keep the inscription short enough to read
+
+Cake writing has limited space. A 4-inch Bento is best with a few words. On a 6-inch cake, a name and a short line may fit; the final layout depends on the design and lettering. Send the exact message before the cake is made and ask us to confirm whether it fits clearly. We hand-pipe lettering in buttercream, so the finished spacing can differ from text on a phone screen.
+
+If you want both names and a full anniversary date, consider putting the date on a small card instead. The cake can carry the couple's names or the short phrase that matters most.
+
+## Choose a cake for the way you will celebrate
+
+For a quiet dinner for two, a 4-inch [Bento Cake](/bento-cakes-cebu/) gives you a small cake and space for a short message. Choose the [Bouquet Cake](/bouquet-cakes-cebu/) when the gift should look like a wrapped bouquet on arrival; its flowers are hand-piped buttercream. For a family dinner, compare the 6-inch Signature Marble and other options on the [custom cakes page](/custom-cakes-cebu/), and tell us how many people will share it.
+
+The [anniversary cakes in Cebu page](/anniversary-cakes-cebu/) has more on choosing a design. If you are sending the cake as a surprise, see our guide to [bouquet cakes as gifts](/journal/bouquet-cake-gift-cebu.html) for recipient and delivery details.
+
+## Sending an anniversary cake as a surprise in Cebu
+
+If the cake is going to your partner's home, condo, office or restaurant, share the recipient's full name, complete address, landmark, mobile number and any gate or lobby instructions. Make sure someone can receive the cake directly and keep it cool. We confirm a delivery window, not an exact minute; for a restaurant dinner, send the time the cake will be served and ask us to confirm a workable arrival window.
+
+White Cakes delivers in Cebu City, Mandaue City and Lapu-Lapu City. Every cake needs at least three days' notice. Ask us to confirm the date, design, delivery charge and payment method before paying the 50% deposit. Read the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) for area and receiving details.
+
+## Frequently asked questions
+
+### What is a good short message for an anniversary cake?
+
+“Still Us,” “Happy Anniversary, Mahal,” and “I Choose You, Again” are short options. The most meaningful line is one the couple actually says to each other.
+
+### How many words fit on an anniversary cake?
+
+It depends on the cake size, lettering and design. Keep a Bento message to a few words; a 6-inch cake may fit a name and a short line. Send the exact text so we can confirm the layout.
+
+### Can I put names and a wedding date on the cake?
+
+Send both names and the date in your enquiry. If the full line is too long to read clearly, we can suggest shortening it or moving the date to a card.
+
+### Which cake is best for an anniversary dinner for two?
+
+A 4-inch Bento is a small option for two. A Bouquet Cake suits a floral-style gift, and a larger custom cake works for a family table. Share the guest count and we can help confirm a size.
+
+### How early should I order an anniversary cake in Cebu?
+
+At least three days before your date. Send the message, flavour, cake choice and delivery address early enough for us to confirm the design and delivery window before the date.
+
+## Order an anniversary cake in Cebu
+
+Use the [order form](/order/) or [message us on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20an%20anniversary%20cake%20in%20Cebu). Include the exact inscription, date, cake choice and whether you need pickup or delivery.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html#article",
+      "headline": "What to Write on an Anniversary Cake: 25 Short Message Ideas",
+      "description": "Need a short anniversary cake message? Choose from 25 romantic, funny and milestone lines, with tips for fitting names and dates on a Cebu cake.",
+      "abstract": "A good anniversary cake inscription is short, personal and easy to read. This Cebu guide offers 25 message ideas and explains how to fit names, a date and a short dedication on Bento, Bouquet and custom cakes.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp", "width": 1200, "height": 1607},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "anniversary cake message ideas, anniversary cake messages Cebu, what to write on anniversary cake, short anniversary cake inscription Cebu, anniversary cake delivery Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "anniversary cake messages"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "What is a good short message for an anniversary cake?", "acceptedAnswer": {"@type": "Answer", "text": "“Still Us,” “Happy Anniversary, Mahal,” and “I Choose You, Again” are short options. The most meaningful line is one the couple actually says to each other."}},
+        {"@type": "Question", "name": "How many words fit on an anniversary cake?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on the cake size, lettering and design. Keep a Bento message to a few words; a 6-inch cake may fit a name and a short line. Send the exact text so we can confirm the layout."}},
+        {"@type": "Question", "name": "Can I put names and a wedding date on the cake?", "acceptedAnswer": {"@type": "Answer", "text": "Send both names and the date in your enquiry. If the full line is too long to read clearly, we can suggest shortening it or moving the date to a card."}},
+        {"@type": "Question", "name": "Which cake is best for an anniversary dinner for two?", "acceptedAnswer": {"@type": "Answer", "text": "A 4-inch Bento is a small option for two. A Bouquet Cake suits a floral-style gift, and a larger custom cake works for a family table. Share the guest count and we can help confirm a size."}},
+        {"@type": "Question", "name": "How early should I order an anniversary cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "At least three days before your date. Send the message, flavour, cake choice and delivery address early enough for us to confirm the design and delivery window before the date."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "What to Write on an Anniversary Cake: 25 Short Message Ideas", "item": "https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html"}
       ]
     }
   ]
