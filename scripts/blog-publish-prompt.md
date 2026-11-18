@@ -365,6 +365,103 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
 </script>
 ```
 
+<!-- ===== FILE: 24-bisaya-birthday-cake-messages-cebu.md ===== -->
+---
+title: "Bisaya Birthday Cake Messages in Cebu | Short Cebuano Ideas"
+meta_description: "Want a Bisaya birthday message for a cake in Cebu? See a clear Cebuano greeting, short ways to personalise it, and tips for fitting the wording on a cake."
+url: https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html
+h1: "Bisaya Birthday Cake Messages for a Cebu Celebration"
+publish_date: 2026-11-18
+og_image_alt: "Hand-piped birthday cake in Cebu with space for a short Cebuano inscription"
+---
+
+**Quick answer:** A clear Cebuano birthday greeting is **“Malipayong adlawng natawhan!”** (“Happy birthday!”). Add the celebrant's name only after checking the spelling, then ask the cake maker to confirm that the full line fits the chosen design. A 4-inch Bento has room for only a few words.
+
+## A Cebuano greeting for a birthday cake
+
+For a birthday message in Bisaya (Cebuano), start with **“Malipayong adlawng natawhan!”**. It is a complete greeting; you do not need to translate each English word separately. Cebuano resources also show the capitalised form “Malipayong Adlawng Natawhan.” You may see slight spelling or punctuation differences across sources and everyday use, so keep the exact version you want and double-check it with the person who will read the cake if the wording is especially important.
+
+This is Cebuano wording, not the Tagalog phrase “Maligayang kaarawan.” If you want the cake to sound local to a Cebuano-speaking family, use the Cebuano greeting and check the recipient's preferred spelling.
+
+## Short message layouts to copy
+
+The greeting is longer than “Happy Birthday,” so keep the rest of the top simple. These layouts use the same birthday phrase without introducing extra translations:
+
+1. **Malipayong adlawng natawhan!**
+2. **Malipayong adlawng natawhan, [Name]!**
+3. **[Name], malipayong adlawng natawhan!**
+4. **Malipayong adlawng natawhan, [Nickname]!**
+5. **Malipayong adlawng natawhan! [Age]** — place the age only if the design has room.
+6. **[Name] + age** — a shorter layout if the complete greeting is too long for the cake.
+
+The first four are formatting variations of the same greeting, not different translations. Keep the name, nickname and age exactly as the family uses them. If the full line feels crowded, choose the recipient's name or the age instead, and put the longer greeting in a card.
+
+For a milestone birthday, **“Pahalipay!”** means “Congratulations!” or “Greetings!” in Cebuano phrase references. It is a short celebratory option, but it is not a direct translation of “Happy Birthday.” Use it when congratulations is what you want to say.
+
+## Make the words fit a Bento or custom cake
+
+A 4-inch Bento is a small cake for two generous or three modest slices. Its top is small too. The full Cebuano birthday greeting may use most of the available writing space, especially if you add a name. Send the complete line before paying a deposit so we can check whether it fits clearly with the piping and design.
+
+A larger 6-inch or 8-inch custom cake gives more room, but the usable space still depends on the border and decorations. Keep the inscription to one or two short lines. Include punctuation and capital letters in your message; we pipe from the text you approve.
+
+White Cakes offers hand-piped buttercream cakes in Cebu City, Mandaue and Lapu-Lapu. Orders need at least three days' notice, and the date must be confirmed. See our [birthday cake message ideas in English](/journal/birthday-cake-message-ideas-cebu.html) for more short lines, the [Bento cake page](/bento-cakes-cebu/) for sizes, and the [Cebu cake price guide](/journal/cake-prices-cebu.html) for current starting prices.
+
+## Check your Cebuano spelling before ordering
+
+Copy and paste the exact wording into the order enquiry. If you add a name, nickname or family-specific word, confirm its spelling with the recipient or a fluent Cebuano speaker. We can reproduce the text you send, but we cannot verify the personal spelling or intended meaning for you.
+
+Language references for the birthday greeting include [Learn Cebuano: Culture, Celebrations & Review](https://www.bisayacebuano.com/wp/wp-content/uploads/2026/05/Lesson20_CultureCelebrationsReview-1.pdf) and [Omniglot's Cebuano phrase list](https://www.omniglot.com/language/phrases/cebuano.php). The wording guide is about inscription planning, not a substitute for checking a personal or formal translation with a fluent speaker.
+
+## Order a birthday cake with a Bisaya message
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20order%20a%20birthday%20cake%20with%20a%20Bisaya%20message). Include the date, cake size, exact Cebuano text and pickup or delivery details so we can confirm the layout and availability.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html#article",
+      "headline": "Bisaya Birthday Cake Messages for a Cebu Celebration",
+      "description": "Want a Bisaya birthday message for a cake in Cebu? See a clear Cebuano greeting, short ways to personalise it, and tips for fitting the wording on a cake.",
+      "abstract": "The guide gives a sourced Cebuano birthday greeting, shows how to add a name or age, distinguishes a congratulations phrase from happy birthday, and explains how to fit the text on a small Bento or custom cake.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "Bisaya birthday cake message, Cebuano birthday cake message, birthday cake message in Bisaya, Cebu birthday cake inscription, Cebuano cake wording",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "Cebuano birthday cake message"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "How do you say happy birthday in Bisaya?", "acceptedAnswer": {"@type": "Answer", "text": "A clear Cebuano greeting is “Malipayong adlawng natawhan!” Keep the exact wording you want and double-check names or personal spelling before ordering."}},
+        {"@type": "Question", "name": "What is a short Bisaya birthday message for a cake?", "acceptedAnswer": {"@type": "Answer", "text": "“Malipayong adlawng natawhan!” is the full greeting. Add a name only if it fits; on a small Bento, the recipient's name or age may be a shorter alternative."}},
+        {"@type": "Question", "name": "Does “Pahalipay” mean happy birthday?", "acceptedAnswer": {"@type": "Answer", "text": "No. Phrase references translate “Pahalipay!” as congratulations or greetings, not as a direct translation of happy birthday. Use it when congratulations is the intended message."}},
+        {"@type": "Question", "name": "Will a Bisaya birthday message fit on a Bento cake?", "acceptedAnswer": {"@type": "Answer", "text": "A 4-inch Bento has limited space. Send the exact wording and ask the cake maker to confirm whether it fits clearly with the design."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Bisaya Birthday Cake Messages for a Cebu Celebration", "item": "https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- ===== FILE: 23-gender-reveal-cake-cebu.md ===== -->
 ---
 title: "Gender Reveal Cake Cebu | Custom Cake Enquiries"
@@ -2622,7 +2719,7 @@ If the message is a full sentence, put the longer note on a card and keep the ca
 
 ## Match the message to the celebration
 
-For a child's birthday, a first name and age are easy for relatives to spot in family photos. For an adult, a nickname or a private joke can feel more personal than a generic greeting. For a lola, parent or ninong, a simple “Love You” line works well when several family members are sharing the cake.
+For a child's birthday, a first name and age are easy for relatives to spot in family photos. For an adult, a nickname or a private joke can feel more personal than a generic greeting. For a lola, parent or ninong, a simple “Love You” line works well when several family members are sharing the cake. If you want a local-language inscription, see our [short Bisaya birthday message guide](/journal/bisaya-birthday-cake-messages-cebu.html).
 
 The cake choice depends on the gathering: a Bento for a small celebration, a 6-inch Signature Marble or custom design for a family table, or a [Bouquet Cake](/bouquet-cakes-cebu/) when the birthday gift should look floral. Check the [birthday cakes in Cebu page](/birthday-cakes-cebu/) for available designs and the [cake price guide](/journal/cake-prices-cebu.html) for current starting prices.
 
