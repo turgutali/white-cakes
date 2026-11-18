@@ -247,10 +247,10 @@ add(
 
 add(
     slug="bouquet-cakes-cebu",
-    title="Bouquet Cakes in Cebu | The White Cakes - Cebu",
-    description="Bouquet cakes in Cebu — piped blush roses and sage leaves on ivory buttercream. Gifts, anniversaries, and soft celebrations. Order three days ahead.",
-    h1="Bouquet Cakes in Cebu",
-    dek="Piped roses you can slice — a lower, softer silhouette than our marble cake.",
+    title="Floral Bouquet Cakes in Cebu | White Cakes",
+    description="Flower cakes in Cebu with hand-piped buttercream roses and sage leaves, wrapped as a bouquet. See styles, request size and quote, and order at least 3 days ahead.",
+    h1="Floral Bouquet Cakes in Cebu",
+    dek="Hand-piped buttercream flowers, wrapped and finished for a gift you can slice.",
     og_image="bouquet-cake-cebu.webp",
     breadcrumb_label="Bouquet cakes",
     figure=("bouquet-cake-cebu.webp", "Bouquet cake with piped blush roses and sage leaves in Cebu", 800, 800, "Bouquet cake"),
