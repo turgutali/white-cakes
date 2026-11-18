@@ -2,60 +2,13 @@
 """Journal index, sitemap, cross-links, llms.txt after full blog publish."""
 from __future__ import annotations
 
+from html import unescape
 import json
 import re
 from pathlib import Path
 
-import yaml
-
 ROOT = Path(__file__).resolve().parent.parent
-PROMPT = Path(__file__).resolve().parent / "blog-publish-prompt.md"
 LASTMOD_SITE = "2026-11-15"
-
-LEGACY_POSTS = [
-    {
-        "file": "vintage-cake-cebu.html",
-        "h1": "Vintage Cake in Cebu: Hand-Piped Buttercream Guide",
-        "meta": "Looking for a vintage cake in Cebu? See White Cakes' hand-piped buttercream style, the 6-inch Christmas 2026 offer, flavours, ordering lead time and delivery areas.",
-        "date": "2026-11-18",
-    },
-    {
-        "file": "minimalist-cake-cebu.html",
-        "h1": "Minimalist Cake in Cebu: Simple Buttercream Designs",
-        "meta": "Looking for a minimalist cake in Cebu? Compare a 4-inch Bento and 6-inch Signature Marble, brief a simple piped design, and check prices and lead time.",
-        "date": "2026-11-18",
-    },
-    {
-        "file": "how-to-order.html",
-        "h1": "How to order a custom cake in Cebu",
-        "meta": "How to order a White Cakes cake in Cebu: what to tell us, the three-day minimum, and the difference between pickup and delivery.",
-        "date": "2026-11-14",
-    },
-    {
-        "file": "choosing-a-flavor.html",
-        "h1": "Choosing a flavor",
-        "meta": "Chocolate, vanilla, ube, mango, or red velvet — how to pick a White Cakes flavor for your Cebu celebration.",
-        "date": "2026-11-14",
-    },
-    {
-        "file": "which-cake.html",
-        "h1": "Marble, bouquet, or bento",
-        "meta": "Which White Cakes design fits a birthday, a gift, or a table for two in Cebu.",
-        "date": "2026-11-14",
-    },
-    {
-        "file": "buttercream-in-cebu-heat.html",
-        "h1": "Buttercream in Cebu heat",
-        "meta": "When to refrigerate, how to ride home with a cake, and what not to do in a parked car.",
-        "date": "2026-11-14",
-    },
-    {
-        "file": "cake-sizes-cebu.html",
-        "h1": "Cake Sizes in Cebu: 4-Inch, 6-Inch, 8-Inch and Two-Tier Guide",
-        "meta": "Cebu cake serving estimates: 4-inch Bento for 2 generous or 3 modest slices, 6-inch for 8–12, 8-inch for 16–24, and common 6+8 two-tier for 30–36.",
-        "date": "2026-11-18",
-    },
-]
 
 CROSSLINKS = {
     "cake-delivery-cebu-city": [
@@ -78,6 +31,7 @@ CROSSLINKS = {
     "birthday-cakes-cebu": [
         ("debut-cake-cebu.html",),
         ("first-birthday-sinulog-cake-cebu.html",),
+        ("congratulations-cake-cebu.html",),
         ("what-is-a-bento-cake.html",),
         ("how-far-ahead-to-order-a-cake-cebu.html",),
         ("minimalist-cake-cebu.html",),
@@ -95,6 +49,8 @@ CROSSLINKS = {
     ],
     "corporate-cake-orders-cebu": [
         ("corporate-office-cakes-cebu.html",),
+        ("retirement-cake-cebu.html",),
+        ("farewell-cake-cebu.html",),
         ("how-far-ahead-to-order-a-cake-cebu.html",),
         ("what-is-a-bento-cake.html",),
     ],
@@ -106,11 +62,14 @@ CROSSLINKS = {
     ],
     "bouquet-cakes-cebu": [
         ("bouquet-cake-gift-cebu.html",),
+        ("thank-you-cake-cebu.html",),
         ("valentines-bouquet-cake-cebu.html",),
         ("christmas-cake-delivery-cebu.html",),
     ],
     "custom-cakes-cebu": [
         ("minimalist-cake-cebu.html",),
+        ("proposal-cake-cebu.html",),
+        ("housewarming-cake-cebu.html",),
         ("how-to-brief-a-custom-cake-cebu.html",),
         ("cake-sizes-cebu.html",),
         ("christening-cake-cebu.html",),
@@ -121,6 +80,7 @@ CROSSLINKS = {
 
 FAQ_GUIDES = [
     ("how-far-ahead-to-order-a-cake-cebu.html",),
+    ("asa-magpa-order-cake-cebu.html",),
     ("minimalist-cake-cebu.html",),
     ("vintage-cake-cebu.html",),
     ("cake-sizes-cebu.html",),
@@ -129,37 +89,35 @@ FAQ_GUIDES = [
 ]
 
 
-def load_prompt_posts() -> list[dict]:
-    text = PROMPT.read_text(encoding="utf-8")
-    posts = []
-    for chunk in re.findall(
-        r"<!-- ===== FILE: \d+-.+?\.md ===== -->\s*(.*?)(?=<!-- ===== FILE:|\Z)",
-        text,
-        flags=re.DOTALL,
-    ):
-        if not chunk.lstrip().startswith("---"):
-            continue
-        parts = chunk.split("---\n", 2)
-        meta = yaml.safe_load(parts[1])
-        if not meta or "url" not in meta:
-            continue
-        fname = meta["url"].rsplit("/", 1)[-1]
-        pub = meta["publish_date"]
-        if hasattr(pub, "isoformat"):
-            pub = pub.isoformat()
-        posts.append(
-            {
-                "file": fname,
-                "h1": meta["h1"],
-                "meta": meta["meta_description"],
-                "date": pub,
-            }
-        )
-    return posts
-
-
 def all_posts() -> list[dict]:
-    combined = load_prompt_posts() + LEGACY_POSTS
+    """Use the published HTML as the source of truth for the live Journal.
+
+    The editorial prompt contains drafts and an incomplete historical list, so
+    rebuilding the Journal from it alone silently drops posts published outside
+    that prompt. Read each indexable article's canonical metadata instead.
+    """
+    combined = []
+    for path in sorted((ROOT / "journal").glob("*.html")):
+        if path.name == "index.html":
+            continue
+        page = path.read_text(encoding="utf-8")
+        if re.search(r'<meta\s+name=["\']robots["\']\s+content=["\'][^"\']*noindex', page, re.I):
+            continue
+        canonical = re.search(r'<link\s+rel=["\']canonical["\']\s+href=["\']([^"\']+)', page, re.I)
+        h1 = re.search(r'<h1(?:\s[^>]*)?>(.*?)</h1>', page, re.I | re.S)
+        description = re.search(r'<meta\s+name=["\']description["\']\s+content=["\']([^"\']*)', page, re.I)
+        published = re.search(r'<time\s+datetime=["\'](\d{4}-\d{2}-\d{2})', page, re.I)
+        if not (canonical and h1 and description and published):
+            continue
+        if canonical.group(1).rstrip("/") != f"https://www.thewhitecakes.com/journal/{path.name}":
+            continue
+        h1_text = re.sub(r"<[^>]+>", "", h1.group(1)).strip()
+        combined.append({
+            "file": path.name,
+            "h1": unescape(h1_text),
+            "meta": unescape(description.group(1)),
+            "date": published.group(1),
+        })
     combined.sort(key=lambda p: p["date"], reverse=True)
     return combined
 
