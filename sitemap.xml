@@ -342,7 +342,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/about/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -352,6 +352,10 @@
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-piping-process-cebu.webp</image:loc>
+      <image:title>Buttercream bouquet finishing from smooth coating to piped flower details</image:title>
     </image:image>
   </url>
   <url>
