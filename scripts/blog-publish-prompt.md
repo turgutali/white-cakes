@@ -1797,3 +1797,103 @@ Message us on **WhatsApp at [+63 947 438 2632](https://wa.me/639474382632?text=H
 {"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","@id":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html#article","headline":"Valentine's Day in Cebu: Send a Bouquet Cake","description":"Valentine's 2027 in Cebu falls on a Sunday. When to order a bouquet or bento cake, what to write, and delivery to Cebu City, Mandaue and Mactan.","abstract":"For Valentine's in Cebu, a bouquet cake gives flowers and dessert in one: buttercream roses you can slice. Valentine's Day 2027 falls on Sunday, 14 February. Order from White Cakes by Thursday, 11 February at the latest (three days' notice), but ideally in January. We deliver to Cebu City, Mandaue and Lapu-Lapu.","datePublished":"2027-01-15","dateModified":"2027-01-15","inLanguage":"en-PH","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html"},"url":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html","image":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/og.jpg","width":1200,"height":630},"author":{"@type":"Organization","name":"White Cakes","url":"https://www.thewhitecakes.com/"},"publisher":{"@type":"Organization","@id":"https://www.thewhitecakes.com/#organization","name":"The White Cakes - Cebu","alternateName":"White Cakes","url":"https://www.thewhitecakes.com/","logo":{"@type":"ImageObject","url":"https://www.thewhitecakes.com/assets/icon-512.png","width":512,"height":512},"telephone":"+639474382632","areaServed":[{"@type":"City","name":"Cebu City"},{"@type":"City","name":"Mandaue"},{"@type":"City","name":"Lapu-Lapu"}],"sameAs":["https://www.instagram.com/thewhitecakescebu/","https://www.facebook.com/thewhitecakes/"]},"keywords":"Valentine's cake delivery Cebu, Valentine's bouquet cake Cebu, Valentine's cake Cebu 2027, flower cake Valentine's Cebu, bento cake for couples Cebu","spatialCoverage":{"@type":"Place","name":"Metro Cebu, Philippines"},"about":{"@type":"Thing","name":"Valentine's cake delivery Cebu"},"isPartOf":{"@type":"Blog","@id":"https://www.thewhitecakes.com/journal/","name":"Journal - Notes from the bench"}},{"@type":"FAQPage","@id":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html#faq","mainEntity":[{"@type":"Question","name":"When should I order a Valentine's cake in Cebu for 2027?","acceptedAnswer":{"@type":"Answer","text":"Valentine's Day 2027 is Sunday, 14 February. Our latest order date is Thursday, 11 February, but we recommend messaging in January because that weekend fills quickly."}},{"@type":"Question","name":"Can you deliver a Valentine's cake to an office in Cebu?","acceptedAnswer":{"@type":"Answer","text":"Yes. Since 14 February 2027 is a Sunday, many people send cakes on Friday, 12 February. Give us the office address, lobby instructions and someone at reception who can receive it."}},{"@type":"Question","name":"Is a bouquet cake or a bento better for Valentine's?","acceptedAnswer":{"@type":"Answer","text":"Choose a bouquet cake for a gift that should look like flowers on arrival. Choose a 4-inch bento for dessert for two at home."}},{"@type":"Question","name":"Can you make red roses on a bouquet cake?","acceptedAnswer":{"@type":"Answer","text":"Ask us with your date. Our signature palette is blush, ivory, dusty blue and sage, and we will tell you honestly whether a deeper red works in buttercream for your order."}},{"@type":"Question","name":"How much is a Valentine's bouquet cake?","acceptedAnswer":{"@type":"Answer","text":"Prices aren't published yet while we prepare for launch. Send your date, cake and delivery address, and we will reply within 24 hours with a personalized quote."}}]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"White Cakes","item":"https://www.thewhitecakes.com/"},{"@type":"ListItem","position":2,"name":"Journal","item":"https://www.thewhitecakes.com/journal/"},{"@type":"ListItem","position":3,"name":"Valentine's Day in Cebu: Send a Bouquet Cake","item":"https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html"}]}]}
 </script>
 ```
+
+
+<!-- ===== FILE: 16-baby-shower-cakes-cebu.md ===== -->
+---
+title: "Baby Shower Cakes in Cebu | The White Cakes - Cebu"
+meta_description: "Planning a baby shower cake in Cebu? Compare sizes, choose a buttercream colour palette and flavour, and plan delivery and order timing."
+h1: "Baby Shower Cakes in Cebu: Colours, Sizes, and When to Order"
+url: https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html
+publish_date: 2026-11-18
+og_image_alt: "Hand-finished buttercream celebration cake by The White Cakes in Cebu"
+---
+
+A baby shower cake should suit the gathering and the party palette. White Cakes makes hand-finished buttercream cakes in Cebu with at least three days' notice. Send the date, size or guest count, flavour, short message, colour reference, and pickup or delivery details.
+
+## Choose a cake size for the gathering
+
+A 4-inch Bento Cake is a small option for a couple or a gift for the parents-to-be; it is sized for two generous slices or three modest ones. For a family gathering, compare the 6-inch and 8-inch custom starting sizes, or ask about a two-tier design. Share the guest count and how the cake will be served before choosing. The [custom cake page](/custom-cakes-cebu/) lists current sizes and starting prices, and the [Cebu cake price guide](/journal/cake-prices-cebu.html) explains how quotes work.
+
+## Plan the colours and message
+
+Send a photo of the invitation, a colour palette or one reference cake. Soft pastels, a simple ivory design or colours that match the party are useful starting points. Tell us the look you want and we will confirm a hand-piped buttercream version for your date.
+
+Keep the wording short enough to read clearly on the top. A family name, “Welcome Baby,” or the celebration date can be easier to place than a long sentence. Check spelling before confirming. If the parents are keeping the baby's name private, use a neutral message and share only the details you want on the cake.
+
+## Pick a flavour guests will enjoy
+
+White Cakes offers chocolate, vanilla, ube, mango and red velvet. If you are choosing for a mixed group, tell us whether the guests have a favourite or want a familiar option. Read the [guide to cake flavours in Cebu](/journal/choosing-a-flavor.html). A 4-inch Bento is one flavour; ask us whether a larger cake can be divided before placing a deposit.
+
+## Coordinate delivery and timing
+
+Delivery is available in Cebu City, Mandaue City and Lapu-Lapu City. For a venue, send its full name, exact entrance, floor or hall, gate or lobby instructions, the time someone can receive the cake and a reachable mobile number. We confirm a delivery window; we do not provide venue setup or cake cutting.
+
+Three days' notice is the minimum. Baby showers often happen on weekends, so message earlier while the date is flexible. We confirm availability before you pay; a 50% deposit confirms an order.
+
+## Frequently asked questions
+
+### Can you make a baby shower cake in the party colours?
+
+Send the invitation colours or a reference. We can confirm a hand-piped buttercream design for the date and explain which details will work clearly on the cake.
+
+### How much is a baby shower cake in Cebu?
+
+The 4-inch Bento has a published price. Custom 6-inch, 8-inch and two-tier cakes have starting prices; the final quote depends on size and design. Delivery is quoted for the full address.
+
+### Can you deliver a cake to a baby shower venue?
+
+We deliver in Cebu City, Mandaue and Lapu-Lapu. Send the venue entrance, receiving contact and delivery time so we can confirm the route and window.
+
+### How early should I order?
+
+Three days is the minimum. For a weekend celebration, ask earlier to confirm the date before paying the deposit.
+
+## Order a baby shower cake
+
+Use the [order form](/order/) or [message us on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20baby%20shower%20cake). Include the date, size or guest count, flavour, short message, colour reference, and pickup or delivery details. We reply within 24 hours.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html#article",
+      "headline": "Baby Shower Cakes in Cebu: Colours, Sizes, and When to Order",
+      "description": "Planning a baby shower cake in Cebu? Compare sizes, choose a buttercream colour palette and flavour, and plan delivery and order timing.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp"},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "baby shower cake Cebu, baby shower cakes Cebu City, custom baby shower cake Cebu, baby shower cake delivery Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "baby shower cakes in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Can you make a baby shower cake in the party colours?", "acceptedAnswer": {"@type": "Answer", "text": "Send the invitation colours or a reference. We can confirm a hand-piped buttercream design for the date and explain which details will work clearly on the cake."}},
+        {"@type": "Question", "name": "How much is a baby shower cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "The 4-inch Bento has a published price. Custom 6-inch, 8-inch and two-tier cakes have starting prices; the final quote depends on size and design. Delivery is quoted for the full address."}},
+        {"@type": "Question", "name": "Can you deliver a cake to a baby shower venue?", "acceptedAnswer": {"@type": "Answer", "text": "We deliver in Cebu City, Mandaue and Lapu-Lapu. Send the venue entrance, receiving contact and delivery time so we can confirm the route and window. We do not set up the cake at the venue."}},
+        {"@type": "Question", "name": "How early should I order?", "acceptedAnswer": {"@type": "Answer", "text": "Three days is the minimum. For a weekend celebration, ask earlier to confirm the date before paying the deposit."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Baby Shower Cakes in Cebu: Colours, Sizes, and When to Order", "item": "https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
