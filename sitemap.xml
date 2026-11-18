@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.thewhitecakes.com/</loc>
-    <lastmod>2026-11-18T20:55:40+08:00</lastmod>
+    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -109,7 +109,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/birthday-cakes-cebu/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -370,7 +370,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -592,8 +592,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://www.thewhitecakes.com/journal/sinulog-cakes-cebu.html</loc>
+    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
+      <image:title>Hand-piped celebration cake by The White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -786,6 +800,20 @@
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/kids-birthday-cakes-cebu.html</loc>
+    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
+      <image:title>Hand-piped ivory buttercream birthday cake by The White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/birthday-cake-message-ideas-cebu.html</loc>
