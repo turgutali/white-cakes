@@ -260,7 +260,53 @@ add(
         description="Hand-piped bouquet-style cake made to order in Cebu.",
         image=f"{BASE}/assets/bouquet-cake-cebu.webp",
         url=f"{BASE}/bouquet-cakes-cebu/",
-    )],
+    ), {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": f"{BASE}/bouquet-cakes-cebu/#faq",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "What does a Bouquet Cake look like?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It is a cake covered in hand-piped buttercream rosettes and sage leaves, with a pleated wrapper, pearls and a bow. The flowers are buttercream and the cake is sliced to serve.",
+                },
+            },
+            {
+                "@type": "Question",
+                "name": "How much does a Bouquet Cake cost in Cebu?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The price is on request because the scale and finish vary. Tell us your date and guest count; we confirm the exact quote before a 50% deposit.",
+                },
+            },
+            {
+                "@type": "Question",
+                "name": "How many people does a Bouquet Cake serve?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Bouquet describes the floral finish rather than a fixed size. Share the guest count or table size and we will confirm a suitable scale.",
+                },
+            },
+            {
+                "@type": "Question",
+                "name": "How far ahead should I order a Bouquet Cake?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Order at least three days before your date. Ask earlier for weekends, holidays and detailed piping.",
+                },
+            },
+            {
+                "@type": "Question",
+                "name": "Where do you deliver Bouquet Cakes?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Delivery is available in Cebu City, Mandaue and Lapu-Lapu. Pickup in Cebu City is by arrangement after confirmation.",
+                },
+            },
+        ],
+    }],
     body_html=dedent(
         """\
         <p>The Bouquet Cake is ivory buttercream covered with piped blush roses and sage leaves. It reads as flowers you can cut — lower and softer than our Signature Marble cake.</p>
@@ -269,7 +315,18 @@ add(
         <h2>Size and table</h2>
         <p>Tell us the size of the table or the number of guests if you know them. “Bouquet” describes the finish; we confirm the scale when we reply so the cake matches the setting.</p>
         <h2>Ordering</h2>
-        <p>Message us at least three days before the date. Pickup or delivery in Cebu City, Mandaue, and Lapu-Lapu — full address and a receiver required for delivery.</p>"""
+        <p>Message us at least three days before the date. Pickup or delivery in Cebu City, Mandaue, and Lapu-Lapu — full address and a receiver required for delivery.</p>
+        <h2>Frequently asked questions</h2>
+        <h3>What does a Bouquet Cake look like?</h3>
+        <p>It is a cake covered in hand-piped buttercream rosettes and sage leaves, with a pleated wrapper, pearls and a bow. The flowers are buttercream and the cake is sliced to serve.</p>
+        <h3>How much does a Bouquet Cake cost in Cebu?</h3>
+        <p>The price is on request because the scale and finish vary. Tell us your date and guest count; we confirm the exact quote before a 50% deposit.</p>
+        <h3>How many people does a Bouquet Cake serve?</h3>
+        <p>“Bouquet” describes the floral finish rather than a fixed size. Share the guest count or table size and we will confirm a suitable scale.</p>
+        <h3>How far ahead should I order a Bouquet Cake?</h3>
+        <p>Order at least three days before your date. Ask earlier for weekends, holidays and detailed piping.</p>
+        <h3>Where do you deliver Bouquet Cakes?</h3>
+        <p>Delivery is available in Cebu City, Mandaue and Lapu-Lapu. Pickup in Cebu City is by arrangement after confirmation.</p>"""
     ),
 )
 
