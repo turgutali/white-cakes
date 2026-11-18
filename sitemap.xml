@@ -916,4 +916,11 @@
     <image:image><image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc><image:title>Bouquet Cake with hand-piped buttercream flowers and pink wrapper</image:title></image:image>
     <image:image><image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc><image:title>4-inch Bento cake with blush ribbon, piped shells and rose</image:title></image:image>
   </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/minimalist-cake-cebu.html</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc><image:title>Ivory minimalist Bento cake with piped shells and blush ribbon</image:title></image:image>
+  </url>
 </urlset>

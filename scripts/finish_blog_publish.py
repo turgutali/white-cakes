@@ -14,6 +14,12 @@ LASTMOD_SITE = "2026-11-15"
 
 LEGACY_POSTS = [
     {
+        "file": "minimalist-cake-cebu.html",
+        "h1": "Minimalist Cake in Cebu: Simple Buttercream Designs",
+        "meta": "Looking for a minimalist cake in Cebu? Compare a 4-inch Bento and 6-inch Signature Marble, brief a simple piped design, and check prices and lead time.",
+        "date": "2026-11-18",
+    },
+    {
         "file": "how-to-order.html",
         "h1": "How to order a custom cake in Cebu",
         "meta": "How to order a White Cakes cake in Cebu: what to tell us, the three-day minimum, and the difference between pickup and delivery.",
@@ -68,6 +74,7 @@ CROSSLINKS = {
         ("first-birthday-sinulog-cake-cebu.html",),
         ("what-is-a-bento-cake.html",),
         ("how-far-ahead-to-order-a-cake-cebu.html",),
+        ("minimalist-cake-cebu.html",),
     ],
     "anniversary-cakes-cebu": [
         ("bouquet-cake-gift-cebu.html",),
@@ -86,6 +93,7 @@ CROSSLINKS = {
     ],
     "bento-cakes-cebu": [
         ("what-is-a-bento-cake.html",),
+        ("minimalist-cake-cebu.html",),
         ("corporate-office-cakes-cebu.html",),
         ("valentines-bouquet-cake-cebu.html",),
     ],
@@ -95,6 +103,7 @@ CROSSLINKS = {
         ("christmas-cake-delivery-cebu.html",),
     ],
     "custom-cakes-cebu": [
+        ("minimalist-cake-cebu.html",),
         ("how-to-brief-a-custom-cake-cebu.html",),
         ("cake-sizes-cebu.html",),
         ("christening-cake-cebu.html",),
@@ -105,6 +114,7 @@ CROSSLINKS = {
 
 FAQ_GUIDES = [
     ("how-far-ahead-to-order-a-cake-cebu.html",),
+    ("minimalist-cake-cebu.html",),
     ("cake-sizes-cebu.html",),
     ("cake-delivery-cebu.html",),
     ("how-to-brief-a-custom-cake-cebu.html",),
