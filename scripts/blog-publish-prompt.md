@@ -1898,3 +1898,141 @@ Use the [order form](/order/) or [message us on WhatsApp](https://wa.me/63947438
   ]
 }
 </script>
+
+<!-- ===== FILE: 17-send-cake-to-cebu-from-abroad.md ===== -->
+---
+title: "Send a Cake to Cebu from Abroad | White Cakes Cebu"
+meta_description: "Sending a cake to someone in Cebu from overseas? What to confirm first: the Cebu delivery address, date, local delivery window, quote, and payment method."
+url: https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html
+h1: "How to Send a Cake to Cebu from Abroad"
+publish_date: 2026-11-18
+og_image_alt: "Hand-finished buttercream cake prepared for a Cebu celebration"
+---
+
+**Quick answer:** You can arrange a Cebu cake order while you are overseas by sharing the recipient's complete delivery details, your requested date, cake choice, and message with a local bakery. For The White Cakes, allow at least three days, ask us to confirm availability, delivery charge, quote and payment method, then pay the 50% deposit only after those details are agreed. Delivery is available in Cebu City, Mandaue City and Lapu-Lapu City.
+
+## Sending a cake to Cebu from overseas: what to know first
+
+Being in another country does not stop you from planning a birthday, anniversary or thank-you gift for someone in Cebu. The part that needs planning is the local delivery: the cake is made in Cebu for a named date, and somebody at the destination needs to receive it.
+
+The White Cakes is a made-to-order kitchen in Lahug, Cebu City. It is not a storefront and does not offer walk-in pickup. We arrange pickup after confirming an order, or deliver within Cebu City, Mandaue and Lapu-Lapu. If you are ordering from abroad, delivery is usually the simpler choice; confirm the full address is inside the service area before paying.
+
+## Details to get from the person receiving it
+
+Before you message, collect these details. It saves a round of questions across time zones:
+
+- The recipient's full name and mobile number.
+- Complete delivery address, including building or subdivision, unit, barangay and city.
+- A nearby landmark, gate instructions or lobby receiving rules.
+- The date you want the cake and the hours someone can receive it.
+- Any food preference or allergy information you already know.
+
+For condos, offices, resorts and gated villages, ask who is allowed to receive food deliveries and whether the rider needs a guest name or entrance instructions. A cake should not be left with no confirmed receiver.
+
+## Choose the cake and send a clear order brief
+
+The current collection includes a 4-inch Bento Cake, Signature Marble, bouquet cakes and custom celebration cakes. Flavours include chocolate, vanilla, ube, mango and red velvet. If you are unsure, tell us the occasion and roughly how many people will share it; we can help you choose a design and size. Our [Cebu cake price guide](/journal/cake-prices-cebu.html) explains published starting prices and what affects a custom quote.
+
+Send the exact spelling for the cake message, one or two reference photos if you have them, the preferred flavour, and a backup colour or design choice. A short, specific brief is easier to confirm remotely than a long description assembled from several screenshots. Read our [custom cake briefing guide](/journal/how-to-brief-a-custom-cake-cebu.html) for photo tips.
+
+## Confirm date, delivery and payment before sending money
+
+Every cake is made for its date and needs at least three days' notice. Cebu uses Philippine time (PHT, UTC+8), so include the calendar date in Cebu local time when you contact us. The date is not booked until we reply with availability and the required 50% deposit is settled.
+
+Ask for the full quote before paying. Custom cake prices are starting prices, and the final amount depends on the design. Delivery has a separate charge based on the address; it is not a single flat fee. The payment method is confirmed in our reply, so if you are overseas, ask whether the available method works for you before sending a deposit. Do not assume an international card, bank transfer or wallet is accepted unless we confirm it directly.
+
+We aim to reply within 24 hours. If you are in a different time zone, send all order details in one message and allow time for the confirmation to arrive before your requested date.
+
+## Plan a reliable surprise delivery
+
+A surprise works best when the sender handles the coordination. Tell us whether the recipient knows a delivery is coming, and give us a contact who can help if the gate or address is hard to find. We confirm a delivery window rather than an exact minute; traffic and route conditions in Metro Cebu can shift timing.
+
+Buttercream cakes are perishable. Arrange for someone to receive the box directly and keep it cool, upright and out of the sun. Do not plan for a cake to wait in a parked car, warm lobby or unattended doorstep. If nobody can receive it during a workable window, choose another date or arrange pickup in Cebu City with someone local.
+
+## Quick checklist for an overseas cake order
+
+1. Choose the cake, flavour and exact message.
+2. Get the recipient's full Cebu address, mobile number and receiving instructions.
+3. Request a date at least three days ahead, stated in Philippine time.
+4. Ask us to confirm availability, the cake quote, delivery charge and payment method.
+5. Pay the 50% deposit only after the order details and payment instructions are confirmed.
+6. Make sure somebody can receive and refrigerate the cake.
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27m%20ordering%20a%20cake%20for%20someone%20in%20Cebu%20from%20abroad). For questions about the route, see our [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Frequently asked questions
+
+### Can I order a cake for someone in Cebu while I am abroad?
+
+Yes, you can contact us from overseas to ask about an order. We confirm the date, address, quote and payment method with you before the order is secured. The payment method must be confirmed directly; international payment options are not guaranteed.
+
+### Where can you deliver a cake in Cebu?
+
+We deliver within Cebu City, Mandaue City and Lapu-Lapu City. Send the complete address and landmark so we can check the route and delivery charge. Talisay, Consolacion and Cordova are not on the current delivery list; ask us with your pin before planning around delivery.
+
+### How early should I order a Cebu cake from abroad?
+
+At least three days before the requested date. Contact us earlier if the date is a weekend or a busy holiday, and wait for our confirmation before treating the date as booked.
+
+### How do I pay for a Cebu cake from another country?
+
+The payment method is confirmed when we reply. Tell us where you are ordering from and ask which payment option is available to you before sending the 50% deposit.
+
+### Can the cake be delivered as a surprise?
+
+Yes, if someone can receive it. Provide the recipient's number, complete address, a landmark and gate or lobby instructions. We confirm a delivery window, not an exact arrival minute.
+
+## Arrange a cake for someone in Cebu
+
+Send the date, cake choice, flavour, message and delivery address in one enquiry. We reply within 24 hours with availability and the details to confirm before payment.
+
+## Order a cake from overseas
+
+Use the [order form](/order/) or [message us on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27m%20ordering%20a%20cake%20for%20someone%20in%20Cebu%20from%20abroad). Include "ordering from abroad" so we can confirm which payment method will work before you pay.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html#article",
+      "headline": "How to Send a Cake to Cebu from Abroad",
+      "description": "Sending a cake to someone in Cebu from overseas? What to confirm first: the Cebu delivery address, date, local delivery window, quote, and payment method.",
+      "abstract": "Overseas family and friends can enquire about arranging a cake delivery in Cebu. White Cakes asks for at least three days' notice and confirms the delivery address, date, quote, delivery charge and payment method before an order is secured. International payment options are not guaranteed.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html"},
+      "url": "https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/og.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "send cake to Cebu from abroad, cake delivery Cebu overseas, send birthday cake to Cebu Philippines, cake gift delivery Cebu, order cake in Cebu from overseas",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "sending a cake to Cebu from abroad"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Can I order a cake for someone in Cebu while I am abroad?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, you can contact us from overseas to ask about an order. We confirm the date, address, quote and payment method with you before the order is secured. The payment method must be confirmed directly; international payment options are not guaranteed."}},
+        {"@type": "Question", "name": "Where can you deliver a cake in Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "We deliver within Cebu City, Mandaue City and Lapu-Lapu City. Send the complete address and landmark so we can check the route and delivery charge. Talisay, Consolacion and Cordova are not on the current delivery list; ask us with your pin before planning around delivery."}},
+        {"@type": "Question", "name": "How early should I order a Cebu cake from abroad?", "acceptedAnswer": {"@type": "Answer", "text": "At least three days before the requested date. Contact us earlier if the date is a weekend or a busy holiday, and wait for our confirmation before treating the date as booked."}},
+        {"@type": "Question", "name": "How do I pay for a Cebu cake from another country?", "acceptedAnswer": {"@type": "Answer", "text": "The payment method is confirmed when we reply. Tell us where you are ordering from and ask which payment option is available to you before sending the 50% deposit."}},
+        {"@type": "Question", "name": "Can the cake be delivered as a surprise?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, if someone can receive it. Provide the recipient's number, complete address, a landmark and gate or lobby instructions. We confirm a delivery window, not an exact arrival minute."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "How to Send a Cake to Cebu from Abroad", "item": "https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html"}
+      ]
+    }
+  ]
+}
+</script>
