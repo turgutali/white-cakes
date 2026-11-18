@@ -14,6 +14,12 @@ LASTMOD_SITE = "2026-11-15"
 
 LEGACY_POSTS = [
     {
+        "file": "vintage-cake-cebu.html",
+        "h1": "Vintage Cake in Cebu: Hand-Piped Buttercream Guide",
+        "meta": "Looking for a vintage cake in Cebu? See White Cakes' hand-piped buttercream style, the 6-inch Christmas 2026 offer, flavours, ordering lead time and delivery areas.",
+        "date": "2026-11-18",
+    },
+    {
         "file": "minimalist-cake-cebu.html",
         "h1": "Minimalist Cake in Cebu: Simple Buttercream Designs",
         "meta": "Looking for a minimalist cake in Cebu? Compare a 4-inch Bento and 6-inch Signature Marble, brief a simple piped design, and check prices and lead time.",
@@ -75,6 +81,7 @@ CROSSLINKS = {
         ("what-is-a-bento-cake.html",),
         ("how-far-ahead-to-order-a-cake-cebu.html",),
         ("minimalist-cake-cebu.html",),
+        ("vintage-cake-cebu.html",),
     ],
     "anniversary-cakes-cebu": [
         ("bouquet-cake-gift-cebu.html",),
@@ -115,6 +122,7 @@ CROSSLINKS = {
 FAQ_GUIDES = [
     ("how-far-ahead-to-order-a-cake-cebu.html",),
     ("minimalist-cake-cebu.html",),
+    ("vintage-cake-cebu.html",),
     ("cake-sizes-cebu.html",),
     ("cake-delivery-cebu.html",),
     ("how-to-brief-a-custom-cake-cebu.html",),

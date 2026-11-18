@@ -923,4 +923,11 @@
     <priority>0.7</priority>
     <image:image><image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc><image:title>Ivory minimalist Bento cake with piped shells and blush ribbon</image:title></image:image>
   </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/vintage-cake-cebu.html</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc><image:title>Hand-piped vintage-inspired Christmas cake in Cebu</image:title></image:image>
+  </url>
 </urlset>
