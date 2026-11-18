@@ -37,6 +37,12 @@ LEGACY_POSTS = [
         "meta": "When to refrigerate, how to ride home with a cake, and what not to do in a parked car.",
         "date": "2026-11-14",
     },
+    {
+        "file": "cake-sizes-cebu.html",
+        "h1": "Cake Sizes in Cebu: 4-Inch, 6-Inch, 8-Inch and Two-Tier Guide",
+        "meta": "Compare 4-inch Bento, 6-inch, 8-inch and two-tier cakes in Cebu. See the verified Bento servings and how to choose a size for your guest list.",
+        "date": "2026-11-18",
+    },
 ]
 
 CROSSLINKS = {
@@ -90,6 +96,7 @@ CROSSLINKS = {
     ],
     "custom-cakes-cebu": [
         ("how-to-brief-a-custom-cake-cebu.html",),
+        ("cake-sizes-cebu.html",),
         ("christening-cake-cebu.html",),
         ("debut-cake-cebu.html",),
         ("how-to-choose-wedding-cake-cebu.html",),
@@ -98,6 +105,7 @@ CROSSLINKS = {
 
 FAQ_GUIDES = [
     ("how-far-ahead-to-order-a-cake-cebu.html",),
+    ("cake-sizes-cebu.html",),
     ("cake-delivery-cebu.html",),
     ("how-to-brief-a-custom-cake-cebu.html",),
 ]

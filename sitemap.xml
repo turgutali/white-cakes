@@ -370,7 +370,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/</loc>
-    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
+    <lastmod>2026-11-18T21:40:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -770,6 +770,16 @@
     <lastmod>2026-11-18T21:10:28+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-sizes-cebu.html</loc>
+    <lastmod>2026-11-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Ivory buttercream Signature Marble cake with dusty-blue marbling, shells and a piped rose</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/ube-cake-cebu.html</loc>
