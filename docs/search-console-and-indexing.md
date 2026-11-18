@@ -12,7 +12,7 @@ Keep `/sitemap.xml` limited to canonical HTML pages intended for Google Search. 
 
 ## Bing Webmaster Tools
 
-The sitemap can also be submitted in Bing Webmaster Tools. Use Bing Webmaster Tools to inspect IndexNow activity and indexing status.
+The `thewhitecakes.com` site property is available in Bing Webmaster Tools under the Google sign-in `info@thewhitecakes.com`. The 58-URL `/sitemap.xml` was submitted on 2026-11-18; Bing shows it as **Processing**, with its previous crawl on 2026-11-15 having discovered 30 URLs. Bing Search Performance says to check back in 48 hours. AI Performance reports 0 citations and 0 cited pages for 2026-08-18 through 2026-11-17. URL Inspection said the new `/journal/minimalist-cake-cebu.html` was not known to Bing; its indexing request was accepted. The IndexNow dashboard listed all 58 site URLs among its recent submissions. Recheck sitemap crawl, URL discovery, search queries and AI citations after the reports update.
 
 ## Business listings
 
