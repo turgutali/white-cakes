@@ -746,6 +746,18 @@
       <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Signature Marble cake with ivory buttercream, dusty-blue marbling, piped shells, and one rose</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
+      <image:title>Floral Bouquet Cake with hand-piped buttercream flowers, a pink wrapper, and a bow</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>4-inch ivory Bento cake with piped shells, a blush ribbon, and one buttercream rose</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/privacy/</loc>
