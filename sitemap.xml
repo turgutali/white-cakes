@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://www.thewhitecakes.com/</loc>
-    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -369,8 +369,18 @@
     </image:image>
   </url>
   <url>
+    <loc>https://www.thewhitecakes.com/journal/cebu-cake-calendar-2027.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
+      <image:title>Cebu Cake Calendar 2027: Key Dates and Ordering Guide</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://www.thewhitecakes.com/journal/</loc>
-    <lastmod>2026-11-18T21:40:00+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -487,7 +497,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -593,7 +603,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/sinulog-cakes-cebu.html</loc>
-    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -697,7 +707,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -817,7 +827,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
