@@ -48,7 +48,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/bouquet-cakes-cebu/</loc>
-    <lastmod>2026-11-18T21:10:28+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/custom-cakes-cebu/</loc>
-    <lastmod>2026-11-18T22:45:24+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image>
@@ -109,7 +109,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/birthday-cakes-cebu/</loc>
-    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -205,7 +205,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/corporate-cake-orders-cebu/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -949,5 +949,41 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image><image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc><image:title>Hand-piped vintage-inspired Christmas cake in Cebu</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/proposal-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/housewarming-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/congratulations-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/retirement-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/farewell-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/thank-you-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 </urlset>
