@@ -13,7 +13,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 PROMPT = Path(__file__).resolve().parent / "blog-publish-prompt.md"
-PUBLISH_IDS = {"26"}
+PUBLISH_IDS = {"27"}
 
 LIVE_JOURNAL = {
     "how-to-order.html",
@@ -46,6 +46,7 @@ LIVE_JOURNAL = {
     "bisaya-birthday-cake-messages-cebu.html",
     "monthsary-cake-cebu.html",
     "bridal-shower-cake-cebu.html",
+    "red-velvet-cake-cebu.html",
 }
 
 POSTS_META = []  # filled after build for index/sitemap

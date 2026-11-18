@@ -365,6 +365,120 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
 </script>
 ```
 
+<!-- ===== FILE: 27-red-velvet-cake-cebu.md ===== -->
+---
+title: "Red Velvet Cake Cebu | Custom Cake Order Guide"
+meta_description: "Order a red velvet cake in Cebu from White Cakes. See what the listed flavour includes, what to confirm about filling and size, and how to plan delivery."
+url: https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html
+h1: "Red Velvet Cake in Cebu: What to Confirm Before You Order"
+publish_date: 2026-11-18
+og_image_alt: "Hand-finished buttercream celebration cake in Cebu; red velvet is one of the available custom cake flavours"
+---
+
+**Quick answer:** Red velvet is one of the custom cake flavours listed by White Cakes in Cebu. Include the flavour, date, size and design reference in your enquiry. The flavour name alone does not specify a separate filling, frosting or decoration, so ask us to confirm those details, the price and delivery for your order before paying a deposit.
+
+## What “red velvet cake” means on this menu
+
+White Cakes lists red velvet alongside chocolate, vanilla, ube and mango for custom cakes. Cakes are finished in ivory buttercream with hand-piped details. The menu does not describe a red velvet filling, a separate frosting, or a particular red decoration. If you have a specific expectation about the inside or outside of the cake, write it in your enquiry and wait for confirmation before you place the order.
+
+This matters when you are choosing from photos online. A reference may show bright red sides, a crumb coating, cream cheese frosting, fresh fruit or a topper. The photo shows the baker's example; it does not establish that those details are included in White Cakes' red velvet flavour. Send one reference and point to the details you want us to consider. We will confirm what can be done in hand-piped buttercream for your date.
+
+For the full menu, compare [cake flavours available in Cebu](/journal/choosing-a-flavor.html). Red velvet is also available as a custom flavour on our [custom cakes in Cebu](/custom-cakes-cebu/) page.
+
+## Choose a size around the people who will share it
+
+Start with the guest count and serving plan, then ask about a cake size. A 4-inch Bento serves two generously or three modestly after a meal, so it suits a personal celebration rather than a full party table. For a group, enquire about a 6-inch, 8-inch or two-tier custom cake and tell us whether cake will be the only dessert. We do not publish a fixed serving chart because slice size and decoration affect how many portions you get.
+
+If the cake is for a birthday, anniversary or office celebration, include that occasion and the number of guests. The finish and inscription use space on the cake, so send the exact words you want piped. For a small top, a name or a few words can be easier to read in photos than a long message.
+
+## Send a clear red velvet cake enquiry
+
+To get a useful quote, include:
+
+- the event date and occasion;
+- your preferred size or guest count;
+- red velvet as the requested flavour;
+- one reference photo and the design details you care about;
+- the exact inscription, if any;
+- pickup or the full delivery address and receiving contact.
+
+Orders need at least three days' notice, and a date is not reserved until we confirm availability and receive the 50% deposit. Weekends, holidays or detailed piping may need earlier planning. The [Cebu cake price guide](/journal/cake-prices-cebu.html) explains starting prices; the exact quote depends on the confirmed size and design, with delivery quoted separately.
+
+For delivery in Cebu City, Mandaue or Lapu-Lapu, send the barangay, landmark, venue instructions and a reachable person who can receive the cake. We confirm the route, fee and delivery window for the address. Keep the buttercream cake cool before serving; our guide to [buttercream in Cebu heat](/journal/buttercream-in-cebu-heat.html) covers handling after hand-off.
+
+## Frequently asked questions
+
+### Can I order red velvet cake in Cebu from White Cakes?
+
+Yes. Red velvet is one of the listed custom cake flavours. Send the date, size, design reference and delivery or pickup details so we can confirm availability and the complete quote.
+
+### Does the red velvet cake include cream cheese frosting or filling?
+
+The flavour list does not specify a separate filling or frosting. If you want a particular filling or finish, ask us to confirm it for your order before paying a deposit.
+
+### Can I choose a custom design for a red velvet cake?
+
+Send a reference photo and identify the details you want. White Cakes makes hand-piped buttercream cakes and will confirm which parts fit the order; do not assume every detail in a reference is available.
+
+### How early should I order a red velvet cake?
+
+Allow at least three days' notice and ask earlier for weekends, holidays or detailed designs. Wait for an availability confirmation before paying the 50% deposit.
+
+### Does White Cakes deliver red velvet cake around Cebu?
+
+Delivery is arranged for Cebu City, Mandaue and Lapu-Lapu. Send the complete address and receiving contact so we can confirm the delivery fee and window.
+
+## Order a red velvet cake in Cebu
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20red%20velvet%20cake%20in%20Cebu). Include your date, size, reference, inscription and delivery details; we will confirm the final design and total before you pay a deposit.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html#article",
+      "headline": "Red Velvet Cake in Cebu: What to Confirm Before You Order",
+      "description": "Order a red velvet cake in Cebu from White Cakes. See what the listed flavour includes, what to confirm about filling and size, and how to plan delivery.",
+      "abstract": "Red velvet is one of White Cakes' listed custom cake flavours in Cebu. This guide explains what the menu does and does not specify, how to request a design, choose a size and confirm delivery.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "red velvet cake Cebu, red velvet cake Cebu City, order red velvet cake Cebu, custom red velvet cake Cebu, red velvet cake delivery Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "red velvet cake in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Can I order red velvet cake in Cebu from White Cakes?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Red velvet is one of the listed custom cake flavours. Send the date, size, design reference and delivery or pickup details so we can confirm availability and the complete quote."}},
+        {"@type": "Question", "name": "Does the red velvet cake include cream cheese frosting or filling?", "acceptedAnswer": {"@type": "Answer", "text": "The flavour list does not specify a separate filling or frosting. If you want a particular filling or finish, ask us to confirm it for your order before paying a deposit."}},
+        {"@type": "Question", "name": "Can I choose a custom design for a red velvet cake?", "acceptedAnswer": {"@type": "Answer", "text": "Send a reference photo and identify the details you want. White Cakes makes hand-piped buttercream cakes and will confirm which parts fit the order; do not assume every detail in a reference is available."}},
+        {"@type": "Question", "name": "How early should I order a red velvet cake?", "acceptedAnswer": {"@type": "Answer", "text": "Allow at least three days' notice and ask earlier for weekends, holidays or detailed designs. Wait for an availability confirmation before paying the 50% deposit."}},
+        {"@type": "Question", "name": "Does White Cakes deliver red velvet cake around Cebu?", "acceptedAnswer": {"@type": "Answer", "text": "Delivery is arranged for Cebu City, Mandaue and Lapu-Lapu. Send the complete address and receiving contact so we can confirm the delivery fee and window."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Red Velvet Cake in Cebu: What to Confirm Before You Order", "item": "https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- ===== FILE: 26-bridal-shower-cake-cebu.md ===== -->
 ---
 title: "Bridal Shower Cake Cebu | Design, Size & Delivery Guide"
