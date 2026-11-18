@@ -8,6 +8,7 @@
       label: "Signature Marble",
       formValue: "Signature Marble",
       image: "/assets/signature-marble-cake-cebu.webp",
+      alt: "6-inch Signature Marble cake with ivory buttercream, dusty-blue marbling, piped shells, and one rose.",
       w: 800,
       h: 800,
       sizes: ['6"', '8"'],
@@ -19,6 +20,7 @@
       label: "Bouquet Cake",
       formValue: "Bouquet Cake",
       image: "/assets/bouquet-cake-pink-wrapper-cebu.webp",
+      alt: "Bouquet Cake with hand-piped buttercream flowers in a pink wrapper.",
       w: 1200,
       h: 1607,
       sizes: ['6"', '8"'],
@@ -30,6 +32,7 @@
       label: "Bento",
       formValue: "Bento",
       image: "/assets/bento-cake-cebu.webp",
+      alt: "4-inch Bento cake with ivory buttercream, piped shells, blush ribbon, and one rose.",
       w: 800,
       h: 800,
       sizes: ['Bento 4"'],
@@ -41,6 +44,7 @@
       label: "Custom",
       formValue: "Custom",
       image: "/assets/signature-marble-cake-cebu.webp",
+      alt: "Ivory buttercream cake shown as a reference for a custom cake design.",
       w: 800,
       h: 800,
       sizes: ['6"', '8"', 'Bento 4"'],
@@ -153,6 +157,11 @@
 
     if (previewImg) {
       previewImg.src = imgSrc;
+      previewImg.alt = state.cakeKey === "custom" && state.customPreviewUrl
+        ? "Customer-uploaded cake design reference"
+        : c
+          ? c.alt
+          : "Ivory celebration cake finished with hand-piped buttercream by The White Cakes in Cebu.";
       if (c) {
         previewImg.width = c.w;
         previewImg.height = c.h;
