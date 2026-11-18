@@ -1,6 +1,11 @@
 name: Notify search engines about changed pages
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "**/*.html"
   workflow_dispatch:
 
 permissions:
