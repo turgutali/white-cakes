@@ -365,6 +365,123 @@ Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me
 </script>
 ```
 
+<!-- ===== FILE: 26-bridal-shower-cake-cebu.md ===== -->
+---
+title: "Bridal Shower Cake Cebu | Design, Size & Delivery Guide"
+meta_description: "Planning a bridal shower cake in Cebu? Choose a custom buttercream design, size it for the guest list, and confirm delivery timing, quote and inscription."
+url: https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html
+h1: "Bridal Shower Cake in Cebu: Design and Delivery Guide"
+publish_date: 2026-11-18
+og_image_alt: "Hand-piped ivory buttercream celebration cake in Cebu, suitable as a starting point for a bridal shower design"
+---
+
+**Quick answer:** White Cakes does not list a fixed bridal shower cake design, but you can ask about a custom buttercream cake for a Cebu celebration. Send the shower date, guest count, colour palette, reference photo and venue address. We will confirm which details can be piped, the cake size, price and delivery window before you pay a deposit.
+
+## Plan for the shower table
+
+Start with where the cake will sit and how many guests will share it. A small Bento can be a gift for the bride or a dessert for two; it is not the only cake for a larger shower. For a group, send us the guest count and serving plan and ask about a 6-inch, 8-inch or two-tier custom cake. We do not publish a fixed serving chart because the design and slice size change the portions.
+
+A shower cake can be the centrepiece, a short photo moment, or one of several desserts on the table. Tell us which role it has so we can discuss size and decoration around the venue. If a restaurant or hotel is already supplying dessert, a small cake for the bride may suit better than a large centrepiece.
+
+## Choose a design that fits hand-piped buttercream
+
+Send the invitation palette or one reference photo. White Cakes works in hand-piped buttercream with details such as shells, roses, lettering and marbling. We do not list a ready-made bridal shower model, fondant sculpture or printed topper. If a reference includes a veil, ring, figurine, logo or personalised decoration, ask whether a buttercream interpretation is possible for your date; do not assume the exact item is available.
+
+Keep the inscription short enough to read in photos. “Bride to Be,” the bride's name, or one brief line can be easier to fit than a sentence. Send the exact spelling and punctuation. A longer toast belongs on a card or the party programme, not crowded onto the cake.
+
+See our [custom cakes in Cebu](/custom-cakes-cebu/) page for available sizes and starting prices. If the shower leads into a small wedding reception, our [wedding cake guide for Cebu](/journal/how-to-choose-wedding-cake-cebu.html) covers venue heat, buttercream and the wedding-day timeline.
+
+## Match the cake size to the guest list
+
+The 4-inch Bento serves two generously or three modestly after a meal. Choose it as a personal gift or a private treat for the bride and one guest. For everyone at the shower to have a slice, send the expected guest count and ask us to recommend a larger custom cake. The usable top changes with the decoration, so size and inscription are best confirmed together.
+
+If you plan to serve the cake alongside other desserts, tell us that too. A slice after a full meal can be smaller than a slice at a cake-and-coffee shower. We use your actual serving plan rather than guessing from the event name.
+
+## Coordinate venue delivery in Cebu
+
+For delivery to a home, restaurant or function room in Cebu City, Mandaue or Lapu-Lapu, send the full address, barangay, venue name, entrance instructions and a reachable receiving contact. Include the time the cake will be served, not only when the shower starts. We confirm a delivery window, not an exact minute, and do not provide venue setup or cake cutting.
+
+Arrange for someone to receive the cake and keep it cool until serving. If the venue has security, a lobby or a loading entrance, share the relevant instructions before the order is confirmed. Ask us to confirm the route and fee for the exact address; delivery is quoted separately.
+
+Every cake needs at least three days' notice. A weekend, holiday or detailed design may need earlier planning, and three days does not guarantee a slot is available. We confirm the design, availability and total before a 50% deposit is paid. The [Cebu cake price guide](/journal/cake-prices-cebu.html) explains starting prices and custom quotes.
+
+## What to send in your enquiry
+
+Include the event date, guest count, flavour, desired size or serving plan, reference photo, exact message, pickup or delivery choice, and full venue address. If a friend is arranging the shower as a surprise, say who may receive order and delivery messages. We will confirm who we should contact rather than assume the surprise hand-off.
+
+## Frequently asked questions
+
+### Can I order a bridal shower cake in Cebu from White Cakes?
+
+You can enquire about a custom buttercream cake. There is no fixed bridal shower model on the menu, so send a date and reference for us to confirm which details suit the order.
+
+### Can you make a “Bride to Be” cake?
+
+Send the exact wording and design reference. We can confirm whether the inscription and requested decoration fit the hand-piped buttercream design for your date.
+
+### What size cake do I need for a bridal shower?
+
+Tell us the guest count and whether cake is the only dessert. The 4-inch Bento is for two generous or three modest slices; for a group, ask about a larger custom cake and confirm the serving plan with us.
+
+### Do you deliver bridal shower cakes to venues?
+
+Delivery is available by arrangement in Cebu City, Mandaue and Lapu-Lapu. Send the full venue address, entrance and receiving contact so we can confirm the route, delivery window and charge. We do not set up the cake at the venue.
+
+### How early should I order?
+
+At least three days before the shower. Ask earlier for weekends and detailed designs; wait for availability confirmation before paying a deposit.
+
+## Order a bridal shower cake
+
+Use the [order form](/order/) or [message White Cakes on WhatsApp](https://wa.me/639474382632?text=Hi%20White%20Cakes%2C%20I%27d%20like%20to%20ask%20about%20a%20bridal%20shower%20cake%20in%20Cebu). Include the date, guest count, reference photo, exact wording and venue details so we can confirm the order honestly.
+
+<!-- JSONLD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "@id": "https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html#article",
+      "headline": "Bridal Shower Cake in Cebu: Design and Delivery Guide",
+      "description": "Planning a bridal shower cake in Cebu? Choose a custom buttercream design, size it for the guest list, and confirm delivery timing, quote and inscription.",
+      "abstract": "White Cakes does not list a fixed bridal shower cake, but accepts custom buttercream enquiries. The guide explains how to brief the design, size it for guests, confirm a venue delivery and plan the order timeline.",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18",
+      "inLanguage": "en-PH",
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html"},
+      "url": "https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html",
+      "image": {"@type": "ImageObject", "url": "https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp", "width": 1200, "height": 630},
+      "author": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "publisher": {"@id": "https://www.thewhitecakes.com/#organization"},
+      "keywords": "bridal shower cake Cebu, bridal shower cake Cebu City, bride to be cake Cebu, custom bridal shower cake Cebu, bridal shower cake delivery Cebu",
+      "spatialCoverage": {"@type": "Place", "name": "Metro Cebu, Philippines"},
+      "about": {"@type": "Thing", "name": "bridal shower cake in Cebu"},
+      "isPartOf": {"@type": "Blog", "@id": "https://www.thewhitecakes.com/journal/", "name": "Journal - Notes from the bench", "publisher": {"@id": "https://www.thewhitecakes.com/#organization"}}
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html#faq",
+      "mainEntity": [
+        {"@type": "Question", "name": "Can I order a bridal shower cake in Cebu from White Cakes?", "acceptedAnswer": {"@type": "Answer", "text": "You can enquire about a custom buttercream cake. There is no fixed bridal shower model on the menu, so send a date and reference for us to confirm which details suit the order."}},
+        {"@type": "Question", "name": "Can you make a “Bride to Be” cake?", "acceptedAnswer": {"@type": "Answer", "text": "Send the exact wording and design reference. We can confirm whether the inscription and requested decoration fit the hand-piped buttercream design for your date."}},
+        {"@type": "Question", "name": "What size cake do I need for a bridal shower?", "acceptedAnswer": {"@type": "Answer", "text": "Tell us the guest count and whether cake is the only dessert. The 4-inch Bento is for two generous or three modest slices; for a group, ask about a larger custom cake and confirm the serving plan with us."}},
+        {"@type": "Question", "name": "Do you deliver bridal shower cakes to venues?", "acceptedAnswer": {"@type": "Answer", "text": "Delivery is available by arrangement in Cebu City, Mandaue and Lapu-Lapu. Send the full venue address, entrance and receiving contact so we can confirm the route, delivery window and charge. We do not set up the cake at the venue."}},
+        {"@type": "Question", "name": "How early should I order?", "acceptedAnswer": {"@type": "Answer", "text": "At least three days before the shower. Ask earlier for weekends and detailed designs; wait for availability confirmation before paying a deposit."}}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.thewhitecakes.com/"},
+        {"@type": "ListItem", "position": 2, "name": "Journal", "item": "https://www.thewhitecakes.com/journal/"},
+        {"@type": "ListItem", "position": 3, "name": "Bridal Shower Cake in Cebu: Design and Delivery Guide", "item": "https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html"}
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- ===== FILE: 25-monthsary-cake-cebu.md ===== -->
 ---
 title: "Monthsary Cake in Cebu | Bento Cake for Two"
