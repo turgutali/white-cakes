@@ -109,16 +109,19 @@
 |---|---|
 | Bisaya Birthday Cake Messages for a Cebu Celebration | `bisaya-birthday-cake-messages-cebu.html` |
 
+| 092 | Civil Wedding Cake in Cebu: A Simple Planning Guide | Cake para sa Civil Wedding sa Cebu: Yano nga Giya sa Pagplano | Cake para sa Civil Wedding sa Cebu: Simpleng Gabay sa Pagpaplano | Coordinate a civil ceremony, separate reception, venue rules and delivery handoff. |
+| 093 | 40th Birthday Cake in Cebu: Design, Size and Message | Cake para sa Ika-40 nga Birthday sa Cebu: Disenyo, Gidak-on ug Mensahe | 40th Birthday Cake sa Cebu: Disenyo, Sukat at Mensahe | Plan a milestone celebration around the person, guest count and cake message. |
+
 ## Queue: next trilingual topics
 
 ### Next priority tranche (editorial hypotheses, not volume claims)
 
 | # | English topic | Cebuano topic | Tagalog topic | Distinct reader need |
 |---:|---|---|---|---|
-| 92 | Lambeth Piping Cake in Cebu: Ornate Buttercream Details | Lambeth Cake sa Cebu: Dekorasyon nga Hand-Piped Buttercream | Lambeth Cake sa Cebu: Detalyadong Hand-Piped Buttercream | A technique-led design guide; write only if the current hand-piped portfolio can support and accurately show this style. |
+| 94 | Cake for a Small Cebu Civil Reception: Serving and Venue Checklist | Cake para sa Gamay nga Civil Reception sa Cebu: Serving ug Checklist sa Venue | Cake para sa Maliit na Civil Reception sa Cebu: Serving at Venue Checklist | Keep only if search evidence or customer questions show a distinct need from the civil wedding guide; otherwise combine. |
 
 ## Current progress
 
-- Mainline inventory: 91 trilingual topic groups and 1 English-only article.
-- This release includes the Joint Sibling Birthday Cake trilingual topic group; the next numbered topic begins at 92.
-- The full 1,000-topic calendar is still being built; the numbered queue continues in the next batches. Do not treat this first queue as the complete plan.
+- Mainline inventory: 93 trilingual topic groups and 1 English-only article.
+- This release adds original civil wedding and 40th birthday guides in English, Cebuano and Tagalog.
+- The full 1,000-topic calendar is still being built; the numbered queue continues in the next batches. Do not treat this inventory as the complete plan.
