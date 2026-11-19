@@ -1,38 +1,51 @@
 ---
 id: WC-0314
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; case studies require real approved photos
-english_title: "How to match the design of anniversary cake in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa anibersaryo sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "Matching an Anniversary Cake to Your Cebu Celebration"
+cebuano_title: "Pagpahiangay sa Anniversary Cake sa Selebrasyon sa Cebu"
+tagalog_title: "Pagtutugma ng Anniversary Cake sa Selebrasyon sa Cebu"
 ---
 
-## Use a shared memory or preference as the design’s focal point
+## English
 
-An anniversary cake can reflect a favourite flower, shared place, colour, or short phrase. Choose one detail that feels meaningful to the couple and explain it to the bakery. A reference image can help, but say which part matters and allow the baker to adapt it to the cake’s size and finish.
+# Matching an Anniversary Cake to Your Cebu Celebration
 
-Confirm the date, expected servings, cake size, flavour, exact wording, and delivery plan separately. Ask whether the design fits the chosen cake and budget. If you share a personal photo as inspiration, get permission from anyone pictured.
+Match the cake to the kind of anniversary celebration you are hosting. A private dinner can suit a restrained design and short message; a family gathering may leave room for names, flowers, or a colour the couple shares; a larger party may need lettering and decoration that read clearly from across the room. Decide how formal or relaxed the event will feel before you choose a reference image.
 
-Add this as an example in the main design guide. A standalone anniversary portfolio story needs a real cake, original photo, and customer consent.
+The table and venue can help narrow the design. Consider the space available, lighting, background, and how long the cake will be displayed. If it will be part of photographs, choose a clear contrast between the message and frosting and avoid placing several details around the lettering. If the cake is served soon after dinner, a simple top may work better than a design that needs extended display or careful transport.
+
+Use the couple’s story selectively. Choose one shared interest, colour, flower, or phrase rather than combining every symbol from their relationship. A small detail often feels more personal when the rest of the cake stays clean. If the event is a surprise, check that the design does not reveal private information the couple has not agreed to share.
+
+White Cakes decorates with hand-piped buttercream. Explain which part of a reference matters and ask what can be adapted to the selected product size. Send the exact inscription, names, anniversary year, event date, and serving or delivery plan together. The bakery can then confirm the design layout, lettering space, availability, and complete quote. For more planning prompts, see the [Cebu cake design guide](/journal/cake-designs-cebu.html) and [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Pagpahiangay sa Anniversary Cake sa Selebrasyon sa Cebu
+
+Ihaom ang cake sa matang sa selebrasyon sa anibersaryo. Mahimong mohaom sa pribadong panihapon ang simple nga disenyo ug mubo nga mensahe; ang tapok sa pamilya mahimong adunay luna sa ngalan, bulak o kolor nga paborito sa magtiayon; ang mas dakong party mahimong manginahanglan og letra ug dekorasyon nga mabasa gikan sa layo. Desisyoni una kung pormal o relaks ang event sa dili pa mopili og reference image.
+
+Makatabang ang lamesa ug venue sa pagpili. Hunahunaa ang luna, suga, background ug kadugayon sa display. Kung picturan ang cake, pagpili og klarong kalainan sa kolor tali sa mensahe ug frosting ug likayi ang daghang detalye libot sa letra. Kung i-serve dayon human sa panihapon, mahimong mas praktikal ang yano nga ibabaw kaysa disenyo nga dugay ipakita o lisod dad-on.
+
+Pagpili lang og pipila ka detalye sa istorya sa magtiayon. Paggamit og usa ka hilig nga gipaambit, kolor, bulak o pulong imbis isagol ang tanang simbolo sa ilang relasyon. Kasagarang mas personal ang usa ka gamay nga detalye kon simple ang ubang bahin sa cake. Kung surprise ang event, susiha nga dili ibutyag sa disenyo ang pribadong impormasyon nga wala pa nila tugoti nga ipaambit.
+
+Hand-piped buttercream ang dekorasyon sa White Cakes. Ipasabot unsang bahin sa reference ang importante ug pangutan-a unsay mapaangay sa napiling gidak-on. Ipadala nga magkauban ang eksaktong mensahe, ngalan, tuig sa anibersaryo, petsa sa event ug plano sa pag-serve o delivery. Makakumpirma dayon ang panaderya sa layout, luna sa letra, availability ug tibuok quote. Para sa dugang pangutana sa pagplano, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html) ug [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Pagtutugma ng Anniversary Cake sa Selebrasyon sa Cebu
+
+Itugma ang cake sa uri ng anniversary celebration na iho-host mo. Maaaring bagay sa pribadong hapunan ang mahinahong disenyo at maikling mensahe; maaaring maglaan ng pangalan, bulaklak, o kulay na pareho nilang gusto ang pagtitipon ng pamilya; maaaring kailanganin ng mas malaking party ang lettering at dekorasyong mababasa mula sa kabilang panig ng kuwarto. Pagpasiyahan muna kung pormal o relaxed ang event bago pumili ng reference image.
+
+Makakatulong pumili ang mesa at venue. Isaalang-alang ang espasyo, ilaw, background, at tagal ng display. Kung kukunan ng litrato ang cake, pumili ng malinaw na contrast ng mensahe at frosting at iwasang maglagay ng maraming detalye sa paligid ng lettering. Kung ihahain ito agad pagkatapos ng hapunan, maaaring mas praktikal ang simpleng ibabaw kaysa disenyong kailangang matagal naka-display o maingat na dalhin.
+
+Pumili lang ng ilang detalye mula sa kuwento ng mag-partner. Gumamit ng isang pinagsasaluhang hilig, kulay, bulaklak, o parirala sa halip na pagsamahin ang lahat ng simbolo ng relasyon nila. Kadalasang mas personal ang isang maliit na detalye kapag simple ang ibang bahagi ng cake. Kung sorpresa ang event, tiyaking hindi ibinubunyag ng disenyo ang pribadong impormasyong hindi pa nila pinahintulutang ibahagi.
+
+Hand-piped buttercream ang dekorasyon ng White Cakes. Ipaliwanag kung aling bahagi ng reference ang mahalaga at itanong kung ano ang maaaring iangkop sa napiling sukat ng produkto. Ipadala nang magkakasama ang eksaktong inscription, mga pangalan, taon ng anniversary, petsa ng event, at serving o delivery plan. Makukumpirma ng bakery ang layout ng disenyo, lettering space, availability, at buong quote. Para sa dagdag na planning prompt, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html) at [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Gamita ang gipaambit nga memorya o gusto isip sentro sa disenyo
-
-Ang cake sa anibersaryo mahimong magpakita sa usa ka paborito nga bulak, gipaambit nga lugar, kolor, o mubo nga hugpong sa mga pulong. Pagpili og usa ka detalye nga makahuluganon sa magtiayon ug ipasabot kini sa panaderya. Makatabang ang usa ka reperensya nga imahe, apan isulti kung unsang bahin ang hinungdanon ug tugoti ang panadero nga ipahiangay kini sa gidak-on ug pagkahuman sa cake.
-
-Kumpirma ang petsa, gipaabot nga mga servings, gidak-on sa cake, lami, eksakto nga pulong, ug plano sa pagpadala nga gilain. Pangutan-a kung ang disenyo mohaum ba sa gipili nga cake ug badyet. Kung nagpaambit ka og personal nga litrato isip inspirasyon, pagpangayo og pagtugot gikan sa bisan kinsa nga gihulagway.
-
-Idugang kini isip usa ka pananglitan sa nag-unang giya sa disenyo. Ang usa ka standalone nga istorya sa portfolio sa anibersaryo nanginahanglan usa ka tinuud nga cake, orihinal nga litrato, ug pagtugot sa kustomer.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng nakabahaging memorya o kagustuhan bilang focal point ng disenyo
-
-Ang isang anibersaryo na cake ay maaaring magpakita ng isang paboritong bulaklak, nakabahaging lugar, kulay, o maikling parirala. Pumili ng isang detalye na makahulugan sa mag-asawa at ipaliwanag ito sa panaderya. Makakatulong ang isang reference na larawan, ngunit sabihin kung aling bahagi ang mahalaga at payagan ang panadero na iakma ito sa laki at pagtatapos ng cake.
-
-Kumpirmahin ang petsa, inaasahang mga serving, laki ng cake, lasa, eksaktong salita, at plano sa paghahatid nang hiwalay. Itanong kung ang disenyo ay akma sa napiling cake at badyet. Kung nagbabahagi ka ng isang personal na larawan bilang inspirasyon, humingi ng pahintulot mula sa sinumang nakalarawan.
-
-Idagdag ito bilang isang halimbawa sa pangunahing gabay sa disenyo. Ang isang standalone na kuwento ng portfolio ng anibersaryo ay nangangailangan ng isang tunay na cake, orihinal na larawan, at pahintulot ng customer.
+- Confirm current product size, design capability, availability, and lettering space before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,51 @@
 ---
 id: WC-0308
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html and /journal/anniversary-cakes-cebu.html
-english_title: "How to estimate servings for anniversary cake in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa anibersaryo sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "How Much Anniversary Cake to Order for Your Cebu Guests"
+cebuano_title: "Pila ka Anniversary Cake ang I-order para sa mga Bisita sa Cebu"
+tagalog_title: "Gaano Karaming Anniversary Cake ang O-orderin para sa mga Bisita sa Cebu"
 ---
 
-## Estimate anniversary-cake portions from who will share dessert
+## English
 
-Count the people likely to eat cake and decide whether you want full party slices or smaller portions after a meal. White Cakes' current guide estimates about 8–12 slices from a 6-inch round and 16–24 from an 8-inch. A common 6-inch-plus-8-inch two-tier design is planned for roughly 30–36. The 4-inch Bento is intended for two generous or three modest servings. These are planning ranges; the cut and design can change the total.
+# How Much Anniversary Cake to Order for Your Cebu Guests
 
-For a quiet anniversary meal for two, a Bento may be enough. For family or friends, compare a larger custom cake with the guest count and ask the bakery to confirm the best size. Tell them if other desserts will be served or if guests will take slices home.
+Estimate servings from the guests who will actually eat cake, not from the invitation count alone. An anniversary dinner for two, a family gathering, and a party with colleagues have very different serving needs. Tell the bakery whether the cake follows a meal, whether other desserts will be served, and if guests will be seated together or arrive in several groups.
 
-Choose the design and flavour after deciding how many people will share. Signature Marble has an established 6-inch look, Bouquet Cake is floral and quoted by scale, and custom buttercream can follow a brief. Request the current quote and a portion recommendation for the selected design.
+White Cakes’ current size guide estimates about 8–12 party slices from a 6-inch round cake and 16–24 from an 8-inch round. A common 6-inch plus 8-inch two-tier cake is estimated at roughly 30–36 party slices. A 4-inch Bento is intended for about two generous or three modest portions after a meal. These are planning ranges; the height, shape, decoration, and size of each cut affect the count. Confirm the serving recommendation for your chosen product and design.
 
-Keep the estimates on the central size guide and link from the anniversary page. A separate occasion serving table would repeat the same size math and risk inconsistent counts.
+For a couple’s private dinner, a small cake may be enough if it is the centrepiece after a meal. For a family party, count the guests likely to stay for dessert and consider whether people will want a full slice or a taste alongside other sweets. For an office anniversary celebration, use the number expected at cake time rather than the company roster. If attendance is uncertain, provide a range and ask what size works for both ends of it.
+
+Also account for the display and cutting plan. A tall or multi-tier cake may need more table space and a person comfortable portioning it. Ask the bakery how the design affects serving and whether a different size or format would be easier. The [Cebu cake-size guide](/journal/cake-sizes-cebu.html) gives the starting ranges; the bakery can confirm the actual plan for your order.
+
+## Cebuano
+
+# Pila ka Anniversary Cake ang I-order para sa mga Bisita sa Cebu
+
+Banabanaa ang servings base sa mga bisitang mokaon gyud sa cake, dili lang sa gidaghanon sa giimbitar. Lahi ang kinahanglan sa panihapon sa duha, tapok sa pamilya ug party uban sa kauban sa trabaho. Isulti sa panaderya kung human ba sa pagkaon ang cake, kung adunay laing dessert ug kung dungan ba molingkod ang mga bisita o mag-abot sa lain-laing grupo.
+
+Nagbanabana ang kasamtangang size guide sa White Cakes og 8–12 ka party slice sa 6-inch round cake ug 16–24 sa 8-inch round. Mga 30–36 ka party slice ang banabana sa kasagarang 6-inch plus 8-inch nga two-tier cake. Para sa 4-inch Bento, mga duha ka dagkong serving o tulo ka gagmay human sa pagkaon ang tuyo. Banabana kini sa pagplano; makaapekto ang kataas, porma, dekorasyon ug gidak-on sa hiwa. Kumpirmaha sa panaderya ang giya sa servings para sa napiling produkto ug disenyo.
+
+Para sa pribadong panihapon sa magtiayon, mahimong igo ang gamay nga cake kon human sa pagkaon kini ang sentro sa selebrasyon. Para sa tapok sa pamilya, ihapa ang magpabilin sa oras sa dessert ug hunahunaa kung tibuok hiwa o tikim lang ang gusto uban sa laing tam-is. Para sa anniversary party sa opisina, gamita ang ihap sa naa sa oras sa cake imbis roster sa kompanya. Kung dili sigurado ang attendance, ihatag ang range ug pangutan-a unsang gidak-on ang mohaom sa ubos ug taas nga ihap.
+
+Tagda usab ang display ug paghiwa. Mahimong manginahanglan og mas dakong luna sa lamesa ang taas o multi-tier nga cake ug tawo nga kabalo moportion niini. Pangutan-a ang panaderya unsay epekto sa disenyo sa servings ug kung mas sayon ba ang laing gidak-on o format. Ang [Cebu cake-size guide](/journal/cake-sizes-cebu.html) naghatag sa sinugdanang banabana; ang panaderya maoy mokumpirma sa aktuwal nga plano sa inyong order.
+
+## Tagalog
+
+# Gaano Karaming Anniversary Cake ang O-orderin para sa mga Bisita sa Cebu
+
+Tantiyahin ang servings batay sa mga bisitang talagang kakain ng cake, hindi lang sa bilang ng inimbitahan. Magkaiba ang pangangailangan ng hapunan para sa dalawa, pagtitipon ng pamilya, at party kasama ang mga katrabaho. Sabihin sa bakery kung pagkatapos ba ng pagkain ihahain ang cake, kung may iba pang dessert, at kung sabay-sabay uupo ang mga bisita o darating sa ilang grupo.
+
+Tinatantiya ng kasalukuyang size guide ng White Cakes ang 8–12 party slices mula sa 6-inch round cake at 16–24 mula sa 8-inch round. Tinatayang 30–36 party slices naman ang karaniwang 6-inch plus 8-inch na two-tier cake. Para sa 4-inch Bento, mga dalawang generous o tatlong modest na portion pagkatapos kumain ang layunin. Mga planning range ang mga ito; nakaaapekto sa bilang ang taas, hugis, dekorasyon, at laki ng bawat hiwa. Kumpirmahin sa bakery ang rekomendasyon sa servings para sa napiling produkto at disenyo.
+
+Para sa pribadong hapunan ng mag-partner, maaaring sapat ang maliit na cake kung ito ang centerpiece pagkatapos kumain. Para sa pagtitipon ng pamilya, bilangin ang mga malamang na manatili sa oras ng dessert at pag-isipan kung gusto nila ng buong slice o tikim lang kasabay ng ibang matamis. Para sa anniversary celebration sa opisina, gamitin ang bilang ng naroon kapag oras na ng cake sa halip na roster ng kumpanya. Kung hindi tiyak ang attendance, magbigay ng range at itanong kung anong sukat ang babagay sa mababa at mataas na bilang.
+
+Isaalang-alang din ang display at paghiwa. Maaaring mangailangan ng mas malaking mesa ang mataas o multi-tier na cake at taong komportableng mag-portion nito. Itanong sa bakery kung paano makaaapekto ang disenyo sa servings at kung mas madaling ihain ang ibang sukat o format. Ibinibigay ng [Cebu cake-size guide](/journal/cake-sizes-cebu.html) ang panimulang range; makukumpirma ng bakery ang aktuwal na plano para sa order mo.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ibanabana ang anibersaryo-cake nga mga bahin gikan sa kinsay moambit sa dessert
-
-Pag-ihap sa mga tawo nga lagmit mokaon sa cake ug pagdesisyon kung gusto nimo ang bug-os nga mga hiwa sa party o mas gagmay nga mga bahin pagkahuman sa pagpangaon. Ang kasamtangang giya sa White Cakes nagbanabana ug mga 8–12 ka hiwa gikan sa 6-pulgada nga lingin ug 16–24 gikan sa 8-pulgada. Ang usa ka kasagaran nga 6-pulgada-plus-8-pulgada nga duha ka lebel nga disenyo giplano alang sa halos 30-36. Ang 4-pulgada nga Bento gituyo alang sa duha ka manggihatagon o tulo ka kasarangan nga pag-alagad. Kini mao ang mga han-ay sa pagplano; ang pagputol ug disenyo makausab sa kinatibuk-an.
-
-Alang sa usa ka hilum nga anibersaryo nga pagkaon alang sa duha, ang usa ka Bento mahimong igo na. Para sa pamilya o mga higala, itandi ang usa ka mas dako nga custom nga cake sa ihap sa bisita ug hangyoa ang panaderya sa pagkumpirma sa pinakamaayo nga gidak-on. Sultihi sila kon ang ubang mga dessert isilbi o kon ang mga bisita magdala og mga hiwa sa balay.
-
-Pilia ang desinyo ug lami human makadesisyon kon pila ka tawo ang makigbahin. Ang Signature Marble adunay usa ka natukod nga 6-pulgada nga hitsura, ang Bouquet Cake bulak ug gikutlo pinaagi sa sukod, ug ang naandan nga buttercream mahimo nga magsunod sa usa ka mubo. Paghangyo sa kasamtangan nga kinutlo ug usa ka rekomendasyon sa bahin alang sa pinili nga disenyo.
-
-Itago ang mga banabana sa sentro nga giya sa gidak-on ug link gikan sa panid sa anibersaryo. Ang usa ka separado nga lamesa sa pagsilbi nga okasyon magsubli sa parehas nga gidak-on sa matematika ug peligro nga dili managsama nga mga ihap.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang mga bahagi ng anibersaryo-cake mula sa kung sino ang magbabahagi ng dessert
-
-Bilangin ang mga taong malamang na kumain ng cake at magpasya kung gusto mo ng buong party slice o mas maliliit na bahagi pagkatapos kumain. Tinatantya ng kasalukuyang gabay ng White Cakes ang tungkol sa 8–12 hiwa mula sa 6-pulgadang bilog at 16–24 mula sa 8-pulgada. Ang isang karaniwang 6-pulgada-plus-8-pulgada na dalawang-tier na disenyo ay binalak para sa humigit-kumulang 30–36. Ang 4-inch Bento ay inilaan para sa dalawang mapagbigay o tatlong katamtamang serving. Ito ay mga saklaw ng pagpaplano; ang hiwa at disenyo ay maaaring magbago ng kabuuan.
-
-Para sa isang tahimik na pagkain sa anibersaryo para sa dalawa, maaaring sapat na ang isang Bento. Para sa pamilya o mga kaibigan, ihambing ang isang mas malaking custom na cake sa bilang ng bisita at hilingin sa panaderya na kumpirmahin ang pinakamagandang sukat. Sabihin sa kanila kung iba pang mga dessert ang ihahain o kung ang mga bisita ay mag-uuwi ng mga hiwa.
-
-Piliin ang disenyo at lasa pagkatapos magpasya kung gaano karaming tao ang magbabahagi. Ang Signature Marble ay may matatag na 6-inch na hitsura, ang Bouquet Cake ay floral at naka-quote ayon sa sukat, at ang custom na buttercream ay maaaring sumunod sa isang maikling. Hilingin ang kasalukuyang quote at rekomendasyon sa bahagi para sa napiling disenyo.
-
-Panatilihin ang mga pagtatantya sa gitnang gabay sa laki at link mula sa pahina ng anibersaryo. Ang isang hiwalay na talahanayan ng paghahatid ng okasyon ay uulitin ang parehong laki ng matematika at nanganganib na hindi magkatugma ang mga bilang.
+- Serving estimates are from the current size guide and remain approximate; reconfirm against the live product before publication.
+- Cebuano and Tagalog drafts need native editorial review.

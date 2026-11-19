@@ -1,44 +1,51 @@
 ---
 id: WC-0305
-status: written-draft
-publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for anniversary cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa anibersaryo sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "When to Order an Anniversary Cake in Cebu"
+cebuano_title: "Kanus-a Mag-order og Anniversary Cake sa Cebu"
+tagalog_title: "Kailan Mag-order ng Anniversary Cake sa Cebu"
 ---
 
-## Order an anniversary cake with time to confirm the design
+## English
 
-Start by checking the event date with White Cakes. Made-to-order cakes require at least three days' notice, but contact the bakery earlier for a weekend, holiday, or a date the couple cannot move. Wait for a clear availability reply before planning around the cake.
+# When to Order an Anniversary Cake in Cebu
 
-Send the serving estimate, flavour, size, design idea, and exact inscription in one brief. If you are planning a surprise, identify a local person who can receive the cake and give the bakery a contact method that will not reveal the plan. For delivery, include the full address, landmark, and any gate or building instructions.
+Start planning an anniversary cake once the celebration date and venue are reasonably firm. The order timeline depends on the cake’s size, the decoration you request, and the bakery’s schedule, so ask White Cakes directly how much notice the chosen design needs. Its current ordering information sets at least three days’ notice as a minimum, with earlier contact recommended for busy weekends, larger cakes, and more involved designs. Availability still has to be confirmed for your exact date.
 
-Ask what design is feasible and request the confirmed price, delivery window, and fee. White Cakes' current size estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches; tell the bakery how many people will eat cake. A 50% deposit secures the agreed order once the details are settled.
+Before asking for a quote, settle the event basics: when the cake will be served, how many people are expected to eat it, whether it follows a meal, and whether you need pickup or delivery. Decide whether the anniversary is a private dinner, family gathering, or larger event. This affects the size question, inscription length, and where the cake should be handed over.
 
-Keep the anniversary timeline example in the central order guide so readers see one consistent lead-time rule.
+Send the bakery one clear design brief. Include the couple’s preferred names, the number of years if you want it shown, exact message, flavour from the current menu, one reference image, and any colour preferences. Confirm spelling with the people organizing the celebration. A surprise order should have one discreet contact who can answer the delivery call without alerting the celebrants.
+
+Once White Cakes confirms availability, review the total price, decoration, delivery fee if applicable, and payment terms. Current ordering information states that a 50% deposit confirms the agreed order after the details and price are settled. Check the quote and written confirmation before paying, then save the confirmed date and handoff plan. For a full checklist, see the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html) and [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Kanus-a Mag-order og Anniversary Cake sa Cebu
+
+Sugdi ang pagplano sa anniversary cake kon klaro na ang petsa ug venue sa selebrasyon. Magdepende ang timeline sa gidak-on, dekorasyon nga pangayoon ug iskedyul sa panaderya, busa pangutan-a direkta ang White Cakes kung pila ka adlaw daan ang kinahanglan sa napiling disenyo. Nagbutang ang kasamtangang ordering information og minimum nga tulo ka adlaw nga pahibalo; mas sayo nga pagkontak ang gisugyot para sa busy nga weekend, dagkong cake ug komplikadong disenyo. Kinahanglan gihapon kumpirmahon ang availability sa eksaktong petsa.
+
+Sa dili pa mangayo og quote, klaroha ang mga basihan sa event: kanus-a i-serve, pila ang gipaabot nga mokaon, human ba kini sa pagkaon ug pickup o delivery ba ang kinahanglan. Desisyoni kung pribadong panihapon, tapok sa pamilya o mas dakong event ang anibersaryo. Makaapekto kini sa gidak-on, gitas-on sa mensahe ug lugar sa pagdawat sa cake.
+
+Ipadala sa panaderya ang usa ka klarong brief sa disenyo. Iapil ang gustong ngalan sa magtiayon, ihap sa tuig kon ibutang, eksaktong mensahe, flavour sa kasamtangang menu, usa ka reference image ug gustong kolor. Kumpirmaha ang spelling uban sa organizer. Kung surprise, pagtudlo og sekretong contact nga makatubag sa tawag sa delivery nga dili makapahibalo sa celebrant.
+
+Human mokumpirma ang White Cakes sa availability, susiha ang tibuok presyo, dekorasyon, bayad sa delivery kon naa ug kondisyon sa bayad. Nagaingon ang kasamtangang ordering information nga mokumpirma sa nasabutang order ang 50% nga deposito human maklaro ang detalye ug presyo. Susiha ang quote ug sinulat nga kumpirmasyon sa dili pa mobayad, dayon tipigi ang petsa ug plano sa pagdawat. Para sa checklist, tan-awa ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html) ug [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Kailan Mag-order ng Anniversary Cake sa Cebu
+
+Simulan ang pagpaplano ng anniversary cake kapag malinaw na ang petsa at venue ng selebrasyon. Nakasalalay ang timeline sa sukat, hinihinging dekorasyon, at schedule ng bakery, kaya direktang itanong sa White Cakes kung gaano kaaga kailangang mag-order para sa napiling disenyo. Itinatakda ng kasalukuyang ordering information ang hindi bababa sa tatlong araw na notice; mas maagang pag-contact ang inirerekomenda para sa busy na weekend, mas malalaking cake, at mas masalimuot na disenyo. Kailangan pa ring kumpirmahin ang availability sa mismong petsa mo.
+
+Bago humingi ng quote, linawin ang pangunahing detalye ng event: kailan ihahain ang cake, ilan ang inaasahang kakain, kung pagkatapos ba ito ng pagkain, at kung pickup o delivery ang kailangan. Pagpasiyahan kung pribadong hapunan, pagtitipon ng pamilya, o mas malaking event ang anniversary. Nakaaapekto ito sa tanong tungkol sa sukat, haba ng mensahe, at handoff location.
+
+Magpadala sa bakery ng iisang malinaw na design brief. Isama ang gustong pangalan ng mag-partner, bilang ng taon kung ilalagay, eksaktong mensahe, flavour mula sa kasalukuyang menu, isang reference image, at gustong kulay. Kumpirmahin ang spelling kasama ng mga organizer. Kung sorpresa ang order, magtalaga ng discreet na contact na makasasagot sa tawag sa delivery nang hindi inaalerto ang celebrants.
+
+Kapag kinumpirma na ng White Cakes ang availability, suriin ang buong presyo, dekorasyon, delivery fee kung mayroon, at payment terms. Nakatala sa kasalukuyang ordering information na kinukumpirma ng 50% deposit ang napagkasunduang order kapag malinaw na ang detalye at presyo. Tingnan ang quote at nakasulat na confirmation bago magbayad, saka itabi ang kumpirmadong petsa at handoff plan. Para sa checklist, tingnan ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html) at [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-order usa ka anibersaryo nga cake nga adunay oras aron makumpirma ang disenyo
-
-Pagsugod pinaagi sa pagsusi sa petsa sa panghitabo gamit ang White Cakes. Ang hinimo nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, apan kontaka ang panaderya sa sayo pa alang sa usa ka semana, holiday, o usa ka petsa nga dili makalihok ang magtiayon. Paghulat alang sa usa ka klaro nga tubag sa dili pa magplano sa palibot sa cake.
-
-Ipadala ang banabana sa pagserbisyo, lami, gidak-on, ideya sa disenyo, ug eksaktong inskripsiyon sa usa ka mubo. Kung nagplano ka og usa ka sorpresa, pag-ila sa usa ka lokal nga tawo nga makadawat sa cake ug hatagi ang panaderya og paagi sa pagkontak nga dili magpadayag sa plano. Para sa paghatod, iapil ang kompleto nga adres, landmark, ug bisan unsang gate o building instructions.
-
-Pangutan-a kung unsa nga disenyo ang mahimo ug hangyoa ang gikumpirma nga presyo, bintana sa pagpadala, ug bayad. Ang gibanabana nga gidak-on karon sa White Cakes mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada; sultihi ang panaderya kung pila ang mokaon ug cake. Ang 50% nga deposito nagsiguro sa gikasabutan nga order sa higayon nga ang mga detalye masulbad.
-
-Itago ang panig-ingnan sa timeline sa anibersaryo sa sentro nga giya sa han-ay aron makita sa mga magbabasa ang usa ka makanunayon nga lagda sa lead-time.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-order ng isang anibersaryo cake na may oras upang kumpirmahin ang disenyo
-
-Magsimula sa pamamagitan ng pagsuri sa petsa ng kaganapan gamit ang White Cake. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, ngunit makipag-ugnayan sa panaderya nang mas maaga para sa isang weekend, holiday, o isang petsa na hindi makagalaw ang mag-asawa. Maghintay para sa isang malinaw na tugon sa availability bago magplano sa paligid ng cake.
-
-Ipadala ang pagtatantya ng paghahatid, lasa, laki, ideya sa disenyo, at eksaktong inskripsiyon sa isang maikling. Kung nagpaplano ka ng sorpresa, tukuyin ang isang lokal na tao na maaaring tumanggap ng cake at bigyan ang panaderya ng paraan ng pakikipag-ugnayan na hindi magbubunyag ng plano. Para sa paghahatid, isama ang buong address, landmark, at anumang mga tagubilin sa gate o gusali.
-
-Itanong kung anong disenyo ang magagawa at hilingin ang kumpirmadong presyo, palugit ng paghahatid, at bayad. Ang kasalukuyang mga pagtatantya ng laki ng White Cakes ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada; sabihin sa panaderya kung gaano karaming tao ang kakain ng cake. Sinisiguro ng 50% na deposito ang napagkasunduang order kapag naayos na ang mga detalye.
-
-Panatilihin ang halimbawa ng timeline ng anibersaryo sa gitnang gabay sa pagkakasunud-sunod para makita ng mga mambabasa ang isang pare-parehong panuntunan sa lead-time.
+- Reconfirm minimum lead time, seasonal availability, current deposit/payment terms, and delivery service before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,51 @@
 ---
 id: WC-0306
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "What to include in a custom brief for anniversary cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa anibersaryo sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "What to Include in an Anniversary Cake Brief in Cebu"
+cebuano_title: "Unsa ang Iapil sa Brief para sa Anniversary Cake sa Cebu"
+tagalog_title: "Ano ang Isasama sa Brief para sa Anniversary Cake sa Cebu"
 ---
 
-## Write an anniversary-cake brief the bakery can act on
+## English
 
-Include the event date, number of people who will eat cake, preferred size, flavour, and pickup or delivery plan. If the cake is a surprise, name a local contact who can receive it and explain whether the recipient must not be contacted. A clear practical brief helps the bakery check date and delivery availability.
+# What to Include in an Anniversary Cake Brief in Cebu
 
-For the design, describe the mood in simple terms and choose a few priorities: perhaps a colour palette, a small floral accent, or a short inscription. Attach one or two references and explain which details to use. Send the message exactly as it should appear. Ask White Cakes to confirm the design's feasibility and the final price; do not assume a reference will be copied exactly.
+A useful anniversary cake brief tells the bakery what the celebration means to the couple and what needs to happen on the day. You do not need to share private relationship details. One or two personal cues are enough to guide the design while keeping the message comfortable for the people who will see the cake.
 
-Current serving estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Confirm the size against your actual guest plan. White Cakes requires at least three days' notice for made-to-order cakes, and a 50% deposit confirms the agreed order after design and delivery terms are settled.
+Begin with the practical information: date, serving time, venue or delivery address, expected guests at cake time, and the name and mobile number of the order contact. State whether the cake follows a meal and whether it is the only dessert. Ask the bakery to recommend a size from its current products based on that plan rather than choosing from a photo.
 
-Keep this anniversary checklist as an example in the central custom-cake brief guide rather than repeating the same instructions on another URL.
+For the design, include the couple’s preferred names, the anniversary year if it should appear, exact inscription, current-menu flavour, and one clear reference photo. Explain what you like about the reference—perhaps its colours, clean layout, or small floral detail—and what may be changed. If you are ordering for someone else, verify the names and anniversary number with the couple or a trusted family member. Do not guess a year from an old social post.
+
+Tell the bakery whether the celebration is a surprise and who can answer a delivery call. Share any practical venue rules, such as a gate instruction, lobby handoff, or building contact. White Cakes uses hand-piped buttercream; ask how the chosen message and decoration can be adapted to the selected size. Then request the full quote and confirm flavour, date, spelling, design notes, and delivery or pickup in writing. For more prompts, see the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) and [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Brief para sa Anniversary Cake sa Cebu
+
+Ang maayong brief mosulti sa panaderya sa kahulogan sa selebrasyon para sa magtiayon ug unsay kinahanglan mahitabo sa maong adlaw. Dili kinahanglan ipaambit ang pribadong detalye sa relasyon. Igo na ang usa o duha ka personal nga timailhan aron mogiya sa disenyo ug komportable gihapon ang mensahe para sa mga makakita sa cake.
+
+Sugdi sa praktikal nga impormasyon: petsa, oras sa pag-serve, venue o delivery address, banabana sa bisita sa oras sa cake ug ngalan ug mobile number sa order contact. Isulti kung human ba kini sa pagkaon ug kung cake ra ba ang dessert. Hangyoa ang panaderya nga mosugyot og gidak-on base sa kasamtangang produkto ug plano imbis mopili base lang sa litrato.
+
+Para sa disenyo, iapil ang gustong ngalan sa magtiayon, tuig sa anibersaryo kon ipakita, eksaktong inskripsiyon, flavour sa kasamtangang menu ug usa ka klarong reference photo. Ipasabot unsay gusto nimo sa reference—tingali ang kolor, limpyo nga layout o gamay nga bulak—ug unsay mahimong usbon. Kung para sa uban ang order, kumpirmaha ang ngalan ug ihap sa tuig sa magtiayon o kasaligan nga paryente. Ayaw pangagpas base sa karaang social post.
+
+Pahibal-a ang panaderya kung surprise ang selebrasyon ug kinsa ang motubag sa tawag sa delivery. Ipaambit ang lagda sa venue sama sa instruksyon sa gate, handoff sa lobby o contact sa building. Hand-piped buttercream ang gamit sa White Cakes; pangutan-a unsaon pagpahiangay sa mensahe ug dekorasyon sa napiling gidak-on. Pangayoa dayon ang tibuok quote ug kumpirmaha sa sinulat ang flavour, petsa, spelling, detalye sa disenyo ug delivery o pickup. Para sa dugang prompt, tan-awa ang [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) ug [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Brief para sa Anniversary Cake sa Cebu
+
+Ipinapaliwanag ng maayos na brief sa bakery kung ano ang kahulugan ng selebrasyon para sa mag-partner at ano ang kailangang mangyari sa araw na iyon. Hindi kailangang ibahagi ang pribadong detalye ng relasyon. Sapat na ang isa o dalawang personal na cue para gabayan ang disenyo habang nananatiling komportable ang mensahe para sa mga makakakita sa cake.
+
+Magsimula sa praktikal na impormasyon: petsa, oras ng paghahain, venue o delivery address, tantiya sa dadalo kapag oras na ng cake, at pangalan at mobile number ng order contact. Sabihin kung pagkatapos ba ito ng pagkain at kung cake lang ang dessert. Hilingin sa bakery na magmungkahi ng sukat mula sa kasalukuyan nitong produkto batay sa plano sa halip na pumili batay lang sa larawan.
+
+Para sa disenyo, isama ang gustong pangalan ng mag-partner, taon ng anniversary kung ilalagay, eksaktong inscription, flavour mula sa kasalukuyang menu, at isang malinaw na reference photo. Ipaliwanag kung ano ang gusto mo sa reference—maaaring kulay, malinis na layout, o maliit na floral detail—at alin ang puwedeng baguhin. Kung para sa iba ang order, tiyakin ang pangalan at bilang ng taon sa mag-partner o mapagkakatiwalaang kapamilya. Huwag manghula batay sa lumang social post.
+
+Sabihin sa bakery kung sorpresa ang selebrasyon at sino ang sasagot sa tawag sa delivery. Ibahagi ang praktikal na tuntunin ng venue, gaya ng tagubilin sa gate, handoff sa lobby, o contact sa building. Hand-piped buttercream ang gamit ng White Cakes; itanong kung paano iaangkop ang mensahe at dekorasyon sa napiling sukat. Pagkatapos ay hingin ang buong quote at kumpirmahin sa sulat ang flavour, petsa, spelling, design notes, at delivery o pickup. Para sa iba pang prompt, tingnan ang [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) at [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagsulat ug anniversary-cake brief nga mahimo sa panaderya
-
-Ilakip ang petsa sa panghitabo, gidaghanon sa mga tawo nga mokaon sa cake, gusto nga gidak-on, lami, ug plano sa pagkuha o paghatud. Kung ang cake usa ka sorpresa, hinganli ang usa ka lokal nga kontak nga makadawat niini ug ipasabut kung kinahanglan ba nga dili makontak ang nakadawat. Ang usa ka tin-aw nga praktikal nga mubo makatabang sa petsa sa pagsusi sa panaderya ug pagkaanaa sa pagpadala.
-
-Alang sa disenyo, ihulagway ang mood sa yano nga mga termino ug pagpili og pipila ka mga prayoridad: tingali usa ka paleta sa kolor, usa ka gamay nga accent sa bulak, o usa ka mubo nga inskripsiyon. Ilakip ang usa o duha ka reperensya ug ipasabut kung unsang mga detalye ang gamiton. Ipadala ang mensahe sa eksakto kung unsa kini kinahanglan nga makita. Pangutan-a ang White Cakes aron kumpirmahon ang posibilidad sa disenyo ug ang katapusang presyo; ayaw hunahunaa nga ang usa ka pakisayran makopya gyud.
-
-Ang mga banabana sa kasamtangan nga pagserbisyo mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kumpirma ang gidak-on batok sa imong aktwal nga plano sa bisita. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga pag-order nga mga cake, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order pagkahuman nahusay ang disenyo ug mga termino sa pagpadala.
-
-Itago kini nga checklist sa anibersaryo isip usa ka pananglitan sa sentro nga custom-cake mubo nga giya imbes nga balikon ang parehas nga mga panudlo sa laing URL.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Sumulat ng anniversary-cake brief na maaaring gawin ng panaderya
-
-Isama ang petsa ng kaganapan, bilang ng mga taong kakain ng cake, gustong laki, lasa, at pickup o delivery plan. Kung ang cake ay isang sorpresa, pangalanan ang isang lokal na contact na makakatanggap nito at ipaliwanag kung ang tatanggap ay hindi dapat makipag-ugnayan. Ang isang malinaw na praktikal na brief ay nakakatulong sa pag-check ng petsa ng panaderya at availability ng paghahatid.
-
-Para sa disenyo, ilarawan ang mood sa mga simpleng termino at pumili ng ilang priyoridad: marahil isang paleta ng kulay, isang maliit na floral accent, o isang maikling inskripsyon. Maglakip ng isa o dalawang sanggunian at ipaliwanag kung aling mga detalye ang gagamitin. Ipadala ang mensahe nang eksakto kung paano ito dapat lumitaw. Hilingin sa White Cakes na kumpirmahin ang pagiging posible ng disenyo at ang huling presyo; huwag ipagpalagay na eksaktong kokopyahin ang isang sanggunian.
-
-Ang kasalukuyang pagtatantya ng paghahatid ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin ang laki laban sa iyong aktwal na plano ng bisita. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, at ang 50% na deposito ay nagkukumpirma sa napagkasunduang order pagkatapos mabayaran ang mga tuntunin sa disenyo at paghahatid.
-
-Panatilihin ang checklist ng anibersaryo na ito bilang isang halimbawa sa gitnang custom-cake na maikling gabay sa halip na ulitin ang parehong mga tagubilin sa isa pang URL.
+- Confirm current menu, product sizes, delivery service, decoration method, and quote before publication.
+- Cebuano and Tagalog drafts need native editorial review.

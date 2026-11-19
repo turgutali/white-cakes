@@ -1,44 +1,51 @@
 ---
 id: WC-0307
-status: draft-needs-original-photo-case
-publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "How to choose a design for anniversary cake in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa anibersaryo sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "How to Choose an Anniversary Cake Design in Cebu"
+cebuano_title: "Giunsa Pagpili og Disenyo para sa Anniversary Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Disenyo para sa Anniversary Cake sa Cebu"
 ---
 
-## Choose an anniversary-cake design with one clear focal point
+## English
 
-Start with the feeling you want the cake to express: understated, floral, playful, or formal. Translate that into two or three concrete choices such as colour, border, and a small motif. A single focal detail usually communicates the idea more clearly than several unrelated symbols competing for space.
+# How to Choose an Anniversary Cake Design in Cebu
 
-Think about the cake's role at the celebration. If it is a small dessert after dinner, a simpler finish may suit the moment. If it will be displayed as a centrepiece, share the table palette and venue setting so the bakery can advise on contrast and scale. Include a short inscription, flavour, date, serving estimate, and one reference image in the brief. Ask whether the proposed changes fit the selected size and get the confirmed price.
+Choose an anniversary cake design around one detail that feels true to the couple. It could be a colour they both like, a flower from a meaningful day, or a simple symbol connected to a shared interest. You do not need to fit the whole relationship story on a cake. One thoughtful cue and a short inscription usually make a clearer design than a collection of unrelated symbols.
 
-White Cakes estimates 8–12 party slices for a 6-inch cake and 16–24 for an 8-inch cake. These are approximate portions; tell the bakery how the cake will be served. Made-to-order cakes require at least three days' notice, and the 50% deposit confirms an agreed design.
+Think about who will see the cake. A private dinner for two may suit a quiet design with a small message. A family celebration may need the couple’s names and anniversary year to be visible in photos. A larger event might call for a cleaner palette that works with the table setup. Tell the decorator where the cake will be displayed and whether guests will take photos before it is cut.
 
-This guidance can extend the existing design page. A standalone anniversary feature needs an original, approved White Cakes cake and specific documented design decisions; do not imply a customer story without that evidence.
+Use reference images to show the mood and layout you like, then explain which part matters most. If one image has flowers you like and another has a colour you want, say so instead of asking for an exact combination without explanation. White Cakes decorates in hand-piped buttercream, so a photo with fondant lettering or sculpted decorations may need to be simplified for the available technique and size.
+
+Keep the message readable. Confirm the couple’s names, years together, and exact wording before sending the brief. Ask the bakery to confirm whether the inscription fits the chosen size and how it will appear alongside the design. For a complete design checklist, see the [Cebu cake design guide](/journal/cake-designs-cebu.html) and [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili og Disenyo para sa Anniversary Cake sa Cebu
+
+Pagpili og disenyo base sa usa ka detalye nga tinuod para sa magtiayon. Mahimong kolor nga pareho nilang ganahan, bulak gikan sa makahuluganon nga adlaw o yano nga simbolo nga konektado sa ilang hilig. Dili kinahanglan ibutang sa cake ang tibuok istorya sa relasyon. Mas klaro kasagaran ang usa ka mahunahunaong timailhan ug mubo nga inskripsiyon kaysa daghang simbolo nga walay kalabotan.
+
+Hunahunaa kinsa ang makakita sa cake. Mahimong mohaom sa pribadong panihapon sa duha ang simple nga disenyo ug gamay nga mensahe. Para sa selebrasyon sa pamilya, angay makita sa litrato ang ngalan ug tuig sa anibersaryo. Para sa mas dakong event, mahimong mas angay ang limpyo nga palette nga mohaom sa dekorasyon sa lamesa. Isulti sa decorator asa ipakita ang cake ug kung picturan ba kini sa mga bisita sa dili pa hiwaon.
+
+Gamita ang reference image sa pagpakita sa mood ug layout nga gusto nimo, dayon ipasabut unsang bahin ang labing importante. Kung ganahan ka sa bulak sa usa ka litrato ug kolor sa lain, isulti kini imbis mangayo og eksaktong kombinasyon nga walay pagpasabot. Hand-piped buttercream ang dekorasyon sa White Cakes, busa mahimong pasimplehon ang litrato nga adunay fondant lettering o sculpture aron mohaom sa teknik ug gidak-on.
+
+Himoang mabasa ang mensahe. Kumpirmaha ang ngalan, gidugayon sa panag-uban ug eksaktong pulong sa dili pa ipadala ang brief. Pangutan-a ang panaderya kung moigo ba ang inskripsiyon sa napiling gidak-on ug unsaon pagpares niini sa disenyo. Para sa checklist, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html) ug [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Disenyo para sa Anniversary Cake sa Cebu
+
+Pumili ng disenyo ng anniversary cake batay sa isang detalyeng totoo para sa mag-partner. Maaaring kulay na pareho nilang gusto, bulaklak mula sa makabuluhang araw, o simpleng simbolong kaugnay ng pinagsasaluhang hilig. Hindi kailangang ilagay sa cake ang buong kuwento ng relasyon. Mas malinaw kadalasan ang isang pinag-isipang cue at maikling inscription kaysa koleksiyon ng mga simbolong walang kaugnayan.
+
+Isaalang-alang kung sino ang makakakita sa cake. Maaaring bagay sa pribadong hapunan ng dalawa ang payak na disenyo na may maliit na mensahe. Maaaring kailangang makita sa photos ng selebrasyon ng pamilya ang pangalan at taon ng anniversary. Para sa mas malaking event, maaaring mas angkop ang malinis na palette na babagay sa mesa. Sabihin sa decorator kung saan ipapakita ang cake at kung kukunan ito ng litrato bago hiwain.
+
+Gamitin ang reference images para ipakita ang mood at layout na gusto mo, saka ipaliwanag kung aling bahagi ang pinakamahalaga. Kung gusto mo ang bulaklak sa isang larawan at kulay sa isa pa, sabihin iyon sa halip na humingi ng eksaktong kombinasyon nang walang paliwanag. Hand-piped buttercream ang dekorasyon ng White Cakes, kaya maaaring kailangang pasimplehin ang larawang may fondant lettering o sculpted na dekorasyon para bumagay sa available na teknik at sukat.
+
+Panatilihing madaling basahin ang mensahe. Kumpirmahin ang pangalan ng mag-partner, taon ng pagsasama, at eksaktong wording bago ipadala ang brief. Itanong sa bakery kung kasya ang inscription sa napiling sukat at paano ito makikita kasabay ng disenyo. Para sa buong design checklist, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html) at [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug anibersaryo-cake nga disenyo nga adunay usa ka tin-aw nga focal point
-
-Pagsugod sa pagbati nga gusto nimo nga ipahayag sa cake: gamay, bulak, dula, o pormal. Hubara kana ngadto sa duha o tulo ka konkretong mga pagpili sama sa kolor, utlanan, ug gamay nga motif. Ang usa ka focal detail kasagarang nagpahibalo sa ideya nga mas tin-aw kay sa daghang wala'y kalabutan nga mga simbolo nga nakigkompetensya alang sa luna.
-
-Hunahunaa ang papel sa cake sa selebrasyon. Kung kini usa ka gamay nga dessert pagkahuman sa panihapon, ang usa ka yano nga pagkahuman mahimong mohaum sa higayon. Kung kini ipakita ingon usa ka sentro, ipaambit ang paleta sa lamesa ug setting sa lugar aron ang panaderya makatambag sa kalainan ug sukod. Ilakip ang usa ka mubo nga inskripsiyon, lami, petsa, banabana sa pagserbisyo, ug usa ka reference nga imahe sa mubo. Pangutan-a kung ang gisugyot nga mga pagbag-o mohaum sa gipili nga gidak-on ug makuha ang gikumpirma nga presyo.
-
-Gibanabana sa White Cakes ang 8–12 ka party slice para sa 6-pulgada nga cake ug 16–24 para sa 8-pulgada nga cake. Kini mao ang gibanabana nga mga bahin; sultihi ang panaderya kon unsaon pagsilbi ang cake. Ang made-to-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga disenyo.
-
-Kini nga giya makapalugway sa kasamtangan nga panid sa disenyo. Ang usa ka standalone nga anibersaryo nga bahin nanginahanglan usa ka orihinal, aprobahan nga White Cakes nga cake ug piho nga dokumentado nga mga desisyon sa disenyo; ayaw pagpasabot og istorya sa kustomer nga wala kana nga ebidensya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng anniversary-cake na disenyo na may isang malinaw na focal point
-
-Magsimula sa pakiramdam na gusto mong ipahayag ng cake: understated, floral, playful, o pormal. Isalin iyon sa dalawa o tatlong kongkretong pagpipilian gaya ng kulay, hangganan, at maliit na motif. Ang nag-iisang focal detail ay kadalasang nagbibigay ng ideya nang mas malinaw kaysa sa ilang hindi nauugnay na mga simbolo na nakikipagkumpitensya para sa espasyo.
-
-Isipin ang papel ng cake sa pagdiriwang. Kung ito ay isang maliit na dessert pagkatapos ng hapunan, ang isang mas simpleng tapusin ay maaaring angkop sa sandali. Kung ito ay ipapakita bilang centerpiece, ibahagi ang table palette at venue setting para makapagbigay ang panaderya sa contrast at scale. Magsama ng maikling inskripsiyon, lasa, petsa, pagtatantya ng paghahatid, at isang reference na larawan sa maikling. Tanungin kung ang mga iminungkahing pagbabago ay magkasya sa napiling laki at makuha ang kumpirmadong presyo.
-
-Tinatantya ng White Cakes ang 8–12 party slice para sa isang 6-inch na cake at 16–24 para sa isang 8-inch na cake. Ito ay mga tinatayang bahagi; sabihin sa panaderya kung paano ihain ang cake. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay ng isang napagkasunduang disenyo.
-
-Maaaring pahabain ng gabay na ito ang kasalukuyang pahina ng disenyo. Ang isang standalone na feature ng anibersaryo ay nangangailangan ng orihinal, naaprubahang White Cakes cake at mga partikular na dokumentadong desisyon sa disenyo; huwag magpahiwatig ng kuwento ng customer nang walang ebidensyang iyon.
+- Confirm current piping methods, cake sizes, and inscription capacity before publication.
+- Cebuano and Tagalog drafts need native editorial review.

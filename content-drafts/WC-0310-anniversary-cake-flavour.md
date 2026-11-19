@@ -1,44 +1,51 @@
 ---
 id: WC-0310
-status: written-draft
-publish_action: merge into /journal/choosing-a-flavor.html
-english_title: "How to choose a flavour for anniversary cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa anibersaryo sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/choosing-a-flavor.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "Choosing an Anniversary Cake Flavour in Cebu"
+cebuano_title: "Pagpili sa Flavour sa Anniversary Cake sa Cebu"
+tagalog_title: "Pagpili ng Flavour para sa Anniversary Cake sa Cebu"
 ---
 
-## Choosing an anniversary-cake flavour for the people at your table
+## English
 
-White Cakes currently lists five cake flavours for custom orders: chocolate, vanilla, ube, mango, and red velvet. Choose from that list based on what the couple and guests already enjoy, rather than assuming a flavour name includes a particular filling, fruit, frosting, or topping. Those additions need to be asked about and confirmed separately.
+# Choosing an Anniversary Cake Flavour in Cebu
 
-For an anniversary meal, think about who will eat the cake and how it will be served. If the group has mixed preferences, send the guest count and ask whether the selected size can accommodate more than one flavour. A 4-inch Bento is listed as one flavour; a split flavour in another format needs confirmation for that size and design. If the couple has a favourite flavour, that can be the simplest choice even when the cake will be shared.
+Choose the flavour after thinking about who will share the anniversary cake and when it will be served. A cake for two after dinner can be chosen around the couple’s favourite, while a family celebration calls for a flavour most guests can enjoy. If the cake is one of several desserts, you may want a different balance than if it is the only sweet course.
 
-In your enquiry, name the flavour exactly, give the event date, and include the size or number of people you expect to serve. Mention any specific ingredient or finish that matters to you and wait for the bakery to confirm it before paying a deposit. The cake-size guide can help with the portion question, while the price guide has the current starting prices.
+Check White Cakes’ current menu before settling on a flavour. Availability can vary by cake size and event date, so do not rely on an older photo or post. Ask which flavours are offered for your selected product, whether fillings are available, and if those choices affect the final quote. If the couple already has a favourite, include it in the brief but confirm it is currently offered.
 
-This guidance belongs in the central Cebu flavour guide, with links to the individual flavour pages. A separate anniversary-by-flavour article would repeat the same menu facts unless it adds a real, documented tasting comparison or a distinct first-party example.
+For a gathering with varied preferences, ask whether the bakery can accommodate more than one flavour. Confirm whether that means ordering separate cakes, how many cakes are available for your date, and how each flavour will be labelled at the event. Do not assume one cake can be divided into multiple flavours or that all menu items can be combined.
+
+If a guest has a food allergy or strict dietary restriction, tell the bakery directly and ask what it can verify about ingredients and handling. A preference is not the same as an allergen guarantee. Once you agree on the flavour, add it to the written confirmation with the date, size, design, inscription, and handoff plan. For broader advice, see the [Cebu cake flavour guide](/journal/choosing-a-flavor.html) and [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Pagpili sa Flavour sa Anniversary Cake sa Cebu
+
+Pagpili sa flavour human hunahunaa kinsa ang mag-share sa anniversary cake ug kanus-a kini i-serve. Para sa cake sa duha human sa panihapon, mahimong pilion ang paborito sa magtiayon; para sa selebrasyon sa pamilya, hunahunaa ang flavour nga ganahan ang daghang bisita. Kung usa lang kini sa daghang dessert, lahi ang balanse nga angay kaysa kung mao ra kini ang tam-is.
+
+Susiha ang kasamtangang menu sa White Cakes sa dili pa mopili. Mahimong magdepende ang availability sa gidak-on sa cake ug petsa sa event, busa ayaw pagsalig sa karaang litrato o post. Pangutan-a unsang flavour ang anaa sa napiling produkto, kung adunay filling ug kung mausab ba sa maong kapilian ang kataposang quote. Kung adunay paborito ang magtiayon, iapil kini sa brief apan kumpirmaha nga anaa pa sa menu.
+
+Para sa tapok nga nagkalahi ang gusto, pangutan-a kung makadawat ba ang panaderya og labaw sa usa ka flavour. Kumpirmaha kung nagpasabot ba kini og lain-laing cake, pila ang mahimo sa petsa ug unsaon pagmarka sa matag flavour sa event. Ayaw pagtuo nga mahimong lain-laing flavour sulod sa usa ka cake o masagol ang tanang item sa menu.
+
+Kung adunay bisita nga adunay allergy o istriktong dietary restriction, sultihi direkta ang panaderya ug pangutan-a unsay makumpirma niini bahin sa sangkap ug pagdumala. Lahi ang preference sa garantiya bahin sa allergen. Human magkasabot sa flavour, ibutang kini sa sinulat nga kumpirmasyon uban sa petsa, gidak-on, disenyo, inskripsiyon ug handoff plan. Para sa dugang tambag, tan-awa ang [Cebu cake flavour guide](/journal/choosing-a-flavor.html) ug [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Pagpili ng Flavour para sa Anniversary Cake sa Cebu
+
+Pumili ng flavour matapos pag-isipan kung sino ang magsasalo sa anniversary cake at kung kailan ito ihahain. Para sa cake ng dalawa pagkatapos ng hapunan, maaaring piliin ang paborito ng mag-partner; para sa selebrasyon ng pamilya, isaalang-alang ang flavour na mae-enjoy ng karamihan. Kung isa lang ito sa maraming dessert, maaaring iba ang balanse kaysa kung ito lang ang matamis na ihahain.
+
+Tingnan ang kasalukuyang menu ng White Cakes bago pumili ng flavour. Maaaring mag-iba ang availability ayon sa sukat ng cake at petsa ng event, kaya huwag umasa sa lumang larawan o post. Itanong kung aling flavours ang iniaalok para sa napiling produkto, kung may fillings, at kung makaaapekto ang mga iyon sa pinal na quote. Kung may paborito na ang mag-partner, isama ito sa brief pero kumpirmahing available pa ito.
+
+Para sa pagtitipong magkakaiba ang preference, itanong kung kayang tanggapin ng bakery ang higit sa isang flavour. Kumpirmahin kung mangangailangan ito ng magkakahiwalay na cake, ilang cake ang available sa petsa mo, at paano lalagyan ng label ang bawat flavour sa event. Huwag ipagpalagay na maaaring hatiin sa iba’t ibang flavour ang iisang cake o pagsamahin ang lahat ng nasa menu.
+
+Kung may bisitang may allergy o mahigpit na dietary restriction, direktang sabihin ito sa bakery at itanong kung ano ang mabeberipika nito tungkol sa sangkap at paghawak. Hindi katumbas ng allergen guarantee ang preference. Kapag napagkasunduan na ang flavour, ilagay ito sa nakasulat na confirmation kasama ang petsa, sukat, disenyo, inscription, at handoff plan. Para sa mas malawak na payo, tingnan ang [Cebu cake flavour guide](/journal/choosing-a-flavor.html) at [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug anibersaryo-cake nga lami para sa mga tawo sa imong lamesa
-
-Ang White Cakes karon naglista sa lima ka mga lami sa cake alang sa custom nga mga order: chocolate, vanilla, ube, mangga, ug red velvet. Pagpili gikan sa kana nga lista base sa kung unsa ang nalingaw na sa magtiayon ug mga bisita, imbes nga maghunahuna nga ang ngalan sa palami naglakip sa usa ka partikular nga pagpuno, prutas, frosting, o topping. Kadtong mga pagdugang kinahanglan pangutan-on ug kumpirmahon nga gilain.
-
-Alang sa panihapon sa anibersaryo, hunahunaa kung kinsa ang mokaon sa cake ug kung giunsa kini pag-alagad. Kung ang grupo adunay nagkasagol nga mga gusto, ipadala ang ihap sa bisita ug pangutana kung ang gipili nga gidak-on makaakomodar labaw pa sa usa ka lami. Ang 4-pulgada nga Bento gilista isip usa ka lami; ang usa ka split flavor sa laing format nagkinahanglan og kumpirmasyon alang niana nga gidak-on ug disenyo. Kung ang magtiayon adunay usa ka paborito nga lami, mahimo kana ang pinakasimple nga pagpili bisan kung ang cake ipaambit.
-
-Sa imong pangutana, hingalan og eksakto ang lami, ihatag ang petsa sa panghitabo, ug iapil ang gidak-on o gidaghanon sa mga tawo nga imong gipaabut nga alagaran. Hisguti ang bisan unsang piho nga sangkap o pagkahuman nga hinungdanon kanimo ug hulata ang panaderya nga kumpirmahon kini sa dili pa magbayad usa ka deposito. Ang giya sa gidak-on sa cake makatabang sa pangutana sa bahin, samtang ang giya sa presyo adunay kasamtangang pagsugod nga mga presyo.
-
-Kini nga giya nahisakop sa sentro nga giya sa lami sa Cebu, nga adunay mga link sa indibidwal nga mga panid sa lami. Ang usa ka separado nga anibersaryo-sa-lami nga artikulo magsubli sa parehas nga mga kamatuoran sa menu gawas kung kini magdugang usa ka tinuod, dokumentado nga pagtandi sa pagtilaw o usa ka lahi nga panig-ingnan sa una nga partido.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pagpili ng anniversary-cake flavor para sa mga tao sa iyong mesa
-
-Kasalukuyang naglilista ang White Cakes ng limang lasa ng cake para sa mga custom na order: tsokolate, vanilla, ube, mangga, at red velvet. Pumili mula sa listahang iyon batay sa kung ano ang tinatamasa na ng mag-asawa at mga bisita, sa halip na ipagpalagay na ang pangalan ng lasa ay may kasamang partikular na palaman, prutas, frosting, o topping. Ang mga karagdagan na iyon ay kailangang tanungin at kumpirmahin nang hiwalay.
-
-Para sa isang anibersaryo na pagkain, isipin kung sino ang kakain ng cake at kung paano ito ihain. Kung ang grupo ay may magkahalong kagustuhan, ipadala ang bilang ng bisita at tanungin kung ang napiling laki ay kayang tumanggap ng higit sa isang lasa. Ang isang 4-inch na Bento ay nakalista bilang isang lasa; Ang isang split flavor sa ibang format ay nangangailangan ng kumpirmasyon para sa laki at disenyong iyon. Kung ang mag-asawa ay may paboritong lasa, iyon ang maaaring maging pinakasimpleng pagpipilian kahit na ang cake ay ibabahagi.
-
-Sa iyong pagtatanong, pangalanan nang eksakto ang lasa, ibigay ang petsa ng kaganapan, at isama ang laki o bilang ng mga taong inaasahan mong paglilingkuran. Banggitin ang anumang partikular na sangkap o finish na mahalaga sa iyo at hintayin ang panaderya na kumpirmahin ito bago magbayad ng deposito. Makakatulong ang gabay sa laki ng cake sa tanong sa bahagi, habang nasa gabay sa presyo ang mga kasalukuyang panimulang presyo.
-
-Ang patnubay na ito ay kabilang sa gitnang gabay sa lasa ng Cebu, na may mga link sa mga indibidwal na pahina ng lasa. Ang isang hiwalay na anibersaryo ayon sa lasa na artikulo ay uulitin ang parehong mga katotohanan sa menu maliban kung ito ay nagdaragdag ng isang tunay, nakadokumentong paghahambing sa pagtikim o isang natatanging halimbawa ng first-party.
+- Verify current menu, fillings, ingredient/allergen handling, and multi-flavour options before publication.
+- Cebuano and Tagalog drafts need native editorial review.
