@@ -107,6 +107,8 @@ def all_posts() -> list[dict]:
         h1 = re.search(r'<h1(?:\s[^>]*)?>(.*?)</h1>', page, re.I | re.S)
         description = re.search(r'<meta\s+name=["\']description["\']\s+content=["\']([^"\']*)', page, re.I)
         published = re.search(r'<time\s+datetime=["\'](\d{4}-\d{2}-\d{2})', page, re.I)
+        if not published:
+            published = re.search(r'"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})"', page)
         if not (canonical and h1 and description and published):
             continue
         if canonical.group(1).rstrip("/") != f"https://www.thewhitecakes.com/journal/{path.name}":

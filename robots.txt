@@ -1,5 +1,5 @@
 # Favicon, apple touch icon, logo, and manifest must stay crawlable.
-# Googlebot and Googlebot-Image need the homepage, favicon variants, and /assets/white-cakes-logo.png.
+# Googlebot and Googlebot-Image need the homepage and /assets/white-cakes-logo.png.
 
 User-agent: *
 Allow: /

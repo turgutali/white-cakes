@@ -10,17 +10,17 @@
       <image:title>Hand-piped blush rose Bouquet Cake by The White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/crops/brand-1x1.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/crops/brand-4x3.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/crops/brand-16x9.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -33,17 +33,17 @@
       <image:title>Bento Cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/crops/bento-cakes-cebu-1x1.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/crops/bento-cakes-cebu-4x3.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -56,7 +56,7 @@
       <image:title>Bouquet Cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -88,7 +88,7 @@
       <image:title>Custom Celebration Cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -99,12 +99,6 @@
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/cake-slice-cebu.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -117,7 +111,7 @@
       <image:title>Birthday Cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -141,7 +135,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/anniversary-cakes-cebu/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -149,7 +143,7 @@
       <image:title>Anniversary Cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -173,7 +167,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/wedding-cakes-cebu/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -181,7 +175,7 @@
       <image:title>Wedding Cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -213,7 +207,7 @@
       <image:title>Corporate Cake Order by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -245,7 +239,7 @@
       <image:title>Cake Delivery in Cebu City by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -266,7 +260,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/cake-delivery-mandaue/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -274,7 +268,7 @@
       <image:title>Cake Delivery in Mandaue City by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -295,7 +289,7 @@
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/cake-delivery-lapu-lapu/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
@@ -303,7 +297,7 @@
       <image:title>Cake Delivery in Lapu-Lapu City by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
@@ -323,8 +317,37 @@
     </image:image>
   </url>
   <url>
+    <loc>https://www.thewhitecakes.com/christmas-cakes-cebu/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc>
+      <image:title>Hand-piped Christmas wreath cake by The White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-ribbon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tree-cake.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-heart-cake.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tiered-cake.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://www.thewhitecakes.com/order/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.95</priority>
     <image:image>
@@ -332,12 +355,12 @@
       <image:title>An ivory marble cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-      <image:title>Your cake preview</image:title>
+      <image:title>Ivory celebration cake finished with hand-piped buttercream by The White Cakes in Cebu.</image:title>
     </image:image>
   </url>
   <url>
@@ -350,17 +373,27 @@
       <image:title>An ivory marble cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-piping-process-cebu.webp</image:loc>
-      <image:title>Buttercream bouquet finishing from smooth coating to piped flower details</image:title>
+      <image:title>A step-by-step collage showing a buttercream cake being coated and decorated with piped blue flowers and a ribbon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/ordering/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/faq/</loc>
-    <lastmod>2026-11-18T21:28:03+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image>
@@ -368,32 +401,8 @@
       <image:title>A cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/new-year-cake-cebu-2027.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-      <image:title>New Year Cake in Cebu: Planning for Media Noche 2026–2027</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.webp</image:loc>
-      <image:title>A festive cake design from the holiday collection for the year-end season.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cebu-cake-calendar-2027.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-      <image:title>Cebu Cake Calendar 2027: Key Dates and Ordering Guide</image:title>
     </image:image>
   </url>
   <url>
@@ -406,13 +415,223 @@
       <image:title>An ivory marble cake by The White Cakes - Cebu</image:title>
     </image:image>
     <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/privacy/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+    <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
+    <loc>https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
+      <image:title>A blush buttercream Bouquet Cake by The White Cakes in Cebu, styled as a wrapped floral gift.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/ano-ang-bento-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>4-inch ivory Bento Cake with piped shells, blush ribbon and one rose, made in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>4-inch ivory Bento Cake na may piped shells, blush ribbon, at isang rose.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/asa-magpa-order-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>A 4-inch Bento cake from The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
+      <image:title>A custom buttercream cake offered by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/birthday-cake-message-ideas-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>A 4-inch buttercream Bento cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/birthday-cake-planning-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/birthday-cake-planning-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/birthday-cake-planning-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>A 4-inch buttercream Bento cake from The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/bouquet-cake-gift-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Hand-piped bouquet cake with a blush wrapper by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://www.thewhitecakes.com/journal/bouquet-cake-gift-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -420,13 +639,138 @@
       <image:title>Buttercream bouquet cake with piped rosettes, a tissue-style wrap and a bow, made in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
-      <image:title>Blush bouquet cake finished with piped buttercream flowers and a pleated wrapper</image:title>
+      <image:title>Blush bouquet cake finished with piped buttercream flowers and a pleated wrapper.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/bouquet-cake-gift-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Hand-piped bouquet cake with a blush wrapper by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-cebu.webp</image:loc>
+      <image:title>A buttercream Bouquet Cake with hand-piped floral details by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/buttercream-cake-planning-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/buttercream-cake-planning-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/buttercream-cake-planning-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/buttercream-cebu-heat-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-piping-process-cebu.webp</image:loc>
+      <image:title>Buttercream cake prepared for safe handling in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/buttercream-cebu-heat-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-piping-process-cebu.webp</image:loc>
+      <image:title>Buttercream cake prepared for safe handling in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
@@ -435,21 +779,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
-      <image:title>An ivory marble cake by White Cakes in Cebu</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
-      <image:title>The White Cakes - Cebu logo</image:title>
-    </image:image>
-    <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-piping-process-cebu.webp</image:loc>
-      <image:title>Buttercream bouquet finishing, from coating the cake to piping the flower details.</image:title>
+      <image:title>A step-by-step collage of a buttercream cake being coated and decorated with piped blue flowers and a ribbon.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/buttercream-vs-fondant-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -457,17 +797,17 @@
       <image:title>White Cakes ivory buttercream cake with piped flowers, made in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Ivory buttercream Signature Marble cake with dusty-blue marbling, shells and a piped rose</image:title>
+      <image:title>Ivory buttercream Signature Marble cake with dusty-blue marbling, shells and a piped rose, made in Cebu.</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/cake-delivery-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -475,13 +815,268 @@
       <image:title>Boxed buttercream cake ready for delivery from a Lahug cloud kitchen to Metro Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Signature Marble cake in ivory buttercream with dusty-blue marbling and one piped rose</image:title>
+      <image:title>Signature Marble cake in ivory buttercream with dusty-blue marbling and one piped rose.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-delivery-cebuano.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Boxed buttercream cake ready for delivery in Metro Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-designs-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Ivory Signature Marble cake with dusty-blue marbling and piped shells</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Signature Marble cake with dusty-blue marbling, piped shells and one rose</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
+      <image:title>Bouquet Cake with hand-piped blue and mint buttercream flowers, a pink wrapper and a bow</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>4-inch Bento cake with piped shells, blush ribbon and one rose on ivory linen</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-flavours-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Buttercream cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-flavours-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Buttercream cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-inscription-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-inscription-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-inscription-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-prices-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Signature Marble cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-prices-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Signature Marble cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-prices-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>The 6-inch Signature Marble cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-sizes-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Cake sizes for celebrations in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-sizes-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Cake sizes for celebrations in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cake-sizes-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Ivory buttercream Signature Marble cake by The White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/cebu-cake-calendar-2027.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
+      <image:title>An ivory buttercream celebration cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/chocolate-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/chocolate-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Hand-finished celebration cake by White Cakes in Cebu; chocolate is one of the available custom cake flavours</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
     </image:image>
   </url>
   <url>
@@ -494,13 +1089,41 @@
       <image:title>An ivory marble cake by White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/christening-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/christening-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/christening-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -508,13 +1131,40 @@
       <image:title>Ivory buttercream christening cake with a single piped rose and a baby's name, Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Ivory Signature Marble cake with dusty-blue marbling, a shell border, and a single piped rose</image:title>
+      <image:title>Ivory Signature Marble cake with dusty-blue marbling, a shell border, and a single piped rose.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/christmas-cake-delivery-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
@@ -527,67 +1177,191 @@
       <image:title>Ivory and dusty-blue marble cake with a single piped rose, made to order in Cebu for Christmas</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc>
-      <image:title>Christmas wreath cake with green piped garlands and red lettering</image:title>
+      <image:title>Christmas wreath cake with green piped garlands, red lettering, and a tartan bow.</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-ribbon.webp</image:loc>
-      <image:title>Christmas wreath cake finished with a red ribbon</image:title>
+      <image:title>Christmas wreath cake with green piped garlands and a bright red ribbon.</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tree-cake.webp</image:loc>
-      <image:title>Ivory Christmas cake topped with a piped evergreen tree</image:title>
+      <image:title>Ivory Christmas cake topped with a piped evergreen tree and red details.</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.webp</image:loc>
-      <image:title>Deep red tree-shaped Christmas cake with gold decorations</image:title>
+      <image:title>Deep red buttercream Christmas tree cake with a red bow and gold decorations.</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-heart-cake.webp</image:loc>
-      <image:title>Pink heart cake with ivory and green piping</image:title>
+      <image:title>Pink heart-shaped celebration cake with ivory and green piping and red bows.</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tiered-cake.webp</image:loc>
-      <image:title>Two-tier ivory Christmas cake with red and green piped borders</image:title>
+      <image:title>Two-tier ivory Christmas cake with green and red piped borders and gold details.</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://www.thewhitecakes.com/christmas-cakes-cebu/</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://www.thewhitecakes.com/journal/church-lunch-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc>
-      <image:title>Christmas wreath cake with green piped garlands and red lettering by The White Cakes Cebu</image:title>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-ribbon.webp</image:loc>
-      <image:title>Christmas wreath cake finished with a red ribbon</image:title>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/church-lunch-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tree-cake.webp</image:loc>
-      <image:title>Ivory Christmas cake topped with a piped evergreen tree</image:title>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/church-lunch-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.webp</image:loc>
-      <image:title>Deep red tree-shaped Christmas cake with gold decorations</image:title>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/company-milestone-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-heart-cake.webp</image:loc>
-      <image:title>Pink heart cake with ivory and green Christmas piping</image:title>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/company-milestone-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-tiered-cake.webp</image:loc>
-      <image:title>Two-tier ivory Christmas cake with red and green piped borders</image:title>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/company-milestone-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/congratulations-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/congratulations-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/congratulations-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-cebu.webp</image:loc>
+      <image:title>Bouquet Cake by The White Cakes in Cebu, decorated with hand-piped buttercream flowers.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/corporate-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/corporate-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/corporate-office-cakes-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -595,18 +1369,73 @@
       <image:title>Several 4-inch bento cakes lined up for an office celebration in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>Four-inch bento cake with piped shells, a blush ribbon, and one buttercream rose</image:title>
+      <image:title>Four-inch bento cake with piped shells, a blush ribbon, and one buttercream rose.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/custom-cake-brief-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Custom hand-piped buttercream cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/custom-cake-brief-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Custom hand-piped buttercream cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/debut-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/debut-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/debut-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -614,32 +1443,101 @@
       <image:title>Ivory and dusty-blue buttercream cake with piped roses and the number 18 for a debut in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-      <image:title>Ivory buttercream celebration cake with a clean piped finish</image:title>
+      <image:title>Ivory buttercream celebration cake with a clean piped finish.</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://www.thewhitecakes.com/journal/sinulog-cakes-cebu.html</loc>
+    <loc>https://www.thewhitecakes.com/journal/farewell-cake-cebu-ceb.html</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-      <image:title>Hand-piped celebration cake by The White Cakes in Cebu</image:title>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/farewell-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/farewell-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/corporate-cake-orders-cebu-16x9.webp</image:loc>
+      <image:title>A corporate celebration cake from The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-cebu.webp</image:loc>
+      <image:title>A hand-piped buttercream Bouquet Cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/first-birthday-sinulog-cake-cebu.html</loc>
-    <lastmod>2026-11-18T21:23:42+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -647,18 +1545,199 @@
       <image:title>Soft blush and ivory buttercream cake with a piped number 1 for a first birthday in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>Small ivory bento cake with piped buttercream shells and a blush ribbon</image:title>
+      <image:title>Small ivory bento cake with piped buttercream shells, a blush ribbon, and one rose.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/first-communion-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/first-communion-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>The 6-inch Signature Marble cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
+      <image:title>A custom buttercream cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/graduation-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/graduation-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
+      <image:title>Celebration cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
+      <image:title>A custom celebration cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/hand-piped-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/hand-piped-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/hand-piped-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/housewarming-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/housewarming-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/housewarming-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Signature Marble cake by The White Cakes in Cebu, finished with ivory buttercream, dusty-blue marbling and a piped rose.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/how-far-ahead-to-order-a-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -666,18 +1745,17 @@
       <image:title>Hands piping buttercream shells on an ivory cake in a Cebu kitchen</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/piped-roses-cake-cebu.webp</image:loc>
-      <image:title>Close view of hand-piped blush buttercream roses with sage leaves on a cake</image:title>
+      <image:title>Close view of hand-piped blush buttercream roses with sage leaves on a cake.</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/how-to-brief-a-custom-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -685,18 +1763,17 @@
       <image:title>Reference photo and colour swatches beside an ivory buttercream cake being piped in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-      <image:title>Ivory buttercream celebration cake with piped details on a cake stand</image:title>
+      <image:title>Ivory buttercream celebration cake with piped details, photographed on a cake stand.</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/how-to-choose-wedding-cake-cebu.html</loc>
-    <lastmod>2026-11-18T21:31:36+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -704,13 +1781,12 @@
       <image:title>Ivory buttercream wedding cake with dusty-blue marbling and piped roses for an intimate Cebu wedding</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Ivory buttercream Signature Marble cake with dusty-blue marbling and one rose</image:title>
+      <image:title>Ivory buttercream Signature Marble cake with dusty-blue marbling and one rose.</image:title>
     </image:image>
   </url>
   <url>
@@ -719,16 +1795,1058 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
-      <image:title>An ivory marble cake by White Cakes in Cebu</image:title>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>The 6-inch Signature Marble cake from The White Cakes collection in Cebu.</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/itpark-office-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/itpark-office-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/itpark-office-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/kids-birthday-cakes-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/kids-birthday-cakes-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/kids-birthday-cakes-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/birthday-cakes-cebu-16x9.webp</image:loc>
+      <image:title>A hand-finished birthday cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/lapulapu-family-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/lapulapu-family-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/lapulapu-family-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/large-family-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/large-family-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/large-family-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mandaue-family-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mandaue-family-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mandaue-family-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mango-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mango-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mango-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Hand-finished celebration cake by White Cakes in Cebu; mango flavour can be requested for a custom order</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/marble-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/marble-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/marble-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mga-mensahe-birthday-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>Birthday cake with hand-piped buttercream made by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mga-mensahe-birthday-cake-tagalog-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>Birthday cake with hand-piped buttercream made by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/minimalist-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/minimalist-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/minimalist-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>Ivory 4-inch Bento cake with hand-piped shells, a blush ribbon and one rose</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Signature Marble is one of the cake options you can include in an order request.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/monthsary-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/monthsary-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>A 4-inch buttercream Bento cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Hand-piped buttercream bouquet cake made in Cebu, a Mother's Day gift option</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
+      <image:title>Blush bouquet cake finished with hand-piped buttercream flowers and a pleated wrapper, made in Cebu.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/new-year-cake-cebu-2027-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/new-year-cake-cebu-2027-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/new-year-cake-cebu-2027.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-red-tree-cake.webp</image:loc>
+      <image:title>A red tree-shaped buttercream cake from The White Cakes holiday collection in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/outdoor-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/outdoor-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/outdoor-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/paano-mag-order-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Ang 6-inch Signature Marble cake ng The White Cakes sa Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/paghahatid-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Nakahandang buttercream cake para ihatid sa Metro Cebu mula sa Lahug kitchen.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Signature Marble cake na may ivory buttercream, dusty-blue marble at isang piped rose.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/proposal-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/proposal-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/proposal-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>The White Cakes 4-inch Bento cake with piped buttercream details, made in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/red-velvet-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/red-velvet-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Hand-finished buttercream celebration cake in Cebu; red velvet is one of the available custom cake flavours</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/retirement-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/retirement-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/retirement-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/crops/corporate-cake-orders-cebu-16x9.webp</image:loc>
+      <image:title>A corporate celebration cake from The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
+      <image:title>A wrapped buttercream Bouquet Cake by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/signature-marble-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/signature-marble-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/signature-marble-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/sinulog-cakes-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/sinulog-cakes-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/sinulog-cakes-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Ivory buttercream Signature Marble cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/small-gathering-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/small-gathering-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/small-gathering-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/surprise-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/surprise-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/surprise-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/thank-you-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/thank-you-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/thank-you-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
+      <image:title>A blush Bouquet Cake wrapped like a flower gift and finished with piped buttercream flowers by The White Cakes in Cebu.</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/ube-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Ube-flavour cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/ube-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Ube-flavour cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/ube-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Hand-finished buttercream cake from The White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/cake-slice-cebu.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/unsa-ang-bento-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>4-inch ivory Bento Cake with piped shells, blush ribbon and one rose, made in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
+      <image:title>4-inch ivory Bento Cake nga adunay piped shells, blush ribbon ug usa ka rose.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/valentines-bouquet-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
@@ -741,18 +2859,177 @@
       <image:title>Blush and ivory buttercream bouquet cake with piped roses for Valentine's Day in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
-      <image:title>Blush bouquet cake with piped buttercream flowers and a pink wrapper</image:title>
+      <image:title>Blush bouquet cake with piped buttercream flowers and a pink wrapper.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/vanilla-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/vanilla-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Ivory buttercream celebration cake in Cebu; vanilla is one of the available custom cake flavours</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/vintage-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/vintage-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/vintage-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc>
+      <image:title>Hand-piped Christmas cake design by The White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-ribbon.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/wedding-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Wedding cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/wedding-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Wedding cake by White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/weekday-cake-cebu-ceb.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/weekday-cake-cebu-tagalog.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/weekday-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:title>Cake guides from White Cakes in Cebu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/what-is-a-bento-cake.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
@@ -760,555 +3037,34 @@
       <image:title>4-inch ivory bento cake with piped shells, a blush ribbon and one rose, made in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
-
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>Four-inch ivory bento cake with piped shells, a blush ribbon, and a single rose</image:title>
+      <image:title>Four-inch ivory bento cake with piped shells, a blush ribbon, and a single rose.</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://www.thewhitecakes.com/journal/which-cake.html</loc>
-    <lastmod>2026-11-18T21:10:28+08:00</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
       <image:title>An ivory marble cake by White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Signature Marble cake with ivory buttercream, dusty-blue marbling, piped shells, and one rose</image:title>
-    </image:image>
-    <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
-      <image:title>Floral Bouquet Cake with hand-piped buttercream flowers, a pink wrapper, and a bow</image:title>
+      <image:title>Floral Bouquet Cake with hand-piped buttercream flowers, a pink wrapper, and a bow by The White Cakes in Cebu</image:title>
     </image:image>
     <image:image>
       <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
       <image:title>4-inch ivory Bento cake with piped shells, a blush ribbon, and one buttercream rose</image:title>
     </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/privacy/</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/ordering/</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/graduation-cakes-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
-      <image:title>A custom cake can be planned around the graduate’s colours and a short message.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-prices-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Signature Marble is the named 6-inch cake on the current menu; custom work is quoted by design.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-sizes-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>4-inch ivory Bento cake with piped shells, a blush ribbon, and one buttercream rose by The White Cakes in Cebu</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Ivory buttercream Signature Marble cake with dusty-blue marbling, shells and a piped rose</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/ube-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/baby-shower-cakes-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
-      <image:title>For a baby shower, share the event palette and one main design reference.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/send-cake-to-cebu-from-abroad.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
-      <image:title>The gift organiser can send the date, recipient’s delivery details and inscription from overseas.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/mothers-day-cakes-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/anniversary-cake-message-ideas-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
-      <image:title>The Bouquet Cake is a floral option for an anniversary gift.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/kids-birthday-cakes-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/hero-celebration-cake-cebu.webp</image:loc>
-      <image:title>Hand-piped ivory buttercream birthday cake by The White Cakes in Cebu</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/white-cakes-logo.png</image:loc>
-      <image:title>The White Cakes - Cebu logo</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/crops/birthday-cakes-cebu-16x9.webp</image:loc>
-      <image:title>Choose a cake design and inscription that fit the child’s celebration and guest count.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/birthday-cake-message-ideas-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>A short inscription is easier to fit on the 4-inch Bento top.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/fathers-day-cakes-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-cebu.webp</image:loc>
-      <image:title>A floral cake can be given as a Father’s Day gift; send the date and preferred inscription.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/chocolate-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/vanilla-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/red-velvet-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/bridal-shower-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-cebu.webp</image:loc>
-      <image:title>A floral Bouquet Cake can suit a bridal shower gift table.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/monthsary-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>The 4-inch Bento is a compact choice for a small monthsary celebration.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/bisaya-birthday-cake-messages-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>Keep a Cebuano cake inscription brief so it stays readable on a small cake.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/gender-reveal-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc>
-      <image:title>Share the reveal colours and setup in your design brief so the requested style can be confirmed.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/mango-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/first-communion-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>A simple buttercream cake option for a family table; confirm design and portions for your event.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-designs-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc><image:title>Signature Marble cake with dusty-blue marbling and piped shells</image:title></image:image>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc><image:title>Bouquet Cake with hand-piped buttercream flowers and pink wrapper</image:title></image:image>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc><image:title>4-inch Bento cake with blush ribbon, piped shells and rose</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/minimalist-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc><image:title>Ivory minimalist Bento cake with piped shells and blush ribbon</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/vintage-cake-cebu.html</loc>
-    <lastmod>2026-11-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/christmas/christmas-wreath-lettering.webp</image:loc><image:title>Hand-piped vintage-inspired Christmas cake in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/proposal-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/housewarming-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/congratulations-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-cebu.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/retirement-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/crops/corporate-cake-orders-cebu-16x9.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/farewell-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/crops/corporate-cake-orders-cebu-16x9.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/thank-you-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-pink-wrapper-cebu.webp</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/asa-magpa-order-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>The 4-inch Bento is a small format; send the date and serving plan when asking to order.</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/paano-mag-order-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
-      <image:title>Signature Marble cake from The White Cakes in Cebu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/paghahatid-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc>
-      <image:title>Boxed buttercream cake ready for delivery in Metro Cebu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/unsa-ang-bento-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>4-inch ivory Bento Cake with hand-piped shells in Cebu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/ano-ang-bento-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image>
-      <image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc>
-      <image:title>4-inch ivory Bento Cake with hand-piped shells in Cebu</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/mga-mensahe-birthday-cake-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc><image:title>Birthday cake with hand-piped buttercream made by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/mga-mensahe-birthday-cake-tagalog-cebu.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/bento-cake-cebu.webp</image:loc><image:title>Birthday cake with hand-piped buttercream made by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/bouquet-cake-gift-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Hand-piped bouquet cake with a blush wrapper by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/bouquet-cake-gift-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Hand-piped bouquet cake with a blush wrapper by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/buttercream-cebu-heat-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-piping-process-cebu.webp</image:loc><image:title>Buttercream cake prepared for safe handling in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/buttercream-cebu-heat-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/bouquet-cake-piping-process-cebu.webp</image:loc><image:title>Buttercream cake prepared for safe handling in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-flavours-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Buttercream cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-flavours-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Buttercream cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-prices-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc><image:title>Signature Marble cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-prices-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc><image:title>Signature Marble cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-sizes-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc><image:title>Cake sizes for celebrations in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-sizes-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc><image:title>Cake sizes for celebrations in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/custom-cake-brief-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Custom hand-piped buttercream cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/custom-cake-brief-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Custom hand-piped buttercream cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/debut-cake-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/debut-cake-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/christening-cake-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/christening-cake-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/graduation-cake-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/graduation-cake-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/crops/custom-cakes-cebu-16x9.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/corporate-cake-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/corporate-cake-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Celebration cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/ube-cake-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Ube-flavour cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/ube-cake-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Ube-flavour cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/wedding-cake-cebu-ceb.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Wedding cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/wedding-cake-cebu-tagalog.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Wedding cake by White Cakes in Cebu</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.thewhitecakes.com/journal/cake-delivery-cebuano.html</loc>
-    <lastmod>2026-11-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <image:image><image:loc>https://www.thewhitecakes.com/assets/og.webp</image:loc><image:title>Boxed buttercream cake ready for delivery in Metro Cebu</image:title></image:image>
   </url>
 </urlset>
