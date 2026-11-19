@@ -1,44 +1,64 @@
 ---
 id: WC-0072
-status: written-draft
-publish_action: merge into /journal/how-to-order.html
-english_title: "What to confirm before paying a deposit for custom buttercream cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa custom buttercream cake sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa custom buttercream cake sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge this deposit checklist into /journal/how-to-order.html and /journal/cake-prices-cebu.html
+english_title: "What to Confirm Before Paying a 50% Cake Deposit in Cebu"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad sa 50% nga Deposito sa Cake?"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng 50% Deposit sa Cake?"
 ---
 
-## Confirm these details before the custom-cake deposit
+## English
 
-For a custom buttercream cake, the deposit should follow a clear agreement, not replace one. White Cakes' ordering guidance says a 50% deposit confirms the order. Before paying, make sure the bakery has replied to your enquiry and that you both have the same date, design direction, size, price, and delivery or pickup plan in writing.
+# What to Confirm Before Paying a 50% Cake Deposit in Cebu
 
-Start with the event date and the cake size you are considering. Share the number of people who will eat cake, the flavour choice, and one or two reference photos that show the style you mean. Describe which part of each reference matters—such as the colour palette, border, or lettering—because references can contain details that do not fit the actual cake size. Ask for a final starting or quoted price that reflects the design you chose; a sample photo alone is not a price confirmation.
+For a custom buttercream cake, the deposit should follow a clear agreement. White Cakes' current ordering process uses a 50% deposit to confirm an agreed order. Before paying, check that the bakery has replied and that you both have the same details in writing.
 
-For delivery, confirm the full address, landmark, receiver's mobile number, and the delivery window. The bakery serves Cebu City, Mandaue City, and Lapu-Lapu City; delivery charges depend on the address and should be confirmed with the quote. If collecting, agree how the Cebu City pickup will be arranged. Also confirm any message spelling and the flavour before the cake is put into production.
+## Use this confirmation checklist
 
-If a detail is still undecided, ask what must be settled before the order can be confirmed. Keep the reply and payment record with the order notes. This makes the deposit a clear checkpoint: the date and requested cake are agreed, the price and logistics are known, and both sides can refer to the same instructions. This practical checklist belongs in the existing order guide rather than a separate deposit-only article.
+1. **Date and availability:** Confirm the exact date you need the cake. A request alone does not reserve a production slot.
+2. **Cake details:** Check the size, flavour, inscription spelling, and the design direction. If you sent reference photos, make sure the bakery has confirmed which parts are feasible.
+3. **Final price:** Confirm the amount for the agreed design, not only a starting price or an estimate from a sample image.
+4. **Handover plan:** If you are arranging delivery, confirm the full address, landmark, receiving person's mobile number, delivery charge, and delivery window. If collecting, confirm how Cebu City pickup will be arranged.
+5. **Terms:** Make sure you understand the current order terms before sending payment, and keep the confirmation with your payment record.
+
+If something is not settled, ask before paying. The deposit marks the point when the date, cake specification, price, and handover plan are agreed. It is not a substitute for confirming them. See the [cake price guide](/journal/cake-prices-cebu.html) for starting prices and the [ordering guide](/journal/how-to-order.html) for the full request checklist.
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad sa 50% nga Deposito sa Cake?
+
+Para sa custom nga buttercream cake, ang deposito ihatag human klaro na ang inyong kasabotan. Ang kasamtangang proseso sa pag-order sa White Cakes naggamit og 50% nga deposito aron makumpirma ang napagkasabutang order. Sa dili pa mobayad, susiha nga mitubag na ang panaderya ug pareho mo og pagsabot sa mga detalye nga nasulat.
+
+## Checklist sa dili pa mobayad
+
+1. **Petsa ug availability:** Kumpirmaha ang eksaktong petsa nga kinahanglan ang cake. Dili magpareserba og slot ang inquiry lamang.
+2. **Detalye sa cake:** Susiha ang gidak-on, flavour, spelling sa mensahe ug direksiyon sa disenyo. Kung nagpadala ka og reference photo, ipakumpirma kung unsang bahin ang mahimo.
+3. **Final nga presyo:** Kumpirmaha ang total para sa napagkasabutang disenyo, dili lang ang starting price o banabana gikan sa sample photo.
+4. **Plano sa pagdawat:** Para sa delivery, kumpirmaha ang kompletong address, landmark, mobile number sa modawat, delivery charge ug delivery window. Kung pickup, kumpirmaha kung giunsa pag-arrange ang pickup sa Cebu City.
+5. **Terms:** Sabta ang kasamtangang terms sa order sa dili pa magpadala og bayad ug tipigi ang kumpirmasyon uban sa resibo.
+
+Kung naa pay wala maklaro, pangutana una sa dili pa mobayad. Ang deposito maoy kumpirmasyon nga nagkasinabot na mo sa petsa, detalye sa cake, presyo ug paagi sa pagdawat. Dili kini puli sa pagkumpirma sa maong mga detalye. Tan-awa ang [cake price guide](/journal/cake-prices-cebu.html) ug ang kompleto nga [order guide](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng 50% Deposit sa Cake?
+
+Para sa custom na buttercream cake, ibigay ang deposit pagkatapos malinaw ang napagkasunduan. Gumagamit ang kasalukuyang order process ng White Cakes ng 50% deposit para kumpirmahin ang napagkasunduang order. Bago magbayad, tiyaking nakasagot na ang bakery at pareho ninyong nauunawaan ang mga detalye sa sulat.
+
+## Checklist bago magbayad
+
+1. **Petsa at availability:** Kumpirmahin ang eksaktong petsa kung kailan kailangan ang cake. Hindi nagrereserba ng production slot ang inquiry lang.
+2. **Mga detalye ng cake:** Suriin ang sukat, flavour, baybay ng mensahe, at direksiyon ng disenyo. Kung nagpadala ka ng reference photos, ipasuri kung aling bahagi ang posible.
+3. **Final na presyo:** Kumpirmahin ang total para sa napagkasunduang disenyo, hindi lang ang starting price o tantya mula sa sample photo.
+4. **Paraan ng pagtanggap:** Para sa delivery, kumpirmahin ang kumpletong address, landmark, mobile number ng tatanggap, delivery charge, at delivery window. Kung pickup, kumpirmahin kung paano ito ia-arrange sa Cebu City.
+5. **Terms:** Unawain ang kasalukuyang order terms bago magpadala ng bayad at itago ang kumpirmasyon kasama ng payment record.
+
+Kung may hindi pa napag-uusapan, magtanong bago magbayad. Tinatatakan ng deposit ang kasunduan sa petsa, detalye ng cake, presyo, at paraan ng pagtanggap. Hindi ito kapalit ng pagkumpirma sa mga iyon. Tingnan ang [cake price guide](/journal/cake-prices-cebu.html) at ang kumpletong [order guide](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma kining mga detalye sa dili pa ang custom-cake nga deposito
-
-Alang sa usa ka naandan nga buttercream cake, ang deposito kinahanglan nga mosunod sa usa ka tin-aw nga kasabutan, dili mopuli sa usa. Ang giya sa pag-order sa White Cakes nag-ingon nga ang 50% nga deposito nagpamatuod sa order. Sa dili pa mobayad, siguroha nga ang panaderya mitubag sa imong pangutana ug nga kamo adunay parehas nga petsa, direksyon sa disenyo, gidak-on, presyo, ug plano sa pagpadala o pagkuha sa pagsulat.
-
-Pagsugod sa petsa sa panghitabo ug sa gidak-on sa cake nga imong gihunahuna. Ipakigbahin ang gidaghanon sa mga tawo nga mokaon og cake, ang pagpili sa lami, ug usa o duha ka reference nga mga litrato nga nagpakita sa estilo nga imong gipasabot. Ihulagway kung unsa nga bahin sa matag reference ang importante—sama sa color palette, border, o lettering—tungod kay ang mga reference mahimong adunay mga detalye nga dili mohaum sa aktuwal nga gidak-on sa cake. Pangayo alang sa usa ka katapusan nga pagsugod o gikutlo nga presyo nga nagpakita sa disenyo nga imong gipili; ang usa ka sample nga litrato lamang dili usa ka kumpirmasyon sa presyo.
-
-Para sa paghatod, kumpirmahi ang kompleto nga adres, landmark, mobile number sa receiver, ug ang delivery window. Ang bakery nagsilbi sa Cebu City, Mandaue City, ug Lapu-Lapu City; Ang mga bayronon sa pagpadala nagdepende sa adres ug kinahanglan nga kumpirmahon sa kinutlo. Kon mangolekta, uyoni unsaon paghikay ang pickup sa dakbayan sa Sugbo. Pagkumpirma usab sa bisan unsang spelling sa mensahe ug ang lami sa dili pa ibutang ang cake.
-
-Kung ang usa ka detalye wala pa madesisyon, pangutana kung unsa ang kinahanglan nga husayon ​​sa dili pa makumpirma ang order. Hupti ang tubag ug rekord sa pagbayad uban ang mga nota sa order. Kini naghimo sa deposito nga usa ka tin-aw nga checkpoint: ang petsa ug ang gipangayo nga cake gikasabutan, ang presyo ug logistics nahibal-an, ug ang duha ka kilid mahimong magtumong sa parehas nga mga panudlo. Kini nga praktikal nga checklist nahisakop sa kasamtangan nga giya sa order kaysa usa ka bulag nga artikulo nga deposito lamang.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang mga detalyeng ito bago ang custom-cake na deposito
-
-Para sa isang custom na buttercream cake, ang deposito ay dapat sumunod sa isang malinaw na kasunduan, hindi palitan ang isa. Ang patnubay sa pag-order ng White Cakes ay nagsasabing ang isang 50% na deposito ay nagkukumpirma ng order. Bago magbayad, tiyaking tumugon ang panaderya sa iyong katanungan at pareho kayong may petsa, direksyon ng disenyo, laki, presyo, at plano sa paghahatid o pagkuha nang nakasulat.
-
-Magsimula sa petsa ng kaganapan at sa laki ng cake na iyong isinasaalang-alang. Ibahagi ang bilang ng mga taong kakain ng cake, ang pagpipilian ng lasa, at isa o dalawang reference na larawan na nagpapakita ng estilo na iyong ibig sabihin. Ilarawan kung aling bahagi ng bawat reference ang mahalaga—gaya ng color palette, border, o lettering—dahil ang mga reference ay maaaring maglaman ng mga detalye na hindi akma sa aktwal na laki ng cake. Humingi ng panghuling panimulang presyo o sinipi na presyo na sumasalamin sa disenyo na iyong pinili; ang isang sample na larawan lamang ay hindi isang kumpirmasyon ng presyo.
-
-Para sa paghahatid, kumpirmahin ang buong address, landmark, numero ng mobile ng tatanggap, at ang window ng paghahatid. Naghahain ang panaderya ng Cebu City, Mandaue City, at Lapu-Lapu City; Ang mga singil sa paghahatid ay nakasalalay sa address at dapat kumpirmahin sa quote. Kung mangolekta, sumang-ayon kung paano isasaayos ang Cebu City pickup. Kumpirmahin din ang anumang spelling ng mensahe at ang lasa bago ilagay ang cake sa produksyon.
-
-Kung undecided pa rin ang isang detalye, itanong kung ano ang dapat ayusin bago makumpirma ang order. Panatilihin ang rekord ng tugon at pagbabayad kasama ang mga tala ng order. Ginagawa nitong malinaw na checkpoint ang deposito: napagkasunduan ang petsa at hiniling na cake, alam ang presyo at logistik, at maaaring sumangguni ang magkabilang panig sa parehong mga tagubilin. Ang praktikal na checklist na ito ay kabilang sa umiiral nang gabay sa pag-order sa halip na isang hiwalay na artikulong deposito lamang.
+- Verify the current 50% deposit process, order terms, lead time, pickup and delivery details before integration.
+- This is an ordering checklist section, not a standalone URL; keep it with the main order and price guides.
+- Cebuano and Tagalog copy has been newly written but still needs native review before publication.

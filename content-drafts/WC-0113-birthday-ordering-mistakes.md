@@ -1,44 +1,100 @@
 ---
 id: WC-0113
-status: written-draft
-publish_action: merge into /journal/how-to-order.html
-english_title: "Common ordering mistakes to avoid with birthday cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa adlawng natawhan sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa kaarawan sa Cebu"
+status: human-written-trilingual-draft
+publish_action: integrate the birthday-specific checklist into /journal/how-to-order.html and /journal/birthday-cakes-cebu.html
+english_title: "Birthday Cake Ordering Mistakes to Avoid in Cebu"
+cebuano_title: "Mga Sayop nga Likayan sa Pag-order og Birthday Cake sa Cebu"
+tagalog_title: "Mga Pagkakamaling Dapat Iwasan sa Pag-order ng Birthday Cake sa Cebu"
 ---
 
-## Birthday cake ordering mistakes that are easy to prevent
+## English
 
-The most common problem is sending an enquiry without the date. A bakery cannot confirm a production slot from “Do you have cakes?” alone. Start with the celebration date and the day and time you need the cake in hand. White Cakes asks for at least three days' notice for made-to-order cakes; busy dates may need more lead time, so wait for a written availability reply.
+# Birthday Cake Ordering Mistakes to Avoid in Cebu
 
-Another avoidable mismatch is choosing a design before deciding who will eat the cake. Give an honest guest count and say whether everyone will have a slice. Current guide estimates are about 8–12 party slices for a 6-inch cake, 16–24 for an 8-inch cake, and 30–36 for a 6+8-inch two-tier cake. These are planning ranges, not guarantees: serving style and appetite change the result.
+A birthday cake request is easier to confirm when the date, cake size, message, and handover plan arrive together. These common gaps can cause avoidable back-and-forth.
 
-Make the brief usable: one or two reference images, preferred colours, flavour, wording, and anything that must be omitted. Do not assume every image can be copied exactly or every inscription fits. Ask the bakery to confirm what is feasible and the final price before paying. A 50% deposit confirms the agreed order under the current process.
+## 1. Asking about a cake without giving the date
 
-For delivery, provide the complete Cebu address, landmark, recipient's mobile number, and receiving instructions. Confirm the delivery window and fee for that address. This checklist belongs in the main ordering guide; a separate birthday page should be added only if search evidence and original birthday-specific material support one.
+“Do you have cakes?” does not tell the bakery whether a production slot is open. Start with the celebration date and when you need the cake. White Cakes asks for at least three days' notice for made-to-order cakes, and the bakery still needs to confirm availability.
+
+## 2. Counting everyone invited instead of cake-eaters
+
+The serving plan should reflect the people who will actually eat cake. Share that number and whether you want smaller party slices or generous servings. As a guide, a 6-inch cake is estimated at 8–12 party slices; an 8-inch at 16–24. Those are ranges, so confirm the plan for the selected design.
+
+## 3. Sending a reference photo without saying what you like
+
+One clear photo can help, but point out the part you want to borrow: colours, border, flowers, or lettering. A reference does not guarantee an exact copy. Ask what can be hand-piped on the size you are ordering.
+
+## 4. Leaving the inscription to guesswork
+
+Send the exact name, spelling, capitalization, and short message. A 4-inch Bento has limited space, so ask whether a longer line will fit before confirming the design.
+
+## 5. Forgetting delivery details or assuming the date is held
+
+For delivery, include the full address, a nearby landmark, the recipient's mobile number, and any gate or lobby instructions. A sent inquiry is not a reservation; wait for availability and order details to be confirmed. The 50% deposit confirms an agreed order.
+
+For the full checklist, see [how to order a cake in Cebu](/journal/how-to-order.html) and the [birthday cake guide](/journal/birthday-cakes-cebu.html).
+
+## Cebuano
+
+# Mga Sayop nga Likayan sa Pag-order og Birthday Cake sa Cebu
+
+Mas sayon kumpirmahon ang birthday cake kung dungan ipadala ang petsa, gidak-on, mensahe ug plano sa pagdawat. Kini nga kasagarang kulang nga detalye mahimong hinungdan sa dugang nga pangutana.
+
+## 1. Mangutana og cake nga walay petsa
+
+Dili makatubag ang “naa moy cake?” kung wala mahibal-i kung available ang production slot. Sugdi sa petsa sa selebrasyon ug kanus-a nimo kinahanglan ang cake. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo para sa made-to-order nga cake, ug kinahanglan gihapon kumpirmahon sa panaderya ang availability.
+
+## 2. Ihap ang tanang giimbitar, dili ang mokaon og cake
+
+Ang serving plan angay ibase sa mga tawo nga mokaon gyud og cake. Isulti ang gidaghanon ug kung gagmayng party slice o dagkong serving ang gusto. Giya lamang, ang 6-inch nga cake gibanabana og 8–12 ka party slice; ang 8-inch og 16–24. Mga range kini, busa kumpirmaha para sa napiling disenyo.
+
+## 3. Magpadala og reference photo nga walay pagpasabot
+
+Makapakita og direksiyon ang usa ka klarong litrato, apan isulti kung unsang bahin ang ganahan ka: kolor, border, bulak o lettering. Dili garantiya ang reference nga eksaktong makopya ang disenyo. Pangutan-a unsa ang mahimo pinaagi sa hand-piped nga dekorasyon sa gidak-on nga imong orderon.
+
+## 4. Pasagdan nga tag-anon ang mensahe
+
+Ipadala ang eksaktong ngalan, spelling, capitalization ug mubo nga mensahe. Limitado ang luna sa 4-inch Bento, busa pangutana kung moigo ba ang taas nga linya sa dili pa kumpirmahon ang disenyo.
+
+## 5. Makalimot sa delivery details o magtuo nga reserved na ang petsa
+
+Para sa delivery, ihatag ang kompleto nga address, duol nga landmark, mobile number sa modawat ug instruksyon sa gate o lobby. Dili reservation ang inquiry; hulata nga makumpirma ang availability ug detalye sa order. Ang 50% nga deposito mokumpirma sa napagkasabutang order.
+
+Tan-awa ang kompleto nga [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html) ug ang [birthday cake guide](/journal/birthday-cakes-cebu.html).
+
+## Tagalog
+
+# Mga Pagkakamaling Dapat Iwasan sa Pag-order ng Birthday Cake sa Cebu
+
+Mas madaling makumpirma ang birthday cake kapag magkakasamang ipinadala ang petsa, sukat, mensahe, at paraan ng pagtanggap. Ang mga karaniwang kulang na ito ay maaaring magdulot ng hindi kailangang palitan ng tanong.
+
+## 1. Nagtatanong tungkol sa cake nang walang petsa
+
+Hindi masasagot ng “May cakes po ba?” kung may production slot sa araw na kailangan mo. Magsimula sa petsa ng selebrasyon at kung kailan mo kailangang matanggap ang cake. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake; kailangan pa ring kumpirmahin ng bakery ang availability.
+
+## 2. Binibilang ang lahat ng bisita sa halip na ang kakain ng cake
+
+Ang serving plan ay dapat para sa mga taong kakain talaga ng cake. Ibigay ang bilang at kung maliliit na party slice o masaganang serving ang gusto. Gabay lang: tinatantiyang 8–12 party slice ang 6-inch na cake at 16–24 ang 8-inch. Mga range ito, kaya kumpirmahin ang plano para sa napiling disenyo.
+
+## 3. Nagpapadala ng reference photo nang walang paliwanag
+
+Makakatulong ang isang malinaw na larawan, pero sabihin kung anong bahagi ang gusto mo: kulay, border, bulaklak, o lettering. Hindi garantiya ang reference na eksaktong makokopya ang disenyo. Itanong kung ano ang kayang i-hand-pipe sa sukat na o-orderin mo.
+
+## 4. Hinahayaang hulaan ang inscription
+
+Ipadala ang eksaktong pangalan, baybay, capitalization, at maikling mensahe. Limitado ang espasyo sa 4-inch Bento, kaya itanong kung magkakasya ang mahabang linya bago kumpirmahin ang disenyo.
+
+## 5. Nakakalimot sa delivery details o ipinapalagay na nakareserba na ang petsa
+
+Para sa delivery, ibigay ang kumpletong address, kalapit na landmark, mobile number ng tatanggap, at tagubilin para sa gate o lobby. Hindi reservation ang inquiry; hintaying makumpirma ang availability at detalye ng order. Kinukumpirma ng 50% deposit ang napagkasunduang order.
+
+Basahin ang kumpletong [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html) at ang [birthday cake guide](/journal/birthday-cakes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Mga sayop sa pag-order sa birthday cake nga sayon pugngan
-
-Ang labing kasagaran nga problema mao ang pagpadala usa ka pangutana nga wala ang petsa. Dili makumpirma sa usa ka panaderya ang usa ka puwang sa produksiyon gikan sa "Do you have cakes?" nag-inusara. Pagsugod sa petsa sa selebrasyon ug sa adlaw ug oras nga kinahanglan nimo ang cake sa kamot. Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa made-to-order nga mga cake; Ang mga busy nga mga petsa mahimong magkinahanglan og dugang nga lead time, busa paghulat alang sa usa ka sinulat nga tubag nga anaa.
-
-Laing malikayan nga mismatch mao ang pagpili og disenyo sa dili pa modesisyon kon kinsay mokaon sa cake. Hatagi ang usa ka matinud-anon nga ihap sa bisita ug isulti kung ang tanan adunay usa ka hiwa. Ang mga banabana sa karon nga giya mao ang mga 8–12 ka hiwa sa party para sa 6-pulgada nga cake, 16–24 alang sa 8-pulgada nga cake, ug 30–36 alang sa 6+8-pulgada nga duha ka hut-ong nga cake. Kini ang mga han-ay sa pagplano, dili mga garantiya: ang istilo sa pagserbisyo ug gana nagbag-o sa resulta.
-
-Himoa nga magamit ang mubo: usa o duha ka reperensiya nga mga hulagway, gipalabi nga mga kolor, lami, pulong, ug bisan unsa nga kinahanglan isalikway. Ayaw hunahunaa nga ang matag imahe mahimong kopyahon nga eksakto o ang matag inskripsiyon mohaum. Hangyoa ang panaderya sa pagkumpirma kung unsa ang mahimo ug ang katapusang presyo sa dili pa mobayad. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order ubos sa kasamtangan nga proseso.
-
-Alang sa paghatod, ihatag ang kompleto nga adres sa Sugbo, landmark, mobile number sa nakadawat, ug mga instruksiyon sa pagdawat. Kumpirma ang delivery window ug bayad alang niana nga adres. Kini nga checklist nahisakop sa nag-unang giya sa pag-order; usa ka bulag nga panid sa adlawng natawhan kinahanglan idugang lamang kung ang ebidensya sa pagpangita ug ang orihinal nga materyal nga piho nga adlawng natawhan nagsuporta sa usa.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mga pagkakamali sa pag-order ng birthday cake na madaling pigilan
-
-Ang pinakakaraniwang problema ay ang pagpapadala ng pagtatanong nang walang petsa. Hindi makumpirma ng isang panaderya ang isang puwang ng produksyon mula sa "Mayroon ka bang mga cake?" mag-isa. Magsimula sa petsa ng pagdiriwang at sa araw at oras na kailangan mo ang cake sa kamay. Ang White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake; Ang mga abalang petsa ay maaaring mangailangan ng higit pang oras ng pag-lead, kaya maghintay para sa isang nakasulat na tugon sa availability.
-
-Ang isa pang maiiwasang mismatch ay ang pagpili ng disenyo bago magpasya kung sino ang kakain ng cake. Magbigay ng tapat na bilang ng bisita at sabihin kung magkakaroon ng slice ang lahat. Ang kasalukuyang mga pagtatantya ng gabay ay humigit-kumulang 8–12 party slice para sa isang 6-inch na cake, 16–24 para sa isang 8-inch na cake, at 30–36 para sa isang 6+8-inch na two-tier na cake. Ito ay mga saklaw ng pagpaplano, hindi mga garantiya: ang istilo ng paghahatid at gana ay nagbabago sa resulta.
-
-Gawing magagamit ang maikling: isa o dalawang reference na larawan, ginustong mga kulay, lasa, mga salita, at anumang bagay na dapat alisin. Huwag ipagpalagay na ang bawat imahe ay maaaring kopyahin nang eksakto o ang bawat inskripsiyon ay magkasya. Hilingin sa panaderya na kumpirmahin kung ano ang magagawa at ang huling presyo bago magbayad. Kinukumpirma ng 50% na deposito ang napagkasunduang order sa ilalim ng kasalukuyang proseso.
-
-Para sa paghahatid, ibigay ang kumpletong address sa Cebu, palatandaan, numero ng mobile ng tatanggap, at mga tagubilin sa pagtanggap. Kumpirmahin ang window ng paghahatid at bayad para sa address na iyon. Ang checklist na ito ay kabilang sa pangunahing gabay sa pag-order; ang isang hiwalay na pahina ng kaarawan ay dapat idagdag lamang kung ang ebidensya sa paghahanap at orihinal na materyal na partikular sa kaarawan ay sumusuporta sa isa.
+- Check current lead time, serving ranges, inscription limits, deposit, and delivery workflow before merging into the site.
+- This belongs in the existing birthday/order guide; do not create a duplicate standalone page.
+- Cebuano and Tagalog copy has been newly written but still needs native review.

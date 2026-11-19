@@ -1,44 +1,64 @@
 ---
 id: WC-0124
-status: draft-needs-original-photo-case
-publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "How to match the design of children's birthday cake in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa adlawng natawhan sa bata sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa kaarawan ng bata sa Cebu"
+status: human-written-trilingual-draft
+publish_action: add a children-specific design checklist to /journal/kids-birthday-cakes-cebu.html and link to /journal/cake-designs-cebu.html
+english_title: "How to Choose a Cake Design for a Child's Birthday in Cebu"
+cebuano_title: "Giunsa Pagpili og Cake Design para sa Birthday sa Bata sa Cebu"
+tagalog_title: "Paano Pumili ng Cake Design para sa Birthday ng Bata sa Cebu"
 ---
 
-## Match a children's birthday cake to the party
+## English
 
-Choose one visual idea first: a colour palette, a favourite character-inspired mood, or a simple motif. Then decide what matters most to the child. A cake can reflect a theme through colour and a few shapes without trying to reproduce every detail from a party invitation. Send one clear reference and point out which parts are essential; this gives the decorator room to make a practical interpretation.
+# How to Choose a Cake Design for a Child's Birthday in Cebu
 
-The size should follow the number of cake eaters, not the number of children invited. Some guests may skip dessert, while adults may share it too. White Cakes' current guide estimates 8–12 party portions from a 6-inch cake and 16–24 from an 8-inch cake. Treat those as ranges and tell the bakery if you expect generous slices or a second dessert.
+A children's birthday design starts with what the child enjoys, but the cake also has to fit the party table and the bakery's decorating style. Pick one main idea—such as a colour palette, a simple motif, or a theme-inspired mood—before sending references. A cake does not need every detail from the invitation to feel connected to the celebration.
 
-For a child's event, the useful brief includes the date, desired flavour, serving estimate, colours, short inscription, and delivery or pickup plan. White Cakes requires at least three days' notice for made-to-order cakes. Confirm the date and design feasibility before the 50% deposit, which confirms the agreed order.
+## Make the reference useful
 
-This draft cannot claim a particular child's preference or show a completed cake without a real, approved project photo. Add an anonymized case only when the family has approved image use and the actual design, choices, and outcome can be verified. Otherwise, incorporate the planning advice into the existing Cebu cake-design guide.
+Send one clear photo and identify the part you like: colours, border, lettering, or the general arrangement. White Cakes works in hand-piped buttercream. Fondant sculptures and printed edible image sheets are not available, so a reference that depends on a sculpted character or printed face may need a different interpretation. Ask what can be adapted before paying a deposit; a photo is guidance, not a promise of an exact copy.
+
+## Match the design to the cake and the child
+
+Tell the bakery the child's exact name and age, the short inscription, and whether the top needs space for candles. Include the guest count and say how many people will eat cake. A 4-inch Bento is for two generous servings or three modest slices after a meal. For a family table, ask about Signature Marble, which is 6 inches; an 8-inch or two-tier custom cake may suit a larger group. Serving ranges are estimates and should be confirmed for the selected design.
+
+For a useful quote, send the date, flavour, one reference, wording, guest count, and pickup or delivery plan together. The bakery can then confirm availability, the design details, and an appropriate size. See the [kids' birthday cake guide](/journal/kids-birthday-cakes-cebu.html) and [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili og Cake Design para sa Birthday sa Bata sa Cebu
+
+Ang disenyo para sa birthday sa bata magsugod sa butang nga ganahan sa bata, apan kinahanglan mohaom usab ang cake sa lamesa sa party ug sa estilo sa dekorasyon sa panaderya. Pilia una ang usa ka dakong ideya—sama sa paleta sa kolor, yano nga motif, o mood nga inspirado sa tema—sa dili pa magpadala og reference. Dili kinahanglan ibutang sa cake ang tanang detalye sa invitation aron mohaom kini sa selebrasyon.
+
+## Himua nga makatabang ang reference
+
+Ipadala ang usa ka klarong litrato ug ipasabut unsang bahin ang ganahan ka: kolor, border, lettering o kinatibuk-ang porma. Hand-piped buttercream ang estilo sa White Cakes. Wala sila naggamit og fondant sculpture o printed edible image sheet; busa kung nagdepende ang reference sa kinulit nga character o printed nga nawong, basin lahi nga interpretasyon ang mahimo. Pangutan-a unsa ang mapahiangay sa dili pa magdeposito. Giya ang litrato, dili saad nga eksaktong kopyahon kini.
+
+## Ipares ang disenyo sa cake ug sa bata
+
+Ihatag sa panaderya ang eksaktong ngalan ug edad sa bata, mubo nga mensahe, ug kung kinahanglan ba og luna para sa kandila. Iapil ang gidaghanon sa bisita ug pila kanila ang mokaon og cake. Ang 4-inch Bento para sa duha ka dagkong serving o tulo ka gagmayng hiwa human sa pagkaon. Para sa family table, pangutan-a bahin sa Signature Marble nga 6 inches; mahimo usab nga pangutan-on ang 8-inch o two-tier custom cake para sa mas daghang kauban. Banabana lamang ang serving range ug kumpirmaha kini para sa napiling disenyo.
+
+Para makakuha og tukmang quote, dungan ipadala ang petsa, flavour, usa ka reference, eksaktong mensahe, gidaghanon sa mokaon ug pickup o delivery plan. Makumpirma sa panaderya ang availability, detalye sa disenyo ug angay nga gidak-on. Tan-awa ang [kids' birthday cake guide](/journal/kids-birthday-cakes-cebu.html) ug [cake design guide sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Cake Design para sa Birthday ng Bata sa Cebu
+
+Nagsisimula ang disenyo ng birthday cake sa gusto ng bata, pero kailangan din itong bumagay sa party table at estilo ng dekorasyon ng bakery. Pumili muna ng isang pangunahing ideya—gaya ng colour palette, simpleng motif, o mood na hango sa tema—bago magpadala ng reference. Hindi kailangang ilagay sa cake ang bawat detalye ng invitation para bumagay ito sa selebrasyon.
+
+## Gawing kapaki-pakinabang ang reference
+
+Ipadala ang isang malinaw na larawan at sabihin kung aling bahagi ang gusto mo: kulay, border, lettering, o pangkalahatang ayos. Hand-piped buttercream ang estilo ng White Cakes. Hindi available ang fondant sculpture at printed edible image sheet, kaya maaaring mangailangan ng ibang interpretasyon ang reference na nakadepende sa sculpted character o printed na mukha. Itanong kung ano ang puwedeng iangkop bago magdeposito; gabay ang larawan at hindi pangako ng eksaktong kopya.
+
+## Ibagay ang disenyo sa cake at sa bata
+
+Ibigay sa bakery ang eksaktong pangalan at edad ng bata, maikling mensahe, at kung kailangan ng espasyo para sa kandila. Isama ang bilang ng bisita at ilan ang kakain ng cake. Ang 4-inch Bento ay para sa dalawang masaganang serving o tatlong katamtamang hiwa pagkatapos kumain. Para sa family table, itanong ang Signature Marble na 6 inches; maaaring bumagay sa mas malaking grupo ang 8-inch o two-tier custom cake. Tantiya lang ang serving ranges at dapat kumpirmahin para sa napiling disenyo.
+
+Para sa malinaw na quote, ipadala nang sabay ang petsa, flavour, isang reference, text, bilang ng kakain, at pickup o delivery plan. Makukumpirma ng bakery ang availability, detalye ng disenyo, at angkop na sukat. Tingnan ang [kids' birthday cake guide](/journal/kids-birthday-cakes-cebu.html) at [cake design guide sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipares ang birthday cake sa mga bata sa party
-
-Pagpili una og usa ka biswal nga ideya: usa ka paleta sa kolor, usa ka paborito nga kinaiya nga dinasig sa kinaiya, o usa ka yano nga motif. Dayon pagdesisyon kon unsay labing importante sa bata. Ang usa ka cake mahimong magpakita sa usa ka tema pinaagi sa kolor ug pipila ka mga porma nga dili mosulay sa pagkopya sa matag detalye gikan sa usa ka imbitasyon sa party. Pagpadala usa ka tin-aw nga pakisayran ug itudlo kung unsang mga bahin ang hinungdanon; kini naghatag sa lawak dekorador sa paghimo sa usa ka praktikal nga interpretasyon.
-
-Ang gidak-on kinahanglang mosunod sa gidaghanon sa mga mokaon ug cake, dili sa gidaghanon sa mga bata nga giimbitar. Ang ubang mga bisita mahimong molaktaw sa dessert, samtang ang mga hamtong mahimong mopaambit usab niini. Ang kasamtangang giya sa White Cakes nagbanabana sa 8–12 ka parti nga bahin gikan sa 6-pulgada nga cake ug 16–24 gikan sa 8-pulgada nga cake. Tagda ang mga ingon nga mga han-ay ug isulti ang panaderya kung nagpaabut ka nga daghang mga hiwa o ikaduha nga dessert.
-
-Alang sa kalihokan sa usa ka bata, ang mapuslanon nga mubo naglakip sa petsa, gusto nga lami, banabana sa pagserbisyo, mga kolor, mubo nga inskripsiyon, ug plano sa pagpadala o pagkuha. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake. Kumpirma ang petsa ug ang posibilidad sa disenyo sa wala pa ang 50% nga deposito, nga nagpamatuod sa gikasabutan nga order.
-
-Kini nga draft dili makaangkon sa gusto sa usa ka partikular nga bata o makapakita sa usa ka nahuman nga cake nga walay tinuod, giaprobahan nga litrato sa proyekto. Pagdugang og usa ka wala mailhi nga kaso lamang kung giaprobahan sa pamilya ang paggamit sa imahe ug ang aktuwal nga disenyo, mga pagpili, ug sangputanan mahimong mapamatud-an. Kung dili, iapil ang tambag sa pagplano sa naglungtad nga giya sa disenyo sa cake sa Cebu.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itugma ang cake ng kaarawan ng mga bata sa party
-
-Pumili muna ng isang visual na ideya: isang color palette, isang paboritong mood na inspirasyon ng karakter, o isang simpleng motif. Pagkatapos ay magpasya kung ano ang pinakamahalaga sa bata. Maaaring ipakita ng cake ang isang tema sa pamamagitan ng kulay at ilang mga hugis nang hindi sinusubukang kopyahin ang bawat detalye mula sa isang imbitasyon sa party. Magpadala ng isang malinaw na sanggunian at ituro kung aling mga bahagi ang mahalaga; binibigyan nito ang silid ng dekorador upang makagawa ng praktikal na interpretasyon.
-
-Dapat sundin ng laki ang bilang ng mga kumakain ng cake, hindi ang bilang ng mga bata na inimbitahan. Maaaring laktawan ng ilang bisita ang dessert, habang maaaring ibahagi din ito ng mga matatanda. Tinatantya ng kasalukuyang gabay ng White Cakes ang 8–12 party portion mula sa isang 6-inch na cake at 16–24 mula sa isang 8-inch na cake. Tratuhin ang mga iyon bilang mga hanay at sabihin sa panaderya kung inaasahan mong masaganang hiwa o pangalawang dessert.
-
-Para sa kaganapan ng isang bata, kasama sa kapaki-pakinabang na brief ang petsa, ninanais na lasa, pagtatantya ng paghahatid, mga kulay, maikling inskripsiyon, at plano sa paghahatid o pagkuha. Ang mga White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Kumpirmahin ang petsa at pagiging posible ng disenyo bago ang 50% na deposito, na nagpapatunay sa napagkasunduang order.
-
-Ang draft na ito ay hindi maaaring mag-claim ng isang partikular na kagustuhan ng bata o magpakita ng nakumpletong cake nang walang tunay, naaprubahang larawan ng proyekto. Magdagdag lang ng hindi kilalang kaso kapag inaprubahan ng pamilya ang paggamit ng larawan at mabe-verify ang aktwal na disenyo, mga pagpipilian, at resulta. Kung hindi, isama ang payo sa pagpaplano sa kasalukuyang gabay sa disenyo ng cake ng Cebu.
+- The design guidance follows the published hand-piped buttercream limits; verify these remain current before integration.
+- Confirm the product serving estimates and keep them qualified for design and slice size.
+- This is a merge section for existing children's birthday and cake-design guides, not another overlapping standalone page.
