@@ -10,4 +10,4 @@ This folder contains unpublished manuscript drafts derived from the 1,000-item r
 - Do not copy this folder into production or submit the draft URLs for indexing before the full editorial pass is complete.
 - Never invent White Cakes prices, serving counts, customer cases, delivery rules, available ingredients, or photo evidence. Recheck time-sensitive details before publication.
 
-The current work is on branch `cebubu/1000-article-drafts`, based on the live `main` commit. The branch has not been pushed. The manuscript set is complete; do a final editorial and live-site review before considering publication or indexing.
+The current work is on branch `cebubu/1000-article-drafts`, based on the live `main` commit and pushed to `origin`. It has not been merged or deployed to the live site. Search Console showed the submitted sitemap as successful with 68 discovered pages (last read 19 Nov 2026); the page-indexing report was still processing data. The manuscript set is complete, but the English bodies still need Cebuano and Tagalog translation and final editorial review before publication or indexing.
