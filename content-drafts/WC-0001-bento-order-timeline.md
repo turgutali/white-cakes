@@ -1,44 +1,76 @@
 ---
 id: WC-0001
-status: written-draft
-publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for 4-inch Bento cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa 4-inch nga Bento cake sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa 4-inch na Bento cake sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge as the Bento-specific timeline section of /journal/how-far-ahead-to-order-a-cake-cebu.html
+english_title: "When to Order a 4-Inch Bento Cake in Cebu"
+cebuano_title: "Kanus-a Mag-order og 4-Inch Bento Cake sa Cebu"
+tagalog_title: "Kailan Mag-order ng 4-Inch Bento Cake sa Cebu"
 ---
 
-## Planning a 4-inch Bento order around your Cebu date
+## English
 
-A small cake still needs a real production slot. White Cakes asks for at least three days' notice for a made-to-order Bento, and the date is not reserved just because an enquiry has been sent. If the celebration is on Saturday, contact the kitchen by Wednesday at the latest and earlier if the date is important or close to a holiday. Wait for an availability reply and the order confirmation before treating the cake as booked.
+# When to Order a 4-Inch Bento Cake in Cebu
 
-Send the details together so the bakery can answer in one pass: the date you need the cake, the flavour you want, the exact short inscription, and whether you prefer pickup arranged in Cebu City or delivery. For delivery, include the full address, a recognizable landmark, and the receiver's mobile number. A condo lobby, office tower, subdivision gate, or venue may need its own receiving instruction; a driver cannot guess who should accept a cake.
+A 4-inch cake is small, but it still needs a production slot. White Cakes asks for at least three days' notice for a made-to-order Bento. That is the minimum lead time, not a promise that every date will be available. If your celebration is on Saturday, ask about the date by Wednesday at the latest. Contact the bakery earlier for a holiday, an important event, or a date when several people may be ordering.
 
-The 4-inch size is intentionally small. It suits two generous servings or three modest slices after a meal. If more guests will share it, say how many people will eat cake rather than assuming that a small design can stretch to a large table. The bakery can point you to a larger option or confirm whether the requested plan is practical.
+## A simple order timeline
 
-Keep the design request concise. One reference photo, a colour preference, and a short line are more useful than a folder of conflicting examples. Ask whether the finish can be adapted before paying. A 50% deposit confirms an agreed order; the bakery should first reply with availability and the confirmed terms. For the complete order checklist, use the main Cebu cake-ordering guide and keep this Bento-specific timing note as its section rather than creating another near-identical page.
+**Before the three-day minimum:** choose the date, the flavour, and a short inscription. Decide whether you want to arrange Cebu City pickup or request delivery. If you are still unsure about flavour or wording, ask before placing the order so the details can be confirmed together.
+
+**When you enquire:** send the date you need the cake, your chosen flavour, the exact words for the top, and one clear design reference if you have one. For delivery, include the full address, a nearby landmark, and the mobile number of the person who will receive it. Condo, office, and subdivision orders may need specific lobby or gate instructions.
+
+**Wait for confirmation:** a sent message does not reserve the date. The bakery must confirm availability and the order details. The 50% deposit confirms an agreed order after the design and terms are clear. Keep the reply with your order information so you can check the date, flavour, inscription, and handover plan.
+
+## Check that the size fits
+
+The 4-inch Bento is intended for two generous servings or three modest slices after a meal. If more people will have cake, share the number of guests who will actually eat dessert. The bakery can then confirm whether the Bento is practical or point you to a larger option. Do not choose a small cake for a big table on the assumption that everyone will take only a bite.
+
+The Bento page lists current flavours, design details, and ordering information. Check it before paying, especially if a promotion or menu detail may have changed. For delivery, confirm the address and receiving instructions with the bakery; a delivery window is arranged after the order details are agreed.
+
+## Cebuano
+
+# Kanus-a Mag-order og 4-Inch Bento Cake sa Cebu
+
+Gamay ang 4-inch nga cake, apan kinahanglan gihapon kini og oras sa paghimo. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo para sa made-to-order nga Bento. Minimum nga lead time kini, dili garantiya nga available ang tanang petsa. Kung Sabado ang selebrasyon, pangutana bahin sa petsa sa dili pa molapas ang Miyerkules. Mas sayo pa kung holiday, importante nga okasyon, o petsa nga daghan tingali og order.
+
+## Yano nga timeline sa pag-order
+
+**Sa wala pa ang minimum nga tulo ka adlaw:** pilia ang petsa, flavour ug mubo nga mensahe. Desisyoni kung pickup sa Cebu City o delivery ang imong hangyo. Kung wala pa ka makapili og flavour o pulong, pangutana una aron makumpirma ninyo ang detalye sa usa ka higayon.
+
+**Sa pag-inquire:** ipadala ang petsa nga kinahanglan ang cake, napiling flavour, eksaktong isulat sa ibabaw, ug usa ka klarong reference photo kung naa. Para sa delivery, ihatag ang kompletong address, duol nga landmark ug mobile number sa modawat. Ang condo, opisina ug subdivision usahay manginahanglan og piho nga instruksyon para sa lobby o gate.
+
+**Hulata ang kumpirmasyon:** dili reserved ang petsa tungod lang kay nakapadala ka og mensahe. Kinahanglan kumpirmahon sa panaderya ang availability ug detalye sa order. Ang 50% nga deposito mokumpirma sa napagkasabutang order human maklaro ang disenyo ug terms. I-save ang tubag aron masusi nimo ang petsa, flavour, mensahe ug handover plan.
+
+## Siguroha nga moigo ang gidak-on
+
+Ang 4-inch Bento para sa duha ka dagkong serving o tulo ka gagmayng hiwa human sa pagkaon. Kung mas daghan ang mokaon og cake, isulti pila gyud ang mokaon og dessert. Makumpirma sa panaderya kung ang Bento igo ba o kung mas maayo ang mas dako nga kapilian. Ayaw pagpili og gamay nga cake para sa dakong lamesa sa pagtuo nga gamay ra ang kuhaon sa tanan.
+
+Tan-awa ang Bento page para sa kasamtangang flavour, disenyo ug detalye sa pag-order sa dili pa mobayad, ilabi na kung basin nausab ang promo o menu. Para sa delivery, kumpirmaha ang address ug instruksyon sa pagdawat; ang delivery window sabotan human maklaro ang order details.
+
+## Tagalog
+
+# Kailan Mag-order ng 4-Inch Bento Cake sa Cebu
+
+Maliit ang 4-inch na cake, pero kailangan pa rin nito ng oras sa paggawa. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na Bento. Minimum na lead time ito, hindi pangako na available ang bawat petsa. Kung Sabado ang selebrasyon, magtanong tungkol sa petsa bago sumapit ang Miyerkules. Magtanong nang mas maaga kung holiday, mahalagang okasyon, o petsa na maaaring maraming mag-order.
+
+## Simpleng timeline ng pag-order
+
+**Bago ang minimum na tatlong araw:** piliin ang petsa, flavour, at maikling mensahe. Pagpasiyahan kung Cebu City pickup o delivery ang hihilingin mo. Kung hindi ka pa sigurado sa flavour o text, magtanong muna para makumpirma ang mga detalye nang sabay.
+
+**Kapag mag-i-inquire:** ipadala ang petsa kung kailan mo kailangan ang cake, napiling flavour, eksaktong ipapasulat sa ibabaw, at isang malinaw na reference photo kung mayroon. Para sa delivery, ibigay ang kumpletong address, kalapit na landmark, at mobile number ng tatanggap. Maaaring kailanganin ng condo, opisina, o subdivision ang tiyak na tagubilin para sa lobby o gate.
+
+**Hintayin ang kumpirmasyon:** hindi nakareserba ang petsa dahil lang nakapagpadala ka ng mensahe. Kailangang kumpirmahin ng bakery ang availability at mga detalye ng order. Kinukumpirma ng 50% deposit ang napagkasunduang order kapag malinaw na ang disenyo at terms. Itago ang sagot para masuri ang petsa, flavour, mensahe, at handover plan.
+
+## Tiyaking sapat ang sukat
+
+Para ang 4-inch Bento sa dalawang masaganang serving o tatlong katamtamang hiwa pagkatapos kumain. Kung mas marami ang kakain ng cake, sabihin kung ilan talaga ang kakain ng dessert. Makukumpirma ng bakery kung praktikal ang Bento o kung mas malaking option ang kailangan. Huwag pumili ng maliit na cake para sa malaking mesa sa pag-aakalang kaunti lang ang kukunin ng lahat.
+
+Tingnan ang Bento page para sa kasalukuyang flavour, disenyo, at detalye ng pag-order bago magbayad, lalo na kung maaaring nagbago ang promo o menu. Para sa delivery, kumpirmahin ang address at tagubilin sa pagtanggap; pag-uusapan ang delivery window kapag malinaw na ang order details.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Nagplano ug 4-pulgada nga Bento order sa imong petsa sa Cebu
-
-Ang gamay nga cake nagkinahanglan gihapon og tinuod nga puwang sa produksiyon. Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa usa ka made-to-order nga Bento, ug ang petsa wala gireserba tungod lang kay gipadala ang usa ka pangutana. Kung Sabado ang selebrasyon, kontaka ang kusina sa labing ulahi ug sayo sa Miyerkules kung ang petsa importante o duol sa holiday. Paghulat alang sa usa ka tubag nga magamit ug ang pagkumpirma sa order sa dili pa pagtratar ang cake ingon nga gi-book.
-
-Ipadala ang mga detalye aron makatubag ang panaderya sa usa ka pass: ang petsa nga kinahanglan nimo ang cake, ang lami nga gusto nimo, ang eksaktong mubo nga inskripsiyon, ug kung gusto nimo ang pickup nga gihan-ay sa Cebu City o delivery. Alang sa paghatod, iapil ang tibuok nga adres, usa ka mailhan nga timaan, ug ang mobile number sa tigdawat. Ang lobby sa condo, tore sa opisina, ganghaan sa subdivision, o lugar mahimo’g kinahanglan ang kaugalingon nga panudlo sa pagdawat; ang usa ka drayber dili makatag-an kung kinsa ang kinahanglan nga modawat sa usa ka cake.
-
-Ang 4-pulgada nga gidak-on gituyo nga gamay. Nahiangay kini sa duha ka daghang pagkaon o tulo ka kasarangan nga mga hiwa pagkahuman sa pagkaon. Kung daghang mga bisita ang mopaambit niini, isulti kung pila ka mga tawo ang mokaon sa cake imbes nga maghunahuna nga ang usa ka gamay nga disenyo mahimo’g moabot sa usa ka dako nga lamesa. Ang panaderya mahimong magtudlo kanimo sa usa ka mas dako nga kapilian o makumpirma kung praktikal ba ang gihangyo nga plano.
-
-Hupti nga mubo ang hangyo sa disenyo. Ang usa ka reference nga litrato, usa ka kolor nga gusto, ug usa ka mubo nga linya mas mapuslanon kay sa usa ka folder sa nagkasumpaki nga mga pananglitan. Pangutan-a kung ang pagkahuman mahimo bang ipahiangay sa dili pa magbayad. Ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order; ang panaderya kinahanglan una nga motubag uban ang pagkaanaa ug ang gikumpirma nga mga termino. Alang sa kompleto nga checklist sa order, gamita ang nag-unang Cebu nga giya sa pag-order sa cake ug itago kining timing note nga espesipiko sa Bento isip iyang seksyon kay sa paghimo ug lain nga halos parehas nga panid.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Nagpaplano ng 4-inch na Bento order sa paligid ng iyong petsa sa Cebu
-
-Ang isang maliit na cake ay nangangailangan pa rin ng isang tunay na puwang ng produksyon. Ang White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa isang made-to-order na Bento, at ang petsa ay hindi nakalaan dahil lamang sa isang pagtatanong ay naipadala. Kung Sabado ang pagdiriwang, makipag-ugnayan sa kusina bago ang Miyerkules at mas maaga kung ang petsa ay mahalaga o malapit sa holiday. Maghintay ng tugon sa availability at ang kumpirmasyon ng order bago ituring ang cake bilang naka-book.
-
-Ipadala ang mga detalye nang magkasama para makasagot ang panaderya sa isang pass: ang petsa kung kailan mo kailangan ang cake, ang lasa na gusto mo, ang eksaktong maikling inskripsyon, at kung mas gusto mo ang pickup na nakaayos sa Cebu City o delivery. Para sa paghahatid, isama ang buong address, isang nakikilalang landmark, at ang numero ng mobile ng tatanggap. Ang lobby ng condo, office tower, subdivision gate, o venue ay maaaring mangailangan ng sarili nitong pagtuturo sa pagtanggap; hindi mahulaan ng driver kung sino ang dapat tumanggap ng cake.
-
-Ang 4-inch na laki ay sadyang maliit. Nababagay ito sa dalawang masaganang serving o tatlong katamtamang hiwa pagkatapos kumain. Kung mas maraming bisita ang magbahagi nito, sabihin kung gaano karaming tao ang kakain ng cake sa halip na ipagpalagay na ang isang maliit na disenyo ay maaaring umabot sa isang malaking mesa. Maaaring ituro sa iyo ng panaderya ang mas malaking opsyon o kumpirmahin kung praktikal ang hiniling na plano.
-
-Panatilihing maigsi ang kahilingan sa disenyo. Ang isang reference na larawan, isang kagustuhan sa kulay, at isang maikling linya ay mas kapaki-pakinabang kaysa sa isang folder ng magkasalungat na mga halimbawa. Tanungin kung ang tapusin ay maaaring iakma bago magbayad. Kinukumpirma ng 50% na deposito ang isang napagkasunduang order; ang panaderya ay dapat munang tumugon nang may kakayahang magamit at ang mga kumpirmadong tuntunin. Para sa kumpletong checklist ng order, gamitin ang pangunahing gabay sa pag-order ng cake ng Cebu at panatilihin itong tala sa timing na partikular sa Bento bilang seksyon nito sa halip na gumawa ng isa pang halos magkaparehong pahina.
+- This draft improves WC-0001 with a distinct Bento timing intent; merge into the existing Cebu lead-time guide rather than publishing a near-duplicate English URL.
+- Confirm lead time, serving estimate, deposit, current menu, pickup, and delivery workflow immediately before production integration.
+- Cebuano and Tagalog copy is newly written but still needs native-language review before publication.

@@ -1,44 +1,70 @@
 ---
 id: WC-0042
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to estimate servings for Signature Marble cake in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa Signature Marble cake sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa Signature Marble cake sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge the Signature Marble portion guidance into /journal/cake-sizes-cebu.html
+english_title: "How Many People Does a 6-Inch Signature Marble Cake Serve?"
+cebuano_title: "Pila ka Tawo ang Maigo sa 6-Inch nga Signature Marble Cake?"
+tagalog_title: "Ilang Tao ang Pagsasaluhan ng 6-Inch Signature Marble Cake?"
 ---
 
-## Planning portions for Signature Marble
+## English
 
-Signature Marble is the named 6-inch design at White Cakes. For planning, the current size guide gives a 6-inch round cake about 8–12 party slices. Treat that as an estimate, not a promise: the number changes with cake height, how generous each slice should be, and whether cake is the only dessert or one of several dishes after a Cebu family meal.
+# How Many People Does a 6-Inch Signature Marble Cake Serve?
 
-Before choosing, count the people who are likely to eat cake, not everyone invited to the event. Decide whether you want small tasting portions or full party slices. Then compare that number with the guide's ranges. A 4-inch Bento is intended for two generous or three modest servings; it is not the same choice as a 6-inch shared cake. The 8-inch guide range is about 16–24 party slices, and a common 6-inch-plus-8-inch two-tier arrangement is planned for roughly 30–36. Those larger counts are general planning estimates and should be confirmed for the actual design.
+Signature Marble is White Cakes' 6-inch cake with ivory buttercream, dusty-blue marbling, a piped shell border, and one rose. As a planning estimate, a 6-inch round cake can provide about 8–12 party slices. That range is not an exact promise for every design. Cake height, the way it is cut, and how much cake each guest expects all change the number of servings.
 
-When asking for a recommendation, send the date, expected cake-eaters, preferred slice size, flavour, and whether the cake will be served after a meal. If some guests will take slices home, mention that too. White Cakes can then confirm whether Signature Marble fits the plan or whether a larger custom size is more suitable.
+## Start with the people who will eat cake
 
-Do not use a photo's apparent diameter to calculate portions, and do not promise guests a fixed serving count before confirming the cake dimensions. Keep the size table and this decision method together on the existing Cebu cake-size guide so every cake page points to the same current serving assumptions.
+Count the likely cake-eaters rather than the full guest list. Some guests may skip dessert; others may want a generous slice. Think about when the cake will be served, too. If it follows a full meal with other desserts, smaller portions may be enough. If it is the main dessert, plan for fuller slices. Tell the bakery how you expect to serve it instead of relying on a number from a photo.
+
+For comparison, the 4-inch Bento is intended for two generous servings or three modest slices after a meal. An 8-inch round cake is estimated at about 16–24 party slices, while a common 6-inch plus 8-inch two-tier arrangement is planned for roughly 30–36. These are general estimates; confirm the serving plan for the actual cake and design.
+
+## What to send for a size recommendation
+
+Include your event date, how many people will eat cake, whether you expect small or generous slices, and if the cake will be served after a meal. If guests will take slices home, mention that. Add the flavour and any design reference so the bakery can check whether the requested details suit the size. White Cakes can then confirm whether Signature Marble fits the occasion or whether a larger custom option is more practical.
+
+The diameter of a cake in a photo is not enough to calculate portions, and a decorative design can change the finished dimensions. Ask for the size and serving plan to be confirmed with the quote before inviting guests to expect a fixed number of slices. See the [Cebu cake-size guide](/journal/cake-sizes-cebu.html) for the full comparison.
+
+## Cebuano
+
+# Pila ka Tawo ang Maigo sa 6-Inch nga Signature Marble Cake?
+
+Ang Signature Marble mao ang 6-inch nga cake sa White Cakes nga adunay ivory buttercream, dusty-blue marbling, piped shell border ug usa ka rose. Para sa pagplano, ang 6-inch nga lingin nga cake kasagarang banabanaon og mga 8–12 ka party slice. Dili kini eksaktong garantiya sa tanang disenyo. Makausab sa gidaghanon ang gitas-on sa cake, paagi sa paghiwa ug kadak-on sa serving nga gusto sa mga bisita.
+
+## Ihap ang tinuod nga mokaon og cake
+
+Ihap ang mga bisitang lagmit mokaon og cake, dili ang tibuok guest list. Adunay dili mokaon og dessert; adunay ganahan og dagkong hiwa. Hunahunaa usab kanus-a i-serve ang cake. Kung human kini sa bug-at nga pagkaon ug adunay laing dessert, mahimong igo na ang gagmayng portion. Kung mao kini ang pangunang dessert, planoha ang mas dagkong hiwa. Isulti sa panaderya unsaon nimo pag-serve imbes magsalig sa numero nga makita sa litrato.
+
+Alang sa pagtandi, ang 4-inch Bento para sa duha ka dagkong serving o tulo ka gagmayng hiwa human sa pagkaon. Ang 8-inch nga lingin nga cake gibanabana og mga 16–24 ka party slice; ang kasagarang two-tier nga 6-inch ug 8-inch plano alang sa mga 30–36. Kinatibuk-ang banabana kini; kumpirmaha ang serving plan para sa aktuwal nga cake ug disenyo.
+
+## Unsa ang ipadala aron matabangan ka pagpili?
+
+Iapil ang petsa sa okasyon, pila ka tawo ang mokaon og cake, gusto ba og gagmay o dagkong hiwa, ug kung i-serve ba kini human sa pagkaon. Kung adunay magdala og slice pauli, isulti usab. Idugang ang flavour ug reference photo aron masusi sa panaderya kung ang disenyo mohaom sa gidak-on. Kumpirmahon sa White Cakes kung igo ba ang Signature Marble o mas praktikal ang mas dako nga custom option.
+
+Dili igo ang diyametro sa cake sa litrato aron makwenta ang serving, ug mahimong mausab ang sukod sa nahuman nga cake tungod sa dekorasyon. Pangayoa ang kumpirmasyon sa gidak-on ug serving plan uban sa quote sa dili pa moingon sa mga bisita nga eksakto ang ihap sa hiwa. Tan-awa ang kompleto nga [cake-size guide sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Ilang Tao ang Pagsasaluhan ng 6-Inch Signature Marble Cake?
+
+Ang Signature Marble ay 6-inch na cake ng White Cakes na may ivory buttercream, dusty-blue marbling, piped shell border, at isang rose. Para sa pagpaplano, tinatantiyang nagbibigay ang 6-inch na bilog na cake ng mga 8–12 party slice. Hindi ito eksaktong pangako para sa bawat disenyo. Nagbabago ang dami ayon sa taas ng cake, paraan ng paghiwa, at laki ng serving na gusto ng mga bisita.
+
+## Bilangin ang mga taong kakain talaga ng cake
+
+Bilangin ang mga bisitang malamang kakain ng cake, hindi ang buong guest list. May mga hindi kakain ng dessert; may iba namang gusto ng mas malaking hiwa. Isipin din kung kailan ihahain ang cake. Kung pagkatapos ito ng mabigat na pagkain na may iba pang dessert, maaaring sapat ang mas maliliit na bahagi. Kung ito ang pangunahing dessert, magplano ng mas malalaking hiwa. Sabihin sa bakery kung paano mo ito ihahain sa halip na umasa sa bilang mula sa larawan.
+
+Para maikumpara, ang 4-inch Bento ay para sa dalawang masaganang serving o tatlong katamtamang hiwa pagkatapos kumain. Tinatayang 16–24 party slice naman ang 8-inch na bilog na cake; karaniwang pinaplano sa humigit-kumulang 30–36 ang two-tier na 6-inch at 8-inch. Pangkalahatang tantiya ang mga ito; kumpirmahin ang serving plan para sa mismong cake at disenyo.
+
+## Ano ang ipapadala para sa rekomendasyon sa sukat?
+
+Isama ang petsa ng event, bilang ng kakain ng cake, kung maliit o masaganang hiwa ang gusto, at kung ihahain ito pagkatapos kumain. Banggitin kung may mag-uuwi ng hiwa. Idagdag ang flavour at design reference para masuri ng bakery kung bagay ang detalye sa sukat. Makukumpirma ng White Cakes kung sapat ang Signature Marble o kung mas praktikal ang mas malaking custom option.
+
+Hindi sapat ang diameter ng cake sa larawan para kalkulahin ang servings, at maaaring magbago ang sukat ng tapos na cake dahil sa dekorasyon. Ipakumpirma ang sukat at serving plan kasama ng quote bago mangako sa mga bisita ng tiyak na dami ng hiwa. Tingnan ang buong [cake size guide sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano sa mga bahin para sa Signature Marble
-
-Ang Signature Marble mao ang ginganlan nga 6-pulgada nga disenyo sa White Cakes. Alang sa pagplano, ang kasamtangang giya sa gidak-on naghatag ug 6-pulgada nga lingin nga cake nga mga 8–12 ka hiwa sa partido. Tagda kana isip usa ka banabana, dili usa ka saad: ang gidaghanon mausab sa gitas-on sa cake, unsa ka manggihatagon ang matag slice, ug kung ang cake mao ra ang dessert o usa sa daghang mga putahe pagkahuman sa panihapon sa pamilya sa Sugbo.
-
-Sa dili pa mopili, ihap ang mga tawo nga lagmit mokaon sa cake, dili tanan nga giimbitar sa kalihokan. Pagdesisyon kung gusto nimo ang gagmay nga mga bahin sa pagtilaw o mga hiwa sa tibuuk nga partido. Dayon itandi kana nga numero sa mga han-ay sa giya. Ang usa ka 4-pulgada nga Bento gituyo alang sa duha ka manggihatagon o tulo ka kasarangan nga pag-alagad; dili kini parehas nga pagpili sa usa ka 6-pulgada nga gipaambit nga cake. Ang 8-pulgada nga han-ay sa giya mga 16-24 nga mga hiwa sa partido, ug usa ka sagad nga 6-pulgada-plus-8-pulgada nga duha ka lebel nga kahikayan giplano alang sa halos 30-36. Kadtong mas dagkong mga ihap mao ang kinatibuk-ang pagbanabana sa pagplano ug kinahanglang kumpirmahon alang sa aktuwal nga disenyo.
-
-Kung mangayo og rekomendasyon, ipadala ang petsa, gipaabot nga mga cake-eaters, gipalabi nga gidak-on sa slice, lami, ug kung ang cake isilbi pagkahuman sa pagpangaon. Kung ang pipila ka mga bisita magdala og mga hiwa sa balay, isulti usab kana. Ang White Cakes mahimo unya nga makumpirma kung ang Signature Marble mohaum sa plano o kung ang usa ka mas dako nga custom nga gidak-on mas angay.
-
-Ayaw gamita ang dayag nga diyametro sa usa ka litrato sa pagkalkulo sa mga bahin, ug ayaw pagsaad sa mga bisita og usa ka pirmi nga ihap sa pag-alagad sa dili pa kumpirmahon ang mga sukat sa cake. Hupti ang lamesa sa gidak-on ug kini nga pamaagi sa pagdesisyon nga magkauban sa kasamtangan nga giya sa gidak-on sa cake sa Sugbo aron ang matag panid sa cake magpunting sa parehas nga kasamtangan nga mga pangagpas sa pagserbisyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pagpaplano ng mga bahagi para sa Signature Marble
-
-Ang Signature Marble ay ang pinangalanang 6-inch na disenyo sa White Cakes. Para sa pagpaplano, ang kasalukuyang gabay sa laki ay nagbibigay ng 6-pulgadang bilog na cake na humigit-kumulang 8–12 party slice. Tratuhin iyon bilang isang pagtatantya, hindi isang pangako: nagbabago ang bilang sa taas ng cake, kung gaano dapat karami ang bawat hiwa, at kung ang cake ay ang tanging dessert o isa sa ilang pagkain pagkatapos ng hapunan ng pamilya sa Cebu.
-
-Bago pumili, bilangin ang mga taong malamang na kumain ng cake, hindi lahat ng imbitado sa kaganapan. Magpasya kung gusto mo ng maliliit na bahagi ng pagtikim o mga hiwa ng buong party. Pagkatapos ay ihambing ang numerong iyon sa mga hanay ng gabay. Ang 4-inch Bento ay inilaan para sa dalawang mapagbigay o tatlong katamtamang serving; hindi ito ang parehong pagpipilian sa isang 6-inch na shared cake. Ang 8-inch na hanay ng gabay ay humigit-kumulang 16–24 party slice, at isang karaniwang 6-inch-plus-8-inch na two-tier na kaayusan ay binalak para sa humigit-kumulang 30–36. Ang mas malalaking bilang na iyon ay mga pangkalahatang pagtatantya sa pagpaplano at dapat kumpirmahin para sa aktwal na disenyo.
-
-Kapag humihingi ng rekomendasyon, ipadala ang petsa, inaasahang mga kumakain ng cake, gustong laki ng slice, lasa, at kung ihain ang cake pagkatapos kumain. Kung mag-uuwi ng mga hiwa ang ilang bisita, banggitin din iyon. Pagkatapos ay makumpirma ng White Cakes kung naaangkop sa plano ang Signature Marble o kung mas angkop ang mas malaking custom na sukat.
-
-Huwag gumamit ng maliwanag na diameter ng isang larawan upang kalkulahin ang mga bahagi, at huwag mangako sa mga bisita ng isang nakapirming bilang ng paghahatid bago kumpirmahin ang mga sukat ng cake. Panatilihing magkasama ang talahanayan ng laki at ang paraan ng pagpapasya na ito sa kasalukuyang gabay sa laki ng cake ng Cebu upang ang bawat pahina ng cake ay tumuturo sa parehong kasalukuyang mga pagpapalagay sa paghahatid.
+- This draft replaces generic portion advice with a distinct Signature Marble serving question for the existing size guide.
+- Keep every serving count qualified as an estimate and verify the current size guide before production integration.
+- Cebuano and Tagalog copy is newly written but still needs native review before publication.

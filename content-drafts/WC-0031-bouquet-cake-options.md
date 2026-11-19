@@ -1,44 +1,70 @@
 ---
 id: WC-0031
-status: written-draft
-publish_action: merge into /journal/which-cake.html and /bouquet-cakes-cebu/
-english_title: "How to compare options for Bouquet Cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa Bouquet Cake sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa Bouquet Cake sa Cebu"
+status: human-written-trilingual-draft
+publish_action: add the gift-comparison section to /journal/which-cake.html and link to /bouquet-cakes-cebu/
+english_title: "Bouquet Cake or Flower Bouquet? Choosing a Gift in Cebu"
+cebuano_title: "Bouquet Cake o Bulak nga Bouquet? Pagpili og Regalo sa Cebu"
+tagalog_title: "Bouquet Cake o Bulak na Bouquet? Pagpili ng Regalo sa Cebu"
 ---
 
-## Choosing between a Bouquet Cake and other White Cakes designs
+## English
 
-The Bouquet Cake is the floral choice: buttercream rosettes and sage leaves are piped by hand, with pleated pink wrapper details, pearls, and a bow. It is designed to look like a bouquet that can be sliced. Choose it when the gift itself should make a visual statement and the recipient would enjoy flowers presented as cake.
+# Bouquet Cake or Flower Bouquet? Choosing a Gift in Cebu
 
-The alternatives serve different needs. The 4-inch Bento is compact and has a short message area; the current menu says it serves two generously or three modestly. Signature Marble is a 6-inch cake with ivory buttercream, dusty-blue marbling, a shell border, and one rose. Fully custom cakes can use a brief and reference photos to guide a hand-finished buttercream design. These are real distinctions to compare: visual style, size, message space, and the number of guests—not invented claims about taste or ingredients.
+A Bouquet Cake combines a floral presentation with a cake that can be sliced and shared. White Cakes finishes it with hand-piped buttercream rosettes and sage leaves, a pleated pink wrapper, pearls, and a bow. A flower bouquet is a different kind of gift: it decorates a room and is not served as dessert. The choice depends on what the recipient would enjoy and whether the occasion includes people who will share cake.
 
-Bouquet Cake pricing is quoted on request because the scale and finish can vary. Tell White Cakes the date, approximate guest count, and delivery or pickup preference, then ask for the confirmed quote before paying a deposit. The listed order guidance requests at least three days' notice; detailed piping, weekends, and holidays are reasons to contact the kitchen earlier and ask about availability.
+## Choose by the way the gift will be used
 
-If the cake will be shared by a group, do not infer the serving count from a photograph. Send the number of people who will eat cake and ask which size or scale is possible. Include the full delivery address, a nearby landmark, and a receiver's phone number if you want it delivered. This comparison belongs alongside the existing cake-style guide and Bouquet Cake menu page, where current photos and quote information can be kept together.
+Choose a Bouquet Cake when the cake itself should be part of the table and the recipient would enjoy a floral design they can share. It works as a visual gift, then becomes dessert. The floral finish is the defining feature; the actual cake size and scale can vary, so the photo alone cannot tell you how many people it will serve.
+
+Choose a regular cake style when you want a simpler centerpiece or a message-led design. Signature Marble is a 6-inch cake with ivory buttercream, dusty-blue marbling, a piped shell border, and one rose. A 4-inch Bento is the compact option for two generous slices or three modest slices after a meal. Fully custom cakes use a short brief and reference photos to guide a hand-finished buttercream design.
+
+## Confirm size and price before ordering
+
+Bouquet Cake pricing is quoted on request because scale and finish vary. Tell the bakery the date, how many people will eat cake, and whether you need delivery or arranged pickup. Ask which scale fits that group and request the final price before paying a deposit. White Cakes asks for at least three days' notice for made-to-order cakes; earlier enquiry is helpful for a weekend or holiday, but availability still needs confirmation.
+
+For delivery, send the full address, a nearby landmark, and the receiver's mobile number. Keep the decision simple: choose the floral design if the look and shared-dessert experience fit the recipient; choose another size or style if serving count, message space, or a specific finish matters more. See the current [Bouquet Cake menu in Cebu](/bouquet-cakes-cebu/) for photos and order details.
+
+## Cebuano
+
+# Bouquet Cake o Bulak nga Bouquet? Pagpili og Regalo sa Cebu
+
+Ang Bouquet Cake adunay hitsura sa bulak ug cake nga puwedeng hiwaan ug ipaambit. Gihuman kini sa White Cakes og hand-piped buttercream rosettes ug sage leaves, pleated nga pink wrapper, mga perlas ug bow. Lahi ang ordinaryong bouquet sa bulak: dekorasyon kini sa kwarto ug dili pagkaon nga pang-dessert. Magdepende ang pagpili sa gusto sa modawat ug kung adunay mga kauban nga mokaon og cake sa okasyon.
+
+## Hunahunaa unsaon paggamit sa regalo
+
+Pilia ang Bouquet Cake kung gusto nimong makita kini sa lamesa ug malingaw ang modawat sa floral nga disenyo nga puwedeng ipaambit. Dekorasyon kini nga regalo ug mahimong dessert human. Ang floral finish mao ang mailhan nga bahin; magkalahi ang aktuwal nga gidak-on ug scale, busa dili masulti sa litrato lang kung pila ang mahatagan.
+
+Pilia ang ordinaryong cake style kung mas gusto nimo og simple nga centerpiece o disenyo nga adunay mensahe. Ang Signature Marble kay 6-inch nga ivory cake nga adunay dusty-blue marbling, piped shell border ug usa ka rose. Ang 4-inch Bento gamay nga kapilian para sa duha ka dagkong hiwa o tulo ka gagmayng hiwa human mokaon. Para sa fully custom nga cake, gamiton ang mubo nga brief ug reference photo isip giya sa hand-finished buttercream design.
+
+## Kumpirmaha ang gidak-on ug presyo
+
+Ang Bouquet Cake adunay quote kay magkalahi ang scale ug finish. Isulti sa panaderya ang petsa, pila ka tawo ang mokaon og cake, ug kung delivery ba o pickup ang imong gusto. Pangutan-a unsang scale ang angay sa grupo ug hangyoa ang final nga presyo sa dili pa mobayad og deposito. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo para sa made-to-order nga cake; maayo nga mangutana og sayo para sa weekend o holiday, apan kinahanglan gihapon kumpirmahon ang availability.
+
+Para sa delivery, ihatag ang kompleto nga address, duol nga landmark ug mobile number sa modawat. Pilia ang floral nga disenyo kung ang hitsura ug pagpaambit sa dessert ang labing angay sa modawat; pilia ang laing gidak-on o style kung mas importante ang serving count, luna sa mensahe o piho nga finish. Tan-awa ang kasamtangang [Bouquet Cake menu sa Cebu](/bouquet-cakes-cebu/) para sa litrato ug detalye sa order.
+
+## Tagalog
+
+# Bouquet Cake o Bulak na Bouquet? Pagpili ng Regalo sa Cebu
+
+Pinagsasama ng Bouquet Cake ang floral na hitsura at cake na puwedeng hiwain at pagsaluhan. Kamay na ginagawa ng White Cakes ang buttercream rosettes at sage leaves, pleated na pink wrapper, pearls, at bow. Iba ang karaniwang flower bouquet: pampalamuti ito at hindi panghimagas. Nakadepende ang pagpili sa gusto ng tatanggap at kung may mga taong magsasalo ng cake sa okasyon.
+
+## Isipin kung paano gagamitin ang regalo
+
+Piliin ang Bouquet Cake kung gusto mong maging bahagi ito ng dessert table at matutuwa ang tatanggap sa floral na disenyong puwedeng pagsaluhan. Kapansin-pansin itong regalo at maaari ring ihain bilang dessert. Ang floral finish ang pangunahing katangian; maaaring mag-iba ang aktuwal na sukat at scale, kaya hindi masasabi sa larawan lang kung ilang tao ang mabibigyan.
+
+Piliin ang ibang cake style kung mas gusto mo ng payak na centerpiece o disenyong may mensahe. Ang Signature Marble ay 6-inch na ivory cake na may dusty-blue marbling, piped shell border, at isang rose. Ang 4-inch Bento ang maliit na option para sa dalawang masaganang hiwa o tatlong katamtamang hiwa pagkatapos kumain. Nagsisimula ang fully custom na cake sa maikling brief at reference photo para gabayan ang hand-finished buttercream design.
+
+## Kumpirmahin ang sukat at presyo bago mag-order
+
+Quote ang presyo ng Bouquet Cake dahil nag-iiba ang scale at finish. Sabihin sa bakery ang petsa, bilang ng kakain ng cake, at kung delivery o pickup ang gusto mo. Itanong kung anong scale ang babagay sa grupo at hingin ang final na presyo bago magdeposito. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake; makakatulong ang mas maagang inquiry para sa weekend o holiday, pero kailangan pa ring kumpirmahin ang availability.
+
+Para sa delivery, ibigay ang kumpletong address, kalapit na landmark, at mobile number ng tatanggap. Piliin ang floral na disenyo kung bagay sa tatanggap ang hitsura at pagsasaluhan itong dessert; pumili ng ibang sukat o style kung mas mahalaga ang serving count, espasyo para sa mensahe, o partikular na finish. Tingnan ang kasalukuyang [Bouquet Cake menu sa Cebu](/bouquet-cakes-cebu/) para sa photos at order details.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili tali sa usa ka Bouquet Cake ug uban pang mga disenyo sa White Cake
-
-Ang Bouquet Cake mao ang pagpili sa bulak: buttercream rosettes ug sage nga dahon gi-pipe pinaagi sa kamot, nga adunay pleated nga pink nga mga detalye sa wrapper, mga perlas, ug usa ka pana. Gidisenyo kini nga sama sa usa ka bouquet nga mahimong hiwaon. Pilia kini kung ang regalo mismo kinahanglan maghimo usa ka biswal nga pahayag ug ang nakadawat malingaw sa mga bulak nga gipresentar isip cake.
-
-Ang mga alternatibo nagsilbi sa lainlaing mga panginahanglan. Ang 4-pulgada nga Bento compact ug adunay usa ka mubo nga lugar sa mensahe; ang kasamtangan nga menu nag-ingon nga kini nag-alagad sa duha nga madagayaon o tulo nga kasarangan. Ang Signature Marble usa ka 6-pulgada nga cake nga adunay ivory buttercream, abog-asul nga marbling, usa ka utlanan sa kabhang, ug usa ka rosas. Ang bug-os nga naandan nga mga cake mahimong mogamit usa ka mubo ug pakisayran nga mga litrato aron paggiya sa usa ka hand-finished nga buttercream nga disenyo. Tinuod kini nga mga kalainan nga itandi: biswal nga istilo, gidak-on, espasyo sa mensahe, ug ang gidaghanon sa mga bisita-dili imbento nga mga pag-angkon bahin sa lami o sangkap.
-
-Ang pagpresyo sa Bouquet Cake gikutlo sa hangyo tungod kay ang sukod ug pagkahuman mahimong magkalahi. Isulti sa White Cakes ang petsa, gibana-bana nga ihap sa bisita, ug gusto sa paghatod o pickup, dayon pangayoa ang gikumpirma nga kinutlo sa dili pa mobayad og deposito. Ang nalista nga giya sa order nangayo ug labing menos tulo ka adlaw nga pahibalo; Ang detalyado nga mga tubo, katapusan sa semana, ug mga holiday mao ang mga hinungdan sa pagkontak sa kusina sa sayo pa ug pagpangutana bahin sa pagkaanaa.
-
-Kung ang cake ipaambit sa usa ka grupo, ayaw isulti ang gidaghanon sa pag-alagad gikan sa usa ka litrato. Ipadala ang gidaghanon sa mga tawo nga mokaon sa cake ug pangutana kon unsa nga gidak-on o timbangan ang posible. Ilakip ang kompleto nga adres sa pagpadala, usa ka duol nga landmark, ug numero sa telepono sa tigdawat kung gusto nimo kini ipadala. Kini nga pagtandi nahisakop sa naglungtad nga giya nga istilo sa cake ug panid sa menu sa Bouquet Cake, diin ang mga kasamtangang litrato ug impormasyon sa kinutlo mahimong tipigan nga magkauban.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pagpili sa pagitan ng Bouquet Cake at iba pang disenyo ng White Cake
-
-Ang Bouquet Cake ay ang mabulaklak na pagpipilian: buttercream rosettes at sage dahon ay piped sa pamamagitan ng kamay, na may pleated pink na mga detalye wrapper, perlas, at isang bow. Ito ay dinisenyo upang magmukhang isang bouquet na maaaring hiwain. Piliin ito kapag ang regalo mismo ay dapat gumawa ng isang visual na pahayag at ang tatanggap ay masisiyahan sa mga bulaklak na ipinakita bilang cake.
-
-Ang mga alternatibo ay nagsisilbi sa iba't ibang pangangailangan. Ang 4-inch Bento ay compact at may isang lugar ng maikling mensahe; ang kasalukuyang menu ay nagsasabi na ito ay nagsisilbi sa dalawa nang mapagbigay o tatlong katamtaman. Ang Signature Marble ay isang 6-inch na cake na may ivory buttercream, dusty-blue marbling, isang shell border, at isang rosas. Ang mga ganap na custom na cake ay maaaring gumamit ng maikli at reference na mga larawan upang gabayan ang isang hand-finished buttercream na disenyo. Ito ang mga tunay na pagkakaiba na ihahambing: visual na istilo, laki, espasyo ng mensahe, at ang bilang ng mga bisita—hindi imbento na mga claim tungkol sa lasa o mga sangkap.
-
-Ang pagpepresyo ng Bouquet Cake ay sinipi kapag hiniling dahil maaaring mag-iba ang sukat at tapusin. Sabihin sa White Cakes ang petsa, tinatayang bilang ng bisita, at kagustuhan sa paghahatid o pickup, pagkatapos ay hilingin ang nakumpirmang quote bago magbayad ng deposito. Ang nakalistang gabay sa order ay humihiling ng hindi bababa sa tatlong araw na paunawa; Ang detalyadong piping, weekend, at holidays ay mga dahilan para makipag-ugnayan sa kusina nang mas maaga at magtanong tungkol sa availability.
-
-Kung ang cake ay ibabahagi ng isang grupo, huwag ipahiwatig ang bilang ng paghahatid mula sa isang larawan. Ipadala ang bilang ng mga taong kakain ng cake at itanong kung aling laki o sukat ang posible. Isama ang buong address ng paghahatid, isang kalapit na landmark, at numero ng telepono ng tatanggap kung gusto mo itong maihatid. Ang paghahambing na ito ay kabilang sa umiiral na gabay sa istilo ng cake at pahina ng menu ng Bouquet Cake, kung saan maaaring panatilihing magkasama ang mga kasalukuyang larawan at impormasyon ng quote.
+- This draft replaces the machine-translated WC-0031 candidate with a distinct gift-choice angle and native-language copy.
+- Recheck the product page for details, quote process, lead time, and current service terms before integration.
+- Keep one existing cake-style guide and add the Bouquet menu link; do not create another near-duplicate English URL.
