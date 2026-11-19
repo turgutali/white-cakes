@@ -1,44 +1,39 @@
 ---
 id: WC-0133
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of children's birthday cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa adlawng natawhan sa bata sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa kaarawan ng bata sa Cebu"
 ---
+## Plan children’s birthday cake without inventing a customer story
 
-## Children's birthday cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this children’s birthday cake, the main choice may be one main idea; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Use only a real White Cakes cake with parent or guardian permission.** Confirm the order record and original photos. Get consent before publishing a child's image, name, age, school, or party location. If no permission exists, anonymize details and use only photos that do not identify the child; do not invent a story or reaction.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Document the actual design request, the child's chosen feature, size, flavour, and the bakery's adaptation. Use the order notes or team confirmation to verify what happened. Do not claim a popular character was reproduced if it was only used as inspiration.
+### Keep the brief easy to confirm
 
-Use accurate photo captions and explain one useful choice, such as how the design was simplified to fit the cake surface. Confirm current serving estimates and ordering details, then link to the design, size, and birthday pages. The article should answer a question the existing pages do not cover.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If original images, permission, or verified notes are unavailable, leave this framework unpublished and use the existing design guide.
+## Planoha ang cake para sa birthday sa bata nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa birthday sa bata, mahimong pangunang pilion ang usa ka pangunang ideya; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang cake para sa birthday ng bata nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa birthday ng bata, maaaring pangunahing piliin ang isang pangunahing ideya; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Balangkas sa pagtuon sa kaso sa cake sa adlawng natawhan sa mga bata
-
-**Paggamit lang ug tinuod nga White Cakes nga cake nga adunay pagtugot sa ginikanan o tigbantay.** Kumpirma ang order record ug orihinal nga mga litrato. Pagkuha og pagtugot sa dili pa i-publish ang imahe sa bata, ngalan, edad, eskuylahan, o lokasyon sa party. Kung walay pagtugot, i-anonymize ang mga detalye ug gamita lamang ang mga litrato nga dili makaila sa bata; ayaw pag-imbento og istorya o reaksyon.
-
-Idokumento ang aktuwal nga hangyo sa disenyo, ang gipili nga bahin sa bata, gidak-on, lami, ug ang pagpahaom sa panaderya. Gamita ang mga nota sa order o kumpirmasyon sa team aron mapamatud-an kung unsa ang nahitabo. Ayaw pag-angkon nga ang usa ka sikat nga karakter gikopya kung kini gigamit lamang ingon inspirasyon.
-
-Gamit ug saktong mga caption sa litrato ug ipasabot ang usa ka mapuslanong kapilian, sama sa giunsa pagpasimple ang disenyo aron mohaom sa ibabaw sa cake. Kumpirma ang kasamtangan nga mga banabana sa pagserbisyo ug mga detalye sa pag-order, dayon i-link sa disenyo, gidak-on, ug mga panid sa adlawng natawhan. Kinahanglang tubagon sa artikulo ang usa ka pangutana nga wala masakop sa mga panid.
-
-Kung dili magamit ang orihinal nga mga imahe, pagtugot, o gipamatud-an nga mga nota, ibilin kini nga balangkas nga wala mamantala ug gamita ang naglungtad nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Framework ng case-study ng cake ng kaarawan ng mga bata
-
-**Gumamit lang ng totoong White Cakes cake na may pahintulot ng magulang o tagapag-alaga.** Kumpirmahin ang record ng order at orihinal na mga larawan. Kumuha ng pahintulot bago mag-publish ng larawan, pangalan, edad, paaralan, o lokasyon ng party ng isang bata. Kung walang pahintulot, i-anonymize ang mga detalye at gumamit lamang ng mga larawan na hindi nagpapakilala sa bata; huwag mag-imbento ng kwento o reaksyon.
-
-Idokumento ang aktwal na kahilingan sa disenyo, ang napiling feature ng bata, laki, lasa, at ang adaptasyon ng panaderya. Gamitin ang mga tala ng order o kumpirmasyon ng koponan upang i-verify kung ano ang nangyari. Huwag mag-claim na ang isang sikat na karakter ay muling ginawa kung ito ay ginamit lamang bilang inspirasyon.
-
-Gumamit ng tumpak na mga caption ng larawan at ipaliwanag ang isang kapaki-pakinabang na pagpipilian, gaya ng kung paano pinasimple ang disenyo upang magkasya sa ibabaw ng cake. Kumpirmahin ang kasalukuyang mga pagtatantya sa paghahatid at mga detalye ng pag-order, pagkatapos ay i-link sa disenyo, laki, at mga pahina ng kaarawan. Dapat sagutin ng artikulo ang isang tanong na hindi saklaw ng mga kasalukuyang pahina.
-
-Kung hindi available ang mga orihinal na larawan, pahintulot, o na-verify na tala, iwanang hindi naka-publish ang framework na ito at gamitin ang kasalukuyang gabay sa disenyo.

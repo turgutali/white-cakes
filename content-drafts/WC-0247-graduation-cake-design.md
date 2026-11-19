@@ -1,7 +1,7 @@
 ---
 id: WC-0247
-status: evidence-gated-photo-case
-publish_action: photo case study only; use in /journal/cake-designs-cebu.html after a graduation cake photo is approved
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of graduation cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa graduation sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa graduation sa Cebu"

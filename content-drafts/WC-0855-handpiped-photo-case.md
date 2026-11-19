@@ -1,44 +1,39 @@
 ---
 id: WC-0855
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of custom cake with hand-piped details in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa custom nga cake nga adunay hand-piped nga detalye sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng custom na cake na may hand-piped na detalye sa Cebu"
 ---
+## Plan hand-piped cake without inventing a customer story
 
-## Hand-piped cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this hand-piped cake, the main choice may be piped elements and the available surface; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Complete only from a real White Cakes commission with permission.** Select a custom cake whose hand-piped details are visible in original photos. Verify the design and technique with the bakery team, confirm the order record, and obtain approval for the images. Never use stock or competitor photos as White Cakes work.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Explain one specific design decision: how piping was used to frame lettering, how a flower was placed, or how the details were simplified for the cake size. Use the actual brief and team confirmation. Do not name a technique or claim a production process unless it has been verified.
+### Keep the brief easy to confirm
 
-Use accurate full-cake and close-up captions. Include current size, flavour, quote, and serving information only after checking the live details. Link to the central design, custom brief, and order guides. The article should answer a distinct question and provide more value than a portfolio caption.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If no approved image and verified case exist, keep the framework unpublished and update the existing design guide instead.
+## Planoha ang cake nga hand-piped nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake nga hand-piped, mahimong pangunang pilion ang mga detalye sa piping ug luna sa ibabaw; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang cake na hand-piped nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake na hand-piped, maaaring pangunahing piliin ang mga detalye ng piping at espasyo sa ibabaw; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Hand-piped cake case-study framework
-
-**Kompleto lang gikan sa tinuod nga White Cakes nga komisyon nga adunay pagtugot.** Pagpili ug custom nga cake kansang mga detalye sa kamot-piped makita sa orihinal nga mga litrato. Tinoa ang disenyo ug teknik uban sa grupo sa panaderya, kumpirmahi ang rekord sa order, ug kuhaa ang pagtugot alang sa mga hulagway. Ayaw gamita ang stock o mga litrato sa kakompetensya samtang nagtrabaho ang White Cake.
-
-Ipasabut ang usa ka piho nga desisyon sa disenyo: giunsa paggamit ang piping sa pag-frame sa letra, giunsa pagbutang ang usa ka bulak, o giunsa ang mga detalye gipasimple alang sa gidak-on sa cake. Gamita ang aktuwal nga mubo ug kumpirmasyon sa team. Ayaw paghingalan og teknik o pag-angkon og proseso sa produksiyon gawas kon kini napamatud-an.
-
-Gamit ug saktong full-cake ug close-up nga mga caption. Ilakip ang karon nga gidak-on, lami, kinutlo, ug kasayuran sa pag-alagad pagkahuman sa pagsusi sa mga live nga detalye. Pag-link sa sentro nga disenyo, custom nga mubo, ug mga giya sa order. Kinahanglang tubagon sa artikulo ang usa ka lahi nga pangutana ug maghatag labi pa nga kantidad kaysa usa ka caption sa portfolio.
-
-Kung walay aprobado nga hulagway ug napamatud-an nga kaso nga anaa, ipabilin ang framework nga dili mamantala ug i-update hinuon ang kasamtangan nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Hand-piped cake case-study framework
-
-**Kumpleto lang mula sa isang tunay na komisyon ng White Cakes na may pahintulot.** Pumili ng custom na cake na ang mga detalye ng hand-piped ay makikita sa mga orihinal na larawan. I-verify ang disenyo at diskarte sa pangkat ng panaderya, kumpirmahin ang talaan ng order, at kumuha ng pag-apruba para sa mga larawan. Huwag gumamit ng stock o mga larawan ng kakumpitensya habang gumagana ang White Cake.
-
-Ipaliwanag ang isang partikular na desisyon sa disenyo: kung paano ginamit ang piping sa pag-frame ng lettering, kung paano inilagay ang isang bulaklak, o kung paano pinasimple ang mga detalye para sa laki ng cake. Gamitin ang aktwal na brief at kumpirmasyon ng koponan. Huwag pangalanan ang isang pamamaraan o i-claim ang isang proseso ng produksyon maliban kung ito ay na-verify.
-
-Gumamit ng tumpak na full-cake at close-up na caption. Isama lamang ang kasalukuyang laki, lasa, quote, at paghahatid ng impormasyon pagkatapos suriin ang mga live na detalye. Mag-link sa gitnang disenyo, custom na brief, at mga gabay sa pag-order. Dapat sagutin ng artikulo ang isang natatanging tanong at magbigay ng higit na halaga kaysa sa caption ng portfolio.
-
-Kung walang naaprubahang larawan at na-verify na kaso, panatilihing hindi naka-publish ang framework at i-update na lang ang kasalukuyang gabay sa disenyo.

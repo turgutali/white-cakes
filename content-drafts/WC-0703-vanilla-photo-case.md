@@ -1,38 +1,39 @@
 ---
 id: WC-0703
-status: evidence-needed
-publish_action: case-specific URL only with real order, original approved photo, and customer permission; otherwise omit
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of vanilla cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa vanilla cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng vanilla cake sa Cebu"
 ---
+## Plan vanilla cake without inventing a customer story
 
-## Editorial framework: show the cake’s real finish without guessing its ingredients
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this vanilla cake, the main choice may be the requested finish and current flavour options; write down what should remain recognizable and what is flexible before sending a reference.
 
-This requires a real White Cakes vanilla cake and original photography approved for publication. If evidence exists, show the complete cake and explain one design decision visible in the image, such as the way the lettering or border fits the chosen size. Confirm the current product description and flavour with the bakery.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Do not infer recipe, filling, ingredients, customer response, or the technique used from the photo alone. Use accurate alt text and identify it as a past custom design if it is not a standard product available now. Obtain customer permission before sharing event details.
+### Keep the brief easy to confirm
 
-Without an approved image and verified information, keep this as an internal photo request and link to the general design guide.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
+
+## Planoha ang vanilla cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining vanilla cake, mahimong pangunang pilion ang gipangayong finish ug kasamtangang flavour options; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang vanilla cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa vanilla cake, maaaring pangunahing piliin ang hinihiling na finish at kasalukuyang flavour options; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Balangkas sa editoryal: ipakita ang tinuod nga pagkahuman sa cake nga dili matag-an ang mga sangkap niini
-
-Nagkinahanglan kini og usa ka tinuod nga White Cakes vanilla cake ug orihinal nga litrato nga gi-aprobahan alang sa pagmantala. If evidence exists, show the complete cake and explain one design decision visible in the image, such as the way the lettering or border fits the chosen size. Kumpirma ang kasamtangan nga paghulagway sa produkto ug lami sa panaderya.
-
-Ayaw isulti ang resipe, pagpuno, sangkap, tubag sa kustomer, o ang teknik nga gigamit gikan sa litrato lamang. Gamita ang tukma nga alt text ug ilha kini isip usa ka nangagi nga custom nga disenyo kon kini dili usa ka standard nga produkto nga anaa karon. Pagkuha og pagtugot sa kustomer sa dili pa ipaambit ang mga detalye sa panghitabo.
-
-Kung walay giaprobahan nga hulagway ug gipamatud-an nga impormasyon, tipigi kini isip internal nga hangyo sa litrato ug sumpay sa kinatibuk-ang giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Framework ng editoryal: ipakita ang tunay na pagtatapos ng cake nang hindi hinuhulaan ang mga sangkap nito
-
-Nangangailangan ito ng tunay na White Cakes vanilla cake at orihinal na photography na naaprubahan para sa publikasyon. Kung may ebidensiya, ipakita ang kumpletong cake at ipaliwanag ang isang desisyon sa disenyo na makikita sa larawan, gaya ng paraan na umaangkop ang titik o hangganan sa napiling laki. Kumpirmahin ang kasalukuyang paglalarawan at lasa ng produkto sa panaderya.
-
-Huwag maghinuha ng recipe, pagpuno, mga sangkap, tugon ng customer, o ang pamamaraan na ginamit mula sa larawan lamang. Gumamit ng tumpak na alt text at tukuyin ito bilang dating custom na disenyo kung hindi ito isang karaniwang produkto na available ngayon. Kumuha ng pahintulot ng customer bago ibahagi ang mga detalye ng kaganapan.
-
-Kung walang inaprubahang larawan at na-verify na impormasyon, panatilihin ito bilang isang panloob na kahilingan sa larawan at i-link sa pangkalahatang gabay sa disenyo.

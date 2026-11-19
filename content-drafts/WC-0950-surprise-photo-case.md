@@ -1,44 +1,39 @@
 ---
 id: WC-0950
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of cake for a surprise celebration in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa sorpresa nga selebrasyon sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa sorpresang pagdiriwang sa Cebu"
 ---
+## Plan surprise cake around the handoff
 
-## Surprise cake case-study framework
+The design is only one part of a successful celebration order. Start with the moment the cake will be served, then work backwards: who can receive it, where the box can wait, and what the venue or household allows. For surprise cake, name one person as the receiver and give the bakery a reachable mobile number. Include the complete address and a landmark; add gate, lobby, loading, or entrance instructions only when they apply. Confirm the delivery area, fee, and available time directly with the bakery because these details depend on the exact address and date.
 
-**Do not publish until a real White Cakes project and permission are verified.** Select an actual surprise-cake order with original finished photos and an order record. Confirm permission to use the images and any recipient, venue, date, or message details. Anonymize the story unless identification is expressly approved. Never invent the surprise or the recipient's reaction.
+Choose a message and decoration that fit the event without relying on a fictional customer story. One clear reference image can show the mood; describe which parts matter most and which can change. Keep names, dates, and spelling in the order message so they can be checked before production.
 
-Explain the actual decisions the bakery made: how the design was chosen, what the orderer specified, and how delivery was coordinated without revealing the surprise. Use the order notes or team confirmation. Do not claim secrecy, an on-time arrival, or a particular customer response unless those facts are documented.
+### A practical checklist
 
-Use original photos with accurate captions and descriptive alt text. Include current size and order details only after checking the menu. Link to the custom brief, size, and delivery guides. The case should answer a distinct practical question rather than reproduce an existing surprise-order checklist.
+Before the order is final, confirm the date, serving time, estimated number of cake eaters, design, flavour from the current menu, inscription, price, and handoff plan. Ask what to do if the program changes or the recipient is delayed. At the venue, follow the bakery’s storage advice and keep the cake away from direct sun and a hot vehicle.
 
-If no verified case and image permission exist, keep this framework unpublished and update the central guides instead.
+## Iplano ang cake para sa sorpresa palibot sa handoff
+
+Usa lamang ang disenyo sa mga bahin sa maayong order para sa selebrasyon. Sugdi sa oras nga i-serve ang cake, dayon hunahunaa paatras: kinsa ang modawat, asa ibutang ang kahon, ug unsay gitugot sa venue o balay. Para sa cake para sa sorpresa, pagpili og usa ka modawat ug ihatag sa panaderya ang mobile number nga matawagan. Iapil ang kompletong address ug landmark; dugangi og instruksyon sa gate, lobby, loading o entrance kon kinahanglan. Kumpirmaha direkta sa panaderya ang delivery area, bayad ug available nga oras kay nagdepende kini sa eksaktong address ug petsa.
+
+Pilia ang mensahe ug dekorasyon nga mohaom sa okasyon nga walay hinimong istorya sa customer. Makapakita ang usa ka klarong reference image sa mood; isulti kung unsang detalye ang importante ug unsa ang puwedeng usbon. Ibutang sa order message ang ngalan, petsa ug spelling aron masusi sa dili pa himuon.
+
+### Praktikal nga checklist
+
+Sa dili pa final ang order, kumpirmaha ang petsa, oras sa pag-serve, banabana sa mokaon og cake, disenyo, flavour gikan sa kasamtangang menu, inskripsiyon, presyo ug handoff plan. Pangutan-a unsay buhaton kung mausab ang programa o malangan ang modawat. Sa venue, sunda ang tambag sa panaderya sa pagtipig ug ipahilayo ang cake sa diretsong adlaw ug init nga sakyanan.
+
+## Planuhin ang cake para sa sorpresa ayon sa handoff
+
+Bahagi lamang ang disenyo ng maayos na order para sa selebrasyon. Magsimula sa oras ng paghahain ng cake, saka magplano pabalik: sino ang tatanggap, saan maaaring manatili ang kahon, at ano ang pinapayagan ng venue o bahay. Para sa cake para sa sorpresa, pumili ng isang tatanggap at ibigay sa panaderya ang mobile number na maaabot. Isama ang buong address at landmark; idagdag ang tagubilin sa gate, lobby, loading, o entrance kung kailangan. Kumpirmahin mismo sa panaderya ang delivery area, bayad, at available na oras dahil nakadepende ang mga ito sa eksaktong address at petsa.
+
+Pumili ng mensahe at dekorasyong bagay sa okasyon nang hindi umaasa sa kathang-isip na kuwento ng customer. Maipapakita ng isang malinaw na reference image ang mood; sabihin kung aling detalye ang mahalaga at alin ang puwedeng baguhin. Ilagay sa order message ang pangalan, petsa, at spelling para masuri bago gawin.
+
+### Praktikal na checklist
+
+Bago i-finalize ang order, kumpirmahin ang petsa, oras ng paghahain, tantiyang bilang ng kakain ng cake, disenyo, flavour mula sa kasalukuyang menu, inskripsiyon, presyo, at handoff plan. Itanong kung ano ang gagawin kapag nagbago ang programa o naantala ang tatanggap. Sa venue, sundin ang payo ng panaderya sa pag-iimbak at ilayo ang cake sa direktang araw at mainit na sasakyan.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Surprise cake case-study framework
-
-**Ayaw pagmantala hangtod ang usa ka tinuod nga White Cakes nga proyekto ug pagtugot mapamatud-an.** Pagpili ug aktuwal nga surprise-cake order nga adunay orihinal nga nahuman nga mga litrato ug usa ka order record. Kumpirma ang pagtugot sa paggamit sa mga imahe ug bisan kinsa nga nakadawat, lugar, petsa, o mga detalye sa mensahe. I-anonymize ang istorya gawas kung hayag nga giaprobahan ang pag-ila. Ayaw pag-imbento sa surpresa o sa reaksyon sa nakadawat.
-
-Ipatin-aw ang aktuwal nga mga desisyon nga gihimo sa panaderya: giunsa pagpili ang disenyo, unsay gipiho sa nag-order, ug giunsa pag-coordinate ang paghatod nga wala ibutyag ang katingala. Gamita ang mga nota sa order o kumpirmasyon sa team. Ayaw pag-angkon og sekreto, usa ka on-time nga pag-abot, o usa ka partikular nga tubag sa kustomer gawas kung kini nga mga kamatuoran nadokumento.
-
-Gamita ang orihinal nga mga litrato nga adunay tukma nga mga caption ug deskriptibo nga alt text. Ilakip ang karon nga gidak-on ug mga detalye sa order pagkahuman sa pagsusi sa menu. Pag-link sa custom nga mubo, gidak-on, ug mga giya sa paghatud. Kinahanglang tubagon sa kaso ang usa ka lahi nga praktikal nga pangutana imbes nga mag-reproduce sa usa ka kasamtangan nga surpresang order checklist.
-
-Kung walay gipamatud-an nga kaso ug permiso sa imahe, ipadayon kini nga balangkas nga dili mamantala ug i-update ang sentro nga mga giya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Surprise cake case-study framework
-
-**Huwag mag-publish hanggang sa ma-verify ang isang tunay na proyekto at pahintulot ng White Cakes.** Pumili ng aktwal na order ng surprise-cake na may mga orihinal na natapos na larawan at record ng order. Kumpirmahin ang pahintulot na gamitin ang mga larawan at sinumang tatanggap, lugar, petsa, o mga detalye ng mensahe. I-anonymize ang kuwento maliban kung hayagang inaprubahan ang pagkakakilanlan. Huwag kailanman mag-imbento ng sorpresa o reaksyon ng tatanggap.
-
-Ipaliwanag ang mga aktwal na desisyon na ginawa ng panaderya: kung paano pinili ang disenyo, kung ano ang tinukoy ng nag-order, at kung paano isinaayos ang paghahatid nang hindi inilalantad ang sorpresa. Gamitin ang mga tala ng order o kumpirmasyon ng koponan. Huwag mag-claim ng lihim, pagdating sa oras, o partikular na tugon ng customer maliban kung ang mga katotohanang iyon ay dokumentado.
-
-Gumamit ng mga orihinal na larawan na may tumpak na mga caption at mapaglarawang alt text. Isama lamang ang kasalukuyang laki at mga detalye ng order pagkatapos suriin ang menu. Mag-link sa custom na brief, laki, at mga gabay sa paghahatid. Dapat sagutin ng kaso ang isang natatanging praktikal na tanong sa halip na magparami ng isang umiiral na checklist ng sorpresa-order.
-
-Kung walang na-verify na kaso at pahintulot ng larawan, panatilihing hindi nai-publish ang framework na ito at i-update na lang ang mga pangunahing gabay.

@@ -1,44 +1,39 @@
 ---
 id: WC-0817
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of marble cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa marble cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng marble cake sa Cebu"
 ---
+## Plan marble cake without inventing a customer story
 
-## Marble cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this marble cake, the main choice may be the pattern and overall colour balance; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Use a real White Cakes cake with verified design facts and image permission.** Choose a marble-finish order with original photos and confirm that the cake is still representative of a current service. Obtain permission to publish the images; do not use stock art or a competitor's cake as a portfolio example.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Document the base colour, accent colours, visible pattern, border, flower, size, and any customer-requested change only if those details are confirmed. Explain one real design choice that can help a reader brief a marble cake. Do not claim a particular technique or material unless the bakery confirms it.
+### Keep the brief easy to confirm
 
-Use close-up and full-cake photographs with accurate captions. Include current pricing and serving details only after verification, then link to the central cake-design and custom-order guides. A distinct page should answer a specific marble-design question beyond the existing Signature Marble product description.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If there is no approved case or a separate user need, leave the framework unpublished and update the current design guide instead.
+## Planoha ang marble cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining marble cake, mahimong pangunang pilion ang pattern ug balanse sa kolor; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang marble cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa marble cake, maaaring pangunahing piliin ang pattern at balanse ng kulay; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Marble cake case-study framework
-
-**Paggamit ug tinuod nga White Cakes nga cake nga adunay gipamatud-an nga mga kamatuoran sa disenyo ug pagtugot sa hulagway.** Pagpili og marmol-finish order nga adunay orihinal nga mga litrato ug kumpirmahi nga ang cake nagrepresentar gihapon sa kasamtangang serbisyo. Pagkuha og pagtugot sa pagmantala sa mga hulagway; ayaw gamita ang stock art o cake sa kakompetensya isip pananglitan sa portfolio.
-
-Idokumento ang base nga kolor, mga kolor sa accent, makita nga pattern, border, bulak, gidak-on, ug bisan unsang kausaban nga gihangyo sa kustomer kon kumpirmado lang ang maong mga detalye. Ipasabut ang usa ka tinuud nga kapilian sa disenyo nga makatabang sa usa ka magbabasa nga mubu sa usa ka marmol nga cake. Ayaw pag-angkon og usa ka partikular nga teknik o materyal gawas kon ang panaderya nagpamatuod niini.
-
-Paggamit og close-up ug full-cake nga mga litrato nga adunay tukma nga mga caption. Ilakip ang kasamtangang presyo ug mga detalye sa pagserbisyo human lamang sa pag-verify, dayon i-link sa sentro nga disenyo sa cake ug custom-order nga mga giya. Ang usa ka lahi nga panid kinahanglan nga motubag sa usa ka piho nga pangutana sa disenyo sa marmol lapas sa naglungtad nga paghulagway sa produkto nga Signature Marble.
-
-Kung walay giaprobahan nga kaso o usa ka bulag nga panginahanglan sa user, ibilin ang framework nga dili mamantala ug i-update hinuon ang kasamtangan nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Marble cake case-study framework
-
-**Gumamit ng isang tunay na White Cakes cake na may na-verify na mga katotohanan sa disenyo at pahintulot sa larawan.** Pumili ng isang marble-finish order na may mga orihinal na larawan at kumpirmahin na ang cake ay kumakatawan pa rin sa isang kasalukuyang serbisyo. Kumuha ng pahintulot na i-publish ang mga larawan; huwag gumamit ng stock art o cake ng kakumpitensya bilang halimbawa ng portfolio.
-
-Idokumento ang base na kulay, mga kulay ng accent, nakikitang pattern, border, bulaklak, laki, at anumang pagbabago na hiniling ng customer kung kumpirmado ang mga detalyeng iyon. Ipaliwanag ang isang tunay na pagpipilian sa disenyo na makakatulong sa isang mambabasa na magbigay ng isang marble cake. Huwag mag-claim ng isang partikular na pamamaraan o materyal maliban kung kumpirmahin ito ng panaderya.
-
-Gumamit ng mga close-up at full-cake na larawan na may tumpak na mga caption. Isama lamang ang kasalukuyang pagpepresyo at mga detalye ng paghahatid pagkatapos ng pag-verify, pagkatapos ay i-link sa gitnang mga gabay sa disenyo ng cake at custom-order. Dapat sagutin ng isang natatanging page ang isang partikular na tanong sa disenyo ng marmol na lampas sa kasalukuyang paglalarawan ng produkto ng Signature Marble.
-
-Kung walang inaprubahang kaso o hiwalay na pangangailangan ng user, iwanan ang framework na hindi nai-publish at i-update na lang ang kasalukuyang gabay sa disenyo.

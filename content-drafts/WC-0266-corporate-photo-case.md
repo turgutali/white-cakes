@@ -1,44 +1,39 @@
 ---
 id: WC-0266
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of corporate cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa opisina sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa opisina sa Cebu"
 ---
+## Plan corporate cake without inventing a customer story
 
-## Corporate cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this corporate cake, the main choice may be logo, message, and viewing distance; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Only use a real White Cakes corporate order with approval.** Verify the order details and original photos. Obtain the company's permission for any logo, name, brand colours, venue, or identifiable staff. Do not present a generic cake image as a business commission or invent the milestone story.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Choose one design decision that adds value for readers: how the logo was placed, how the message fit the cake, or how the palette reflected the event. Verify the choices with the order record or the bakery team. Do not disclose internal company information or customer feedback without permission.
+### Keep the brief easy to confirm
 
-Use original full-cake and close-up images with accurate captions. Include size, flavour, and delivery details only after rechecking the current menu and confirming what can be shared. Link to the corporate order, design, and delivery guides. The case should answer a distinct question beyond a gallery caption.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If no approved project exists, keep this framework unpublished and add verified general corporate guidance to current pages.
+## Planoha ang corporate cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining corporate cake, mahimong pangunang pilion ang logo, mensahe, ug gilay-on sa pagtan-aw; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang corporate cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa corporate cake, maaaring pangunahing piliin ang logo, mensahe, at layo ng pagtingin; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Kumpanya nga cake case-study framework
-
-**Gamit lang ang tinuod nga White Cakes nga corporate order nga adunay pagtugot.** I-verify ang mga detalye sa order ug orihinal nga mga litrato. Pagkuha og pagtugot sa kompanya alang sa bisan unsang logo, ngalan, kolor sa brand, lugar, o mailhan nga kawani. Ayaw pagpresentar og usa ka generic nga hulagway sa cake isip komisyon sa negosyo o pag-imbento sa milestone nga istorya.
-
-Pagpili og usa ka desisyon sa disenyo nga makadugang og bili alang sa mga magbabasa: giunsa pagbutang ang logo, giunsa ang mensahe nga mohaum sa cake, o giunsa pagpakita sa palette ang panghitabo. Tinoa ang mga kapilian gamit ang rekord sa order o ang grupo sa panaderya. Ayaw ibutyag ang internal nga impormasyon sa kompanya o feedback sa kustomer nga wala’y pagtugot.
-
-Gamita ang orihinal nga full-cake ug close-up nga mga hulagway nga adunay tukma nga mga caption. Iapil ang gidak-on, lami, ug mga detalye sa paghatud pagkahuman sa pagsusi pag-usab sa karon nga menu ug pagkumpirma kung unsa ang mahimong ipaambit. Link sa corporate order, disenyo, ug mga giya sa paghatud. Kinahanglang tubagon sa kaso ang usa ka lahi nga pangutana lapas sa caption sa gallery.
-
-Kung walay giaprobahan nga proyekto, ipabilin kini nga gambalay nga dili mamantala ug idugang ang gipamatud-an nga kinatibuk-ang giya sa korporasyon ngadto sa kasamtangan nga mga panid.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Corporate cake case-study framework
-
-**Gumamit lang ng totoong White Cakes corporate order na may pag-apruba.** I-verify ang mga detalye ng order at orihinal na mga larawan. Kumuha ng pahintulot ng kumpanya para sa anumang logo, pangalan, kulay ng brand, lugar, o makikilalang kawani. Huwag magpakita ng generic na imahe ng cake bilang isang komisyon sa negosyo o mag-imbento ng kuwento ng milestone.
-
-Pumili ng isang desisyon sa disenyo na nagdaragdag ng halaga para sa mga mambabasa: kung paano inilagay ang logo, kung paano magkasya ang mensahe sa cake, o kung paano ipinakita ng palette ang kaganapan. I-verify ang mga pagpipilian gamit ang talaan ng order o ang pangkat ng panaderya. Huwag ibunyag ang panloob na impormasyon ng kumpanya o feedback ng customer nang walang pahintulot.
-
-Gumamit ng orihinal na full-cake at mga close-up na larawan na may tumpak na mga caption. Isama lamang ang mga detalye ng laki, lasa, at paghahatid pagkatapos suriin muli ang kasalukuyang menu at kumpirmahin kung ano ang maaaring ibahagi. Link sa corporate order, disenyo, at mga gabay sa paghahatid. Dapat sagutin ng kaso ang isang natatanging tanong na lampas sa caption ng gallery.
-
-Kung walang naaprubahang proyekto, panatilihing hindi na-publish ang framework na ito at magdagdag ng na-verify na pangkalahatang patnubay ng kumpanya sa mga kasalukuyang page.

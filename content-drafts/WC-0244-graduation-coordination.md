@@ -1,7 +1,7 @@
 ---
 id: WC-0244
-status: draft-needs-real-delivery-case
-publish_action: merge into /journal/cake-delivery-cebu.html
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "How to coordinate graduation cake in Cebu"
 cebuano_title: "Giunsa pag-coordinate ang cake para sa graduation sa Cebu"
 tagalog_title: "Paano i-coordinate ang cake para sa graduation sa Cebu"

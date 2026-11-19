@@ -1,44 +1,39 @@
 ---
 id: WC-0570
-status: evidence-gated-photo-case
-publish_action: create a case-specific URL only after a real Mandaue family order, original approved photos, verified details, and customer permission; otherwise merge a general lesson into /journal/cake-designs-cebu.html
-evidence_required: completed order record; original image files and rights; written customer permission; verified address, brief, design, size, flavour, and year
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A Mandaue Family Cake Design Case Study from Cebu"
 cebuano_title: "Case Study sa Disenyo sa Cake para sa Pamilya sa Mandaue"
 tagalog_title: "Case Study ng Design ng Cake para sa Pamilyang Mandaue"
 ---
+## Plan cake for a Mandaue family gathering around the handoff
 
-## Evidence gate
+The design is only one part of a successful celebration order. Start with the moment the cake will be served, then work backwards: who can receive it, where the box can wait, and what the venue or household allows. For cake for a Mandaue family gathering, name one person as the receiver and give the bakery a reachable mobile number. Include the complete address and a landmark; add gate, lobby, loading, or entrance instructions only when they apply. Confirm the delivery area, fee, and available time directly with the bakery because these details depend on the exact address and date.
 
-Use a real, documented White Cakes order delivered to a Mandaue family event. Confirm the address details that may be shared and obtain permission for every original image. Do not publish a precise home address or identify a family member without explicit approval.
+Choose a message and decoration that fit the event without relying on a fictional customer story. One clear reference image can show the mood; describe which parts matter most and which can change. Keep names, dates, and spelling in the order message so they can be checked before production.
 
-Describe only verified facts: the family’s brief, chosen size and flavour, design, inscription, and delivery arrangement. Use captions that match each photo. Do not invent guest reactions, family circumstances, a delivery result, or a claim that coverage applies to every Mandaue address.
+### A practical checklist
 
-The article should explain one real design or coordination decision that helps future customers, not merely display the cake. If the order notes do not support that lesson, omit it. Without the real case and permission, keep this entry unpublished and add general advice to the canonical guide instead.
+Before the order is final, confirm the date, serving time, estimated number of cake eaters, design, flavour from the current menu, inscription, price, and handoff plan. Ask what to do if the program changes or the recipient is delayed. At the venue, follow the bakery’s storage advice and keep the cake away from direct sun and a hot vehicle.
 
-## Cebuano
+## Iplano ang cake para sa panagtapok sa pamilya sa Mandaue palibot sa handoff
 
-## Kinahanglan nga ebidensiya
+Usa lamang ang disenyo sa mga bahin sa maayong order para sa selebrasyon. Sugdi sa oras nga i-serve ang cake, dayon hunahunaa paatras: kinsa ang modawat, asa ibutang ang kahon, ug unsay gitugot sa venue o balay. Para sa cake para sa panagtapok sa pamilya sa Mandaue, pagpili og usa ka modawat ug ihatag sa panaderya ang mobile number nga matawagan. Iapil ang kompletong address ug landmark; dugangi og instruksyon sa gate, lobby, loading o entrance kon kinahanglan. Kumpirmaha direkta sa panaderya ang delivery area, bayad ug available nga oras kay nagdepende kini sa eksaktong address ug petsa.
 
-Gamita ang tinuod ug dokumentadong order sa White Cakes nga gihatud sa family event sa Mandaue. Kumpirmaha unsang detalye sa address ang mahimong ipaambit ug pagkuha og pagtugot sa matag orihinal nga litrato. Ayaw pagmantala sa eksaktong address sa balay o pag-ila sa sakop sa pamilya kon walay klarong pagtugot.
+Pilia ang mensahe ug dekorasyon nga mohaom sa okasyon nga walay hinimong istorya sa customer. Makapakita ang usa ka klarong reference image sa mood; isulti kung unsang detalye ang importante ug unsa ang puwedeng usbon. Ibutang sa order message ang ngalan, petsa ug spelling aron masusi sa dili pa himuon.
 
-Ihulagway lamang ang napamatud-ang detalye: brief sa pamilya, napiling gidak-on ug flavour, disenyo, inskripsiyon ug delivery arrangement. Kinahanglan motakdo ang caption sa matag litrato. Ayaw pag-imbento og reaksyon sa bisita, kahimtang sa pamilya, resulta sa delivery o pag-angkon nga maabot ang tanang address sa Mandaue.
+### Praktikal nga checklist
 
-Kinahanglan ipasabut sa artikulo ang usa ka tinuod nga desisyon sa disenyo o koordinasyon nga makatabang sa umaabot nga kustomer, dili litrato lang sa cake. Kon dili suportado sa order notes ang leksyon, ayaw iapil. Kon wala ang tinuod nga kaso ug pagtugot, ayaw imantala kini ug idugang hinuon ang kinatibuk-ang tambag sa canonical guide.
+Sa dili pa final ang order, kumpirmaha ang petsa, oras sa pag-serve, banabana sa mokaon og cake, disenyo, flavour gikan sa kasamtangang menu, inskripsiyon, presyo ug handoff plan. Pangutan-a unsay buhaton kung mausab ang programa o malangan ang modawat. Sa venue, sunda ang tambag sa panaderya sa pagtipig ug ipahilayo ang cake sa diretsong adlaw ug init nga sakyanan.
 
-## Tagalog
+## Planuhin ang cake para sa pagtitipon ng pamilya sa Mandaue ayon sa handoff
 
-## Kailangang ebidensiya
+Bahagi lamang ang disenyo ng maayos na order para sa selebrasyon. Magsimula sa oras ng paghahain ng cake, saka magplano pabalik: sino ang tatanggap, saan maaaring manatili ang kahon, at ano ang pinapayagan ng venue o bahay. Para sa cake para sa pagtitipon ng pamilya sa Mandaue, pumili ng isang tatanggap at ibigay sa panaderya ang mobile number na maaabot. Isama ang buong address at landmark; idagdag ang tagubilin sa gate, lobby, loading, o entrance kung kailangan. Kumpirmahin mismo sa panaderya ang delivery area, bayad, at available na oras dahil nakadepende ang mga ito sa eksaktong address at petsa.
 
-Gumamit ng tunay at dokumentadong White Cakes order na inihatid sa family event sa Mandaue. Kumpirmahin kung aling detalye ng address ang maaaring ibahagi at kumuha ng pahintulot para sa bawat orihinal na larawan. Huwag ilathala ang eksaktong address ng bahay o kilalanin ang kapamilya nang walang malinaw na pahintulot.
+Pumili ng mensahe at dekorasyong bagay sa okasyon nang hindi umaasa sa kathang-isip na kuwento ng customer. Maipapakita ng isang malinaw na reference image ang mood; sabihin kung aling detalye ang mahalaga at alin ang puwedeng baguhin. Ilagay sa order message ang pangalan, petsa, at spelling para masuri bago gawin.
 
-Ilarawan lamang ang napatunayang detalye: brief ng pamilya, napiling sukat at flavour, design, inscription, at delivery arrangement. Dapat tumugma ang caption sa bawat larawan. Huwag mag-imbento ng reaksyon ng bisita, kalagayan ng pamilya, resulta ng delivery, o pahayag na nasasaklaw ang lahat ng address sa Mandaue.
+### Praktikal na checklist
 
-Dapat ipaliwanag ng artikulo ang isang tunay na desisyon sa design o coordination na makakatulong sa susunod na customer, hindi larawan lang ng cake. Kung hindi suportado ng order notes ang aral, huwag itong isama. Kung wala ang tunay na case at pahintulot, huwag ilathala ang entry na ito; idagdag na lang ang pangkalahatang payo sa canonical guide.
+Bago i-finalize ang order, kumpirmahin ang petsa, oras ng paghahain, tantiyang bilang ng kakain ng cake, disenyo, flavour mula sa kasalukuyang menu, inskripsiyon, presyo, at handoff plan. Itanong kung ano ang gagawin kapag nagbago ang programa o naantala ang tatanggap. Sa venue, sundin ang payo ng panaderya sa pag-iimbak at ilayo ang cake sa direktang araw at mainit na sasakyan.
 
 ---
-
-## Editorial notes
-
-- Requires a real approved case and image rights; otherwise remains unpublished.
-- Cebuano and Tagalog drafts need native editorial review.

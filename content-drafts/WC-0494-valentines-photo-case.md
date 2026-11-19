@@ -1,44 +1,39 @@
 ---
 id: WC-0494
-status: evidence-gated-photo-case
-publish_action: create a case-specific URL only after a real Valentine’s order, original approved photos, verified order details, and customer permission; otherwise merge only a general design lesson into /journal/valentines-bouquet-cake-cebu.html
-evidence_required: completed order record; original image files; photo rights and customer permission; approved brief, design, size, flavour, inscription, and delivery details
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A Valentine’s Cake Design Case Study from Cebu"
 cebuano_title: "Usa ka Case Study sa Disenyo sa Valentine’s Cake gikan sa Cebu"
 tagalog_title: "Case Study ng Disenyo ng Valentine’s Cake mula sa Cebu"
 ---
+## Plan Valentine’s cake without inventing a customer story
 
-## Evidence gate
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this Valentine’s cake, the main choice may be the recipient’s taste and message; write down what should remain recognizable and what is flexible before sending a reference.
 
-This is a case-study slot, not a customer story to invent. Use only a real White Cakes Valentine’s order supported by the order record, original photos, and written permission to publish. Confirm what the customer permits you to identify; omit names, venue, and personal messages unless each is approved.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Describe the actual brief and the design decision visible in the approved images. Verify the cake size, flavour, inscription, year, and delivery details from the order record. Do not invent a customer reaction, guest count, romantic outcome, or product availability. Captions must accurately describe the image and clarify if it shows a past custom order.
+### Keep the brief easy to confirm
 
-The finished story should explain a useful decision beyond the gallery—for example, how the message fit a small surface or how the design was adapted to hand-piped buttercream—only when the notes support it. If evidence or permission is missing, do not publish this entry; improve the canonical guide with general advice instead.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-## Cebuano
+## Planoha ang cake para sa Valentine’s nga walay hinimong istorya sa customer
 
-## Kinahanglan nga ebidensiya
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa Valentine’s, mahimong pangunang pilion ang lami ug mensahe nga gusto sa recipient; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
 
-Slot kini para sa case study, dili istorya sa kustomer nga imbentohon. Gamita lamang ang tinuod nga Valentine’s order sa White Cakes nga gisuportahan sa order record, orihinal nga litrato ug sinulat nga pagtugot sa pagmantala. Kumpirmaha unsay gitugotan sa kustomer nga mailhan; tangtanga ang ngalan, venue ug personal nga mensahe gawas kon tagsa-tagsa kining giaprobahan.
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
 
-Ihulagway ang aktuwal nga brief ug desisyon sa disenyo nga makita sa giaprobahang mga litrato. Susiha sa order record ang gidak-on, flavour, inskripsiyon, tuig ug delivery details. Ayaw pag-imbento og reaksyon sa kustomer, ihap sa bisita, resulta sa romansa o availability sa produkto. Kinahanglan tukma ang caption ug klaro kon nangaging custom order ang litrato.
+### Himoa nga sayon kumpirmahon ang brief
 
-Kinahanglan ipasabut sa nahuman nga istorya ang mapuslanong desisyon lapas sa gallery—pananglitan, giunsa pagpahaum sa mensahe sa gamay nga luna o pagpasibo sa disenyo sa hand-piped buttercream—kon suportado lang kini sa notes. Kon kulang ang ebidensiya o pagtugot, ayaw imantala kini; pauswaga hinuon ang canonical guide gamit ang kinatibuk-ang tambag.
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
 
-## Tagalog
+## Planuhin ang cake para sa Valentine’s nang walang kathang-isip na kuwento ng customer
 
-## Kailangang ebidensiya
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa Valentine’s, maaaring pangunahing piliin ang panlasa at mensaheng gusto ng recipient; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
 
-Slot ito para sa case study, hindi kuwentong customer na iimbentuhin. Gumamit lamang ng tunay na White Cakes Valentine’s order na suportado ng order record, orihinal na mga larawan, at nakasulat na pahintulot na ilathala. Kumpirmahin kung ano ang pinapayagan ng customer na kilalanin; alisin ang pangalan, venue, at personal na mensahe maliban kung hiwa-hiwalay na aprubado ang mga ito.
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
 
-Ilarawan ang totoong brief at desisyong nakikita sa aprubadong mga larawan. Tiyakin sa order record ang sukat, flavour, inscription, taon, at delivery details. Huwag mag-imbento ng reaksyon ng customer, bilang ng bisita, kinalabasan ng romansa, o availability ng produkto. Dapat tumpak ang caption at linawin kung dating custom order ang ipinapakita ng larawan.
+### Gawing madaling kumpirmahin ang brief
 
-Dapat magpaliwanag ang tapos na kuwento ng kapaki-pakinabang na desisyon lampas sa gallery—halimbawa, kung paano nagkasya ang mensahe sa maliit na espasyo o paano iniangkop ang design sa hand-piped buttercream—kung sinusuportahan lang ito ng notes. Kung kulang ang ebidensiya o pahintulot, huwag ilathala ang entry na ito; pagbutihin na lang ang canonical guide gamit ang pangkalahatang payo.
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Editorial notes
-
-- Requires a real approved case and image rights; otherwise remains unpublished.
-- Cebuano and Tagalog drafts need native editorial review.

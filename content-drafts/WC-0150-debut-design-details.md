@@ -1,7 +1,7 @@
 ---
 id: WC-0150
-status: draft-needs-original-closeup
-publish_action: merge into /journal/cake-designs-cebu.html
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "Design details to consider for debut cake in Cebu"
 cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa debut sa Cebu"
 tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa debut sa Cebu"

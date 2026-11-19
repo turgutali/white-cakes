@@ -1,44 +1,39 @@
 ---
 id: WC-0095
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of wedding cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa kasal sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa kasal sa Cebu"
 ---
+## Plan wedding cake without inventing a customer story
 
-## Wedding cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this wedding cake, the main choice may be venue and serving plan; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Build this only from a real, permission-cleared White Cakes wedding order.** Confirm the order record, design decisions, size, flavour, and delivery details with the team. Get approval to use the cake photographs and any couple, venue, planner, invitation, or event information. Anonymize the couple unless identification is explicitly approved.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Choose one meaningful design decision to explain: how a palette was selected, how a reference was adapted, or how the cake was positioned for the venue. Use the actual brief and bakery confirmation; do not invent a couple's story, budget, guest count, reaction, or design constraint.
+### Keep the brief easy to confirm
 
-Use original full-cake and close-up photographs with descriptive captions. Verify current serving ranges and link to the wedding, size, custom-brief, and delivery guides. The case should provide a lesson that is not already answered by the wedding page or a basic portfolio caption.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If no verified case and permissions are available, leave this framework unpublished. Improve the existing wedding guide with general advice instead.
+## Planoha ang wedding cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining wedding cake, mahimong pangunang pilion ang venue ug serving plan; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang wedding cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa wedding cake, maaaring pangunahing piliin ang venue at serving plan; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Balangkas sa pagtuon sa kaso sa cake sa kasal
-
-**Buhata lang kini gikan sa tinuod, gi-clear nga permiso nga White Cakes nga order sa kasal.** Kumpirma ang rekord sa order, mga desisyon sa disenyo, gidak-on, lami, ug mga detalye sa paghatod uban sa team. Pagkuha og pagtugot sa paggamit sa mga litrato sa cake ug bisan unsang magtiayon, lugar, tigplano, imbitasyon, o impormasyon sa panghitabo. I-anonymize ang magtiayon gawas kung ang pag-ila klaro nga giaprobahan.
-
-Pagpili og usa ka makahuluganon nga desisyon sa disenyo aron ipatin-aw: giunsa pagpili ang usa ka palette, giunsa pagpahiangay ang usa ka pakisayran, o kung giunsa ang pagpahimutang sa cake alang sa lugar. Gamita ang aktuwal nga mubo ug kumpirmasyon sa panaderya; ayaw pag-imbento sa istorya sa magtiayon, badyet, ihap sa bisita, reaksyon, o pagpugong sa disenyo.
-
-Gamita ang orihinal nga full-cake ug close-up nga mga litrato nga adunay deskriptibo nga mga kapsyon. I-verify ang kasamtangang mga sakup sa pagserbisyo ug i-link ang kasal, gidak-on, custom-brief, ug mga giya sa paghatud. Ang kaso kinahanglan maghatag usa ka leksyon nga wala pa matubag sa panid sa kasal o usa ka sukaranan nga caption sa portfolio.
-
-Kung walay napamatud-an nga kaso ug mga pagtugot nga magamit, ibilin kini nga balangkas nga wala mamantala. Pauswaga ang kasamtangan nga giya sa kasal uban sa kinatibuk-ang tambag hinoon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Wedding cake case-study framework
-
-**Buuin lang ito mula sa isang tunay, na-clear na may pahintulot na White Cakes na order ng kasal.** Kumpirmahin ang talaan ng order, mga desisyon sa disenyo, laki, lasa, at mga detalye ng paghahatid sa team. Kumuha ng pag-apruba na gamitin ang mga larawan ng cake at anumang impormasyon ng mag-asawa, lugar, tagaplano, imbitasyon, o kaganapan. Anonymize ang mag-asawa maliban kung ang pagkakakilanlan ay tahasang inaprubahan.
-
-Pumili ng isang makabuluhang desisyon sa disenyo upang ipaliwanag: kung paano napili ang isang palette, kung paano iniangkop ang isang reference, o kung paano nakaposisyon ang cake para sa venue. Gamitin ang aktwal na brief at kumpirmasyon ng panaderya; huwag mag-imbento ng kuwento ng mag-asawa, badyet, bilang ng bisita, reaksyon, o hadlang sa disenyo.
-
-Gumamit ng orihinal na full-cake at mga close-up na larawan na may mga mapaglarawang caption. I-verify ang mga kasalukuyang hanay ng paghahatid at i-link sa kasal, laki, custom-brief, at mga gabay sa paghahatid. Ang kaso ay dapat magbigay ng aral na hindi pa nasasagot ng pahina ng kasal o isang pangunahing caption ng portfolio.
-
-Kung walang available na na-verify na kaso at mga pahintulot, iwanan ang framework na ito na hindi nai-publish. Pagbutihin ang kasalukuyang gabay sa kasal na may pangkalahatang payo sa halip.

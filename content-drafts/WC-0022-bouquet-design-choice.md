@@ -1,7 +1,7 @@
 ---
 id: WC-0022
-status: draft-needs-original-photo-case
-publish_action: merge into /journal/cake-designs-cebu.html
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "How to choose a design for Bouquet Cake in Cebu"
 cebuano_title: "Giunsa pagpili og disenyo para sa Bouquet Cake sa Cebu"
 tagalog_title: "Paano pumili ng disenyo para sa Bouquet Cake sa Cebu"

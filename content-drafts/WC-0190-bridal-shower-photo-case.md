@@ -1,44 +1,39 @@
 ---
 id: WC-0190
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of bridal shower cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa bridal shower sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa bridal shower sa Cebu"
 ---
+## Plan bridal-shower cake without inventing a customer story
 
-## Bridal-shower cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this bridal-shower cake, the main choice may be table styling and venue; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Requires a real White Cakes cake, verified order details, and permission to publish.** Select one actual bridal-shower commission with original photos. Confirm who owns the images and secure approval before using any recognizable person, venue, invitation, or personal message. Do not invent a customer, brief, or event outcome.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Write down the actual design question the case can answer: how the couple's chosen palette was translated, how the inscription fit, or how the cake worked alongside the dessert table. Use the order record or a team member to verify the choices and note what the bakery adapted. Do not infer the customer's reaction or claim the cake was a success based on a photo alone.
+### Keep the brief easy to confirm
 
-Use original full-cake and detail photos with accurate captions. State the verified size and flavour only if appropriate and current, then link to the design guide, current prices, and ordering process. The article should add a distinct decision-making lesson beyond the existing bridal-shower page.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If no suitable project or permission is available, keep this framework unpublished and merge only general design advice into the current guide.
+## Planoha ang cake para sa bridal shower nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa bridal shower, mahimong pangunang pilion ang pagpahimutang sa lamesa ug venue; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang cake para sa bridal shower nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa bridal shower, maaaring pangunahing piliin ang ayos ng mesa at venue; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Bridal-shower cake case-study framework
-
-**Nagkinahanglan ug tinuod nga White Cakes nga cake, gipamatud-an nga mga detalye sa order, ug pagtugot sa pagmantala.** Pagpili ug usa ka aktuwal nga bridal-shower nga komisyon nga adunay orihinal nga mga litrato. Kumpirma kung kinsa ang tag-iya sa mga imahe ug luwasa ang pagtugot sa dili pa mogamit bisan kinsa nga mailhan nga tawo, lugar, imbitasyon, o personal nga mensahe. Ayaw pag-imbento og kustomer, mubo, o resulta sa panghitabo.
-
-Isulat ang aktuwal nga pangutana sa disenyo nga matubag sa kaso: giunsa paghubad ang gipili nga palette sa magtiayon, giunsa pagkahaom ang inskripsiyon, o giunsa pagtrabaho ang cake tupad sa lamesa sa dessert. Gamita ang order record o usa ka miyembro sa team aron masusi ang mga pagpili ug timan-i kung unsa ang gipahiangay sa panaderya. Ayaw paghuna-huna sa reaksyon sa kustomer o pag-angkon nga ang cake usa ka kalampusan base sa usa ka litrato lamang.
-
-Gamita ang orihinal nga full-cake ug detalye nga mga litrato nga adunay tukma nga mga caption. Isulti ang gipamatud-an nga gidak-on ug lami kung angay ug karon, dayon i-link sa giya sa disenyo, karon nga mga presyo, ug proseso sa pag-order. Ang artikulo kinahanglan magdugang usa ka lahi nga leksyon sa paghimog desisyon lapas sa naglungtad nga panid sa bridal-shower.
-
-Kung walay angay nga proyekto o pagtugot nga magamit, hupti kini nga balangkas nga dili mamantala ug iusa lamang ang kinatibuk-ang tambag sa disenyo ngadto sa kasamtangan nga giya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bridal-shower cake case-study framework
-
-**Nangangailangan ng totoong White Cakes cake, na-verify na mga detalye ng order, at pahintulot na mag-publish.** Pumili ng isang aktwal na bridal-shower na komisyon na may mga orihinal na larawan. Kumpirmahin kung sino ang nagmamay-ari ng mga larawan at secure na pag-apruba bago gamitin ang sinumang makikilalang tao, lugar, imbitasyon, o personal na mensahe. Huwag mag-imbento ng customer, maikling, o resulta ng kaganapan.
-
-Isulat ang aktwal na tanong sa disenyo na masasagot ng kaso: kung paano isinalin ang napiling palette ng mag-asawa, kung paano magkasya ang inskripsiyon, o kung paano gumagana ang cake sa tabi ng dessert table. Gamitin ang talaan ng order o isang miyembro ng koponan upang i-verify ang mga pagpipilian at tandaan kung ano ang inangkop ng panaderya. Huwag ipahiwatig ang reaksyon ng customer o i-claim na ang cake ay isang tagumpay batay sa isang larawan lamang.
-
-Gumamit ng orihinal na full-cake at mga detalyeng larawan na may tumpak na mga caption. Sabihin lamang ang na-verify na laki at lasa kung naaangkop at kasalukuyan, pagkatapos ay i-link sa gabay sa disenyo, kasalukuyang mga presyo, at proseso ng pag-order. Ang artikulo ay dapat magdagdag ng isang natatanging aralin sa paggawa ng desisyon sa kabila ng kasalukuyang pahina ng bridal-shower.
-
-Kung walang magagamit na angkop na proyekto o pahintulot, panatilihing hindi nai-publish ang balangkas na ito at isama lamang ang pangkalahatang payo sa disenyo sa kasalukuyang gabay.

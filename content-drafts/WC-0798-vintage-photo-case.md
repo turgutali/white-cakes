@@ -1,38 +1,39 @@
 ---
 id: WC-0798
-status: evidence-needed
-publish_action: case-specific URL only after real order, original approved photos, and customer permission; otherwise omit
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of vintage cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa vintage nga cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng vintage na cake sa Cebu"
 ---
+## Plan vintage cake without inventing a customer story
 
-## Editorial framework: identify the real piping choices visible in the cake
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this vintage cake, the main choice may be piping, border, and reference details; write down what should remain recognizable and what is flexible before sending a reference.
 
-This draft needs an actual White Cakes vintage cake and original photos approved for publication. If available, show the whole cake and one close-up that clearly demonstrates the piping or border. Explain one documented design decision and how it related to the customer’s brief, sharing only event details the customer permits.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Do not invent a technique, customer request, flavour, or result based on appearance alone. Confirm the description with the baker and use accurate alt text. Make clear that a past custom design is an example, not a guaranteed replica.
+### Keep the brief easy to confirm
 
-Without an approved image and verified explanation, keep this as an internal portfolio request and link to the central design guide.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
+
+## Planoha ang vintage nga cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining vintage nga cake, mahimong pangunang pilion ang piping, border, ug detalye sa reference; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang vintage na cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa vintage na cake, maaaring pangunahing piliin ang piping, border, at detalye ng reference; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Balangkas sa editoryal: pag-ila sa tinuod nga mga pagpili sa tubo nga makita sa cake
-
-Kini nga draft nanginahanglan usa ka aktuwal nga White Cakes nga vintage cake ug orihinal nga mga litrato nga giaprobahan alang sa pagmantala. Kung naa, ipakita ang tibuuk nga cake ug usa ka close-up nga klaro nga nagpakita sa piping o utlanan. Pagpatin-aw sa usa ka dokumentado nga desisyon sa disenyo ug sa unsang paagi kini nalangkit sa mubo sa kustomer, pagpaambit lamang sa mga detalye sa panghitabo nga gitugot sa kustomer.
-
-Ayaw pag-imbento og teknik, hangyo sa kustomer, lami, o resulta base sa hitsura lamang. Kumpirma ang paghulagway sa panadero ug gamita ang tukma nga alt text. Ipatin-aw nga ang nangaging custom nga disenyo usa ka pananglitan, dili usa ka garantiya nga kopya.
-
-Kung wala’y giaprubahan nga imahe ug gipamatud-an nga katin-awan, itago kini ingon usa ka hangyo sa internal nga portfolio ug sumpay sa sentro nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Framework ng editoryal: tukuyin ang mga tunay na pagpipilian sa piping na makikita sa cake
-
-Ang draft na ito ay nangangailangan ng aktwal na White Cakes vintage cake at orihinal na mga larawang naaprubahan para sa publikasyon. Kung available, ipakita ang buong cake at isang close-up na malinaw na nagpapakita ng piping o hangganan. Ipaliwanag ang isang nakadokumentong desisyon sa disenyo at kung paano ito nauugnay sa maikling ng customer, na nagbabahagi lamang ng mga detalye ng kaganapan na pinahihintulutan ng customer.
-
-Huwag mag-imbento ng diskarte, kahilingan ng customer, lasa, o resulta batay sa hitsura lamang. Kumpirmahin ang paglalarawan sa panadero at gumamit ng tumpak na alt text. Gawing malinaw na ang isang nakaraang custom na disenyo ay isang halimbawa, hindi isang garantisadong replika.
-
-Kung walang inaprubahang larawan at na-verify na paliwanag, panatilihin ito bilang isang panloob na kahilingan sa portfolio at i-link sa gitnang gabay sa disenyo.

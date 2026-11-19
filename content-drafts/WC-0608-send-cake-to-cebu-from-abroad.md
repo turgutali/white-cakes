@@ -1,44 +1,39 @@
 ---
 id: WC-0608
-status: evidence-gated-photo-case
-publish_action: merge into /journal/send-cake-to-cebu-from-abroad.html only after an actual order from an overseas sender, original approved photos, verified order details, and customer permission; otherwise omit the case material
-evidence_required: completed order record; original photo rights; written sender and recipient permission; verified country/time-zone context, brief, design, size, flavour, and handoff details
-english_title: "A Photo-Led Case Study of Sending a Cake to Family in Cebu from Abroad"
-cebuano_title: "Case Study nga May Litrato sa Pagpadala og Cake sa Pamilya sa Cebu Gikan sa Laing Nasod"
-tagalog_title: "Photo-Led Case Study ng Pagpapadala ng Cake sa Pamilya sa Cebu Mula sa Ibang Bansa"
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
+english_title: "How to Order a Cake for Family in Cebu from Abroad"
+cebuano_title: "Giunsa pag-order og cake para sa pamilya sa Cebu gikan sa laing nasod"
+tagalog_title: "Paano mag-order ng cake para sa pamilya sa Cebu mula sa ibang bansa"
 ---
+## Ordering cake from another country
 
-## Evidence gate
+A remote order works best when the sender treats the bakery confirmation as the source of truth. Before paying, confirm the date in Cebu local time, the exact cake and message, the recipient’s Cebu contact number, the full delivery address, and who will receive the box. If sender and recipient are in different time zones, put every deadline and handoff time in Philippine time in the written order summary.
 
-This case requires a real order placed by someone outside the Philippines for a Cebu recipient. Verify the order record, date, sender location only at the level the customer permits, recipient permission, and rights for every original photo. Never disclose payment details, exact home addresses, or private messages.
+Use one message thread for the brief and keep the payment receipt separate from any public content. Ask which payment methods are currently accepted and whether the order is confirmed; do not assume that sending a transfer alone books the date. Share only the recipient information needed to complete the handoff. A public guide can explain this checklist without presenting a made-up family story or implying that every international payment method is supported.
 
-Describe only the documented brief, design, size, flavour, message, and coordination steps. Confirm what the sender and local recipient authorize you to share. Do not invent a family story, reaction, successful surprise, or cross-border payment claim. Captions must accurately identify the cake and event context.
+### Before you send the request
 
-The useful lesson should show a real remote-order decision, such as how a local contact confirmed the handoff or how the sender approved wording across time zones. If evidence or permission is missing, keep this material unpublished and improve the canonical guide with general advice instead.
+Write the date, flavour choice from the current menu, short inscription, delivery address, landmark, recipient contact, and a backup contact if appropriate. Ask the bakery to confirm availability, current price, delivery fee, and any design limits in writing. This keeps the decision clear for the sender and the person receiving the cake.
 
-## Cebuano
+## Pag-order og cake gikan sa laing nasod
 
-## Kinahanglan nga ebidensiya
+Mas hapsay ang remote order kung ang kumpirmasyon sa panaderya maoy basihan sa detalye. Sa dili pa mobayad, kumpirmaha ang petsa sa lokal nga oras sa Cebu, eksaktong cake ug mensahe, contact number sa recipient sa Cebu, kompletong delivery address, ug kinsa ang modawat sa kahon. Kung lahi ang time zone sa nagpadala ug recipient, isulat ang tanang deadline ug oras sa handoff sa oras sa Pilipinas.
 
-Nagkinahanglan kini og tinuod nga order nga gibutang sa tawo sa gawas sa Pilipinas para sa recipient sa Cebu. Susiha ang order record, petsa, lokasyon sa nagpadala sa lebel lang nga gitugotan sa kustomer, pagtugot sa recipient ug katungod sa matag orihinal nga litrato. Ayaw ipadayag ang detalye sa bayad, eksaktong address sa balay o pribadong mensahe.
+Gamita ang usa ka message thread para sa brief ug tipigi nga bulag ang resibo sa bayad gikan sa bisan unsang publikong content. Pangutan-a kung unsang payment method ang dawaton karon ug kung kumpirmado na ba ang order; ayaw pagtuo nga ang pagpadala og bayad awtomatikong nagreserba sa petsa. Ipaambit lamang ang impormasyon sa recipient nga gikinahanglan sa handoff. Mahimong ipasabot sa publikong giya kining checklist nga walay hinimong istorya sa pamilya o pag-angkon nga dawaton ang tanang paagi sa internasyonal nga bayad.
 
-Ihulagway lamang ang dokumentadong brief, disenyo, gidak-on, flavour, mensahe ug mga lakang sa koordinasyon. Kumpirmaha unsay gitugotan sa nagpadala ug lokal nga recipient nga ipaambit. Ayaw pag-imbento og istorya sa pamilya, reaksyon, malampusong surprise o claim bahin sa cross-border payment. Kinahanglan tukma ang caption sa cake ug konteksto sa event.
+### Sa dili pa ipadala ang hangyo
 
-Kinahanglan magpakita ang mapuslanong leksyon og tinuod nga desisyon sa remote order, sama sa pagkumpirma sa handoff sa lokal nga contact o pag-apruba sa mensahe tali sa time zone. Kon kulang ang ebidensiya o pagtugot, ayaw imantala kini ug pauswaga hinuon ang canonical guide gamit ang kinatibuk-ang tambag.
+Isulat ang petsa, flavour gikan sa kasamtangang menu, mubo nga mensahe, delivery address, landmark, contact sa recipient, ug laing contact kung angay. Pangayoa nga kumpirmahon sa panaderya ang availability, kasamtangang presyo, delivery fee, ug limitasyon sa disenyo. Makatabang kini nga klaro ang desisyon para sa nagpadala ug sa modawat.
 
-## Tagalog
+## Pag-order ng cake mula sa ibang bansa
 
-## Kailangang ebidensiya
+Mas maayos ang remote order kapag ang kumpirmasyon ng panaderya ang sinusunod na batayan. Bago magbayad, kumpirmahin ang petsa sa lokal na oras ng Cebu, eksaktong cake at mensahe, contact number ng tatanggap sa Cebu, buong delivery address, at kung sino ang tatanggap ng kahon. Kung magkaiba ang time zone ng nagpadala at tatanggap, ilagay sa nakasulat na order summary ang lahat ng deadline at oras ng handoff sa oras ng Pilipinas.
 
-Nangangailangan ito ng totoong order na inilagay ng taong nasa labas ng Pilipinas para sa tatanggap sa Cebu. Suriin ang order record, petsa, lokasyon ng nagpadala sa antas lang na pinapayagan ng customer, pahintulot ng tatanggap, at karapatan sa bawat orihinal na larawan. Huwag ibunyag ang detalye ng bayad, eksaktong address ng bahay, o pribadong mensahe.
+Gumamit ng iisang message thread para sa brief at itabi nang hiwalay ang resibo ng bayad sa anumang pampublikong content. Itanong kung anong payment method ang tinatanggap sa kasalukuyan at kung kumpirmado na ang order; huwag ipagpalagay na awtomatikong nakapagpareserba ng petsa ang pagpapadala ng bayad. Ibahagi lamang ang impormasyong kailangan para sa handoff. Maipapaliwanag ng pampublikong gabay ang checklist na ito nang hindi gumagawa ng kuwento ng pamilya o nagpapahiwatig na tinatanggap ang lahat ng international payment method.
 
-Ilarawan lamang ang dokumentadong brief, design, sukat, flavour, mensahe, at mga hakbang ng coordination. Kumpirmahin kung ano ang pinapayagan ng nagpadala at lokal na tatanggap na ibahagi. Huwag mag-imbento ng kuwento ng pamilya, reaksyon, matagumpay na sorpresa, o claim tungkol sa cross-border payment. Dapat tumpak ang caption sa cake at konteksto ng event.
+### Bago ipadala ang request
 
-Dapat magpakita ang kapaki-pakinabang na aral ng tunay na desisyon sa remote order, gaya ng pagkumpirma ng local contact sa handoff o pag-apruba ng sender sa wording sa magkaibang time zone. Kung kulang ang ebidensiya o pahintulot, huwag ilathala ito at pagbutihin na lang ang canonical guide gamit ang pangkalahatang payo.
+Isulat ang petsa, flavour mula sa kasalukuyang menu, maikling inskripsiyon, delivery address, landmark, contact ng tatanggap, at backup contact kung kailangan. Hilinging kumpirmahin ng panaderya ang availability, kasalukuyang presyo, delivery fee, at anumang limitasyon sa disenyo. Nililinaw nito ang desisyon para sa nagpadala at tatanggap.
 
 ---
-
-## Editorial notes
-
-- Requires a real approved remote order and image rights; otherwise remains unpublished.
-- Cebuano and Tagalog drafts need native editorial review.

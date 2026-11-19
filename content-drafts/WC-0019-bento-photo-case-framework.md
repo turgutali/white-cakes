@@ -1,38 +1,39 @@
 ---
 id: WC-0019
-status: photo-case-framework
-publish_action: add to /journal/what-is-a-bento-cake.html only if the photo and product details remain current
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of 4-inch Bento cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa 4-inch nga Bento cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng 4-inch na Bento cake sa Cebu"
 ---
+## Plan 4-inch Bento cake without inventing a customer story
 
-## Reading the details on White Cakes' 4-inch Bento
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this 4-inch Bento cake, the main choice may be a compact layout and short inscription; write down what should remain recognizable and what is flexible before sending a reference.
 
-The current White Cakes Bento photo shows a compact ivory cake with a piped shell border, blush ribbon, and one rose. The design uses a few clear elements that remain legible on a four-inch top: the shells frame the edge, the ribbon introduces a soft colour accent, and the rose provides one focal point. If you send the photo as a reference, say which of those details you want to keep and which can change.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-The actual product is a 4-inch round. White Cakes lists it as serving two people generously or three modestly after a meal. It is made to order with at least three days' notice, and it has limited space for a message. A short name or greeting is more practical than a long quotation. Confirm the flavour, exact message, date, and pickup or delivery details with the bakery before paying.
+### Keep the brief easy to confirm
 
-This image-specific explanation should only stay live while the image is the current Bento design and the product information is still accurate. It can add useful context to the existing “What is a Bento Cake?” guide, but should not become a second page that merely repeats the general definition. Update the photo caption if the actual finish changes.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
+
+## Planoha ang 4-inch nga Bento cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining 4-inch nga Bento cake, mahimong pangunang pilion ang simple nga layout ug mubo nga mensahe; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang 4-inch na Bento cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa 4-inch na Bento cake, maaaring pangunahing piliin ang payak na layout at maikling inskripsiyon; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Pagbasa sa mga detalye sa 4-pulgada nga Bento sa White Cakes
-
-Ang kasamtangang White Cakes Bento nga litrato nagpakita sa usa ka compact ivory cake nga adunay piped shell border, blush ribbon, ug usa ka rosas. Ang disenyo naggamit ug pipila ka tin-aw nga mga elemento nga nagpabiling mabasa sa upat ka pulgada nga ibabaw: ang mga kabhang nag-frame sa ngilit, ang ribbon nagpaila sa usa ka humok nga kolor nga accent, ug ang rosas naghatag ug usa ka focal point. Kung ipadala nimo ang litrato isip usa ka reperensiya, isulti kung hain sa mga detalye ang gusto nimong tipigan ug unsa ang mahimong usbon.
-
-Ang aktuwal nga produkto usa ka 4-pulgada nga lingin. Gilista kini sa White Cakes isip pag-alagad sa duha ka tawo nga madagayaon o tulo ka kasarangan human sa pagpangaon. Gihimo kini aron mag-order nga adunay labing menos tulo ka adlaw nga pahibalo, ug kini adunay limitado nga lugar alang sa usa ka mensahe. Ang mubo nga ngalan o pagtimbaya mas praktikal kay sa taas nga kinutlo. Kumpirma ang lami, eksaktong mensahe, petsa, ug mga detalye sa pagkuha o paghatod sa panaderya sa dili pa mobayad.
-
-Kini nga espesipiko nga pagpatin-aw sa imahe kinahanglan nga magpabilin nga buhi samtang ang imahe mao ang karon nga disenyo sa Bento ug ang impormasyon sa produkto tukma gihapon. Makadugang kini ug mapuslanong konteksto sa kasamtangang “Unsa ang Bento Cake?” giya, apan kinahanglang dili mahimong ikaduhang panid nga nagsubli lang sa kinatibuk-ang kahulugan. I-update ang caption sa litrato kung mausab ang aktuwal nga pagkahuman.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Binabasa ang mga detalye sa 4-inch Bento ng White Cakes
-
-Ang kasalukuyang larawan ng White Cakes Bento ay nagpapakita ng isang compact na ivory cake na may piped shell border, blush ribbon, at isang rosas. Gumagamit ang disenyo ng ilang malinaw na elemento na nananatiling nababasa sa isang apat na pulgadang tuktok: ang mga shell ay naka-frame sa gilid, ang ribbon ay nagpapakilala ng isang malambot na accent ng kulay, at ang rosas ay nagbibigay ng isang focal point. Kung ipapadala mo ang larawan bilang sanggunian, sabihin kung alin sa mga detalyeng iyon ang gusto mong panatilihin at alin ang maaaring magbago.
-
-Ang aktwal na produkto ay isang 4-inch round. Inililista ito ng White Cakes bilang paghahain ng bukas-palad sa dalawang tao o tatlong katamtaman pagkatapos kumain. Ito ay ginawa upang mag-order nang may hindi bababa sa tatlong araw na paunawa, at ito ay may limitadong espasyo para sa isang mensahe. Ang isang maikling pangalan o pagbati ay mas praktikal kaysa sa isang mahabang sipi. Kumpirmahin ang lasa, eksaktong mensahe, petsa, at mga detalye ng pagkuha o paghahatid sa panaderya bago magbayad.
-
-Ang paliwanag na partikular sa larawan ay dapat lamang manatiling live habang ang larawan ay ang kasalukuyang disenyo ng Bento at ang impormasyon ng produkto ay tumpak pa rin. Maaari itong magdagdag ng kapaki-pakinabang na konteksto sa umiiral na "Ano ang Bento Cake?" gabay, ngunit hindi dapat maging pangalawang pahina na inuulit lamang ang pangkalahatang kahulugan. I-update ang caption ng larawan kung magbabago ang aktwal na tapusin.

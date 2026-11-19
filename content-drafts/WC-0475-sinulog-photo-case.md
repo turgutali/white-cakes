@@ -1,44 +1,39 @@
 ---
 id: WC-0475
-status: evidence-gated-photo-case
-publish_action: do not publish until an actual Sinulog order, original photo rights, customer permission, and all case details are verified; otherwise merge a general lesson into /journal/cake-designs-cebu.html
-evidence_required: actual order record; original image files; rights and customer permission; verified brief, size, flavour, inscription, delivery details, and bakery-approved account
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A Sinulog Cake Design Case Study from Cebu"
 cebuano_title: "Usa ka Case Study sa Disenyo sa Sinulog Cake gikan sa Cebu"
 tagalog_title: "Case Study ng Disenyo ng Sinulog Cake mula sa Cebu"
 ---
+## Plan Sinulog cake without inventing a customer story
 
-## Evidence gate
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this Sinulog cake, the main choice may be the celebration palette and practical handling; write down what should remain recognizable and what is flexible before sending a reference.
 
-Do not create a fictional customer story. Use only a real White Cakes order with original photos, order notes, and permission to publish. Verify the customer’s preferred privacy level and remove identifying venue or personal details unless separately approved.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Document the actual brief, approved design, size, flavour, inscription, delivery arrangement, and one supported design decision. Attribute statements accurately; do not invent a reaction, guest count, festival outcome, or sales result. Captions must describe what is visible and identify the correct year only when verified.
+### Keep the brief easy to confirm
 
-The article should explain a useful decision beyond displaying a cake photo, such as how a message was fitted to the available space or how the design was adapted to hand-piped buttercream. Verify current product and service details separately. If the necessary case and permissions do not exist, keep this entry unpublished and improve the canonical design guide with general advice instead.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-## Cebuano
+## Planoha ang cake para sa Sinulog nga walay hinimong istorya sa customer
 
-## Kinahanglan nga ebidensiya
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa Sinulog, mahimong pangunang pilion ang kolor sa selebrasyon ug praktikal nga pag-atiman; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
 
-Ayaw paghimo og dili tinuod nga istorya sa kustomer. Gamiton lamang ang tinuod nga order sa White Cakes nga adunay orihinal nga litrato, order notes ug pagtugot nga mamantala. Kumpirmaha ang gusto sa kustomer bahin sa privacy ug tangtanga ang makaila nga venue o personal nga detalye gawas kon adunay lahi nga pagtugot.
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
 
-Irekord ang aktuwal nga brief, giaprobahang disenyo, gidak-on, flavour, inskripsiyon, delivery arrangement ug usa ka desisyon sa disenyo nga suportado sa ebidensiya. Husto nga ipaila ang mga pahayag; ayaw pag-imbento og reaksyon, ihap sa bisita, resulta sa festival o sales result. Ang caption kinahanglan motakdo sa makita ug maghisgot sa hustong tuig kon napamatud-an.
+### Himoa nga sayon kumpirmahon ang brief
 
-Kinahanglan ipasabut sa artikulo ang mapuslanong desisyon labaw sa pagpakita og litrato, sama sa pagpahaum sa mensahe sa luna o pagpasibo sa disenyo sa hand-piped buttercream. Susiha nga bulag ang kasamtangang detalye sa produkto ug serbisyo. Kon wala ang gikinahanglang kaso ug pagtugot, ayaw imantala kini ug pauswaga hinuon ang canonical design guide gamit ang kinatibuk-ang tambag.
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
 
-## Tagalog
+## Planuhin ang cake para sa Sinulog nang walang kathang-isip na kuwento ng customer
 
-## Kailangang ebidensiya
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa Sinulog, maaaring pangunahing piliin ang kulay ng selebrasyon at praktikal na paghawak; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
 
-Huwag gumawa ng kathang-isip na kuwento ng customer. Gumamit lamang ng tunay na White Cakes order na may orihinal na larawan, order notes, at pahintulot na ilathala. Kumpirmahin ang nais na antas ng privacy ng customer at alisin ang makatutukoy na venue o personal na detalye maliban kung may hiwalay na pahintulot.
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
 
-Itala ang totoong brief, aprubadong design, sukat, flavour, inscription, delivery arrangement, at isang desisyong suportado ng ebidensiya. Iugnay nang tama ang mga pahayag; huwag mag-imbento ng reaksyon, bilang ng bisita, resulta ng festival, o sales result. Dapat tumugma ang caption sa nakikita at tukuyin lamang ang tamang taon kapag napatunayan.
+### Gawing madaling kumpirmahin ang brief
 
-Dapat ipaliwanag ng artikulo ang kapaki-pakinabang na desisyon lampas sa pagpapakita ng larawan, gaya ng pag-akma ng mensahe sa espasyo o pag-angkop ng design sa hand-piped buttercream. Hiwalay na tiyakin ang kasalukuyang detalye ng produkto at serbisyo. Kung wala ang kinakailangang case at pahintulot, huwag ilathala ang entry na ito; pagbutihin na lang ang canonical design guide gamit ang pangkalahatang payo.
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Editorial notes
-
-- Requires a real approved case and photo rights; otherwise remains unpublished.
-- Cebuano and Tagalog drafts need native editorial review.

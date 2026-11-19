@@ -1,7 +1,7 @@
 ---
 id: WC-0668
-status: draft-needs-original-photo-case
-publish_action: merge into /journal/cake-designs-cebu.html
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "How to choose a design for chocolate cake in Cebu"
 cebuano_title: "Giunsa pagpili og disenyo para sa chocolate cake sa Cebu"
 tagalog_title: "Paano pumili ng disenyo para sa chocolate cake sa Cebu"

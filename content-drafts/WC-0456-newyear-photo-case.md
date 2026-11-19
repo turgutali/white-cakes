@@ -1,44 +1,39 @@
 ---
 id: WC-0456
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of New Year cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa Bag-ong Tuig sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa Bagong Taon sa Cebu"
 ---
+## Plan New Year cake without inventing a customer story
 
-## New Year cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this New Year cake, the main choice may be the year-end palette and serving moment; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Use a real, approved cake only.** Find a White Cakes New Year order with original photos and a documented brief. Confirm image rights and permission to identify any customer, family, venue, or personal message. Do not claim a seasonal design is a stocked product unless the bakery confirms it is offered now.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Describe the actual design choices: palette, visible motifs, inscription, size, and any custom adaptation. Explain one useful decision—such as how the design fit the table or how the message stayed readable—only if supported by the order notes or bakery team. Do not invent a customer reaction, guest count, or event outcome.
+### Keep the brief easy to confirm
 
-Use full-cake and detail photos with accurate captions. Recheck current menu and serving information, then link to the central design, order, and size guides. The article should add a distinct lesson beyond a gallery caption or existing holiday page.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If no suitable case, verified details, and permission exist, keep this framework unpublished and improve the existing design guide instead.
+## Planoha ang cake para sa Bag-ong Tuig nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa Bag-ong Tuig, mahimong pangunang pilion ang kolor sa katapusan sa tuig ug oras sa pag-serve; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang cake para sa Bagong Taon nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa Bagong Taon, maaaring pangunahing piliin ang kulay sa pagtatapos ng taon at oras ng paghahain; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Bag-ong Tuig nga cake case-study framework
-
-**Paggamit ug tinuod, giaprobahan nga cake lang.** Pangita ug White Cakes nga order sa Bag-ong Tuig nga adunay orihinal nga mga litrato ug dokumentado nga mubo. Pagkumpirma sa mga katungod sa imahe ug pagtugot aron mailhan ang bisan kinsa nga kustomer, pamilya, lugar, o personal nga mensahe. Ayaw pag-angkon nga ang usa ka seasonal nga disenyo usa ka stocked nga produkto gawas kung ang panaderya nagpamatuod nga kini gitanyag karon.
-
-Ihulagway ang aktuwal nga mga pagpili sa disenyo: palette, makita nga mga motif, inskripsiyon, gidak-on, ug bisan unsang custom adaptation. Ipasabut ang usa ka mapuslanon nga desisyon—sama sa kung giunsa ang disenyo mohaum sa lamesa o kung giunsa ang mensahe nagpabilin nga mabasa—kung gisuportahan lamang sa mga nota sa order o grupo sa panaderya. Ayaw pag-imbento og reaksyon sa kustomer, ihap sa bisita, o resulta sa panghitabo.
-
-Gamit ug full-cake ug detalye nga mga litrato nga naay saktong caption. Susiha pag-usab ang kasamtangan nga menu ug impormasyon sa pag-alagad, dayon i-link sa sentro nga disenyo, order, ug mga giya sa gidak-on. Ang artikulo kinahanglan magdugang usa ka lahi nga leksyon lapas sa usa ka caption sa gallery o naglungtad nga panid sa holiday.
-
-Kung wala’y angay nga kaso, gipamatud-an nga mga detalye, ug pagtugot nga naglungtad, ipadayon kini nga balangkas nga dili mamantala ug pauswaga ang kasamtangan nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## New Year cake case-study framework
-
-**Gumamit ng tunay at naaprubahang cake lang.** Humanap ng White Cakes New Year order na may mga orihinal na larawan at isang dokumentadong brief. Kumpirmahin ang mga karapatan sa larawan at pahintulot na kilalanin ang sinumang customer, pamilya, lugar, o personal na mensahe. Huwag mag-claim na ang isang pana-panahong disenyo ay isang stocked na produkto maliban kung kinumpirma ng panaderya na ito ay inaalok ngayon.
-
-Ilarawan ang aktwal na mga pagpipilian sa disenyo: palette, nakikitang mga motif, inskripsiyon, laki, at anumang custom na adaptasyon. Ipaliwanag ang isang kapaki-pakinabang na desisyon—gaya ng kung paano umaangkop ang disenyo sa talahanayan o kung paano nanatiling nababasa ang mensahe—kung sinusuportahan lamang ng mga tala ng order o pangkat ng panaderya. Huwag mag-imbento ng reaksyon ng customer, bilang ng bisita, o kinalabasan ng kaganapan.
-
-Gumamit ng full-cake at mga detalyeng larawan na may tumpak na mga caption. Suriin muli ang kasalukuyang menu at impormasyon sa paghahatid, pagkatapos ay i-link sa gitnang disenyo, pagkakasunud-sunod, at mga gabay sa laki. Ang artikulo ay dapat magdagdag ng isang natatanging aral na lampas sa isang caption ng gallery o kasalukuyang pahina ng holiday.
-
-Kung walang naaangkop na kaso, na-verify na mga detalye, at pahintulot, panatilihing hindi nai-publish ang framework na ito at sa halip ay pagbutihin ang umiiral na gabay sa disenyo.

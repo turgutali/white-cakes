@@ -1,38 +1,39 @@
 ---
 id: WC-0665
-status: evidence-needed
-publish_action: case-specific URL only after real order, approved original photo, and company/customer permission; otherwise omit
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of cake for a company milestone in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
+## Plan company-milestone cake around the handoff
 
-## Editorial framework: document how the actual cake represented the milestone
+The design is only one part of a successful celebration order. Start with the moment the cake will be served, then work backwards: who can receive it, where the box can wait, and what the venue or household allows. For company-milestone cake, name one person as the receiver and give the bakery a reachable mobile number. Include the complete address and a landmark; add gate, lobby, loading, or entrance instructions only when they apply. Confirm the delivery area, fee, and available time directly with the bakery because these details depend on the exact address and date.
 
-This story requires a real White Cakes company-milestone cake, original photography, and written approval to identify the company or show its branding. If the customer permits publication, explain one visible design decision that helped communicate the milestone, such as the placement of the approved logo or a short date-and-message combination.
+Choose a message and decoration that fit the event without relying on a fictional customer story. One clear reference image can show the mood; describe which parts matter most and which can change. Keep names, dates, and spelling in the order message so they can be checked before production.
 
-Use only facts documented in the order and approved by the company. Do not invent the business story, employee reaction, logo treatment, flavour, or custom process. Write accurate alt text and make clear the pictured custom cake is an example, not a promise that every logo or design can be reproduced.
+### A practical checklist
 
-Without the evidence and permission, keep this as an internal portfolio request and link to the general corporate design guidance.
+Before the order is final, confirm the date, serving time, estimated number of cake eaters, design, flavour from the current menu, inscription, price, and handoff plan. Ask what to do if the program changes or the recipient is delayed. At the venue, follow the bakery’s storage advice and keep the cake away from direct sun and a hot vehicle.
+
+## Iplano ang cake para sa milestone sa kompanya palibot sa handoff
+
+Usa lamang ang disenyo sa mga bahin sa maayong order para sa selebrasyon. Sugdi sa oras nga i-serve ang cake, dayon hunahunaa paatras: kinsa ang modawat, asa ibutang ang kahon, ug unsay gitugot sa venue o balay. Para sa cake para sa milestone sa kompanya, pagpili og usa ka modawat ug ihatag sa panaderya ang mobile number nga matawagan. Iapil ang kompletong address ug landmark; dugangi og instruksyon sa gate, lobby, loading o entrance kon kinahanglan. Kumpirmaha direkta sa panaderya ang delivery area, bayad ug available nga oras kay nagdepende kini sa eksaktong address ug petsa.
+
+Pilia ang mensahe ug dekorasyon nga mohaom sa okasyon nga walay hinimong istorya sa customer. Makapakita ang usa ka klarong reference image sa mood; isulti kung unsang detalye ang importante ug unsa ang puwedeng usbon. Ibutang sa order message ang ngalan, petsa ug spelling aron masusi sa dili pa himuon.
+
+### Praktikal nga checklist
+
+Sa dili pa final ang order, kumpirmaha ang petsa, oras sa pag-serve, banabana sa mokaon og cake, disenyo, flavour gikan sa kasamtangang menu, inskripsiyon, presyo ug handoff plan. Pangutan-a unsay buhaton kung mausab ang programa o malangan ang modawat. Sa venue, sunda ang tambag sa panaderya sa pagtipig ug ipahilayo ang cake sa diretsong adlaw ug init nga sakyanan.
+
+## Planuhin ang cake para sa milestone ng kompanya ayon sa handoff
+
+Bahagi lamang ang disenyo ng maayos na order para sa selebrasyon. Magsimula sa oras ng paghahain ng cake, saka magplano pabalik: sino ang tatanggap, saan maaaring manatili ang kahon, at ano ang pinapayagan ng venue o bahay. Para sa cake para sa milestone ng kompanya, pumili ng isang tatanggap at ibigay sa panaderya ang mobile number na maaabot. Isama ang buong address at landmark; idagdag ang tagubilin sa gate, lobby, loading, o entrance kung kailangan. Kumpirmahin mismo sa panaderya ang delivery area, bayad, at available na oras dahil nakadepende ang mga ito sa eksaktong address at petsa.
+
+Pumili ng mensahe at dekorasyong bagay sa okasyon nang hindi umaasa sa kathang-isip na kuwento ng customer. Maipapakita ng isang malinaw na reference image ang mood; sabihin kung aling detalye ang mahalaga at alin ang puwedeng baguhin. Ilagay sa order message ang pangalan, petsa, at spelling para masuri bago gawin.
+
+### Praktikal na checklist
+
+Bago i-finalize ang order, kumpirmahin ang petsa, oras ng paghahain, tantiyang bilang ng kakain ng cake, disenyo, flavour mula sa kasalukuyang menu, inskripsiyon, presyo, at handoff plan. Itanong kung ano ang gagawin kapag nagbago ang programa o naantala ang tatanggap. Sa venue, sundin ang payo ng panaderya sa pag-iimbak at ilayo ang cake sa direktang araw at mainit na sasakyan.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Editoryal nga framework: idokumento kung giunsa ang aktuwal nga cake nagrepresentar sa milestone
-
-Kini nga istorya nanginahanglan usa ka tinuod nga White Cakes company-milestone cake, orihinal nga litrato, ug sinulat nga pagtugot aron mailhan ang kompanya o ipakita ang branding niini. Kung gitugotan sa kostumer ang pagmantala, ipasabut ang usa ka makita nga desisyon sa disenyo nga nakatabang sa pagpahibalo sa hinungdanon, sama sa pagbutang sa giaprobahan nga logo o usa ka mubo nga kombinasyon sa petsa-ug-mensahe.
-
-Gamita lamang ang mga kamatuoran nga nadokumento sa han-ay ug giaprobahan sa kompanya. Ayaw pag-imbento sa istorya sa negosyo, reaksyon sa empleyado, pagtambal sa logo, lami, o naandan nga proseso. Pagsulat og tukma nga alt text ug ipatin-aw ang gihulagway nga custom nga cake usa ka pananglitan, dili usa ka saad nga ang matag logo o disenyo mahimong kopyahon.
-
-Kung wala ang ebidensya ug pagtugot, itago kini ingon usa ka hangyo sa internal nga portfolio ug sumpay sa kinatibuk-ang giya sa disenyo sa korporasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Framework ng editoryal: idokumento kung paano kinakatawan ng aktwal na cake ang milestone
-
-Ang kuwentong ito ay nangangailangan ng isang tunay na White Cakes company-milestone cake, orihinal na photography, at nakasulat na pag-apruba upang makilala ang kumpanya o ipakita ang pagba-brand nito. Kung pinahihintulutan ng customer ang paglalathala, ipaliwanag ang isang nakikitang desisyon sa disenyo na nakatulong sa pagpapahayag ng milestone, tulad ng paglalagay ng naaprubahang logo o isang maikling kumbinasyon ng petsa at mensahe.
-
-Gumamit lamang ng mga katotohanang nakadokumento sa pagkakasunud-sunod at inaprubahan ng kumpanya. Huwag mag-imbento ng kwento ng negosyo, reaksyon ng empleyado, paggamot sa logo, lasa, o pasadyang proseso. Sumulat ng tumpak na alt text at gawing malinaw na ang nakalarawang custom na cake ay isang halimbawa, hindi isang pangako na ang bawat logo o disenyo ay maaaring kopyahin.
-
-Kung wala ang katibayan at pahintulot, panatilihin ito bilang isang panloob na kahilingan sa portfolio at mag-link sa pangkalahatang gabay sa disenyo ng kumpanya.

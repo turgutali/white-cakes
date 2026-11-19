@@ -1,44 +1,39 @@
 ---
 id: WC-0323
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of anniversary cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa anibersaryo sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa anibersaryo sa Cebu"
 ---
+## Plan anniversary cake without inventing a customer story
 
-## Anniversary cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this anniversary cake, the main choice may be the milestone and shared style; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Only complete this with a real White Cakes project and permission.** Choose one anniversary cake whose order details and original photos can be verified. Obtain approval to use images, names, venue details, and any personal inscription. If the couple wants anonymity, remove identifying details and confirm that the remaining facts are still accurate.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Record the actual design request, size, flavour, and serving plan. Explain one decision that readers can learn from, such as how the palette was chosen or how the message was kept readable, only if supported by the brief or bakery team. Do not invent a relationship story or customer reaction.
+### Keep the brief easy to confirm
 
-Use original full-cake and close-up images with accurate alt text. Link to the current custom brief, size, and order guides. The article must answer a distinct design question and add information beyond a portfolio caption or the existing anniversary page.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If no approved case is available, leave this framework unpublished and place general design advice in the central guide.
+## Planoha ang cake para sa anibersaryo nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa anibersaryo, mahimong pangunang pilion ang milestone ug estilo nga pareho nilang gusto; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang cake para sa anibersaryo nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa anibersaryo, maaaring pangunahing piliin ang milestone at estilong pareho nilang gusto; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Ang anibersaryo nga cake case-study framework
-
-**Kompletuha lang kini sa usa ka tinuod nga proyekto ug pagtugot sa White Cakes.** Pagpili ug usa ka anibersaryo nga cake kansang mga detalye sa order ug orihinal nga mga litrato mahimong mapamatud-an. Pagkuha og pagtugot sa paggamit sa mga imahe, ngalan, detalye sa lugar, ug bisan unsang personal nga inskripsiyon. Kung gusto sa magtiayon nga dili mailhan, kuhaa ang mga detalye sa pag-ila ug kumpirmahi nga ang nahabilin nga mga kamatuoran tukma gihapon.
-
-Irekord ang aktuwal nga hangyo sa disenyo, gidak-on, lami, ug plano sa pagserbisyo. Ipasabut ang usa ka desisyon nga makat-unan sa mga magbabasa, sama sa kung giunsa gipili ang palette o kung giunsa ang mensahe gipadayon nga mabasa, kung gisuportahan lamang sa grupo sa mubo o panaderya. Ayaw pag-imbento og istorya sa relasyon o reaksyon sa kustomer.
-
-Gamita ang orihinal nga full-cake ug close-up nga mga imahe nga adunay tukma nga alt text. Pag-link sa kasamtangang custom nga mubo, gidak-on, ug mga giya sa order. Kinahanglang tubagon sa artikulo ang usa ka lahi nga pangutana sa disenyo ug idugang ang kasayuran lapas sa usa ka caption sa portfolio o ang naglungtad nga panid sa anibersaryo.
-
-Kung walay aprobado nga kaso nga magamit, ibilin kini nga balangkas nga wala mamantala ug ibutang ang kinatibuk-ang tambag sa disenyo sa sentro nga giya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Anniversary cake case-study framework
-
-**Kumpletuhin lang ito gamit ang isang tunay na proyekto at pahintulot ng White Cakes.** Pumili ng isang anibersaryo na cake na ang mga detalye ng order at orihinal na mga larawan ay mabe-verify. Kumuha ng pag-apruba na gumamit ng mga larawan, pangalan, detalye ng lugar, at anumang personal na inskripsiyon. Kung gusto ng mag-asawa na hindi magpakilala, alisin ang mga detalye ng pagkakakilanlan at kumpirmahin na tumpak pa rin ang natitirang mga katotohanan.
-
-Itala ang aktwal na kahilingan sa disenyo, laki, lasa, at plano ng paghahatid. Ipaliwanag ang isang desisyon na matututuhan ng mga mambabasa, gaya ng kung paano napili ang palette o kung paano pinananatiling nababasa ang mensahe, kung sinusuportahan lamang ng brief o panaderya team. Huwag mag-imbento ng kwento ng relasyon o reaksyon ng customer.
-
-Gumamit ng orihinal na full-cake at mga close-up na larawan na may tumpak na alt text. Mag-link sa kasalukuyang custom na brief, laki, at mga gabay sa order. Dapat sagutin ng artikulo ang isang natatanging tanong sa disenyo at magdagdag ng impormasyon sa kabila ng caption ng portfolio o sa kasalukuyang pahina ng anibersaryo.
-
-Kung walang magagamit na naaprubahang kaso, iwanan ang balangkas na ito na hindi nai-publish at ilagay ang pangkalahatang payo sa disenyo sa gitnang gabay.

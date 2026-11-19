@@ -1,7 +1,7 @@
 ---
 id: WC-0067
-status: draft-needs-original-photo-case
-publish_action: merge into /journal/cake-designs-cebu.html
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "How to match the design of custom buttercream cake in Cebu"
 cebuano_title: "Giunsa pagpares ang disenyo sa custom buttercream cake sa Cebu"
 tagalog_title: "Paano itugma ang disenyo ng custom buttercream cake sa Cebu"

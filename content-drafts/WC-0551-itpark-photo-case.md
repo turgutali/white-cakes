@@ -1,50 +1,39 @@
 ---
 id: WC-0551
-status: evidence-gated-photo-case
-publish_action: do not publish or create a case-specific URL until a real IT Park office order, original photo rights, verified details, and company/customer permission are approved; otherwise merge only a general lesson into /journal/corporate-office-cakes-cebu.html
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of cake for an IT Park office celebration in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
 ---
+## Plan IT Park office cake around the handoff
 
-evidence_required: completed office order record; original photos; customer and company permission; verified design and delivery details
+The design is only one part of a successful celebration order. Start with the moment the cake will be served, then work backwards: who can receive it, where the box can wait, and what the venue or household allows. For IT Park office cake, name one person as the receiver and give the bakery a reachable mobile number. Include the complete address and a landmark; add gate, lobby, loading, or entrance instructions only when they apply. Confirm the delivery area, fee, and available time directly with the bakery because these details depend on the exact address and date.
 
-## IT Park office-cake case-study framework
+Choose a message and decoration that fit the event without relying on a fictional customer story. One clear reference image can show the mood; describe which parts matter most and which can change. Keep names, dates, and spelling in the order message so they can be checked before production.
 
-**Do not publish without a real, approved office-cake project.** Select a verified White Cakes order delivered to an IT Park office and confirm the order details with the bakery. Secure permission to publish the photos and any company name, logo, or identifiable employee. Remove private contact information and do not disclose a specific floor or security detail.
+### A practical checklist
 
-The case should explain a concrete design or logistics decision. For example, document how the team selected a short inscription, chose colours, or organized a recipient for the handoff—but only if the order notes support it. Do not claim that a particular building access process applies generally based on one delivery.
+Before the order is final, confirm the date, serving time, estimated number of cake eaters, design, flavour from the current menu, inscription, price, and handoff plan. Ask what to do if the program changes or the recipient is delayed. At the venue, follow the bakery’s storage advice and keep the cake away from direct sun and a hot vehicle.
 
-Use original photos with captions that describe only visible, confirmed details. Include the actual size and flavour only if verified, explain the serving plan, and link to the current order and delivery guides. The article must add an office-specific lesson beyond generic cake ordering.
+## Iplano ang cake para sa opisina sa IT Park palibot sa handoff
 
-If there is no approved image or documented decision, keep this framework unpublished. Add verified office delivery facts to the central Cebu guide instead.
+Usa lamang ang disenyo sa mga bahin sa maayong order para sa selebrasyon. Sugdi sa oras nga i-serve ang cake, dayon hunahunaa paatras: kinsa ang modawat, asa ibutang ang kahon, ug unsay gitugot sa venue o balay. Para sa cake para sa opisina sa IT Park, pagpili og usa ka modawat ug ihatag sa panaderya ang mobile number nga matawagan. Iapil ang kompletong address ug landmark; dugangi og instruksyon sa gate, lobby, loading o entrance kon kinahanglan. Kumpirmaha direkta sa panaderya ang delivery area, bayad ug available nga oras kay nagdepende kini sa eksaktong address ug petsa.
+
+Pilia ang mensahe ug dekorasyon nga mohaom sa okasyon nga walay hinimong istorya sa customer. Makapakita ang usa ka klarong reference image sa mood; isulti kung unsang detalye ang importante ug unsa ang puwedeng usbon. Ibutang sa order message ang ngalan, petsa ug spelling aron masusi sa dili pa himuon.
+
+### Praktikal nga checklist
+
+Sa dili pa final ang order, kumpirmaha ang petsa, oras sa pag-serve, banabana sa mokaon og cake, disenyo, flavour gikan sa kasamtangang menu, inskripsiyon, presyo ug handoff plan. Pangutan-a unsay buhaton kung mausab ang programa o malangan ang modawat. Sa venue, sunda ang tambag sa panaderya sa pagtipig ug ipahilayo ang cake sa diretsong adlaw ug init nga sakyanan.
+
+## Planuhin ang cake para sa opisina sa IT Park ayon sa handoff
+
+Bahagi lamang ang disenyo ng maayos na order para sa selebrasyon. Magsimula sa oras ng paghahain ng cake, saka magplano pabalik: sino ang tatanggap, saan maaaring manatili ang kahon, at ano ang pinapayagan ng venue o bahay. Para sa cake para sa opisina sa IT Park, pumili ng isang tatanggap at ibigay sa panaderya ang mobile number na maaabot. Isama ang buong address at landmark; idagdag ang tagubilin sa gate, lobby, loading, o entrance kung kailangan. Kumpirmahin mismo sa panaderya ang delivery area, bayad, at available na oras dahil nakadepende ang mga ito sa eksaktong address at petsa.
+
+Pumili ng mensahe at dekorasyong bagay sa okasyon nang hindi umaasa sa kathang-isip na kuwento ng customer. Maipapakita ng isang malinaw na reference image ang mood; sabihin kung aling detalye ang mahalaga at alin ang puwedeng baguhin. Ilagay sa order message ang pangalan, petsa, at spelling para masuri bago gawin.
+
+### Praktikal na checklist
+
+Bago i-finalize ang order, kumpirmahin ang petsa, oras ng paghahain, tantiyang bilang ng kakain ng cake, disenyo, flavour mula sa kasalukuyang menu, inskripsiyon, presyo, at handoff plan. Itanong kung ano ang gagawin kapag nagbago ang programa o naantala ang tatanggap. Sa venue, sundin ang payo ng panaderya sa pag-iimbak at ilayo ang cake sa direktang araw at mainit na sasakyan.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-evidence_required: completed office order record; original photos; customer and company permission; verified design and delivery details
-
-## IT Park office-cake case-study framework
-
-**Ayaw pagmantala nga walay tinuod, giaprobahan nga proyekto sa cake sa opisina.** Pagpili ug napamatud-an nga order sa White Cakes nga ihatod sa opisina sa IT Park ug kumpirmahi ang mga detalye sa order sa panaderya. Lig-on nga pagtugot sa pagmantala sa mga litrato ug bisan unsang ngalan sa kompanya, logo, o mailhan nga empleyado. Kuhaa ang pribadong impormasyon sa kontak ug ayaw ibutyag ang usa ka piho nga salog o detalye sa seguridad.
-
-Kinahanglang ipatin-aw sa kaso ang konkretong disenyo o desisyon sa logistik. Pananglitan, idokumento kung giunsa pagpili sa team ang usa ka mubo nga inskripsiyon, gipili ang mga kolor, o giorganisar ang usa ka nakadawat alang sa handoff-apan kung gisuportahan kini sa mga nota sa order. Ayaw pag-angkon nga ang usa ka partikular nga proseso sa pag-access sa bilding magamit sa kasagaran base sa usa ka paghatod.
-
-Gamita ang orihinal nga mga litrato nga adunay mga kapsyon nga naghulagway lamang sa makita, gikumpirma nga mga detalye. Ilakip lamang ang aktuwal nga gidak-on ug lami kon mapamatud-an, ipasabut ang plano sa pag-alagad, ug i-link ang kasamtangang order ug mga giya sa paghatod. Ang artikulo kinahanglang magdugang ug leksyon nga espesipiko sa opisina lapas sa generic nga pag-order sa cake.
-
-Kung walay aprobahan nga hulagway o dokumentado nga desisyon, ipabilin kini nga gambalay nga dili mamantala. Idugang hinuon ang gipamatud-an nga mga kamatuoran sa paghatod sa opisina ngadto sa giya sa sentro sa Sugbo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-evidence_required: completed office order record; original photos; customer and company permission; verified design and delivery details
-
-## IT Park office-cake case-study framework
-
-**Huwag mag-publish nang walang tunay, naaprubahang proyekto ng office-cake.** Pumili ng na-verify na order ng White Cakes na inihatid sa opisina ng IT Park at kumpirmahin ang mga detalye ng order sa panaderya. Secure na pahintulot na i-publish ang mga larawan at anumang pangalan ng kumpanya, logo, o makikilalang empleyado. Alisin ang pribadong impormasyon sa pakikipag-ugnayan at huwag magbunyag ng partikular na palapag o detalye ng seguridad.
-
-Dapat ipaliwanag ng kaso ang isang konkretong disenyo o desisyon sa logistik. Halimbawa, idokumento kung paano pumili ang team ng maikling inskripsiyon, pumili ng mga kulay, o inayos ang isang tatanggap para sa handoff—ngunit kung sinusuportahan lang ito ng mga tala ng order. Huwag i-claim na ang isang partikular na proseso ng pag-access sa gusali ay nalalapat sa pangkalahatan batay sa isang paghahatid.
-
-Gumamit ng mga orihinal na larawan na may mga caption na naglalarawan lamang ng mga nakikita at nakumpirmang detalye. Isama lang ang aktwal na laki at lasa kung na-verify, ipaliwanag ang plano sa paghahatid, at i-link sa kasalukuyang mga gabay sa pag-order at paghahatid. Ang artikulo ay dapat magdagdag ng isang aralin na partikular sa opisina na higit pa sa generic na pag-order ng cake.
-
-Kung walang naaprubahang larawan o nakadokumentong desisyon, panatilihing hindi nai-publish ang framework na ito. Sa halip, magdagdag ng mga na-verify na katotohanan sa paghahatid ng opisina sa gabay sa gitnang Cebu.

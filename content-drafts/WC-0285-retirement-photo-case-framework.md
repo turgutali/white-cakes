@@ -1,44 +1,39 @@
 ---
 id: WC-0285
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of retirement cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa pagretiro sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa pagreretiro sa Cebu"
 ---
+## Plan retirement cake without inventing a customer story
 
-## Retirement cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this retirement cake, the main choice may be the retiree’s next chapter; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Publication gate:** this page cannot be completed from a generic template. Select one real White Cakes retirement cake only if the order record, final design, and image rights are verified. Get explicit permission for every recognizable person, venue, company mark, and customer photograph. If no suitable approved project exists, keep this as an editorial brief and do not publish a fabricated case.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-For the approved case, document the actual request in anonymized terms: the event date or season (only if permission allows), intended number of servings, flavour selected, design priorities, and any practical constraint the customer shared. Record which choices the bakery proposed and why. Do not infer a recipient's personality or the customer's reaction.
+### Keep the brief easy to confirm
 
-Use original photographs of the finished cake, with accurate captions that identify only visible, verified details. Explain the design decisions readers can learn from—for example, how a short inscription, restrained palette, or workplace motif was handled—only where the image and order notes support it. Include the verified size and serving estimate and link to the current custom-cake process.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If the actual order facts, permission, or images are unavailable, do not turn the framework into a standalone URL. Merge general advice into the existing design guide and wait for a real case.
+## Planoha ang cake sa retirement nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake sa retirement, mahimong pangunang pilion ang bag-ong yugto sa kinabuhi sa retirado; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang cake para sa retirement nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa retirement, maaaring pangunahing piliin ang bagong yugto ng buhay ng magreretiro; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Retirement cake case-study framework
-
-**Publikasyon ganghaan:** kini nga panid dili makompleto gikan sa usa ka generic nga template. Pagpili ug usa ka tinuod nga White Cakes nga retirement cake lamang kung ang order record, katapusan nga disenyo, ug mga katungod sa imahe mapamatud-an. Pagkuha ug klaro nga pagtugot alang sa matag mailhan nga tawo, lugar, marka sa kompanya, ug litrato sa kustomer. Kung wala’y angay nga aprobahan nga proyekto nga naglungtad, itago kini ingon usa ka mubo nga editoryal ug ayaw pagmantala og usa ka hinimo-himo nga kaso.
-
-Para sa giaprobahan nga kaso, idokumento ang aktuwal nga hangyo sa dili mailhan nga mga termino: ang petsa o panahon sa panghitabo (kon itugot lang), gituyo nga gidaghanon sa mga serving, gipili nga lami, mga prayoridad sa disenyo, ug bisan unsang praktikal nga pagpugong nga gipaambit sa kustomer. Irekord kung unsang mga kapilian ang gisugyot sa panaderya ug ngano. Ayaw isulti ang personalidad sa usa ka nakadawat o ang reaksyon sa kustomer.
-
-Gamita ang orihinal nga mga litrato sa nahuman nga cake, nga adunay tukma nga mga kapsyon nga nagpaila lamang sa makita, gipamatud-an nga mga detalye. Ipasabut ang mga desisyon sa disenyo nga makat-unan sa mga magbabasa—pananglitan, kung giunsa pagdumala ang usa ka mubo nga inskripsiyon, gipugngan nga palette, o motif sa trabahoan—kung diin ang imahe ug mga nota sa order nagsuporta niini. Ilakip ang gipamatud-an nga gidak-on ug banabana sa pagserbisyo ug sumpay sa kasamtangang proseso sa custom-cake.
-
-Kung ang aktuwal nga pag-order nga mga kamatuoran, pagtugot, o mga imahe dili magamit, ayaw himoa ang framework nga usa ka standalone nga URL. Isagol ang kinatibuk-ang tambag sa kasamtangan nga giya sa disenyo ug maghulat alang sa usa ka tinuod nga kaso.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Retirement cake case-study framework
-
-**Publication gate:** hindi makukumpleto ang page na ito mula sa isang generic na template. Pumili lamang ng isang tunay na White Cakes retirement cake kung na-verify ang record ng order, huling disenyo, at mga karapatan sa imahe. Kumuha ng tahasang pahintulot para sa bawat nakikilalang tao, lugar, marka ng kumpanya, at larawan ng customer. Kung walang naaangkop na naaprubahang proyekto, panatilihin ito bilang isang editorial brief at huwag mag-publish ng isang gawa-gawang kaso.
-
-Para sa naaprubahang kaso, idokumento ang aktwal na kahilingan sa mga hindi kilalang termino: ang petsa o season ng kaganapan (kung pinahihintulutan lang), nilalayong bilang ng mga serving, napiling lasa, mga priyoridad sa disenyo, at anumang praktikal na hadlang na ibinahagi ng customer. Itala kung aling mga pagpipilian ang iminungkahi ng panaderya at bakit. Huwag hulaan ang personalidad ng isang tatanggap o ang reaksyon ng customer.
-
-Gumamit ng mga orihinal na larawan ng natapos na cake, na may tumpak na mga caption na tumutukoy lamang sa mga nakikita at na-verify na detalye. Ipaliwanag ang mga desisyon sa disenyo na matututuhan ng mga mambabasa—halimbawa, kung paano pinangasiwaan ang isang maikling inskripsiyon, pinipigilang palette, o motif sa lugar ng trabaho—kung saan lang sinusuportahan ito ng larawan at mga tala ng order. Isama ang na-verify na laki at pagtatantya ng paghahatid at link sa kasalukuyang proseso ng custom-cake.
-
-Kung hindi available ang aktwal na mga katotohanan ng order, pahintulot, o mga larawan, huwag gawing standalone na URL ang framework. Pagsamahin ang pangkalahatang payo sa umiiral na gabay sa disenyo at maghintay para sa isang tunay na kaso.

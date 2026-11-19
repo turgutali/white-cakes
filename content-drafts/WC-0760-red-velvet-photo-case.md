@@ -1,38 +1,39 @@
 ---
 id: WC-0760
-status: evidence-needed
-publish_action: case-specific URL only with a real cake, original approved photography, and customer permission
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of red velvet cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa red velvet cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng red velvet cake sa Cebu"
 ---
+## Plan red-velvet cake without inventing a customer story
 
-## Editorial framework: show what the real design communicates
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this red-velvet cake, the main choice may be colour contrast and menu confirmation; write down what should remain recognizable and what is flexible before sending a reference.
 
-This draft needs a finished White Cakes red velvet cake and an original image approved for public use. If those exist, explain one design choice that can be seen in the cake and helps readers understand a real order, such as how the inscription, colour accents, and border were balanced. Mention the event only with the customer’s permission.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Verify the current flavour and describe only what the bakery confirms. Do not infer ingredients, filling, taste, customer feedback, or the decoration process from the cake’s colour alone. Include accurate alt text and make clear whether the pictured design is a past custom order rather than a guaranteed product.
+### Keep the brief easy to confirm
 
-If no original approved case is available, keep this internal and link to the design guide. Do not publish a generic or fictional photo story.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
+
+## Planoha ang red-velvet cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining red-velvet cake, mahimong pangunang pilion ang kalainan sa kolor ug pagkumpirma sa menu; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang red-velvet cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa red-velvet cake, maaaring pangunahing piliin ang pagkakaiba ng kulay at pagkumpirma sa menu; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Balangkas sa editoryal: ipakita kung unsa ang gisulti sa tinuod nga disenyo
-
-Kini nga draft nanginahanglan usa ka nahuman nga White Cakes nga pula nga velvet nga cake ug usa ka orihinal nga imahe nga gi-aprubahan para magamit sa publiko. Kung naa kana, ipasabut ang usa ka kapilian sa disenyo nga makita sa cake ug tabangi ang mga magbabasa nga masabtan ang usa ka tinuud nga pagkahan-ay, sama sa kung giunsa balanse ang inskripsiyon, kolor nga accent, ug border. Hisguti ang panghitabo nga adunay pagtugot sa kustomer.
-
-Tinoa ang kasamtangan nga lami ug ihulagway kung unsa ang gikumpirma sa panaderya. Ayaw isulti ang mga sangkap, pagpuno, lami, feedback sa kostumer, o ang proseso sa dekorasyon gikan sa kolor sa cake lamang. Ilakip ang tukma nga alt text ug klaroha kung ang gihulagway nga disenyo usa ka nangagi nga kostumbre nga order kaysa usa ka garantiya nga produkto.
-
-Kung walay orihinal nga aprobahan nga kaso nga magamit, itago kini nga internal ug i-link sa giya sa disenyo. Ayaw pagmantala og generic o fictional nga istorya sa litrato.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Framework ng editoryal: ipakita kung ano ang ipinapahayag ng tunay na disenyo
-
-Ang draft na ito ay nangangailangan ng tapos na White Cakes na red velvet cake at isang orihinal na larawang inaprubahan para sa pampublikong paggamit. Kung mayroon ang mga iyon, ipaliwanag ang isang pagpipilian sa disenyo na makikita sa cake at tulungan ang mga mambabasa na maunawaan ang isang tunay na pagkakasunud-sunod, tulad ng kung paano balanse ang inskripsiyon, mga accent ng kulay, at hangganan. Banggitin lamang ang kaganapan nang may pahintulot ng customer.
-
-I-verify ang kasalukuyang lasa at ilarawan lamang kung ano ang kinukumpirma ng panaderya. Huwag maghinuha ng mga sangkap, pagpuno, panlasa, feedback ng customer, o ang proseso ng dekorasyon mula sa kulay ng cake lamang. Isama ang tumpak na alt text at linawin kung ang nakalarawang disenyo ay isang nakaraang custom na order sa halip na isang garantisadong produkto.
-
-Kung walang available na orihinal na inaprubahang kaso, panatilihin itong panloob at i-link sa gabay sa disenyo. Huwag mag-publish ng generic o fictional na kwento ng larawan.

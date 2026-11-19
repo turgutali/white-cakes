@@ -1,44 +1,39 @@
 ---
 id: WC-0152
-status: photo-case-framework
-publish_action: add to /journal/cake-designs-cebu.html only after a debut-cake photo is approved
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of debut cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa debut sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa debut sa Cebu"
 ---
+## Plan debut cake without inventing a customer story
 
-## Build a debut-cake case study from the actual design choices
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this debut cake, the main choice may be dress, venue, and event palette; write down what should remain recognizable and what is flexible before sending a reference.
 
-A useful debut-cake design story should show how the cake was planned for the celebrant, the venue, and the number of guests. Select an approved photo of an actual White Cakes debut cake, then describe one visible detail: the colour palette, piped border, inscription placement, or how the design fits the chosen size. Do not claim a past commission or specific client preference without a real, permission-cleared example.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-The article should explain the decision, not simply label the image “debut cake.” For example, say which detail came from the brief and what the baker adapted to make it work in hand-piped buttercream. If the message is visible, confirm its exact text and explain how it fits the cake surface. Portion estimates should match the published size guide and be described as ranges.
+### Keep the brief easy to confirm
 
-The general process is to send the date, size or guest count, flavour, message, and one reference photo. White Cakes requests at least three days' notice; a detailed or multi-tier event should be discussed earlier when possible. Delivery logistics should be confirmed with the venue.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-Until an approved debut-specific photo and permission exist, keep this as a framework and use the existing debut and custom-design guides for general advice.
+## Planoha ang debut cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining debut cake, mahimong pangunang pilion ang sinina, venue, ug kolor sa event; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang debut cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa debut cake, maaaring pangunahing piliin ang damit, venue, at kulay ng event; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Paghimo ug debut-cake case study gikan sa aktuwal nga mga pagpili sa disenyo
-
-Ang usa ka mapuslanon nga istorya sa disenyo sa debut-cake kinahanglan magpakita kung giunsa ang pagplano sa cake alang sa nagsaulog, ang lugar, ug ang gidaghanon sa mga bisita. Pagpili og aprubadong litrato sa aktuwal nga White Cakes nga debut cake, dayon ihulagway ang usa ka makitang detalye: ang color palette, piped nga utlanan, pagbutang sa inskripsiyon, o kon sa unsang paagi mohaum ang disenyo sa gipili nga gidak-on. Ayaw pag-angkon sa usa ka nangagi nga komisyon o espesipikong gusto sa kliyente nga wala'y tinuod, gitugutan nga panig-ingnan.
-
-Kinahanglang ipatin-aw sa artikulo ang desisyon, dili lang isulat ang imahe nga "debut cake." Pananglitan, isulti kung unsang detalye ang gikan sa mubo ug kung unsa ang gipahiangay sa panadero aron kini magamit sa hand-piped buttercream. Kung makita ang mensahe, kumpirmahi ang eksakto nga teksto niini ug ipasabut kung giunsa kini mohaum sa ibabaw sa cake. Ang mga pagbana-bana sa bahin kinahanglang motakdo sa gimantala nga giya sa gidak-on ug ihulagway nga mga han-ay.
-
-Ang kinatibuk-ang proseso mao ang pagpadala sa petsa, gidak-on o ihap sa bisita, lami, mensahe, ug usa ka reperensya nga litrato. Ang White Cake nangayo ug labing menos tulo ka adlaw nga pahibalo; ang usa ka detalyado o multi-tier nga panghitabo kinahanglan nga hisgutan sa sayo pa kung mahimo. Ang mga logistik sa pagpadala kinahanglan nga makumpirma sa lugar.
-
-Hangtud adunay usa ka aprubado nga debut-specific nga litrato ug pagtugot nga anaa, tipigi kini isip usa ka framework ug gamita ang kasamtangan nga debut ug custom-design nga mga giya alang sa kinatibuk-ang tambag.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bumuo ng isang debut-cake case study mula sa aktwal na mga pagpipilian sa disenyo
-
-Dapat ipakita ng isang kapaki-pakinabang na kuwento sa disenyo ng debut-cake kung paano binalak ang cake para sa celebrant, sa lugar, at sa bilang ng mga bisita. Pumili ng aprubadong larawan ng isang aktwal na White Cakes debut cake, pagkatapos ay ilarawan ang isang nakikitang detalye: ang color palette, piped na hangganan, pagkakalagay ng inskripsiyon, o kung paano umaangkop ang disenyo sa napiling laki. Huwag mag-claim ng nakaraang komisyon o partikular na kagustuhan ng kliyente nang walang tunay, na-clear na halimbawa ng pahintulot.
-
-Dapat ipaliwanag ng artikulo ang desisyon, hindi lang lagyan ng label ang larawang "debut cake." Halimbawa, sabihin kung aling detalye ang nagmula sa brief at kung ano ang inangkop ng panadero para gumana ito sa hand-piped buttercream. Kung nakikita ang mensahe, kumpirmahin ang eksaktong text nito at ipaliwanag kung paano ito umaangkop sa ibabaw ng cake. Dapat tumugma ang mga pagtatantya ng bahagi sa na-publish na gabay sa laki at inilarawan bilang mga hanay.
-
-Ang pangkalahatang proseso ay ipadala ang petsa, laki o bilang ng bisita, lasa, mensahe, at isang reference na larawan. Ang White Cakes ay humihiling ng hindi bababa sa tatlong araw na paunawa; ang isang detalyado o multi-tier na kaganapan ay dapat na talakayin nang mas maaga kung posible. Dapat kumpirmahin ang logistik ng paghahatid sa lugar.
-
-Hanggang sa magkaroon ng aprubadong larawan at pahintulot na partikular sa pasinaya, panatilihin ito bilang isang balangkas at gamitin ang kasalukuyang mga gabay sa pasinaya at custom-design para sa pangkalahatang payo.

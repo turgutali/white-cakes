@@ -1,44 +1,39 @@
 ---
 id: WC-0684
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of chocolate cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa chocolate cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng chocolate cake sa Cebu"
 ---
+## Plan chocolate cake without inventing a customer story
 
-## Chocolate-cake design case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this chocolate cake, the main choice may be the visual finish and flavour choice; write down what should remain recognizable and what is flexible before sending a reference.
 
-**A real, approved White Cakes cake is required.** Select one chocolate cake with an order record and original photographs. Confirm the flavour and design details with the bakery and obtain permission to publish the images. Do not use a stock photo or a competitor's work as if it were a White Cakes cake.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Build the article around a specific design decision: how a colour palette was chosen, how a message was placed, or how the finish was adapted to the selected size. Use the actual customer brief and bakery confirmation. Do not invent tasting notes, ingredients, customer reactions, or claims that the cake was popular.
+### Keep the brief easy to confirm
 
-Include a full-cake image and useful detail shots with accurate captions and descriptive alt text. State current flavour and size information only after rechecking the menu. Link to the custom design guide and current ordering information. The page must add something more useful than a product description or gallery caption.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If there is no verified case and permission, leave the framework unpublished and use only general guidance in the existing design page.
+## Planoha ang chocolate cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining chocolate cake, mahimong pangunang pilion ang visual finish ug pagpili sa lami; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang chocolate cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa chocolate cake, maaaring pangunahing piliin ang visual finish at pagpili ng lasa; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Chocolate-cake design case-study framework
-
-**Kinahanglan usa ka tinuod, giaprobahan nga White Cakes nga cake.** Pagpili ug usa ka chocolate cake nga adunay order record ug orihinal nga mga litrato. Kumpirma ang lami ug mga detalye sa disenyo sa panaderya ug pagkuha og pagtugot sa pagmantala sa mga hulagway. Ayaw gamita ang usa ka stock nga litrato o buhat sa usa ka kakompetensya nga ingon nga kini usa ka White Cakes nga cake.
-
-Paghimo sa artikulo sa palibot sa usa ka piho nga desisyon sa disenyo: giunsa pagpili ang usa ka paleta sa kolor, giunsa pagbutang ang usa ka mensahe, o kung giunsa ang pagkahuman gipahaum sa gipili nga gidak-on. Gamita ang aktuwal nga mubu sa kustomer ug kumpirmasyon sa panaderya. Ayaw pag-imbento og mga nota sa pagtilaw, sagol, reaksyon sa kustomer, o pag-angkon nga popular ang cake.
-
-Ilakip ang usa ka full-cake nga imahe ug mapuslanon nga mga shot sa detalye nga adunay tukma nga mga kapsyon ug deskriptibo nga alt text. Ipahayag ang kasamtangan nga impormasyon sa lami ug gidak-on human sa pagsusi pag-usab sa menu. I-link sa custom nga giya sa disenyo ug kasamtangang impormasyon sa pag-order. Ang panid kinahanglan magdugang usa ka butang nga labi ka mapuslanon kaysa usa ka paghulagway sa produkto o caption sa gallery.
-
-Kung walay gipamatud-an nga kaso ug pagtugot, biyai ang gambalay nga wala mamantala ug gamita lamang ang kinatibuk-ang giya sa kasamtangan nga panid sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## balangkas ng case-study na disenyo ng chocolate-cake
-
-**Kailangan ng isang tunay, aprubadong White Cakes cake.** Pumili ng isang chocolate cake na may record ng order at orihinal na mga larawan. Kumpirmahin ang mga detalye ng lasa at disenyo sa panaderya at kumuha ng pahintulot na i-publish ang mga larawan. Huwag gumamit ng stock na larawan o gawa ng kakumpitensya na parang ito ay isang White Cakes cake.
-
-Buuin ang artikulo sa isang partikular na desisyon sa disenyo: kung paano napili ang isang paleta ng kulay, kung paano inilagay ang isang mensahe, o kung paano inangkop ang pagtatapos sa napiling laki. Gamitin ang aktwal na customer brief at kumpirmasyon ng panaderya. Huwag mag-imbento ng mga tala sa pagtikim, sangkap, reaksyon ng kostumer, o sinasabing sikat ang cake.
-
-Magsama ng full-cake na larawan at kapaki-pakinabang na mga kuha ng detalye na may tumpak na mga caption at mapaglarawang alt text. Ipahayag ang kasalukuyang impormasyon ng lasa at laki lamang pagkatapos suriin muli ang menu. Mag-link sa custom na gabay sa disenyo at kasalukuyang impormasyon sa pag-order. Dapat magdagdag ang page ng isang bagay na mas kapaki-pakinabang kaysa sa paglalarawan ng produkto o caption ng gallery.
-
-Kung walang na-verify na kaso at pahintulot, iwanan ang framework na hindi nai-publish at gumamit lamang ng pangkalahatang patnubay sa kasalukuyang pahina ng disenyo.

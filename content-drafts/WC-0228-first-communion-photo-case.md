@@ -1,44 +1,39 @@
 ---
 id: WC-0228
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of First Communion cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa First Communion sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa First Communion sa Cebu"
 ---
+## Plan First Communion cake without inventing a customer story
 
-## First Communion cake case-study framework
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this First Communion cake, the main choice may be a calm, balanced layout; write down what should remain recognizable and what is flexible before sending a reference.
 
-**Complete this article only from a real White Cakes order.** Verify the design, event details, cake size, and flavour with the order record or team. Obtain permission for all photos and identifiable religious, family, or venue details. Do not invent an event, customer response, or design story.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Choose a useful design question the case can answer, such as how the family balanced a simple colour palette with a short inscription. Explain only the decisions the bakery can verify. If a religious symbol appears, ensure the caption accurately describes it and the family is comfortable with its use.
+### Keep the brief easy to confirm
 
-Use original full-cake and close-up photos with descriptive alt text. Link to the existing cake-design, size, order, and price guides. Include current product details only after rechecking the live menu. A standalone URL should add a distinct design lesson beyond the existing First Communion page and general portfolio.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-If there is no approved case or a separate user need, keep this framework unpublished and update the existing guide instead.
+## Planoha ang cake para sa First Communion nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa First Communion, mahimong pangunang pilion ang hapsay ug balanse nga layout; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang cake para sa First Communion nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa First Communion, maaaring pangunahing piliin ang mahinahon at balanseng layout; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## First Communion cake case-study framework
-
-**Kompletoha kining artikuloha gikan lang sa tinuod nga order sa White Cakes.** I-verify ang disenyo, mga detalye sa panghitabo, gidak-on sa cake, ug lami gamit ang order record o team. Pagkuha og pagtugot alang sa tanan nga mga litrato ug mailhan nga relihiyoso, pamilya, o mga detalye sa lugar. Ayaw pag-imbento og panghitabo, tubag sa kustomer, o istorya sa disenyo.
-
-Pagpili usa ka mapuslanon nga pangutana sa disenyo nga matubag sa kaso, sama sa kung giunsa pagbalanse sa pamilya ang usa ka yano nga paleta sa kolor nga adunay mubo nga inskripsiyon. Ipasabot lang ang mga desisyon nga mapamatud-an sa panaderya. Kung adunay makita nga simbolo sa relihiyon, siguroha nga ang kapsyon tukma nga naghulagway niini ug ang pamilya komportable sa paggamit niini.
-
-Gamita ang orihinal nga full-cake ug close-up nga mga litrato nga adunay deskriptibo nga alt text. Link sa kasamtangan nga cake-design, gidak-on, order, ug mga giya sa presyo. Ilakip ang mga detalye sa karon nga produkto pagkahuman sa pagsusi pag-usab sa live menu. Ang usa ka standalone nga URL kinahanglan magdugang usa ka lahi nga leksyon sa disenyo lapas sa naglungtad nga panid sa Unang Komunyon ug kinatibuk-ang portfolio.
-
-Kung walay giaprobahan nga kaso o bulag nga panginahanglan sa user, ipabilin kini nga framework nga dili mamantala ug i-update hinuon ang kasamtangan nga giya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## First Communion cake case-study framework
-
-**Kumpletuhin lamang ang artikulong ito mula sa isang tunay na order ng White Cakes.** I-verify ang disenyo, mga detalye ng kaganapan, laki ng cake, at lasa gamit ang talaan ng order o koponan. Kumuha ng pahintulot para sa lahat ng larawan at makikilalang mga detalye ng relihiyon, pamilya, o lugar. Huwag mag-imbento ng kaganapan, tugon ng customer, o kuwento ng disenyo.
-
-Pumili ng isang kapaki-pakinabang na tanong sa disenyo na masasagot ng kaso, gaya ng kung paano binalanse ng pamilya ang isang simpleng paleta ng kulay na may maikling inskripsiyon. Ipaliwanag lamang ang mga desisyon na mabe-verify ng panaderya. Kung may lalabas na simbolo ng relihiyon, tiyaking tumpak na inilalarawan ito ng caption at komportable ang pamilya sa paggamit nito.
-
-Gumamit ng orihinal na full-cake at mga close-up na larawan na may mapaglarawang alt text. Mag-link sa umiiral nang cake-design, laki, order, at mga gabay sa presyo. Isama lamang ang mga kasalukuyang detalye ng produkto pagkatapos suriin muli ang live na menu. Ang isang standalone na URL ay dapat magdagdag ng isang natatanging aralin sa disenyo na lampas sa kasalukuyang page ng Unang Komunyon at pangkalahatang portfolio.
-
-Kung walang naaprubahang kaso o isang hiwalay na pangangailangan ng user, panatilihing hindi nai-publish ang framework na ito at i-update na lang ang kasalukuyang gabay.

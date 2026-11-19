@@ -1,7 +1,7 @@
 ---
 id: WC-0010
-status: draft-needs-original-photo-case
-publish_action: merge into /journal/cake-designs-cebu.html
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "How to match the design of 4-inch Bento cake in Cebu"
 cebuano_title: "Giunsa pagpares ang disenyo sa 4-inch nga Bento cake sa Cebu"
 tagalog_title: "Paano itugma ang disenyo ng 4-inch na Bento cake sa Cebu"

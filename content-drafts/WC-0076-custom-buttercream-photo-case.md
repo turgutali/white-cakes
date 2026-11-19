@@ -1,38 +1,39 @@
 ---
 id: WC-0076
-status: evidence-needed
-publish_action: case-specific URL only after real order, original approved photos, and customer consent; otherwise omit
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of custom buttercream cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa custom buttercream cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng custom buttercream cake sa Cebu"
 ---
+## Plan custom buttercream cake without inventing a customer story
 
-## Editorial framework: show the actual buttercream finish and one design decision
+A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this custom buttercream cake, the main choice may be buttercream finish; write down what should remain recognizable and what is flexible before sending a reference.
 
-This requires a real White Cakes custom buttercream cake and original photos approved for public use. If available, show the complete cake and a close-up that demonstrates a specific finish or decorative decision. Explain the customer-approved brief detail that shaped the design without identifying the customer unnecessarily.
+A reference photo is a communication tool, not a promise of an exact copy. Point to the specific parts you like—colour, silhouette, border, lettering, or placement—and explain which details can be adapted to the requested size and confirmed price. Ask the bakery what can be made with the current design options. Do not assume a particular ingredient, technique, or finish unless it has been confirmed for the order.
 
-Verify every detail with the order record and bakery. Do not infer the technique, ingredients, heat tolerance, or customer response from a photo. Use accurate alt text and explain that custom work may vary from one order to another.
+### Keep the brief easy to confirm
 
-If no approved cake is available, keep this as an internal portfolio request and link to the design guide. Never publish a generic or fictional case as completed work.
+Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
+
+## Planoha ang custom buttercream cake nga walay hinimong istorya sa customer
+
+Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining custom buttercream cake, mahimong pangunang pilion ang buttercream finish; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
+
+Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong kopyahon. Itudlo ang piho nga ganahan nimo—kolor, porma, border, letra o puwesto—ug ipasabot unsang detalye ang puwedeng ipahiangay sa gidak-on ug kumpirmadong presyo. Pangutan-a ang panaderya unsay mahimo gamit ang kasamtangang design options. Ayaw pagtuo nga sigurado ang usa ka sangkap, teknik o finish hangtod makumpirma kini sa order.
+
+### Himoa nga sayon kumpirmahon ang brief
+
+Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
+
+## Planuhin ang custom buttercream cake nang walang kathang-isip na kuwento ng customer
+
+Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa custom buttercream cake, maaaring pangunahing piliin ang buttercream finish; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
+
+Pantulong sa pakikipag-usap ang reference photo, pero hindi ito pangakong eksaktong kokopyahin. Ituro ang partikular na gusto mo—kulay, hugis, border, lettering, o puwesto—at ipaliwanag kung aling detalye ang maaaring iangkop sa hiniling na sukat at kumpirmadong presyo. Itanong sa panaderya kung ano ang magagawa gamit ang kasalukuyang design options. Huwag ipagpalagay ang isang sangkap, technique, o finish hangga't hindi ito nakukumpirma para sa order.
+
+### Gawing madaling kumpirmahin ang brief
+
+Ipadala ang petsa ng event, gustong sukat, flavour mula sa kasalukuyang menu, eksaktong inskripsiyon, at isang reference image. Hilinging kumpirmahin ang spelling at layout bago i-finalize ang order. Kung mas mahalaga ang isang detalye kaysa sa iba, sabihin iyon muna. Dapat malinaw na ipaliwanag ng pangkalahatang guide ang mga pagpiling ito; magdagdag lamang sa susunod ng totoong photo-led case kapag na-verify at naaprubahan ang larawan at detalye ng order.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Balangkas sa editoryal: ipakita ang aktuwal nga paghuman sa buttercream ug usa ka desisyon sa disenyo
-
-Nagkinahanglan kini og tinuod nga White Cakes custom buttercream cake ug orihinal nga mga litrato nga gi-aprobahan para magamit sa publiko. Kung naa, ipakita ang kompleto nga cake ug usa ka close-up nga nagpakita sa usa ka piho nga pagkahuman o desisyon sa dekorasyon. Ipasabut ang mubo nga detalye nga giaprobahan sa kustomer nga naghulma sa disenyo nga wala mailhi ang kustomer nga wala kinahanglana.
-
-Tinoa ang matag detalye gamit ang rekord sa order ug panaderya. Ayaw isulti ang teknik, sangkap, pagtugot sa kainit, o tubag sa kustomer gikan sa usa ka litrato. Gamit ug saktong alt text ug ipasabot nga ang custom nga trabaho mahimong magkalahi gikan sa usa ka order ngadto sa lain.
-
-Kung walay aprubadong cake nga magamit, tipigi kini isip internal nga hangyo sa portfolio ug sumpay sa giya sa disenyo. Ayaw gayud pagmantala og generic o fictional nga kaso isip nahuman nga trabaho.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Editoryal na framework: ipakita ang aktwal na buttercream finish at isang desisyon sa disenyo
-
-Nangangailangan ito ng isang tunay na White Cakes custom buttercream cake at orihinal na mga larawang inaprubahan para sa pampublikong paggamit. Kung magagamit, ipakita ang kumpletong cake at isang close-up na nagpapakita ng isang partikular na pagtatapos o pandekorasyon na desisyon. Ipaliwanag ang maikling detalye na inaprubahan ng customer na humubog sa disenyo nang hindi kinikilala ang customer nang hindi kinakailangan.
-
-I-verify ang bawat detalye gamit ang talaan ng order at panaderya. Huwag ipahiwatig ang pamamaraan, sangkap, heat tolerance, o tugon ng customer mula sa isang larawan. Gumamit ng tumpak na alt text at ipaliwanag na ang custom na gawain ay maaaring mag-iba mula sa isang order patungo sa isa pa.
-
-Kung walang available na aprubadong cake, panatilihin ito bilang isang panloob na kahilingan sa portfolio at i-link sa gabay sa disenyo. Huwag kailanman mag-publish ng generic o fictional na kaso bilang natapos na trabaho.

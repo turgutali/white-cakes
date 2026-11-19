@@ -1,44 +1,39 @@
 ---
 id: WC-0627
-status: evidence-gated-photo-case
-publish_action: create a case-specific entry only after a real small Cebu gathering order, original approved photos, verified event details, and customer permission; otherwise omit the case and merge only a general lesson into /journal/cake-designs-cebu.html
-evidence_required: actual order record; original photo rights; customer permission; verified brief, design, size, flavour, serving setup, and event date
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A Cake Design Case Study from an Intimate Cebu Gathering"
 cebuano_title: "Case Study sa Disenyo sa Cake gikan sa Suod nga Tapok sa Cebu"
 tagalog_title: "Case Study ng Design ng Cake mula sa Intimate na Pagtitipon sa Cebu"
 ---
+## Plan cake for a small gathering around the handoff
 
-## Evidence gate
+The design is only one part of a successful celebration order. Start with the moment the cake will be served, then work backwards: who can receive it, where the box can wait, and what the venue or household allows. For cake for a small gathering, name one person as the receiver and give the bakery a reachable mobile number. Include the complete address and a landmark; add gate, lobby, loading, or entrance instructions only when they apply. Confirm the delivery area, fee, and available time directly with the bakery because these details depend on the exact address and date.
 
-Use a real White Cakes order for a small Cebu gathering, supported by order notes and original photos. Obtain permission to publish each photo and confirm whether the customer allows the event, venue, or personal message to be identified. Protect private details.
+Choose a message and decoration that fit the event without relying on a fictional customer story. One clear reference image can show the mood; describe which parts matter most and which can change. Keep names, dates, and spelling in the order message so they can be checked before production.
 
-Describe only verified facts: the event purpose, brief, size, flavour, design, inscription, and serving setup. Do not invent a customer reaction, guest count, family story, or result. Captions should say what the photo shows and whether it is a past custom order.
+### A practical checklist
 
-The case should explain a decision that helps someone planning a similar small gathering, such as fitting a message on a small cake or choosing a design for the display table. Include it only if order notes or the bakery team can verify it. Without the case and permission, keep this entry unpublished and add general advice to the canonical guide instead.
+Before the order is final, confirm the date, serving time, estimated number of cake eaters, design, flavour from the current menu, inscription, price, and handoff plan. Ask what to do if the program changes or the recipient is delayed. At the venue, follow the bakery’s storage advice and keep the cake away from direct sun and a hot vehicle.
 
-## Cebuano
+## Iplano ang cake para sa gamayng panagtapok palibot sa handoff
 
-## Kinahanglan nga ebidensiya
+Usa lamang ang disenyo sa mga bahin sa maayong order para sa selebrasyon. Sugdi sa oras nga i-serve ang cake, dayon hunahunaa paatras: kinsa ang modawat, asa ibutang ang kahon, ug unsay gitugot sa venue o balay. Para sa cake para sa gamayng panagtapok, pagpili og usa ka modawat ug ihatag sa panaderya ang mobile number nga matawagan. Iapil ang kompletong address ug landmark; dugangi og instruksyon sa gate, lobby, loading o entrance kon kinahanglan. Kumpirmaha direkta sa panaderya ang delivery area, bayad ug available nga oras kay nagdepende kini sa eksaktong address ug petsa.
 
-Gamita ang tinuod nga order sa White Cakes para sa gamay nga tapok sa Cebu nga gisuportahan sa order notes ug orihinal nga litrato. Pagkuha og pagtugot sa pagmantala sa matag litrato ug kumpirmaha kon gitugotan ba sa kustomer nga mailhan ang okasyon, venue o personal nga mensahe. Panalipdi ang pribadong detalye.
+Pilia ang mensahe ug dekorasyon nga mohaom sa okasyon nga walay hinimong istorya sa customer. Makapakita ang usa ka klarong reference image sa mood; isulti kung unsang detalye ang importante ug unsa ang puwedeng usbon. Ibutang sa order message ang ngalan, petsa ug spelling aron masusi sa dili pa himuon.
 
-Ihulagway lamang ang napamatud-ang kamatuoran: katuyoan sa event, brief, gidak-on, flavour, disenyo, inskripsiyon ug setup sa pag-serve. Ayaw pag-imbento og reaksyon sa kustomer, ihap sa bisita, istorya sa pamilya o resulta. Kinahanglan isulti sa caption unsay makita sa litrato ug kon nangaging custom order ba kini.
+### Praktikal nga checklist
 
-Kinahanglan ipasabut sa kaso ang desisyon nga makatabang sa nagplano og susamang gamay nga tapok, sama sa pagpahaum sa mensahe sa gamay nga cake o pagpili og disenyo para sa display table. Iapil lang kini kon masusi sa order notes o team sa panaderya. Kon wala ang kaso ug pagtugot, ayaw imantala ug idugang hinuon ang kinatibuk-ang tambag sa canonical guide.
+Sa dili pa final ang order, kumpirmaha ang petsa, oras sa pag-serve, banabana sa mokaon og cake, disenyo, flavour gikan sa kasamtangang menu, inskripsiyon, presyo ug handoff plan. Pangutan-a unsay buhaton kung mausab ang programa o malangan ang modawat. Sa venue, sunda ang tambag sa panaderya sa pagtipig ug ipahilayo ang cake sa diretsong adlaw ug init nga sakyanan.
 
-## Tagalog
+## Planuhin ang cake para sa maliit na pagtitipon ayon sa handoff
 
-## Kailangang ebidensiya
+Bahagi lamang ang disenyo ng maayos na order para sa selebrasyon. Magsimula sa oras ng paghahain ng cake, saka magplano pabalik: sino ang tatanggap, saan maaaring manatili ang kahon, at ano ang pinapayagan ng venue o bahay. Para sa cake para sa maliit na pagtitipon, pumili ng isang tatanggap at ibigay sa panaderya ang mobile number na maaabot. Isama ang buong address at landmark; idagdag ang tagubilin sa gate, lobby, loading, o entrance kung kailangan. Kumpirmahin mismo sa panaderya ang delivery area, bayad, at available na oras dahil nakadepende ang mga ito sa eksaktong address at petsa.
 
-Gumamit ng tunay na White Cakes order para sa maliit na pagtitipon sa Cebu na suportado ng order notes at orihinal na mga larawan. Kumuha ng pahintulot na ilathala ang bawat larawan at tiyaking pinapayagan ng customer na kilalanin ang okasyon, venue, o personal na mensahe. Protektahan ang pribadong detalye.
+Pumili ng mensahe at dekorasyong bagay sa okasyon nang hindi umaasa sa kathang-isip na kuwento ng customer. Maipapakita ng isang malinaw na reference image ang mood; sabihin kung aling detalye ang mahalaga at alin ang puwedeng baguhin. Ilagay sa order message ang pangalan, petsa, at spelling para masuri bago gawin.
 
-Ilarawan lamang ang napatunayang katotohanan: layunin ng event, brief, sukat, flavour, design, inscription, at setup ng paghahain. Huwag mag-imbento ng reaksyon ng customer, bilang ng bisita, kuwento ng pamilya, o resulta. Dapat sabihin ng caption kung ano ang nakikita sa larawan at kung dating custom order ito.
+### Praktikal na checklist
 
-Dapat ipaliwanag ng case ang desisyong makatutulong sa nagpaplano ng katulad na maliit na pagtitipon, gaya ng pag-akma ng mensahe sa maliit na cake o pagpili ng design para sa display table. Isama lang ito kung mabe-verify ng order notes o team ng bakery. Kung wala ang case at pahintulot, huwag ilathala ito at idagdag na lang ang pangkalahatang payo sa canonical guide.
+Bago i-finalize ang order, kumpirmahin ang petsa, oras ng paghahain, tantiyang bilang ng kakain ng cake, disenyo, flavour mula sa kasalukuyang menu, inskripsiyon, presyo, at handoff plan. Itanong kung ano ang gagawin kapag nagbago ang programa o naantala ang tatanggap. Sa venue, sundin ang payo ng panaderya sa pag-iimbak at ilayo ang cake sa direktang araw at mainit na sasakyan.
 
 ---
-
-## Editorial notes
-
-- Requires a real approved case and photo rights; otherwise remains unpublished.
-- Cebuano and Tagalog drafts need native editorial review.

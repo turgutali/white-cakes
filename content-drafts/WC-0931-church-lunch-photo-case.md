@@ -1,38 +1,39 @@
 ---
 id: WC-0931
-status: evidence-needed
-publish_action: case-specific URL only after a real order, original approved images, and customer permission; otherwise omit
+status: trilingual-general-guide-draft
+publish_action: merge into the listed canonical guide after factual, overlap, and native-language editorial review
 english_title: "A photo-led design breakdown of cake for a family lunch after church in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa paniudto sa pamilya human sa simbahan sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu"
 ---
+## Plan cake for a church lunch around the handoff
 
-## Editorial framework: document the real design choice and event transition
+The design is only one part of a successful celebration order. Start with the moment the cake will be served, then work backwards: who can receive it, where the box can wait, and what the venue or household allows. For cake for a church lunch, name one person as the receiver and give the bakery a reachable mobile number. Include the complete address and a landmark; add gate, lobby, loading, or entrance instructions only when they apply. Confirm the delivery area, fee, and available time directly with the bakery because these details depend on the exact address and date.
 
-This requires an actual White Cakes cake ordered for a family lunch after church, original photography, and permission to publish. If evidence is available, explain one design choice visible in the cake and how it suited the family’s brief. Include the event context only to the extent the customer approves.
+Choose a message and decoration that fit the event without relying on a fictional customer story. One clear reference image can show the mood; describe which parts matter most and which can change. Keep names, dates, and spelling in the order message so they can be checked before production.
 
-Verify the delivery or pickup facts with the order record and bakery. Do not invent the church, family story, route, cake flavour, or customer response. Use accurate alt text and avoid implying that one past delivery route is available for every event.
+### A practical checklist
 
-Without the photo and permission, keep this as an internal editorial request and link to the general design and delivery guides.
+Before the order is final, confirm the date, serving time, estimated number of cake eaters, design, flavour from the current menu, inscription, price, and handoff plan. Ask what to do if the program changes or the recipient is delayed. At the venue, follow the bakery’s storage advice and keep the cake away from direct sun and a hot vehicle.
+
+## Iplano ang cake para sa paniudto human sa misa palibot sa handoff
+
+Usa lamang ang disenyo sa mga bahin sa maayong order para sa selebrasyon. Sugdi sa oras nga i-serve ang cake, dayon hunahunaa paatras: kinsa ang modawat, asa ibutang ang kahon, ug unsay gitugot sa venue o balay. Para sa cake para sa paniudto human sa misa, pagpili og usa ka modawat ug ihatag sa panaderya ang mobile number nga matawagan. Iapil ang kompletong address ug landmark; dugangi og instruksyon sa gate, lobby, loading o entrance kon kinahanglan. Kumpirmaha direkta sa panaderya ang delivery area, bayad ug available nga oras kay nagdepende kini sa eksaktong address ug petsa.
+
+Pilia ang mensahe ug dekorasyon nga mohaom sa okasyon nga walay hinimong istorya sa customer. Makapakita ang usa ka klarong reference image sa mood; isulti kung unsang detalye ang importante ug unsa ang puwedeng usbon. Ibutang sa order message ang ngalan, petsa ug spelling aron masusi sa dili pa himuon.
+
+### Praktikal nga checklist
+
+Sa dili pa final ang order, kumpirmaha ang petsa, oras sa pag-serve, banabana sa mokaon og cake, disenyo, flavour gikan sa kasamtangang menu, inskripsiyon, presyo ug handoff plan. Pangutan-a unsay buhaton kung mausab ang programa o malangan ang modawat. Sa venue, sunda ang tambag sa panaderya sa pagtipig ug ipahilayo ang cake sa diretsong adlaw ug init nga sakyanan.
+
+## Planuhin ang cake para sa tanghalian pagkatapos ng misa ayon sa handoff
+
+Bahagi lamang ang disenyo ng maayos na order para sa selebrasyon. Magsimula sa oras ng paghahain ng cake, saka magplano pabalik: sino ang tatanggap, saan maaaring manatili ang kahon, at ano ang pinapayagan ng venue o bahay. Para sa cake para sa tanghalian pagkatapos ng misa, pumili ng isang tatanggap at ibigay sa panaderya ang mobile number na maaabot. Isama ang buong address at landmark; idagdag ang tagubilin sa gate, lobby, loading, o entrance kung kailangan. Kumpirmahin mismo sa panaderya ang delivery area, bayad, at available na oras dahil nakadepende ang mga ito sa eksaktong address at petsa.
+
+Pumili ng mensahe at dekorasyong bagay sa okasyon nang hindi umaasa sa kathang-isip na kuwento ng customer. Maipapakita ng isang malinaw na reference image ang mood; sabihin kung aling detalye ang mahalaga at alin ang puwedeng baguhin. Ilagay sa order message ang pangalan, petsa, at spelling para masuri bago gawin.
+
+### Praktikal na checklist
+
+Bago i-finalize ang order, kumpirmahin ang petsa, oras ng paghahain, tantiyang bilang ng kakain ng cake, disenyo, flavour mula sa kasalukuyang menu, inskripsiyon, presyo, at handoff plan. Itanong kung ano ang gagawin kapag nagbago ang programa o naantala ang tatanggap. Sa venue, sundin ang payo ng panaderya sa pag-iimbak at ilayo ang cake sa direktang araw at mainit na sasakyan.
 
 ---
-
-## Cebuano translation (machine translated; editorial review pending)
-
-## Balangkas sa editoryal: idokumento ang tinuod nga pagpili sa disenyo ug transisyon sa panghitabo
-
-Nagkinahanglan kini og aktuwal nga White Cakes nga cake nga gi-order alang sa paniudto sa pamilya pagkahuman sa simbahan, orihinal nga litrato, ug pagtugot sa pagmantala. Kung adunay ebidensya, ipasabut ang usa ka kapilian sa disenyo nga makita sa cake ug kung giunsa kini nahiangay sa mubo sa pamilya. Ilakip ang konteksto sa panghitabo kutob ra sa giaprobahan sa kustomer.
-
-I-verify ang delivery o pickup facts gamit ang order record ug bakery. Ayaw pag-imbento sa simbahan, istorya sa pamilya, ruta, lami sa cake, o tubag sa kustomer. Gamita ang tukma nga alt text ug likayi ang pagpasabot nga ang usa ka nangaging ruta sa paghatod anaa alang sa matag panghitabo.
-
-Kung wala ang litrato ug pagtugot, itago kini ingon usa ka internal nga hangyo sa editoryal ug link sa kinatibuk-ang disenyo ug mga giya sa paghatud.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Framework ng editoryal: idokumento ang tunay na pagpipilian sa disenyo at paglipat ng kaganapan
-
-Nangangailangan ito ng aktwal na White Cakes cake na na-order para sa tanghalian ng pamilya pagkatapos ng simbahan, orihinal na litrato, at pahintulot na mag-publish. Kung may makukuhang ebidensya, ipaliwanag ang isang pagpipiliang disenyo na makikita sa cake at kung paano ito nababagay sa brief ng pamilya. Isama lang ang konteksto ng kaganapan hanggang sa aprubahan ng customer.
-
-I-verify ang delivery o pickup facts gamit ang order record at bakery. Huwag mag-imbento ng simbahan, kuwento ng pamilya, ruta, lasa ng cake, o tugon ng customer. Gumamit ng tumpak na alt text at iwasang magpahiwatig na available ang isang nakaraang ruta ng paghahatid para sa bawat kaganapan.
-
-Kung wala ang larawan at pahintulot, panatilihin ito bilang isang panloob na kahilingan sa editoryal at mag-link sa pangkalahatang disenyo at mga gabay sa paghahatid.
