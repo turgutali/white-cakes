@@ -2,22 +2,27 @@
 
 ## Current verified state (2026-11-19)
 
-- The live sitemap contains 68 canonical URLs, including 50 Journal articles.
-- A public crawl returned HTTP 200 for all 68 sitemap URLs and all 75 unique internal-link destinations found on those pages. A separate Googlebot-user-agent crawl of all 68 current sitemap URLs returned HTTP 200, with matching canonicals and no `noindex` directives. This establishes fetchability, not that Google has crawled or indexed each URL.
+- The live sitemap contains 99 unique canonical URLs, including 81 Journal articles (excluding the `/journal/` index).
+- A Googlebot-user-agent crawl of all 99 sitemap URLs returned HTTP 200, with matching canonicals and no `noindex` directives. This establishes fetchability, not that Google has crawled or indexed each URL.
 - The public robots file permits Googlebot, Bingbot, OAI-SearchBot, GPTBot, ClaudeBot, and PerplexityBot. `llms.txt` lists the current service areas, prices, key pages, and Journal articles.
 - On 2026-11-19, after the journal content work was live, IndexNow accepted seven updated article URLs in one request (HTTP 200). The follow-up Cebuano pricing update changed `/journal/asa-magpa-order-cake-cebu.html` and `/journal/`; IndexNow accepted both in one request (HTTP 200). After the order-wizard image description update, IndexNow accepted `/order/` (HTTP 200). These notifications inform IndexNow-participating engines; they are not Google indexing requests or guarantees.
-- A Google search snapshot for `cake delivery Cebu City` localized to Cebu did not show The White Cakes in the visible local or organic results. In a separate signed-out Google session whose displayed location was Singapore, `site:https://www.thewhitecakes.com/` returned no results. This is an indexing warning, not an index count: Google says `site:` results are incomplete and URL Inspection is more reliable ([Google Search operator documentation](https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site)). The owner must complete Search Console sign-in so we can inspect the 68-URL sitemap and exact page status.
+- A Google search snapshot for `cake delivery Cebu City` localized to Cebu did not show The White Cakes in the visible local or organic results. In a separate signed-out Google session whose displayed location was Singapore, `site:https://www.thewhitecakes.com/` returned no results. This is an indexing warning, not an index count: Google says `site:` results are incomplete and URL Inspection is more reliable ([Google Search operator documentation](https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site)).
 
 ## Google Search Console
 
-The property was previously accessed under `info@thewhitecakes.com`. On 2026-11-18, the recorded sitemap submission contained 59 URLs and Search Console showed 59 discovered pages while the indexing report was processing. That is historical state; the sitemap has since grown to 68 URLs.
+The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the current 99-URL sitemap was successfully resubmitted. Search Console still showed 68 discovered URLs at the time of checking; this is stale processing data, not confirmation that all 99 were discovered.
 
-The current browser session has `info@thewhitecakes.com` selected but is waiting at Google's password step. Do not treat the historical 59-URL report as the current status. After the account owner finishes sign-in:
+The Page indexing report was still processing. The latest three-month Performance report showed 14 impressions, 0 clicks, 0% CTR, and average position 14.8, with data only through 2026-11-16. This sample is too small to support a broad demand forecast.
 
-1. Check the Sitemaps report for `https://www.thewhitecakes.com/sitemap.xml`, last read, discovered URL count, and errors. Resubmit the sitemap if the latest 68-URL version is not processed.
-2. Review Page indexing for excluded, blocked, duplicate, and crawled-but-not-indexed pages.
-3. Review the last 28 days and 3 months of Performance data. Export queries and pages with impressions, clicks, CTR, and average position; prioritize pages with real impressions and weak CTR or relevance.
-4. Use URL Inspection for a small number of fixed, high-value pages. For many URLs Google recommends a sitemap; a sitemap is a discovery hint and does not guarantee indexing. Individual recrawl requests are quota-limited and also do not guarantee inclusion.
+URL Inspection results on 2026-11-19:
+
+- `/journal/paghahatid-cake-cebu.html` (Tagalog delivery guide) is indexed.
+- `/journal/unsa-ang-bento-cake-cebu.html` (Cebuano Bento guide) passed a live URL test and its indexing request was accepted; Search Console showed it queued for priority crawling.
+- `/journal/ano-ang-bento-cake-cebu.html` (Tagalog Bento guide) was previously unknown to Google. Its live URL test passed and showed it can be indexed, but the individual indexing request failed because the daily quota had been exceeded. Retry after the quota resets; the sitemap is also submitted as a discovery path.
+
+Individual recrawl requests are quota-limited and do not guarantee inclusion. Use the sitemap for the full page set and URL Inspection for a small number of priority pages.
+
+The 950 multilingual candidate manuscripts are in the `cebubu/content-batch-next` draft branch; they are not live URLs. The live-site count remains 99 until reviewed material is merged into canonical pages or approved as a distinct page.
 
 Do not claim Google indexing solely because a URL is in the sitemap, appears in a `site:` query, or was sent through IndexNow. Google Search Console is the source for URL-level index status and site performance.
 
