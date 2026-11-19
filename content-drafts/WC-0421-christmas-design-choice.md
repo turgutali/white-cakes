@@ -1,38 +1,51 @@
 ---
 id: WC-0421
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; verify seasonal products and availability
-english_title: "How to choose a design for Christmas cake in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa Pasko sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa Pasko sa Cebu"
+english_title: "How to Choose a Design for a Christmas Cake in Cebu"
+cebuano_title: "Giunsa Pagpili og Disenyo para sa Christmas Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Disenyo para sa Christmas Cake sa Cebu"
 ---
 
-## Decide whether the Christmas cake should feel classic, personal, or simple
+## English
 
-Choose one direction before collecting references. A classic palette might use familiar holiday colours, while a personal design could reflect a family tradition or recipient’s favourite detail. A minimal cake may use a short greeting and one accent. Tell the bakery which feature matters most so the design does not become a list of unrelated decorations.
+# How to Choose a Design for a Christmas Cake in Cebu
 
-Confirm the cake size, flavour, exact inscription, date, and delivery or pickup plan as separate order details. Ask whether the bakery offers the requested seasonal finish and whether the date is available. Holiday availability and pricing can change, so get a current quote and written confirmation.
+Choose the Christmas cake design around the event, guest group, and current bakery options. A cake for a family dinner may suit a simple greeting and a colour palette that fits the table. An office party may need a message and focal detail that are easy to see in a group photo. Start with one clear direction instead of combining every seasonal idea.
 
-Add a concise seasonal section to the existing design guide and link to the order timeline. Use only actual product photos and label them accurately; don’t imply a past cake is currently available unchanged.
+Use reference photos to explain an element, such as colour, lettering, or arrangement. Say what should be adapted and what is optional. A previous season’s photo can inspire a request but does not confirm that the same cake, ingredients, or decoration is available this year.
+
+Ask White Cakes how the design can be made with current techniques. The bakery hand-pipes buttercream and does not offer edible printed logo sheets, so printed ornaments, characters, or logos may need a different interpretation. Confirm whether any seasonal ingredients or colours are available for your date before ordering.
+
+Match the design to the size and delivery plan. Leave space for the inscription, consider how the cake will be carried, and confirm where it will wait before serving. For broader design advice, see the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili og Disenyo para sa Christmas Cake sa Cebu
+
+Pilia ang disenyo sa Christmas cake base sa event, grupo sa bisita ug kasamtangang kapilian sa panaderya. Mahimong mohaom sa panihapon sa pamilya ang yano nga greeting ug kolor nga angay sa lamesa. Ang party sa opisina mahimong manginahanglan og mensahe ug sentrong detalye nga makita sa group photo. Sugdi sa usa ka klarong direksiyon imbes kombinahon ang tanang seasonal nga ideya.
+
+Gamita ang reference photo sa pagpasabot sa detalye sama sa kolor, lettering o arrangement. Isulti unsay ipasibo ug unsay optional. Makatabang ang litrato sa miaging season isip inspirasyon apan dili kini kumpirmasyon nga available gihapon karong tuiga ang parehas nga cake, sangkap o dekorasyon.
+
+Pangutan-a ang White Cakes unsaon paghimo sa disenyo gamit ang kasamtangang teknik. Hand-piped buttercream ang gamit sa panaderya ug walay edible printed logo sheets, busa mahimong lahi ang paghubad sa printed nga dekorasyon, karakter o logo. Kumpirmaha kon available ba ang seasonal nga sangkap o kolor sa petsa nga gusto nimo.
+
+Ihaom ang disenyo sa gidak-on ug delivery plan. Pagbilin og luna sa inskripsiyon, hunahunaa unsaon pagdala sa cake ug kumpirmaha asa kini maghulat sa dili pa i-serve. Para sa dugang giya, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Disenyo para sa Christmas Cake sa Cebu
+
+Piliin ang Christmas cake design ayon sa event, grupo ng bisita, at kasalukuyang opsyon ng bakery. Maaaring bagay sa hapunan ng pamilya ang simpleng pagbati at palette na babagay sa mesa. Maaaring kailangan ng office party ng mensahe at focal detail na madaling makita sa group photo. Magsimula sa iisang malinaw na direksiyon sa halip na pagsamahin ang bawat seasonal na ideya.
+
+Gamitin ang reference photos para ipaliwanag ang elemento gaya ng kulay, lettering, o ayos. Sabihin kung ano ang iaangkop at ano ang optional. Maaaring magsilbing inspirasyon ang larawan mula sa nakaraang season pero hindi nito kinukumpirma na available pa rin ngayong taon ang parehong cake, sangkap, o dekorasyon.
+
+Itanong sa White Cakes kung paano magagawa ang design gamit ang kasalukuyang technique. Hand-piped buttercream ang gamit ng bakery at wala silang edible printed logo sheets, kaya maaaring kailangan ng ibang interpretasyon para sa printed na palamuti, karakter, o logo. Kumpirmahin kung available ang seasonal na sangkap o kulay sa petsa mo bago mag-order.
+
+Itugma ang design sa sukat at delivery plan. Mag-iwan ng puwang para sa inscription, pag-isipan kung paano dadalhin ang cake, at kumpirmahin kung saan ito maghihintay bago ihain. Para sa mas malawak na gabay sa design, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagdesisyon kung ang cake sa Pasko kinahanglan ba nga klasiko, personal, o yano
-
-Pagpili og usa ka direksyon sa dili pa mangolekta og mga pakisayran. Ang usa ka classic palette mahimong mogamit ug pamilyar nga mga kolor sa holiday, samtang ang usa ka personal nga disenyo mahimong magpakita sa tradisyon sa pamilya o paborito nga detalye sa nakadawat. Ang usa ka gamay nga cake mahimong mogamit usa ka mubo nga pagtimbaya ug usa ka accent. Sultihi ang panaderya kung unsang bahin ang labing hinungdanon aron ang disenyo dili mahimong lista sa wala’y kalabotan nga mga dekorasyon.
-
-Kumpirma ang gidak-on sa cake, lami, eksaktong inskripsiyon, petsa, ug plano sa pagpadala o pag-pick up isip separado nga mga detalye sa order. Pangutan-a kung ang panaderya nagtanyag sa gihangyo nga seasonal finish ug kung ang petsa anaa na. Ang pagkaanaa sa holiday ug ang presyo mahimong mabag-o, busa pagkuha usa ka karon nga kinutlo ug sinulat nga kumpirmasyon.
-
-Pagdugang usa ka mubu nga seasonal nga seksyon sa naglungtad nga giya sa disenyo ug i-link sa timeline sa pag-order. Gamita lamang ang aktuwal nga mga litrato sa produkto ug isulat kini sa saktong paagi; ayaw pagpasabot nga ang nangagi nga cake anaa karon nga wala mausab.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magpasya kung klasiko, personal, o simple ang Christmas cake
-
-Pumili ng isang direksyon bago mangolekta ng mga sanggunian. Maaaring gumamit ang isang klasikong palette ng mga pamilyar na kulay ng holiday, habang ang isang personal na disenyo ay maaaring magpakita ng tradisyon ng pamilya o paboritong detalye ng tatanggap. Ang kaunting cake ay maaaring gumamit ng maikling pagbati at isang impit. Sabihin sa panaderya kung aling tampok ang pinakamahalaga upang ang disenyo ay hindi maging isang listahan ng mga hindi nauugnay na dekorasyon.
-
-Kumpirmahin ang laki ng cake, lasa, eksaktong inskripsiyon, petsa, at plano ng paghahatid o pickup bilang hiwalay na mga detalye ng order. Tanungin kung nag-aalok ang panaderya ng hinihiling na pana-panahong pagtatapos at kung available ang petsa. Maaaring magbago ang availability at pagpepresyo sa holiday, kaya kumuha ng kasalukuyang quote at nakasulat na kumpirmasyon.
-
-Magdagdag ng maigsi na seasonal na seksyon sa umiiral nang gabay sa disenyo at mag-link sa timeline ng order. Gumamit lamang ng mga aktwal na larawan ng produkto at lagyan ng label ang mga ito nang tumpak; huwag magpahiwatig na ang isang nakaraang cake ay kasalukuyang magagamit nang hindi nagbabago.
+- Verify seasonal availability, design methods, and product details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

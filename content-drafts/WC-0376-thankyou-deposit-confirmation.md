@@ -1,44 +1,51 @@
 ---
 id: WC-0376
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "What to confirm before paying a deposit for thank-you cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake isip pasalamat sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake bilang pasasalamat sa Cebu"
+english_title: "What to Confirm Before Paying a Deposit for a Thank-You Cake in Cebu"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Thank-You Cake sa Cebu"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Thank-You Cake sa Cebu"
 ---
 
-## Confirm the thank-you cake details before paying
+## English
 
-Check that the date and production slot are confirmed. White Cakes asks for at least three days' notice for made-to-order cakes; an enquiry alone does not reserve a slot. If the cake is for a workplace or a surprise, confirm who will receive it and whether the recipient can be contacted.
+# What to Confirm Before Paying a Deposit for a Thank-You Cake in Cebu
 
-Review the order confirmation for size, flavour, exact inscription, design, final price, and pickup or delivery details. For delivery, make sure the complete address, landmark, recipient's mobile number, window, and address-based fee are correct. If you have a reference image, ask the bakery to confirm the agreed interpretation rather than assuming the photo is the final design.
+Before paying a deposit, make sure the thank-you cake order is complete enough for the quoted price to refer to the cake you expect. Confirm the event date, size or serving range, flavour, design direction, exact inscription, delivery or pickup, and receiver. If the order is for a team, identify one person who can approve changes.
 
-The current process uses a 50% deposit to confirm the agreed order. Follow the payment instructions supplied with the current quote and keep the receipt and order confirmation together. Ask about changes or balance timing directly if the instructions are unclear.
+Ask for the total price in writing and check what it covers. Confirm whether delivery is charged separately for the destination, whether the requested lettering or decoration changes the quote, and what happens if the date or order details change. Do not treat an estimate as final while important choices remain unresolved.
 
-Keep deposit guidance in one central ordering article and verify it whenever the bakery changes its payment terms.
+The current site guide says a 50% deposit is collected after the final price and details are agreed. Reconfirm the current deposit amount, payment method, balance due date, and any change or cancellation terms directly with White Cakes. Keep a copy of the receipt and the final order confirmation.
+
+Review the receiver’s name, address, and contact number before submitting payment. Then share the confirmed order summary with the person who will accept the cake. For the steps before payment, see [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Thank-You Cake sa Cebu
+
+Sa dili pa mobayad og deposit, siguroha nga igo nang kompleto ang order aron ang presyo motakdo sa cake nga gipaabot. Kumpirmaha ang petsa, gidak-on o range sa servings, flavour, direksiyon sa disenyo, eksaktong inskripsiyon, delivery o pickup, ug modawat. Kung para sa team ang order, pagtudlo og usa ka tawo nga mo-aprobar sa kausaban.
+
+Pangayo sa sinulat ang kinatibuk-ang presyo ug susiha unsay apil. Kumpirmaha kon lahi ang bayad sa delivery sa destinasyon, kon mausab ang quote tungod sa lettering o dekorasyon, ug unsay mahitabo kon mausab ang petsa o detalye. Ayaw isipon nga pinal ang banabana samtang adunay importanteng desisyon nga wala pa mahuman.
+
+Ang kasamtangang site guide nag-ingon nga 50% nga deposit kolektahon human mouyon sa pinal nga presyo ug detalye. Kumpirmaha direkta sa White Cakes ang kasamtangang kantidad, paagi sa pagbayad, petsa sa balanse ug terms sa kausaban o pagkansela. Tipigi ang resibo ug pinal nga kumpirmasyon sa order.
+
+Susiha ang ngalan sa modawat, address ug contact number sa dili pa mobayad. Ipaambit dayon ang kumpirmadong summary sa modawat sa cake. Para sa mga lakang sa wala pa mobayad, tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Thank-You Cake sa Cebu
+
+Bago magbayad ng deposit, tiyaking sapat na ang detalye ng thank-you cake order para tumugma ang quote sa inaasahan mong cake. Kumpirmahin ang petsa, sukat o range ng servings, flavour, direksiyon ng design, eksaktong inscription, delivery o pickup, at tatanggap. Kung para sa team ang order, magtalaga ng isang taong maaaring mag-apruba ng pagbabago.
+
+Hingin sa sulat ang kabuuang presyo at tingnan kung ano ang sakop nito. Kumpirmahin kung hiwalay ang delivery charge para sa pupuntahan, kung nakaaapekto sa quote ang hinihinging lettering o dekorasyon, at ano ang mangyayari kung magbago ang petsa o detalye ng order. Huwag ituring na pinal ang estimate habang may mahahalagang pasiyang hindi pa napagkakasunduan.
+
+Sinasabi ng kasalukuyang site guide na 50% deposit ang kinokolekta matapos mapagkasunduan ang pinal na presyo at detalye. Direktang kumpirmahin sa White Cakes ang kasalukuyang halaga, paraan ng pagbabayad, takdang petsa ng natitirang bayad, at terms sa pagbabago o pagkansela. Itago ang resibo at pinal na order confirmation.
+
+Suriin ang pangalan ng tatanggap, address, at contact number bago magbayad. Ibahagi pagkatapos ang kumpirmadong buod sa taong tatanggap ng cake. Para sa mga hakbang bago magbayad, tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang mga detalye sa thank-you cake sa dili pa mobayad
-
-Susiha nga ang petsa ug ang production slot gikumpirma. Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa made-to-order nga mga cake; ang pagpangutana lamang wala magreserba ug slot. Kung ang cake alang sa usa ka trabahoan o usa ka sorpresa, kumpirmahi kung kinsa ang makadawat niini ug kung mahimo bang makontak ang nakadawat.
-
-Ribyuha ang pagkumpirma sa order alang sa gidak-on, lami, eksaktong inskripsiyon, disenyo, katapusang presyo, ug mga detalye sa pagkuha o paghatod. Para sa paghatod, siguroha nga husto ang kompletong adres, landmark, mobile number sa nakadawat, bintana, ug address-based fee. Kung naa kay reference nga hulagway, hangyoa ang panaderya nga kumpirmahon ang gikasabotan nga interpretasyon imbes nga isipon nga ang hulagway mao ang kataposang disenyo.
-
-Ang kasamtangan nga proseso naggamit ug 50% nga deposito aron makumpirma ang gikasabutan nga order. Sunda ang mga instruksyon sa pagbayad nga gihatag uban sa kasamtangan nga quote ug tipigi ang resibo ug pagkumpirma sa order. Pangutana bahin sa mga pagbag-o o pagbalanse sa direkta nga oras kung ang mga panudlo dili klaro.
-
-Itago ang giya sa pagdeposito sa usa ka sentral nga artikulo sa pag-order ug pamatud-i kini kung usbon sa panaderya ang mga termino sa pagbayad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang mga detalye ng thank-you cake bago magbayad
-
-Suriin na ang petsa at puwang ng produksyon ay nakumpirma. Ang White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake; ang pagtatanong lamang ay hindi nagrereserba ng puwang. Kung ang cake ay para sa isang lugar ng trabaho o isang sorpresa, kumpirmahin kung sino ang tatanggap nito at kung ang tatanggap ay maaaring makontak.
-
-Suriin ang kumpirmasyon ng order para sa laki, lasa, eksaktong inskripsiyon, disenyo, panghuling presyo, at mga detalye ng pagkuha o paghahatid. Para sa paghahatid, tiyaking tama ang kumpletong address, landmark, mobile number ng tatanggap, window, at bayad sa address-based. Kung mayroon kang reference na larawan, hilingin sa panaderya na kumpirmahin ang napagkasunduang interpretasyon sa halip na ipagpalagay na ang larawan ang huling disenyo.
-
-Ang kasalukuyang proseso ay gumagamit ng 50% na deposito upang kumpirmahin ang napagkasunduang order. Sundin ang mga tagubilin sa pagbabayad na ibinigay kasama ng kasalukuyang quote at panatilihing magkasama ang resibo at kumpirmasyon ng order. Direktang magtanong tungkol sa mga pagbabago o timing ng balanse kung hindi malinaw ang mga tagubilin.
-
-Panatilihin ang gabay sa deposito sa isang artikulo sa gitnang pag-order at i-verify ito sa tuwing babaguhin ng panaderya ang mga tuntunin sa pagbabayad nito.
+- Reconfirm current deposit and payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

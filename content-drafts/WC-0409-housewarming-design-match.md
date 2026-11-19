@@ -1,38 +1,51 @@
 ---
 id: WC-0409
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "How to match the design of housewarming cake in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa bagong tahanan sa Cebu"
+english_title: "How to Match a Housewarming Cake Design to the New Home in Cebu"
+cebuano_title: "Giunsa Pagpares sa Disenyo sa Housewarming Cake sa Bag-ong Balay sa Cebu"
+tagalog_title: "Paano Itugma ang Disenyo ng Housewarming Cake sa Bagong Bahay sa Cebu"
 ---
 
-## Use a personal home detail without turning the cake into a floor plan
+## English
 
-A housewarming design might reference a new home’s colours, a favourite room, or a simple outline of the house. Choose one detail that feels personal and send a clear reference if you have permission to share it. Keep the main idea legible at the cake size rather than adding every feature of the home.
+# How to Match a Housewarming Cake Design to the New Home in Cebu
 
-Tell the bakery whether the reference is inspiration or an essential feature. Confirm the message, date, flavour, serving estimate, and delivery address. If the cake will be delivered to the new home, share gate or building access details and confirm availability.
+Let the gathering and host guide the design rather than trying to reproduce the home itself. A welcome message, a favourite colour, or one small house-related detail may be enough. Decide whether the cake is for close family, neighbours, or a broader group, since the audience can shape how personal the design should feel.
 
-Add the design prompt to the existing Cebu design guide. A separate case study requires an actual cake, approved photo, and customer consent for any recognizable property details.
+Consider the room where the cake will be displayed. A compact dining space may suit a simpler design, while a larger gathering may need a clear focal element visible in photos. If you use a home photo or décor reference, explain what should inspire the cake and what is flexible. Avoid combining multiple references without naming the priority.
+
+Ask how the idea can be created with current bakery methods. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so a printed address, house illustration, or exact image may need adaptation. Confirm the message, cake size, and decoration together to keep the design readable and suitable for delivery.
+
+Share where the cake will be displayed and the expected serving range. A cake that must travel through a gate or building should have a practical handoff and stable presentation. For more design guidance, use the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpares sa Disenyo sa Housewarming Cake sa Bag-ong Balay sa Cebu
+
+Igiya sa panagtapok ug host ang disenyo imbes kopyahon ang balay mismo. Mahimong igo na ang welcome message, paboritong kolor o gamay nga detalye bahin sa balay. Desisyoni kon para ba kini sa suod nga pamilya, silingan o mas daghang tawo kay makaapekto kini kung unsa ka personal ang disenyo.
+
+Hunahunaa ang lawak nga pagbutangan sa cake. Mahimong mohaom ang yano nga disenyo sa gamay nga dining area; ang mas dakong panagtapok mahimong manginahanglan og klarong sentrong detalye nga makita sa litrato. Kung mogamit og litrato sa balay o reference sa dekorasyon, ipasabot unsay inspirasyon ug unsay flexible. Ayaw kombinaha ang daghang reference nga walay pag-ingon sa prayoridad.
+
+Pangutan-a unsaon paghimo sa ideya gamit ang kasamtangang pamaagi sa panaderya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa mahimong ipasibo ang printed address, drawing sa balay o eksaktong hulagway. Kumpirmaha dungan ang mensahe, gidak-on ug dekorasyon aron mabasa ang disenyo ug angay dad-on.
+
+Ipaambit asa ipakita ang cake ug gipaabot nga servings. Ang cake nga moagi sa gate o building kinahanglan adunay praktikal nga handoff ug lig-on nga presentasyon. Para sa dugang giya sa disenyo, gamita ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Itugma ang Disenyo ng Housewarming Cake sa Bagong Bahay sa Cebu
+
+Hayaang gabayan ng pagtitipon at host ang design sa halip na subukang kopyahin mismo ang bahay. Maaaring sapat na ang welcome message, paboritong kulay, o isang maliit na detalyeng may kaugnayan sa tahanan. Pagpasiyahan kung para ito sa malalapit na pamilya, kapitbahay, o mas malaking grupo dahil nakaaapekto ang audience sa pagiging personal ng design.
+
+Isaalang-alang ang kuwartong paglalagyan ng cake. Maaaring bumagay ang mas simpleng design sa maliit na dining area; maaaring kailanganin ng mas malaking pagtitipon ang malinaw na focal element na makikita sa mga larawan. Kung gagamit ng larawan ng bahay o décor reference, ipaliwanag kung ano ang magiging inspirasyon at ano ang flexible. Iwasang pagsamahin ang maraming reference nang walang prayoridad.
+
+Itanong kung paano magagawa ang ideya gamit ang kasalukuyang paraan ng bakery. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya maaaring kailangang iangkop ang printed address, drawing ng bahay, o eksaktong larawan. Kumpirmahin nang magkasama ang mensahe, sukat, at dekorasyon para malinaw basahin at praktikal dalhin ang design.
+
+Ibahagi kung saan ipapakita ang cake at ang inaasahang range ng servings. Dapat praktikal ang handoff at matatag ang presentation ng cake na dadaan sa gate o building. Para sa dagdag na gabay sa design, gamitin ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paggamit ug personal nga detalye sa balay nga dili himoong plano sa salog ang cake
-
-Ang usa ka disenyo sa housewarming mahimong maghisgot sa mga kolor sa bag-ong balay, paborito nga kwarto, o usa ka yano nga outline sa balay. Pagpili og usa ka detalye nga gibati nga personal ug ipadala ang usa ka tin-aw nga pakisayran kung adunay ka pagtugot nga ipaambit kini. Hupti nga mabasa ang panguna nga ideya sa gidak-on sa cake kaysa idugang ang matag bahin sa balay.
-
-Sultihi ang panaderya kung ang pakisayran usa ba ka inspirasyon o usa ka hinungdanon nga bahin. Kumpirma ang mensahe, petsa, lami, banabana sa pagserbisyo, ug adres sa pagpadala. Kung ang cake ihatud sa bag-ong balay, ipaambit ang mga detalye sa pag-access sa ganghaan o building ug kumpirmahi ang pagkaanaa.
-
-Idugang ang design prompt sa kasamtangan nga Cebu design guide. Ang usa ka bulag nga case study nanginahanglan ug aktuwal nga cake, aprobado nga litrato, ug pagtugot sa kustomer alang sa bisan unsang mailhan nga mga detalye sa kabtangan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng personal na detalye ng bahay nang hindi ginagawang floor plan ang cake
-
-Ang isang housewarming na disenyo ay maaaring sumangguni sa mga kulay ng isang bagong tahanan, isang paboritong silid, o isang simpleng balangkas ng bahay. Pumili ng isang detalye na parang personal at magpadala ng malinaw na sanggunian kung mayroon kang pahintulot na ibahagi ito. Panatilihing nababasa ang pangunahing ideya sa laki ng cake sa halip na idagdag ang bawat tampok ng tahanan.
-
-Sabihin sa panaderya kung ang sanggunian ay inspirasyon o isang mahalagang katangian. Kumpirmahin ang mensahe, petsa, lasa, pagtatantya ng paghahatid, at address ng paghahatid. Kung ihahatid ang cake sa bagong tahanan, ibahagi ang mga detalye ng access sa gate o gusali at kumpirmahin ang availability.
-
-Idagdag ang design prompt sa kasalukuyang Cebu design guide. Ang isang hiwalay na case study ay nangangailangan ng aktwal na cake, aprubadong larawan, at pahintulot ng customer para sa anumang nakikilalang mga detalye ng ari-arian.
+- Verify current design techniques and transport constraints before publication.
+- Cebuano and Tagalog drafts need native editorial review.

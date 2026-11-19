@@ -1,44 +1,51 @@
 ---
 id: WC-0375
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to plan thank-you cake in Cebu"
-cebuano_title: "Giunsa pagplano ang cake isip pasalamat sa Cebu"
-tagalog_title: "Paano planuhin ang cake bilang pasasalamat sa Cebu"
+english_title: "How to Plan a Thank-You Cake for a Larger Gathering in Cebu"
+cebuano_title: "Giunsa Pagplano sa Thank-You Cake para sa Mas Dakong Panagtapok sa Cebu"
+tagalog_title: "Paano Magplano ng Thank-You Cake para sa Mas Malaking Pagtitipon sa Cebu"
 ---
 
-## Plan a thank-you cake for the people who will share it
+## English
 
-If the cake is a personal gift, count the people who will be there when it is served. A 4-inch Bento is intended for two generous servings or three modest ones. For an office or family thank-you, the larger group may need more; White Cakes estimates 8–12 party slices for 6 inches and 16–24 for 8 inches.
+# How to Plan a Thank-You Cake for a Larger Gathering in Cebu
 
-These are planning ranges, not guaranteed yields. Tell the bakery whether there are other desserts and whether you want small tasting portions or full slices. Ask it to confirm a size rather than ordering based on the invitation count alone.
+A larger thank-you gathering needs a serving plan before a cake size is selected. Estimate how many people will be offered cake, whether other desserts are available, and whether the cake will be cut into party slices or smaller portions. Do not treat the invitation count as the serving count without checking who will stay for dessert.
 
-Include the date, flavour, design, and short message in the enquiry. If you want to deliver the cake as a surprise, provide a local receiver's mobile number and a clear handoff plan. Confirm the delivery fee and window. White Cakes requires at least three days' notice; the 50% deposit confirms the agreed order after terms are settled.
+Use the published size chart as a starting estimate and discuss the guest range with the bakery. The site describes 6-inch and 8-inch round cakes with approximate party-slice counts and a common two-tier size estimate. The actual number depends on height, design, and cutting style, so ask the bakery to confirm what is practical for your event.
 
-Keep the serving guidance in the central size page and link it from the thank-you page. Do not invent a large-group scenario as a real customer case.
+For a big group, consider how cake service will work: who will cut it, where it can be placed, and whether the venue can store it before the presentation. A tiered cake may be considered for display and servings, but do not assume it is the right choice without checking the design, transport, and budget. More than one cake or another dessert may be options to discuss.
+
+Give the bakery the expected guest range, service time, venue, and contact person. Confirm the agreed size and delivery plan in writing. For current approximate portions, see the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Thank-You Cake para sa Mas Dakong Panagtapok sa Cebu
+
+Kinahanglan una ang plano sa servings sa mas dakong panagtapok sa pagpasalamat sa dili pa mopili og gidak-on. Ibanabana pila ka tawo ang tagaan og cake, kon adunay laing dessert ug party slice o gagmay nga portion ba ang hiwaon. Ayaw isipon nga katumbas sa ihap sa giimbitar ang servings nga walay pagsusi kinsa ang magpabilin para sa dessert.
+
+Gamita isip sinugdanang banabana ang gipatik nga size chart ug hisgoti ang range sa bisita sa panaderya. Naghatag ang site og banabana sa party slice sa 6 ug 8 ka pulgada nga round cake ug kasagarang gidak-on sa two-tier. Magdepende ang aktuwal nga ihap sa kataas, disenyo ug paagi sa paghiwa, busa pangutan-a ang panaderya unsay praktikal sa event.
+
+Para sa daghang tawo, hunahunaa unsaon pag-serve: kinsa ang mohiwa, asa ibutang ug makapundo ba kini sa venue sa dili pa ipresentar. Mahimong ikonsiderar ang tiered cake para sa display ug servings, apan ayaw pagtuo nga kini dayon ang angay nga kapilian nga walay pagsusi sa disenyo, transport ug budget. Mahimong hisgotan ang daghang cake o laing dessert.
+
+Ihatag sa panaderya ang range sa bisita, oras sa pag-serve, venue ug contact person. Kumpirmaha sa sinulat ang gidak-on ug delivery plan. Para sa kasamtangang banabana sa portions, tan-awa ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Magplano ng Thank-You Cake para sa Mas Malaking Pagtitipon sa Cebu
+
+Kailangan muna ng plano sa servings para sa mas malaking pagtitipon ng pasasalamat bago pumili ng sukat ng cake. Tantiyahin kung ilang tao ang aalukin ng cake, kung may iba pang dessert, at kung party slice o mas maliliit na portion ang hiwa. Huwag ituring na bilang ng servings ang dami ng inimbitahan nang hindi tinitingnan kung sino ang mananatili para sa dessert.
+
+Gamitin bilang panimulang tantiya ang nailathalang size chart at talakayin sa bakery ang range ng bisita. Nagbibigay ang site ng tinatayang party-slice counts para sa 6- at 8-inch round cake at karaniwang tantiya para sa two-tier. Nakadepende ang aktuwal na bilang sa taas, design, at paraan ng paghiwa, kaya itanong sa bakery kung ano ang praktikal para sa event.
+
+Para sa malaking grupo, pag-isipan kung paano ihahain ang cake: sino ang maghihiwa, saan ito ilalagay, at kung maiimbak ito ng venue bago ang presentation. Maaaring ikonsidera ang tiered cake para sa display at servings, pero huwag ipalagay na ito agad ang tamang opsyon nang hindi sinusuri ang design, biyahe, at budget. Maaari ring pag-usapan ang higit sa isang cake o ibang dessert.
+
+Ibigay sa bakery ang inaasahang range ng bisita, oras ng paghahain, venue, at contact person. Kumpirmahin sa sulat ang napagkasunduang sukat at delivery plan. Para sa kasalukuyang tantiya ng portions, tingnan ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano ug pasalamat nga cake para sa mga tawo nga mopaambit niini
-
-Kung ang cake usa ka personal nga regalo, ihap ang mga tawo nga moadto didto kung kini ihain. Ang usa ka 4-pulgada nga Bento gituyo alang sa duha ka ubay-ubay nga mga pag-alagad o tulo nga kasarangan. Alang sa usa ka opisina o pamilya nga pasalamat, ang mas dako nga grupo mahimong magkinahanglan pa; Gibanabana sa White Cakes ang 8–12 ka party slices sa 6 ka pulgada ug 16–24 sa 8 ka pulgada.
-
-Kini mga sakup sa pagplano, dili garantiya nga abot. Sultihi ang panaderya kung naa bay ubang mga dessert ug kung gusto nimo ang gagmay nga mga bahin sa pagtilaw o puno nga mga hiwa. Hangyoa kini sa pagkumpirma sa usa ka gidak-on kay sa pag-order base lamang sa ihap sa imbitasyon.
-
-Ilakip ang petsa, lami, disenyo, ug mubo nga mensahe sa pangutana. Kung gusto nimo nga ihatud ang cake ingon usa ka sorpresa, paghatag usa ka numero sa mobile sa lokal nga tigdawat ug usa ka tin-aw nga plano sa handoff. Kumpirma ang bayad sa pagpadala ug bintana. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order human masulbad ang mga termino.
-
-Itago ang giya sa pagserbisyo sa sentral nga gidak-on nga panid ug i-link kini gikan sa panid sa pasalamat. Ayaw pag-imbento og dako nga grupo nga senaryo isip tinuod nga kaso sa kustomer.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng thank-you cake para sa mga taong magbabahagi nito
-
-Kung ang cake ay isang personal na regalo, bilangin ang mga tao na naroroon kapag ito ay inihain. Ang 4-inch na Bento ay inilaan para sa dalawang masaganang serving o tatlong katamtaman. Para sa isang opisina o pasasalamat sa pamilya, ang mas malaking grupo ay maaaring mangailangan ng higit pa; Tinatantya ng White Cakes ang 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada.
-
-Ito ay mga saklaw ng pagpaplano, hindi garantisadong mga ani. Sabihin sa panaderya kung may iba pang panghimagas at kung gusto mo ng maliliit na bahagi ng pagtikim o buong hiwa. Hilingin dito na kumpirmahin ang isang sukat sa halip na mag-order batay lamang sa bilang ng imbitasyon.
-
-Isama ang petsa, lasa, disenyo, at maikling mensahe sa pagtatanong. Kung gusto mong ihatid ang cake bilang isang sorpresa, magbigay ng mobile number ng lokal na receiver at isang malinaw na handoff plan. Kumpirmahin ang bayad sa paghahatid at window. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang mga tuntunin.
-
-Panatilihin ang gabay sa paghahatid sa gitnang laki ng pahina at i-link ito mula sa pahina ng pasasalamat. Huwag mag-imbento ng isang malaking grupo na senaryo bilang isang tunay na kaso ng customer.
+- Reconfirm current size chart and product availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

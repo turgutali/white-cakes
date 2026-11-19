@@ -1,44 +1,51 @@
 ---
 id: WC-0390
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html and /journal/cake-designs-cebu.html
-english_title: "How to match the design of congratulations cake in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa pagbati sa Cebu"
+english_title: "How to Match a Congratulations Cake Design to the Achievement in Cebu"
+cebuano_title: "Giunsa Pagpares sa Disenyo sa Congratulations Cake sa Nahimo sa Cebu"
+tagalog_title: "Paano Itugma ang Disenyo ng Congratulations Cake sa Achievement sa Cebu"
 ---
 
-## Match a congratulations-cake design to the achievement
+## English
 
-Start with the person or team being celebrated and choose one visual cue that fits the milestone. A name with a short “congratulations” line, a preferred colour, or one piped border may be enough. Send the exact message with spelling checked and one reference image; explain whether you want the palette, lettering, or mood interpreted.
+# How to Match a Congratulations Cake Design to the Achievement in Cebu
 
-White Cakes offers a compact Bento, Signature Marble, Bouquet Cake, and custom buttercream designs. These formats have different sizes and visual starting points. Use the current serving guide to select a format for the group, then ask the bakery to confirm the portion plan and the quote for any custom finish. A photo is inspiration, not a promise of exact duplication.
+Choose a design that recognizes the achievement without forcing unrelated symbols onto the cake. A graduation, work promotion, competition result, and personal milestone suggest different visual directions. Start with one detail the recipient will recognize, such as a preferred colour, a school or team reference, or a short inscription.
 
-If the cake is going to an office or school, include the address, landmark, receiver's mobile, and entrance instructions. Confirm the delivery window and have a person ready to accept the cake. At least three days' notice is requested, and availability must be confirmed before the order is booked.
+Think about who will share the cake and where it will be displayed. A group celebration may need a message that everyone understands and enough portions for the people staying. A small private presentation can use a more personal detail. The venue’s table space and delivery route may also affect the shape or decoration.
 
-Keep this decision framework in the existing cake-choice and design guides. A separate photo story needs an approved congratulations cake image and an event-specific design decision visible in it.
+When using a logo, uniform, certificate, or other reference, explain which part should inspire the design. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so ask how the idea can be interpreted with its current methods. Do not assume that a reference can be copied exactly.
+
+Confirm the exact message, size, flavour, and event details in one written brief. Ask the bakery to confirm the feasible design and any adjustments before you finalize the order. For general selection help, see [which cake should you choose?](/journal/which-cake.html) and the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpares sa Disenyo sa Congratulations Cake sa Nahimo sa Cebu
+
+Pilia ang disenyo nga moila sa nahimo nga dili pugson ang walay kalabotang simbolo sa cake. Lahi ang visual direction sa graduation, promotion sa trabaho, resulta sa kompetisyon ug personal nga milestone. Sugdi sa usa ka detalye nga mailhan sa modawat sama sa paboritong kolor, reference sa eskwelahan o team, o mubo nga inskripsiyon.
+
+Hunahunaa kinsa ang mopaambit sa cake ug asa kini ipakita. Ang selebrasyon sa grupo mahimong manginahanglan og mensahe nga masabtan sa tanan ug igo nga servings para sa magpabilin. Ang gamay nga pribadong selebrasyon mahimong adunay mas personal nga detalye. Makaapekto usab sa porma ug dekorasyon ang luna sa lamesa ug ruta sa delivery.
+
+Kung mogamit og logo, uniform, certificate o laing reference, ipasabot unsang bahin ang inspirasyon. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa pangutan-a unsaon paghubad sa ideya gamit ang kasamtangang pamaagi. Ayaw pagtuo nga eksaktong makopya ang reference.
+
+Kumpirmaha sa usa ka sinulat nga brief ang eksaktong mensahe, gidak-on, flavour ug detalye sa event. Pangayo sa panaderya nga kumpirmahon ang mahimo nga disenyo ug kausaban sa dili pa pinalon ang order. Para sa kinatibuk-ang tabang, basaha ang [which cake should you choose?](/journal/which-cake.html) ug ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Itugma ang Disenyo ng Congratulations Cake sa Achievement sa Cebu
+
+Pumili ng design na kumikilala sa achievement nang hindi pinipilit ang mga simbolong walang kaugnayan sa cake. Magkakaiba ang visual direction para sa graduation, promotion sa trabaho, resulta sa kompetisyon, at personal na milestone. Magsimula sa isang detalyeng makikilala ng tatanggap gaya ng paboritong kulay, reference sa paaralan o team, o maikling inscription.
+
+Isaalang-alang kung sino ang magsasalo sa cake at saan ito ipapakita. Maaaring kailangan ng group celebration ng mensaheng maiintindihan ng lahat at sapat na servings para sa mga mananatili. Maaaring gumamit ng mas personal na detalye ang maliit at pribadong presentation. Nakaaapekto rin sa hugis at dekorasyon ang espasyo sa mesa at delivery route.
+
+Kung gagamit ng logo, uniporme, certificate, o ibang reference, ipaliwanag kung aling bahagi ang magsisilbing inspirasyon. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya itanong kung paano bibigyang-kahulugan ang ideya gamit ang kasalukuyang paraan. Huwag ipalagay na eksaktong makokopya ang reference.
+
+Kumpirmahin sa iisang nakasulat na brief ang eksaktong mensahe, sukat, flavour, at detalye ng event. Hilinging kumpirmahin ng bakery ang kayang design at anumang pagbabago bago gawing pinal ang order. Para sa pangkalahatang tulong sa pagpili, tingnan ang [which cake should you choose?](/journal/which-cake.html) at ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipares ang usa ka congratulations-cake nga disenyo sa kalampusan
-
-Pagsugod sa tawo o team nga gisaulog ug pagpili og usa ka biswal nga cue nga mohaum sa milestone. Ang usa ka ngalan nga adunay mubo nga linya sa "congratulations", usa ka gusto nga kolor, o usa ka pipe nga utlanan mahimong igo na. Ipadala ang eksaktong mensahe nga gisusi ang spelling ug usa ka reference nga larawan; ipasabut kung gusto nimo ang palette, letra, o mood mahubad.
-
-Ang White Cakes nagtanyag ug compact Bento, Signature Marble, Bouquet Cake, ug custom nga buttercream nga mga disenyo. Kini nga mga format adunay lainlain nga gidak-on ug biswal nga mga punto sa pagsugod. Gamita ang kasamtangan nga giya sa pag-alagad aron makapili og format para sa grupo, dayon hangyoa ang panaderya nga kumpirmahon ang plano sa bahin ug ang kinutlo alang sa bisan unsang naandang paghuman. Ang usa ka litrato usa ka inspirasyon, dili usa ka saad sa eksaktong pagdoble.
-
-Kung ang cake moadto sa opisina o eskwelahan, ilakip ang adres, landmark, mobile phone sa tigdawat, ug mga panudlo sa pagsulod. Kumpirma ang delivery window ug adunay tawo nga andam sa pagdawat sa cake. Labing menos tulo ka adlaw nga pahibalo ang gihangyo, ug ang pagkaanaa kinahanglan makumpirma sa dili pa ma-book ang order.
-
-Itago kini nga balangkas sa desisyon sa naglungtad nga mga giya sa pagpili sa cake ug disenyo. Ang usa ka bulag nga istorya sa litrato nanginahanglan usa ka aprobahan nga imahe sa cake sa pahalipay ug usa ka desisyon sa disenyo nga piho sa panghitabo nga makita niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itugma ang isang congratulations-cake na disenyo sa tagumpay
-
-Magsimula sa taong ipinagdiriwang at pumili ng isang visual cue na akma sa milestone. Maaaring sapat na ang isang pangalan na may maikling linyang "congratulations", isang ginustong kulay, o isang piped na hangganan. Ipadala ang eksaktong mensahe na may naka-check na spelling at isang reference na larawan; ipaliwanag kung gusto mong bigyang kahulugan ang palette, lettering, o mood.
-
-Nag-aalok ang White Cakes ng compact na Bento, Signature Marble, Bouquet Cake, at mga custom na disenyo ng buttercream. Ang mga format na ito ay may iba't ibang laki at visual na mga panimulang punto. Gamitin ang kasalukuyang gabay sa paghahatid para pumili ng format para sa grupo, pagkatapos ay hilingin sa panaderya na kumpirmahin ang plano ng bahagi at ang quote para sa anumang custom na finish. Ang isang larawan ay inspirasyon, hindi isang pangako ng eksaktong pagdoble.
-
-Kung pupunta ang cake sa isang opisina o paaralan, isama ang address, landmark, mobile ng receiver, at mga tagubilin sa pagpasok. Kumpirmahin ang window ng paghahatid at ihanda ang isang tao na tanggapin ang cake. Ang hindi bababa sa tatlong araw na paunawa ay hinihiling, at ang availability ay dapat kumpirmahin bago ma-book ang order.
-
-Panatilihin ang balangkas ng desisyong ito sa umiiral nang mga gabay sa pagpili ng cake at disenyo. Ang isang hiwalay na kwento ng larawan ay nangangailangan ng isang aprubadong larawan ng cake ng pagbati at isang desisyon sa disenyo na partikular sa kaganapan na makikita dito.
+- Verify current design techniques before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,51 @@
 ---
 id: WC-0397
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; use real approved close-ups
-english_title: "Design details to consider for congratulations cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa pagbati sa Cebu"
+english_title: "Design Details to Consider for a Congratulations Cake in Cebu"
+cebuano_title: "Mga Detalye sa Disenyo nga Ikonsiderar para sa Congratulations Cake sa Cebu"
+tagalog_title: "Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Congratulations Cake sa Cebu"
 ---
 
-## Make the achievement clear with one focal detail
+## English
 
-Decide what the cake should celebrate—a new job, graduation, promotion, or another milestone—and choose one visual detail that communicates it. A short message, name, or simple symbol may be easier to read than several competing decorations. Share one reference and say what should be adapted.
+# Design Details to Consider for a Congratulations Cake in Cebu
 
-Confirm the exact wording, requested size, flavour, date, and handoff plan separately. Ask whether the text fits the design and what the current quote includes. If the cake will be displayed at an office or venue, share the location and receiving contact early.
+Start by choosing the achievement the cake should recognize: a graduation, new job, promotion, team result, or personal milestone. One clear theme is easier to translate into cake details than several unrelated symbols. Decide whether the design should feel formal, playful, personal, or suitable for a mixed group.
 
-Add this prompt to the existing design guide. A standalone technique page needs original photos of real cakes and a distinct hand-finished detail to explain.
+Set the message and focal element early. A person’s name or achievement may need enough space to stay readable, especially on a smaller cake. Provide the exact wording and verify names, titles, and spelling. If the cake is for a group, keep insider references understandable to the people who will share it.
+
+For visual direction, send a small number of reference photos and explain what you want adapted. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so ask how a school mark, company emblem, or graphic can be interpreted using current methods. Do not promise a printed or exact-copy result until the bakery confirms it.
+
+Consider the display surface and delivery route before requesting tall or delicate decorations. Share the size, serving estimate, event venue, and reveal plan so the bakery can assess the whole request. For an overview of design choices, read the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo nga Ikonsiderar para sa Congratulations Cake sa Cebu
+
+Sugdi sa pagpili sa nahimo nga iila sa cake: graduation, bag-ong trabaho, promotion, resulta sa team o personal nga milestone. Mas sayon hubaron sa detalye sa cake ang usa ka klarong tema kaysa daghang simbolo nga walay kalabotan. Desisyoni kon pormal, playful, personal o angay sa nagkalainlaing tawo ang disenyo.
+
+Tinoa daan ang mensahe ug pangunang detalye. Kinahanglan og igong luna ang ngalan o nahimo aron mabasa, ilabi na sa gamay nga cake. Ihatag ang eksaktong teksto ug susiha ang ngalan, titulo ug spelling. Kung para sa grupo ang cake, himoa nga masabtan sa mga mopaambit ang personal nga reference.
+
+Para sa visual direction, pagpadala og pipila ka reference photo ug ipasabot unsay ipasibo. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa pangutan-a unsaon paghubad sa marka sa eskwelahan, emblem sa kompanya o graphic gamit ang kasamtangang pamaagi. Ayaw mosaad og printed o eksaktong kopya hangtod mokumpirma ang panaderya.
+
+Hunahunaa ang display surface ug ruta sa delivery sa dili pa mangayo og taas o delikadong dekorasyon. Ipaambit ang gidak-on, banabana sa servings, venue ug reveal plan aron masusi sa panaderya ang tibuok request. Para sa overview sa disenyo, basaha ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Congratulations Cake sa Cebu
+
+Magsimula sa pagpili kung anong achievement ang kikilalanin ng cake: graduation, bagong trabaho, promotion, resulta ng team, o personal na milestone. Mas madaling isalin sa detalye ng cake ang iisang malinaw na tema kaysa maraming simbolong walang kaugnayan. Pagpasiyahan kung pormal, mapaglaro, personal, o bagay sa magkakaibang grupo ang design.
+
+Itakda nang maaga ang mensahe at focal element. Maaaring kailangan ng pangalan o achievement ng sapat na puwang para mabasa, lalo na sa maliit na cake. Ibigay ang eksaktong wording at tiyakin ang pangalan, titulo, at spelling. Kung para sa grupo ang cake, panatilihing mauunawaan ng mga magsasalo ang inside reference.
+
+Para sa visual direction, magpadala ng kakaunting reference photos at ipaliwanag kung ano ang iaangkop. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya itanong kung paano mailalarawan ang marka ng paaralan, emblem ng kumpanya, o graphic gamit ang kasalukuyang paraan. Huwag mangako ng printed o eksaktong kopyang resulta hangga’t hindi kinukumpirma ng bakery.
+
+Isaalang-alang ang display surface at delivery route bago humiling ng matataas o marurupok na dekorasyon. Ibahagi ang sukat, tantiya ng servings, venue, at reveal plan para masuri ng bakery ang buong request. Para sa pangkalahatang gabay sa mga design choice, basahin ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Himoa nga tin-aw ang nakab-ot sa usa ka focal detail
-
-Desisyuni kon unsa ang kinahanglan nga saulogon sa cake—usa ka bag-ong trabaho, gradwasyon, promosyon, o laing milestone—ug pagpili og usa ka biswal nga detalye nga nagpahibalo niini. Ang usa ka mubo nga mensahe, ngalan, o yano nga simbolo mahimong mas dali basahon kaysa daghang mga dekorasyon nga nakigkompetensya. Ipaambit ang usa ka reperensya ug isulti kung unsa ang angay nga ipahiangay.
-
-Kumpirma ang eksaktong pulong, gihangyo nga gidak-on, lami, petsa, ug handoff nga plano nga gilain. Pangutan-a kung ang teksto mohaum ba sa disenyo ug unsa ang gilakip sa kasamtangan nga kinutlo. Kung ang cake ipakita sa usa ka opisina o lugar, ipaambit ang lokasyon ug makadawat og kontak nga sayo.
-
-Idugang kini nga prompt sa kasamtangan nga giya sa disenyo. Ang usa ka standalone nga panid sa teknik nanginahanglan orihinal nga mga litrato sa tinuod nga mga cake ug usa ka lahi nga detalye nga nahuman sa kamot aron ipasabut.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gawing malinaw ang tagumpay gamit ang isang focal detail
-
-Magpasya kung ano ang dapat ipagdiwang ng cake—isang bagong trabaho, graduation, promosyon, o isa pang milestone—at pumili ng isang visual na detalye na nagpapabatid nito. Ang isang maikling mensahe, pangalan, o simpleng simbolo ay maaaring mas madaling basahin kaysa sa ilang nakikipagkumpitensyang dekorasyon. Magbahagi ng isang sanggunian at sabihin kung ano ang dapat iakma.
-
-Kumpirmahin ang eksaktong salita, hiniling na laki, lasa, petsa, at handoff na plano nang hiwalay. Itanong kung akma ang teksto sa disenyo at kung ano ang kasama sa kasalukuyang quote. Kung ang cake ay ipapakita sa isang opisina o venue, ibahagi ang lokasyon at makatanggap ng contact nang maaga.
-
-Idagdag ang prompt na ito sa kasalukuyang gabay sa disenyo. Ang isang standalone na pahina ng diskarte ay nangangailangan ng mga orihinal na larawan ng mga tunay na cake at isang natatanging hand-finished na detalye upang ipaliwanag.
+- Verify current design methods and capabilities before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,51 @@
 ---
 id: WC-0434
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; verify year-specific holiday schedule and route
-english_title: "How to coordinate Christmas cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa Pasko sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa Pasko sa Cebu"
+english_title: "How to Coordinate a Christmas Cake in Cebu"
+cebuano_title: "Giunsa Pag-coordinate sa Christmas Cake sa Cebu"
+tagalog_title: "Paano I-coordinate ang Christmas Cake sa Cebu"
 ---
 
-## Plan the holiday handoff and choose a receiver who will be available
+## English
 
-Provide the full delivery address, requested arrival window, receiver’s name and phone number, and any gate or building instructions. Ask whether the bakery can deliver to the location on the chosen Christmas date and confirm its fee and timing. Holiday access and schedules may differ from ordinary days.
+# How to Coordinate a Christmas Cake in Cebu
 
-Have someone ready to accept the cake and follow the baker’s care instructions for the specific product. If the cake will wait before a family meal, ask about suitable handling and storage. For a surprise, use an organizer’s contact number.
+Christmas gatherings often involve several hosts, guests, and venue details. Appoint one person to approve the order and another to receive it if the organizer will be busy. Make sure the bakery knows which contact can answer questions and whether the cake details should remain private until presentation.
 
-Add general coordination advice to the delivery guide and review Christmas route details each year. Do not promise a seasonal service without current confirmation.
+Confirm the venue address, entry process, receiver, and place where the cake will wait. For an office party or restaurant, ask whether staff can accept an outside cake and what storage space is available. For a home event, share gate, unit, and parking details and make sure someone will be present.
+
+White Cakes confirms a delivery window rather than an exact minute. Keep the schedule flexible, especially when traffic, guest arrival, and meal timing are outside the bakery’s control. Provide a backup contact and do not make the cake presentation depend on a precise arrival time.
+
+Put the date, size, flavour, design, inscription, price status, and delivery instructions in one written summary. Confirm any year-specific holiday opening, service, and route details directly with White Cakes. For general handoff planning, see the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-coordinate sa Christmas Cake sa Cebu
+
+Kasagaran daghang host, bisita ug detalye sa venue ang apil sa Christmas gathering. Pagtudlo og usa ka tawo nga mo-aprobar sa order ug laing modawat kon busy ang organizer. Siguroha nga nahibalo ang panaderya kinsa ang makatubag ug kon sekreto ba ang detalye sa cake hangtod ipresentar.
+
+Kumpirmaha ang address sa venue, paagi sa pagsulod, modawat ug lugar nga paghulatan sa cake. Para sa office party o restaurant, pangutan-a kon modawat ba ang staff og cake gikan sa gawas ug unsay storage space. Para sa event sa balay, ihatag ang gate, unit ug parking details ug siguroha nga adunay tawo didto.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Himoa nga flexible ang iskedyul ilabi na kay dili kontrolado sa panaderya ang trapiko, pag-abot sa bisita ug oras sa pagkaon. Paghatag og backup contact ug ayaw ibase sa eksaktong oras ang presentasyon sa cake.
+
+Ibutang sa usa ka sinulat nga summary ang petsa, gidak-on, flavour, disenyo, inskripsiyon, kahimtang sa presyo ug delivery instructions. Kumpirmaha direkta sa White Cakes ang holiday hours, serbisyo ug ruta para sa espesipikong tuig. Para sa kinatibuk-ang handoff, tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano I-coordinate ang Christmas Cake sa Cebu
+
+Madalas maraming host, bisita, at detalye ng venue ang kasama sa Christmas gathering. Magtalaga ng isang taong mag-aapruba sa order at ibang tatanggap kung magiging abala ang organizer. Tiyaking alam ng bakery kung sinong contact ang sasagot at kung dapat manatiling pribado ang detalye ng cake hanggang iharap.
+
+Kumpirmahin ang address ng venue, proseso ng pagpasok, tatanggap, at lugar kung saan maghihintay ang cake. Para sa office party o restaurant, itanong kung tatanggap ang staff ng dalang cake at kung anong storage space ang mayroon. Para sa event sa bahay, ibigay ang gate, unit, at parking details at tiyaking may taong naroroon.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Panatilihing flexible ang schedule, lalo na dahil hindi kontrolado ng bakery ang traffic, pagdating ng bisita, at oras ng pagkain. Magbigay ng backup contact at huwag ibatay sa eksaktong oras ang presentation ng cake.
+
+Ilagay sa iisang nakasulat na buod ang petsa, sukat, flavour, design, inscription, status ng presyo, at delivery instructions. Direktang kumpirmahin sa White Cakes ang holiday hours, serbisyo, at ruta para sa partikular na taon. Para sa pangkalahatang handoff planning, tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha ang holiday handoff ug pagpili og receiver nga magamit
-
-Ihatag ang kompleto nga adres sa pagpadala, gihangyo nga window sa pag-abot, ngalan sa tigdawat ug numero sa telepono, ug bisan unsang mga panudlo sa ganghaan o bilding. Pangutan-a kung ang panaderya makadeliver sa lokasyon sa napili nga petsa sa Pasko ug kumpirmahi ang bayad ug oras niini. Ang pag-access sa holiday ug mga iskedyul mahimong lahi sa ordinaryong mga adlaw.
-
-Pag-andam sa usa ka tawo nga modawat sa cake ug sundon ang mga panudlo sa pag-atiman sa panadero alang sa piho nga produkto. Kung ang cake maghulat sa dili pa ang panihapon sa pamilya, pangutana bahin sa angay nga pagdumala ug pagtipig. Para sa surpresa, gamita ang contact number sa organizer.
-
-Idugang ang kinatibuk-ang tambag sa koordinasyon sa giya sa paghatud ug ribyuha ang mga detalye sa ruta sa Pasko matag tuig. Ayaw pagsaad og usa ka seasonal nga serbisyo nga walay kasamtangan nga kumpirmasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin ang holiday handoff at pumili ng receiver na magiging available
-
-Ibigay ang buong address ng paghahatid, hiniling na window ng pagdating, pangalan at numero ng telepono ng tatanggap, at anumang mga tagubilin sa gate o gusali. Tanungin kung ang panaderya ay maaaring maghatid sa lokasyon sa napiling petsa ng Pasko at kumpirmahin ang bayad at oras nito. Ang pag-access sa holiday at mga iskedyul ay maaaring mag-iba sa mga ordinaryong araw.
-
-Maghanda ng isang tao na tanggapin ang cake at sundin ang mga tagubilin sa pangangalaga ng panadero para sa partikular na produkto. Kung maghihintay ang cake bago ang pagkain ng pamilya, magtanong tungkol sa angkop na paghawak at pag-iimbak. Para sa isang sorpresa, gumamit ng contact number ng organizer.
-
-Magdagdag ng pangkalahatang payo sa koordinasyon sa gabay sa paghahatid at suriin ang mga detalye ng ruta ng Pasko bawat taon. Huwag mangako ng pana-panahong serbisyo nang walang kasalukuyang kumpirmasyon.
+- Confirm year-specific holiday hours, capacity, and routes before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,51 @@
 ---
 id: WC-0392
-status: written-draft
-publish_action: merge into /journal/which-cake.html and the relevant product page
-english_title: "How to compare options for congratulations cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa pagbati sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/which-cake.html and relevant product guide
+english_title: "How to Compare Congratulations Cake Options in Cebu"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Congratulations Cake sa Cebu"
+tagalog_title: "Paano Ihambing ang mga Opsyon sa Congratulations Cake sa Cebu"
 ---
 
-## Match a congratulations cake to the person and the group
+## English
 
-First decide whether the cake is a small personal surprise or something to share at a family or office gathering. White Cakes' 4-inch Bento serves two people generously or three modestly, so it can suit a small celebration with a short congratulatory line. For a larger table, compare the 6-inch and 8-inch custom sizes using the published serving guide, then ask the bakery to confirm the portion plan for your design.
+# How to Compare Congratulations Cake Options in Cebu
 
-The visual style is another real difference. Signature Marble is a 6-inch ivory buttercream cake with dusty-blue marbling, a shell border, and one rose. The Bouquet Cake has hand-piped buttercream flowers and a wrapped floral look, with the scale and quote confirmed for the request. A fully custom buttercream cake can follow a clear brief and reference photos within the piped finish. Choose one of these directions based on the recipient, the table, and the message—not on a promise that a sample cake will be reproduced exactly.
+Compare cake options against the event rather than judging them by photos alone. Start with the guest range, how the cake will be served, where it will be displayed, and how it will get there. A cake for a small family celebration may prioritize a personal message; a work event may need more portions and a design that reads clearly in a group setting.
 
-For a congratulations inscription, send the recipient's name and exact short wording. If the event is at work, add the company venue, lobby instructions, and a named receiver. If it is delivered as a surprise, make sure someone can accept the box and keep it out of direct sun until serving.
+Then compare the design options. Ask which elements are feasible with the bakery’s current methods and which parts of your reference can be adapted. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so a company or school mark may need a different treatment than a printed version.
 
-Price depends on the selected design and format; Bouquet Cakes are quoted on request, and custom starting prices are listed on the product page. Ask for the current quote and delivery charge before paying the deposit. Keep this comparison beside the central cake-choice guide so readers can compare actual menu options in one maintained place.
+Compare complete quotes: selected size, flavour, decoration, inscription, delivery, timing, and payment terms. If an option is less expensive, identify which feature or service differs before deciding that it is equivalent. Confirm serving estimates with the bakery because actual portions vary by cake height, design, and cutting style.
+
+Choose the option that fits the occasion and logistics, then request written confirmation of the final details. For help selecting a cake type, see [which cake should you choose?](/journal/which-cake.html); for portions, use the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Congratulations Cake sa Cebu
+
+Itandi ang cake base sa event imbes hukman pinaagi sa litrato lang. Sugdi sa range sa bisita, paagi sa pag-serve, display area ug paagi sa pagdala niini. Ang cake para sa gamay nga selebrasyon sa pamilya mahimong magpasiugda sa personal nga mensahe; ang event sa trabaho mahimong manginahanglan og daghang servings ug klarong disenyo para sa grupo.
+
+Sunod itandi ang mga kapilian sa disenyo. Pangutan-a unsang bahin ang mahimo sa kasamtangang pamaagi sa panaderya ug unsay maipahiangay sa reference. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa mahimong lahi ang paghulagway sa marka sa kompanya o eskwelahan kaysa printed nga bersiyon.
+
+Itandi ang kompleto nga quote: gidak-on, flavour, dekorasyon, inskripsiyon, delivery, oras ug terms sa bayad. Kung mas barato ang usa ka kapilian, susiha unsang feature o serbisyo ang lahi sa dili pa isipon nga pareho ang bili. Kumpirmaha sa panaderya ang serving estimates kay magdepende ang aktuwal nga portions sa kataas, disenyo ug paagi sa paghiwa.
+
+Pilia ang kapilian nga mohaom sa okasyon ug logistics, dayon pangayo sa sinulat ang pinal nga detalye. Para sa tipo sa cake, tan-awa ang [which cake should you choose?](/journal/which-cake.html); para sa portions, gamita ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Ihambing ang mga Opsyon sa Congratulations Cake sa Cebu
+
+Ihambing ang mga cake ayon sa event sa halip na husgahan batay lang sa larawan. Magsimula sa range ng bisita, paraan ng paghahain, display area, at kung paano dadalhin ang cake. Maaaring unahin ng cake para sa maliit na selebrasyon ng pamilya ang personal na mensahe; maaaring kailanganin ng event sa trabaho ang mas maraming servings at design na malinaw tingnan ng grupo.
+
+Pagkatapos, ihambing ang mga design option. Itanong kung aling elemento ang kayang gawin gamit ang kasalukuyang paraan ng bakery at aling bahagi ng reference ang puwedeng iangkop. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya maaaring ibang paraan ang kailangan para sa marka ng kumpanya o paaralan kaysa printed na bersiyon.
+
+Ihambing ang kumpletong quote: napiling sukat, flavour, dekorasyon, inscription, delivery, timing, at payment terms. Kung mas mura ang isang opsyon, alamin kung anong feature o serbisyo ang naiiba bago ipalagay na kapantay ito. Kumpirmahin sa bakery ang serving estimates dahil nag-iiba ang portions ayon sa taas, design, at paraan ng paghiwa.
+
+Piliin ang opsyong babagay sa okasyon at logistics, saka hingin sa sulat ang pinal na detalye. Para pumili ng uri ng cake, tingnan ang [which cake should you choose?](/journal/which-cake.html); para sa portions, gamitin ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipares ug congratulations cake ang tawo ug ang grupo
-
-Pagdesisyon una kung ang cake usa ka gamay nga personal nga sorpresa o usa ka butang nga ipaambit sa usa ka panagtapok sa pamilya o opisina. Ang 4-pulgada nga Bento sa White Cakes nag-alagad sa duha ka tawo nga madagayaon o tulo nga kasarangan, aron kini mohaum sa gamay nga selebrasyon nga adunay mubo nga linya sa pahalipay. Para sa mas dako nga lamesa, itandi ang 6-pulgada ug 8-pulgada nga custom nga gidak-on gamit ang gimantala nga giya sa pag-alagad, dayon hangyoa ang panaderya sa pagkumpirma sa plano sa bahin alang sa imong disenyo.
-
-Ang biswal nga istilo usa pa ka tinuud nga kalainan. Ang Signature Marble usa ka 6-pulgada nga ivory buttercream cake nga adunay abog-asul nga marbling, usa ka utlanan sa kabhang, ug usa ka rosas. Ang Bouquet Cake adunay hand-piped buttercream nga mga bulak ug usa ka giputos nga bulak nga hitsura, nga ang sukod ug kinutlo gikumpirma alang sa hangyo. Ang usa ka bug-os nga naandan nga buttercream cake mahimong magsunod sa usa ka tin-aw nga mubo ug reference nga mga litrato sulod sa piped finish. Pagpili og usa niini nga mga direksyon base sa nakadawat, sa lamesa, ug sa mensahe—dili sa usa ka saad nga ang usa ka sample nga cake tukma nga kopyahon.
-
-Alang sa inskripsiyon sa pahalipay, ipadala ang ngalan sa nakadawat ug eksaktong mubo nga pulong. Kung ang kalihokan naa sa trabaho, idugang ang lugar sa kompanya, mga instruksyon sa lobby, ug usa ka ginganlan nga tigdawat. Kung ihatod kini ingon usa ka sorpresa, siguroha nga adunay makadawat sa kahon ug itago kini gikan sa direkta nga adlaw hangtod sa pagserbisyo.
-
-Ang presyo nagdepende sa gipili nga disenyo ug format; Ang mga Bouquet Cake gikutlo sa hangyo, ug ang naandan nga mga presyo sa pagsugod gilista sa panid sa produkto. Pangutan-a ang kasamtangan nga quote ug delivery charge sa dili pa mobayad sa deposito. Ipadayon kini nga pagtandi tapad sa sentro nga giya sa pagpili sa cake aron ang mga magbabasa makakomparar sa aktuwal nga mga opsyon sa menu sa usa ka gimentinar nga dapit.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itugma ang isang cake ng pagbati sa tao at sa grupo
-
-Magpasya muna kung ang cake ay isang maliit na personal na sorpresa o isang bagay na ibabahagi sa isang pagtitipon ng pamilya o opisina. Ang 4-inch na Bento ng White Cakes ay naghahain ng mapagbigay sa dalawang tao o tatlong katamtaman, kaya maaari itong maging angkop sa isang maliit na pagdiriwang na may maikling linya ng pagbati. Para sa mas malaking talahanayan, ihambing ang 6-inch at 8-inch na custom na laki gamit ang na-publish na gabay sa paghahatid, pagkatapos ay hilingin sa panaderya na kumpirmahin ang plano ng bahagi para sa iyong disenyo.
-
-Ang visual na istilo ay isa pang tunay na pagkakaiba. Ang Signature Marble ay isang 6-inch na ivory buttercream cake na may dusty-blue marbling, isang shell border, at isang rosas. Ang Bouquet Cake ay may hand-piped buttercream na mga bulaklak at isang nakabalot na floral na hitsura, na may sukat at quote na nakumpirma para sa kahilingan. Ang isang ganap na custom na buttercream cake ay maaaring sumunod sa isang malinaw na maikling at reference na mga larawan sa loob ng piped finish. Pumili ng isa sa mga direksyong ito batay sa tatanggap, sa talahanayan, at sa mensahe—hindi sa isang pangako na eksaktong kopyahin ang isang sample na cake.
-
-Para sa isang inskripsyon ng pagbati, ipadala ang pangalan ng tatanggap at eksaktong maikling salita. Kung ang kaganapan ay nasa trabaho, idagdag ang lugar ng kumpanya, mga tagubilin sa lobby, at isang pinangalanang receiver. Kung ihahatid ito bilang isang sorpresa, tiyaking may makakatanggap ng kahon at itago ito sa direktang araw hanggang sa paghahatid.
-
-Ang presyo ay depende sa napiling disenyo at format; Ang mga Bouquet Cake ay sinipi kapag hiniling, at ang mga custom na panimulang presyo ay nakalista sa pahina ng produkto. Tanungin ang kasalukuyang quote at delivery charge bago bayaran ang deposito. Panatilihin ang paghahambing na ito sa tabi ng gitnang gabay sa pagpili ng cake upang maihambing ng mga mambabasa ang aktwal na mga opsyon sa menu sa isang pinananatili na lugar.
+- Reconfirm pricing, production, and serving estimates before publication.
+- Cebuano and Tagalog drafts need native editorial review.

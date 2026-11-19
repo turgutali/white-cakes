@@ -1,44 +1,51 @@
 ---
 id: WC-0416
-status: draft-needs-original-closeup
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "Design details to consider for housewarming cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa bagong tahanan sa Cebu"
+english_title: "Design Details to Consider for a Housewarming Cake in Cebu"
+cebuano_title: "Mga Detalye sa Disenyo nga Ikonsiderar para sa Housewarming Cake sa Cebu"
+tagalog_title: "Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Housewarming Cake sa Cebu"
 ---
 
-## Choose a housewarming-cake detail that feels personal
+## English
 
-A housewarming design can refer to the home without becoming a literal building illustration. Choose one detail that matters to the host—a simple home motif, a colour from the new space, or a short greeting—and keep the remaining decoration restrained. Ask the family what the recipient likes rather than assuming a generic “new home” style.
+# Design Details to Consider for a Housewarming Cake in Cebu
 
-Send one reference image and identify what should be adapted. If the design uses a floor plan, address, or identifiable home feature, confirm that the owner is comfortable sharing it with the bakery and potentially online. Ask White Cakes to confirm feasibility, cake size, and the final price.
+Start with the purpose of the cake: a welcome dessert, a gift for the hosts, or a display for the first gathering in a new home. That choice helps set the size, message, and level of decoration. A small cake shared at dinner may need a readable greeting, while a centrepiece for photos may have a different visual priority.
 
-Include the date, flavour, serving estimate, and delivery address. If the new home is difficult to locate, add a landmark and local receiver's mobile number. Current estimates are 8–12 portions for a 6-inch cake and 16–24 for an 8-inch cake. Allow at least three days' notice; a 50% deposit confirms the agreed order.
+Choose a focal detail, such as a colour, a simple home motif, or a short inscription. Keep enough open space for the message and avoid layering several unrelated ideas. If the design references a particular home feature, explain the inspiration rather than asking for a full replica.
 
-Use an original close-up only when it shows a real White Cakes design and has permission. Otherwise, keep these suggestions in the central design guide.
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask how any address, house illustration, or sign can be interpreted with current techniques. Confirm lettering, size, and decoration together because each affects the space available on the cake.
+
+Consider how the cake will be carried from the entrance and where it will be displayed. Tall or delicate details may need adjustment for transport through a building or into a busy room. Share these conditions with the bakery before approving the final design. For the broader guide, see [Cebu cake designs](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo nga Ikonsiderar para sa Housewarming Cake sa Cebu
+
+Sugdi sa katuyoan sa cake: welcome dessert, regalo sa host o display sa unang tapok sa bag-ong balay. Makatabang kini pagpili sa gidak-on, mensahe ug gidaghanon sa dekorasyon. Ang gamay nga cake nga bahinon sa panihapon mahimong manginahanglan og mabasang greeting; lahi tingali ang prayoridad sa sentro sa litrato.
+
+Pagpili og usa ka sentrong detalye sama sa kolor, yano nga motif sa balay o mubo nga inskripsiyon. Pagbilin og luna para sa mensahe ug likayi ang pagsapaw-sapaw sa walay kalabotang ideya. Kung may reference sa bahin sa balay ang disenyo, ipasabot ang inspirasyon imbes mangayo og eksaktong kopya sa tibuok balay.
+
+Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsaon paghubad sa address, drawing sa balay o karatula gamit ang kasamtangang teknik. Kumpirmaha dungan ang lettering, gidak-on ug dekorasyon kay makaapekto kini sa luna sa cake.
+
+Hunahunaa unsaon pagdala gikan sa entrada ug asa ipakita ang cake. Mahimong usbon ang taas o delikadong detalye para sa transport sa building o huot nga lawak. Ipaambit kining mga kondisyon sa panaderya sa dili pa moaprubar sa pinal nga disenyo. Para sa mas lapad nga giya, tan-awa ang [Cebu cake designs](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Housewarming Cake sa Cebu
+
+Magsimula sa layunin ng cake: welcome dessert, regalo para sa host, o display sa unang pagtitipon sa bagong bahay. Nakakatulong ito sa pagpili ng sukat, mensahe, at dami ng dekorasyon. Maaaring kailangan ng cake na pagsasaluhan sa hapunan ang madaling basahing pagbati, samantalang iba ang visual priority ng centerpiece para sa mga larawan.
+
+Pumili ng iisang focal detail gaya ng kulay, simpleng motif tungkol sa bahay, o maikling inscription. Mag-iwan ng sapat na espasyo para sa mensahe at iwasang pagsama-samahin ang magkakaibang ideya. Kung may reference sa isang bahagi ng bahay ang design, ipaliwanag ang inspirasyon sa halip na humiling ng eksaktong replika.
+
+Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets. Itanong kung paano mailalarawan ang address, drawing ng bahay, o karatula gamit ang kasalukuyang technique. Kumpirmahin nang magkasama ang lettering, sukat, at dekorasyon dahil nakaaapekto ang bawat isa sa espasyong magagamit.
+
+Isaalang-alang kung paano dadalhin ang cake mula sa pasukan at saan ito ipapakita. Maaaring kailangang baguhin ang matataas o marurupok na detalye para sa biyahe sa building o mataong kuwarto. Ibahagi ang mga kondisyong ito sa bakery bago aprubahan ang pinal na design. Para sa mas malawak na gabay, tingnan ang [Cebu cake designs](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug housewarming-cake nga detalye nga gibati nga personal
-
-Ang usa ka disenyo sa housewarming mahimong magtumong sa balay nga dili mahimong literal nga ilustrasyon sa bilding. Pagpili og usa ka detalye nga importante sa tagbalay—usa ka yano nga motif sa balay, usa ka kolor gikan sa bag-ong luna, o usa ka mubo nga pagtimbaya—ug hupti nga pugngan ang nahabilin nga dekorasyon. Pangutan-a ang pamilya kung unsa ang gusto sa nakadawat kaysa mag-isip sa usa ka generic nga "bag-ong balay" nga istilo.
-
-Ipadala ang usa ka reperensya nga imahe ug ilha kung unsa ang angay nga ipahiangay. Kung ang disenyo naggamit ug plano sa salog, adres, o mailhan nga bahin sa balay, kumpirmahi nga komportable ang tag-iya nga ipaambit kini sa panaderya ug mahimo’g online. Pangutan-a ang White Cakes sa pagkumpirma sa posibilidad, gidak-on sa cake, ug ang katapusang presyo.
-
-Ilakip ang petsa, lami, banabana sa pagserbisyo, ug adres sa pagpadala. Kung lisud pangitaon ang bag-ong balay, pagdugang usa ka timaan ug numero sa mobile sa lokal nga tigdawat. Ang mga banabana karon mao ang 8–12 ka bahin alang sa 6-pulgada nga cake ug 16–24 alang sa 8-pulgada nga cake. Tugoti ang labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Gamita lang ang orihinal nga close-up kung nagpakita kini og tinuod nga disenyo sa White Cake ug adunay pagtugot. Kung dili, ibutang kini nga mga sugyot sa sentro nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng housewarming-cake na detalye na parang personal
-
-Ang disenyo ng housewarming ay maaaring tumukoy sa bahay nang hindi nagiging literal na ilustrasyon ng gusali. Pumili ng isang detalye na mahalaga sa host—isang simpleng motif sa bahay, isang kulay mula sa bagong espasyo, o isang maikling pagbati—at panatilihing pinigilan ang natitirang palamuti. Tanungin ang pamilya kung ano ang gusto ng tatanggap sa halip na ipagpalagay ang isang generic na "bagong tahanan" na istilo.
-
-Magpadala ng isang reference na larawan at tukuyin kung ano ang dapat iakma. Kung ang disenyo ay gumagamit ng floor plan, address, o nakikilalang feature ng bahay, kumpirmahin na kumportable ang may-ari na ibahagi ito sa panaderya at posibleng online. Hilingin sa White Cakes na kumpirmahin ang pagiging posible, laki ng cake, at ang huling presyo.
-
-Isama ang petsa, lasa, pagtatantya ng paghahatid, at address ng paghahatid. Kung mahirap hanapin ang bagong tahanan, magdagdag ng landmark at mobile number ng lokal na receiver. Ang kasalukuyang mga pagtatantya ay 8–12 bahagi para sa 6-pulgadang cake at 16–24 para sa 8-pulgadang cake. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Gumamit lang ng orihinal na close-up kapag nagpapakita ito ng tunay na disenyo ng White Cake at may pahintulot. Kung hindi, panatilihin ang mga mungkahing ito sa gitnang gabay sa disenyo.
+- Confirm current design techniques and transport limitations before publication.
+- Cebuano and Tagalog drafts need native editorial review.

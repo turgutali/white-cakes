@@ -1,38 +1,51 @@
 ---
 id: WC-0396
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; route details need confirmation
-english_title: "How to coordinate congratulations cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa pagbati sa Cebu"
+english_title: "How to Coordinate a Congratulations Cake in Cebu"
+cebuano_title: "Giunsa Pag-coordinate sa Congratulations Cake sa Cebu"
+tagalog_title: "Paano I-coordinate ang Congratulations Cake sa Cebu"
 ---
 
-## Make the receiver and event location clear to the bakery
+## English
 
-Give the bakery the complete address, preferred handoff time, receiver’s name and phone number, and any entrance or building instructions. If the cake is going to a workplace or ceremony venue, identify where the receiver will meet the delivery and whether security needs to be informed. Ask the bakery to confirm coverage and timing.
+# How to Coordinate a Congratulations Cake in Cebu
 
-Have someone ready to take the cake directly and keep it level until serving. Confirm care advice for the specific design and whether the cake may arrive before the event begins. If the cake is a surprise, use the organizer’s contact information rather than contacting the recipient.
+For a congratulations cake at a group event, separate the order contact from the receiver if the organizer will be busy. The contact approves the design and final details; the receiver handles the delivery handoff. If one person will do both, provide a backup number.
 
-Add these general steps to the delivery guide. Publish a location-specific story only if the actual route and event details are documented and approved.
+Tell the bakery who may see the inscription and who should receive delivery updates. For a surprise, use the organizer’s contact and explain whether the message should remain private until presentation. For an office or school event, confirm that reception or venue staff can accept the cake and identify where it may be kept.
+
+White Cakes confirms a delivery window rather than an exact minute. Keep the event schedule flexible, make sure the receiver is available during that window, and share complete access directions. Include the event date, venue, size, flavour, message, receiver’s name, and backup contact in the written order summary.
+
+If the venue, address, or event timing changes, contact the bakery and wait for confirmation that the update was received. Give the receiver the storage guidance and ask them to check the order label at handoff. For more practical details, see the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-coordinate sa Congratulations Cake sa Cebu
+
+Para sa congratulations cake sa group event, ilahi ang order contact ug modawat kon busy ang organizer. Ang order contact mo-aprobar sa disenyo ug pinal nga detalye; ang modawat maoy moasikaso sa handoff. Kung usa ra ka tawo ang responsable sa duha, paghatag og backup number.
+
+Sultihi ang panaderya kinsa ang makakita sa inskripsiyon ug kinsa ang modawat sa delivery updates. Para sa surprise, gamita ang contact sa organizer ug isulti kon tipigan bang sekreto ang mensahe hangtod ipresentar. Para sa event sa opisina o eskwelahan, kumpirmaha nga modawat ang reception o staff sa venue ug asa ibutang ang cake.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Himoa nga flexible ang iskedyul, siguroha nga available ang modawat sulod niana nga window ug ihatag ang kompleto nga direksiyon sa pagsulod. Iapil sa sinulat nga order summary ang petsa, venue, gidak-on, flavour, mensahe, ngalan sa modawat ug backup contact.
+
+Kung mausab ang venue, address o oras, kontaka ang panaderya ug hulata ang kumpirmasyon nga nadawat ang update. Ipaambit sa modawat ang storage guidance ug hangyoa nga susihon ang label sa handoff. Para sa praktikal nga detalye, tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano I-coordinate ang Congratulations Cake sa Cebu
+
+Para sa congratulations cake sa group event, paghiwalayin ang order contact at tatanggap kung magiging abala ang organizer. Inaaprubahan ng order contact ang design at pinal na detalye; inaasikaso naman ng tatanggap ang delivery handoff. Kung iisang tao ang responsable sa dalawa, magbigay ng backup number.
+
+Sabihin sa bakery kung sino ang maaaring makakita sa inscription at kung sino ang tatanggap ng delivery updates. Para sa sorpresa, gamitin ang contact ng organizer at linawin kung dapat ilihim ang mensahe hanggang sa presentation. Para sa event sa opisina o paaralan, kumpirmahing tatanggapin ng reception o staff ng venue ang cake at alamin kung saan ito ilalagay.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Panatilihing flexible ang schedule, tiyaking available ang tatanggap sa buong window, at ibigay ang kumpletong access directions. Isama sa nakasulat na order summary ang petsa, venue, sukat, flavour, mensahe, pangalan ng tatanggap, at backup contact.
+
+Kung magbago ang venue, address, o oras, kontakin ang bakery at hintayin ang kumpirmasyon na natanggap ang update. Ibahagi sa tatanggap ang storage guidance at sabihing tingnan ang order label sa handoff. Para sa praktikal na detalye, tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Himoa nga tin-aw ang tigdawat ug lokasyon sa panghitabo sa panaderya
-
-Ihatag sa panaderya ang kompleto nga adres, gusto nga oras sa paghatag, ngalan sa tigdawat ug numero sa telepono, ug bisan unsang mga panudlo sa pagsulod o pagtukod. Kung ang cake moadto sa usa ka trabahoan o lugar sa seremonya, ilha kung diin ang tigdawat makigtagbo sa paghatod ug kung kinahanglan ba nga ipahibalo ang seguridad. Hangyoa ang panaderya sa pagkumpirma sa coverage ug timing.
-
-Pag-andam sa usa ka tawo nga diretso nga magdala sa cake ug ipadayon kini hangtod sa pagserbisyo. Kumpirma ang tambag sa pag-atiman alang sa espesipikong disenyo ug kon ang cake mahimong moabot sa dili pa magsugod ang kalihokan. Kung ang cake usa ka sorpresa, gamita ang impormasyon sa pagkontak sa organizer kay sa pagkontak sa nakadawat.
-
-Idugang kining kinatibuk-ang mga lakang sa giya sa paghatud. I-publish ang istorya nga espesipiko sa lokasyon kung ang aktuwal nga ruta ug mga detalye sa panghitabo gidokumento ug giaprobahan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gawing malinaw sa panaderya ang receiver at lokasyon ng kaganapan
-
-Ibigay sa panaderya ang kumpletong address, gustong oras ng handoff, pangalan at numero ng telepono ng tatanggap, at anumang mga tagubilin sa pasukan o gusali. Kung pupunta ang cake sa isang lugar ng trabaho o lugar ng seremonya, tukuyin kung saan sasagutin ng tatanggap ang paghahatid at kung kailangang ipaalam sa seguridad. Hilingin sa panaderya na kumpirmahin ang saklaw at oras.
-
-Ihanda ang isang tao na direktang kunin ang cake at panatilihin itong kapantay hanggang sa paghahatid. Kumpirmahin ang payo sa pangangalaga para sa partikular na disenyo at kung ang cake ay maaaring dumating bago magsimula ang kaganapan. Kung sorpresa ang cake, gamitin ang impormasyon sa pakikipag-ugnayan ng organizer sa halip na makipag-ugnayan sa tatanggap.
-
-Idagdag ang mga pangkalahatang hakbang na ito sa gabay sa paghahatid. Mag-publish lamang ng kuwentong tukoy sa lokasyon kung ang aktwal na ruta at mga detalye ng kaganapan ay nakadokumento at naaprubahan.
+- Confirm current delivery-window and routing practices before publication.
+- Cebuano and Tagalog drafts need native editorial review.

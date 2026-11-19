@@ -1,38 +1,51 @@
 ---
 id: WC-0420
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html; confirm seasonal menu
-english_title: "What to include in a custom brief for Christmas cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa Pasko sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa Pasko sa Cebu"
+english_title: "What to Include in a Custom Brief for a Christmas Cake in Cebu"
+cebuano_title: "Unsa ang Iapil sa Custom Brief para sa Christmas Cake sa Cebu"
+tagalog_title: "Ano ang Isasama sa Custom Brief para sa Christmas Cake sa Cebu"
 ---
 
-## Separate the Christmas theme from the cake’s practical requirements
+## English
 
-Include the event date, expected servings, preferred cake size, flavour, and delivery or pickup plan. For the design, choose one main idea—such as a family tradition, a colour palette, or a short greeting—and mark which details are essential. Share a reference image with a note about what it is meant to show.
+# What to Include in a Custom Brief for a Christmas Cake in Cebu
 
-Ask whether the requested look is available for the date and how it can be adapted to the selected size. Confirm the exact inscription and full price, including any custom decoration or delivery. Holiday products and availability can change, so do not rely on last year’s menu or photo as a current promise.
+Start the brief with the Christmas event date, expected servings, venue, and whether the cake is for a family meal, office gathering, or party. State when it should be ready and who can receive the delivery. Holiday schedules can be busy, so ask the bakery early which dates and products it can accept.
 
-Add this seasonal checklist to the shared custom brief guide. Verify the current Christmas offering before publishing any specific product details.
+Describe one design direction rather than sending a large collection of unrelated seasonal pictures. You might identify a colour palette, a simple festive motif, or a short greeting. Send one or two references and explain what should be adapted. Do not assume a seasonal design or ingredient is currently available because it appeared in a previous year’s photo.
+
+Include the exact inscription, preferred flavour, and any ingredient questions. Check spelling and punctuation before confirming. Ask the bakery how the concept fits its current techniques; White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so some printed details may need another treatment.
+
+Before paying, request a written summary of size, flavour, design, message, price, payment terms, date, and delivery or pickup. For the full custom order checklist, see [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Custom Brief para sa Christmas Cake sa Cebu
+
+Sugdi ang brief sa petsa sa Christmas event, gipaabot nga servings, venue ug kon para ba ang cake sa panihapon sa pamilya, tapok sa opisina o party. Isulti kanus-a kini kinahanglan andam ug kinsa ang modawat. Mahimong busy ang holiday schedule, busa pangutan-a daan ang panaderya unsang petsa ug produkto ang madawat niini.
+
+Ihulagway ang usa ka direksiyon sa disenyo imbes magpadala og daghang seasonal nga litrato nga walay kalabotan. Mahimong kombinasyon sa kolor, yano nga festive motif o mubo nga greeting. Pagpadala og usa o duha ka reference ug ipasabot unsay ipasibo. Ayaw pagtuo nga available karon ang seasonal design o sangkap tungod kay makita kini sa litrato sa miaging tuig.
+
+Iapil ang eksaktong inskripsiyon, gusto nga flavour ug pangutana bahin sa sangkap. Susiha ang spelling ug punctuation sa dili pa mokumpirma. Pangutan-a ang panaderya unsaon paghaom sa konsepto sa kasamtangang teknik; hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa mahimong lahi ang paghulagway sa printed nga detalye.
+
+Sa dili pa mobayad, pangayo og sinulat nga summary sa gidak-on, flavour, disenyo, mensahe, presyo, terms sa bayad, petsa ug delivery o pickup. Para sa kompleto nga checklist sa custom order, tan-awa ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Custom Brief para sa Christmas Cake sa Cebu
+
+Magsimula sa brief sa petsa ng Christmas event, inaasahang servings, venue, at kung para ito sa hapunan ng pamilya, pagtitipon sa opisina, o party. Sabihin kung kailan dapat handa ang cake at sino ang tatanggap. Maaaring abala ang holiday schedule, kaya itanong nang maaga kung aling petsa at produkto ang kaya ng bakery.
+
+Ilarawan ang iisang direksiyon ng design sa halip na magpadala ng maraming seasonal na larawang walang kaugnayan. Maaari mong tukuyin ang palette ng kulay, simpleng festive motif, o maikling pagbati. Magpadala ng isa o dalawang reference at ipaliwanag kung ano ang iaangkop. Huwag ipalagay na available ngayon ang seasonal design o sangkap dahil lumitaw ito sa larawan noong nakaraang taon.
+
+Isama ang eksaktong inscription, gustong flavour, at anumang tanong sa sangkap. Suriin ang spelling at punctuation bago mag-confirm. Itanong kung paano babagay ang konsepto sa kasalukuyang technique ng bakery; hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya maaaring ibang paraan ang kailangan para sa ilang printed na detalye.
+
+Bago magbayad, humingi ng nakasulat na buod ng sukat, flavour, design, mensahe, presyo, payment terms, petsa, at delivery o pickup. Para sa buong custom order checklist, tingnan ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ibulag ang tema sa Pasko gikan sa praktikal nga mga kinahanglanon sa cake
-
-Ilakip ang petsa sa panghitabo, gipaabot nga mga pag-alagad, gusto nga gidak-on sa cake, lami, ug plano sa pagpadala o pagkuha. Alang sa disenyo, pagpili og usa ka nag-unang ideya—sama sa tradisyon sa pamilya, paleta sa kolor, o mubo nga pagtimbaya—ug markahi kon unsang mga detalye ang gikinahanglan. Ipakigbahin ang usa ka reperensya nga imahe nga adunay usa ka mubo nga sulat bahin sa kung unsa ang gusto nga ipakita.
-
-Pangutan-a kung ang gihangyo nga hitsura magamit alang sa petsa ug kung giunsa kini ipahiangay sa gipili nga gidak-on. Kumpirma ang eksaktong inskripsiyon ug bug-os nga presyo, lakip ang bisan unsang custom nga dekorasyon o paghatud. Ang mga produkto sa holiday ug pagkaanaa mahimong mausab, busa ayaw pagsalig sa menu o litrato sa miaging tuig isip usa ka kasamtangan nga saad.
-
-Idugang kini nga seasonal checklist sa gipaambit nga custom nga mubo nga giya. Tinoa ang kasamtangan nga halad sa Pasko sa dili pa imantala ang bisan unsang piho nga mga detalye sa produkto.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihiwalay ang tema ng Pasko sa mga praktikal na kinakailangan ng cake
-
-Isama ang petsa ng kaganapan, inaasahang mga serving, gustong laki ng cake, lasa, at plano sa paghahatid o pagkuha. Para sa disenyo, pumili ng isang pangunahing ideya—gaya ng tradisyon ng pamilya, color palette, o maikling pagbati—at markahan kung aling mga detalye ang mahalaga. Magbahagi ng reference na larawan na may tala tungkol sa kung ano ang ibig nitong ipakita.
-
-Tanungin kung ang hiniling na hitsura ay magagamit para sa petsa at kung paano ito maiangkop sa napiling laki. Kumpirmahin ang eksaktong inskripsiyon at buong presyo, kabilang ang anumang custom na dekorasyon o paghahatid. Maaaring magbago ang mga produkto at availability sa holiday, kaya huwag umasa sa menu o larawan ng nakaraang taon bilang kasalukuyang pangako.
-
-Idagdag ang seasonal na checklist na ito sa nakabahaging custom na maikling gabay. I-verify ang kasalukuyang alok ng Pasko bago mag-publish ng anumang partikular na detalye ng produkto.
+- Verify seasonal menu, product availability, and current terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

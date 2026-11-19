@@ -1,44 +1,51 @@
 ---
 id: WC-0401
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/housewarming-cake-cebu.html
-english_title: "What to include in a custom brief for housewarming cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa bagong tahanan sa Cebu"
+english_title: "What to Include in a Custom Brief for a Housewarming Cake in Cebu"
+cebuano_title: "Unsa ang Iapil sa Custom Brief para sa Housewarming Cake sa Cebu"
+tagalog_title: "Ano ang Isasama sa Custom Brief para sa Housewarming Cake sa Cebu"
 ---
 
-## A housewarming cake brief for a new home and its guests
+## English
 
-Include the event date, the number of people who will eat cake, and where it will be served. A small household may suit the 4-inch Bento, while a family gathering needs a size discussion using White Cakes' serving guide. State whether you prefer full slices or smaller portions after a meal so the bakery can recommend a practical format.
+# What to Include in a Custom Brief for a Housewarming Cake in Cebu
 
-For the design, choose one colour or decorative detail that fits the new home. Send one reference photo and say whether you want its palette, border, or floral detail adapted. White Cakes hand-pipes buttercream, so a reference is guidance rather than a promise of an exact copy. Keep the inscription short and send exact spelling.
+A useful housewarming cake brief describes the gathering and the practical limits of the new home. Tell the bakery the event date, expected servings, delivery address, access details, and who can receive the order. If the building has a guard, gate, or visitor procedure, provide those instructions in advance.
 
-If delivery is needed, provide the full home address, nearby landmark, receiver's mobile number, and gate or subdivision instructions. A person should be available during the agreed window and should move the cake out of direct sun after handover.
+Choose a design direction that suits the home celebration: a simple welcome message, colours that match the gathering, or a small motif connected to the new home. Send one or two references and explain what should be adapted. Do not assume the bakery can reproduce every object, finish, or image exactly.
 
-Ask for the current quote and address-based delivery charge before paying the 50% deposit. At least three days' notice is requested, and availability must be confirmed. Keep the brief template on the custom-cake and housewarming pages, not as a separate order guide for each occasion.
+Include the inscription as final text, with spelling, punctuation, and capitalization checked. State the flavour preference and ask the bakery to confirm current availability. If anyone has ingredient or dietary concerns, raise those before paying and get a clear answer rather than inferring from a flavour name.
+
+Ask for a written order summary with size, servings estimate, design, message, price, payment terms, and delivery window. The summary helps if the home access plan changes or another person accepts the cake. For a general brief checklist, see [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Custom Brief para sa Housewarming Cake sa Cebu
+
+Ang mapuslanong housewarming cake brief mohulagway sa panagtapok ug praktikal nga limitasyon sa bag-ong balay. Isulti sa panaderya ang petsa, gipaabot nga servings, delivery address, access details ug kinsa ang modawat. Kung adunay guard, gate o proseso sa bisita ang building, ihatag daan kini nga instruksyon.
+
+Pagpili og direksiyon sa disenyo nga mohaom sa housewarming: yano nga mensahe sa welcome, kolor sa selebrasyon o gamay nga motif nga may kalabotan sa bag-ong balay. Pagpadala og usa o duha ka reference ug ipasabot unsay ipasibo. Ayaw pagtuo nga eksaktong mahimo sa panaderya ang matag butang, finish o litrato.
+
+Ibutang ang inskripsiyon isip pinal nga teksto ug susiha ang spelling, punctuation ug capitalization. Isulti ang flavour preference ug pangutan-a ang panaderya sa kasamtangang availability. Kung adunay kabalaka sa sangkap o pagkaon, ipahibalo kini sa dili pa mobayad ug pangayo og klarong tubag imbes magtagna base sa ngalan sa flavour.
+
+Pangayo og sinulat nga order summary nga adunay gidak-on, banabana sa servings, disenyo, mensahe, presyo, terms sa bayad ug delivery window. Makatabang kini kon mausab ang pagsulod sa balay o laing tawo ang modawat. Para sa kinatibuk-ang checklist, tan-awa ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Custom Brief para sa Housewarming Cake sa Cebu
+
+Inilalarawan ng kapaki-pakinabang na housewarming cake brief ang pagtitipon at praktikal na limitasyon ng bagong bahay. Sabihin sa bakery ang petsa ng event, inaasahang servings, delivery address, access details, at kung sino ang tatanggap. Kung may guard, gate, o proseso para sa bisita sa building, ibigay nang maaga ang mga tagubiling iyon.
+
+Pumili ng design direction na babagay sa housewarming: simpleng welcome message, mga kulay ng pagtitipon, o maliit na motif na konektado sa bagong bahay. Magpadala ng isa o dalawang reference at ipaliwanag kung ano ang iaangkop. Huwag ipalagay na eksaktong magagawa ng bakery ang bawat bagay, finish, o larawan.
+
+Ilagay ang inscription bilang pinal na text at tiyakin ang spelling, punctuation, at capitalization. Sabihin ang flavour preference at itanong ang kasalukuyang availability sa bakery. Kung may alalahanin sa sangkap o pagkain, sabihin ito bago magbayad at humingi ng malinaw na sagot sa halip na manghula batay sa pangalan ng flavour.
+
+Humingi ng nakasulat na order summary na may sukat, tantiya ng servings, design, mensahe, presyo, payment terms, at delivery window. Makakatulong ito kung magbago ang access sa bahay o ibang tao ang tatanggap. Para sa pangkalahatang checklist, tingnan ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Usa ka mubu nga mubu nga cake sa balay para sa bag-ong balay ug sa mga bisita niini
-
-Ilakip ang petsa sa panghitabo, ang gidaghanon sa mga tawo nga mokaon ug cake, ug asa kini i-serve. Ang usa ka gamay nga panimalay mahimong mohaum sa 4-pulgada nga Bento, samtang ang usa ka panagtapok sa pamilya nanginahanglan usa ka gidak-on nga diskusyon gamit ang giya sa pagsilbi sa White Cakes. Isulti kung gusto nimo ang tibuuk nga mga hiwa o gagmay nga mga bahin pagkahuman sa pagkaon aron ang panaderya makarekomenda sa usa ka praktikal nga pormat.
-
-Alang sa disenyo, pagpili og usa ka kolor o detalye sa dekorasyon nga mohaum sa bag-ong balay. Pagpadala usa ka reperensya nga litrato ug isulti kung gusto nimo ang palette, utlanan, o detalye sa bulak nga ipahiangay. White Cakes hand-pipes buttercream, mao nga ang usa ka reperensiya mao ang giya kay sa usa ka saad sa usa ka eksaktong kopya. Hupti nga mubo ang inskripsiyon ug ipadala ang eksaktong spelling.
-
-Kung gikinahanglan ang paghatod, ihatag ang tibuok adres sa balay, duol nga landmark, mobile number sa receiver, ug gate o subdivision instructions. Ang usa ka tawo kinahanglan nga magamit sa panahon sa gikasabutan nga bintana ug kinahanglan nga ibalhin ang cake gikan sa direkta nga adlaw pagkahuman sa pagtugyan.
-
-Pangayo alang sa kasamtangan nga quote ug address-based delivery charge sa dili pa mobayad sa 50% nga deposito. Ang labing menos tulo ka adlaw nga pahibalo gihangyo, ug ang pagkaanaa kinahanglan makumpirma. Itago ang mubo nga template sa custom-cake ug housewarming nga mga panid, dili isip usa ka bulag nga giya sa pag-order alang sa matag okasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Isang housewarming cake brief para sa isang bagong tahanan at sa mga bisita nito
-
-Isama ang petsa ng kaganapan, ang bilang ng mga taong kakain ng cake, at kung saan ito ihahain. Ang isang maliit na sambahayan ay maaaring angkop sa 4-pulgada na Bento, habang ang isang pagtitipon ng pamilya ay nangangailangan ng talakayan sa laki gamit ang gabay sa paghahatid ng White Cakes. Sabihin kung mas gusto mo ang buong hiwa o mas maliliit na bahagi pagkatapos kumain para makapagrekomenda ang panaderya ng praktikal na format.
-
-Para sa disenyo, pumili ng isang kulay o detalye ng dekorasyon na akma sa bagong tahanan. Magpadala ng isang reference na larawan at sabihin kung gusto mong i-adapt ang palette, border, o floral na detalye nito. White Cakes hand-pipes buttercream, kaya ang isang sanggunian ay gabay sa halip na isang pangako ng isang eksaktong kopya. Panatilihing maikli ang inskripsiyon at magpadala ng eksaktong spelling.
-
-Kung kailangan ang paghahatid, ibigay ang buong address ng tahanan, kalapit na landmark, numero ng mobile ng receiver, at mga tagubilin sa gate o subdivision. Ang isang tao ay dapat na available sa panahon ng napagkasunduang window at dapat ilipat ang cake sa labas ng direktang araw pagkatapos ng handover.
-
-Hilingin ang kasalukuyang quote at address-based na delivery charge bago bayaran ang 50% na deposito. Ang hindi bababa sa tatlong araw na paunawa ay hinihiling, at ang pagkakaroon ay dapat kumpirmahin. Panatilihin ang maikling template sa custom-cake at housewarming na mga pahina, hindi bilang isang hiwalay na gabay sa pag-order para sa bawat okasyon.
+- Confirm current menu, access, and design details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

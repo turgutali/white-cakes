@@ -1,44 +1,51 @@
 ---
 id: WC-0402
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /journal/housewarming-cake-cebu.html
-english_title: "How to choose a design for housewarming cake in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa bagong tahanan sa Cebu"
+english_title: "How to Choose a Design for a Housewarming Cake in Cebu"
+cebuano_title: "Giunsa Pagpili og Disenyo para sa Housewarming Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Disenyo para sa Housewarming Cake sa Cebu"
 ---
 
-## Choose a housewarming-cake design that suits the new table
+## English
 
-Think about where the cake will be served and who will share it. A small Bento can suit a couple or a few family members; a larger gathering should use the size guide and a confirmed portion recommendation. Once you know the format, choose one colour or decorative detail that feels right for the home. A calm palette, a short welcome message, or a floral finish can each lead the design without crowding the cake.
+# How to Choose a Design for a Housewarming Cake in Cebu
 
-White Cakes offers a 4-inch Bento, Signature Marble, Bouquet Cake, and custom buttercream designs. Signature Marble has a set dusty-blue marbled look; Bouquet Cake is finished with hand-piped flowers; custom work can interpret one reference photo within the selected size. Ask about the price and availability for your exact request rather than assuming every design has a fixed price.
+Choose a housewarming cake design that fits the people, home, and way the cake will be presented. A small gathering may suit a simple welcome message, while a larger event may need a design that can be recognized across a room and still leave enough space for the inscription.
 
-Send the event date, expected cake-eaters, flavour, inscription, and one reference image. If delivering to the new home, provide the complete address, a nearby landmark, receiver's mobile number, and any subdivision gate instructions. The bakery agrees a delivery window and an address-based delivery charge.
+Start with one visual direction: a colour palette, a modest home-related motif, or a clean style that suits the host. If you use a photo of the home or an object as inspiration, explain what element matters and what can change. Avoid sending unrelated references and expecting them to be combined without a clear priority.
 
-Use this choice guide on the existing housewarming and cake-design pages. A separate page needs a real White Cakes housewarming cake image and a specific design decision that is not already covered by the general design guide.
+Ask the bakery how the concept can be made using current techniques. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so an illustration or printed image may require a different interpretation. Confirm lettering, size, flavour, and serving needs together, since the selected design and decoration affect available space.
+
+Consider the delivery route and where the cake will wait before serving. Tall or delicate elements may not suit a difficult handoff. Share the building access details and display surface in the brief, then get confirmation of the workable design. See the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili og Disenyo para sa Housewarming Cake sa Cebu
+
+Pilia ang disenyo nga mohaom sa mga tawo, balay ug paagi sa pagpresentar sa cake. Ang gamay nga panagtapok mahimong angay sa yano nga welcome message; ang mas dakong event mahimong manginahanglan og disenyo nga mailhan sa tibuok lawak ug adunay luna gihapon para sa inskripsiyon.
+
+Sugdi sa usa ka visual direction: kombinasyon sa kolor, malumo nga motif bahin sa balay o limpyo nga estilo para sa host. Kung mogamit og litrato sa balay o butang isip inspirasyon, ipasabot unsang bahin ang importante ug unsay mahimong usbon. Likayi ang walay kalabotang references nga walay klarong prayoridad.
+
+Pangutan-a ang panaderya unsaon paghimo sa konsepto gamit ang kasamtangang teknik. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa mahimong lahi ang paghubad sa drawing o printed nga hulagway. Kumpirmaha dungan ang lettering, gidak-on, flavour ug servings kay makaapekto sa luna ang dekorasyon.
+
+Hunahunaa ang ruta sa delivery ug asa maghulat ang cake sa dili pa i-serve. Mahimong dili angay ang taas o delikadong detalye kon lisod ang handoff. Ipaambit sa brief ang access details sa building ug display surface, dayon pangayo og kumpirmasyon sa mahimo nga disenyo. Tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Disenyo para sa Housewarming Cake sa Cebu
+
+Pumili ng housewarming cake design na babagay sa mga tao, bahay, at paraan ng presentation. Maaaring bagay sa maliit na pagtitipon ang simpleng welcome message; maaaring kailangan ng mas malaking event ng design na makikilala sa buong kuwarto at may sapat pa ring puwang para sa inscription.
+
+Magsimula sa iisang visual direction: palette ng kulay, banayad na motif na may kaugnayan sa bahay, o malinis na estilo na babagay sa host. Kung gagamit ng larawan ng bahay o bagay bilang inspirasyon, ipaliwanag kung aling elemento ang mahalaga at ano ang puwedeng baguhin. Iwasan ang magkakaibang references na walang malinaw na prayoridad.
+
+Itanong sa bakery kung paano magagawa ang konsepto gamit ang kasalukuyang technique. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya maaaring ibang interpretasyon ang kailangan para sa illustration o printed image. Kumpirmahin nang magkasama ang lettering, sukat, flavour, at servings dahil nakaaapekto sa espasyo ang napiling design at dekorasyon.
+
+Isaalang-alang ang delivery route at kung saan maghihintay ang cake bago ihain. Maaaring hindi bagay ang matataas o marurupok na detalye kung mahirap ang handoff. Ibahagi sa brief ang access details ng building at display surface, saka humingi ng kumpirmasyon sa kayang design. Tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug housewarming-cake nga disenyo nga haum sa bag-ong lamesa
-
-Hunahunaa kon asa i-serve ang cake ug kinsay mopaambit niini. Ang usa ka gamay nga Bento mahimong mohaum sa usa ka magtiayon o pipila ka mga sakop sa pamilya; ang usa ka mas dako nga panagtapok kinahanglan nga mogamit sa giya sa gidak-on ug usa ka gikumpirma nga rekomendasyon sa bahin. Kung nahibal-an nimo ang format, pagpili usa ka kolor o detalye sa dekorasyon nga gibati nga angay alang sa balay. Ang usa ka kalmado nga palette, usa ka mubo nga mensahe sa pag-abiabi, o usa ka bulak nga pagkahuman mahimo’g manguna ang matag usa sa disenyo nga dili mapuno ang cake.
-
-Nagtanyag ang White Cakes og 4-pulgada nga Bento, Signature Marble, Bouquet Cake, ug custom nga mga disenyo sa buttercream. Ang Signature Marble adunay set nga abogon-asul nga marmol nga hitsura; Ang Bouquet Cake nahuman sa mga bulak sa kamot nga tubo; Ang custom nga trabaho makahubad sa usa ka reference nga litrato sulod sa pinili nga gidak-on. Pangutan-a ang mahitungod sa presyo ug pagkaanaa alang sa imong eksaktong hangyo imbes nga maghunahuna nga ang matag disenyo adunay pirmi nga presyo.
-
-Ipadala ang petsa sa panghitabo, gipaabot nga mga cake-eaters, lami, inskripsiyon, ug usa ka reference nga larawan. Kung maghatud sa bag-ong balay, ihatag ang kompleto nga adres, usa ka duol nga landmark, numero sa mobile sa tigdawat, ug bisan unsang mga panudlo sa gate sa subdivision. Ang panaderya miuyon sa usa ka delivery window ug usa ka address-based delivery charge.
-
-Gamita kini nga giya sa pagpili sa kasamtangan nga housewarming ug mga panid sa disenyo sa cake. Ang usa ka bulag nga panid nanginahanglan usa ka tinuod nga White Cakes housewarming cake nga imahe ug usa ka piho nga desisyon sa disenyo nga wala pa nasakup sa kinatibuk-ang giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng housewarming-cake na disenyo na angkop sa bagong mesa
-
-Isipin kung saan ihahain ang cake at kung sino ang ibabahagi nito. Ang isang maliit na Bento ay maaaring angkop sa isang mag-asawa o ilang miyembro ng pamilya; ang isang mas malaking pagtitipon ay dapat gumamit ng gabay sa laki at isang kumpirmadong rekomendasyon sa bahagi. Kapag alam mo na ang format, pumili ng isang kulay o detalyeng pampalamuti na sa tingin ay tama para sa tahanan. Ang isang kalmadong palette, isang maikling welcome message, o isang floral finish ay maaaring humantong sa bawat disenyo nang hindi sinisikip ang cake.
-
-Nag-aalok ang White Cakes ng 4-inch na Bento, Signature Marble, Bouquet Cake, at mga custom na disenyo ng buttercream. Ang Signature Marble ay may set na maalikabok-asul na marmol na hitsura; Ang Bouquet Cake ay tapos na sa hand-piped na bulaklak; Ang pasadyang gawain ay maaaring bigyang-kahulugan ang isang reference na larawan sa loob ng napiling laki. Magtanong tungkol sa presyo at availability para sa iyong eksaktong kahilingan sa halip na ipagpalagay na ang bawat disenyo ay may nakapirming presyo.
-
-Ipadala ang petsa ng kaganapan, inaasahang mga kumakain ng cake, lasa, inskripsiyon, at isang reference na larawan. Kung maghahatid sa bagong tahanan, ibigay ang kumpletong address, isang kalapit na landmark, numero ng mobile ng receiver, at anumang mga tagubilin sa gate ng subdivision. Sumasang-ayon ang panaderya sa isang window ng paghahatid at isang singil sa paghahatid na nakabatay sa address.
-
-Gamitin ang pagpipiliang gabay na ito sa mga kasalukuyang page ng housewarming at cake-design. Ang isang hiwalay na pahina ay nangangailangan ng isang tunay na White Cakes housewarming cake na imahe at isang partikular na desisyon sa disenyo na hindi pa saklaw ng pangkalahatang gabay sa disenyo.
+- Confirm current design methods and delivery handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

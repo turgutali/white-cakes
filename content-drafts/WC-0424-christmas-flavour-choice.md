@@ -1,44 +1,51 @@
 ---
 id: WC-0424
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/choosing-a-flavor.html
-english_title: "How to choose a flavour for Christmas cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa Pasko sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa Pasko sa Cebu"
+english_title: "How to Choose a Flavour for a Christmas Cake in Cebu"
+cebuano_title: "Giunsa Pagpili sa Flavour para sa Christmas Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Flavour para sa Christmas Cake sa Cebu"
 ---
 
-## Choose a Christmas cake flavour for the people at the table
+## English
 
-Start with the family's preferences and the rest of the holiday meal. White Cakes' current menu includes Chocolate, Vanilla, Ube, Mango, and Red Velvet. Confirm which flavours are available for the requested size and date; do not assume every option is offered for each custom design.
+# How to Choose a Flavour for a Christmas Cake in Cebu
 
-If guests have allergies or dietary restrictions, ask the bakery directly about ingredients and preparation. Do not infer safety or a specific ingredient from a flavour name. If the bakery cannot confirm a requirement, avoid describing the cake as suitable for that guest.
+Choose the flavour around the people who will share the Christmas cake and the rest of the menu. A family dinner may have a known favourite, while a larger gathering can include guests with different preferences. Ask the host whether the cake is the only dessert and how many people are expected to eat it.
 
-Consider how the cake will be served. A large Christmas meal may include other desserts, so share how many people will actually eat cake and whether you expect small or full slices. Current estimates are 8–12 party portions for 6 inches and 16–24 for 8 inches. Ask White Cakes to confirm the size and flavour.
+Check the current White Cakes menu and confirm seasonal availability for your date. A flavour shown in an older post or holiday photo may not be offered in the same size or during every busy period. If you are deciding between options, ask the bakery to explain the differences and what is currently available.
 
-Holiday dates should be checked early; allow at least three days' notice. Keep verified flavour details on the central menu guide and link to seasonal ordering information.
+Raise ingredient or dietary concerns before placing the order. Ask the bakery directly what it can accommodate; do not infer allergy safety from the name of a flavour, a seasonal label, or a prior order.
+
+Write the confirmed flavour into the order summary along with cake size, design, inscription, date, and delivery plan. If you want to request a split flavour, ask whether it is possible for the selected size and product. For the broader menu guide, see [choosing a cake flavour in Cebu](/journal/choosing-a-flavor.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour para sa Christmas Cake sa Cebu
+
+Pilia ang flavour base sa mga mopaambit sa Christmas cake ug sa ubang pagkaon. Mahimong nailhan na ang paborito sa panihapon sa pamilya, samtang adunay nagkalainlaing gusto ang bisita sa mas dakong tapok. Pangutan-a ang host kon cake ra ba ang dessert ug pila ka tawo ang gipaabot mokaon niini.
+
+Susiha ang kasamtangang menu sa White Cakes ug kumpirmaha ang seasonal availability sa petsa nga gusto nimo. Mahimong dili ihalad sa samang gidak-on o panahon nga busy ang flavour nga makita sa daang post o holiday photo. Kung nagpili tali sa mga kapilian, pangutan-a ang panaderya sa kalainan niini ug unsay available karon.
+
+Ipaambit ang kabalaka sa sangkap o dietary restriction sa dili pa mo-order. Pangutan-a direkta ang panaderya unsay mahimo niini; ayaw tagna ang kaluwasan sa allergy base sa ngalan sa flavour, seasonal label o karaang order.
+
+Isulat ang kumpirmadong flavour sa order summary uban sa gidak-on, disenyo, inskripsiyon, petsa ug delivery plan. Kung gusto og split flavour, pangutan-a kon mahimo ba kini sa napiling gidak-on ug produkto. Para sa kinatibuk-ang giya sa menu, tan-awa ang [choosing a cake flavour in Cebu](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano Pumili ng Flavour para sa Christmas Cake sa Cebu
+
+Piliin ang flavour ayon sa mga magsasalo sa Christmas cake at iba pang ihahain. Maaaring alam na ang paborito sa hapunan ng pamilya, samantalang maaaring magkakaiba ang gusto ng mga bisita sa mas malaking pagtitipon. Tanungin ang host kung cake lang ang dessert at ilang tao ang inaasahang kakain nito.
+
+Tingnan ang kasalukuyang menu ng White Cakes at kumpirmahin ang seasonal availability sa petsa mo. Maaaring hindi iaalok sa parehong sukat o sa bawat abalang panahon ang flavour na nasa lumang post o holiday photo. Kung pumipili sa ilang opsyon, itanong sa bakery ang pagkakaiba ng mga ito at kung ano ang available ngayon.
+
+Sabihin ang mga alalahanin sa sangkap o dietary restriction bago mag-order. Direktang itanong sa bakery kung ano ang kaya nitong ibigay; huwag hulaan ang allergy safety batay sa pangalan ng flavour, seasonal label, o dating order.
+
+Isulat ang kumpirmadong flavour sa order summary kasama ng sukat, design, inscription, petsa, at delivery plan. Kung gusto mong humiling ng split flavour, itanong kung posible ito para sa napiling sukat at produkto. Para sa pangkalahatang gabay sa menu, tingnan ang [choosing a cake flavour in Cebu](/journal/choosing-a-flavor.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili usa ka lami sa cake sa Pasko alang sa mga tawo sa lamesa
-
-Pagsugod sa mga gusto sa pamilya ug sa nahabilin nga panihapon sa holiday. Ang kasamtangang menu sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet. Pagkumpirma kung unsang mga lami ang magamit alang sa gihangyo nga gidak-on ug petsa; ayaw hunahunaa nga ang matag kapilian gitanyag alang sa matag naandan nga disenyo.
-
-Kung ang mga bisita adunay mga alerdyi o mga pagdili sa pagkaon, pangutana sa panaderya direkta bahin sa mga sangkap ug pag-andam. Ayaw isulti ang kaluwasan o usa ka piho nga sangkap gikan sa usa ka ngalan sa lami. Kung dili makumpirma sa panaderya ang usa ka kinahanglanon, likayi ang paghulagway sa cake nga angay alang sa bisita.
-
-Tagda kon unsaon pagsilbi ang cake. Ang usa ka dako nga panihapon sa Pasko mahimong maglakip sa ubang mga dessert, busa ipaambit kung pila ka tawo ang aktuwal nga mokaon sa cake ug kung nagdahom ka nga gamay o puno nga mga hiwa. Ang kasamtangan nga mga banabana mao ang 8–12 ka bahin sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Pangutan-a ang White Cake aron makumpirma ang gidak-on ug lami.
-
-Ang mga petsa sa holiday kinahanglan nga susihon og sayo; tugoti ang labing menos tulo ka adlaw nga pahibalo. Ipadayon ang gipamatud-an nga mga detalye sa lami sa sentro nga giya sa menu ug i-link sa kasayuran sa pag-order sa panahon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng lasa ng Christmas cake para sa mga tao sa hapag
-
-Magsimula sa mga kagustuhan ng pamilya at sa natitirang pagkain sa holiday. Kasama sa kasalukuyang menu ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet. Kumpirmahin kung aling mga lasa ang magagamit para sa hiniling na laki at petsa; huwag ipagpalagay na ang bawat opsyon ay inaalok para sa bawat custom na disenyo.
-
-Kung ang mga bisita ay may allergy o mga paghihigpit sa pagkain, tanungin ang panaderya nang direkta tungkol sa mga sangkap at paghahanda. Huwag magpahiwatig ng kaligtasan o isang partikular na sangkap mula sa isang pangalan ng lasa. Kung hindi makumpirma ng panaderya ang isang kinakailangan, iwasang ilarawan ang cake bilang angkop para sa bisitang iyon.
-
-Isaalang-alang kung paano ihain ang cake. Ang isang malaking pagkain sa Pasko ay maaaring may kasamang iba pang mga dessert, kaya ibahagi kung gaano karaming tao ang aktwal na kakain ng cake at kung inaasahan mong maliit o buong hiwa. Ang kasalukuyang mga pagtatantya ay 8–12 bahagi ng partido para sa 6 na pulgada at 16–24 para sa 8 pulgada. Tanungin ang White Cake upang kumpirmahin ang laki at lasa.
-
-Ang mga petsa ng bakasyon ay dapat na masuri nang maaga; payagan ang hindi bababa sa tatlong araw na paunawa. Panatilihin ang na-verify na mga detalye ng lasa sa gabay sa gitnang menu at i-link sa pana-panahong impormasyon sa pag-order.
+- Verify seasonal menu and ingredient handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,51 @@
 ---
 id: WC-0398
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Common ordering mistakes to avoid with congratulations cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa pagbati sa Cebu"
+english_title: "Common Congratulations Cake Ordering Mistakes to Avoid in Cebu"
+cebuano_title: "Mga Kasagarang Sayop sa Pag-order og Congratulations Cake nga Likayan sa Cebu"
+tagalog_title: "Mga Karaniwang Pagkakamali sa Pag-order ng Congratulations Cake na Dapat Iwasan sa Cebu"
 ---
 
-## Confirm the achievement message, recipient, and event date together
+## English
 
-A congratulations cake can be for a new job, graduation, promotion, or another milestone. State which occasion it celebrates and who should receive it, then send the exact name and message. Avoid leaving the wording implied by a reference photo or asking the bakery to guess which person or achievement matters.
+# Common Congratulations Cake Ordering Mistakes to Avoid in Cebu
 
-Provide the size, flavour, design priorities, delivery or pickup address, and requested date in the same brief. Ask for the full quote and wait for availability confirmation before paying. If the cake is a surprise, use a separate coordinator contact to prevent accidental disclosure.
+One mistake is sending the bakery only the word “congratulations” and a photo. State the occasion, date, serving range, flavour preference, exact inscription, and delivery or pickup plan. The details for a graduation cake may differ from those for a promotion or team celebration.
 
-Add this checklist to the central order and custom-brief guides. A separate congratulations story needs a real, permission-cleared order and a distinct detail worth sharing.
+Do not send a folder of references without explaining what each one means. Identify the colour, lettering, symbol, or layout you want adapted, and tell the bakery what can change. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets; confirm how a school or company mark can be represented before including it in the brief.
+
+Avoid waiting until the last moment to confirm names, titles, or the receiver’s contact details. Send the final wording in writing, check every spelling, and make sure someone can receive the cake throughout the delivery window. Ask the venue whether it accepts outside cakes before arranging a delivery there.
+
+Do not pay against an incomplete quote. Confirm the design, size, price, delivery details, and current payment terms in writing first. The site currently describes a 50% deposit after agreement, but the bakery should confirm current terms directly. See [how to order a cake in Cebu](/journal/how-to-order.html) and the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Mga Kasagarang Sayop sa Pag-order og Congratulations Cake nga Likayan sa Cebu
+
+Usa ka sayop ang pagpadala sa panaderya og pulong nga “congratulations” ug litrato ra. Isulti ang okasyon, petsa, range sa servings, flavour preference, eksaktong inskripsiyon ug delivery o pickup plan. Lahi ang detalye sa graduation cake kumpara sa cake para sa promotion o selebrasyon sa team.
+
+Ayaw pagpadala og daghang reference nga walay pagpasabot sa matag usa. Tinoa ang kolor, lettering, simbolo o layout nga ipasibo ug unsay mahimong usbon. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets; kumpirmaha unsaon paghulagway sa marka sa eskwelahan o kompanya sa dili pa iapil sa brief.
+
+Likayi ang paghulat sa kataposang higayon sa pagkumpirma sa ngalan, titulo o contact sa modawat. Ipadala sa sinulat ang pinal nga mensahe, susiha ang spelling ug siguroha nga adunay modawat sulod sa delivery window. Pangutan-a ang venue kon modawat ba kini og cake gikan sa gawas sa dili pa magpa-deliver didto.
+
+Ayaw mobayad base sa kulang nga quote. Kumpirmaha una sa sinulat ang disenyo, gidak-on, presyo, delivery details ug kasamtangang terms sa bayad. Gihulagway sa site ang 50% nga deposit human mouyon, apan kumpirmaha kini direkta sa panaderya. Tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html) ug [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Mga Karaniwang Pagkakamali sa Pag-order ng Congratulations Cake na Dapat Iwasan sa Cebu
+
+Isang pagkakamali ang pagpapadala sa bakery ng salitang “congratulations” at larawan lang. Sabihin ang okasyon, petsa, range ng servings, flavour preference, eksaktong inscription, at delivery o pickup plan. Maaaring magkaiba ang detalye para sa graduation cake at cake para sa promotion o selebrasyon ng team.
+
+Huwag magpadala ng folder ng references nang hindi ipinapaliwanag ang bawat isa. Tukuyin ang kulay, lettering, simbolo, o layout na iaangkop at sabihin kung ano ang puwedeng baguhin. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets; kumpirmahin kung paano mailalarawan ang marka ng paaralan o kumpanya bago ito isama sa brief.
+
+Iwasang hintayin ang huling sandali para kumpirmahin ang pangalan, titulo, o contact details ng tatanggap. Ipadala nang nakasulat ang pinal na wording, suriin ang bawat spelling, at tiyaking may tatanggap sa buong delivery window. Tanungin ang venue kung tumatanggap ito ng dalang cake bago magpa-deliver doon.
+
+Huwag magbayad batay sa kulang na quote. Kumpirmahin muna sa sulat ang design, sukat, presyo, delivery details, at kasalukuyang payment terms. Inilalarawan ng site ang 50% deposit matapos ang kasunduan, pero dapat direktang tiyakin ng bakery ang kasalukuyang terms. Tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html) at ang [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang nakab-ot nga mensahe, nakadawat, ug petsa sa panghitabo nga magkauban
-
-Ang usa ka congratulations cake mahimong alang sa usa ka bag-ong trabaho, graduation, promosyon, o laing milestone. Isulti kung unsang okasyon ang gisaulog niini ug kung kinsa ang makadawat niini, dayon ipadala ang eksaktong ngalan ug mensahe. Likayi nga biyaan ang mga pulong nga gipasabot sa usa ka reference nga litrato o hangyoa ang panaderya sa pagtag-an kon kinsa nga tawo o kalampusan ang importante.
-
-Ihatag ang gidak-on, lami, mga prayoridad sa disenyo, delivery o pickup address, ug gihangyo nga petsa sa samang mubo. Pangutan-a ang tibuok nga quote ug hulata ang kumpirmasyon sa pagkaanaa sa dili pa mobayad. Kung ang cake usa ka sorpresa, gamita ang usa ka bulag nga kontak sa coordinator aron malikayan ang aksidente nga pagbutyag.
-
-Idugang kini nga checklist sa sentral nga han-ay ug custom-mubo nga mga giya. Ang usa ka bulag nga istorya sa pahalipay nanginahanglan usa ka tinuud, gilimpyohan sa pagtugot nga order ug usa ka lahi nga detalye nga angay ipaambit.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang mensahe ng tagumpay, tatanggap, at petsa ng kaganapan nang magkasama
-
-Ang cake ng pagbati ay maaaring para sa isang bagong trabaho, graduation, promosyon, o isa pang milestone. Sabihin kung aling okasyon ang ipinagdiriwang nito at kung sino ang dapat tumanggap nito, pagkatapos ay ipadala ang eksaktong pangalan at mensahe. Iwasang iwan ang mga salita na ipinahiwatig ng isang reference na larawan o hilingin sa panaderya na hulaan kung sinong tao o tagumpay ang mahalaga.
-
-Ibigay ang laki, lasa, mga priyoridad sa disenyo, delivery o pickup address, at hiniling na petsa sa parehong brief. Hilingin ang buong quote at hintayin ang kumpirmasyon sa availability bago magbayad. Kung ang cake ay isang sorpresa, gumamit ng isang hiwalay na contact ng coordinator upang maiwasan ang hindi sinasadyang pagsisiwalat.
-
-Idagdag ang checklist na ito sa central order at custom-brief na gabay. Ang isang hiwalay na kuwento ng pagbati ay nangangailangan ng isang tunay, na-clear ng pahintulot na order at isang natatanging detalye na nagkakahalaga ng pagbabahagi.
+- Reconfirm current design capabilities, payment terms, and delivery process before publication.
+- Cebuano and Tagalog drafts need native editorial review.

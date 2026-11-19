@@ -1,44 +1,51 @@
 ---
 id: WC-0413
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to plan housewarming cake in Cebu"
-cebuano_title: "Giunsa pagplano ang cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Paano planuhin ang cake para sa bagong tahanan sa Cebu"
+english_title: "How to Plan the Size of a Housewarming Cake in Cebu"
+cebuano_title: "Giunsa Pagplano sa Gidak-on sa Housewarming Cake sa Cebu"
+tagalog_title: "Paano Planuhin ang Sukat ng Housewarming Cake sa Cebu"
 ---
 
-## Plan the cake size for the housewarming guests
+## English
 
-Estimate how many people will actually eat cake at the new home. A housewarming may be a small family visit or a larger open house, and guests may arrive at different times. Decide whether you need full slices or small portions and whether other desserts will be served.
+# How to Plan the Size of a Housewarming Cake in Cebu
 
-White Cakes currently estimates 8–12 party slices for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. These are approximate ranges. Ask the bakery to confirm the size based on the expected cake-eater count; do not assume every person invited will take a slice.
+Housewarming cake size depends on how many people will eat it and how the new home will host them. Count the likely guests at serving time, not just the invitations. If some people may arrive after the cake is cut or leave early, share that context with the bakery.
 
-If only two or three people will share cake, the 4-inch Bento serves about two generous or three modest portions. Include the date, flavour, design, inscription, and delivery address. Because it is a new home, provide a landmark and a receiver's mobile number. Confirm delivery availability and fee. The 50% deposit confirms the order after details are settled.
+The site’s size chart lists approximate portions for selected cakes: 4-inch Bento at about two generous or three modest after-meal servings; 6-inch round at approximately 8–12 party slices; 8-inch round at about 16–24; and a common 6- plus 8-inch two-tier cake at roughly 30–36 party slices. These are estimates, not guaranteed counts.
 
-Keep the serving ranges in the central sizing guide and link to the housewarming page for delivery and design details.
+Consider whether cake is the only dessert and how it will be sliced. A small gathering after a meal may use modest portions, while a larger open house may need more servings. Cake height, decorations, and cutting style can affect the actual yield, so ask the bakery to confirm a size based on your plan.
+
+Also measure the available display surface and consider the path from the entrance to the table. A cake can fit the guest count but still be difficult to carry or display in a busy room. For the full chart, use the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Gidak-on sa Housewarming Cake sa Cebu
+
+Magdepende ang gidak-on sa housewarming cake sa ihap sa mokaon niini ug sa paagi sa pagdawat sa mga bisita sa bag-ong balay. Ihapa ang lagmit motambong sa oras sa pag-serve, dili ang imbitasyon lang. Kung adunay moabot human hiwaon ang cake o sayo nga mobiya, isulti kini sa panaderya.
+
+Naglista ang size chart sa site og banabana sa pipila ka cake: 4-inch Bento nga mga duha ka dagkong o tulo ka gagmay nga serving human mokaon; 6-inch round nga mga 8–12 ka party slice; 8-inch round nga mga 16–24; ug kasagarang two-tier nga 6 ug 8 pulgada nga mga 30–36 ka party slice. Banabana kini, dili garantiya.
+
+Hunahunaa kon cake ra ba ang dessert ug unsaon paghiwa. Mahimong gagmay nga serving ang gamiton human sa panihapon; ang mas dakong open house mahimong manginahanglan og daghan. Makaapekto sa tinuod nga yield ang kataas, dekorasyon ug paghiwa, busa pangutan-a ang panaderya sa angay nga gidak-on base sa plano.
+
+Sukda usab ang display surface ug hunahunaa ang agianan gikan sa entrada paingon sa lamesa. Mahimong igo ang cake sa ihap sa bisita apan lisod gihapon dad-on o ipakita sa huot nga lawak. Para sa tibuok chart, gamita ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Planuhin ang Sukat ng Housewarming Cake sa Cebu
+
+Nakadepende ang sukat ng housewarming cake sa dami ng kakain at kung paano tatanggapin ng bagong bahay ang mga bisita. Bilangin ang malamang naroon sa oras ng paghahain, hindi lamang ang mga inimbitahan. Kung may darating pagkatapos mahiwa ang cake o aalis nang maaga, sabihin ang kontekstong iyon sa bakery.
+
+Nakalista sa size chart ng site ang tinatayang portions para sa ilang cake: 4-inch Bento na humigit-kumulang dalawang masaganang o tatlong katamtamang serving pagkatapos kumain; 6-inch round na mga 8–12 party slice; 8-inch round na mga 16–24; at karaniwang two-tier na 6 at 8 pulgada na mga 30–36 party slice. Mga tantiya ito, hindi garantisadong bilang.
+
+Pag-isipan kung cake lang ang dessert at paano ito hihiwain. Maaaring maliliit na portion ang ihain pagkatapos ng hapunan, samantalang maaaring mangailangan ng mas marami ang malaking open house. Naaapektuhan ng taas, dekorasyon, at paraan ng paghiwa ang aktuwal na yield, kaya itanong sa bakery ang angkop na sukat batay sa plano.
+
+Sukatin din ang display surface at isipin ang daan mula pasukan hanggang mesa. Maaaring sapat ang cake sa bilang ng bisita pero mahirap pa ring dalhin o ipakita sa mataong kuwarto. Para sa buong chart, gamitin ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha ang gidak-on sa cake para sa mga bisita nga mu-housewarming
-
-Pagbanabana kon pila ka tawo ang aktuwal nga mokaon ug cake sa bag-ong balay. Ang usa ka housewarming mahimong usa ka gamay nga pagbisita sa pamilya o usa ka mas dako nga open house, ug ang mga bisita mahimong moabut sa lainlaing mga oras. Desisyuni kung kinahanglan nimo ang tibuuk nga mga hiwa o gagmay nga mga bahin ug kung ang ubang mga panam-is isilbi.
-
-Ang White Cakes sa pagkakaron nagbanabana sa 8–12 ka party slices sa 6 ka pulgada, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier cake. Kini mao ang gibana-bana nga mga han-ay. Hangyoa ang panaderya sa pagkumpirma sa gidak-on base sa gipaabot nga ihap sa cake-eater; ayaw hunahunaa nga ang matag tawo nga giimbitar mokuha usa ka hiwa.
-
-Kung duha o tulo lang ka tawo ang makigbahin sa cake, ang 4-pulgada nga Bento nagsilbi mga duha o tulo ka kasarangan nga bahin. Ilakip ang petsa, lami, disenyo, inskripsiyon, ug adres sa pagpadala. Tungod kay bag-o kini nga balay, paghatag usa ka timaan ug numero sa mobile sa tigdawat. Kumpirma ang pagkaanaa sa pagpadala ug bayad. Ang 50% nga deposito nagpamatuod sa order human masulbad ang mga detalye.
-
-Itago ang mga sakup sa pagserbisyo sa sentro nga giya sa pagsukod ug i-link sa panid sa housewarming alang sa mga detalye sa paghatud ug disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin ang laki ng cake para sa mga bisitang housewarming
-
-Tantyahin kung gaano karaming tao ang aktwal na kakain ng cake sa bagong tahanan. Ang housewarming ay maaaring isang maliit na pagbisita ng pamilya o isang mas malaking open house, at maaaring dumating ang mga bisita sa iba't ibang oras. Magpasya kung kailangan mo ng buong hiwa o maliliit na bahagi at kung iba pang mga dessert ang ihahain.
-
-Kasalukuyang tinatantya ng White Cakes ang 8–12 party slice para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa isang 6+8-pulgadang two-tier na cake. Ito ay mga tinatayang saklaw. Hilingin sa panaderya na kumpirmahin ang laki batay sa inaasahang bilang ng kumakain ng cake; huwag ipagpalagay na ang bawat taong inimbitahan ay kukuha ng isang hiwa.
-
-Kung dalawa o tatlong tao lang ang magsasalo ng cake, ang 4-inch na Bento ay naghahain ng halos dalawa o tatlong katamtamang bahagi. Isama ang petsa, lasa, disenyo, inskripsiyon, at address ng paghahatid. Dahil isa itong bagong tahanan, magbigay ng landmark at mobile number ng receiver. Kumpirmahin ang availability at bayad sa paghahatid. Kinukumpirma ng 50% na deposito ang order pagkatapos ma-settle ang mga detalye.
-
-Panatilihin ang mga hanay ng paghahatid sa gabay sa gitnang sukat at i-link sa page ng housewarming para sa mga detalye ng paghahatid at disenyo.
+- Reconfirm size estimates before publication; actual servings vary.
+- Cebuano and Tagalog drafts need native editorial review.

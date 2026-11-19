@@ -1,44 +1,51 @@
 ---
 id: WC-0426
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: "How to keep safe and cool until serving Christmas cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa Pasko sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa Pasko sa Cebu"
+english_title: "How to Keep a Christmas Cake Safe and Cool Until Serving in Cebu"
+cebuano_title: "Giunsa Pagpabiling Luwas ug Bugnaw ang Christmas Cake hangtod I-serve sa Cebu"
+tagalog_title: "Paano Panatilihing Ligtas at Malamig ang Christmas Cake Hanggang Ihain sa Cebu"
 ---
 
-## Store Christmas cake safely before the holiday meal
+## English
 
-If the cake arrives before guests, choose a level, cool place away from direct sunlight and heat. A car is not a safe place to store it while the family finishes preparations. Ask White Cakes whether the specific cake should be refrigerated, especially if it will wait several hours, and follow the bakery's guidance.
+# How to Keep a Christmas Cake Safe and Cool Until Serving in Cebu
 
-Plan ahead for refrigerator space if needed. Let the person receiving the cake know where it will be kept and when it should be brought out. Avoid moving the box repeatedly or leaving it on a warm buffet table before serving. Holiday rooms can be busy and warm; keep the cake away from appliances and direct sun.
+Decide where the cake will wait between delivery and the holiday meal. A shaded indoor spot is usually easier to manage than a sunny window, warm vehicle, or outdoor table. Ask White Cakes for storage instructions for the exact cake ordered; the right handling can depend on its fillings and decorations.
 
-When arranging delivery, give the full address, landmark, local contact, and preferred window. Confirm that the recipient can accept it and verify any holiday delivery fee or availability. White Cakes requires at least three days' notice for made-to-order cakes; a 50% deposit confirms the agreed order.
+If the event is at a home, choose a stable, level place away from direct sunlight, heat-producing appliances, children’s activity, and frequent handling. If it is at an office or restaurant, confirm who will receive the cake and whether a suitable storage space is available. Do not assume venue staff will refrigerate or move it without agreement.
 
-Use only storage instructions verified by White Cakes in the shared heat-care guide. Do not invent a holiday-specific safe holding time.
+If the meal is delayed or the cake will be displayed outdoors, ask the bakery for product-specific advice before deciding how long it can wait. Do not use appearance alone to judge whether storage was safe. Keep the cake level and follow the instructions given for that order.
+
+White Cakes confirms a delivery window, not an exact minute, so allow a buffer before serving. For Cebu heat and buttercream care, see the [cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Cebuano
+
+# Giunsa Pagpabiling Luwas ug Bugnaw ang Christmas Cake hangtod I-serve sa Cebu
+
+Desisyoni asa maghulat ang cake tali sa delivery ug holiday meal. Mas sayon kasagarang atimanon ang landong nga lugar sulod kaysa bintana nga initan sa adlaw, init nga sakyanan o lamesa sa gawas. Pangayo og storage instructions sa White Cakes para sa eksaktong cake; mahimong magdepende ang pag-atiman sa filling ug dekorasyon.
+
+Kung sa balay ang event, pagpili og lig-on ug patag nga dapit nga layo sa direktang adlaw, appliance nga nagpagawas og kainit, lihok sa bata ug sige nga paghawid. Kung sa opisina o restaurant, kumpirmaha kinsa ang modawat ug kon adunay angay nga storage space. Ayaw pagtuo nga i-refrigerate o ibalhin sa staff ang cake nga walay sabot.
+
+Kung malangan ang pagkaon o ipakita ang cake sa gawas, pangayo sa panaderya og tambag para sa produkto sa dili pa magdesisyon pila kini ka dugay maghulat. Dili igo ang hitsura lang aron mahibaloan kon luwas ang pagtipig. Ibutang nga patag ug sunda ang instruksyon para sa order.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa pagbilin og buffer sa dili pa i-serve. Para sa kainit sa Cebu ug buttercream, tan-awa ang [cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Tagalog
+
+# Paano Panatilihing Ligtas at Malamig ang Christmas Cake Hanggang Ihain sa Cebu
+
+Pagpasiyahan kung saan maghihintay ang cake mula delivery hanggang holiday meal. Karaniwang mas madaling pangasiwaan ang may-lilim na lugar sa loob kaysa bintanang nasisikatan ng araw, mainit na sasakyan, o mesa sa labas. Humingi sa White Cakes ng storage instructions para sa eksaktong cake; maaaring nakadepende ang paghawak sa filling at dekorasyon.
+
+Kung sa bahay ang event, pumili ng matatag at patag na lugar na malayo sa direktang araw, appliance na naglalabas ng init, gawain ng mga bata, at madalas na paghawak. Kung sa opisina o restaurant, kumpirmahin kung sino ang tatanggap at kung may angkop na storage space. Huwag ipalagay na ilalagay sa refrigerator o ililipat ito ng staff nang walang usapan.
+
+Kung maaantala ang pagkain o outdoor ipapakita ang cake, humingi sa bakery ng payo para sa partikular na produkto bago magpasya kung gaano ito katagal maaaring maghintay. Hindi sapat ang itsura para malaman kung ligtas ang storage. Panatilihing patag ang cake at sundin ang tagubiling ibinigay para sa order.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya maglaan ng palugit bago ihain. Para sa init sa Cebu at buttercream, tingnan ang [cake care guide](/journal/buttercream-in-cebu-heat.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Tipigi ang cake sa Pasko nga luwas sa dili pa ang panihapon sa holiday
-
-Kung ang cake moabut sa wala pa ang mga bisita, pagpili sa usa ka lebel, bugnaw nga lugar nga layo sa direkta nga adlaw ug init. Ang usa ka sakyanan dili usa ka luwas nga lugar nga tipigan kini samtang ang pamilya mahuman sa mga pagpangandam. Pangutan-a ang White Cakes kung ang espesipikong cake kinahanglan ba nga ibutang sa refrigerator, labi na kung kini maghulat daghang oras, ug sunda ang giya sa panaderya.
-
-Pagplano daan alang sa luna sa refrigerator kon gikinahanglan. Pahibaloa ang tawo nga nakadawat sa cake kung asa kini ibutang ug kanus-a kini dad-on. Likayi ang pagbalhin sa kahon nga balik-balikon o ibilin kini sa mainit nga buffet table sa dili pa i-serve. Ang mga lawak sa bakasyon mahimong puliki ug init; ipalayo ang cake gikan sa mga appliances ug direkta nga adlaw.
-
-Kung maghikay sa paghatod, ihatag ang tibuok adres, landmark, lokal nga kontak, ug gusto nga bintana. Kumpirma nga ang nakadawat makadawat niini ug i-verify ang bisan unsang bayad sa pagpadala sa holiday o pagkaanaa. Ang mga White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Gamita lamang ang mga instruksiyon sa pagtipig nga gipamatud-an sa White Cakes sa gipaambit nga giya sa pag-atiman sa init. Ayaw pag-imbento og usa ka piho nga holiday nga luwas nga oras sa pagtipig.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ligtas na mag-imbak ng Christmas cake bago ang holiday meal
-
-Kung ang cake ay dumating bago ang mga bisita, pumili ng isang antas, malamig na lugar na malayo sa direktang sikat ng araw at init. Ang kotse ay hindi isang ligtas na lugar upang iimbak ito habang tinatapos ng pamilya ang paghahanda. Tanungin ang White Cakes kung ang partikular na cake ay dapat palamigin, lalo na kung maghihintay ito ng ilang oras, at sundin ang patnubay ng panaderya.
-
-Magplano nang maaga para sa espasyo sa refrigerator kung kinakailangan. Ipaalam sa taong tumatanggap ng cake kung saan ito itatago at kung kailan ito dapat ilabas. Iwasang ilipat ang kahon nang paulit-ulit o iwanan ito sa mainit na buffet table bago ihain. Maaaring maging abala at mainit ang mga holiday room; ilayo ang cake sa mga appliances at direktang araw.
-
-Kapag nag-aayos ng paghahatid, ibigay ang buong address, landmark, lokal na contact, at gustong window. Kumpirmahin na matatanggap ito ng tatanggap at i-verify ang anumang bayad sa paghahatid ng holiday o availability. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Gumamit lamang ng mga tagubilin sa pag-iimbak na na-verify ng White Cakes sa nakabahaging gabay sa pangangalaga sa init. Huwag mag-imbento ng oras ng ligtas na paghawak na partikular sa holiday.
+- Confirm storage guidance for the ordered cake before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,51 @@
 ---
 id: WC-0408
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: "What to write on housewarming cake in Cebu"
-cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa bagong tahanan sa Cebu"
+english_title: "What to Write on a Housewarming Cake in Cebu"
+cebuano_title: "Unsa ang Isulat sa Housewarming Cake sa Cebu"
+tagalog_title: "Ano ang Isusulat sa Housewarming Cake sa Cebu"
 ---
 
-## Choose a short message that welcomes the family to the new home
+## English
 
-A housewarming inscription can welcome the owners, name the family, or add a brief phrase such as “Home sweet home.” Keep it short so the letters remain easy to read and the design still has open space. If the new home has a family nickname, confirm that the recipients are comfortable seeing it on the cake.
+# What to Write on a Housewarming Cake in Cebu
 
-Send the exact wording and spelling when ordering. Ask whether the message fits the chosen cake size and decoration. A longer greeting may work better on a separate card, especially if the cake includes a house illustration or detailed border.
+A housewarming inscription can welcome guests, mark a move, or recognize the people who made the new home possible. Keep it short enough to read from across the table. A simple welcome, the household’s name, or the date may say more clearly what the cake is celebrating than a long paragraph.
 
-Include housewarming examples in the main message guide. A gallery should feature original approved photos and demonstrate real differences in placement or lettering.
+Think about who will see the message. If the cake is for a private family gathering, a personal phrase may fit; for neighbours or coworkers, choose wording that feels comfortable for the whole group. Confirm names and spelling with the host, especially if the cake is a surprise.
+
+Send the final text in writing and specify punctuation, capitalization, and line breaks. Ask the bakery whether it fits the cake size and available lettering style. White Cakes hand-pipes buttercream, so confirm the lettering method rather than assuming text can be printed. If you want the inscription in Cebuano, Tagalog, or English, make the preferred language clear.
+
+For more wording ideas, see the [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Unsa ang Isulat sa Housewarming Cake sa Cebu
+
+Ang inskripsiyon sa housewarming mahimong modawat sa bisita, magtimaan sa pagbalhin o mopasidungog sa mga mitabang sa bag-ong balay. Himoa kining mubo aron mabasa gikan sa pikas kilid sa lamesa. Mahimong mas klaro ang yano nga welcome, ngalan sa panimalay o petsa kaysa taas nga parapo.
+
+Hunahunaa kinsa ang makakita sa mensahe. Kung para sa pribadong tapok sa pamilya ang cake, mahimong mohaom ang personal nga pulong; para sa silingan o kauban sa trabaho, pilia ang mensahe nga komportable para sa grupo. Kumpirmaha sa host ang mga ngalan ug spelling, labi na kon surprise ang cake.
+
+Ipadala sa sinulat ang pinal nga teksto ug ipiho ang punctuation, capitalization ug line breaks. Pangutan-a ang panaderya kon mohaom ba kini sa gidak-on ug available nga lettering style. Hand-piped buttercream ang gamit sa White Cakes, busa kumpirmaha ang paagi sa pagsulat imbes magtuo nga ma-print ang teksto. Klaroha kon Cebuano, Tagalog o English ang gusto.
+
+Para sa dugang ideya sa mensahe, tan-awa ang [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Isusulat sa Housewarming Cake sa Cebu
+
+Maaaring bumati sa mga bisita, magmarka ng paglipat, o kumilala sa mga taong tumulong sa bagong bahay ang housewarming inscription. Panatilihin itong maikli para mabasa mula sa kabilang panig ng mesa. Maaaring mas malinaw ang simpleng welcome, pangalan ng sambahayan, o petsa kaysa mahabang talata.
+
+Isaalang-alang kung sino ang makakakita sa mensahe. Kung para ito sa pribadong pagtitipon ng pamilya, maaaring bumagay ang personal na parirala; para sa mga kapitbahay o katrabaho, pumili ng wording na komportable para sa buong grupo. Kumpirmahin sa host ang mga pangalan at spelling, lalo na kung sorpresa ang cake.
+
+Ipadala nang nakasulat ang pinal na text at tukuyin ang punctuation, capitalization, at line breaks. Itanong sa bakery kung kasya ito sa sukat at available na lettering style. Hand-piped buttercream ang gamit ng White Cakes, kaya kumpirmahin ang paraan ng lettering sa halip na ipalagay na napi-print ang text. Linawin kung Cebuano, Tagalog, o English ang gustong wika.
+
+Para sa iba pang ideya sa wording, tingnan ang [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og mubo nga mensahe nga nag-abiabi sa pamilya sa bag-ong panimalay
-
-Ang usa ka housewarming nga inskripsiyon mahimong mag-abiabi sa mga tag-iya, nganlan ang pamilya, o makadugang og mubo nga hugpong sa mga pulong sama sa "Home sweet home." Hupti kini nga mubo aron ang mga letra magpabilin nga sayon ​​​​basahon ug ang disenyo adunay bukas nga luna. Kung ang bag-ong balay adunay angga sa pamilya, kumpirmahi nga ang mga nakadawat komportable nga makita kini sa cake.
-
-Ipadala ang eksakto nga mga pulong ug spelling kung mag-order. Pangutan-a kon ang mensahe mohaum ba sa gipili nga gidak-on ug dekorasyon sa cake. Ang usa ka taas nga pagtimbaya mahimong mas maayo sa usa ka bulag nga kard, labi na kung ang cake adunay usa ka ilustrasyon sa balay o detalyado nga utlanan.
-
-Ilakip ang mga panig-ingnan sa housewarming sa panguna nga giya sa mensahe. Ang usa ka gallery kinahanglan magpakita sa orihinal nga gi-aprubahan nga mga litrato ug magpakita sa tinuod nga mga kalainan sa pagbutang o letra.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng maikling mensahe na malugod na tinatanggap ang pamilya sa bagong tahanan
-
-Maaaring tanggapin ng isang housewarming inscription ang mga may-ari, pangalanan ang pamilya, o magdagdag ng maikling parirala tulad ng "Home sweet home." Panatilihin itong maikli upang ang mga titik ay manatiling madaling basahin at ang disenyo ay mayroon pa ring bukas na espasyo. Kung ang bagong tahanan ay may palayaw sa pamilya, kumpirmahin na kumportable ang mga tatanggap na makita ito sa cake.
-
-Ipadala ang eksaktong salita at spelling kapag nag-order. Itanong kung ang mensahe ay akma sa napiling laki at dekorasyon ng cake. Ang isang mas mahabang pagbati ay maaaring gumana nang mas mahusay sa isang hiwalay na card, lalo na kung ang cake ay may kasamang larawan ng bahay o detalyadong hangganan.
-
-Isama ang mga halimbawa ng housewarming sa pangunahing gabay sa mensahe. Dapat itampok ng isang gallery ang mga orihinal na inaprubahang larawan at magpakita ng mga tunay na pagkakaiba sa pagkakalagay o pagkakasulat.
+- Confirm current lettering methods and size restrictions before publication.
+- Cebuano and Tagalog drafts need native editorial review.

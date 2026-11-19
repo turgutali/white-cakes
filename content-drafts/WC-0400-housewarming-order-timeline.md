@@ -1,44 +1,51 @@
 ---
 id: WC-0400
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for housewarming cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa bagong tahanan sa Cebu"
+english_title: "How to Plan the Order Timeline for a Housewarming Cake in Cebu"
+cebuano_title: "Giunsa Pagplano sa Timeline sa Pag-order og Housewarming Cake sa Cebu"
+tagalog_title: "Paano Planuhin ang Timeline ng Pag-order ng Housewarming Cake sa Cebu"
 ---
 
-## Order a housewarming cake around the move-in schedule
+## English
 
-Housewarming dates can shift while people coordinate keys, cleaning, and furniture. Choose the date and time you are reasonably sure about before asking for a cake slot. White Cakes requires at least three days' notice for made-to-order cakes; contact the bakery earlier if the date is close to a weekend or holiday, and wait for a clear availability confirmation.
+# How to Plan the Order Timeline for a Housewarming Cake in Cebu
 
-Include the number of people who will eat cake, preferred size and flavour, a short inscription, and any design references. If the home is still difficult to find, give the complete Cebu address, landmark, receiver's mobile number, and instructions for the gate or building. Confirm the delivery window and address-based fee; do not leave the driver to locate a new address without contact details.
+Begin with the day and time the cake will be presented at the new home, then work backward. Allow time to estimate guests, choose the size and flavour, settle on a design and message, and confirm who will receive the delivery. If the move-in date or venue access is uncertain, tell the bakery before committing to a delivery plan.
 
-Keep the design brief practical. A simple colour scheme or “new home” message can be enough; if you want a custom motif, send one clear reference and ask whether it is feasible. Confirm the final quote and order details before the 50% deposit, which confirms the agreed order.
+The current White Cakes ordering guide recommends at least three days’ notice. A larger cake, detailed design, or busy date can require earlier contact. Ask whether the requested date is available before building the housewarming schedule around the cake; a general lead-time recommendation does not reserve a production slot.
 
-Add this date-planning example to the main cake-order timeline. It does not need its own URL unless distinct search demand and first-party evidence support one.
+Once availability is confirmed, send one written brief with the address, access instructions, serving range, design references, exact inscription, and contact person. Review the full quote and current payment terms before paying. The site currently describes a 50% deposit after the final price and details are agreed, so reconfirm that with the bakery.
+
+Leave a buffer before guests arrive. White Cakes confirms a delivery window rather than an exact minute. Arrange for an adult to receive the cake and identify a suitable place to keep it until serving. For general lead-time guidance, see the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Timeline sa Pag-order og Housewarming Cake sa Cebu
+
+Sugdi sa adlaw ug oras nga ipresentar ang cake sa bag-ong balay, dayon ihap paatras. Hatagi og panahon ang banabana sa bisita, pagpili sa gidak-on ug flavour, pagdesisyon sa disenyo ug mensahe, ug pagkumpirma kinsa ang modawat. Kung dili pa sigurado ang petsa sa pagbalhin o pagsulod sa venue, sultihi ang panaderya sa dili pa mouyon sa delivery plan.
+
+Ang kasamtangang ordering guide sa White Cakes nagrekomendar og labing menos tulo ka adlaw nga pahibalo. Mahimong manginahanglan og mas sayo nga pagkontak ang mas dako nga cake, detalyadong disenyo o busy nga petsa. Pangutan-a kon available ba ang petsa sa dili pa ibase niini ang iskedyul sa housewarming; dili reserbasyon sa production slot ang kinatibuk-ang lead-time guide.
+
+Human makumpirma ang availability, ipadala sa usa ka sinulat nga brief ang address, access instructions, range sa servings, reference sa disenyo, eksaktong inskripsiyon ug contact person. Susiha ang kompleto nga quote ug terms sa bayad sa dili pa mobayad. Nag-ingon ang site karon nga 50% nga deposit human mouyon sa pinal nga presyo ug detalye, busa kumpirmaha kini sa panaderya.
+
+Pagbilin og buffer sa dili pa moabot ang bisita. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Pag-andam og modawat nga hamtong ug hibaloi asa tipigan ang cake hangtod i-serve. Para sa lead-time guidance, tan-awa ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Paano Planuhin ang Timeline ng Pag-order ng Housewarming Cake sa Cebu
+
+Magsimula sa araw at oras na ihaharap ang cake sa bagong bahay, saka magbilang paatras. Maglaan ng panahon para tantiyahin ang mga bisita, pumili ng sukat at flavour, magpasya sa design at mensahe, at kumpirmahin kung sino ang tatanggap sa delivery. Kung hindi pa tiyak ang move-in date o access sa venue, sabihin ito sa bakery bago mag-commit sa delivery plan.
+
+Inirerekomenda ng kasalukuyang ordering guide ng White Cakes ang hindi bababa sa tatlong araw na abiso. Maaaring mangailangan ng mas maagang pakikipag-ugnayan ang mas malaking cake, detalyadong design, o abalang petsa. Itanong kung available ang petsa bago ibatay rito ang housewarming schedule; hindi nagrereserba ng production slot ang pangkalahatang lead-time guide.
+
+Kapag nakumpirma ang availability, magpadala ng iisang nakasulat na brief na may address, access instructions, range ng servings, design references, eksaktong inscription, at contact person. Suriin ang buong quote at kasalukuyang payment terms bago magbayad. Inilalarawan ng site sa kasalukuyan ang 50% deposit matapos mapagkasunduan ang pinal na presyo at detalye, kaya kumpirmahin ito sa bakery.
+
+Maglaan ng palugit bago dumating ang mga bisita. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Magtalaga ng adultong tatanggap at tukuyin kung saan ligtas ilalagay ang cake hanggang ihain. Para sa pangkalahatang gabay sa lead time, tingnan ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-order og usa ka housewarming cake sa palibot sa iskedyul sa paglihok
-
-Ang mga petsa sa housewarming mahimong mabalhin samtang ang mga tawo mag-coordinate sa mga yawe, pagpanglimpyo, ug muwebles. Pilia ang petsa ug oras nga makatarunganon ka nga sigurado sa dili pa mangayo og slot sa cake. Ang mga White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake; kontaka ang panaderya sa sayo pa kon ang petsa duol sa usa ka semana o holiday, ug maghulat alang sa usa ka tin-aw nga kumpirmasyon nga anaa.
-
-Ilakip ang gidaghanon sa mga tawo nga mokaon sa cake, gusto nga gidak-on ug lami, usa ka mubo nga inskripsiyon, ug bisan unsang mga pakisayran sa disenyo. Kung lisod pang pangitaon ang balay, ihatag ang kompleto nga adres sa Sugbo, landmark, mobile number sa receiver, ug mga instruksiyon sa gate o building. Kumpirma ang delivery window ug address-based fee; ayaw biyai ang drayber aron makapangita og bag-ong adres nga walay mga detalye sa pagkontak.
-
-Hupti nga praktikal ang disenyo. Ang usa ka yano nga laraw sa kolor o mensahe sa "bag-ong balay" mahimong igo; kung gusto nimo ang usa ka naandan nga motif, magpadala usa ka klaro nga pakisayran ug pangutana kung mahimo ba kini. Kumpirma ang katapusang kinutlo ug mga detalye sa pag-order sa wala pa ang 50% nga deposito, nga nagpamatuod sa gikasabutan nga order.
-
-Idugang kini nga panig-ingnan sa pagplano sa petsa sa panguna nga timeline sa pag-order sa cake. Wala kini magkinahanglan sa kaugalingon nga URL gawas kung ang lahi nga panginahanglan sa pagpangita ug ang ebidensya sa una nga partido nagsuporta sa usa.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-order ng housewarming cake ayon sa iskedyul ng paglipat
-
-Maaaring lumipat ang mga petsa ng housewarming habang pinag-uugnay ng mga tao ang mga susi, paglilinis, at kasangkapan. Piliin ang petsa at oras na makatwirang sigurado ka bago humingi ng puwang ng cake. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake; makipag-ugnayan sa panaderya nang mas maaga kung ang petsa ay malapit sa isang weekend o holiday, at maghintay para sa isang malinaw na kumpirmasyon sa availability.
-
-Isama ang bilang ng mga taong kakain ng cake, gustong laki at lasa, maikling inskripsiyon, at anumang mga sanggunian sa disenyo. Kung mahirap pa ring mahanap ang bahay, ibigay ang kumpletong address sa Cebu, landmark, mobile number ng receiver, at mga tagubilin para sa gate o gusali. Kumpirmahin ang delivery window at bayad na nakabatay sa address; huwag iwanan ang driver upang maghanap ng bagong address nang walang mga detalye sa pakikipag-ugnayan.
-
-Panatilihing praktikal ang disenyo. Ang isang simpleng scheme ng kulay o "bagong tahanan" na mensahe ay maaaring sapat; kung gusto mo ng custom na motif, magpadala ng isang malinaw na sanggunian at tanungin kung ito ay magagawa. Kumpirmahin ang huling quote at mga detalye ng order bago ang 50% na deposito, na nagkukumpirma sa napagkasunduang order.
-
-Idagdag ang halimbawang ito sa pagpaplano ng petsa sa pangunahing timeline ng pag-order ng cake. Hindi nito kailangan ang sarili nitong URL maliban kung sinusuportahan ng natatanging kahilingan sa paghahanap at ebidensya ng first-party ang isa.
+- Reconfirm lead time, deposit, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

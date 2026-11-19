@@ -1,44 +1,51 @@
 ---
 id: WC-0429
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Which reference photos help when ordering Christmas cake in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa Pasko sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa Pasko sa Cebu"
+english_title: "Which Reference Photos Help When Ordering a Christmas Cake in Cebu"
+cebuano_title: "Unsang Reference Photo ang Makatabang sa Pag-order og Christmas Cake sa Cebu"
+tagalog_title: "Aling Reference Photo ang Makakatulong sa Pag-order ng Christmas Cake sa Cebu"
 ---
 
-## Use a Christmas-cake reference to show one clear idea
+## English
 
-Choose a photo that demonstrates the part of the design you want: a colour scheme, a simple festive motif, or an overall shape. Tell White Cakes which detail to adapt and which elements are optional. If you send multiple images, explain how they relate so the brief does not ask for contradictory looks.
+# Which Reference Photos Help When Ordering a Christmas Cake in Cebu
 
-Do not assume the photo can be copied exactly or that a seasonal decoration is stocked. Ask which details are feasible, what flavour is available, and what the final design will cost. If the image contains a licensed character, company logo, or another baker's watermark, do not assume it can be reproduced; ask the bakery what it can offer instead.
+Choose a few references that each answer a specific question: one for the overall shape, another for lettering or colour, and perhaps a third for a small motif. Label what you want adapted in each photo so the bakery does not have to guess which details matter.
 
-Include the event date, size, serving plan, inscription, and delivery address. Christmas is a high-demand period, so check the date early; White Cakes' minimum notice for made-to-order cakes is three days. Confirm the delivery window and fee, then use the 50% deposit to secure the agreed order.
+A seasonal photo can show an idea, but it does not confirm that the exact cake, decoration, or ingredient is available this year. Ask the bakery which parts can be made for your date and size. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so printed characters, ornaments, or labels may need another treatment.
 
-For a public before-and-after example, use original White Cakes photos and permission. Otherwise, place these tips in the general custom brief guide.
+Separate must-have details from inspiration. If you want a greeting, colour, or motif but are flexible about the exact arrangement, state that. Also provide the event date, size range, flavour preference, exact inscription, venue, and delivery plan so the references can be assessed in context.
+
+Only share photos you have permission to send. If you later want the finished cake photo published, obtain separate permission for that use. For the broader order brief, see [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang Reference Photo ang Makatabang sa Pag-order og Christmas Cake sa Cebu
+
+Pagpili og pipila ka reference nga motubag sa espesipikong pangutana: usa para sa kinatibuk-ang porma, lain para sa lettering o kolor ug basin ikatulo para sa gamay nga motif. Markahi unsay ipasibo sa matag litrato aron dili manghula ang panaderya sa importante nga detalye.
+
+Makapakita og ideya ang seasonal nga litrato, apan dili kini kumpirmasyon nga available karon ang eksaktong cake, dekorasyon o sangkap. Pangutan-a ang panaderya unsang bahin ang mahimo sa petsa ug gidak-on nga gusto nimo. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa mahimong lahi ang paghulagway sa printed nga karakter, dekorasyon o label.
+
+Ilahi ang kinahanglan gyud sa inspirasyon lang. Kung gusto ang greeting, kolor o motif apan flexible ang pagkahan-ay, isulti kini. Ipaambit usab ang petsa, range sa gidak-on, flavour preference, eksaktong inskripsiyon, venue ug delivery plan aron masusi ang reference sa konteksto.
+
+Ipaambit lang ang mga litrato nga adunay pagtugot nimo. Kung gusto ipatik sa umaabot ang litrato sa nahuman nga cake, pangayo og lahi nga pagtugot para niini. Para sa mas lapad nga order brief, tan-awa ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling Reference Photo ang Makakatulong sa Pag-order ng Christmas Cake sa Cebu
+
+Pumili ng iilang reference na sumasagot sa partikular na tanong: isa para sa pangkalahatang hugis, isa pa para sa lettering o kulay, at maaaring ikatlo para sa maliit na motif. Markahan kung ano ang iaangkop sa bawat larawan para hindi manghula ang bakery kung aling detalye ang mahalaga.
+
+Maaaring magpakita ng ideya ang seasonal photo pero hindi nito kinukumpirma na available ngayong taon ang eksaktong cake, dekorasyon, o sangkap. Itanong sa bakery kung aling bahagi ang kaya para sa petsa at sukat mo. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya maaaring ibang paraan ang kailangan para sa printed na karakter, palamuti, o label.
+
+Ihiwalay ang kailangang-kailangan sa inspirasyon lamang. Kung gusto mo ang pagbati, kulay, o motif pero flexible ka sa eksaktong ayos, sabihin iyon. Ibigay rin ang petsa, range ng sukat, flavour preference, eksaktong inscription, venue, at delivery plan para masuri ang references ayon sa konteksto.
+
+Magbahagi lamang ng mga larawang may pahintulot kang ipadala. Kung gusto mong ilathala ang larawan ng natapos na cake sa hinaharap, humingi ng hiwalay na pahintulot para sa paggamit na iyon. Para sa mas malawak na order brief, tingnan ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Gamit ug Christmas-cake reference aron ipakita ang usa ka klaro nga ideya
-
-Pagpili og litrato nga nagpakita sa bahin sa disenyo nga imong gusto: usa ka color scheme, usa ka simple nga festive motif, o usa ka kinatibuk-ang porma. Sultihi ang White Cake kung unsang detalye ang ipahiangay ug unsang mga elemento ang opsyonal. Kung magpadala ka ug daghang mga imahe, ipasabut kung giunsa kini kalabutan aron ang mubo dili mangayo alang sa nagkasumpaki nga hitsura.
-
-Ayaw hunahunaa nga ang litrato mahimong eksaktong kopyahon o nga ang usa ka seasonal nga dekorasyon napuno. Pangutan-a kung unsang mga detalye ang mahimo, unsa nga lami ang magamit, ug kung unsa ang gasto sa katapusan nga disenyo. Kung ang imahe adunay usa ka lisensyado nga karakter, logo sa kompanya, o lain nga watermark sa panadero, ayaw hunahunaa nga kini mahimo nga kopyahon; pangutan-a ang panaderya kon unsay ikatanyag niini.
-
-Ilakip ang petsa sa panghitabo, gidak-on, plano sa pagserbisyo, inskripsiyon, ug adres sa pagpadala. Ang Pasko usa ka panahon nga taas ang panginahanglan, busa susiha og sayo ang petsa; Ang minimum nga abiso sa White Cakes alang sa made-to-order nga mga cake maoy tulo ka adlaw. Kumpirma ang delivery window ug bayad, unya gamita ang 50% nga deposito aron masiguro ang gikasabotan nga order.
-
-Para sa usa ka public before-and-after nga pananglitan, gamita ang orihinal nga White Cakes nga mga litrato ug pagtugot. Kung dili, ibutang kini nga mga tip sa kinatibuk-ang naandan nga mubo nga giya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng Christmas-cake reference para magpakita ng isang malinaw na ideya
-
-Pumili ng larawan na nagpapakita ng bahagi ng disenyo na gusto mo: isang color scheme, isang simpleng festive motif, o isang pangkalahatang hugis. Sabihin sa White Cakes kung aling detalye ang iaangkop at kung aling mga elemento ang opsyonal. Kung magpapadala ka ng maraming larawan, ipaliwanag kung paano nauugnay ang mga ito para hindi humingi ng magkasalungat na hitsura ang brief.
-
-Huwag ipagpalagay na ang larawan ay maaaring kopyahin nang eksakto o ang isang pana-panahong dekorasyon ay may stock. Itanong kung aling mga detalye ang magagawa, anong lasa ang magagamit, at kung ano ang halaga ng panghuling disenyo. Kung ang larawan ay naglalaman ng isang lisensyadong karakter, logo ng kumpanya, o ibang watermark ng panadero, huwag ipagpalagay na maaari itong kopyahin; tanungin ang panaderya kung ano ang maiaalok nito sa halip.
-
-Isama ang petsa ng kaganapan, laki, plano ng paghahatid, inskripsiyon, at address ng paghahatid. Ang Pasko ay isang panahon ng mataas na pangangailangan, kaya suriin ang petsa nang maaga; Ang minimum na paunawa ng White Cakes para sa mga made-to-order na cake ay tatlong araw. Kumpirmahin ang window ng paghahatid at bayad, pagkatapos ay gamitin ang 50% na deposito upang ma-secure ang napagkasunduang order.
-
-Para sa pampublikong halimbawa bago at pagkatapos, gumamit ng orihinal na mga larawan at pahintulot ng White Cakes. Kung hindi, ilagay ang mga tip na ito sa pangkalahatang custom na maikling gabay.
+- Verify seasonal availability and image permissions before publication.
+- Cebuano and Tagalog drafts need native editorial review.

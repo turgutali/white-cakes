@@ -1,44 +1,51 @@
 ---
 id: WC-0388
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: "How to keep safe and cool until serving congratulations cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa pagbati sa Cebu"
+english_title: "How to Keep a Congratulations Cake Safe and Cool Until Serving in Cebu"
+cebuano_title: "Giunsa Pagpabiling Luwas ug Bugnaw ang Congratulations Cake hangtod I-serve sa Cebu"
+tagalog_title: "Paano Panatilihing Ligtas at Malamig ang Congratulations Cake Hanggang Ihain sa Cebu"
 ---
 
-## Keep a congratulations cake cool before the toast
+## English
 
-If the cake arrives before the celebration, place the box on a level surface away from direct sunlight, a hot car, and warm equipment. Buttercream can soften in heat, so do not leave the cake on a sunny reception table while guests arrive. Keep the box closed and avoid moving it unnecessarily.
+# How to Keep a Congratulations Cake Safe and Cool Until Serving in Cebu
 
-When the cake must wait for several hours, follow White Cakes' refrigeration guidance for that specific cake. Make sure the receiver knows where the cake is stored and when it will be served. Ask the bakery whether it recommends a short rest before cutting; the timing depends on the cake and room conditions, so avoid generic time guarantees.
+Plan where the cake will wait after delivery and before the congratulatory moment. A shaded indoor area is generally easier to manage than a sunlit table, a warm car, or an outdoor display. Ask the bakery for storage instructions for the cake you ordered; do not assume every filling and decoration can be kept the same way.
 
-For an order, confirm the date, flavour, size, short inscription, and delivery or pickup plan. White Cakes estimates 8–12 party portions for 6 inches and 16–24 for 8 inches. These are approximate; tell the bakery how many people will eat cake. Allow at least three days' notice, and pay the 50% deposit only after the agreed order is confirmed.
+If the cake is going to a school, office, or venue, confirm who will receive it and whether there is a suitable place to hold it. Share any product-specific instructions with that person. Do not rely on a receptionist or event staff to refrigerate or move the cake unless they have agreed and know how to handle it.
 
-Keep verified care details in the central heat guide. Do not imply that a congratulatory design needs special handling unless the bakery says so.
+Avoid leaving the cake in a vehicle or shifting it repeatedly between different temperatures. If the cake will be displayed outside or the event runs late, contact the bakery for advice before deciding how long it can wait. Appearance alone cannot confirm that storage has been safe.
+
+White Cakes confirms a delivery window rather than an exact minute, so plan a receiver and allow time before serving. Keep the cake level and follow the bakery’s guidance until it is cut. For more on local heat and buttercream care, read the [Cebu cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Cebuano
+
+# Giunsa Pagpabiling Luwas ug Bugnaw ang Congratulations Cake hangtod I-serve sa Cebu
+
+Pagplano asa maghulat ang cake human ma-deliver ug sa dili pa ang pag-congratulate. Mas sayon atimanon ang landong nga lugar sulod sa balay kaysa lamesa nga initan sa adlaw, init nga sakyanan o display sa gawas. Pangayo og storage instructions sa panaderya para sa cake nga gi-order; ayaw pagtuo nga pareho ang paagi sa pagtipig sa tanang filling ug dekorasyon.
+
+Kung ipadala sa eskwelahan, opisina o venue ang cake, kumpirmaha kinsa ang modawat ug kon adunay angay nga lugar nga mapundohan niini. Ipaambit sa maong tawo ang instruksyon para sa produkto. Ayaw pagsalig nga i-refrigerate o ibalhin sa receptionist o event staff kon wala sila mouyon ug nahibalo unsaon kini pag-atiman.
+
+Likayi ang pagbilin sa cake sa sakyanan o sige og balhin tali sa nagkalainlaing temperatura. Kung ipakita sa gawas o malangan ang event, kontaka ang panaderya aron mangayo og tambag sa dili pa magdesisyon pila kini ka dugay maghulat. Dili makapamatuod ang hitsura lang nga luwas ang pagtipig.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa pagplano og modawat ug hatagi og panahon sa dili pa i-serve. Ibutang nga patag ang cake ug sunda ang tambag sa panaderya hangtod hiwaon. Para sa kainit ug buttercream, basaha ang [Cebu cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Tagalog
+
+# Paano Panatilihing Ligtas at Malamig ang Congratulations Cake Hanggang Ihain sa Cebu
+
+Pagplanuhan kung saan maghihintay ang cake pagkatapos ng delivery at bago ang pagbati. Mas madaling pangasiwaan ang may-lilim na lugar sa loob kaysa mesang nasisikatan ng araw, mainit na sasakyan, o outdoor display. Humingi ng storage instructions sa bakery para sa cake na inorder mo; huwag ipalagay na pare-pareho ang paraan ng pag-iimbak sa lahat ng filling at dekorasyon.
+
+Kung sa paaralan, opisina, o venue ihahatid ang cake, kumpirmahin kung sino ang tatanggap at kung may angkop na lugar para rito. Ibahagi sa taong iyon ang mga tagubilin para sa partikular na produkto. Huwag umasa na ilalagay ito sa refrigerator o ililipat ng receptionist o event staff kung hindi sila pumayag at hindi nila alam kung paano ito hahawakan.
+
+Iwasang iwan ang cake sa sasakyan o paulit-ulit na ilipat sa magkaibang temperatura. Kung ipapakita ito sa labas o maaantala ang event, kontakin ang bakery para humingi ng payo bago magpasya kung gaano ito katagal maaaring maghintay. Hindi sapat ang itsura para tiyaking ligtas ang pag-iimbak.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya magtalaga ng tatanggap at maglaan ng oras bago ihain. Panatilihing patag ang cake at sundin ang payo ng bakery hanggang hiwain. Para sa init sa Cebu at pag-aalaga sa buttercream, basahin ang [Cebu cake care guide](/journal/buttercream-in-cebu-heat.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti ang usa ka congratulations cake nga cool sa dili pa ang toast
-
-Kung ang cake moabut sa wala pa ang selebrasyon, ibutang ang kahon sa usa ka patag nga nawong gikan sa direkta nga kahayag sa adlaw, init nga awto, ug mainit nga kagamitan. Ang buttercream mahimong mohumok sa kainit, busa ayaw ibilin ang cake sa usa ka sunny nga lamesa sa pagdawat samtang ang mga bisita moabut. Sirado ang kahon ug likayi ang pagbalhin niini nga wala kinahanglana.
-
-Kung ang cake kinahanglang maghulat ug daghang oras, sunda ang giya sa pagpabugnaw sa White Cakes alang nianang piho nga cake. Siguruha nga nahibal-an sa tigdawat kung diin gitipigan ang cake ug kung kanus-a kini ihatod. Pangutan-a ang panaderya kung nagrekomenda ba kini og usa ka mubo nga pagpahulay sa dili pa pagputol; ang timing nagdepende sa cake ug mga kondisyon sa kwarto, busa likayi ang mga generic nga garantiya sa oras.
-
-Alang sa usa ka order, kumpirmahi ang petsa, lami, gidak-on, mubo nga inskripsiyon, ug plano sa pagpadala o pagkuha. Gibanabana sa White Cakes ang 8–12 ka parti nga bahin sa 6 ka pulgada ug 16–24 sa 8 ka pulgada. Kini mga gibanabana; sultihi ang panaderya kung pila ang mokaon ug cake. Tugoti ang labing menos tulo ka adlaw nga pahibalo, ug bayri ang 50% nga deposito lamang human makumpirma ang gikasabutan nga order.
-
-Itago ang gipamatud-an nga mga detalye sa pag-atiman sa sentro nga giya sa kainit. Ayaw ipasabot nga ang disenyo sa pahalipay nagkinahanglan ug espesyal nga pagdumala gawas kon ang panaderya nag-ingon niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing cool ang cake ng pagbati bago ang toast
-
-Kung dumating ang cake bago ang pagdiriwang, ilagay ang kahon sa isang patag na ibabaw na malayo sa direktang sikat ng araw, isang mainit na kotse, at mainit na kagamitan. Maaaring lumambot ang buttercream sa init, kaya huwag iwanan ang cake sa maaraw na reception table habang dumarating ang mga bisita. Panatilihing nakasara ang kahon at iwasang ilipat ito nang hindi kinakailangan.
-
-Kapag ang cake ay kailangang maghintay ng ilang oras, sundin ang gabay sa pagpapalamig ng White Cakes para sa partikular na cake na iyon. Tiyaking alam ng tatanggap kung saan iniimbak ang cake at kung kailan ito ihain. Tanungin ang panaderya kung nagrerekomenda ito ng maikling pahinga bago maghiwa; depende ang timing sa cake at mga kondisyon ng kwarto, kaya iwasan ang mga generic na garantiya ng oras.
-
-Para sa isang order, kumpirmahin ang petsa, lasa, laki, maikling inskripsiyon, at plano sa paghahatid o pagkuha. Tinatantya ng White Cakes ang 8–12 party portion para sa 6 na pulgada at 16–24 para sa 8 pulgada. Ang mga ito ay tinatayang; sabihin sa panaderya kung gaano karaming tao ang kakain ng cake. Magbigay ng hindi bababa sa tatlong araw na paunawa, at bayaran ang 50% na deposito lamang pagkatapos makumpirma ang napagkasunduang order.
-
-Panatilihin ang na-verify na mga detalye ng pangangalaga sa central heat guide. Huwag ipahiwatig na ang isang disenyo ng pagbati ay nangangailangan ng espesyal na pangangasiwa maliban kung sinabi ng panaderya.
+- Confirm product-specific storage advice before publication.
+- Cebuano and Tagalog drafts need native editorial review.

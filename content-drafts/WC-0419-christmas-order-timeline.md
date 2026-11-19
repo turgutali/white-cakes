@@ -1,38 +1,51 @@
 ---
 id: WC-0419
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html; verify holiday availability
-english_title: "How to plan the order timeline for Christmas cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa Pasko sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa Pasko sa Cebu"
+english_title: "How to Plan the Order Timeline for a Christmas Cake in Cebu"
+cebuano_title: "Giunsa Pagplano sa Timeline sa Pag-order og Christmas Cake sa Cebu"
+tagalog_title: "Paano Planuhin ang Timeline ng Pag-order ng Christmas Cake sa Cebu"
 ---
 
-## Start early enough to confirm the holiday date and final design
+## English
 
-Choose when the cake will be served and who will receive it. Then confirm size, flavour, message, and design direction with the bakery. Christmas dates can be busy, so inquire early and wait for a clear availability response before making plans around the order.
+# How to Plan the Order Timeline for a Christmas Cake in Cebu
 
-White Cakes’ current general guidance asks for at least three days’ notice for made-to-order cakes; holiday schedules may require earlier booking. Ask for the full quote, delivery or pickup arrangement, and exact handoff window. The stated order process uses a 50% deposit, which should be verified against the current instructions.
+For a Christmas cake, decide first when it will be served and where it needs to arrive. A family dinner, office exchange, and Christmas party can have different guest counts and handoff arrangements. Write down the event date, serving range, venue, and receiver before asking about design options.
 
-Keep year-specific schedule information in the single order guide and refresh it each season. Do not present last year’s cutoff or menu as a current promise.
+The current White Cakes ordering guide recommends at least three days’ notice, but holiday demand may affect availability. Contact the bakery early and ask whether it is accepting orders for your date, product, and design. Do not assume the usual lead time guarantees a Christmas slot.
+
+Once availability is confirmed, provide a complete written brief: size, flavour preference, design reference, exact inscription, delivery or pickup address, and contact person. Review the quote and current payment terms before sending a deposit. The site currently describes a 50% deposit after the price and order details are agreed; confirm this directly.
+
+Leave a buffer between delivery and the event. White Cakes confirms a delivery window rather than an exact minute, so make sure someone can receive the cake throughout that period. For general planning, see the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Timeline sa Pag-order og Christmas Cake sa Cebu
+
+Para sa Christmas cake, desisyoni una kanus-a i-serve ug asa kini ihatod. Lahi ang ihap sa bisita ug handoff sa panihapon sa pamilya, office exchange ug Christmas party. Isulat ang petsa, range sa servings, venue ug modawat sa dili pa mangutana sa mga kapilian sa disenyo.
+
+Ang kasamtangang ordering guide sa White Cakes nagrekomendar og labing menos tulo ka adlaw nga pahibalo, apan mahimong makaapekto sa availability ang holiday demand. Kontaka daan ang panaderya ug pangutan-a kon modawat ba kini og order para sa petsa, produkto ug disenyo nga gusto nimo. Ayaw pagtuo nga garantiya sa Christmas slot ang kasagarang lead time.
+
+Human makumpirma ang availability, paghatag og kompleto nga sinulat nga brief: gidak-on, flavour preference, reference sa disenyo, eksaktong inskripsiyon, delivery o pickup address ug contact person. Susiha ang quote ug kasamtangang terms sa bayad sa dili pa magdeposito. Nag-ingon ang site karon nga 50% nga deposit human mouyon sa presyo ug detalye; kumpirmaha kini direkta.
+
+Pagbilin og buffer tali sa delivery ug event. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa siguroha nga adunay modawat sulod sa tibuok panahon. Para sa kinatibuk-ang pagplano, tan-awa ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Paano Planuhin ang Timeline ng Pag-order ng Christmas Cake sa Cebu
+
+Para sa Christmas cake, pagpasiyahan muna kung kailan ito ihahain at saan ito kailangang makarating. Maaaring magkaiba ang bilang ng bisita at handoff para sa hapunan ng pamilya, office exchange, at Christmas party. Isulat ang petsa ng event, range ng servings, venue, at tatanggap bago magtanong tungkol sa design.
+
+Inirerekomenda ng kasalukuyang ordering guide ng White Cakes ang hindi bababa sa tatlong araw na abiso, pero maaaring makaapekto sa availability ang holiday demand. Makipag-ugnayan nang maaga at itanong kung tumatanggap ng order para sa petsa, produkto, at design na gusto mo. Huwag ipalagay na ginagarantiyahan ng karaniwang lead time ang Christmas slot.
+
+Kapag nakumpirma ang availability, magbigay ng kumpletong nakasulat na brief: sukat, flavour preference, design reference, eksaktong inscription, delivery o pickup address, at contact person. Suriin ang quote at kasalukuyang payment terms bago magpadala ng deposit. Sinasabi ng site sa kasalukuyan na 50% deposit matapos mapagkasunduan ang presyo at detalye; direktang kumpirmahin ito.
+
+Maglaan ng palugit sa pagitan ng delivery at event. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya tiyaking may tatanggap sa buong panahong iyon. Para sa pangkalahatang pagpaplano, tingnan ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagsugod og sayo aron makumpirma ang petsa sa holiday ug ang katapusang disenyo
-
-Pilia kung kanus-a isilbi ang cake ug kinsa ang makadawat niini. Unya kumpirmahi ang gidak-on, lami, mensahe, ug direksyon sa disenyo sa panaderya. Mahimong busy ang mga petsa sa Pasko, busa pagpangutana og sayo ug paghulat alang sa usa ka klaro nga tubag sa dili pa maghimo mga plano bahin sa order.
-
-Ang kasamtangang kinatibuk-ang giya sa White Cakes nangayo og labing menos tulo ka adlaw nga pahibalo alang sa gihimo-sa-order nga mga cake; Ang mga iskedyul sa holiday mahimong magkinahanglan og sayo nga pagpareserba. Pangayo alang sa bug-os nga quote, delivery o pickup arrangement, ug eksaktong handoff window. Ang gipahayag nga proseso sa pag-order naggamit sa 50% nga deposito, nga kinahanglan mapamatud-an batok sa karon nga mga panudlo.
-
-Itago ang impormasyon sa eskedyul nga espesipiko sa tuig sa usa ka giya sa order ug i-refresh kini matag season. Ayaw ipresentar ang cutoff o menu sa miaging tuig isip kasamtangan nga saad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magsimula nang maaga para kumpirmahin ang petsa ng holiday at panghuling disenyo
-
-Piliin kung kailan ihahain ang cake at kung sino ang tatanggap nito. Pagkatapos ay kumpirmahin ang laki, lasa, mensahe, at direksyon ng disenyo sa panaderya. Maaaring maging abala ang mga petsa ng Pasko, kaya magtanong nang maaga at maghintay para sa isang malinaw na tugon sa availability bago gumawa ng mga plano tungkol sa order.
-
-Ang kasalukuyang pangkalahatang patnubay ng White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake; Maaaring mangailangan ng mas maagang booking ang mga iskedyul ng holiday. Hilingin ang buong quote, delivery o pickup arrangement, at eksaktong handoff window. Ang nakasaad na proseso ng pag-order ay gumagamit ng 50% na deposito, na dapat ma-verify laban sa kasalukuyang mga tagubilin.
-
-Panatilihin ang impormasyon ng iskedyul na tukoy sa taon sa iisang gabay sa pagkakasunud-sunod at i-refresh ito sa bawat season. Huwag ipakita ang cutoff o menu ng nakaraang taon bilang kasalukuyang pangako.
+- Reconfirm seasonal availability, lead time, and payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

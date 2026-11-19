@@ -1,44 +1,51 @@
 ---
 id: WC-0427
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: "What to write on Christmas cake in Cebu"
-cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa Pasko sa Cebu"
-tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa Pasko sa Cebu"
+english_title: "What to Write on a Christmas Cake in Cebu"
+cebuano_title: "Unsa ang Isulat sa Christmas Cake sa Cebu"
+tagalog_title: "Ano ang Isusulat sa Christmas Cake sa Cebu"
 ---
 
-## Keep a Christmas-cake message short enough to read
+## English
 
-Holiday cakes often have decorations around the message, so choose a brief line. A family name, a short greeting, or a year can be enough. If you want to include a longer personal note, ask White Cakes whether it will fit the cake surface and whether it should appear on a separate card instead.
+# What to Write on a Christmas Cake in Cebu
 
-Send the exact words in one message, with spelling and punctuation checked. If you want Cebuano or Tagalog wording, ask a fluent family member to confirm the phrase and tone before sending it to the bakery. Do not rely on an unchecked translation for names or culturally specific expressions.
+Choose a Christmas cake message for the people who will see and share it. A family meal may suit a greeting from the household, while an office exchange may call for a shorter line that works for colleagues. Keep the message brief enough to read on the selected cake size and leave space for the design.
 
-Choose a design reference separately and identify the key colour or motif. Confirm the date, flavour, size, and quote. Christmas availability should be checked early; made-to-order cakes require at least three days' notice. The current 50% deposit confirms the agreed order.
+You can use a holiday greeting, the family or team name, the year, or a short phrase connected to the gathering. If you want Cebuano, Tagalog, or English wording, make the language clear and check that the message sounds natural to the recipient. Avoid adding several lines if the cake is small.
 
-Add seasonal wording examples to the existing message guide and link to the current menu. Do not create a holiday gallery from generic phrases alone.
+Send the exact inscription in writing, including punctuation, capitalization, and any requested line break. Check names and dates carefully. Ask the bakery which lettering style fits the design; White Cakes hand-pipes buttercream, so do not assume printed letters are available.
+
+If the cake is a surprise, tell the bakery who may see the message and which contact should receive updates. For more wording ideas, see the [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Unsa ang Isulat sa Christmas Cake sa Cebu
+
+Pilia ang mensahe sa Christmas cake base sa mga makakita ug mopaambit niini. Mahimong mohaom sa panihapon sa pamilya ang greeting gikan sa panimalay; ang office exchange mahimong manginahanglan og mas mubo nga linya para sa mga kauban. Himoa nga mubo ang mensahe aron mabasa sa napiling gidak-on ug magbilin og luna sa disenyo.
+
+Mahimong holiday greeting, ngalan sa pamilya o team, tuig o mubo nga pulong nga may kalabotan sa panagtapok ang isulat. Kung Cebuano, Tagalog o English ang gusto, klaroha ang pinulongan ug susiha kon natural paminawon sa modawat. Likayi ang daghang linya kon gamay ang cake.
+
+Ipadala sa sinulat ang eksaktong inskripsiyon, apil punctuation, capitalization ug line break kon gikinahanglan. Susiha pag-ayo ang mga ngalan ug petsa. Pangutan-a ang panaderya unsang lettering style ang mohaom; hand-piped buttercream ang gamit sa White Cakes, busa ayaw pagtuo nga available ang printed nga letra.
+
+Kung surprise ang cake, sultihi ang panaderya kinsa ang makakita sa mensahe ug kinsa nga contact ang makadawat sa update. Para sa dugang pulong nga ideya, tan-awa ang [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Isusulat sa Christmas Cake sa Cebu
+
+Pumili ng Christmas cake message para sa mga taong makakakita at magsasalo nito. Maaaring bumagay sa hapunan ng pamilya ang pagbating mula sa sambahayan, samantalang maaaring kailangan ng office exchange ang mas maikling linyang angkop sa mga katrabaho. Panatilihing maikli para mabasa sa napiling sukat at mag-iwan ng puwang para sa design.
+
+Maaaring holiday greeting, pangalan ng pamilya o team, taon, o maikling pariralang may kaugnayan sa pagtitipon ang ilagay. Kung Cebuano, Tagalog, o English ang wording, linawin ang wika at tiyaking natural ito sa tatanggap. Iwasan ang maraming linya kung maliit ang cake.
+
+Ipadala nang nakasulat ang eksaktong inscription kasama ang punctuation, capitalization, at hinihinging line break. Suriing mabuti ang mga pangalan at petsa. Itanong sa bakery kung aling lettering style ang babagay sa design; hand-piped buttercream ang gamit ng White Cakes, kaya huwag ipalagay na available ang printed letters.
+
+Kung sorpresa ang cake, sabihin sa bakery kung sino ang maaaring makakita sa mensahe at kung sinong contact ang tatanggap ng updates. Para sa iba pang ideya sa wording, tingnan ang [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti ang usa ka Christmas-cake nga mensahe nga mubo nga igo aron mabasa
-
-Ang mga holiday cake kasagaran adunay mga dekorasyon sa palibot sa mensahe, busa pagpili og usa ka mubo nga linya. Ang usa ka ngalan sa pamilya, usa ka mubo nga pagtimbaya, o usa ka tuig mahimong igo na. Kung gusto nimong iapil ang mas taas nga personal nga nota, pangutan-a ang White Cakes kung mohaum ba kini sa nawong sa cake ug kung kinahanglan ba kini nga makita sa lahi nga kard.
-
-Ipadala ang eksaktong mga pulong sa usa ka mensahe, nga gisusi ang spelling ug punctuation. Kung gusto nimo ang Cebuano o Tagalog nga mga pulong, hangyoa ang usa ka larino nga membro sa pamilya sa pagkumpirma sa hugpong sa mga pulong ug tono sa dili pa ipadala kini sa panaderya. Ayaw pagsalig sa usa ka wala masusi nga paghubad alang sa mga ngalan o piho nga mga ekspresyon sa kultura.
-
-Pilia ang usa ka reference sa disenyo nga gilain ug ilha ang yawe nga kolor o motif. Kumpirma ang petsa, lami, gidak-on, ug kinutlo. Ang pagkaanaa sa Pasko kinahanglan nga susihon og sayo; Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo. Ang kasamtangan nga 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Idugang ang seasonal nga mga pananglitan sa mga pulong sa kasamtangan nga giya sa mensahe ug i-link sa kasamtangan nga menu. Ayaw paghimo ug holiday gallery gikan sa mga generic nga hugpong sa mga pulong lamang.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihin ang isang Christmas-cake na mensahe na sapat na maikli upang mabasa
-
-Ang mga holiday cake ay madalas na may mga dekorasyon sa paligid ng mensahe, kaya pumili ng isang maikling linya. Ang isang pangalan ng pamilya, isang maikling pagbati, o isang taon ay maaaring sapat na. Kung gusto mong magsama ng mas mahabang personal na tala, tanungin ang White Cakes kung kasya ba ito sa ibabaw ng cake at kung dapat itong lumabas sa isang hiwalay na card sa halip.
-
-Ipadala ang mga eksaktong salita sa isang mensahe, na may check ng spelling at bantas. Kung gusto mo ng Cebuano o Tagalog na mga salita, hilingin sa isang matatas na miyembro ng pamilya na kumpirmahin ang parirala at tono bago ipadala ito sa panaderya. Huwag umasa sa isang walang check na pagsasalin para sa mga pangalan o mga ekspresyong partikular sa kultura.
-
-Pumili ng isang sanggunian sa disenyo nang hiwalay at tukuyin ang pangunahing kulay o motif. Kumpirmahin ang petsa, lasa, laki, at quote. Ang pagkakaroon ng Pasko ay dapat suriin nang maaga; ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Kinukumpirma ng kasalukuyang 50% na deposito ang napagkasunduang order.
-
-Magdagdag ng mga halimbawa ng pana-panahong salita sa umiiral nang gabay sa mensahe at mag-link sa kasalukuyang menu. Huwag gumawa ng holiday gallery mula sa mga generic na parirala lamang.
+- Confirm available lettering styles and size constraints before publication.
+- Cebuano and Tagalog drafts need native editorial review.

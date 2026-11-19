@@ -1,44 +1,51 @@
 ---
 id: WC-0382
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "What to include in a custom brief for congratulations cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa pagbati sa Cebu"
+english_title: "What to Include in a Custom Brief for a Congratulations Cake in Cebu"
+cebuano_title: "Unsa ang Iapil sa Custom Brief para sa Congratulations Cake sa Cebu"
+tagalog_title: "Ano ang Isasama sa Custom Brief para sa Congratulations Cake sa Cebu"
 ---
 
-## Prepare a custom brief for a congratulations cake
+## English
 
-Include the event date, number of cake eaters, size, flavour, inscription, and pickup or delivery plan. Say what is being celebrated—such as a graduation, new job, or team milestone—so White Cakes can understand the context without guessing. Confirm the final wording and spelling before the design is made.
+# What to Include in a Custom Brief for a Congratulations Cake in Cebu
 
-For the visual direction, choose one focal detail and send one reference image. Explain which part should be adapted and which can change. If the cake includes a school or company logo, confirm permission and provide approved artwork. Ask what design is feasible and what the quote covers; a reference is not a fixed product or exact-copy guarantee.
+Explain what the cake is celebrating and who will receive it. “Congratulations” can mean a graduation, new role, promotion, competition result, or family milestone; naming the occasion helps the bakery choose a fitting tone without needing private details.
 
-The current guide estimates 8–12 party slices for 6 inches and 16–24 for 8 inches. Share whether other desserts are planned and ask the bakery to confirm a size. White Cakes requires at least three days' notice, and a 50% deposit confirms the agreed order.
+Include the event date, expected servings, venue or delivery address, contact person, flavour preference, and exact inscription. If the recipient’s name or achievement must appear on the cake, send the final spelling and wording in writing. Identify any parts of the brief that are flexible so the bakery can propose a feasible design.
 
-Keep this prompt in the central custom-brief guide and link to the celebration page for event examples.
+For visual direction, share one or two references and explain the useful part of each: palette, lettering, layout, or a simple symbol. Avoid asking the bakery to combine unrelated examples. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so ask for a custom interpretation with available methods rather than assuming a printed emblem.
+
+Before the order is final, request a written summary of the selected size, flavour, design, message, price, payment terms, and delivery or pickup. The summary helps keep the organizer and receiver aligned. Use [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) for the broader checklist.
+
+## Cebuano
+
+# Unsa ang Iapil sa Custom Brief para sa Congratulations Cake sa Cebu
+
+Isaysay unsay gisaulog sa cake ug kinsa ang modawat niini. Mahimong graduation, bag-ong trabaho, promotion, resulta sa kompetisyon o milestone sa pamilya ang “congratulations”; makatabang ang pag-ingon sa okasyon sa pagpili sa angay nga tono bisan dili ipaambit ang pribadong detalye.
+
+Iapil ang petsa, gipaabot nga servings, venue o delivery address, contact person, flavour preference ug eksaktong inskripsiyon. Kung kinahanglan ibutang ang ngalan o nakab-ot sa modawat, ipadala sa sinulat ang pinal nga spelling ug teksto. Markahi kon unsang bahin ang flexible aron makapropose ang panaderya og mahimo nga disenyo.
+
+Para sa visual direction, pagpadala og usa o duha ka reference ug ipasabot unsay mapuslanon sa matag usa: kolor, lettering, layout o yano nga simbolo. Likayi ang hangyo nga kombinahon ang walay kalabotang ehemplo. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa pangayo og custom nga interpretasyon gamit ang available nga pamaagi imbes magtuo nga printed ang emblem.
+
+Sa dili pa pinalon ang order, pangayo og sinulat nga summary sa gidak-on, flavour, disenyo, mensahe, presyo, terms sa bayad ug delivery o pickup. Makatabang kini nga pareho ang pagsabot sa organizer ug modawat. Gamita ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) para sa kinatibuk-ang checklist.
+
+## Tagalog
+
+# Ano ang Isasama sa Custom Brief para sa Congratulations Cake sa Cebu
+
+Ipaliwanag kung ano ang ipinagdiriwang ng cake at kung sino ang tatanggap. Maaaring graduation, bagong trabaho, promotion, resulta sa kompetisyon, o milestone ng pamilya ang “congratulations”; nakatutulong ang pagbanggit sa okasyon para pumili ang bakery ng angkop na tono nang hindi kailangan ang pribadong detalye.
+
+Isama ang petsa ng event, inaasahang servings, venue o delivery address, contact person, flavour preference, at eksaktong inscription. Kung kailangang ilagay ang pangalan o achievement ng tatanggap, ipadala sa sulat ang pinal na spelling at wording. Tukuyin kung aling bahagi ng brief ang flexible para makapag-alok ang bakery ng kayang design.
+
+Para sa visual direction, magpadala ng isa o dalawang reference at ipaliwanag kung anong bahagi ang kapaki-pakinabang sa bawat isa: palette, lettering, layout, o simpleng simbolo. Iwasang hilinging pagsamahin ng bakery ang magkakaibang halimbawa. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya humingi ng custom na interpretasyon gamit ang available na paraan sa halip na ipalagay na printed ang emblem.
+
+Bago gawing pinal ang order, humingi ng nakasulat na buod ng napiling sukat, flavour, design, mensahe, presyo, payment terms, at delivery o pickup. Pinananatili nitong magkapareho ang pagkaunawa ng organizer at tatanggap. Gamitin ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) para sa mas malawak na checklist.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-andam usa ka naandan nga mubu alang sa usa ka cake sa pahalipay
-
-Ilakip ang petsa sa panghitabo, gidaghanon sa mga nangaon og cake, gidak-on, lami, inskripsiyon, ug plano sa pagkuha o paghatod. Isulti kung unsa ang gisaulog-sama sa usa ka graduation, bag-ong trabaho, o team milestone-aron White Cakes makasabut sa konteksto nga walay pagtag-an. Kumpirma ang kataposang pulong ug espeling sa dili pa himoon ang disenyo.
-
-Para sa biswal nga direksyon, pagpili og usa ka focal detail ug ipadala ang usa ka reference nga hulagway. Ipaathag kon ano nga bahin ang dapat ibagay kag kon ano ang mahimo magbag-o. Kon ang cake naglakip og logo sa eskwelahan o kompanya, kumpirmahi ang pagtugot ug paghatag og aprubadong artwork. Pangutan-a unsa nga disenyo ang mahimo ug unsa ang gisakup sa kinutlo; ang usa ka pakisayran dili usa ka pirmi nga produkto o eksaktong kopya nga garantiya.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 sa 8 ka pulgada. Ipakigbahin kung ang ubang mga dessert giplano ug hangyoa ang panaderya sa pagkumpirma sa usa ka gidak-on. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Ipadayon kini nga prompt sa sentro nga custom-mubo nga giya ug i-link sa panid sa selebrasyon alang sa mga pananglitan sa panghitabo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Maghanda ng custom na brief para sa isang cake ng pagbati
-
-Isama ang petsa ng kaganapan, bilang ng mga kumakain ng cake, laki, lasa, inskripsyon, at plano ng pickup o paghahatid. Sabihin kung ano ang ipinagdiriwang—gaya ng graduation, bagong trabaho, o milestone ng koponan—upang maunawaan ng White Cakes ang konteksto nang hindi nanghuhula. Kumpirmahin ang huling mga salita at spelling bago gawin ang disenyo.
-
-Para sa visual na direksyon, pumili ng isang focal detail at magpadala ng isang reference na larawan. Ipaliwanag kung aling bahagi ang dapat iakma at alin ang maaaring magbago. Kung ang cake ay may kasamang logo ng paaralan o kumpanya, kumpirmahin ang pahintulot at magbigay ng aprubadong likhang sining. Itanong kung anong disenyo ang magagawa at kung ano ang saklaw ng quote; ang isang sanggunian ay hindi isang nakapirming produkto o eksaktong kopyang garantiya.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Ibahagi kung ang ibang mga dessert ay binalak at hilingin sa panaderya na kumpirmahin ang isang sukat. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order.
-
-Panatilihin ang prompt na ito sa gitnang custom-brief na gabay at i-link sa page ng pagdiriwang para sa mga halimbawa ng kaganapan.
+- Confirm current design capabilities, payment terms, and product details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

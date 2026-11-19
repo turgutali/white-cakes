@@ -1,44 +1,51 @@
 ---
 id: WC-0373
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html
-english_title: "How to compare options for thank-you cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake isip pasalamat sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake bilang pasasalamat sa Cebu"
+english_title: "How to Compare Thank-You Cake Options in Cebu"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Thank-You Cake sa Cebu"
+tagalog_title: "Paano Ihambing ang mga Opsyon sa Thank-You Cake sa Cebu"
 ---
 
-## Compare thank-you cake options by group size and message
+## English
 
-For a thank-you between two people, compare the 4-inch Bento, which serves about two generous or three modest portions. For an office or family group, the 6-inch cake is estimated at 8–12 party slices and the 8-inch at 16–24. These are approximate ranges; tell White Cakes how many people will eat cake and ask the bakery to confirm the right size.
+# How to Compare Thank-You Cake Options in Cebu
 
-Compare flavour choices from the current menu—Chocolate, Vanilla, Ube, Mango, and Red Velvet—and confirm availability for the selected date. A short thank-you inscription may fit a compact cake, while a longer message may need a larger surface. Ask whether the design and wording are feasible and request a quote for the exact scope.
+Compare thank-you cake options by the role the cake will play. A personal cake for one recipient may prioritize a specific message or favourite colour. A cake for a whole team may need more servings, a neutral design, and a handoff that works around office hours. Decide which of those needs is most important before comparing shapes.
 
-For a surprise or delivery, compare handoff options too. Confirm the full address, receiver's mobile number, window, and delivery fee. White Cakes requires at least three days' notice; the 50% deposit confirms the agreed order after the date, size, design, and terms are settled.
+Next compare practical details: expected servings, display space, delivery route, and who can receive the order. Use the bakery’s size guide as an estimate, then ask which option fits the guest range and serving style. A cake for a group photo may not need the same size as dessert for every attendee.
 
-Keep this comparison in the central cake-choice guide and link to the message and order pages rather than duplicating product tables.
+Compare designs against current bakery capabilities. Send a small number of references and ask which interpretation can be made with the available methods. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so confirm any branding or lettering request instead of treating a reference image as a guarantee.
+
+Finally, compare the same order components in each quote: size, flavour, decoration, inscription, delivery, timing, and payment terms. Ask for the selected option and final price in writing. For broader cake selection, see [which cake should you choose?](/journal/which-cake.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Thank-You Cake sa Cebu
+
+Itandi ang mga kapilian sa thank-you cake base sa papel niini. Ang personal nga cake para sa usa ka tawo mahimong magpasiugda sa espesipikong mensahe o paboritong kolor. Ang cake para sa tibuok team mahimong manginahanglan og mas daghang servings, neutral nga disenyo ug handoff nga mohaom sa oras sa opisina. Desisyoni una unsay pinakaimportante sa dili pa motandi sa porma.
+
+Sunod itandi ang praktikal nga detalye: gipaabot nga servings, display area, ruta sa delivery ug kinsa ang modawat. Gamita isip banabana ang size guide sa panaderya, dayon pangutan-a unsang kapilian ang mohaom sa ihap sa bisita ug paagi sa pag-serve. Lahi ang gidak-on nga kinahanglan sa cake para sa group photo kumpara sa dessert sa matag usa.
+
+Itandi ang disenyo batok sa kasamtangang kapasidad sa panaderya. Pagpadala og pipila ka reference ug pangutan-a unsang interpretasyon ang mahimo gamit ang available nga pamaagi. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa kumpirmaha ang branding o lettering imbes isipon nga garantiya ang reference photo.
+
+Sa kataposan, itandi ang parehas nga bahin sa matag quote: gidak-on, flavour, dekorasyon, inskripsiyon, delivery, oras ug terms sa bayad. Pangayo sa sinulat ang napiling kapilian ug pinal nga presyo. Para sa mas lapad nga pagpili, tan-awa ang [which cake should you choose?](/journal/which-cake.html).
+
+## Tagalog
+
+# Paano Ihambing ang mga Opsyon sa Thank-You Cake sa Cebu
+
+Ihambing ang mga opsyon sa thank-you cake ayon sa papel nito. Maaaring unahin ng personal na cake para sa isang tao ang partikular na mensahe o paboritong kulay. Maaaring mangailangan ang cake para sa buong team ng mas maraming servings, neutral na design, at handoff na babagay sa oras ng opisina. Pagpasiyahan muna kung alin ang pinakamahalaga bago ihambing ang mga hugis.
+
+Pagkatapos, ihambing ang praktikal na detalye: inaasahang servings, display area, delivery route, at kung sino ang tatanggap. Gamitin bilang tantiya ang size guide ng bakery, saka itanong kung aling opsyon ang babagay sa bilang ng bisita at paraan ng paghahain. Maaaring magkaiba ang sukat para sa cake na pang-group photo at cake na dessert ng bawat dumalo.
+
+Ihambing ang mga design sa kasalukuyang kakayahan ng bakery. Magpadala ng kakaunting references at itanong kung aling interpretasyon ang magagawa sa available na paraan. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya kumpirmahin ang branding o lettering request sa halip na ituring na garantiya ang reference photo.
+
+Panghuli, ihambing ang parehong bahagi sa bawat quote: sukat, flavour, dekorasyon, inscription, delivery, timing, at payment terms. Hingin sa sulat ang napiling opsyon at pinal na presyo. Para sa mas malawak na pagpili, tingnan ang [which cake should you choose?](/journal/which-cake.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang mga opsyon sa cake sa pasalamat pinaagi sa gidak-on ug mensahe sa grupo
-
-Alang sa pasalamat tali sa duha ka tawo, itandi ang 4-pulgada nga Bento, nga nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga mga bahin. Alang sa usa ka opisina o grupo sa pamilya, ang 6-pulgada nga cake gibanabana sa 8–12 ka hiwa sa partido ug ang 8-pulgada sa 16–24. Kini mao ang gibana-bana nga mga han-ay; Sultihi ang White Cakes kung pila ang mokaon ug cake ug hangyoa ang panaderya nga kumpirmahon ang husto nga gidak-on.
-
-Itandi ang mga pagpili sa lami gikan sa kasamtangan nga menu—Chocolate, Vanilla, Ube, Mango, ug Red Velvet—ug kumpirmahi ang pagkaanaa sa gipili nga petsa. Ang usa ka mubo nga inskripsiyon sa pasalamat mahimong mohaum sa usa ka compact cake, samtang ang mas taas nga mensahe mahimong magkinahanglan og mas dako nga nawong. Pangutan-a kung mahimo ba ang disenyo ug mga pulong ug hangyoa ang usa ka kinutlo alang sa eksaktong kasangkaran.
-
-Para sa surpresa o paghatud, itandi usab ang mga opsyon sa handoff. Kumpirma ang kompleto nga adres, numero sa mobile sa tigdawat, bintana, ug bayad sa pagpadala. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order human sa petsa, gidak-on, disenyo, ug mga termino nahusay.
-
-Itago kini nga pagtandi sa sentro nga giya sa pagpili sa cake ug sumpay sa mga panid sa mensahe ug pag-order kaysa pagdoble sa mga lamesa sa produkto.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing ang mga pagpipilian sa cake ng pasasalamat ayon sa laki at mensahe ng grupo
-
-Para sa isang pasasalamat sa pagitan ng dalawang tao, ihambing ang 4-pulgadang Bento, na naghahain ng halos dalawang mapagbigay o tatlong katamtamang bahagi. Para sa isang opisina o grupo ng pamilya, ang 6-inch na cake ay tinatantya sa 8–12 party slice at ang 8-inch sa 16–24. Ito ay mga tinatayang saklaw; sabihin sa White Cakes kung ilang tao ang kakain ng cake at hilingin sa panaderya na kumpirmahin ang tamang sukat.
-
-Ihambing ang mga pagpipilian ng lasa mula sa kasalukuyang menu—Tsokolate, Vanilla, Ube, Mango, at Red Velvet—at kumpirmahin ang availability para sa napiling petsa. Ang isang maikling inskripsiyon ng pasasalamat ay maaaring magkasya sa isang compact na cake, habang ang isang mas mahabang mensahe ay maaaring mangailangan ng mas malaking ibabaw. Tanungin kung ang disenyo at mga salita ay magagawa at humiling ng isang quote para sa eksaktong saklaw.
-
-Para sa isang sorpresa o paghahatid, ihambing din ang mga opsyon sa handoff. Kumpirmahin ang buong address, numero ng mobile ng receiver, window, at bayad sa paghahatid. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ng petsa, laki, disenyo, at mga tuntunin ay naayos.
-
-Panatilihin ang paghahambing na ito sa gitnang gabay sa pagpili ng cake at mag-link sa mga pahina ng mensahe at order kaysa sa pagdoble ng mga talahanayan ng produkto.
+- Verify current sizes, delivery, pricing, and production options before publication.
+- Cebuano and Tagalog drafts need native editorial review.

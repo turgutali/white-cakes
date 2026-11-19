@@ -1,38 +1,51 @@
 ---
 id: WC-0381
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for congratulations cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa pagpahalipay sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa pagbati sa Cebu"
+english_title: "How to Plan the Order Timeline for a Congratulations Cake in Cebu"
+cebuano_title: "Giunsa Pagplano sa Timeline sa Pag-order og Congratulations Cake sa Cebu"
+tagalog_title: "Paano Planuhin ang Timeline ng Pag-order ng Congratulations Cake sa Cebu"
 ---
 
-## Work backward from the moment the cake will be served
+## English
 
-For a graduation, promotion, or other milestone, first choose when and where the cake will be cut. Then allow time to confirm the design, flavour, size, recipient’s name, and whether the cake will be delivered or picked up. If several relatives are coordinating, assign one person to approve the final details and relay changes.
+# How to Plan the Order Timeline for a Congratulations Cake in Cebu
 
-White Cakes’ ordering guidance calls for at least three days’ notice for made-to-order cakes, and availability still needs confirmation. Contact the bakery earlier when the design is detailed or the date falls during a busy period. A 50% deposit confirms the agreed order; a message asking about a date alone does not reserve production.
+Start with the date and time the cake will be presented, then work backward to decide when to settle the guest count, size, flavour, message, and delivery plan. A graduation, new job, promotion, or family milestone can involve different venues and schedules, so identify the occasion and logistics in the first message to the bakery.
 
-Keep the current lead-time and deposit instructions in one authoritative order guide. Review them before publication so this event-specific version does not create a conflicting promise.
+The current ordering guide recommends at least three days’ notice. A larger cake, detailed design, or busy date may need earlier planning. Ask whether the bakery can accept the requested date before making event arrangements that depend on the cake. A lead-time guideline is not confirmation until the order is accepted.
+
+Once availability is confirmed, provide a complete written brief and review the quote. Confirm the design, size, wording, flavour, delivery address or pickup details, and who will receive the cake. The current site guide describes a 50% deposit after final price and details are agreed; verify today’s payment terms with the bakery.
+
+Leave a buffer before the congratulations moment. White Cakes confirms a delivery window rather than an exact arrival minute, so coordinate a receiver and keep the reveal schedule flexible. See the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Timeline sa Pag-order og Congratulations Cake sa Cebu
+
+Sugdi sa petsa ug oras nga ipresentar ang cake, dayon ihap paatras aron mahibaloan kanus-a tapuson ang ihap sa bisita, gidak-on, flavour, mensahe ug delivery plan. Lahi ang venue ug iskedyul sa graduation, bag-ong trabaho, promotion o milestone sa pamilya; busa isulti sa unang mensahe sa panaderya ang okasyon ug logistics.
+
+Ang kasamtangang ordering guide nagrekomendar og labing menos tulo ka adlaw nga pahibalo. Mahimong manginahanglan og mas sayo nga pagplano ang mas dako nga cake, detalyadong disenyo o busy nga petsa. Pangutan-a kon madawat ba sa panaderya ang petsa sa dili pa maghikay og event nga magsalig sa cake. Dili pa kumpirmasyon ang lead-time guideline hangtod dawaton ang order.
+
+Human makumpirma ang availability, paghatag og kompleto nga sinulat nga brief ug susiha ang quote. Kumpirmaha ang disenyo, gidak-on, teksto, flavour, delivery address o pickup details ug modawat. Ang kasamtangang site guide nag-ingon nga 50% nga deposit human mouyon sa pinal nga presyo ug detalye; susiha sa panaderya ang karon nga terms sa bayad.
+
+Pagbilin og buffer sa dili pa ang higayon sa pag-congratulate. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa pag-coordinate og modawat ug himoa nga flexible ang reveal schedule. Tan-awa ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Paano Planuhin ang Timeline ng Pag-order ng Congratulations Cake sa Cebu
+
+Magsimula sa petsa at oras na ihaharap ang cake, saka magbilang paatras para malaman kung kailan dapat tapusin ang bilang ng bisita, sukat, flavour, mensahe, at delivery plan. Maaaring magkaiba ang venue at schedule para sa graduation, bagong trabaho, promotion, o milestone ng pamilya, kaya ilahad agad sa bakery ang okasyon at logistics.
+
+Inirerekomenda ng kasalukuyang ordering guide ang hindi bababa sa tatlong araw na abiso. Maaaring mangailangan ng mas maagang pagpaplano ang mas malaking cake, detalyadong design, o abalang petsa. Itanong kung matatanggap ng bakery ang petsa bago mag-ayos ng event na nakadepende sa cake. Hindi pa kumpirmasyon ang lead-time guideline hanggang tanggapin ang order.
+
+Kapag nakumpirma ang availability, magbigay ng kumpletong nakasulat na brief at suriin ang quote. Kumpirmahin ang design, sukat, wording, flavour, delivery address o pickup details, at tatanggap. Sinasabi ng kasalukuyang site guide na 50% deposit matapos mapagkasunduan ang pinal na presyo at detalye; tiyakin sa bakery ang kasalukuyang payment terms.
+
+Maglaan ng palugit bago ang pagbati. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya magtalaga ng tatanggap at gawing flexible ang reveal schedule. Tingnan ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Trabaho paatras gikan sa higayon nga ang cake isilbi
-
-Para sa gradwasyon, promosyon, o uban pang milestone, pilia una kanus-a ug asa putol ang cake. Dayon tugoti ang panahon sa pagkumpirma sa disenyo, lami, gidak-on, ngalan sa tigdawat, ug kon ang cake ihatod o kuhaon. Kung daghang mga paryente ang nag-coordinate, itudlo ang usa ka tawo nga aprobahan ang katapusang mga detalye ug mga pagbag-o sa relay.
-
-Ang giya sa pag-order sa White Cakes nanginahanglan ug labing menos tulo ka adlaw nga pahibalo alang sa gihimo-sa-order nga mga cake, ug ang pagkaanaa kinahanglan pa nga kumpirmasyon. Kontaka ang panaderya sa sayo pa kung ang disenyo detalyado o ang petsa mahulog sa panahon sa usa ka busy nga panahon. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order; Ang usa ka mensahe nga nangutana bahin sa usa ka petsa nga nag-inusara wala magreserba sa produksiyon.
-
-Itago ang kasamtangan nga lead-time ug mga instruksyon sa pagdeposito sa usa ka awtoritatibo nga giya sa pag-order. Ribyuha kini sa dili pa imantala aron kini nga bersyon nga espesipiko sa panghitabo dili makamugna og nagkasumpaki nga saad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Trabaho pabalik mula sa sandaling ihain ang cake
-
-Para sa isang graduation, promotion, o iba pang milestone, piliin muna kung kailan at saan kukunin ang cake. Pagkatapos ay maglaan ng oras upang kumpirmahin ang disenyo, lasa, laki, pangalan ng tatanggap, at kung ihahatid o kukunin ang cake. Kung maraming kamag-anak ang nakikipag-ugnayan, magtalaga ng isang tao para aprubahan ang mga huling detalye at mga pagbabago sa relay.
-
-Ang gabay sa pag-order ng White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, at kailangan pa rin ng kumpirmasyon ang availability. Makipag-ugnayan sa panaderya nang mas maaga kapag ang disenyo ay detalyado o ang petsa ay bumagsak sa panahon ng abalang panahon. Kinukumpirma ng 50% na deposito ang napagkasunduang order; Ang isang mensahe na nagtatanong tungkol sa isang petsa lamang ay hindi nagrereserba ng produksyon.
-
-Panatilihin ang kasalukuyang lead-time at mga tagubilin sa deposito sa isang makapangyarihang gabay sa pag-order. Suriin ang mga ito bago ang paglalathala upang ang bersyong ito na partikular sa kaganapan ay hindi lumikha ng magkasalungat na pangako.
+- Reconfirm lead time, payment terms, and delivery practice before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,51 @@
 ---
 id: WC-0414
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "What to confirm before paying a deposit for housewarming cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa bag-ong puy-anan sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa bagong tahanan sa Cebu"
+english_title: "What to Confirm Before Paying a Deposit for a Housewarming Cake in Cebu"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Housewarming Cake sa Cebu"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Housewarming Cake sa Cebu"
 ---
 
-## Confirm the housewarming order before paying
+## English
 
-Check that White Cakes has confirmed the date and production slot. A new-home gathering can move while the host handles keys and deliveries, so verify the final time before treating the cake as booked. Made-to-order cakes require at least three days' notice.
+# What to Confirm Before Paying a Deposit for a Housewarming Cake in Cebu
 
-Read the order details carefully: size, flavour, design, exact inscription, final price, and pickup or delivery plan. If the cake is going to a new address, ask the host to confirm the full address, landmark, receiver's mobile number, and gate instructions. Verify the delivery window and fee for that location.
+Before paying a deposit, confirm the details that make the order workable at the new home. Check the event date, size or serving estimate, flavour, design, exact inscription, delivery address, entry instructions, and receiver. If the move-in schedule or access is not final, tell the bakery which parts may change.
 
-The current White Cakes process uses a 50% deposit to confirm the agreed order. Follow the payment instructions in the current quote and keep the receipt with the order confirmation. If a design reference or message is unclear, resolve it before payment.
+Ask for the final price in writing and clarify whether delivery is included for the full address. Confirm what happens if the date, guest range, or design changes, and ask for current payment and cancellation terms. The current site guide describes a 50% deposit after the price and order details are agreed; verify that this remains the policy.
 
-Keep deposit terms in the central ordering guide and recheck the process before publishing; do not rely on old messages or screenshots.
+Read the written summary before transferring money. Check spelling, the unit or floor, the receiver’s phone number, and the delivery window. A wrong building detail can make a housewarming delivery difficult even when the cake itself is correct.
+
+Save the payment receipt and final confirmation together. Share the confirmed plan with the person receiving the cake, especially if the organizer will be away during delivery. For the ordering sequence, see [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Housewarming Cake sa Cebu
+
+Sa dili pa mobayad og deposit, kumpirmaha ang mga detalye nga makatabang sa paghatod sa cake sa bag-ong balay. Susiha ang petsa, gidak-on o banabana sa servings, flavour, disenyo, eksaktong inskripsiyon, delivery address, instruksyon sa pagsulod ug modawat. Kung wala pa pinal ang iskedyul sa pagbalhin o access, sultihi ang panaderya unsay mahimong mausab.
+
+Pangayo sa sinulat ang pinal nga presyo ug klaroha kon apil ba ang delivery sa kompleto nga address. Kumpirmaha unsay mahitabo kon mausab ang petsa, ihap sa bisita o disenyo ug pangayoa ang kasamtangang terms sa bayad ug pagkansela. Nag-ingon ang kasamtangang site guide nga 50% nga deposit human mouyon sa presyo ug detalye; susiha kon mao pa kini ang policy.
+
+Basaha ang sinulat nga summary sa dili pa magpadala og bayad. Susiha ang spelling, unit o floor, numero sa modawat ug delivery window. Makapalisod sa delivery ang sayop nga detalye sa building bisan sakto ang cake.
+
+Tipigi nga magkauban ang resibo ug pinal nga kumpirmasyon. Ipaambit ang plano sa modawat, ilabi na kon wala ang organizer sa oras sa delivery. Para sa mga lakang sa pag-order, tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Housewarming Cake sa Cebu
+
+Bago magbayad ng deposit, kumpirmahin ang mga detalyeng kailangan para maihatid nang maayos ang cake sa bagong bahay. Suriin ang petsa ng event, sukat o tantiya ng servings, flavour, design, eksaktong inscription, delivery address, tagubilin sa pagpasok, at tatanggap. Kung hindi pa pinal ang move-in schedule o access, sabihin sa bakery kung ano ang maaaring magbago.
+
+Hingin sa sulat ang pinal na presyo at linawin kung kasama ang delivery sa buong address. Kumpirmahin ang proseso kung magbago ang petsa, bilang ng bisita, o design at hingin ang kasalukuyang payment at cancellation terms. Sinasabi ng kasalukuyang site guide na 50% deposit matapos mapagkasunduan ang presyo at detalye; tiyaking iyon pa rin ang policy.
+
+Basahin ang nakasulat na buod bago magpadala ng bayad. Suriin ang spelling, unit o floor, numero ng tatanggap, at delivery window. Maaaring pahirapan ng maling detalye ng building ang delivery kahit tama ang cake.
+
+Itago nang magkasama ang resibo at pinal na confirmation. Ibahagi ang napagkasunduang plano sa tatanggap, lalo na kung wala ang organizer sa oras ng delivery. Para sa mga hakbang sa pag-order, tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang order sa housewarming sa dili pa mobayad
-
-Susiha nga gikumpirma sa White Cakes ang petsa ug puwang sa produksiyon. Ang usa ka bag-ong balay nga panagtapok mahimong molihok samtang ang host nagdumala sa mga yawe ug mga paghatod, busa susiha ang katapusang oras sa dili pa pagtratar ang cake ingon nga gi-book. Ang hinimo nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo.
-
-Basaha pag-ayo ang mga detalye sa pag-order: gidak-on, lami, disenyo, eksaktong inskripsiyon, katapusang presyo, ug plano sa pagkuha o paghatud. Kung ang cake moadto sa usa ka bag-ong adres, hangyoa ang tagbalay sa pagkumpirma sa tibuuk nga adres, landmark, numero sa mobile sa tigdawat, ug mga panudlo sa ganghaan. I-verify ang delivery window ug bayranan alang niana nga lokasyon.
-
-Ang kasamtangang proseso sa White Cakes naggamit ug 50% nga deposito aron pagkumpirma sa gikasabutan nga order. Sunda ang mga instruksyon sa pagbayad sa kasamtangan nga quote ug tipigi ang resibo uban ang pagkumpirma sa order. Kung ang usa ka reperensiya sa disenyo o mensahe dili klaro, sulbaron kini sa dili pa magbayad.
-
-Itago ang mga termino sa pagdeposito sa sentro nga giya sa pag-order ug susihon pag-usab ang proseso sa dili pa imantala; ayaw pagsalig sa daan nga mga mensahe o mga screenshot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang housewarming order bago magbayad
-
-Tingnan kung nakumpirma ng White Cakes ang petsa at puwang ng produksyon. Maaaring lumipat ang isang bagong-bahay na pagtitipon habang pinangangasiwaan ng host ang mga susi at paghahatid, kaya i-verify ang huling oras bago ituring ang cake bilang na-book. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa.
-
-Basahin nang mabuti ang mga detalye ng order: laki, lasa, disenyo, eksaktong inskripsiyon, pinal na presyo, at plano sa pagkuha o paghahatid. Kung pupunta ang cake sa isang bagong address, hilingin sa host na kumpirmahin ang buong address, landmark, mobile number ng receiver, at mga tagubilin sa gate. I-verify ang delivery window at bayad para sa lokasyong iyon.
-
-Ang kasalukuyang proseso ng White Cakes ay gumagamit ng 50% na deposito upang kumpirmahin ang napagkasunduang order. Sundin ang mga tagubilin sa pagbabayad sa kasalukuyang quote at panatilihin ang resibo kasama ang kumpirmasyon ng order. Kung ang isang sanggunian sa disenyo o mensahe ay hindi malinaw, lutasin ito bago magbayad.
-
-Panatilihin ang mga tuntunin ng deposito sa gitnang gabay sa pag-order at suriin muli ang proseso bago i-publish; huwag umasa sa mga lumang mensahe o screenshot.
+- Reconfirm current deposit and payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.
