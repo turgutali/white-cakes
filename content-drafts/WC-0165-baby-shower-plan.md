@@ -1,44 +1,76 @@
 ---
 id: WC-0165
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "Planning baby shower cake in Cebu"
-cebuano_title: "Pagplano sa cake para sa baby shower sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa baby shower sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge the baby-shower serving and design brief into /journal/baby-shower-cakes-cebu.html and link to /journal/cake-sizes-cebu.html
+english_title: "How to Plan a Baby Shower Cake in Cebu"
+cebuano_title: "Giunsa Pagplano og Baby Shower Cake sa Cebu"
+tagalog_title: "Paano Magplano ng Baby Shower Cake sa Cebu"
 ---
 
-## Plan a baby-shower cake around the gathering
+## English
 
-Start with the number of people likely to eat cake, then choose the style. For a small home gathering, a single-tier cake may be easier to serve and move. A larger guest list may need an 8-inch or tiered option, but ask the bakery to confirm portions against your serving plan instead of relying on diameter alone.
+# How to Plan a Baby Shower Cake in Cebu
 
-White Cakes' current planning ranges are approximately 8–12 party slices for a 6-inch cake, 16–24 for an 8-inch cake, and 30–36 for a 6+8-inch two-tier cake. They are estimates; slice size, event menu, and whether cake is served to every guest affect the count. Tell the bakery if there will be other desserts or if you want smaller tasting slices.
+A baby-shower cake has to fit both the gathering and the table. Before picking a design, decide how many people will actually eat cake and when you plan to serve it. If the cake comes after a meal or alongside other desserts, tell the bakery; it changes how you should think about portion size.
 
-For the design, decide on a palette and one focal idea. A soft colour scheme can feel personal without adding details that compete with the table decor. Send a reference image, preferred flavour from the current menu, and any short inscription. Ask what can be made and what the confirmed price will be before placing the deposit.
+## Choose a serving plan first
 
-Allow at least three days' notice for a made-to-order cake, and check the date early. Confirm delivery or pickup, the receiving location, and who will handle the cake at the venue. Keep this planning section with the verified size guide; do not turn it into a second size article without separate evidence.
+White Cakes' current size guide estimates about 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and roughly 30–36 from a common 6-inch plus 8-inch two-tier arrangement. These are planning ranges rather than guaranteed counts. The height of the cake, the way it is cut, and whether guests receive small or generous slices affect the result. Share your expected cake-eater count and ask the bakery to confirm which size suits the gathering.
+
+## Make the design personal without overloading it
+
+Choose one main idea from the shower decor: a colour palette, a simple motif, or a short inscription. If the baby's name is not settled, a design can still use the event colours or a general welcome message. Send one clear reference photo and explain the details you want to keep. White Cakes decorates with hand-piped buttercream; ask what can be adapted for the selected size rather than assuming every reference detail can be copied.
+
+## Confirm the order and venue handover
+
+Send the date, flavour, serving plan, design reference, wording, and whether you need arranged pickup or delivery. For delivery, include the complete address, landmark, receiving person's mobile number, and any gate or lobby instructions. Ask for availability and the final quote before paying. White Cakes asks for at least three days' notice for made-to-order cakes; earlier enquiry gives you more time to settle the details. The 50% deposit confirms an agreed order.
+
+Use the [baby shower cake guide in Cebu](/journal/baby-shower-cakes-cebu.html) and the [Cebu cake-size guide](/journal/cake-sizes-cebu.html) to prepare the request.
+
+## Cebuano
+
+# Giunsa Pagplano og Baby Shower Cake sa Cebu
+
+Ang cake para sa baby shower kinahanglan mohaom sa panagtapok ug sa lamesa. Sa dili pa mopili og disenyo, hunahunaa pila ka tawo ang mokaon gyud og cake ug kanus-a kini i-serve. Kung human sa pagkaon o uban sa laing dessert ihatag ang cake, isulti kini sa panaderya kay makaapekto kini sa pagplano sa serving.
+
+## Sugdi sa serving plan
+
+Ang kasamtangang size guide sa White Cakes nagbanabana og 8–12 ka party slice para sa 6-inch cake, 16–24 para sa 8-inch, ug mga 30–36 para sa kasagarang two-tier nga 6-inch ug 8-inch. Mga range kini sa pagplano, dili garantiya sa eksaktong ihap. Makausab sa resulta ang gitas-on sa cake, paagi sa paghiwa ug kung gagmay o dagko ang serving. Isulti pila ang mokaon og cake ug pakumpirmaha sa panaderya kung unsang gidak-on ang angay sa panagtapok.
+
+## Himoang personal ang disenyo
+
+Pilia ang usa ka ideya gikan sa dekorasyon sa baby shower: paleta sa kolor, yano nga motif o mubo nga mensahe. Kung wala pa makumpirma ang ngalan sa bata, mahimo gihapon gamiton ang mga kolor sa okasyon o kinatibuk-ang welcome message. Magpadala og usa ka klarong reference photo ug ipasabut kung unsang detalye ang gusto nimong tipigan. Hand-piped buttercream ang dekorasyon sa White Cakes; pangutan-a unsa ang mapahiangay sa napiling gidak-on imbes maghunahuna nga makopya ang tanang detalye sa reference.
+
+## Kumpirmaha ang order ug pagdawat sa venue
+
+Ipadala ang petsa, flavour, serving plan, reference sa disenyo, mensahe ug kung pickup o delivery ang imong gusto. Para sa delivery, ihatag ang kompleto nga address, landmark, mobile number sa modawat ug instruksyon sa gate o lobby. Pangayo og kumpirmasyon sa availability ug final quote sa dili pa mobayad. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo para sa made-to-order cake; ang mas sayo nga inquiry maghatag og dugang oras sa pag-uyon sa detalye. Ang 50% nga deposito mokumpirma sa napagkasabutang order.
+
+Tan-awa ang [baby shower cake guide sa Cebu](/journal/baby-shower-cakes-cebu.html) ug [cake size guide sa Cebu](/journal/cake-sizes-cebu.html) sa pag-andam sa request.
+
+## Tagalog
+
+# Paano Magplano ng Baby Shower Cake sa Cebu
+
+Dapat bumagay ang baby-shower cake sa pagtitipon at sa mesa. Bago pumili ng disenyo, isipin kung ilan talaga ang kakain ng cake at kung kailan ito ihahain. Kung pagkatapos ito ng pagkain o kasabay ng ibang dessert, sabihin ito sa bakery dahil nakaaapekto ito sa pagpaplano ng servings.
+
+## Magsimula sa serving plan
+
+Tinatantiyang 8–12 party slice ang 6-inch cake sa kasalukuyang size guide ng White Cakes, 16–24 ang 8-inch, at humigit-kumulang 30–36 ang karaniwang 6-inch at 8-inch na two-tier. Mga planning range ito, hindi garantisadong bilang. Nagbabago ang resulta ayon sa taas ng cake, paraan ng paghiwa, at kung maliit o masagana ang serving. Sabihin kung ilan ang kakain ng cake at ipasuri sa bakery kung anong sukat ang babagay sa pagtitipon.
+
+## Gawing personal ang disenyo
+
+Pumili ng isang pangunahing ideya mula sa dekorasyon ng baby shower: colour palette, simpleng motif, o maikling mensahe. Kung hindi pa napagpapasyahan ang pangalan ng baby, maaari pa ring gumamit ng mga kulay ng event o pangkalahatang welcome message. Magpadala ng isang malinaw na reference photo at ipaliwanag kung aling detalye ang gusto mong panatilihin. Hand-piped buttercream ang dekorasyon ng White Cakes; itanong kung ano ang puwedeng iangkop sa napiling sukat sa halip na ipagpalagay na eksaktong makokopya ang lahat ng detalye.
+
+## Kumpirmahin ang order at pagtanggap sa venue
+
+Ipadala ang petsa, flavour, serving plan, design reference, text, at kung pickup o delivery ang gusto mo. Para sa delivery, ibigay ang kumpletong address, landmark, mobile number ng tatanggap, at tagubilin para sa gate o lobby. Hingin ang kumpirmasyon ng availability at final quote bago magbayad. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake; mas maagang inquiry ang nagbibigay ng dagdag na oras para ayusin ang mga detalye. Kinukumpirma ng 50% deposit ang napagkasunduang order.
+
+Gamitin ang [baby shower cake guide sa Cebu](/journal/baby-shower-cakes-cebu.html) at [cake size guide sa Cebu](/journal/cake-sizes-cebu.html) sa paghahanda ng request.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano ug baby-shower cake sa palibot sa panagtapok
-
-Pagsugod sa gidaghanon sa mga tawo nga lagmit mokaon sa cake, dayon pilia ang istilo. Alang sa usa ka gamay nga panagtapok sa balay, ang usa ka hut-ong nga cake mahimong mas sayon ​​​​sa pag-alagad ug paglihok. Ang usa ka mas dako nga lista sa bisita mahimong magkinahanglan usa ka 8-pulgada o tiered nga kapilian, apan hangyoa ang panaderya sa pagkumpirma sa mga bahin batok sa imong plano sa pagserbisyo imbis nga magsalig sa diameter nga mag-inusara.
-
-Ang kasamtangang mga han-ay sa pagplano sa White Cakes mao ang gibana-bana nga 8–12 ka hiwa sa party para sa 6-pulgada nga cake, 16–24 para sa 8-pulgada nga cake, ug 30–36 alang sa 6+8-pulgada nga duha-ka-tier nga cake. Mga banabana sila; gidak-on sa slice, menu sa panghitabo, ug kung ang cake ba gisilbi sa matag bisita makaapekto sa ihap. Sultihi ang panaderya kung adunay ubang mga dessert o kung gusto nimo ang gagmay nga mga hiwa sa pagtilaw.
-
-Alang sa disenyo, pagdesisyon sa usa ka palette ug usa ka focal nga ideya. Ang usa ka humok nga laraw sa kolor mahimong mobati nga personal nga wala magdugang mga detalye nga nakigkompetensya sa dekorasyon sa lamesa. Pagpadala usa ka reference nga imahe, gusto nga lami gikan sa karon nga menu, ug bisan unsang mubo nga inskripsiyon. Pangutan-a kung unsa ang mahimo ug kung unsa ang gikumpirma nga presyo sa wala pa ibutang ang deposito.
-
-Tugoti ang labing menos tulo ka adlaw nga pahibalo alang sa usa ka made-to-order nga cake, ug susiha ang petsa sa sayo. Kumpirma ang pagpadala o pag-pickup, ang lokasyon sa pagdawat, ug kung kinsa ang magdumala sa cake sa lugar. Hupti kini nga seksyon sa pagplano uban ang gipamatud-an nga giya sa gidak-on; ayaw kini himoa nga ikaduhang gidak-on nga artikulo nga walay bulag nga ebidensya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng baby-shower cake sa paligid ng pagtitipon
-
-Magsimula sa bilang ng mga taong malamang na kumain ng cake, pagkatapos ay piliin ang istilo. Para sa isang maliit na pagtitipon sa bahay, maaaring mas madaling ihain at ilipat ang isang single-tier na cake. Ang isang mas malaking listahan ng bisita ay maaaring mangailangan ng 8-inch o tiered na opsyon, ngunit hilingin sa panaderya na kumpirmahin ang mga bahagi laban sa iyong plano sa paghahatid sa halip na umasa sa diameter lamang.
-
-Ang mga kasalukuyang saklaw ng pagpaplano ng White Cakes ay humigit-kumulang 8–12 party slice para sa isang 6-inch na cake, 16–24 para sa isang 8-inch na cake, at 30–36 para sa isang 6+8-inch na two-tier na cake. Ang mga ito ay mga pagtatantya; laki ng slice, menu ng kaganapan, at kung ang cake ay ihain sa bawat bisita ay makakaapekto sa bilang. Sabihin sa panaderya kung magkakaroon ng iba pang mga dessert o kung gusto mo ng mas maliliit na hiwa ng pagtikim.
-
-Para sa disenyo, magpasya sa isang palette at isang focal idea. Ang isang malambot na scheme ng kulay ay maaaring maging personal nang hindi nagdaragdag ng mga detalye na nakikipagkumpitensya sa palamuti ng mesa. Magpadala ng reference na larawan, gustong lasa mula sa kasalukuyang menu, at anumang maikling inskripsyon. Itanong kung ano ang maaaring gawin at kung ano ang kumpirmadong presyo bago ilagay ang deposito.
-
-Magbigay ng hindi bababa sa tatlong araw na paunawa para sa isang made-to-order na cake, at suriin ang petsa nang maaga. Kumpirmahin ang paghahatid o pagsundo, ang lokasyon ng pagtanggap, at kung sino ang hahawak ng cake sa venue. Panatilihin ang seksyong pagpaplano na ito kasama ang na-verify na gabay sa laki; huwag itong gawing pangalawang laki ng artikulo nang walang hiwalay na ebidensya.
+- Verify the current serving ranges, hand-piped style, lead time, deposit, and delivery process before integration.
+- Keep the baby-shower section in its existing occasion guide and link to the canonical size guide.
+- Cebuano and Tagalog copy is newly written but still needs native review before publication.

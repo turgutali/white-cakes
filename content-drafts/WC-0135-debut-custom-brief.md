@@ -1,44 +1,70 @@
 ---
 id: WC-0135
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "What to include in a custom brief for debut cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa debut sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa debut sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and link to the debut cake guide
+english_title: "What to Include in a Custom Debut Cake Brief in Cebu"
+cebuano_title: "Unsa ang Iapil sa Custom Debut Cake Brief sa Cebu"
+tagalog_title: "Ano ang Isasama sa Custom Debut Cake Brief sa Cebu"
 ---
 
-## A useful custom-cake brief for a Cebu debut
+## English
 
-A debut cake brief works best when it separates the event essentials from visual inspiration. Begin with the event date, the time the cake must arrive, the venue or delivery address, and the number of people expected to eat cake. A venue guest count is not automatically a cake-serving count, so tell the bakery whether the cake is the only dessert and whether slices will be small or generous.
+# What to Include in a Custom Debut Cake Brief in Cebu
 
-Next, describe the design in a few concrete points: main colours, overall mood, any detail that must appear, and details you do not want. Attach one or two reference images and explain what you like in each. References should guide the design rather than imply that every element can be reproduced; the decorator must confirm feasibility, available flavours, and price for the requested work.
+A useful debut cake brief helps the bakery understand the event, the people sharing the cake, and the look you have in mind. Send the essential details together so the design, size, quote, and handover plan can be discussed as one order.
 
-White Cakes asks for at least three days' notice for custom cakes, and a sought-after event date should be checked earlier. A 50% deposit confirms the agreed order after availability and terms are confirmed. Put the final wording in the brief and ask whether it fits the planned design.
+## Start with the event plan
 
-Use this debut-specific checklist as a section of the central custom-cake briefing guide. A standalone debut article would need a distinct query and first-party examples; changing only the occasion name would create a thin duplicate.
+Include the debut date, venue or delivery address, and the time the cake should be ready for the celebration. Say how many people are expected to eat cake; the full guest count is not always the number of servings needed. If the cake follows dinner or sits beside other desserts, mention that when asking about size. Tell the bakery whether you want arranged Cebu City pickup or delivery.
+
+## Describe the design clearly
+
+For an 18th-birthday cake, give the celebrant's exact name and age, the colours or mood of the party, and any detail that must appear. If there is something you do not want, include that too. Send one or two reference photos and explain which elements you like—for example, the palette, lettering, or arrangement. A photo is a starting point for discussion, not a promise that every detail can be copied. White Cakes works in hand-piped buttercream and will confirm what can be made for the requested size.
+
+Write the exact inscription, including spelling and capitalization, and ask if it will fit the design. Then request confirmation of availability, flavour, size, final price, and pickup or delivery details. White Cakes asks for at least three days' notice for custom cakes; a busy debut date should be checked earlier. The 50% deposit confirms an agreed order after the details and terms are settled.
+
+Use the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) and [debut cake guide in Cebu](/journal/debut-cake-cebu.html) when preparing your request.
+
+## Cebuano
+
+# Unsa ang Iapil sa Custom Debut Cake Brief sa Cebu
+
+Ang klaro nga debut cake brief makatabang sa panaderya nga masabtan ang okasyon, ang mga mokaon sa cake ug ang hitsura nga imong gihunahuna. Ipadala ang importanteng detalye nga dungan aron maistoryahan ang disenyo, gidak-on, quote ug paagi sa pagdawat isip usa ka order.
+
+## Sugdi sa plano sa okasyon
+
+Iapil ang petsa sa debut, venue o delivery address, ug oras nga kinahanglan andam na ang cake. Isulti pila ka tawo ang mokaon og cake; dili kanunay pareho ang ihap sa bisita ug serving. Kung human sa panihapon i-serve ang cake o naa pay laing dessert, sultihi ang panaderya sa pagpangutana bahin sa gidak-on. Isulti kung pickup sa Cebu City o delivery ang imong gusto.
+
+## Ihulagway og klaro ang disenyo
+
+Para sa cake sa ika-18 nga birthday, ihatag ang eksaktong ngalan ug edad sa celebrant, kolor o mood sa party, ug mga detalyeng kinahanglan makita. Isulat usab kung unsay dili nimo gusto. Magpadala og usa o duha ka reference photo ug ipasabut unsang bahin ang ganahan ka—sama sa paleta, lettering o porma sa dekorasyon. Sugod sa paghisgot ang litrato; dili kini saad nga eksaktong makopya ang tanang detalye. Hand-piped buttercream ang estilo sa White Cakes ug kumpirmahon nila kung unsa ang mahimo sa gidak-on nga imong gipangayo.
+
+Ipadala ang eksaktong mensahe, apil ang spelling ug capitalization, ug pangutan-a kung moigo kini sa disenyo. Dayon pakumpirmaha ang availability, flavour, gidak-on, final nga presyo ug pickup o delivery details. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo para sa custom cake; pangutana og mas sayo kung busy nga petsa sa debut. Ang 50% nga deposito mokumpirma sa napagkasabutang order human maklaro ang detalye ug terms.
+
+Tan-awa ang [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) ug [debut cake guide sa Cebu](/journal/debut-cake-cebu.html) sa pag-andam sa imong request.
+
+## Tagalog
+
+# Ano ang Isasama sa Custom Debut Cake Brief sa Cebu
+
+Nakakatulong ang malinaw na debut cake brief para maintindihan ng bakery ang okasyon, ang mga magsasalo ng cake, at ang itsurang gusto mo. Ipadala nang magkakasama ang mahahalagang detalye para mapag-usapan bilang isang order ang disenyo, sukat, quote, at paraan ng pagtanggap.
+
+## Magsimula sa plano ng event
+
+Isama ang petsa ng debut, venue o delivery address, at oras kung kailan dapat handa ang cake. Sabihin kung ilan ang kakain ng cake; hindi laging katumbas ng servings ang buong bilang ng bisita. Kung pagkatapos ng hapunan ihahain ang cake o may iba pang dessert, banggitin ito kapag nagtatanong ng sukat. Sabihin kung Cebu City pickup o delivery ang gusto mo.
+
+## Ilarawan nang malinaw ang disenyo
+
+Para sa cake ng ika-18 kaarawan, ibigay ang eksaktong pangalan at edad ng celebrant, mga kulay o mood ng party, at mga detalyeng kailangang makita. Isama rin ang mga ayaw mong maisama. Magpadala ng isa o dalawang reference photo at sabihin kung aling bahagi ang gusto mo—gaya ng palette, lettering, o ayos ng dekorasyon. Panimulang gabay sa usapan ang larawan, hindi pangako na eksaktong makokopya ang bawat detalye. Hand-piped buttercream ang estilo ng White Cakes at kukumpirmahin nila kung ano ang posible sa sukat na hinihingi mo.
+
+Ipadala ang eksaktong inscription, kasama ang baybay at capitalization, at itanong kung magkakasya ito sa disenyo. Pagkatapos, ipasuri ang availability, flavour, sukat, final na presyo, at pickup o delivery details. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso para sa custom cake; magtanong nang mas maaga para sa busy na debut date. Kinukumpirma ng 50% deposit ang napagkasunduang order kapag malinaw na ang mga detalye at terms.
+
+Gamitin ang [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) at [debut cake guide sa Cebu](/journal/debut-cake-cebu.html) habang inihahanda ang request mo.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Usa ka mapuslanong custom-cake brief para sa debut sa Cebu
-
-Ang usa ka mubo nga debut cake labing maayo kung kini nagbulag sa mga kinahanglanon sa panghitabo gikan sa biswal nga inspirasyon. Magsugod sa petsa sa panghitabo, oras nga kinahanglan moabot ang cake, ang lugar o adres sa pagpadala, ug ang gidaghanon sa mga tawo nga gilauman nga mokaon sa cake. Ang usa ka venue guest count dili awtomatik nga usa ka cake-serving count, busa sultihi ang panaderya kung ang cake mao ra ang dessert ug kung ang mga hiwa gamay o manggihatagon.
-
-Sunod, ihulagway ang disenyo sa pipila ka mga konkretong punto: nag-unang mga kolor, kinatibuk-ang mood, bisan unsang detalye nga kinahanglan nga makita, ug mga detalye nga dili nimo gusto. Ilakip ang usa o duha ka reference nga mga hulagway ug ipasabut kung unsa ang imong gusto sa matag usa. Ang mga reperensiya kinahanglang mogiya sa disenyo kay sa magpasabot nga ang matag elemento mahimong kopyahon; kinahanglan nga kumpirmahon sa dekorador ang posibilidad, magamit nga mga lami, ug presyo alang sa gihangyo nga trabaho.
-
-Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa naandan nga mga cake, ug ang gipangita nga petsa sa panghitabo kinahanglan nga susihon sa sayo pa. Ang usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order pagkahuman sa pagkaanaa ug mga termino nakumpirma. Ibutang ang kataposang mga pulong sa mubo ug pangutana kon haom ba kini sa giplano nga disenyo.
-
-Gamita kini nga espesipiko nga pasiuna nga checklist isip usa ka seksyon sa sentro nga custom-cake briefing guide. Ang usa ka standalone nga debut nga artikulo nanginahanglan usa ka lahi nga pangutana ug mga panig-ingnan sa una nga partido; Ang pagbag-o lamang sa ngalan sa okasyon makahimo og nipis nga duplicate.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Isang kapaki-pakinabang na custom-cake brief para sa isang debut sa Cebu
-
-Ang isang debut cake brief ay pinakamahusay na gumagana kapag ito ay naghihiwalay sa mga mahahalagang kaganapan mula sa visual na inspirasyon. Magsimula sa petsa ng kaganapan, ang oras na dapat dumating ang cake, ang lugar o address ng paghahatid, at ang bilang ng mga taong inaasahang makakain ng cake. Ang bilang ng panauhin sa lugar ay hindi awtomatikong bilang ng naghahain ng cake, kaya sabihin sa panaderya kung ang cake lang ang panghimagas at kung ang mga hiwa ay magiging maliit o mapagbigay.
-
-Susunod, ilarawan ang disenyo sa ilang konkretong punto: mga pangunahing kulay, pangkalahatang mood, anumang detalye na dapat lumabas, at mga detalyeng hindi mo gusto. Maglakip ng isa o dalawang reference na larawan at ipaliwanag kung ano ang gusto mo sa bawat isa. Dapat gabayan ng mga sanggunian ang disenyo sa halip na magpahiwatig na ang bawat elemento ay maaaring kopyahin; dapat kumpirmahin ng dekorador ang pagiging posible, mga available na lasa, at presyo para sa hiniling na trabaho.
-
-Ang White Cakes ay humihingi ng hindi bababa sa tatlong araw na abiso para sa mga custom na cake, at ang isang hinahanap na petsa ng kaganapan ay dapat suriin nang mas maaga. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos makumpirma ang availability at mga tuntunin. Ilagay ang huling salita sa maikling at itanong kung ito ay akma sa nakaplanong disenyo.
-
-Gamitin ang checklist na ito na partikular sa debut bilang isang seksyon ng central custom-cake briefing guide. Ang isang standalone na artikulo sa pasinaya ay mangangailangan ng natatanging query at mga halimbawa ng first-party; ang pagpapalit lamang ng pangalan ng okasyon ay lilikha ng manipis na duplicate.
+- Confirm current design limits, lead time, pickup/delivery, price, and deposit terms before production integration.
+- This event-specific brief enriches the existing custom brief; keep it there instead of making a thin near-duplicate English article.
+- Cebuano and Tagalog copy is newly written but still needs native review.

@@ -1,44 +1,70 @@
 ---
 id: WC-0083
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html and /journal/how-to-choose-wedding-cake-cebu.html
-english_title: "How to prepare for delivery of wedding cake in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa kasal sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa kasal sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge the wedding-venue handover checklist into /journal/cake-delivery-cebu.html and /journal/wedding-cakes-cebu.html
+english_title: "How to Arrange Wedding Cake Delivery in Cebu"
+cebuano_title: "Giunsa Pag-arrange sa Delivery sa Wedding Cake sa Cebu"
+tagalog_title: "Paano Ayusin ang Delivery ng Wedding Cake sa Cebu"
 ---
 
-## A wedding-cake delivery plan that gives the receiver clear instructions
+## English
 
-Wedding-day timing is easier to manage when the delivery details are agreed before the event week. White Cakes asks for at least three days' notice and confirms a delivery window rather than promising an exact minute. For a ceremony or reception, contact the bakery earlier than the minimum and ask whether your date and requested design can be accepted. A busy Saturday or holiday should never be treated as available until you receive confirmation.
+# How to Arrange Wedding Cake Delivery in Cebu
 
-When you request a quote, provide the full venue address and a nearby landmark, then explain where the driver should go: the main gate, loading entrance, reception desk, or another approved handover point. Name the person who will receive the cake and include their mobile number. If the venue requires a pass, advance notice, or a call at the gate, arrange that with the venue and share the instruction with the bakery before delivery day.
+Wedding cake delivery takes coordination with both the bakery and the venue. Confirm the event date and the cake design first, then agree on a delivery window that gives the venue team time to receive the cake before it is needed. White Cakes arranges a window rather than promising an exact minute; traffic and venue access can change the route.
 
-Confirm the agreed delivery window with the person responsible for the cake table. Buttercream is perishable and should not be left in a warm car, direct sun, or an unattended guardhouse. Make sure a person can take the box promptly and move it to a suitable cool place until setup. If the cake needs to be carried a distance inside the venue, tell the bakery when planning the design and delivery.
+## Prepare a clear handover
 
-The order note should also include the final design, size, flavour, and message spelling, plus the confirmed quote and delivery charge. White Cakes delivers in Cebu City, Mandaue City, and Lapu-Lapu City; route access and the exact address matter when the window is agreed. Keep this wedding handover checklist within the existing Cebu delivery and wedding-cake guides so readers can find one consistent set of logistics.
+Send the complete venue address, a nearby landmark, the name and mobile number of the person who will receive the cake, and any gate, loading-bay, visitor-pass, or lobby instructions. If the couple, planner, and venue coordinator have different contacts, choose one person who will be reachable during the agreed window. A buttercream cake should not be left outside, in a warm lobby, or in a parked vehicle while someone looks for the right recipient.
+
+Tell the bakery when the cake will be cut and whether the venue has a cool place for it before service. Keep the box level and move it indoors promptly after handover. If your design is large or tiered, ask the bakery to confirm that the requested size and delivery plan work together; do not assume that venue setup or on-site assembly is included.
+
+## Confirm the order details
+
+Share the date, guest count, serving plan, flavour, design reference, and inscription. Confirm the final cake specification, quote, delivery charge, and window before the 50% deposit confirms the agreed order. For a made-to-order cake, White Cakes asks for at least three days' notice; ask earlier for a wedding date and wait for availability confirmation.
+
+For current service areas and delivery instructions, see the [Metro Cebu cake-delivery guide](/journal/cake-delivery-cebu.html) and [wedding cake guide](/journal/wedding-cakes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-arrange sa Delivery sa Wedding Cake sa Cebu
+
+Ang delivery sa wedding cake nanginahanglan og koordinasyon sa panaderya ug venue. Kumpirmaha una ang petsa ug disenyo, dayon sabot mo og delivery window aron makadawat ang venue team sa cake sa dili pa kini kinahanglanon. Window ang ihatag sa White Cakes, dili eksaktong minuto; mahimong makaapekto sa biyahe ang traffic ug pagsulod sa venue.
+
+## Pag-andam og klaro nga pagdawat
+
+Ipadala ang kompletong address sa venue, duol nga landmark, ngalan ug mobile number sa modawat, ug mga instruksyon bahin sa gate, loading bay, visitor pass o lobby. Kung lahi-lahi ang contact sa magtiayon, planner ug venue coordinator, pagpili og usa ka tawo nga motubag sulod sa nasabotang window. Dili angay ibilin ang buttercream cake sa gawas, init nga lobby o gipark nga sakyanan samtang gipangita ang modawat.
+
+Isulti sa panaderya kanus-a hiwaan ang cake ug kung adunay bugnaw nga lugar sa venue aron tipigan kini sa dili pa i-serve. Ipatag ang kahon ug dad-a dayon kini sulod human madawat. Kung dako o two-tier ang disenyo, pakumpirmaha sa panaderya nga mohaom ang gidak-on ug delivery plan; ayaw paghunahuna nga apil ang pag-setup o pag-assemble sa venue.
+
+## Kumpirmaha ang detalye sa order
+
+Ihatag ang petsa, guest count, serving plan, flavour, reference sa disenyo ug inskripsiyon. Kumpirmaha ang cake specification, quote, delivery charge ug window sa dili pa mokumpirma sa order ang 50% nga deposito. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo para sa made-to-order cake; pangutana og sayo para sa wedding date ug hulata ang kumpirmasyon sa availability.
+
+Tan-awa ang [Metro Cebu cake-delivery guide](/journal/cake-delivery-cebu.html) ug [wedding cake guide](/journal/wedding-cakes-cebu.html) para sa kasamtangang service areas ug delivery instructions.
+
+## Tagalog
+
+# Paano Ayusin ang Delivery ng Wedding Cake sa Cebu
+
+Nangangailangan ng koordinasyon sa bakery at venue ang delivery ng wedding cake. Kumpirmahin muna ang petsa at disenyo, saka magkasundo sa delivery window para matanggap ng venue team ang cake bago ito kailanganin. Window ang ibinibigay ng White Cakes, hindi eksaktong minuto; maaaring makaapekto sa ruta ang traffic at access sa venue.
+
+## Maghanda ng malinaw na pagtanggap
+
+Ipadala ang kumpletong address ng venue, kalapit na landmark, pangalan at mobile number ng tatanggap, at tagubilin tungkol sa gate, loading bay, visitor pass, o lobby. Kung magkakaiba ang contact ng couple, planner, at venue coordinator, pumili ng isang taong makakasagot sa napagkasunduang window. Hindi dapat iwan ang buttercream cake sa labas, mainit na lobby, o nakaparadang sasakyan habang hinahanap ang tatanggap.
+
+Sabihin sa bakery kung kailan hiwain ang cake at kung may malamig na lugar ang venue para paglagyan bago ihain. Panatilihing patag ang kahon at ipasok agad ang cake pagkatapos matanggap. Kung malaki o two-tier ang disenyo, itanong kung magkatugma ang sukat at delivery plan; huwag ipagpalagay na kasama ang setup o pagbuo nito sa venue.
+
+## Kumpirmahin ang detalye ng order
+
+Ibigay ang petsa, guest count, serving plan, flavour, design reference, at inscription. Kumpirmahin ang pinal na cake specification, quote, delivery charge, at window bago kumpirmahin ng 50% deposit ang napagkasunduang order. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake; magtanong nang mas maaga para sa wedding date at hintayin ang kumpirmasyon ng availability.
+
+Tingnan ang [Metro Cebu cake-delivery guide](/journal/cake-delivery-cebu.html) at [wedding cake guide](/journal/wedding-cakes-cebu.html) para sa kasalukuyang service areas at delivery instructions.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Usa ka plano sa paghatud sa cake sa kasal nga naghatag sa tigdawat ug tin-aw nga mga instruksyon
-
-Ang oras sa adlaw sa kasal mas dali madumala kung ang mga detalye sa paghatud giuyonan sa wala pa ang semana sa kalihokan. Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo ug nagpamatuod sa usa ka bintana sa pagpadala imbes nga magsaad ug eksaktong minuto. Para sa usa ka seremonyas o salo-salo, kontaka ang panaderya nga mas sayo kay sa minimum ug pangutan-a kon ang imong petsa ug gihangyo nga disenyo madawat ba. Ang usa ka busy nga Sabado o holiday dili kinahanglan nga isipon nga magamit hangtod makadawat ka og kumpirmasyon.
-
-Kung mangayo ka ug usa ka kinutlo, ihatag ang tibuuk nga adres sa lugar ug usa ka duol nga landmark, dayon ipasabut kung asa moadto ang drayber: ang panguna nga ganghaan, agianan sa pagkarga, desk sa pagdawat, o uban pa nga giaprubahan nga punto sa pagtugyan. Ngalan ang tawo nga makadawat sa cake ug iapil ang ilang mobile number. Kung ang venue nanginahanglan usa ka pass, abante nga pahibalo, o usa ka tawag sa ganghaan, hikayon kana sa lugar ug ipaambit ang panudlo sa panaderya sa wala pa ang adlaw sa pagpadala.
-
-Kumpirma ang gikasabutan nga delivery window uban sa tawo nga responsable sa lamesa sa cake. Ang buttercream daling madunot ug dili kinahanglan nga ibilin sa usa ka mainit nga awto, direkta nga adlaw, o usa ka wala mabantayan nga guardhouse. Siguruha nga makuha dayon sa usa ka tawo ang kahon ug ibalhin kini sa usa ka angay nga cool nga lugar hangtod ma-setup. Kung ang cake kinahanglan nga dad-on sa layo sa sulod sa venue, sultihi ang panaderya kung magplano sa disenyo ug paghatod.
-
-Ang order note kinahanglan usab nga maglakip sa katapusang disenyo, gidak-on, lami, ug spelling sa mensahe, lakip ang gikumpirma nga kinutlo ug bayad sa pagpadala. White Cakes nagdeliver sa Cebu City, Mandaue City, ug Lapu-Lapu City; access sa ruta ug ang eksaktong adres hinungdanon kung ang bintana giuyonan. Itago kining checklist sa handover sa kasal sulod sa kasamtangan nga Cebu delivery ug wedding-cake guides aron ang mga magbabasa makakita og usa ka makanunayon nga set sa logistics.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Isang wedding-cake delivery plan na nagbibigay sa receiver ng malinaw na mga tagubilin
-
-Mas madaling pamahalaan ang timing sa araw ng kasal kapag napagkasunduan ang mga detalye ng paghahatid bago ang linggo ng kaganapan. Ang White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa at kinukumpirma ang isang window ng paghahatid sa halip na mangako ng eksaktong minuto. Para sa isang seremonya o pagtanggap, makipag-ugnayan sa panaderya nang mas maaga kaysa sa minimum at tanungin kung ang iyong petsa at hiniling na disenyo ay maaaring tanggapin. Ang isang abalang Sabado o holiday ay hindi dapat ituring na available hanggang sa makatanggap ka ng kumpirmasyon.
-
-Kapag humiling ka ng quote, ibigay ang buong address ng venue at isang kalapit na landmark, pagkatapos ay ipaliwanag kung saan dapat pumunta ang driver: ang main gate, loading entrance, reception desk, o isa pang aprubadong handover point. Pangalanan ang taong tatanggap ng cake at isama ang kanilang mobile number. Kung ang venue ay nangangailangan ng pass, advance notice, o isang tawag sa gate, ayusin iyon sa venue at ibahagi ang pagtuturo sa panaderya bago ang araw ng paghahatid.
-
-Kumpirmahin ang napagkasunduang delivery window sa taong responsable para sa cake table. Ang buttercream ay nabubulok at hindi dapat iwan sa isang mainit na kotse, direktang sikat ng araw, o isang guardhouse na walang nagbabantay. Tiyaking makukuha kaagad ng isang tao ang kahon at ilipat ito sa isang angkop na malamig na lugar hanggang sa ma-setup. Kung ang cake ay kailangang dalhin sa malayo sa loob ng venue, sabihin sa panaderya kapag nagpaplano ng disenyo at paghahatid.
-
-Dapat ding kasama sa tala ng order ang panghuling disenyo, laki, lasa, at spelling ng mensahe, kasama ang nakumpirmang quote at singil sa paghahatid. Nagde-deliver ang White Cakes sa Cebu City, Mandaue City, at Lapu-Lapu City; access sa ruta at ang eksaktong address ay mahalaga kapag napagkasunduan ang window. Panatilihin ang checklist ng handover sa kasal na ito sa umiiral nang Cebu delivery at wedding-cake guide para mahanap ng mga mambabasa ang isang pare-parehong hanay ng logistik.
+- Confirm delivery service areas, window policy, venue handover details, lead time, and deposit terms at production time.
+- Do not imply venue setup, on-site assembly, or exact-time delivery unless the bakery confirms those services.
+- Cebuano and Tagalog copy is newly written and needs native review before publication.
