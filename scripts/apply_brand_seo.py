@@ -144,8 +144,14 @@ SITEMAP_PAGES = [
     ("/birthday-cakes-cebu-ceb/", "monthly", "0.85"),
     ("/birthday-cakes-cebu-tagalog/", "monthly", "0.85"),
     ("/anniversary-cakes-cebu/", "monthly", "0.85"),
+    ("/anniversary-cakes-cebu-ceb/", "monthly", "0.85"),
+    ("/anniversary-cakes-cebu-tagalog/", "monthly", "0.85"),
     ("/wedding-cakes-cebu/", "monthly", "0.85"),
+    ("/wedding-cakes-cebu-ceb/", "monthly", "0.85"),
+    ("/wedding-cakes-cebu-tagalog/", "monthly", "0.85"),
     ("/corporate-cake-orders-cebu/", "monthly", "0.85"),
+    ("/corporate-cake-orders-cebu-ceb/", "monthly", "0.85"),
+    ("/corporate-cake-orders-cebu-tagalog/", "monthly", "0.85"),
     ("/cake-delivery-cebu-city/", "monthly", "0.85"),
     ("/cake-delivery-cebu-city-ceb/", "monthly", "0.85"),
     ("/cake-delivery-cebu-city-tagalog/", "monthly", "0.85"),
@@ -156,6 +162,8 @@ SITEMAP_PAGES = [
     ("/cake-delivery-lapu-lapu-ceb/", "monthly", "0.85"),
     ("/cake-delivery-lapu-lapu-tagalog/", "monthly", "0.85"),
     ("/christmas-cakes-cebu/", "weekly", "0.9"),
+    ("/christmas-cakes-cebu-ceb/", "weekly", "0.9"),
+    ("/christmas-cakes-cebu-tagalog/", "weekly", "0.9"),
     ("/order/", "monthly", "0.95"),
     ("/about/", "monthly", "0.8"),
     ("/ordering/", "monthly", "0.8"),
@@ -1171,6 +1179,14 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 - [Birthday cakes]({BASE}/birthday-cakes-cebu/) — Birthday cakes made to order.
 - [Birthday cakes in Cebuano]({BASE}/birthday-cakes-cebu-ceb/) — Birthday cake sizes, flavours, and ordering details in Cebuano.
 - [Birthday cakes in Tagalog]({BASE}/birthday-cakes-cebu-tagalog/) — Birthday cake sizes, flavours, and ordering details in Tagalog.
+- [Anniversary cakes in Cebuano]({BASE}/anniversary-cakes-cebu-ceb/) — Anniversary cake styles and gift delivery in Cebuano.
+- [Anniversary cakes in Tagalog]({BASE}/anniversary-cakes-cebu-tagalog/) — Anniversary cake styles and gift delivery in Tagalog.
+- [Wedding cakes in Cebuano]({BASE}/wedding-cakes-cebu-ceb/) — Intimate wedding cake planning, serving and starting prices in Cebuano.
+- [Wedding cakes in Tagalog]({BASE}/wedding-cakes-cebu-tagalog/) — Intimate wedding cake planning, serving and starting prices in Tagalog.
+- [Corporate cake orders in Cebuano]({BASE}/corporate-cake-orders-cebu-ceb/) — Office cake ordering and delivery details in Cebuano.
+- [Corporate cake orders in Tagalog]({BASE}/corporate-cake-orders-cebu-tagalog/) — Office cake ordering and delivery details in Tagalog.
+- [Christmas cakes in Cebuano]({BASE}/christmas-cakes-cebu-ceb/) — 2026 Christmas cake offer, deadlines, and delivery in Cebuano.
+- [Christmas cakes in Tagalog]({BASE}/christmas-cakes-cebu-tagalog/) — 2026 Christmas cake offer, deadlines, and delivery in Tagalog.
 - [Cake delivery in Cebuano]({BASE}/cake-delivery-cebu-city-ceb/) — Delivery coverage and handoff details for Cebu City, Mandaue, and Lapu-Lapu in Cebuano.
 - [Cake delivery in Tagalog]({BASE}/cake-delivery-cebu-city-tagalog/) — Delivery coverage and handoff details for Cebu City, Mandaue, and Lapu-Lapu in Tagalog.
 - [Anniversary cakes]({BASE}/anniversary-cakes-cebu/) — Anniversary and gift cakes.
