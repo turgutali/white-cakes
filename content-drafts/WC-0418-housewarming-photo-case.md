@@ -2,9 +2,9 @@
 id: WC-0418
 status: framework-needs-real-case-and-permission
 publish_action: create case-specific URL only after asset review
-english_title: A photo-led design breakdown of housewarming cake in Cebu
-cebuano_title: Usa ka photo-led nga pagpasabot sa disenyo sa housewarming cake sa Cebu
-tagalog_title: Isang photo-led na pagtalakay sa disenyo ng housewarming cake sa Cebu
+english_title: "A photo-led design breakdown of housewarming cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa bag-ong puy-anan sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa bagong tahanan sa Cebu"
 ---
 
 ## Housewarming cake case-study framework

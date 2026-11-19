@@ -2,9 +2,9 @@
 id: WC-0846
 status: written-draft
 publish_action: merge into /journal/cake-designs-cebu.html; photo case only with a specific approved cake image
-english_title: How to match the design of custom cake with hand-piped details in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa custom nga cake nga adunay hand-piped nga detalye sa Cebu
-tagalog_title: Paano itugma ang disenyo ng custom na cake na may hand-piped na detalye sa Cebu
+english_title: "How to match the design of custom cake with hand-piped details in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa custom nga cake nga adunay hand-piped nga detalye sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng custom na cake na may hand-piped na detalye sa Cebu"
 ---
 
 ## Write a brief that works with hand-piped buttercream

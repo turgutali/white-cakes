@@ -2,9 +2,9 @@
 id: WC-0671
 status: written-draft
 publish_action: merge into /journal/chocolate-cake-cebu.html and /journal/choosing-a-flavor.html
-english_title: How to choose a flavour for chocolate cake in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa chocolate cake sa Cebu
-tagalog_title: Paano pumili ng flavor para sa chocolate cake sa Cebu
+english_title: "How to choose a flavour for chocolate cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa chocolate cake sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa chocolate cake sa Cebu"
 ---
 
 ## Requesting chocolate cake without assuming extra fillings

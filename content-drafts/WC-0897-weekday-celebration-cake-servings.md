@@ -2,9 +2,9 @@
 id: WC-0897
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to estimate servings for cake for a weekday celebration in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa cake para sa pagdiriwang sa araw ng trabaho sa Cebu
+english_title: "How to estimate servings for cake for a weekday celebration in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa pagdiriwang sa araw ng trabaho sa Cebu"
 ---
 
 ## Estimate cake servings from the weekday guest list

@@ -2,9 +2,9 @@
 id: WC-0378
 status: draft-needs-original-closeup
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: Design details to consider for thank-you cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa thank-you cake sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa thank-you cake sa Cebu
+english_title: "Design details to consider for thank-you cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake isip pasalamat sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake bilang pasasalamat sa Cebu"
 ---
 
 ## Make a thank-you cake message easy to read

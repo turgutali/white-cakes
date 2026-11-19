@@ -2,9 +2,9 @@
 id: WC-0524
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/fathers-day-cakes-cebu.html
-english_title: Which reference photos help when ordering Father's Day cake in Cebu
-cebuano_title: Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa Father's Day sa Cebu
-tagalog_title: Aling mga reference photo ang makatutulong sa pag-order ng cake para sa Father's Day sa Cebu
+english_title: "Which reference photos help when ordering Father's Day cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa Father's Day sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa Father's Day sa Cebu"
 ---
 
 ## Send a Father's Day reference that shows the detail you want

@@ -2,9 +2,9 @@
 id: WC-0511
 status: draft-needs-original-closeup
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: Design details to consider for Mother's Day cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa Mother's Day cake sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa Mother's Day cake sa Cebu
+english_title: "Design details to consider for Mother's Day cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Mother's Day sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Mother's Day sa Cebu"
 ---
 
 ## Make a Mother's Day cake design feel personal

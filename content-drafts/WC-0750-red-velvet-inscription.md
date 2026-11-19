@@ -2,9 +2,9 @@
 id: WC-0750
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on red velvet cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa red velvet cake sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng red velvet cake sa Cebu
+english_title: "What to write on red velvet cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa red velvet cake sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng red velvet cake sa Cebu"
 ---
 
 ## Choose wording that stands out on a red velvet cake

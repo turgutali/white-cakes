@@ -2,9 +2,9 @@
 id: WC-0057
 status: framework-needs-real-case-and-permission
 publish_action: create case-specific URL only after asset review
-english_title: A photo-led design breakdown of Signature Marble cake in Cebu
-cebuano_title: Usa ka photo-led nga pagpasabot sa disenyo sa Signature Marble cake sa Cebu
-tagalog_title: Isang photo-led na pagtalakay sa disenyo ng Signature Marble cake sa Cebu
+english_title: "A photo-led design breakdown of Signature Marble cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa Signature Marble cake sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng Signature Marble cake sa Cebu"
 ---
 
 ## Signature Marble visual case-study framework

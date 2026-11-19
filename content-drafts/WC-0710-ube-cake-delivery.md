@@ -2,9 +2,9 @@
 id: WC-0710
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/ube-cake-cebu.html
-english_title: How to prepare for delivery of ube cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa ube cake sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng ube cake sa Cebu
+english_title: "How to prepare for delivery of ube cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa ube cake sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng ube cake sa Cebu"
 ---
 
 ## Prepare the handover for an ube-flavoured cake

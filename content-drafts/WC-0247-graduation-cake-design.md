@@ -2,9 +2,9 @@
 id: WC-0247
 status: written-draft
 publish_action: photo case study only; use in /journal/cake-designs-cebu.html after a graduation cake photo is approved
-english_title: A photo-led design breakdown of graduation cake in Cebu
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa cake para sa graduation sa Cebu
-tagalog_title: Paghimay sa disenyo sa larawan ng cake para sa graduation sa Cebu
+english_title: "A photo-led design breakdown of graduation cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa graduation sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa graduation sa Cebu"
 ---
 
 ## What makes a graduation-cake design feel personal

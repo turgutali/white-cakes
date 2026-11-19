@@ -2,9 +2,9 @@
 id: WC-0793
 status: written-draft
 publish_action: merge into /journal/vintage-cake-cebu.html and /journal/cake-sizes-cebu.html
-english_title: How to plan vintage cake in Cebu
-cebuano_title: Giunsa pagplano ang vintage nga cake sa Cebu
-tagalog_title: Paano planuhin ang vintage na cake sa Cebu
+english_title: "How to plan vintage cake in Cebu"
+cebuano_title: "Giunsa pagplano ang vintage nga cake sa Cebu"
+tagalog_title: "Paano planuhin ang vintage na cake sa Cebu"
 ---
 
 ## Plan a vintage-style cake from the table size to the piping

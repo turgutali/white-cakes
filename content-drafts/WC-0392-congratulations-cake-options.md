@@ -2,9 +2,9 @@
 id: WC-0392
 status: written-draft
 publish_action: merge into /journal/which-cake.html and the relevant product page
-english_title: How to compare options for congratulations cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa cake para sa pagpahalipay sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa cake para sa pagbati sa Cebu
+english_title: "How to compare options for congratulations cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa pagpahalipay sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa pagbati sa Cebu"
 ---
 
 ## Match a congratulations cake to the person and the group

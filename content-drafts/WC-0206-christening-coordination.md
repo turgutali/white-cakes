@@ -2,9 +2,9 @@
 id: WC-0206
 status: draft-needs-real-delivery-case
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to coordinate christening cake in Cebu
-cebuano_title: Giunsa pag-coordinate ang cake para sa bunyag sa Cebu
-tagalog_title: Paano i-coordinate ang cake para sa binyag sa Cebu
+english_title: "How to coordinate christening cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake para sa bunyag sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake para sa binyag sa Cebu"
 ---
 
 ## Coordinate a christening cake delivery

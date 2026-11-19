@@ -2,9 +2,9 @@
 id: WC-0256
 status: written-draft
 publish_action: merge into /journal/corporate-office-cakes-cebu.html and /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on corporate cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa cake para sa opisina sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng cake para sa opisina sa Cebu
+english_title: "What to write on corporate cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa opisina sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa opisina sa Cebu"
 ---
 
 ## Keep an office-cake inscription brief enough for the room

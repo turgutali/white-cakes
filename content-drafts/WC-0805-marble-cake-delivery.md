@@ -2,9 +2,9 @@
 id: WC-0805
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/which-cake.html
-english_title: How to prepare for delivery of marble cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa marble cake sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng marble cake sa Cebu
+english_title: "How to prepare for delivery of marble cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa marble cake sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng marble cake sa Cebu"
 ---
 
 ## Prepare the receiving point for Signature Marble delivery

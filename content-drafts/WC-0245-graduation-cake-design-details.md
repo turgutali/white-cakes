@@ -2,9 +2,9 @@
 id: WC-0245
 status: written-draft
 publish_action: merge into /journal/graduation-cake-cebu.html and /journal/cake-designs-cebu.html
-english_title: Design details to consider for graduation cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa cake para sa graduation sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa graduation sa Cebu
+english_title: "Design details to consider for graduation cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa graduation sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa graduation sa Cebu"
 ---
 
 ## Choose graduation-cake details that remain clear in a photo and on the table

@@ -2,9 +2,9 @@
 id: WC-0874
 status: photo-case-framework
 publish_action: add to /journal/cake-designs-cebu.html only after the cake photo is approved
-english_title: A photo-led design breakdown of custom cake with an inscription in Cebu
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa custom nga cake nga adunay mensahe sa Cebu
-tagalog_title: Paghimay sa disenyo ng larawan ng custom na cake na may mensahe sa Cebu
+english_title: "A photo-led design breakdown of custom cake with an inscription in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa custom nga cake nga adunay mensahe sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng custom na cake na may mensahe sa Cebu"
 ---
 
 ## Show how a real cake inscription fits the custom design

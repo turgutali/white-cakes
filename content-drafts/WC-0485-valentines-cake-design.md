@@ -2,9 +2,9 @@
 id: WC-0485
 status: written-draft
 publish_action: merge into /journal/valentines-bouquet-cake-cebu.html; standalone only with a distinct approved photo
-english_title: How to match the design of Valentine's cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa Valentine's Day sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa Valentine's Day sa Cebu
+english_title: "How to match the design of Valentine's cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa Valentine's Day sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa Valentine's Day sa Cebu"
 ---
 
 ## Match a Valentine's cake design to the kind of gift you want to give

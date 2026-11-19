@@ -2,9 +2,9 @@
 id: WC-0173
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: What to include in a custom brief for bridal shower cake in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa cake para sa bridal shower sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa cake para sa bridal shower sa Cebu
+english_title: "What to include in a custom brief for bridal shower cake in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa bridal shower sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa bridal shower sa Cebu"
 ---
 
 ## Make a bridal-shower cake brief easy to quote

@@ -2,9 +2,9 @@
 id: WC-0164
 status: written-draft
 publish_action: merge into /journal/baby-shower-cakes-cebu.html and /journal/which-cake.html
-english_title: How to compare options for baby shower cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa cake para sa baby shower sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa cake para sa baby shower sa Cebu
+english_title: "How to compare options for baby shower cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa baby shower sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa baby shower sa Cebu"
 ---
 
 ## Compare baby-shower cake options by size, finish, and message

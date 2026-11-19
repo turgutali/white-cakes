@@ -2,9 +2,9 @@
 id: WC-0444
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/new-year-cake-cebu-2027.html
-english_title: How to prepare for delivery of New Year cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa cake para sa Bag-ong Tuig sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng cake para sa Bagong Taon sa Cebu
+english_title: "How to prepare for delivery of New Year cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa Bag-ong Tuig sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa Bagong Taon sa Cebu"
 ---
 
 ## Plan the New Year's cake handover before the gathering

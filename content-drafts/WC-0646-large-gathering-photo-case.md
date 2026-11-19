@@ -2,9 +2,9 @@
 id: WC-0646
 status: framework-needs-real-case-and-permission
 publish_action: create case-specific URL only after asset review
-english_title: A photo-led design breakdown of cake for a large family gathering in Cebu
-cebuano_title: Usa ka photo-led nga pagpasabot sa disenyo sa cake para sa dakong panagtapok sa pamilya sa Cebu
-tagalog_title: Isang photo-led na pagtalakay sa disenyo ng cake para sa malaking pagtitipon ng pamilya sa Cebu
+english_title: "A photo-led design breakdown of cake for a large family gathering in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa dakong panagtigom sa pamilya sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa malaking pagtitipon ng pamilya sa Cebu"
 ---
 
 ## Large family cake case-study framework

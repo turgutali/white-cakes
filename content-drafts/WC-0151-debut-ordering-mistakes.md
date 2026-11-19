@@ -2,9 +2,9 @@
 id: WC-0151
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: Common ordering mistakes to avoid with debut cake in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa cake para sa debut sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa debut cake sa Cebu
+english_title: "Common ordering mistakes to avoid with debut cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa debut sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa debut sa Cebu"
 ---
 
 ## Avoid preventable problems when ordering a debut cake

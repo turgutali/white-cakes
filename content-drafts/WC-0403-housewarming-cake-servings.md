@@ -2,9 +2,9 @@
 id: WC-0403
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to estimate servings for housewarming cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa cake para sa bag-ong puy-anan sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa cake para sa bagong tahanan sa Cebu
+english_title: "How to estimate servings for housewarming cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa bag-ong puy-anan sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa bagong tahanan sa Cebu"
 ---
 
 ## Estimate the cake size for a housewarming table

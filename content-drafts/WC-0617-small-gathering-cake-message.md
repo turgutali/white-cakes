@@ -2,9 +2,9 @@
 id: WC-0617
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html and /journal/cake-sizes-cebu.html
-english_title: What to write on cake for a small intimate gathering in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa cake para sa gamay ug suod nga panagtigom sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng cake para sa maliit at malapit na pagtitipon sa Cebu
+english_title: "What to write on cake for a small intimate gathering in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa gamay ug suod nga panagtigom sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa maliit at malapit na pagtitipon sa Cebu"
 ---
 
 ## Short cake messages for a small gathering

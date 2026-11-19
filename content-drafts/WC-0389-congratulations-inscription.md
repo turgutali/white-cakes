@@ -2,9 +2,9 @@
 id: WC-0389
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on congratulations cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa congratulations cake sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng congratulations cake sa Cebu
+english_title: "What to write on congratulations cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa pagpahalipay sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa pagbati sa Cebu"
 ---
 
 ## Choose a short congratulations-cake inscription

@@ -2,9 +2,9 @@
 id: WC-0347
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: What to ask about the price of proposal cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa proposal cake sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng proposal cake sa Cebu
+english_title: "What to ask about the price of proposal cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa proposal sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa proposal sa Cebu"
 ---
 
 ## Ask for a proposal-cake quote that fits your plan

@@ -2,9 +2,9 @@
 id: WC-0016
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to coordinate 4-inch Bento cake in Cebu
-cebuano_title: Giunsa pag-coordinate sa 4-inch nga Bento cake sa Cebu
-tagalog_title: Paano i-coordinate ang 4-inch na Bento cake sa Cebu
+english_title: "How to coordinate 4-inch Bento cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang 4-inch nga Bento cake sa Cebu"
+tagalog_title: "Paano i-coordinate ang 4-inch na Bento cake sa Cebu"
 ---
 
 ## Coordinate a 4-inch Bento cake handoff

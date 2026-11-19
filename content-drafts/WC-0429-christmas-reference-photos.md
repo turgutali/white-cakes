@@ -2,9 +2,9 @@
 id: WC-0429
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: Which reference photos help when ordering Christmas cake in Cebu
-cebuano_title: Unsang mga reference photo ang makatabang sa pag-order og Christmas cake sa Cebu
-tagalog_title: Anong mga reference photo ang makakatulong sa pag-order ng Christmas cake sa Cebu
+english_title: "Which reference photos help when ordering Christmas cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa Pasko sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa Pasko sa Cebu"
 ---
 
 ## Use a Christmas-cake reference to show one clear idea

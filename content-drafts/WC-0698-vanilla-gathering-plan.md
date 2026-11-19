@@ -2,9 +2,9 @@
 id: WC-0698
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to plan vanilla cake in Cebu
-cebuano_title: Giunsa pagplano sa vanilla cake sa Cebu
-tagalog_title: Paano magplano ng vanilla cake sa Cebu
+english_title: "How to plan vanilla cake in Cebu"
+cebuano_title: "Giunsa pagplano ang vanilla cake sa Cebu"
+tagalog_title: "Paano planuhin ang vanilla cake sa Cebu"
 ---
 
 ## Plan a vanilla cake around your guest count

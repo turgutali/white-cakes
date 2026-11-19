@@ -2,9 +2,9 @@
 id: WC-0535
 status: written-draft
 publish_action: merge into /journal/corporate-office-cakes-cebu.html and /corporate-cake-orders-cebu/
-english_title: How to choose a design for cake for an IT Park office celebration in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu
+english_title: "How to choose a design for cake for an IT Park office celebration in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
 ---
 
 ## Choose one company detail to lead the IT Park cake design

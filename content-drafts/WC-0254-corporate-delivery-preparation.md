@@ -2,9 +2,9 @@
 id: WC-0254
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to prepare for delivery of corporate cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa corporate cake sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng corporate cake sa Cebu
+english_title: "How to prepare for delivery of corporate cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa opisina sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa opisina sa Cebu"
 ---
 
 ## Prepare an office contact to receive the corporate cake

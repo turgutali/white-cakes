@@ -2,9 +2,9 @@
 id: WC-0255
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: How to keep safe and cool until serving corporate cake in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw ang corporate cake hangtod sa pag-serve sa Cebu
-tagalog_title: Paano panatilihing maayos at malamig ang corporate cake hanggang ihain sa Cebu
+english_title: "How to keep safe and cool until serving corporate cake in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa opisina sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa opisina sa Cebu"
 ---
 
 ## Keep an office cake cool before serving

@@ -2,9 +2,9 @@
 id: WC-0081
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html and /journal/how-to-choose-wedding-cake-cebu.html
-english_title: What to ask about the price of wedding cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa kasal sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa kasal sa Cebu
+english_title: "What to ask about the price of wedding cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa kasal sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa kasal sa Cebu"
 ---
 
 ## Ask for the wedding-cake quote that matches your actual brief

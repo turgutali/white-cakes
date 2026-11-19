@@ -2,9 +2,9 @@
 id: WC-0845
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html and /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: What to write on custom cake with hand-piped details in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa custom nga cake nga adunay hand-piped nga detalye sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng custom na cake na may hand-piped na detalye sa Cebu
+english_title: "What to write on custom cake with hand-piped details in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa custom nga cake nga adunay hand-piped nga detalye sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng custom na cake na may hand-piped na detalye sa Cebu"
 ---
 
 ## Keep lettering clear beside hand-piped details

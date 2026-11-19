@@ -2,9 +2,9 @@
 id: WC-0442
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html and /journal/new-year-cake-cebu-2027.html
-english_title: What to ask about the price of New Year cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa Bag-ong Tuig sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa Bagong Taon sa Cebu
+english_title: "What to ask about the price of New Year cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa Bag-ong Tuig sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa Bagong Taon sa Cebu"
 ---
 
 ## Ask for the New Year cake price that matches the chosen design

@@ -2,9 +2,9 @@
 id: WC-0753
 status: written-draft
 publish_action: merge into /journal/red-velvet-cake-cebu.html and /journal/choosing-a-flavor.html
-english_title: How to compare options for red velvet cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa red velvet cake sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa red velvet cake sa Cebu
+english_title: "How to compare options for red velvet cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa red velvet cake sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa red velvet cake sa Cebu"
 ---
 
 ## Compare the confirmed cake options when choosing red velvet

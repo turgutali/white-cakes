@@ -2,9 +2,9 @@
 id: WC-0658
 status: written-draft
 publish_action: merge into /journal/corporate-office-cakes-cebu.html and /journal/which-cake.html
-english_title: How to compare options for cake for a company milestone in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa cake para sa milestone sa kompanya sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu
+english_title: "How to compare options for cake for a company milestone in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa milestone sa kompanya sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
 ## Compare company-milestone formats by how colleagues will share them

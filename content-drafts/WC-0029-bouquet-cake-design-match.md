@@ -2,9 +2,9 @@
 id: WC-0029
 status: written-draft
 publish_action: merge into /bouquet-cakes-cebu/; photo case only with an approved occasion-specific image
-english_title: How to match the design of Bouquet Cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa Bouquet Cake sa Cebu
-tagalog_title: Paano itugma ang disenyo ng Bouquet Cake sa Cebu
+english_title: "How to match the design of Bouquet Cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa Bouquet Cake sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng Bouquet Cake sa Cebu"
 ---
 
 ## Match the Bouquet Cake colours and message to the recipient

@@ -2,9 +2,9 @@
 id: WC-0938
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/proposal-cake-cebu.html
-english_title: How to prepare for delivery of cake for a surprise celebration in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa cake para sa sorpresa nga selebrasyon sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng cake para sa sorpresang pagdiriwang sa Cebu
+english_title: "How to prepare for delivery of cake for a surprise celebration in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa sorpresa nga selebrasyon sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa sorpresang pagdiriwang sa Cebu"
 ---
 
 ## Prepare one reliable receiver for a surprise cake delivery

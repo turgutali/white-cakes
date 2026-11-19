@@ -2,9 +2,9 @@
 id: WC-0751
 status: written-draft
 publish_action: merge into /journal/red-velvet-cake-cebu.html and /journal/cake-designs-cebu.html
-english_title: How to match the design of red velvet cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa red velvet cake sa Cebu
-tagalog_title: Paano itugma ang disenyo ng red velvet cake sa Cebu
+english_title: "How to match the design of red velvet cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa red velvet cake sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng red velvet cake sa Cebu"
 ---
 
 ## Keep the red velvet flavour and outside design as separate choices

@@ -2,9 +2,9 @@
 id: WC-0017
 status: written-draft
 publish_action: merge into /journal/what-is-a-bento-cake.html and /journal/cake-designs-cebu.html
-english_title: Design details to consider for 4-inch Bento cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa 4-inch nga Bento cake sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa 4-inch na Bento cake sa Cebu
+english_title: "Design details to consider for 4-inch Bento cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa 4-inch nga Bento cake sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa 4-inch na Bento cake sa Cebu"
 ---
 
 ## Choose Bento details that fit a four-inch top

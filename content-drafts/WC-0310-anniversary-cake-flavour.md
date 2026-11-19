@@ -2,9 +2,9 @@
 id: WC-0310
 status: written-draft
 publish_action: merge into /journal/choosing-a-flavor.html
-english_title: How to choose a flavour for anniversary cake in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa cake para sa anibersaryo sa Cebu
-tagalog_title: Paano pumili ng flavor para sa cake para sa anibersaryo sa Cebu
+english_title: "How to choose a flavour for anniversary cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa cake para sa anibersaryo sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa cake para sa anibersaryo sa Cebu"
 ---
 
 ## Choosing an anniversary-cake flavour for the people at your table

@@ -2,9 +2,9 @@
 id: WC-0473
 status: written-draft
 publish_action: merge into /journal/sinulog-cakes-cebu.html; photo detail only after approval
-english_title: Design details to consider for Sinulog cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Sinulog sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Sinulog sa Cebu
+english_title: "Design details to consider for Sinulog cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Sinulog sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Sinulog sa Cebu"
 ---
 
 ## Make one Sinulog-inspired design cue the focus

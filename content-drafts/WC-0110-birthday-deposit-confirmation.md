@@ -2,9 +2,9 @@
 id: WC-0110
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: What to confirm before paying a deposit for birthday cake in Cebu
-cebuano_title: Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa adlawng natawhan sa Cebu
-tagalog_title: Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa kaarawan sa Cebu
+english_title: "What to confirm before paying a deposit for birthday cake in Cebu"
+cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa adlawng natawhan sa Cebu"
+tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa kaarawan sa Cebu"
 ---
 
 ## Confirm these birthday-cake details before the deposit

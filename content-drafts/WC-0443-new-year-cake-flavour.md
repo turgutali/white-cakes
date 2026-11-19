@@ -2,9 +2,9 @@
 id: WC-0443
 status: written-draft
 publish_action: merge into /journal/new-year-cake-cebu-2027.html and /journal/choosing-a-flavor.html
-english_title: How to choose a flavour for New Year cake in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa cake para sa Bag-ong Tuig sa Cebu
-tagalog_title: Paano pumili ng flavor para sa cake para sa Bagong Taon sa Cebu
+english_title: "How to choose a flavour for New Year cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa cake para sa Bag-ong Tuig sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa cake para sa Bagong Taon sa Cebu"
 ---
 
 ## Choose a New Year cake flavour from the current menu

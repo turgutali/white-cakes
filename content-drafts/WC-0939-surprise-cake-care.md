@@ -2,9 +2,9 @@
 id: WC-0939
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/cake-delivery-cebu.html
-english_title: How to keep safe and cool until serving cake for a surprise celebration in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa sorpresa nga selebrasyon sa Cebu
-tagalog_title: Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa sorpresang pagdiriwang sa Cebu
+english_title: "How to keep safe and cool until serving cake for a surprise celebration in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa sorpresa nga selebrasyon sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa sorpresang pagdiriwang sa Cebu"
 ---
 
 ## Keep the cake safe while the surprise is being arranged

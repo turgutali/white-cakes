@@ -2,9 +2,9 @@
 id: WC-0337
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to plan monthsary cake in Cebu
-cebuano_title: Giunsa pagplano sa monthsary cake sa Cebu
-tagalog_title: Paano magplano ng monthsary cake sa Cebu
+english_title: "How to plan monthsary cake in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa monthsary sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa monthsary sa Cebu"
 ---
 
 ## Plan a monthsary cake for the actual gathering

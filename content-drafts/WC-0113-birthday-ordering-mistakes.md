@@ -2,9 +2,9 @@
 id: WC-0113
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: Common ordering mistakes to avoid with birthday cake in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa cake para sa adlawng natawhan sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa kaarawan sa Cebu
+english_title: "Common ordering mistakes to avoid with birthday cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa adlawng natawhan sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa kaarawan sa Cebu"
 ---
 
 ## Birthday cake ordering mistakes that are easy to prevent

@@ -2,9 +2,9 @@
 id: WC-0430
 status: written-draft
 publish_action: merge into /journal/which-cake.html
-english_title: How to compare options for Christmas cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa Christmas cake sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa Christmas cake sa Cebu
+english_title: "How to compare options for Christmas cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa Pasko sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa Pasko sa Cebu"
 ---
 
 ## Compare Christmas-cake options by serving plan and design

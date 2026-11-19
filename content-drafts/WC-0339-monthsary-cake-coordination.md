@@ -2,9 +2,9 @@
 id: WC-0339
 status: written-draft
 publish_action: merge into /journal/anniversary-cake-message-ideas-cebu.html and /journal/cake-delivery-cebu.html
-english_title: How to coordinate monthsary cake in Cebu
-cebuano_title: Giunsa pag-coordinate ang cake para sa monthsary sa Cebu
-tagalog_title: Paano i-coordinate ang cake para sa monthsary sa Cebu
+english_title: "How to coordinate monthsary cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake para sa monthsary sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake para sa monthsary sa Cebu"
 ---
 
 ## Coordinate a monthsary cake without leaving the recipient guessing

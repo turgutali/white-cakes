@@ -2,9 +2,9 @@
 id: WC-0928
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/cake-sizes-cebu.html
-english_title: How to coordinate cake for a family lunch after church in Cebu
-cebuano_title: Giunsa pag-coordinate ang cake para sa paniudto sa pamilya human sa simbahan sa Cebu
-tagalog_title: Paano i-coordinate ang cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu
+english_title: "How to coordinate cake for a family lunch after church in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake para sa paniudto sa pamilya human sa simbahan sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu"
 ---
 
 ## Coordinate a cake handover around a family lunch

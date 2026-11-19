@@ -2,9 +2,9 @@
 id: WC-0069
 status: written-draft
 publish_action: merge into /journal/which-cake.html
-english_title: How to compare options for custom buttercream cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa custom buttercream cake sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa custom buttercream cake sa Cebu
+english_title: "How to compare options for custom buttercream cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa custom buttercream cake sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa custom buttercream cake sa Cebu"
 ---
 
 ## Compare custom buttercream cake options by what matters

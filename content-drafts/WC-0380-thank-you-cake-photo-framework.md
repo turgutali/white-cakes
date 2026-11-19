@@ -2,9 +2,9 @@
 id: WC-0380
 status: photo-case-framework
 publish_action: add to /journal/cake-designs-cebu.html only after a thank-you cake photo is approved
-english_title: A photo-led design breakdown of thank-you cake in Cebu
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa cake isip pasalamat sa Cebu
-tagalog_title: Paghimay sa disenyo ng larawan ng cake bilang pasasalamat sa Cebu
+english_title: "A photo-led design breakdown of thank-you cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake isip pasalamat sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng cake bilang pasasalamat sa Cebu"
 ---
 
 ## Explain the design choice behind a thank-you cake

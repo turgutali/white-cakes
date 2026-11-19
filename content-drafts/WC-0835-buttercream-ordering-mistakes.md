@@ -2,9 +2,9 @@
 id: WC-0835
 status: written-draft
 publish_action: merge into /journal/how-to-order.html and /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: Common ordering mistakes to avoid with buttercream cake in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa buttercream nga cake sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa buttercream na cake sa Cebu
+english_title: "Common ordering mistakes to avoid with buttercream cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa buttercream nga cake sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa buttercream na cake sa Cebu"
 ---
 
 ## Four avoidable gaps in a custom buttercream order

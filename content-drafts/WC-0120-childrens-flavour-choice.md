@@ -2,9 +2,9 @@
 id: WC-0120
 status: written-draft
 publish_action: merge into /journal/choosing-a-flavor.html
-english_title: How to choose a flavour for children's birthday cake in Cebu
-cebuano_title: Giunsa pagpili og flavor para sa cake sa adlawng natawhan sa bata sa Cebu
-tagalog_title: Paano pumili ng flavor para sa cake sa kaarawan ng bata sa Cebu
+english_title: "How to choose a flavour for children's birthday cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa cake para sa adlawng natawhan sa bata sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa cake para sa kaarawan ng bata sa Cebu"
 ---
 
 ## Choose a children's birthday-cake flavour with the group in mind

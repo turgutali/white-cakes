@@ -2,9 +2,9 @@
 id: WC-0484
 status: written-draft
 publish_action: merge into /journal/valentines-bouquet-cake-cebu.html and /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on Valentine's cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa cake para sa Valentine's Day sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng cake para sa Valentine's Day sa Cebu
+english_title: "What to write on Valentine's cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa Valentine's Day sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa Valentine's Day sa Cebu"
 ---
 
 ## Keep the Valentine's inscription personal and short

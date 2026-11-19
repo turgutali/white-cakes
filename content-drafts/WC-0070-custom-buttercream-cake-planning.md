@@ -2,9 +2,9 @@
 id: WC-0070
 status: written-draft
 publish_action: merge into /custom-cakes-cebu/ and /journal/cake-sizes-cebu.html
-english_title: Planning custom buttercream cake in Cebu
-cebuano_title: Pagplano sa custom buttercream cake sa Cebu
-tagalog_title: Pagpaplano ng custom buttercream cake sa Cebu
+english_title: "Planning custom buttercream cake in Cebu"
+cebuano_title: "Pagplano sa custom buttercream cake sa Cebu"
+tagalog_title: "Pagpaplano ng custom buttercream cake sa Cebu"
 ---
 
 ## Plan the custom buttercream cake in three decisions

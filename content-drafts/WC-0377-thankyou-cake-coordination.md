@@ -2,9 +2,9 @@
 id: WC-0377
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to coordinate thank-you cake in Cebu
-cebuano_title: Giunsa pag-coordinate sa thank-you cake sa Cebu
-tagalog_title: Paano i-coordinate ang thank-you cake sa Cebu
+english_title: "How to coordinate thank-you cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake isip pasalamat sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake bilang pasasalamat sa Cebu"
 ---
 
 ## Coordinate a thank-you cake with the recipient in mind

@@ -2,9 +2,9 @@
 id: WC-0741
 status: photo-case-framework
 publish_action: add to /journal/cake-designs-cebu.html only with an approved mango-cake photo
-english_title: A photo-led design breakdown of mango cake in Cebu
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa mango cake sa Cebu
-tagalog_title: Paghimay sa disenyo sa larawan ng mango cake sa Cebu
+english_title: "A photo-led design breakdown of mango cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa mango cake sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng mango cake sa Cebu"
 ---
 
 ## Build a mango-cake design story from an actual White Cakes photo

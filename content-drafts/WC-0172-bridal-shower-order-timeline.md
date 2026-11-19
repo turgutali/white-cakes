@@ -2,9 +2,9 @@
 id: WC-0172
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: How to plan the order timeline for bridal shower cake in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa cake sa bridal shower sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa cake sa bridal shower sa Cebu
+english_title: "How to plan the order timeline for bridal shower cake in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa bridal shower sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa bridal shower sa Cebu"
 ---
 
 ## Set the bridal-shower cake timeline before choosing every detail

@@ -2,9 +2,9 @@
 id: WC-0309
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html and /journal/anniversary-cakes-cebu.html
-english_title: What to ask about the price of anniversary cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa anibersaryo sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa anibersaryo sa Cebu
+english_title: "What to ask about the price of anniversary cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa anibersaryo sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa anibersaryo sa Cebu"
 ---
 
 ## Ask for the current anniversary-cake quote, not a guessed package price

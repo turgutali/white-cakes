@@ -2,9 +2,9 @@
 id: WC-0670
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html and /journal/chocolate-cake-cebu.html
-english_title: What to ask about the price of chocolate cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa chocolate cake sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng chocolate cake sa Cebu
+english_title: "What to ask about the price of chocolate cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa chocolate cake sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng chocolate cake sa Cebu"
 ---
 
 ## Get a chocolate-cake price confirmed for your exact order

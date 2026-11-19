@@ -2,9 +2,9 @@
 id: WC-0495
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html and /journal/mothers-day-cakes-cebu.html
-english_title: How to plan the order timeline for Mother's Day cake in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa cake para sa Mother's Day sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa cake para sa Mother's Day sa Cebu
+english_title: "How to plan the order timeline for Mother's Day cake in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa Mother's Day sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa Mother's Day sa Cebu"
 ---
 
 ## Give a Mother's Day cake order time to be confirmed

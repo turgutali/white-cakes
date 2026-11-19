@@ -2,9 +2,9 @@
 id: WC-0267
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html and /journal/retirement-cake-cebu.html
-english_title: How to plan the order timeline for retirement cake in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa cake para sa pagretiro sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa cake para sa pagreretiro sa Cebu
+english_title: "How to plan the order timeline for retirement cake in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa pagretiro sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa pagreretiro sa Cebu"
 ---
 
 ## Give a retirement-cake order enough time for confirmation

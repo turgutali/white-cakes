@@ -2,9 +2,9 @@
 id: WC-0564
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: Planning cake for a Mandaue family celebration in Cebu
-cebuano_title: Pagplano og cake para sa selebrasyon sa pamilya sa Mandaue, Cebu
-tagalog_title: Pagpaplano ng cake para sa selebrasyon ng pamilya sa Mandaue, Cebu
+english_title: "Planning cake for a Mandaue family celebration in Cebu"
+cebuano_title: "Pagplano sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
 ---
 
 ## Choose a cake size for the family members who will share it

@@ -2,9 +2,9 @@
 id: WC-0471
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: What to confirm before paying a deposit for Sinulog cake in Cebu
-cebuano_title: Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa Sinulog cake sa Cebu
-tagalog_title: Ano ang dapat kumpirmahin bago magbayad ng deposito para sa Sinulog cake sa Cebu
+english_title: "What to confirm before paying a deposit for Sinulog cake in Cebu"
+cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa Sinulog sa Cebu"
+tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa Sinulog sa Cebu"
 ---
 
 ## Confirm a Sinulog cake order before paying

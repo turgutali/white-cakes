@@ -2,9 +2,9 @@
 id: WC-0537
 status: written-draft
 publish_action: merge into /corporate-cake-orders-cebu/ and /journal/cake-prices-cebu.html
-english_title: What to ask about the price of cake for an IT Park office celebration in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa selebrasyon sa opisina sa IT Park sa Cebu
+english_title: "What to ask about the price of cake for an IT Park office celebration in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
 ---
 
 ## Get an office-cake quote that includes the details procurement needs

@@ -2,9 +2,9 @@
 id: WC-0629
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/cake-sizes-cebu.html
-english_title: What to include in a custom brief for cake for a large family gathering in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa cake para sa dakong panagtigom sa pamilya sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa cake para sa malaking pagtitipon ng pamilya sa Cebu
+english_title: "What to include in a custom brief for cake for a large family gathering in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa dakong panagtigom sa pamilya sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa malaking pagtitipon ng pamilya sa Cebu"
 ---
 
 ## A large-family cake brief should make size and design clear

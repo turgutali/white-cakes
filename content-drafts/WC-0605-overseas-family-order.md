@@ -2,9 +2,9 @@
 id: WC-0605
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to coordinate sending a cake to family in Cebu from abroad
-cebuano_title: Giunsa pag-coordinate sa pagpadala og cake sa pamilya sa Cebu gikan sa gawas sa nasud
-tagalog_title: Paano i-coordinate ang pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa
+english_title: "How to coordinate sending a cake to family in Cebu from abroad"
+cebuano_title: "Giunsa pag-coordinate ang pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
+tagalog_title: "Paano i-coordinate ang pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
 ---
 
 ## Coordinate a cake order for family in Cebu while abroad

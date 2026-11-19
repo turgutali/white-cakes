@@ -2,9 +2,9 @@
 id: WC-0202
 status: written-draft
 publish_action: merge into /journal/which-cake.html
-english_title: How to compare options for christening cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa cake sa bunyag sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa cake sa binyag sa Cebu
+english_title: "How to compare options for christening cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa bunyag sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa binyag sa Cebu"
 ---
 
 ## Compare christening-cake options by size, design, and handoff

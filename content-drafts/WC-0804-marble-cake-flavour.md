@@ -2,9 +2,9 @@
 id: WC-0804
 status: written-draft
 publish_action: merge into /journal/choosing-a-flavor.html and /journal/cake-sizes-cebu.html
-english_title: How to choose a flavour for marble cake in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa marble cake sa Cebu
-tagalog_title: Paano pumili ng flavor para sa marble cake sa Cebu
+english_title: "How to choose a flavour for marble cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa marble cake sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa marble cake sa Cebu"
 ---
 
 ## Choose the cake flavour separately from the Marble exterior

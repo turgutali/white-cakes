@@ -2,9 +2,9 @@
 id: WC-0041
 status: written-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /custom-cakes-cebu/
-english_title: How to choose a design for Signature Marble cake in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa Signature Marble cake sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa Signature Marble cake sa Cebu
+english_title: "How to choose a design for Signature Marble cake in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa Signature Marble cake sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa Signature Marble cake sa Cebu"
 ---
 
 ## What is fixed and what can be discussed on Signature Marble

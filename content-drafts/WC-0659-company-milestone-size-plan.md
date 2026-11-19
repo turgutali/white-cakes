@@ -2,9 +2,9 @@
 id: WC-0659
 status: written-draft
 publish_action: merge into /journal/corporate-office-cakes-cebu.html and /journal/cake-sizes-cebu.html
-english_title: Planning cake for a company milestone in Cebu
-cebuano_title: Pagplano sa cake para sa milestone sa kompanya sa Cebu
-tagalog_title: Pagpaplano ng cake para sa mahalagang okasyon ng kumpanya sa Cebu
+english_title: "Planning cake for a company milestone in Cebu"
+cebuano_title: "Pagplano sa cake para sa milestone sa kompanya sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
 ## Plan company-milestone portions before choosing a design

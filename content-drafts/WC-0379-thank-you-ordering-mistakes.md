@@ -2,9 +2,9 @@
 id: WC-0379
 status: written-draft
 publish_action: merge into /journal/how-to-order.html and /journal/thank-you-cake-cebu.html
-english_title: Common ordering mistakes to avoid with thank-you cake in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa cake isip pasalamat sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake bilang pasasalamat sa Cebu
+english_title: "Common ordering mistakes to avoid with thank-you cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake isip pasalamat sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake bilang pasasalamat sa Cebu"
 ---
 
 ## Avoid these small mistakes when ordering a thank-you cake

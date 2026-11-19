@@ -2,9 +2,9 @@
 id: WC-0441
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to estimate servings for New Year cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa New Year cake sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa New Year cake sa Cebu
+english_title: "How to estimate servings for New Year cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa Bag-ong Tuig sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa Bagong Taon sa Cebu"
 ---
 
 ## Estimate New Year cake portions from the people who will eat

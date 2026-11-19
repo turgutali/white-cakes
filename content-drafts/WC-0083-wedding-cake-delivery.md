@@ -2,9 +2,9 @@
 id: WC-0083
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/how-to-choose-wedding-cake-cebu.html
-english_title: How to prepare for delivery of wedding cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa cake para sa kasal sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng cake para sa kasal sa Cebu
+english_title: "How to prepare for delivery of wedding cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa kasal sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa kasal sa Cebu"
 ---
 
 ## A wedding-cake delivery plan that gives the receiver clear instructions

@@ -2,9 +2,9 @@
 id: WC-0349
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/proposal-cake-cebu.html
-english_title: How to prepare for delivery of proposal cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa cake para sa proposal sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng cake para sa proposal sa Cebu
+english_title: "How to prepare for delivery of proposal cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa proposal sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa proposal sa Cebu"
 ---
 
 ## Prepare the proposal-cake handover without guessing who is home

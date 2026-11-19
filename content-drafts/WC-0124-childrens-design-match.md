@@ -2,9 +2,9 @@
 id: WC-0124
 status: draft-needs-original-photo-case
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: How to match the design of children's birthday cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa adlawng natawhan sa bata sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa kaarawan ng bata sa Cebu
+english_title: "How to match the design of children's birthday cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa adlawng natawhan sa bata sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa kaarawan ng bata sa Cebu"
 ---
 
 ## Match a children's birthday cake to the party

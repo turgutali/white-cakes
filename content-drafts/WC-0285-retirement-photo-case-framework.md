@@ -2,9 +2,9 @@
 id: WC-0285
 status: framework-needs-real-case-and-permission
 publish_action: create case-specific URL only after asset review
-english_title: A photo-led design breakdown of retirement cake in Cebu
-cebuano_title: Usa ka photo-led nga pagpasabot sa disenyo sa retirement cake sa Cebu
-tagalog_title: Isang photo-led na pagtalakay sa disenyo ng retirement cake sa Cebu
+english_title: "A photo-led design breakdown of retirement cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa pagretiro sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa pagreretiro sa Cebu"
 ---
 
 ## Retirement cake case-study framework

@@ -2,9 +2,9 @@
 id: WC-0402
 status: written-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /journal/housewarming-cake-cebu.html
-english_title: How to choose a design for housewarming cake in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa cake para sa bag-ong puy-anan sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa cake para sa bagong tahanan sa Cebu
+english_title: "How to choose a design for housewarming cake in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa bag-ong puy-anan sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa cake para sa bagong tahanan sa Cebu"
 ---
 
 ## Choose a housewarming-cake design that suits the new table

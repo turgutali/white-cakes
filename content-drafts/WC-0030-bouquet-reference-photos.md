@@ -2,9 +2,9 @@
 id: WC-0030
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /bouquet-cakes-cebu/
-english_title: Which reference photos help when ordering Bouquet Cake in Cebu
-cebuano_title: Unsang mga litrato nga reference ang makatabang sa pag-order og Bouquet Cake sa Cebu
-tagalog_title: Aling mga reference photo ang makatutulong sa pag-order ng Bouquet Cake sa Cebu
+english_title: "Which reference photos help when ordering Bouquet Cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og Bouquet Cake sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng Bouquet Cake sa Cebu"
 ---
 
 ## Choose reference photos that show the Bouquet Cake details you want

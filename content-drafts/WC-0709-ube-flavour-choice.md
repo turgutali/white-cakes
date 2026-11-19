@@ -2,9 +2,9 @@
 id: WC-0709
 status: written-draft
 publish_action: merge into /journal/choosing-a-flavor.html
-english_title: How to choose a flavour for ube cake in Cebu
-cebuano_title: Giunsa pagpili og flavor para sa ube cake sa Cebu
-tagalog_title: Paano pumili ng flavor para sa ube cake sa Cebu
+english_title: "How to choose a flavour for ube cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa ube cake sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa ube cake sa Cebu"
 ---
 
 ## Decide whether Ube suits the people sharing the cake

@@ -2,9 +2,9 @@
 id: WC-0833
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/buttercream-in-cebu-heat.html
-english_title: How to coordinate buttercream cake in Cebu
-cebuano_title: Giunsa pag-coordinate ang buttercream nga cake sa Cebu
-tagalog_title: Paano i-coordinate ang buttercream na cake sa Cebu
+english_title: "How to coordinate buttercream cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang buttercream nga cake sa Cebu"
+tagalog_title: "Paano i-coordinate ang buttercream na cake sa Cebu"
 ---
 
 ## Coordinate the handover and storage for a buttercream cake

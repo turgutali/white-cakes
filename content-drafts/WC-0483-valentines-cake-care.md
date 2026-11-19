@@ -2,9 +2,9 @@
 id: WC-0483
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/valentines-bouquet-cake-cebu.html
-english_title: How to keep safe and cool until serving Valentine's cake in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa Valentine's Day sa Cebu
-tagalog_title: Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa Valentine's Day sa Cebu
+english_title: "How to keep safe and cool until serving Valentine's cake in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa Valentine's Day sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa Valentine's Day sa Cebu"
 ---
 
 ## Keep a Valentine's cake cool until the gift is ready to share

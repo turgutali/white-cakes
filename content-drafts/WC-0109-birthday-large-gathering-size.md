@@ -2,9 +2,9 @@
 id: WC-0109
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to plan birthday cake in Cebu
-cebuano_title: Giunsa pagplano sa birthday cake sa Cebu
-tagalog_title: Paano magplano ng birthday cake sa Cebu
+english_title: "How to plan birthday cake in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa adlawng natawhan sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa kaarawan sa Cebu"
 ---
 
 ## Plan a birthday cake for a larger gathering

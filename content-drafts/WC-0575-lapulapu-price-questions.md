@@ -2,9 +2,9 @@
 id: WC-0575
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: What to ask about the price of cake for a Lapu-Lapu family celebration in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu, Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa selebrasyon ng pamilya sa Lapu-Lapu, Cebu
+english_title: "What to ask about the price of cake for a Lapu-Lapu family celebration in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
 ---
 
 ## Ask for a complete quote for a Lapu-Lapu family cake

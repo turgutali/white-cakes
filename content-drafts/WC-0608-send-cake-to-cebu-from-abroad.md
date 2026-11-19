@@ -2,9 +2,9 @@
 id: WC-0608
 status: written-draft
 publish_action: merge into /journal/send-cake-to-cebu-from-abroad.html
-english_title: A photo-led design breakdown of sending a cake to family in Cebu from abroad
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod
-tagalog_title: Paghimay sa disenyo ng larawan ng pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa
+english_title: "A photo-led design breakdown of sending a cake to family in Cebu from abroad"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
+tagalog_title: "Paghimay sa disenyo sa larawan ng pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
 ---
 
 ## Ordering a Cebu cake when you are overseas

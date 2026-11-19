@@ -2,9 +2,9 @@
 id: WC-0203
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: Planning christening cake in Cebu
-cebuano_title: Pagplano sa cake para sa bunyag sa Cebu
-tagalog_title: Pagpaplano ng cake para sa binyag sa Cebu
+english_title: "Planning christening cake in Cebu"
+cebuano_title: "Pagplano sa cake para sa bunyag sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa binyag sa Cebu"
 ---
 
 ## Plan a christening cake for the people who will share it

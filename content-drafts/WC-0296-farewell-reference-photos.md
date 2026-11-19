@@ -2,9 +2,9 @@
 id: WC-0296
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: Which reference photos help when ordering farewell cake in Cebu
-cebuano_title: Unsang mga reference photo ang makatabang sa pag-order og farewell cake sa Cebu
-tagalog_title: Anong mga reference photo ang makakatulong sa pag-order ng farewell cake sa Cebu
+english_title: "Which reference photos help when ordering farewell cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa panamilit sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pamamaalam sa Cebu"
 ---
 
 ## Choose reference photos that explain the farewell-cake design

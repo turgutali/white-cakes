@@ -2,9 +2,9 @@
 id: WC-0135
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: What to include in a custom brief for debut cake in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa cake para sa debut sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa cake para sa debut sa Cebu
+english_title: "What to include in a custom brief for debut cake in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa debut sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa debut sa Cebu"
 ---
 
 ## A useful custom-cake brief for a Cebu debut

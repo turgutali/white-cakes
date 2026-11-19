@@ -2,9 +2,9 @@
 id: WC-0391
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/which-cake.html
-english_title: Which reference photos help when ordering congratulations cake in Cebu
-cebuano_title: Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa pagpahalipay sa Cebu
-tagalog_title: Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pagbati sa Cebu
+english_title: "Which reference photos help when ordering congratulations cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa pagpahalipay sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pagbati sa Cebu"
 ---
 
 ## Send one congratulations-cake reference with a clear purpose

@@ -2,9 +2,9 @@
 id: WC-0165
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: Planning baby shower cake in Cebu
-cebuano_title: Pagplano sa cake para sa baby shower sa Cebu
-tagalog_title: Pagpaplano ng cake para sa baby shower sa Cebu
+english_title: "Planning baby shower cake in Cebu"
+cebuano_title: "Pagplano sa cake para sa baby shower sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa baby shower sa Cebu"
 ---
 
 ## Plan a baby-shower cake around the gathering

@@ -2,9 +2,9 @@
 id: WC-0134
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html and /journal/debut-cake-cebu.html
-english_title: How to plan the order timeline for debut cake in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa cake para sa debut sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa cake para sa debut sa Cebu
+english_title: "How to plan the order timeline for debut cake in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa debut sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa debut sa Cebu"
 ---
 
 ## Build a debut-cake timeline around the confirmed event date

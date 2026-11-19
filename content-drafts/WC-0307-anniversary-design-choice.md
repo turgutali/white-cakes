@@ -2,9 +2,9 @@
 id: WC-0307
 status: draft-needs-original-photo-case
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: How to choose a design for anniversary cake in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa anniversary cake sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa anniversary cake sa Cebu
+english_title: "How to choose a design for anniversary cake in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa anibersaryo sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa cake para sa anibersaryo sa Cebu"
 ---
 
 ## Choose an anniversary-cake design with one clear focal point

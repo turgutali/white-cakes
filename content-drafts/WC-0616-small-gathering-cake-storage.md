@@ -2,9 +2,9 @@
 id: WC-0616
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: How to keep safe and cool until serving cake for a small intimate gathering in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw ang cake para sa gamay ug pribadong panagtapok sa Cebu hangtod sa pag-serve
-tagalog_title: Paano panatilihing maayos at malamig ang cake para sa maliit at pribadong salu-salo sa Cebu hanggang ihain
+english_title: "How to keep safe and cool until serving cake for a small intimate gathering in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa gamay ug suod nga panagtigom sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa maliit at malapit na pagtitipon sa Cebu"
 ---
 
 ## Care for a small cake before the gathering

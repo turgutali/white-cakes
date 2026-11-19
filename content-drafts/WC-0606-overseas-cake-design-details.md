@@ -2,9 +2,9 @@
 id: WC-0606
 status: photo-case-framework
 publish_action: merge into /journal/send-cake-to-cebu-from-abroad.html; photo case only with approved evidence
-english_title: Design details to consider for sending a cake to family in Cebu from abroad
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa
+english_title: "Design details to consider for sending a cake to family in Cebu from abroad"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
 ---
 
 ## Choose a design that can be clearly briefed from overseas

@@ -2,9 +2,9 @@
 id: WC-0628
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html and /journal/cake-sizes-cebu.html
-english_title: How to plan the order timeline for cake for a large family gathering in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa cake para sa dakong panagtigom sa pamilya sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa cake para sa malaking pagtitipon ng pamilya sa Cebu
+english_title: "How to plan the order timeline for cake for a large family gathering in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa dakong panagtigom sa pamilya sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa malaking pagtitipon ng pamilya sa Cebu"
 ---
 
 ## Plan a large-family cake early enough to confirm size and design

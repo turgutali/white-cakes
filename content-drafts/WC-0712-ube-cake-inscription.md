@@ -2,9 +2,9 @@
 id: WC-0712
 status: written-draft
 publish_action: merge into /journal/ube-cake-cebu.html and /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on ube cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa ube cake sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng ube cake sa Cebu
+english_title: "What to write on ube cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa ube cake sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng ube cake sa Cebu"
 ---
 
 ## Keep the inscription readable and confirm the cake details separately

@@ -2,9 +2,9 @@
 id: WC-0578
 status: written-draft
 publish_action: merge into /cake-delivery-lapu-lapu/ and /journal/buttercream-in-cebu-heat.html
-english_title: How to keep safe and cool until serving cake for a Lapu-Lapu family celebration in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu
-tagalog_title: Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu
+english_title: "How to keep safe and cool until serving cake for a Lapu-Lapu family celebration in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
 ---
 
 ## Keep a Lapu-Lapu family cake cool between delivery and serving

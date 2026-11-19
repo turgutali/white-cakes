@@ -2,9 +2,9 @@
 id: WC-0522
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on Father's Day cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa cake para sa Father's Day sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng cake para sa Father's Day sa Cebu
+english_title: "What to write on Father's Day cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa Father's Day sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa Father's Day sa Cebu"
 ---
 
 ## Keep a Father's Day cake message personal and brief

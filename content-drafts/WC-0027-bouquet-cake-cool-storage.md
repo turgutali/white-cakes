@@ -2,9 +2,9 @@
 id: WC-0027
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: How to keep safe and cool until serving Bouquet Cake in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw ang Bouquet Cake hangtod sa pag-serve sa Cebu
-tagalog_title: Paano panatilihing maayos at malamig ang Bouquet Cake hanggang ihain sa Cebu
+english_title: "How to keep safe and cool until serving Bouquet Cake in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang Bouquet Cake sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang Bouquet Cake sa Cebu"
 ---
 
 ## Keep a Bouquet Cake away from heat before serving

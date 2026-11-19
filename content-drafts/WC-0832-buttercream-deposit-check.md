@@ -2,9 +2,9 @@
 id: WC-0832
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: What to confirm before paying a deposit for buttercream cake in Cebu
-cebuano_title: Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa buttercream cake sa Cebu
-tagalog_title: Ano ang dapat kumpirmahin bago magbayad ng deposito para sa buttercream cake sa Cebu
+english_title: "What to confirm before paying a deposit for buttercream cake in Cebu"
+cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa buttercream nga cake sa Cebu"
+tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa buttercream na cake sa Cebu"
 ---
 
 ## Confirm a buttercream cake order before sending the deposit

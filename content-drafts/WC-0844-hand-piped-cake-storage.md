@@ -2,9 +2,9 @@
 id: WC-0844
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: How to keep safe and cool until serving custom cake with hand-piped details in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang custom nga cake nga adunay hand-piped nga detalye sa Cebu
-tagalog_title: Paano panatilihing ligtas at malamig hanggang ihain ang custom na cake na may hand-piped na detalye sa Cebu
+english_title: "How to keep safe and cool until serving custom cake with hand-piped details in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang custom nga cake nga adunay hand-piped nga detalye sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang custom na cake na may hand-piped na detalye sa Cebu"
 ---
 
 ## Keep a hand-piped cake away from heat before serving

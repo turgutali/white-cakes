@@ -2,9 +2,9 @@
 id: WC-0204
 status: written-draft
 publish_action: merge into /journal/christening-cake-cebu.html and /journal/cake-sizes-cebu.html
-english_title: How to plan christening cake in Cebu
-cebuano_title: Giunsa pagplano ang cake para sa bunyag sa Cebu
-tagalog_title: Paano planuhin ang cake para sa binyag sa Cebu
+english_title: "How to plan christening cake in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa bunyag sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa binyag sa Cebu"
 ---
 
 ## Plan the christening cake around the meal and the handover

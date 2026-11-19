@@ -2,9 +2,9 @@
 id: WC-0619
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/cake-sizes-cebu.html
-english_title: Which reference photos help when ordering cake for a small intimate gathering in Cebu
-cebuano_title: Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa gamay ug suod nga panagtigom sa Cebu
-tagalog_title: Aling mga reference photo ang makatutulong sa pag-order ng cake para sa maliit at malapit na pagtitipon sa Cebu
+english_title: "Which reference photos help when ordering cake for a small intimate gathering in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa gamay ug suod nga panagtigom sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa maliit at malapit na pagtitipon sa Cebu"
 ---
 
 ## Choose one clear design reference for a small gathering

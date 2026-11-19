@@ -2,9 +2,9 @@
 id: WC-0215
 status: written-draft
 publish_action: merge into /journal/choosing-a-flavor.html and /journal/christening-cake-cebu.html
-english_title: How to choose a flavour for First Communion cake in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa cake para sa First Communion sa Cebu
-tagalog_title: Paano pumili ng flavor para sa cake para sa First Communion sa Cebu
+english_title: "How to choose a flavour for First Communion cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa cake para sa First Communion sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa cake para sa First Communion sa Cebu"
 ---
 
 ## Choose a First Communion cake flavour from the confirmed menu

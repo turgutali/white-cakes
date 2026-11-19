@@ -2,9 +2,9 @@
 id: WC-0567
 status: written-draft
 publish_action: merge into /cake-delivery-mandaue/ and /journal/cake-delivery-cebu.html
-english_title: How to coordinate cake for a Mandaue family celebration in Cebu
-cebuano_title: Giunsa pag-coordinate ang cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu
-tagalog_title: Paano i-coordinate ang cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu
+english_title: "How to coordinate cake for a Mandaue family celebration in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
 ---
 
 ## Coordinate a Mandaue cake delivery with one clear handover contact

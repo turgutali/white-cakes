@@ -2,9 +2,9 @@
 id: WC-0657
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: Which reference photos help when ordering cake for a company milestone in Cebu
-cebuano_title: Unsang mga reference photo ang makatabang sa pag-order og cake para sa milestone sa kompanya sa Cebu
-tagalog_title: Anong mga reference photo ang makakatulong sa pag-order ng cake para sa milestone ng kumpanya sa Cebu
+english_title: "Which reference photos help when ordering cake for a company milestone in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa milestone sa kompanya sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
 ## Choose a useful reference for a company milestone cake

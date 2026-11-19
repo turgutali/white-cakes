@@ -2,9 +2,9 @@
 id: WC-0927
 status: written-draft
 publish_action: merge into /journal/how-to-order.html and /journal/cake-delivery-cebu.html
-english_title: What to confirm before paying a deposit for cake for a family lunch after church in Cebu
-cebuano_title: Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa paniudto sa pamilya human sa simbahan sa Cebu
-tagalog_title: Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu
+english_title: "What to confirm before paying a deposit for cake for a family lunch after church in Cebu"
+cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa paniudto sa pamilya human sa simbahan sa Cebu"
+tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu"
 ---
 
 ## Confirm the lunch timing and receiver before the deposit

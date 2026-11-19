@@ -2,9 +2,9 @@
 id: WC-0513
 status: photo-case-framework
 publish_action: add to /journal/cake-designs-cebu.html only after a Mother's Day cake photo is approved
-english_title: A photo-led design breakdown of Mother's Day cake in Cebu
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa cake para sa Mother's Day sa Cebu
-tagalog_title: Paghimay sa disenyo ng larawan ng cake para sa Mother's Day sa Cebu
+english_title: "A photo-led design breakdown of Mother's Day cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa Mother's Day sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa Mother's Day sa Cebu"
 ---
 
 ## Explain the personal design choice in a Mother's Day cake

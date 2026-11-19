@@ -2,9 +2,9 @@
 id: WC-0297
 status: written-draft
 publish_action: merge into /journal/which-cake.html and /journal/cake-sizes-cebu.html
-english_title: How to compare options for farewell cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa cake para sa panamilit sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa cake para sa pamamaalam sa Cebu
+english_title: "How to compare options for farewell cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa panamilit sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa pamamaalam sa Cebu"
 ---
 
 ## Compare farewell-cake formats by the size of the send-off

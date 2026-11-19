@@ -2,9 +2,9 @@
 id: WC-0351
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html; standalone gallery only with original examples
-english_title: What to write on proposal cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa cake para sa proposal sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng cake para sa proposal sa Cebu
+english_title: "What to write on proposal cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa proposal sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa proposal sa Cebu"
 ---
 
 ## Keep a proposal-cake message short enough to read

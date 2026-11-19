@@ -2,9 +2,9 @@
 id: WC-0031
 status: written-draft
 publish_action: merge into /journal/which-cake.html and /bouquet-cakes-cebu/
-english_title: How to compare options for Bouquet Cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa Bouquet Cake sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa Bouquet Cake sa Cebu
+english_title: "How to compare options for Bouquet Cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa Bouquet Cake sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa Bouquet Cake sa Cebu"
 ---
 
 ## Choosing between a Bouquet Cake and other White Cakes designs

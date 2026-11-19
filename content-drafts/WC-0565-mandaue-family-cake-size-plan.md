@@ -2,9 +2,9 @@
 id: WC-0565
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /cake-delivery-mandaue/
-english_title: How to plan cake for a Mandaue family celebration in Cebu
-cebuano_title: Giunsa pagplano ang cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu
-tagalog_title: Paano planuhin ang cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu
+english_title: "How to plan cake for a Mandaue family celebration in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
 ---
 
 ## Plan the Mandaue family cake from guest count to delivery

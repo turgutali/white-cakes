@@ -2,9 +2,9 @@
 id: WC-0566
 status: written-draft
 publish_action: merge into /journal/how-to-order.html and /cake-delivery-mandaue/
-english_title: What to confirm before paying a deposit for cake for a Mandaue family celebration in Cebu
-cebuano_title: Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu
-tagalog_title: Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu
+english_title: "What to confirm before paying a deposit for cake for a Mandaue family celebration in Cebu"
+cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
+tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
 ---
 
 ## Confirm the order and Mandaue handover before the deposit

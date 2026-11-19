@@ -2,9 +2,9 @@
 id: WC-0174
 status: written-draft
 publish_action: merge into /journal/bridal-shower-cake-cebu.html and /journal/cake-designs-cebu.html
-english_title: How to choose a design for bridal shower cake in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa cake para sa bridal shower sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa cake para sa bridal shower sa Cebu
+english_title: "How to choose a design for bridal shower cake in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa bridal shower sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa cake para sa bridal shower sa Cebu"
 ---
 
 ## Choose a bridal-shower design that fits the gathering

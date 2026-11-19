@@ -2,9 +2,9 @@
 id: WC-0176
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: What to ask about the price of bridal shower cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa bridal shower sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa bridal shower sa Cebu
+english_title: "What to ask about the price of bridal shower cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa bridal shower sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa bridal shower sa Cebu"
 ---
 
 ## Questions to ask before budgeting for a bridal-shower cake

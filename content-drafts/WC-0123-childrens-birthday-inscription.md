@@ -2,9 +2,9 @@
 id: WC-0123
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html and /journal/kids-birthday-cakes-cebu.html
-english_title: What to write on children's birthday cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa cake para sa adlawng natawhan sa bata sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng cake para sa kaarawan ng bata sa Cebu
+english_title: "What to write on children's birthday cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa adlawng natawhan sa bata sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa kaarawan ng bata sa Cebu"
 ---
 
 ## Keep a child's birthday message short and easy to read

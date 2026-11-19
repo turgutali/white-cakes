@@ -2,9 +2,9 @@
 id: WC-0472
 status: written-draft
 publish_action: merge into /journal/sinulog-cakes-cebu.html and /journal/cake-delivery-cebu.html
-english_title: How to coordinate Sinulog cake in Cebu
-cebuano_title: Giunsa pag-coordinate ang cake para sa Sinulog sa Cebu
-tagalog_title: Paano i-coordinate ang cake para sa Sinulog sa Cebu
+english_title: "How to coordinate Sinulog cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake para sa Sinulog sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake para sa Sinulog sa Cebu"
 ---
 
 ## Coordinate the Sinulog cake with a named receiver and venue plan

@@ -2,9 +2,9 @@
 id: WC-0152
 status: photo-case-framework
 publish_action: add to /journal/cake-designs-cebu.html only after a debut-cake photo is approved
-english_title: A photo-led design breakdown of debut cake in Cebu
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa cake para sa debut sa Cebu
-tagalog_title: Paghimay sa disenyo sa larawan ng cake para sa debut sa Cebu
+english_title: "A photo-led design breakdown of debut cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa debut sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa debut sa Cebu"
 ---
 
 ## Build a debut-cake case study from the actual design choices

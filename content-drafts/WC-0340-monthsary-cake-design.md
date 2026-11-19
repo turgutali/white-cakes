@@ -2,9 +2,9 @@
 id: WC-0340
 status: written-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /journal/anniversary-cake-message-ideas-cebu.html
-english_title: Design details to consider for monthsary cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa cake para sa monthsary sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa monthsary sa Cebu
+english_title: "Design details to consider for monthsary cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa monthsary sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa monthsary sa Cebu"
 ---
 
 ## A small design brief for a monthsary cake

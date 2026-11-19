@@ -2,9 +2,9 @@
 id: WC-0898
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: What to ask about the price of cake for a weekday celebration in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa pagdiriwang sa araw ng trabaho sa Cebu
+english_title: "What to ask about the price of cake for a weekday celebration in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa pagdiriwang sa araw ng trabaho sa Cebu"
 ---
 
 ## Confirm the cake price for the design and date you need

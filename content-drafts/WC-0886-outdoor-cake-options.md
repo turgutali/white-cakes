@@ -2,9 +2,9 @@
 id: WC-0886
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/which-cake.html
-english_title: How to compare options for cake for a warm outdoor celebration in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa cake para sa selebrasyon sa init nga gawas sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa cake para sa mainit na pagdiriwang sa labas ng Cebu
+english_title: "How to compare options for cake for a warm outdoor celebration in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa selebrasyon sa init nga gawas sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa mainit na pagdiriwang sa labas sa Cebu"
 ---
 
 ## Compare cake options by how you will keep them before serving

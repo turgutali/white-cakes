@@ -2,9 +2,9 @@
 id: WC-0122
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/kids-birthday-cakes-cebu.html
-english_title: How to keep safe and cool until serving children's birthday cake in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa adlawng natawhan sa bata sa Cebu
-tagalog_title: Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa kaarawan ng bata sa Cebu
+english_title: "How to keep safe and cool until serving children's birthday cake in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa adlawng natawhan sa bata sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa kaarawan ng bata sa Cebu"
 ---
 
 ## Keep a child's birthday cake safe between delivery and the party

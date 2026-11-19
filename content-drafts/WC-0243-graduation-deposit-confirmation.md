@@ -2,9 +2,9 @@
 id: WC-0243
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: What to confirm before paying a deposit for graduation cake in Cebu
-cebuano_title: Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa graduation cake sa Cebu
-tagalog_title: Ano ang dapat kumpirmahin bago magbayad ng deposito para sa graduation cake sa Cebu
+english_title: "What to confirm before paying a deposit for graduation cake in Cebu"
+cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa graduation sa Cebu"
+tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa graduation sa Cebu"
 ---
 
 ## Confirm the graduation order details before paying

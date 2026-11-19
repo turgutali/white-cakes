@@ -2,9 +2,9 @@
 id: WC-0896
 status: written-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /journal/which-cake.html
-english_title: How to choose a design for cake for a weekday celebration in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa cake para sa pagdiriwang sa araw ng trabaho sa Cebu
+english_title: "How to choose a design for cake for a weekday celebration in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa cake para sa pagdiriwang sa araw ng trabaho sa Cebu"
 ---
 
 ## Choose a weekday cake design from the event, not the calendar label

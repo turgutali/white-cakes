@@ -2,9 +2,9 @@
 id: WC-0523
 status: draft-needs-original-photo-case
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: How to match the design of Father's Day cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa Father's Day sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa Father's Day sa Cebu
+english_title: "How to match the design of Father's Day cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa Father's Day sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa Father's Day sa Cebu"
 ---
 
 ## Choose a Father's Day cake design around the recipient

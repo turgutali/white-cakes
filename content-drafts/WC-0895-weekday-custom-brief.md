@@ -2,9 +2,9 @@
 id: WC-0895
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: What to include in a custom brief for cake for a weekday celebration in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa cake sa selebrasyon sa weekday sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa cake sa selebrasyon sa karaniwang araw sa Cebu
+english_title: "What to include in a custom brief for cake for a weekday celebration in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa pagdiriwang sa araw ng trabaho sa Cebu"
 ---
 
 ## Brief a custom cake for a weekday celebration

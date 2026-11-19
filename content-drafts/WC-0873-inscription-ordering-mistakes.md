@@ -2,9 +2,9 @@
 id: WC-0873
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: Common ordering mistakes to avoid with custom cake with an inscription in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa custom cake nga naay inscription sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa custom cake na may inscription sa Cebu
+english_title: "Common ordering mistakes to avoid with custom cake with an inscription in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa custom nga cake nga adunay mensahe sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa custom na cake na may mensahe sa Cebu"
 ---
 
 ## Avoid inscription mistakes on a custom cake

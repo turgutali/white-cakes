@@ -2,9 +2,9 @@
 id: WC-0887
 status: written-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/cake-delivery-cebu.html
-english_title: Planning cake for a warm outdoor celebration in Cebu
-cebuano_title: Pagplano sa cake para sa selebrasyon sa init nga gawas sa Cebu
-tagalog_title: Pagpaplano ng cake para sa mainit na pagdiriwang sa labas ng Cebu
+english_title: "Planning cake for a warm outdoor celebration in Cebu"
+cebuano_title: "Pagplano sa cake para sa selebrasyon sa init nga gawas sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa mainit na pagdiriwang sa labas sa Cebu"
 ---
 
 ## Plan the cake's place in a warm outdoor event

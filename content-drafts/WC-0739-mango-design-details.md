@@ -2,9 +2,9 @@
 id: WC-0739
 status: draft-needs-original-closeup
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: Design details to consider for mango cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa mango cake sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa mango cake sa Cebu
+english_title: "Design details to consider for mango cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa mango cake sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa mango cake sa Cebu"
 ---
 
 ## Keep a mango-cake design clear and balanced

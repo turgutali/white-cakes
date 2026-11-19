@@ -2,9 +2,9 @@
 id: WC-0496
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/mothers-day-cakes-cebu.html
-english_title: What to include in a custom brief for Mother's Day cake in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa cake para sa Mother's Day sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa cake para sa Mother's Day sa Cebu
+english_title: "What to include in a custom brief for Mother's Day cake in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa Mother's Day sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa Mother's Day sa Cebu"
 ---
 
 ## A Mother's Day brief that gives the baker clear choices

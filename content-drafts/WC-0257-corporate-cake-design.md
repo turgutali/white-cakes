@@ -2,9 +2,9 @@
 id: WC-0257
 status: written-draft
 publish_action: merge into /journal/corporate-office-cakes-cebu.html and /corporate-cake-orders-cebu/
-english_title: How to match the design of corporate cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa opisina sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa opisina sa Cebu
+english_title: "How to match the design of corporate cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa opisina sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa opisina sa Cebu"
 ---
 
 ## Match a corporate cake design to the event without overloading it

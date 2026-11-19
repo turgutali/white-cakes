@@ -2,9 +2,9 @@
 id: WC-0082
 status: written-draft
 publish_action: merge into /journal/how-to-choose-wedding-cake-cebu.html and /journal/choosing-a-flavor.html
-english_title: How to choose a flavour for wedding cake in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa cake para sa kasal sa Cebu
-tagalog_title: Paano pumili ng flavor para sa cake para sa kasal sa Cebu
+english_title: "How to choose a flavour for wedding cake in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa cake para sa kasal sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa cake para sa kasal sa Cebu"
 ---
 
 ## Choose a wedding-cake flavour with the guest list in mind

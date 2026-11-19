@@ -2,9 +2,9 @@
 id: WC-0112
 status: written-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /birthday-cakes-cebu/
-english_title: Design details to consider for birthday cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa cake para sa adlawng natawhan sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa kaarawan sa Cebu
+english_title: "Design details to consider for birthday cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa adlawng natawhan sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa kaarawan sa Cebu"
 ---
 
 ## Choose one birthday-cake detail to lead the design

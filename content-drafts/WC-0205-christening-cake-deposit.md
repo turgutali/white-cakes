@@ -2,9 +2,9 @@
 id: WC-0205
 status: written-draft
 publish_action: merge into /journal/how-to-order.html and /journal/christening-cake-cebu.html
-english_title: What to confirm before paying a deposit for christening cake in Cebu
-cebuano_title: Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa bunyag sa Cebu
-tagalog_title: Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa binyag sa Cebu
+english_title: "What to confirm before paying a deposit for christening cake in Cebu"
+cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa bunyag sa Cebu"
+tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa binyag sa Cebu"
 ---
 
 ## Confirm the christening-cake handover and design before paying

@@ -2,9 +2,9 @@
 id: WC-0607
 status: written-draft
 publish_action: merge into /journal/send-cake-to-cebu-from-abroad.html and /journal/how-to-order.html
-english_title: Common ordering mistakes to avoid with sending a cake to family in Cebu from abroad
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa
+english_title: "Common ordering mistakes to avoid with sending a cake to family in Cebu from abroad"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
 ---
 
 ## Avoid these gaps when sending cake to Cebu from overseas

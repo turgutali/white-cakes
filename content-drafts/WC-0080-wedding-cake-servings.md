@@ -2,9 +2,9 @@
 id: WC-0080
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to estimate servings for wedding cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa cake para sa kasal sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa cake para sa kasal sa Cebu
+english_title: "How to estimate servings for wedding cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa kasal sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa kasal sa Cebu"
 ---
 
 ## Estimate wedding-cake servings from the dessert plan

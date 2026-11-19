@@ -2,9 +2,9 @@
 id: WC-0700
 status: written-draft
 publish_action: merge into /journal/vanilla-cake-cebu.html and /journal/cake-delivery-cebu.html
-english_title: How to coordinate vanilla cake in Cebu
-cebuano_title: Giunsa pag-coordinate ang vanilla cake sa Cebu
-tagalog_title: Paano i-coordinate ang vanilla cake sa Cebu
+english_title: "How to coordinate vanilla cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang vanilla cake sa Cebu"
+tagalog_title: "Paano i-coordinate ang vanilla cake sa Cebu"
 ---
 
 ## Coordinate the vanilla flavour and delivery as separate details

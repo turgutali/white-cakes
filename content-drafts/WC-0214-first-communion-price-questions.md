@@ -2,9 +2,9 @@
 id: WC-0214
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: What to ask about the price of First Communion cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa First Communion sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng First Communion cake sa Cebu
+english_title: "What to ask about the price of First Communion cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa First Communion sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa First Communion sa Cebu"
 ---
 
 ## Get a useful First Communion cake quote

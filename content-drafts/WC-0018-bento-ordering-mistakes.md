@@ -2,9 +2,9 @@
 id: WC-0018
 status: written-draft
 publish_action: merge into /journal/what-is-a-bento-cake.html and /journal/how-to-order.html
-english_title: Common ordering mistakes to avoid with 4-inch Bento cake in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa 4-inch nga Bento cake sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa 4-inch na Bento cake sa Cebu
+english_title: "Common ordering mistakes to avoid with 4-inch Bento cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa 4-inch nga Bento cake sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa 4-inch na Bento cake sa Cebu"
 ---
 
 ## Common Bento-order details to settle before the cake is made

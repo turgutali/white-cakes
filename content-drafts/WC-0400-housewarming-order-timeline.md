@@ -2,9 +2,9 @@
 id: WC-0400
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: How to plan the order timeline for housewarming cake in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa housewarming cake sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa housewarming cake sa Cebu
+english_title: "How to plan the order timeline for housewarming cake in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa bag-ong puy-anan sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa bagong tahanan sa Cebu"
 ---
 
 ## Order a housewarming cake around the move-in schedule

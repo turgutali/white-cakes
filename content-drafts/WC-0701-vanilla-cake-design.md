@@ -2,9 +2,9 @@
 id: WC-0701
 status: written-draft
 publish_action: merge into /journal/vanilla-cake-cebu.html and /journal/cake-designs-cebu.html
-english_title: Design details to consider for vanilla cake in Cebu
-cebuano_title: Mga detalye sa disenyo nga ikonsiderar para sa vanilla cake sa Cebu
-tagalog_title: Mga detalye ng disenyo na dapat isaalang-alang para sa vanilla cake sa Cebu
+english_title: "Design details to consider for vanilla cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa vanilla cake sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa vanilla cake sa Cebu"
 ---
 
 ## Separate the flavour choice from the cake's outside design

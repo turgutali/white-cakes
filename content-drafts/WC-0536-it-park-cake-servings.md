@@ -2,9 +2,9 @@
 id: WC-0536
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/corporate-office-cakes-cebu.html
-english_title: How to estimate servings for cake for an IT Park office celebration in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu
+english_title: "How to estimate servings for cake for an IT Park office celebration in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
 ---
 
 ## Estimate office-cake portions from the people who will actually join

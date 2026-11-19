@@ -2,9 +2,9 @@
 id: WC-0482
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to prepare for delivery of Valentine's cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa Valentine's cake sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng Valentine's cake sa Cebu
+english_title: "How to prepare for delivery of Valentine's cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa Valentine's Day sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa Valentine's Day sa Cebu"
 ---
 
 ## Prepare the delivery handoff for Valentine's Day

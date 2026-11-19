@@ -2,9 +2,9 @@
 id: WC-0936
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: What to ask about the price of cake for a surprise celebration in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa cake para sa surprise celebration sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng cake para sa surprise celebration sa Cebu
+english_title: "What to ask about the price of cake for a surprise celebration in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa sorpresa nga selebrasyon sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa sorpresang pagdiriwang sa Cebu"
 ---
 
 ## Get a clear quote without spoiling the surprise

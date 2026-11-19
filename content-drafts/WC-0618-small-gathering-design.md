@@ -2,9 +2,9 @@
 id: WC-0618
 status: written-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /journal/cake-sizes-cebu.html
-english_title: How to match the design of cake for a small intimate gathering in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa gamay ug suod nga panagtigom sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa maliit at malapit na pagtitipon sa Cebu
+english_title: "How to match the design of cake for a small intimate gathering in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa gamay ug suod nga panagtigom sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa maliit at malapit na pagtitipon sa Cebu"
 ---
 
 ## Match a small-gathering cake design to the table

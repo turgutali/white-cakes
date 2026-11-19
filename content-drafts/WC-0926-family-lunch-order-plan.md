@@ -2,9 +2,9 @@
 id: WC-0926
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/cake-delivery-cebu.html
-english_title: How to plan cake for a family lunch after church in Cebu
-cebuano_title: Giunsa pagplano ang cake para sa paniudto sa pamilya human sa simbahan sa Cebu
-tagalog_title: Paano planuhin ang cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu
+english_title: "How to plan cake for a family lunch after church in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa paniudto sa pamilya human sa simbahan sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu"
 ---
 
 ## Choose the cake size and receiver before the church service

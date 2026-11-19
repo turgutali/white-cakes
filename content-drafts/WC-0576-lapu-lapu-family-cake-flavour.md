@@ -2,9 +2,9 @@
 id: WC-0576
 status: written-draft
 publish_action: merge into /journal/choosing-a-flavor.html and /cake-delivery-lapu-lapu/
-english_title: How to choose a flavour for cake for a Lapu-Lapu family celebration in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu
-tagalog_title: Paano pumili ng flavor para sa cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu
+english_title: "How to choose a flavour for cake for a Lapu-Lapu family celebration in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
 ---
 
 ## Choose a flavour the family will enjoy and confirm the Lapu-Lapu details

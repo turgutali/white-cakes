@@ -2,9 +2,9 @@
 id: WC-0884
 status: draft-needs-original-photo-case
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: How to match the design of cake for a warm outdoor celebration in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa init nga selebrasyon sa gawas sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa mainit na pagdiriwang sa labas sa Cebu
+english_title: "How to match the design of cake for a warm outdoor celebration in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa selebrasyon sa init nga gawas sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa mainit na pagdiriwang sa labas sa Cebu"
 ---
 
 ## Plan an outdoor cake around heat and the setting

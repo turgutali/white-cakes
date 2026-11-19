@@ -2,9 +2,9 @@
 id: WC-0306
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: What to include in a custom brief for anniversary cake in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa anniversary cake sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa anniversary cake sa Cebu
+english_title: "What to include in a custom brief for anniversary cake in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa anibersaryo sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa anibersaryo sa Cebu"
 ---
 
 ## Write an anniversary-cake brief the bakery can act on

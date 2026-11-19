@@ -2,9 +2,9 @@
 id: WC-0802
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to estimate servings for marble cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa marble cake sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa marble cake sa Cebu
+english_title: "How to estimate servings for marble cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa marble cake sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa marble cake sa Cebu"
 ---
 
 ## Estimate portions for a marble cake without overpromising

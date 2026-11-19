@@ -2,9 +2,9 @@
 id: WC-0028
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on Bouquet Cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa Bouquet Cake sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng Bouquet Cake sa Cebu
+english_title: "What to write on Bouquet Cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa Bouquet Cake sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng Bouquet Cake sa Cebu"
 ---
 
 ## Keep a Bouquet Cake inscription short

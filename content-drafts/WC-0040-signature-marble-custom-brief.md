@@ -2,9 +2,9 @@
 id: WC-0040
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /custom-cakes-cebu/
-english_title: What to include in a custom brief for Signature Marble cake in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa Signature Marble cake sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa Signature Marble cake sa Cebu
+english_title: "What to include in a custom brief for Signature Marble cake in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa Signature Marble cake sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa Signature Marble cake sa Cebu"
 ---
 
 ## Briefing a Signature Marble variation

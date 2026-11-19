@@ -2,9 +2,9 @@
 id: WC-0213
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to estimate servings for First Communion cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa First Communion cake sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa First Communion cake sa Cebu
+english_title: "How to estimate servings for First Communion cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa First Communion sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa First Communion sa Cebu"
 ---
 
 ## Estimate First Communion cake portions with the host

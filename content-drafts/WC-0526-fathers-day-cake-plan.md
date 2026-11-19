@@ -2,9 +2,9 @@
 id: WC-0526
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/fathers-day-cakes-cebu.html
-english_title: Planning Father's Day cake in Cebu
-cebuano_title: Pagplano sa cake para sa Father's Day sa Cebu
-tagalog_title: Pagpaplano ng cake para sa Father's Day sa Cebu
+english_title: "Planning Father's Day cake in Cebu"
+cebuano_title: "Pagplano sa cake para sa Father's Day sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa Father's Day sa Cebu"
 ---
 
 ## Plan the cake around who will share Father's Day dessert

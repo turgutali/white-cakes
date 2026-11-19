@@ -2,9 +2,9 @@
 id: WC-0244
 status: draft-needs-real-delivery-case
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to coordinate graduation cake in Cebu
-cebuano_title: Giunsa pag-coordinate ang cake para sa graduation sa Cebu
-tagalog_title: Paano i-coordinate ang graduation cake sa Cebu
+english_title: "How to coordinate graduation cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake para sa graduation sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake para sa graduation sa Cebu"
 ---
 
 ## Coordinate a graduation cake around the venue schedule

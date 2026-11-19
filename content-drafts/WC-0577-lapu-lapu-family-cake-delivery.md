@@ -2,9 +2,9 @@
 id: WC-0577
 status: written-draft
 publish_action: merge into /cake-delivery-lapu-lapu/ and /journal/cake-delivery-cebu.html
-english_title: How to prepare for delivery of cake for a Lapu-Lapu family celebration in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu
+english_title: "How to prepare for delivery of cake for a Lapu-Lapu family celebration in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
 ---
 
 ## Prepare the Lapu-Lapu receiving point before the cake leaves the kitchen

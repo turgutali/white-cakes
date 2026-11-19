@@ -2,9 +2,9 @@
 id: WC-0390
 status: written-draft
 publish_action: merge into /journal/which-cake.html and /journal/cake-designs-cebu.html
-english_title: How to match the design of congratulations cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa pagpahalipay sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa pagbati sa Cebu
+english_title: "How to match the design of congratulations cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa pagpahalipay sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa pagbati sa Cebu"
 ---
 
 ## Match a congratulations-cake design to the achievement

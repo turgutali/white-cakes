@@ -2,9 +2,9 @@
 id: WC-0525
 status: written-draft
 publish_action: merge into /journal/fathers-day-cakes-cebu.html and /journal/which-cake.html
-english_title: How to compare options for Father's Day cake in Cebu
-cebuano_title: Giunsa pagtandi ang mga kapilian para sa cake para sa Father's Day sa Cebu
-tagalog_title: Paano paghambingin ang mga pagpipilian para sa cake para sa Father's Day sa Cebu
+english_title: "How to compare options for Father's Day cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa Father's Day sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa Father's Day sa Cebu"
 ---
 
 ## Compare Father's Day cake formats by the way it will be shared

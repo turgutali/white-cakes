@@ -2,9 +2,9 @@
 id: WC-0175
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/bridal-shower-cake-cebu.html
-english_title: How to estimate servings for bridal shower cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa cake para sa bridal shower sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa cake para sa bridal shower sa Cebu
+english_title: "How to estimate servings for bridal shower cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa bridal shower sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa bridal shower sa Cebu"
 ---
 
 ## Plan bridal-shower cake servings from the actual guest count

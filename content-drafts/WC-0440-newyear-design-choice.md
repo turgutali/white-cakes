@@ -2,9 +2,9 @@
 id: WC-0440
 status: draft-needs-original-photo-case
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: How to choose a design for New Year cake in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa New Year cake sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa New Year cake sa Cebu
+english_title: "How to choose a design for New Year cake in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa Bag-ong Tuig sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa cake para sa Bagong Taon sa Cebu"
 ---
 
 ## Choose a New Year cake design that suits the gathering

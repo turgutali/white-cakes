@@ -2,9 +2,9 @@
 id: WC-0792
 status: written-draft
 publish_action: merge into /journal/vintage-cake-cebu.html and /journal/cake-sizes-cebu.html
-english_title: Planning vintage cake in Cebu
-cebuano_title: Pagplano sa vintage nga cake sa Cebu
-tagalog_title: Pagpaplano ng vintage na cake sa Cebu
+english_title: "Planning vintage cake in Cebu"
+cebuano_title: "Pagplano sa vintage nga cake sa Cebu"
+tagalog_title: "Pagpaplano ng vintage na cake sa Cebu"
 ---
 
 ## Plan vintage piping around the cake size and message

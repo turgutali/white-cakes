@@ -2,9 +2,9 @@
 id: WC-0295
 status: draft-needs-original-photo-case
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: How to match the design of farewell cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa farewell cake sa Cebu
-tagalog_title: Paano itugma ang disenyo ng farewell cake sa Cebu
+english_title: "How to match the design of farewell cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa panamilit sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa pamamaalam sa Cebu"
 ---
 
 ## Match a farewell-cake design to the person leaving

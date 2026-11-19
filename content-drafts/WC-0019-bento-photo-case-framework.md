@@ -2,9 +2,9 @@
 id: WC-0019
 status: photo-case-framework
 publish_action: add to /journal/what-is-a-bento-cake.html only if the photo and product details remain current
-english_title: A photo-led design breakdown of 4-inch Bento cake in Cebu
-cebuano_title: Usa ka breakdown sa disenyo sa litrato sa 4-inch nga Bento cake sa Cebu
-tagalog_title: Paghimay sa disenyo sa larawan ng 4-inch na Bento cake sa Cebu
+english_title: "A photo-led design breakdown of 4-inch Bento cake in Cebu"
+cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa 4-inch nga Bento cake sa Cebu"
+tagalog_title: "Paghimay sa disenyo sa larawan ng 4-inch na Bento cake sa Cebu"
 ---
 
 ## Reading the details on White Cakes' 4-inch Bento

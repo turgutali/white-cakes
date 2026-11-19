@@ -2,9 +2,9 @@
 id: WC-0512
 status: written-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: Common ordering mistakes to avoid with Mother's Day cake in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa cake para sa Mother's Day sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa Mother's Day cake sa Cebu
+english_title: "Common ordering mistakes to avoid with Mother's Day cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa Mother's Day sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa Mother's Day sa Cebu"
 ---
 
 ## Avoid last-minute confusion with a Mother's Day cake

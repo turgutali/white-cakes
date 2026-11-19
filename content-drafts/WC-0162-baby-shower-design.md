@@ -2,9 +2,9 @@
 id: WC-0162
 status: draft-needs-original-photo-case
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: How to match the design of baby shower cake in Cebu
-cebuano_title: Giunsa pagpares ang disenyo sa cake para sa baby shower sa Cebu
-tagalog_title: Paano itugma ang disenyo ng cake para sa baby shower sa Cebu
+english_title: "How to match the design of baby shower cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa baby shower sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng cake para sa baby shower sa Cebu"
 ---
 
 ## Match a baby-shower cake to the party palette

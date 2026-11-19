@@ -2,9 +2,9 @@
 id: WC-0763
 status: written-draft
 publish_action: merge into /journal/minimalist-cake-cebu.html and /journal/cake-designs-cebu.html
-english_title: How to choose a design for minimalist cake in Cebu
-cebuano_title: Giunsa pagpili og disenyo para sa minimalist nga cake sa Cebu
-tagalog_title: Paano pumili ng disenyo para sa minimalist na cake sa Cebu
+english_title: "How to choose a design for minimalist cake in Cebu"
+cebuano_title: "Giunsa pagpili og disenyo para sa minimalist nga cake sa Cebu"
+tagalog_title: "Paano pumili ng disenyo para sa minimalist na cake sa Cebu"
 ---
 
 ## Choose one focal detail for a minimalist cake

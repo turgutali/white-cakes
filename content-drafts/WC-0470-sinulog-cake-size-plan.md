@@ -2,9 +2,9 @@
 id: WC-0470
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: How to plan Sinulog cake in Cebu
-cebuano_title: Giunsa pagplano sa Sinulog cake sa Cebu
-tagalog_title: Paano magplano ng Sinulog cake sa Cebu
+english_title: "How to plan Sinulog cake in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa Sinulog sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa Sinulog sa Cebu"
 ---
 
 ## Plan Sinulog cake servings and timing together

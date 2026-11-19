@@ -2,9 +2,9 @@
 id: WC-0121
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: How to prepare for delivery of children's birthday cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa cake para sa adlawng natawhan sa bata sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng cake para sa kaarawan ng bata sa Cebu
+english_title: "How to prepare for delivery of children's birthday cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa adlawng natawhan sa bata sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa kaarawan ng bata sa Cebu"
 ---
 
 ## Prepare the receiving point before cake delivery

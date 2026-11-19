@@ -2,9 +2,9 @@
 id: WC-0660
 status: written-draft
 publish_action: merge into /journal/corporate-office-cakes-cebu.html and /corporate-cake-orders-cebu/
-english_title: How to plan cake for a company milestone in Cebu
-cebuano_title: Giunsa pagplano ang cake para sa milestone sa kompanya sa Cebu
-tagalog_title: Paano planuhin ang cake para sa mahalagang okasyon ng kumpanya sa Cebu
+english_title: "How to plan cake for a company milestone in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa milestone sa kompanya sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
 ## Plan a company milestone cake around the room and the receiving team

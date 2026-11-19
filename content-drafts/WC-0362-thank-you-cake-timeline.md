@@ -2,9 +2,9 @@
 id: WC-0362
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: How to plan the order timeline for thank-you cake in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa cake isip pasalamat sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa cake bilang pasasalamat sa Cebu
+english_title: "How to plan the order timeline for thank-you cake in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake isip pasalamat sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake bilang pasasalamat sa Cebu"
 ---
 
 ## Give a thank-you cake enough time to be made to order

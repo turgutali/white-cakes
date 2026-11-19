@@ -2,9 +2,9 @@
 id: WC-0068
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: Which reference photos help when ordering custom buttercream cake in Cebu
-cebuano_title: Unsang mga reference photo ang makatabang sa pag-order og custom buttercream cake sa Cebu
-tagalog_title: Anong mga reference photo ang makakatulong sa pag-order ng custom buttercream cake sa Cebu
+english_title: "Which reference photos help when ordering custom buttercream cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og custom buttercream cake sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng custom buttercream cake sa Cebu"
 ---
 
 ## Send references that clarify a buttercream cake request

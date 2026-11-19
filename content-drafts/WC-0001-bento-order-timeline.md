@@ -2,9 +2,9 @@
 id: WC-0001
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: How to plan the order timeline for 4-inch Bento cake in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa 4-inch nga Bento cake sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa 4-inch na Bento cake sa Cebu
+english_title: "How to plan the order timeline for 4-inch Bento cake in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa 4-inch nga Bento cake sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa 4-inch na Bento cake sa Cebu"
 ---
 
 ## Planning a 4-inch Bento order around your Cebu date

@@ -2,9 +2,9 @@
 id: WC-0163
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/baby-shower-cakes-cebu.html
-english_title: Which reference photos help when ordering baby shower cake in Cebu
-cebuano_title: Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa baby shower sa Cebu
-tagalog_title: Aling mga reference photo ang makatutulong sa pag-order ng cake para sa baby shower sa Cebu
+english_title: "Which reference photos help when ordering baby shower cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa baby shower sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa baby shower sa Cebu"
 ---
 
 ## Pick a baby-shower reference with one clear design cue

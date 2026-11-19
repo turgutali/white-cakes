@@ -2,9 +2,9 @@
 id: WC-0298
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/corporate-office-cakes-cebu.html
-english_title: Planning farewell cake in Cebu
-cebuano_title: Pagplano sa cake para sa panamilit sa Cebu
-tagalog_title: Pagpaplano ng cake para sa pamamaalam sa Cebu
+english_title: "Planning farewell cake in Cebu"
+cebuano_title: "Pagplano sa cake para sa panamilit sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa pamamaalam sa Cebu"
 ---
 
 ## Plan the farewell cake around the people who will share it

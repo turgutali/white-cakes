@@ -2,9 +2,9 @@
 id: WC-0432
 status: written-draft
 publish_action: merge into /journal/christmas-cake-delivery-cebu.html and /journal/cake-sizes-cebu.html
-english_title: How to plan Christmas cake in Cebu
-cebuano_title: Giunsa pagplano ang cake para sa Pasko sa Cebu
-tagalog_title: Paano planuhin ang cake para sa Pasko sa Cebu
+english_title: "How to plan Christmas cake in Cebu"
+cebuano_title: "Giunsa pagplano ang cake para sa Pasko sa Cebu"
+tagalog_title: "Paano planuhin ang cake para sa Pasko sa Cebu"
 ---
 
 ## Plan the Christmas cake around the people, date, and handover

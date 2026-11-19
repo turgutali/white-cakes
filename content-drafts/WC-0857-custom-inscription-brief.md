@@ -2,9 +2,9 @@
 id: WC-0857
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to include in a custom brief for custom cake with an inscription in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa custom nga cake nga adunay mensahe sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa custom na cake na may mensahe sa Cebu
+english_title: "What to include in a custom brief for custom cake with an inscription in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa custom nga cake nga adunay mensahe sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa custom na cake na may mensahe sa Cebu"
 ---
 
 ## Include the inscription as an exact design instruction

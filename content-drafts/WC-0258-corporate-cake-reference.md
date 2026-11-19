@@ -2,9 +2,9 @@
 id: WC-0258
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /corporate-cake-orders-cebu/
-english_title: Which reference photos help when ordering corporate cake in Cebu
-cebuano_title: Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa opisina sa Cebu
-tagalog_title: Aling mga reference photo ang makatutulong sa pag-order ng cake para sa opisina sa Cebu
+english_title: "Which reference photos help when ordering corporate cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa opisina sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa opisina sa Cebu"
 ---
 
 ## Sending a useful reference for an office cake

@@ -2,9 +2,9 @@
 id: WC-0925
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: Planning cake for a family lunch after church in Cebu
-cebuano_title: Pagplano og cake para sa paniudto sa pamilya human sa misa sa Cebu
-tagalog_title: Pagpaplano ng cake para sa pananghalian ng pamilya pagkatapos magsimba sa Cebu
+english_title: "Planning cake for a family lunch after church in Cebu"
+cebuano_title: "Pagplano sa cake para sa paniudto sa pamilya human sa simbahan sa Cebu"
+tagalog_title: "Pagpaplano ng cake para sa tanghalian ng pamilya pagkatapos magsimba sa Cebu"
 ---
 
 ## Plan the cake around lunch and the people staying afterward

@@ -2,9 +2,9 @@
 id: WC-0401
 status: written-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/housewarming-cake-cebu.html
-english_title: What to include in a custom brief for housewarming cake in Cebu
-cebuano_title: Unsa ang iapil sa custom nga brief para sa cake para sa bag-ong puy-anan sa Cebu
-tagalog_title: Ano ang isasama sa custom na brief para sa cake para sa bagong tahanan sa Cebu
+english_title: "What to include in a custom brief for housewarming cake in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa bag-ong puy-anan sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa bagong tahanan sa Cebu"
 ---
 
 ## A housewarming cake brief for a new home and its guests

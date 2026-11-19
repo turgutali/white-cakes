@@ -2,9 +2,9 @@
 id: WC-0246
 status: written-draft
 publish_action: merge into /journal/how-to-order.html and /journal/graduation-cake-cebu.html
-english_title: Common ordering mistakes to avoid with graduation cake in Cebu
-cebuano_title: Mga kasagarang sayop sa pag-order nga likayan sa cake para sa graduation sa Cebu
-tagalog_title: Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa graduation sa Cebu
+english_title: "Common ordering mistakes to avoid with graduation cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa graduation sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa graduation sa Cebu"
 ---
 
 ## Graduation-cake order details that are easy to miss

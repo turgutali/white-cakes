@@ -2,9 +2,9 @@
 id: WC-0937
 status: written-draft
 publish_action: merge into /journal/choosing-a-flavor.html and /journal/thank-you-cake-cebu.html
-english_title: How to choose a flavour for cake for a surprise celebration in Cebu
-cebuano_title: Giunsa pagpili sa lami para sa cake para sa sorpresa nga selebrasyon sa Cebu
-tagalog_title: Paano pumili ng flavor para sa cake para sa sorpresang pagdiriwang sa Cebu
+english_title: "How to choose a flavour for cake for a surprise celebration in Cebu"
+cebuano_title: "Giunsa pagpili sa lami para sa cake para sa sorpresa nga selebrasyon sa Cebu"
+tagalog_title: "Paano pumili ng flavor para sa cake para sa sorpresang pagdiriwang sa Cebu"
 ---
 
 ## Choose a surprise-cake flavour the recipient will enjoy

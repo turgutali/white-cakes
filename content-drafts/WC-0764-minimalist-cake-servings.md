@@ -2,9 +2,9 @@
 id: WC-0764
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/minimalist-cake-cebu.html
-english_title: How to estimate servings for minimalist cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa minimalist nga cake sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa minimalist na cake sa Cebu
+english_title: "How to estimate servings for minimalist cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa minimalist nga cake sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa minimalist na cake sa Cebu"
 ---
 
 ## A minimalist finish does not change the cake's serving size

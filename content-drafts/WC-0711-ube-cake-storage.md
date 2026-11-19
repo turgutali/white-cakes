@@ -2,9 +2,9 @@
 id: WC-0711
 status: written-draft
 publish_action: merge into /journal/ube-cake-cebu.html and /journal/buttercream-in-cebu-heat.html
-english_title: How to keep safe and cool until serving ube cake in Cebu
-cebuano_title: Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang ube cake sa Cebu
-tagalog_title: Paano panatilihing ligtas at malamig hanggang ihain ang ube cake sa Cebu
+english_title: "How to keep safe and cool until serving ube cake in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang ube cake sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang ube cake sa Cebu"
 ---
 
 ## Handle an ube-flavoured cake using the same buttercream care basics

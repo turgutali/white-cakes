@@ -2,9 +2,9 @@
 id: WC-0216
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/christening-cake-cebu.html
-english_title: How to prepare for delivery of First Communion cake in Cebu
-cebuano_title: Giunsa pag-andam sa delivery sa cake para sa First Communion sa Cebu
-tagalog_title: Paano maghanda para sa delivery ng cake para sa First Communion sa Cebu
+english_title: "How to prepare for delivery of First Communion cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa First Communion sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng cake para sa First Communion sa Cebu"
 ---
 
 ## Prepare the church or reception handover before the event

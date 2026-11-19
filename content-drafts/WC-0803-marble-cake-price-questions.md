@@ -2,9 +2,9 @@
 id: WC-0803
 status: written-draft
 publish_action: merge into /journal/cake-prices-cebu.html and /custom-cakes-cebu/
-english_title: What to ask about the price of marble cake in Cebu
-cebuano_title: Unsa ang ipangutana bahin sa presyo sa marble cake sa Cebu
-tagalog_title: Ano ang dapat itanong tungkol sa presyo ng marble cake sa Cebu
+english_title: "What to ask about the price of marble cake in Cebu"
+cebuano_title: "Unsa ang ipangutana bahin sa presyo sa marble cake sa Cebu"
+tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng marble cake sa Cebu"
 ---
 
 ## Ask whether the Signature Marble price covers your requested finish

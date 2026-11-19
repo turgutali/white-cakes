@@ -2,9 +2,9 @@
 id: WC-0308
 status: written-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/anniversary-cakes-cebu.html
-english_title: How to estimate servings for anniversary cake in Cebu
-cebuano_title: Giunsa pagbanabana sa servings para sa cake para sa anibersaryo sa Cebu
-tagalog_title: Paano tantiyahin ang servings para sa cake para sa anibersaryo sa Cebu
+english_title: "How to estimate servings for anniversary cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa anibersaryo sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa cake para sa anibersaryo sa Cebu"
 ---
 
 ## Estimate anniversary-cake portions from who will share dessert

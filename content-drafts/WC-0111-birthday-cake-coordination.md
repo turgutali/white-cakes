@@ -2,9 +2,9 @@
 id: WC-0111
 status: written-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/birthday-cakes-cebu.html
-english_title: How to coordinate birthday cake in Cebu
-cebuano_title: Giunsa pag-coordinate ang cake para sa adlawng natawhan sa Cebu
-tagalog_title: Paano i-coordinate ang cake para sa kaarawan sa Cebu
+english_title: "How to coordinate birthday cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang cake para sa adlawng natawhan sa Cebu"
+tagalog_title: "Paano i-coordinate ang cake para sa kaarawan sa Cebu"
 ---
 
 ## Coordinate the birthday-cake delivery with the person hosting

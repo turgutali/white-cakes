@@ -2,9 +2,9 @@
 id: WC-0161
 status: written-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: What to write on baby shower cake in Cebu
-cebuano_title: Unsa ang isulat sa ibabaw sa cake para sa baby shower sa Cebu
-tagalog_title: Ano ang isusulat sa ibabaw ng cake para sa baby shower sa Cebu
+english_title: "What to write on baby shower cake in Cebu"
+cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa baby shower sa Cebu"
+tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa baby shower sa Cebu"
 ---
 
 ## Keep a baby-shower cake message simple

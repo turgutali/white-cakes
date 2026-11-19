@@ -2,9 +2,9 @@
 id: WC-0856
 status: written-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html and /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: How to plan the order timeline for custom cake with an inscription in Cebu
-cebuano_title: Giunsa pagplano ang oras sa pag-order para sa custom nga cake nga adunay mensahe sa Cebu
-tagalog_title: Paano planuhin ang oras ng pag-order para sa custom na cake na may mensahe sa Cebu
+english_title: "How to plan the order timeline for custom cake with an inscription in Cebu"
+cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa custom nga cake nga adunay mensahe sa Cebu"
+tagalog_title: "Paano planuhin ang oras ng pag-order para sa custom na cake na may mensahe sa Cebu"
 ---
 
 ## Send the inscription early enough to confirm its fit
