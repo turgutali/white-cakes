@@ -107,6 +107,7 @@ def all_posts() -> list[dict]:
         h1 = re.search(r'<h1(?:\s[^>]*)?>(.*?)</h1>', page, re.I | re.S)
         description = re.search(r'<meta\s+name=["\']description["\']\s+content=["\']([^"\']*)', page, re.I)
         published = re.search(r'<time\s+datetime=["\'](\d{4}-\d{2}-\d{2})', page, re.I)
+        language = re.search(r'<html\s+[^>]*lang=["\']([^"\']+)', page, re.I)
         if not published:
             published = re.search(r'"datePublished"\s*:\s*"(\d{4}-\d{2}-\d{2})"', page)
         if not (canonical and h1 and description and published):
@@ -124,6 +125,7 @@ def all_posts() -> list[dict]:
             "h1": unescape(h1_text),
             "meta": unescape(description.group(1)),
             "date": published.group(1),
+            "language": language.group(1) if language else "en-PH",
         })
     combined.sort(key=lambda p: p["date"], reverse=True)
     return combined
@@ -299,6 +301,9 @@ def faq_guides(posts: list[dict]):
 def home_journal(posts: list[dict]):
     path = ROOT / "index.html"
     t = path.read_text(encoding="utf-8")
+    # The homepage preview shows one representative English article per topic,
+    # not three separate language URLs for the same trilingual guide.
+    english_posts = [p for p in posts if p.get("language") == "en-PH"]
     items = "".join(
         f"""
           <li>
@@ -307,7 +312,7 @@ def home_journal(posts: list[dict]):
               <p>{p['meta']}</p>
             </a>
           </li>"""
-        for p in posts[:3]
+        for p in english_posts[:3]
     )
     t = re.sub(
         r'<ol class="journal-list">.*?</ol>',
