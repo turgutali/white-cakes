@@ -1,38 +1,39 @@
 ---
 id: WC-0901
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm cake-specific care advice
 english_title: "How to keep safe and cool until serving cake for a weekday celebration in Cebu"
 cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu"
 tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa pagdiriwang sa araw ng trabaho sa Cebu"
 ---
 
-## Plan where the cake will wait between delivery and the weekday event
+## English
 
-Ask the bakery how to store the specific cake and tell it when the cake is expected to arrive and be served. A weekday office or school may have a warm meeting room, limited refrigerator space, or a long gap before dessert. Share those conditions and ask which care plan is suitable.
+# How to keep safe and cool until serving cake for a weekday celebration in Cebu
 
-Arrange for a named person to receive it, keep the box level, and place it away from direct sunlight. Follow the bakery’s instructions about refrigeration and serving time. If the event is delayed, contact the bakery rather than guessing how long the cake can wait.
+Ask the bakery how to hold the specific cake during a workday gap between delivery and serving. Confirm whether the office has suitable storage and how the cake should be protected from heat, direct sun, and busy corridors. Do not leave it at a reception desk without a named owner.
 
-Keep verified guidance in the central Cebu heat-care article. Do not publish generic storage windows for every flavour and finish.
+Share the baker’s care instructions with the receiver and serving team; use product-specific guidance rather than assuming a universal holding time.
+
+## Cebuano
+
+# Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu
+
+Pangutan-a unsaon pagtipig sa partikular nga cake kon adunay oras tali sa delivery ug pag-serve sa trabaho. Kumpirmaha kon adunay storage ang opisina ug unsaon pagpanalipod sa kainit, adlaw ug agianan. Ayaw ibilin sa reception nga walay tag-iya.
+
+Ipaambit sa modawat ug serving team ang care instructions; sunda ang giya sa produkto imbes universal nga oras.
+
+## Tagalog
+
+# Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa pagdiriwang sa araw ng trabaho sa Cebu
+
+Itanong sa bakery kung paano iingatan ang partikular na cake sa pagitan ng delivery at paghahain sa workday. Kumpirmahin kung may angkop na storage ang opisina at paano ito poprotektahan sa init, araw, at mataong pasilyo. Huwag iwan sa reception desk nang walang may-ari.
+
+Ibahagi sa tatanggap at serving team ang care instructions; sundin ang gabay para sa produkto sa halip na iisang holding time para sa lahat.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha kung asa maghulat ang cake tali sa paghatod ug sa kalihokan sa adlaw sa semana
-
-Pangutan-a ang panaderya kon unsaon paghipos ang espesipikong cake ug isulti kini kon kanus-a ang cake gilauman nga moabot ug isilbi. Ang usa ka opisina o eskuylahan sa adlaw sa semana mahimong adunay usa ka mainit nga kwarto sa miting, limitado nga lugar sa refrigerator, o taas nga gintang sa wala pa ang dessert. Ipakigbahin ang mga kondisyon ug pangutana kung unsang plano sa pag-atiman ang angay.
-
-Paghan-ay alang sa usa ka ginganlan nga tawo nga makadawat niini, ibutang ang lebel sa kahon, ug ibutang kini layo sa direkta nga kahayag sa adlaw. Sunda ang mga panudlo sa panaderya bahin sa pagpabugnaw ug oras sa pagserbisyo. Kung malangan ang panghitabo, kontaka ang panaderya kay sa pagtag-an kung unsa kadugay ang paghulat sa cake.
-
-Hupti ang napamatud-an nga giya sa artikulo sa pag-atiman sa init sa sentro sa Sugbo. Ayaw pagmantala sa generic storage windows alang sa matag lami ug pagkahuman.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin kung saan maghihintay ang cake sa pagitan ng paghahatid at ng weekday na kaganapan
-
-Tanungin ang panaderya kung paano iimbak ang partikular na cake at sabihin dito kung kailan inaasahang darating at ihain ang cake. Ang isang opisina o paaralan sa araw ng linggo ay maaaring magkaroon ng isang mainit na silid ng pagpupulong, limitadong espasyo sa refrigerator, o isang mahabang agwat bago ang dessert. Ibahagi ang mga kundisyong iyon at itanong kung aling plano ng pangangalaga ang angkop.
-
-Ayusin para sa isang pinangalanang tao na matanggap ito, panatilihin ang antas ng kahon, at ilagay ito sa malayo sa direktang sikat ng araw. Sundin ang mga tagubilin ng panaderya tungkol sa pagpapalamig at oras ng paghahatid. Kung naantala ang kaganapan, makipag-ugnayan sa panaderya sa halip na hulaan kung gaano katagal maghihintay ang cake.
-
-Panatilihin ang na-verify na gabay sa artikulo sa pangangalaga sa init sa gitnang Cebu. Huwag mag-publish ng mga generic na storage window para sa bawat flavor at finish.
+- Verify current lead time, availability, workplace access, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

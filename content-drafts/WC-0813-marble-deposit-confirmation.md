@@ -1,38 +1,39 @@
 ---
 id: WC-0813
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html; verify current price and payment instructions
 english_title: "What to confirm before paying a deposit for marble cake in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa marble cake sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa marble cake sa Cebu"
 ---
 
-## Confirm the exact marble design and complete order summary
+## English
 
-Before sending a deposit, confirm that the bakery understands the marble effect you want. Describe the preferred colours and overall look, then identify one reference image. Ask what can be adapted to the cake size and finish; a photograph is a guide, not a guarantee of an identical pattern.
+# What to confirm before paying a deposit for marble cake in Cebu
 
-Get the order date, size, flavour, inscription, quoted total, delivery or pickup plan, and deposit amount in writing. White Cakes’ stated process uses a 50% deposit to confirm an order, but the current payment method and final amount should be confirmed directly. Keep the receipt and written design summary until handoff.
+Before paying, check that the quote distinguishes the marble cake product from any exterior pattern request. Confirm size, flavour, finish, wording, date, delivery point, and total. Ask whether the selected combination is currently available on the event date.
 
-Add the marble-specific question as an example in the order guide. Keep prices and payment steps centralized and current instead of repeating them in a standalone product page.
+White Cakes’ published guidance says a 50% deposit follows agreement on final price and details. Confirm current payment instructions directly and keep the acknowledged order with the payment record.
+
+## Cebuano
+
+# Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa marble cake sa Cebu
+
+Sa dili pa mobayad, susiha nga gilahi sa quote ang marble cake product ug gawas nga pattern request. Kumpirmaha ang gidak-on, flavour, finish, teksto, petsa, delivery ug total. Pangutan-a kon available karon ang kombinasyon sa petsa.
+
+Nag-ingon ang giya sa White Cakes nga 50% nga deposit human mouyon sa final nga presyo ug detalye. Kumpirmaha direkta ang instruksyon sa bayad ug tipigi ang giilang order uban sa record.
+
+## Tagalog
+
+# Ano ang dapat kumpirmahin bago magbayad ng deposito para sa marble cake sa Cebu
+
+Bago magbayad, tiyaking inihihiwalay ng quote ang marble cake product sa panlabas na pattern request. Kumpirmahin ang sukat, flavor, finish, teksto, petsa, delivery, at kabuuan. Itanong kung available ngayon ang kombinasyon sa petsa.
+
+Nasa gabay ng White Cakes ang 50% na deposito matapos mapagkasunduan ang pinal na presyo at detalye. Direktang kumpirmahin ang payment instructions at itago ang kinilalang order kasama ng record ng bayad.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang eksaktong disenyo sa marmol ug kompleto nga summary sa order
-
-Sa dili pa magpadala og deposito, kumpirmahi nga ang panaderya nakasabut sa marmol nga epekto nga imong gusto. Ihulagway ang gusto nga mga kolor ug kinatibuk-ang hitsura, dayon ilha ang usa ka reperensya nga imahe. Pangutan-a kung unsa ang mahimong ipahiangay sa gidak-on ug pagkahuman sa cake; ang usa ka litrato usa ka giya, dili usa ka garantiya sa parehas nga sumbanan.
-
-Kuhaa ang petsa sa pag-order, gidak-on, lami, inskripsiyon, gikutlo nga kinatibuk-an, plano sa pagpadala o pagkuha, ug kantidad sa pagdeposito sa pagsulat. Ang gipahayag nga proseso sa White Cakes naggamit og 50% nga deposito aron pagkumpirma sa usa ka order, apan ang kasamtangang paagi sa pagbayad ug ang katapusang kantidad kinahanglang direktang kumpirmahon. Hupti ang resibo ug sinulat nga katingbanan sa disenyo hangtod sa handoff.
-
-Idugang ang pangutana nga espesipiko sa marmol isip pananglitan sa giya sa han-ay. Hupti nga sentralisado ug kasamtangan ang mga presyo ug mga lakang sa pagbayad imbes nga balikon kini sa usa ka standalone nga panid sa produkto.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang eksaktong disenyo ng marmol at kumpletong buod ng order
-
-Bago magpadala ng deposito, kumpirmahin na naiintindihan ng panaderya ang marble effect na gusto mo. Ilarawan ang mga gustong kulay at pangkalahatang hitsura, pagkatapos ay tukuyin ang isang reference na larawan. Itanong kung ano ang maaaring iakma sa laki at tapusin ng cake; ang isang litrato ay isang gabay, hindi isang garantiya ng isang magkatulad na pattern.
-
-Kunin ang petsa ng pag-order, laki, lasa, inskripsyon, kabuuang na-quote, plano ng paghahatid o pag-pickup, at halaga ng deposito nang nakasulat. Ang nakasaad na proseso ng White Cakes ay gumagamit ng 50% na deposito upang kumpirmahin ang isang order, ngunit ang kasalukuyang paraan ng pagbabayad at huling halaga ay dapat na direktang kumpirmahin. Panatilihin ang resibo at nakasulat na buod ng disenyo hanggang ibigay.
-
-Idagdag ang tanong na tukoy sa marmol bilang isang halimbawa sa gabay sa pagkakasunud-sunod. Panatilihing sentralisado at napapanahon ang mga presyo at hakbang sa pagbabayad sa halip na ulitin ang mga ito sa isang standalone na page ng produkto.
+- Confirm current product meaning, availability, pricing, and delivery before publication.
+- Cebuano and Tagalog drafts need native editorial review.

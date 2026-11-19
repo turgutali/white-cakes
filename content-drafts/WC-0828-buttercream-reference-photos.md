@@ -1,44 +1,39 @@
 ---
 id: WC-0828
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Which reference photos help when ordering buttercream cake in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og buttercream nga cake sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng buttercream na cake sa Cebu"
 ---
 
-## Send a buttercream reference that shows the detail you want
+## English
 
-Choose one photo that demonstrates a specific detail—flowers, border, colour arrangement, or lettering. Explain which part should guide the design and which can change. If you send several images, label what to borrow from each so the bakery does not have to guess which look is the priority.
+# Which reference photos help when ordering buttercream cake in Cebu
 
-Ask White Cakes whether the technique and colour are feasible for the selected size. A reference image does not guarantee an exact copy or indicate the current quote. Confirm what is included in the final design and price. Do not republish another baker's reference without permission; use your own finished-cake photo for public content.
+Send one reference for the buttercream texture, another for colour, and a close-up only if a piping detail matters. Explain which element you want and what may change; otherwise several attractive photos can point to conflicting designs.
 
-Include the event date, flavour, size, serving count, inscription, and delivery plan. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Confirm the right size with the bakery, allow at least three days' notice, and use the 50% deposit to secure the agreed order.
+Include the cake size, flavour, event date, inscription, and venue. Ask the bakery to summarize the feasible finish before approval, and use only photos you have permission to share.
 
-Keep reference instructions in the central custom brief guide and link to the design page for real White Cakes examples.
+## Cebuano
+
+# Unsang mga litrato nga reference ang makatabang sa pag-order og buttercream nga cake sa Cebu
+
+Ipadala ang usa ka reference sa buttercream texture, lain sa kolor ug close-up kon importante ang piping. Isulti unsay gusto ug unsay mahimong usbon; kon dili, mahimong magkasumpaki ang mga litrato.
+
+Iapil ang gidak-on, flavour, petsa, mensahe ug venue. Pangayoa sa panaderya nga i-summarize ang mahimo nga finish ug gamita lang ang litrato nga gitugotan nimong ipaambit.
+
+## Tagalog
+
+# Aling mga reference photo ang makatutulong sa pag-order ng buttercream na cake sa Cebu
+
+Magpadala ng isang reference para sa buttercream texture, isa para sa kulay, at close-up lang kung mahalaga ang piping detail. Ipaliwanag kung anong elemento ang gusto at ano ang maaaring baguhin; kung hindi, maaaring magkasalungat ang mga larawan.
+
+Ilagay ang sukat, flavor, petsa, inscription, at venue. Hilingin sa bakery na ibuod ang posibleng finish bago aprubahan at gumamit lang ng larawang may pahintulot kang ibahagi.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Magpadala ug buttercream reference nga nagpakita sa detalye nga imong gusto
-
-Pagpili og usa ka litrato nga nagpakita sa usa ka espesipikong detalye—mga bulak, utlanan, pagkahan-ay sa kolor, o letra. Ipaathag kon diin nga bahin ang dapat maggiya sa desinyo kag kon ano ang mahimo magbag-o. Kung magpadala ka ug daghang mga imahe, sulati kung unsa ang mahulam gikan sa matag usa aron ang panaderya dili kinahanglan nga makatag-an kung unsang hitsura ang prayoridad.
-
-Pangutan-a ang White Cake kung mahimo ba ang teknik ug kolor sa gipili nga gidak-on. Ang usa ka reperensya nga imahe dili garantiya sa usa ka eksaktong kopya o nagpaila sa karon nga kinutlo. Kumpirma kung unsa ang gilakip sa katapusan nga disenyo ug presyo. Ayaw imantala pag-usab ang pakisayran sa laing panadero nga walay pagtugot; gamita ang imong kaugalingon nga nahuman nga cake nga litrato alang sa publiko nga sulud.
-
-Ilakip ang petsa sa panghitabo, lami, gidak-on, ihap sa pag-alagad, inskripsiyon, ug plano sa pagpadala. Ang kasamtangan nga mga banabana mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kumpirma ang husto nga gidak-on sa panaderya, tugoti ang labing menos tulo ka adlaw nga pahibalo, ug gamita ang 50% nga deposito aron masiguro ang gikasabutan nga order.
-
-Itago ang mga instruksyon sa pakisayran sa sentro nga custom nga mubo nga giya ug i-link sa panid sa disenyo alang sa tinuod nga mga pananglitan sa White Cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magpadala ng buttercream reference na nagpapakita ng detalyeng gusto mo
-
-Pumili ng isang larawan na nagpapakita ng isang partikular na detalye—mga bulaklak, hangganan, pagkakaayos ng kulay, o letra. Ipaliwanag kung aling bahagi ang dapat gumabay sa disenyo at alin ang maaaring magbago. Kung nagpadala ka ng ilang larawan, lagyan ng label kung ano ang hihiramin sa bawat isa upang hindi na hulaan ng panaderya kung aling hitsura ang priyoridad.
-
-Tanungin ang White Cake kung ang pamamaraan at kulay ay magagawa para sa napiling laki. Ang isang reference na imahe ay hindi ginagarantiyahan ang isang eksaktong kopya o nagpapahiwatig ng kasalukuyang quote. Kumpirmahin kung ano ang kasama sa panghuling disenyo at presyo. Huwag muling i-publish ang sanggunian ng ibang panadero nang walang pahintulot; gamitin ang iyong sariling tapos na cake na larawan para sa pampublikong nilalaman.
-
-Isama ang petsa ng kaganapan, lasa, laki, bilang ng paghahatid, inskripsiyon, at plano sa paghahatid. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin ang tamang sukat sa panaderya, magbigay ng hindi bababa sa tatlong araw na paunawa, at gamitin ang 50% na deposito upang ma-secure ang napagkasunduang order.
-
-Panatilihin ang mga tagubilin sa sanggunian sa gitnang custom na maikling gabay at i-link sa pahina ng disenyo para sa mga tunay na halimbawa ng White Cake.
+- Confirm current flavours, finish options, price, and product-specific handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

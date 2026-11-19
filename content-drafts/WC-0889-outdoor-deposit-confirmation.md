@@ -1,38 +1,39 @@
 ---
 id: WC-0889
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /journal/buttercream-in-cebu-heat.html; verify current payment and care details
 english_title: "What to confirm before paying a deposit for cake for a warm outdoor celebration in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa selebrasyon sa init nga gawas sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa mainit na pagdiriwang sa labas sa Cebu"
 ---
 
-## Agree on the cake, outdoor handoff, and product-care plan first
+## English
 
-Confirm the date, size, flavour, design, exact message, and complete price. Explain where the cake will be displayed, whether it is shaded, and when it will be served. Ask the bakery what finish and handling advice suit the specific product; do not assume the cake is heatproof.
+# What to confirm before paying a deposit for cake for a warm outdoor celebration in Cebu
 
-White Cakes’ stated process uses a 50% deposit to confirm an agreed order. Verify the amount, payment method, delivery charge, and handoff plan in writing before paying. Name a receiver who will take the cake promptly and follow the baker’s instructions.
+Before paying, confirm the cake product, size, design, delivery time window, covered handoff, and care instructions for the outdoor event. Ask what the plan is if conditions force a move indoors or change the schedule.
 
-Keep payment and storage advice in their respective central guides. Recheck current information before publication and avoid unsupported temperature or safety promises.
+White Cakes’ published guidance says a 50% deposit follows agreement on final details and price; verify current payment terms directly. Keep the weather contingency and product-care plan with the approved quote.
+
+## Cebuano
+
+# Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa selebrasyon sa init nga gawas sa Cebu
+
+Sa dili pa mobayad, kumpirmaha ang produkto, gidak-on, disenyo, delivery window, covered handoff ug care instructions sa outdoor event. Pangutan-a unsay buhaton kon ibalhin sulod o mausab ang oras tungod sa kahimtang.
+
+Nag-ingon ang giya sa White Cakes nga 50% nga deposit human mouyon sa final nga detalye ug presyo; kumpirmaha ang kasamtangang terms. Idugtong sa quote ang weather contingency ug care plan.
+
+## Tagalog
+
+# Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa mainit na pagdiriwang sa labas sa Cebu
+
+Bago magbayad, kumpirmahin ang produkto, sukat, design, delivery window, covered handoff, at care instructions para sa outdoor event. Itanong ang gagawin kung mapilitang ilipat sa loob o baguhin ang iskedyul.
+
+Nasa gabay ng White Cakes ang 50% na deposito matapos mapagkasunduan ang pinal na detalye at presyo; direktang kumpirmahin ang terms. Itabi sa aprubadong quote ang weather contingency at care plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-uyon sa cake, sa gawas nga handoff, ug plano sa pag-atiman sa produkto una
-
-Kumpirma ang petsa, gidak-on, lami, disenyo, eksaktong mensahe, ug kompletong presyo. Ipatin-aw kon asa ipasundayag ang cake, kon kini gi-shade, ug kanus-a kini i-serve. Pangutan-a ang panaderya kung unsang tambag sa paghuman ug pagdumala ang angay sa piho nga produkto; ayaw hunahunaa nga ang cake dili init.
-
-Ang gipahayag nga proseso sa White Cakes naggamit og 50% nga deposito aron pagkumpirma sa usa ka gikasabutan nga order. Tinoa ang kantidad, paagi sa pagbayad, bayad sa pagpadala, ug plano sa handoff sa pagsulat sa dili pa magbayad. Pagngalan og tigdawat nga mokuha dayon sa cake ug sunda ang instruksyon sa panadero.
-
-Itago ang tambag sa pagbayad ug pagtipig sa ilang tagsa-tagsa nga sentral nga mga giya. Susiha pag-usab ang kasamtangan nga impormasyon sa dili pa imantala ug likayi ang dili suportadong temperatura o mga saad sa kaluwasan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Sumang-ayon muna sa cake, handoff sa labas, at plano sa pangangalaga ng produkto
-
-Kumpirmahin ang petsa, laki, lasa, disenyo, eksaktong mensahe, at kumpletong presyo. Ipaliwanag kung saan ipapakita ang cake, kung ito ay may kulay, at kailan ito ihain. Tanungin ang panaderya kung anong payo sa pagtatapos at pangangasiwa ang nababagay sa partikular na produkto; huwag ipagpalagay na ang cake ay hindi tinatablan ng init.
-
-Ang nakasaad na proseso ng White Cakes ay gumagamit ng 50% na deposito upang kumpirmahin ang isang napagkasunduang order. I-verify ang halaga, paraan ng pagbabayad, singil sa paghahatid, at handoff na plano nang nakasulat bago magbayad. Pangalanan ang isang tatanggap na kukuha ng cake kaagad at sundin ang mga tagubilin ng panadero.
-
-Panatilihin ang payo sa pagbabayad at imbakan sa kani-kanilang mga sentral na gabay. Suriin muli ang kasalukuyang impormasyon bago i-publish at iwasan ang hindi suportadong temperatura o mga pangako sa kaligtasan.
+- Confirm venue conditions and product-specific care guidance with the bakery before publication.
+- Cebuano and Tagalog drafts need native editorial review.

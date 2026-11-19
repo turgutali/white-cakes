@@ -1,44 +1,39 @@
 ---
 id: WC-0938
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/proposal-cake-cebu.html
 english_title: "How to prepare for delivery of cake for a surprise celebration in Cebu"
 cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa sorpresa nga selebrasyon sa Cebu"
 tagalog_title: "Paano maghanda para sa delivery ng cake para sa sorpresang pagdiriwang sa Cebu"
 ---
 
-## Prepare one reliable receiver for a surprise cake delivery
+## English
 
-A surprise delivery still needs someone who can receive the cake. Give White Cakes the buyer's contact for order questions and a separate phone number for the person at the delivery address. Share the full address, landmark, gate or lobby instructions, and the agreed delivery window with that receiver. Do not assume the driver can leave the cake safely if nobody answers.
+# How to prepare for delivery of cake for a surprise celebration in Cebu
 
-When the cake arrives, the receiver should keep it out of direct sun and hot cars. If it will wait several hours before serving, White Cakes' guidance says to refrigerate it. Decide who will move the box from the handover point to a suitable place and when the cake will be brought out.
+Give the bakery the precise reveal venue and a coordinator who can receive the cake before the recipient arrives. Confirm address, access, delivery window, and a private contact method. Ask whether the delivery handoff can be kept discreet; do not assume the driver can stage a surprise.
 
-In the order enquiry, include the event date, cake format, flavour, size, short inscription, and guest count. At least three days' notice is requested; the bakery must confirm date availability and final details. Ask about the current quote and delivery charge before the 50% deposit confirms the agreed order.
+Confirm the route and reveal setup with the venue. If the recipient is already at the location, arrange a separate receiving person and holding area.
 
-Keep the receiving checklist in the general delivery guide and link it from the relevant surprise or proposal article. Do not promise that the bakery can keep a surprise confidential; the buyer should coordinate who may be contacted for the handover.
+## Cebuano
+
+# Giunsa pag-andam sa delivery sa cake para sa sorpresa nga selebrasyon sa Cebu
+
+Ihatag ang tukmang venue ug coordinator nga modawat sa dili pa moabot ang recipient. Kumpirmaha ang address, access, delivery window ug pribadong contact. Pangutan-a kon discreet ba ang handoff; ayaw pagtuo nga mahimo sa rider ang surprise staging.
+
+Kumpirmaha ang ruta ug setup sa venue. Kon naa na ang recipient, pagtudlo og laing modawat ug holding area.
+
+## Tagalog
+
+# Paano maghanda para sa delivery ng cake para sa sorpresang pagdiriwang sa Cebu
+
+Ibigay sa bakery ang eksaktong reveal venue at coordinator na tatanggap bago dumating ang recipient. Kumpirmahin ang address, access, delivery window, at pribadong paraan ng contact. Itanong kung magiging discreet ang handoff; huwag ipagpalagay na kayang mag-stage ng sorpresa ang rider.
+
+Kumpirmahin sa venue ang ruta at reveal setup. Kung naroon na ang recipient, magtalaga ng hiwalay na tatanggap at holding area.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-andam og usa ka kasaligan nga tigdawat alang sa usa ka sorpresa nga paghatud sa cake
-
-Ang usa ka sorpresa nga paghatod nanginahanglan gihapon og usa nga makadawat sa cake. Hatagi og White Cakes ang kontak sa pumapalit alang sa mga pangutana sa pag-order ug usa ka bulag nga numero sa telepono alang sa tawo sa adres sa pagpadala. Ipaambit ang tibuok nga adres, landmark, gate o lobby nga mga instruksyon, ug ang gikasabutan nga delivery window sa maong receiver. Ayaw hunahunaa nga ang drayber makabiya sa cake nga luwas kung walay motubag.
-
-Sa diha nga ang cake moabut, ang receiver kinahanglan nga itago kini gikan sa direkta nga adlaw ug init nga mga sakyanan. Kung kini maghulat pipila ka oras sa dili pa i-serve, ang giya sa White Cakes nag-ingon nga i-refrigerate kini. Pagdesisyon kung kinsa ang mobalhin sa kahon gikan sa handover point ngadto sa angay nga lugar ug kung kanus-a dad-on ang cake.
-
-Sa pagpangutana sa order, ilakip ang petsa sa panghitabo, pormat sa cake, lami, gidak-on, mubo nga inskripsiyon, ug ihap sa bisita. Ang labing menos tulo ka adlaw nga pahibalo gihangyo; kinahanglan nga kumpirmahon sa panaderya ang pagkaanaa sa petsa ug katapusang mga detalye. Pangutan-a ang bahin sa karon nga kinutlo ug bayad sa pagpadala sa wala pa ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang checklist sa pagdawat sa kinatibuk-ang giya sa pagpadala ug i-link kini gikan sa may kalabutan nga sorpresa o artikulo sa sugyot. Ayaw pagsaad nga ang panaderya makahimo sa usa ka sorpresa nga kompidensyal; ang pumapalit kinahanglan nga makig-coordinate kung kinsa ang mahimong makontak alang sa pagtugyan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Maghanda ng isang maaasahang receiver para sa isang sorpresang paghahatid ng cake
-
-Ang isang sorpresang paghahatid ay nangangailangan pa rin ng isang taong makakatanggap ng cake. Bigyan ng White Cakes ang contact ng mamimili para sa mga katanungan sa pag-order at isang hiwalay na numero ng telepono para sa tao sa address ng paghahatid. Ibahagi ang buong address, landmark, gate o lobby na mga tagubilin, at ang napagkasunduang delivery window sa receiver na iyon. Huwag ipagpalagay na ligtas na maiwan ng driver ang cake kung walang sasagot.
-
-Kapag dumating ang cake, dapat itago ito ng receiver sa direktang araw at mainit na mga sasakyan. Kung maghihintay ito ng ilang oras bago ihain, sinasabi ng patnubay ng White Cakes na palamigin ito. Magpasya kung sino ang maglilipat ng kahon mula sa handover point patungo sa isang angkop na lugar at kung kailan ilalabas ang cake.
-
-Sa pagtatanong ng order, isama ang petsa ng kaganapan, format ng cake, lasa, laki, maikling inskripsiyon, at bilang ng bisita. Ang hindi bababa sa tatlong araw na paunawa ay hinihiling; dapat kumpirmahin ng panaderya ang availability ng petsa at mga huling detalye. Magtanong tungkol sa kasalukuyang quote at delivery charge bago kumpirmahin ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang checklist sa pagtanggap sa pangkalahatang gabay sa paghahatid at i-link ito mula sa nauugnay na sorpresa o artikulo ng panukala. Huwag ipangako na ang panaderya ay maaaring panatilihing kumpidensyal ang isang sorpresa; dapat makipag-ugnayan ang mamimili kung sino ang maaaring makontak para sa handover.
+- Confirm current availability, terms, delivery feasibility, and privacy arrangements before publication.
+- Cebuano and Tagalog drafts need native editorial review.

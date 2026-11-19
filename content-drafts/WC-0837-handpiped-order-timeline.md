@@ -1,44 +1,39 @@
 ---
 id: WC-0837
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
 english_title: "How to plan the order timeline for custom cake with hand-piped details in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa custom nga cake nga adunay hand-piped nga detalye sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa custom na cake na may hand-piped na detalye sa Cebu"
 ---
 
-## Allow time to confirm hand-piped custom details
+## English
 
-Ask White Cakes about the date as soon as you know when the cake is needed. Made-to-order cakes require at least three days' notice. A design with hand-piped flowers, lettering, or borders still needs a confirmed production slot and an agreed layout; do not assume a detailed finish can be added at the last minute.
+# How to plan the order timeline for custom cake with hand-piped details in Cebu
 
-Send the size, flavour, event date, one reference photo, exact inscription, and serving estimate together. Identify which piped feature matters most and which details are optional. Ask whether the technique is available for the selected size and what the quote includes.
+Hand-piped details take planning because the design must fit the cake surface and available production time. Start with the event date; White Cakes requests at least three days’ notice, with longer lead time for detailed work or busy dates. Confirm the size, piping concept, wording, quote, and delivery together.
 
-Confirm delivery or pickup, receiver, window, and fee. If the cake will sit for hours before serving, ask about care instructions. Once design, price, and handoff details are agreed in writing, the 50% deposit confirms the order.
+One person should approve the final design and payment. Send references early and ask which details can be hand-piped at the chosen size; do not assume a reference can be reproduced exactly.
 
-Keep the minimum notice in one central order-timeline guide and recheck it against current bakery capacity and process.
+## Cebuano
+
+# Giunsa pagplano ang oras sa pag-order para sa custom nga cake nga adunay hand-piped nga detalye sa Cebu
+
+Kinahanglan og pagplano ang hand-piped nga detalye aron mohaom sa nawong ug oras sa paghimo. Sugdi sa petsa; nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo ug dugang panahon para sa detalyado o busy nga petsa. Kumpirmaha ang gidak-on, piping, teksto, quote ug delivery.
+
+Usa lang ka tawo ang moapruba sa final nga disenyo ug bayad. Ipadala sayo ang reference ug pangutan-a unsay mapiping sa gidak-on; ayaw pagtuo nga eksaktong makopya ang reference.
+
+## Tagalog
+
+# Paano planuhin ang oras ng pag-order para sa custom na cake na may hand-piped na detalye sa Cebu
+
+Kailangan ng pagpaplano ang hand-piped details para bumagay sa ibabaw ng cake at oras ng paggawa. Magsimula sa petsa; humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso at dagdag na lead time para sa detalyado o mataong petsa. Kumpirmahin nang sabay ang sukat, piping, teksto, quote, at delivery.
+
+Iisang tao lang ang dapat mag-apruba sa design at bayad. Ipadala nang maaga ang references at itanong kung aling detalye ang kayang i-pipe sa napiling sukat; huwag ipagpalagay na eksaktong makokopya ang reference.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paghatag ug panahon sa pagkumpirma sa custom nga mga detalye sa hand-piped
-
-Pangutan-a ang White Cakes bahin sa petsa sa diha nga nahibal-an nimo kung gikinahanglan ang cake. Ang hinimo nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo. Ang usa ka disenyo nga adunay mga bulak sa kamot nga tubo, letra, o mga utlanan nanginahanglan gihapon og kumpirmadong puwang sa produksiyon ug usa ka gikasabutan nga layout; ayaw paghunahuna nga ang usa ka detalyado nga pagkahuman mahimong idugang sa katapusan nga minuto.
-
-Ipadala ang gidak-on, lami, petsa sa panghitabo, usa ka reperensya nga litrato, eksakto nga inskripsiyon, ug banabana sa pagserbisyo. Ilha kung unsang piped nga bahin ang labing hinungdanon ug unsang mga detalye ang opsyonal. Pangutan-a kon ang teknik anaa alang sa pinili nga gidak-on ug unsa ang gilakip sa kinutlo.
-
-Kumpirma ang pagpadala o pagkuha, tigdawat, bintana, ug bayad. Kon ang cake molingkod sulod sa daghang oras sa dili pa i-serve, pangutana mahitungod sa mga instruksyon sa pag-atiman. Kung ang mga detalye sa disenyo, presyo, ug handoff nauyonan sa pagsulat, ang 50% nga deposito nagpamatuod sa order.
-
-Itago ang minimum nga pahibalo sa usa ka sentral nga giya sa order-timeline ug susihon kini pag-usab batok sa karon nga kapasidad ug proseso sa panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magbigay ng oras upang kumpirmahin ang mga custom na detalye ng hand-piped
-
-Tanungin ang White Cake tungkol sa petsa sa sandaling malaman mo kung kailan kailangan ang cake. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Ang isang disenyo na may mga hand-piped na bulaklak, letra, o mga hangganan ay nangangailangan pa rin ng kumpirmadong puwang ng produksyon at isang napagkasunduang layout; huwag ipagpalagay na ang isang detalyadong pagtatapos ay maaaring idagdag sa huling minuto.
-
-Ipadala ang laki, lasa, petsa ng kaganapan, isang reference na larawan, eksaktong inskripsiyon, at pagtatantya ng paghahatid nang magkasama. Tukuyin kung aling feature ang piped ang pinakamahalaga at kung aling mga detalye ang opsyonal. Tanungin kung ang pamamaraan ay magagamit para sa napiling laki at kung ano ang kasama sa quote.
-
-Kumpirmahin ang paghahatid o pickup, receiver, window, at bayad. Kung ang cake ay uupo ng ilang oras bago ihain, magtanong tungkol sa mga tagubilin sa pangangalaga. Kapag napagkasunduan nang nakasulat ang mga detalye ng disenyo, presyo, at handoff, kinukumpirma ng 50% na deposito ang order.
-
-Panatilihin ang pinakamababang paunawa sa isang sentral na gabay sa timeline ng order at suriin muli ito ayon sa kasalukuyang kapasidad at proseso ng panaderya.
+- Confirm current piping options, lead time, pricing, and delivery instructions before publication.
+- Cebuano and Tagalog drafts need native editorial review.

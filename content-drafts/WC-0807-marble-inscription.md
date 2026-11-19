@@ -1,38 +1,39 @@
 ---
 id: WC-0807
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
 english_title: "What to write on marble cake in Cebu"
 cebuano_title: "Unsa ang isulat sa ibabaw sa marble cake sa Cebu"
 tagalog_title: "Ano ang isusulat sa ibabaw ng marble cake sa Cebu"
 ---
 
-## Keep the inscription short so it does not compete with the marble pattern
+## English
 
-The marbled finish already draws the eye, so a short name, date, or greeting can keep the cake balanced. Choose the main message and leave longer wording for a separate card. If the cake has a border or another focal decoration, ask the bakery where the words can remain legible.
+# What to write on marble cake in Cebu
 
-Send exact spelling, punctuation, and capitalization with the order. Confirm whether the inscription fits the current size and whether it is included in the quote. If you want a specific colour for the letters, ask whether it is available and how it will look against the selected design.
+Keep the inscription short enough to remain readable beside a marble pattern. Choose the recipient, occasion, or a brief greeting; send exact wording and punctuation in one approved message. Ask whether the pattern should stay away from the lettering area.
 
-Add these considerations to the central message guide. Use original approved photos if showing real lettering and marbling combinations.
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Have one person proofread the final text and confirm how it will be placed before production.
+
+## Cebuano
+
+# Unsa ang isulat sa ibabaw sa marble cake sa Cebu
+
+Hupti nga mubo ang inskripsiyon aron mabasa tupad sa marble pattern. Pilia ang modawat, okasyon o mubo nga pangumusta; ipadala ang eksaktong teksto ug punctuation sa usa ka mensahe. Pangutan-a kon ipahilayo ba ang pattern sa letra.
+
+Kamot nga gipiping ang buttercream sa White Cakes ug walay edible printed logo sheets. Pabasaha sa usa ka tawo ang final nga teksto ug kumpirmaha asa kini ibutang sa dili pa himoon.
+
+## Tagalog
+
+# Ano ang isusulat sa ibabaw ng marble cake sa Cebu
+
+Panatilihing maikli ang inscription para mabasa sa tabi ng marble pattern. Piliin ang tatanggap, okasyon, o maikling pagbati; ipadala ang eksaktong teksto at punctuation sa iisang mensahe. Itanong kung dapat ilayo ang pattern sa lettering area.
+
+Mano-manong ipinipipe ng White Cakes ang buttercream at wala itong edible printed logo sheets. Ipabasa sa isang tao ang pinal na teksto at kumpirmahin kung saan ito ilalagay bago gawin.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti nga mubo ang inskripsiyon aron dili kini makigkompetensya sa pattern sa marmol
-
-Ang marbled finish nakadani na sa mata, mao nga ang mubo nga ngalan, petsa, o pagtimbaya makapabalanse sa cake. Pilia ang panguna nga mensahe ug ibilin ang mas taas nga mga pulong alang sa usa ka lahi nga kard. Kon ang cake adunay utlanan o laing focal nga dekorasyon, pangutan-a ang panaderya kung asa ang mga pulong magpabilin nga mabasa.
-
-Ipadala ang eksaktong spelling, punctuation, ug capitalization uban sa order. Pagmatuod kung ang inskripsiyon mohaum sa kasamtangan nga gidak-on ug kung kini gilakip sa kinutlo. Kung gusto nimo ang usa ka piho nga kolor sa mga letra, pangutana kung kini magamit ug kung unsa ang hitsura niini batok sa gipili nga disenyo.
-
-Idugang kini nga mga konsiderasyon sa sentro nga giya sa mensahe. Gamita ang orihinal nga giaprobahan nga mga litrato kung nagpakita sa tinuod nga mga kombinasyon sa letra ug marbling.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing maikli ang inskripsiyon upang hindi ito makipagkumpitensya sa pattern ng marmol
-
-Ang marbled finish ay nakakaakit na ng mata, kaya ang isang maikling pangalan, petsa, o pagbati ay maaaring panatilihing balanse ang cake. Piliin ang pangunahing mensahe at mag-iwan ng mas mahabang salita para sa isang hiwalay na card. Kung ang cake ay may hangganan o ibang focal na dekorasyon, tanungin ang panaderya kung saan maaaring manatiling nababasa ang mga salita.
-
-Magpadala ng eksaktong spelling, bantas, at capitalization kasama ng order. Kumpirmahin kung ang inskripsiyon ay akma sa kasalukuyang laki at kung ito ay kasama sa quote. Kung gusto mo ng partikular na kulay para sa mga titik, tanungin kung ito ay magagamit at kung ano ang magiging hitsura nito laban sa napiling disenyo.
-
-Idagdag ang mga pagsasaalang-alang na ito sa gabay sa gitnang mensahe. Gumamit ng orihinal na naaprubahang mga larawan kung nagpapakita ng tunay na mga kumbinasyon ng titik at marbling.
+- Confirm current product meaning, availability, pricing, and delivery before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,39 @@
 ---
 id: WC-0904
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Which reference photos help when ordering cake for a weekday celebration in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pagdiriwang sa araw ng trabaho sa Cebu"
 ---
 
-## Use a reference that shows the finish you need for the event
+## English
 
-A weekday celebration might be a small office gathering, a family meal, or a quick surprise. Choose one photo that communicates the overall design and explain which feature matters: colour, lettering, border, or a simple theme. Avoid sending several pictures without saying how they differ.
+# Which reference photos help when ordering cake for a weekday celebration in Cebu
 
-Include the date, size, guest estimate, flavour, exact inscription, and delivery or pickup plan. If the cake is for an office, share building access and a receiver contact. Ask whether the reference can be adapted to the selected size and available production time.
+Use references that fit a practical weekday setup: one for the overall look and another for a detail such as lettering. Add a note on the time available for display and serving, since that can affect how much setup is realistic.
 
-Add this reminder to the central custom brief guide and link to the delivery page for weekday handoffs. A distinct case study needs an actual reference-to-finished example and permission.
+Include the office address, serving time, size, and message. Ask the bakery to confirm what can be produced and delivered within the agreed window.
+
+## Cebuano
+
+# Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa selebrasyon sa adlaw nga pangtrabaho sa Cebu
+
+Pilia ang reference nga mohaom sa weekday setup: usa sa kinatibuk-ang hitsura ug lain sa detalye sama sa letra. Isulti ang oras sa display ug pag-serve kay makaapekto kini sa setup.
+
+Iapil ang office address, oras, gidak-on ug mensahe. Pangayo og kumpirmasyon sa mahimo ug ma-deliver sa gikasabotang window.
+
+## Tagalog
+
+# Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pagdiriwang sa araw ng trabaho sa Cebu
+
+Pumili ng reference na babagay sa praktikal na weekday setup: isa para sa kabuuang itsura at isa para sa detalye gaya ng lettering. Sabihin ang oras para sa display at paghahain dahil naaapektuhan nito kung gaano kalaking setup ang makatotohanan.
+
+Ilagay ang office address, oras ng paghahain, sukat, at mensahe. Kumpirmahin sa bakery kung ano ang magagawa at maihahatid sa napagkasunduang window.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paggamit ug reperensiya nga nagpakita sa paghuman nga imong gikinahanglan para sa kalihokan
-
-Ang usa ka selebrasyon sa adlaw sa semana mahimong usa ka gamay nga panagtapok sa opisina, usa ka panihapon sa pamilya, o usa ka dali nga sorpresa. Pagpili usa ka litrato nga nagpahibalo sa kinatibuk-ang disenyo ug ipasabut kung unsang bahin ang hinungdanon: kolor, letra, border, o usa ka yano nga tema. Likayi ang pagpadala og daghang mga hulagway nga dili isulti kung unsa ang kalainan niini.
-
-Ilakip ang petsa, gidak-on, banabana sa bisita, lami, eksaktong inskripsiyon, ug plano sa pagpadala o pagkuha. Kung ang cake alang sa usa ka opisina, ipaambit ang access sa building ug usa ka kontak sa receiver. Pangutan-a kung ang reperensiya mahimong ipahiangay sa gipili nga gidak-on ug magamit nga oras sa produksiyon.
-
-Idugang kini nga pahinumdom sa sentral nga custom nga mubo nga giya ug i-link sa panid sa paghatud alang sa mga handoff sa adlaw sa semana. Ang usa ka lahi nga pagtuon sa kaso nanginahanglan usa ka aktuwal nga pakisayran-sa-natapos nga panig-ingnan ug pagtugot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng sanggunian na nagpapakita ng pagtatapos na kailangan mo para sa kaganapan
-
-Ang isang pagdiriwang sa araw ng linggo ay maaaring isang maliit na pagtitipon sa opisina, isang pagkain ng pamilya, o isang mabilis na sorpresa. Pumili ng isang larawan na nagpapakita ng pangkalahatang disenyo at ipaliwanag kung aling feature ang mahalaga: kulay, letra, border, o isang simpleng tema. Iwasang magpadala ng ilang larawan nang hindi sinasabi kung paano sila naiiba.
-
-Isama ang petsa, laki, pagtatantya ng bisita, lasa, eksaktong inskripsiyon, at plano sa paghahatid o pagkuha. Kung ang cake ay para sa isang opisina, ibahagi ang access sa gusali at isang contact sa receiver. Itanong kung ang sanggunian ay maaaring iakma sa napiling laki at magagamit na oras ng produksyon.
-
-Idagdag ang paalala na ito sa gitnang custom na maikling gabay at i-link sa page ng paghahatid para sa mga handoff sa araw ng linggo. Ang isang natatanging case study ay nangangailangan ng aktwal na reference-to-finished na halimbawa at pahintulot.
+- Verify current lead time, availability, workplace access, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

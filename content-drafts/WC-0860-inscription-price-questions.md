@@ -1,38 +1,39 @@
 ---
 id: WC-0860
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html; verify current rates and inscription pricing
 english_title: "What to ask about the price of custom cake with an inscription in Cebu"
 cebuano_title: "Unsa ang ipangutana bahin sa presyo sa custom nga cake nga adunay mensahe sa Cebu"
 tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng custom na cake na may mensahe sa Cebu"
 ---
 
-## Ask whether lettering and the requested cake design are included
+## English
 
-When requesting a price, provide the cake size, flavour, date, design, and exact inscription. Ask whether the quote includes the requested lettering, how much text fits, and whether a special placement or decoration changes the cost. If delivery is needed, provide the address and confirm any route fee.
+# What to ask about the price of custom cake with an inscription in Cebu
 
-Request the current total in writing. Prices and custom options can change, so do not rely on an old photo or general starting price. If you have a budget, tell the bakery before the design is finalized and ask which option might fit.
+Ask whether lettering is included in the cake quote and whether message length, number of lines, or a custom mark changes the price. Define the exact text and placement before comparing quotes. A cake photo does not show what inscription work was included.
 
-Keep live rates in the central price guide and link to the message page for wording advice. Refresh inscription and delivery details before publication.
+White Cakes’ published guidance says a 50% deposit follows agreement on final price and details; verify current terms. Request the total and inscription scope in writing.
+
+## Cebuano
+
+# Unsa ang ipangutana bahin sa presyo sa custom nga cake nga adunay mensahe sa Cebu
+
+Pangutan-a kon apil sa cake quote ang lettering ug makaapekto ba sa presyo ang gitas-on, gidaghanon sa linya o custom nga marka. Klaroha ang teksto ug puwesto sa dili pa ikumpara ang quote. Dili makita sa photo unsang inskripsiyon ang apil.
+
+Nag-ingon ang giya sa White Cakes nga 50% nga deposit human mouyon sa final nga presyo ug detalye; kumpirmaha ang terms. Pangayo sa sinulat ang total ug scope sa inskripsiyon.
+
+## Tagalog
+
+# Ano ang dapat itanong tungkol sa presyo ng custom na cake na may mensahe sa Cebu
+
+Itanong kung kasama sa cake quote ang lettering at kung nagbabago ang presyo ayon sa haba, dami ng linya, o custom na marka. Tukuyin ang eksaktong teksto at puwesto bago maghambing ng quote. Hindi ipinapakita ng cake photo kung anong inscription work ang kasama.
+
+Nasa gabay ng White Cakes ang 50% na deposito matapos mapagkasunduan ang pinal na presyo at detalye; kumpirmahin ang terms. Hingin sa sulat ang kabuuan at saklaw ng inscription.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangutan-a kung ang letra ug ang gihangyo nga disenyo sa cake gilakip
-
-Kung mangayo ug presyo, ihatag ang gidak-on sa cake, lami, petsa, disenyo, ug eksaktong inskripsiyon. Pangutan-a kon ang kinutlo naglakip ba sa gihangyo nga letra, pila ka teksto ang mohaum, ug kon ang usa ka espesyal nga pagbutang o dekorasyon makapausab sa gasto. Kung gikinahanglan ang pagpadala, ihatag ang adres ug kumpirmahi ang bisan unsang bayad sa ruta.
-
-Paghangyo sa kasamtangan nga total sa pagsulat. Ang mga presyo ug naandan nga mga kapilian mahimong mausab, busa ayaw pagsalig sa usa ka daan nga litrato o kinatibuk-ang pagsugod nga presyo. Kung naa kay budget, sultihi ang panaderya sa dili pa mahuman ang desinyo ug pangutan-a kung unsang opsyon ang mohaom.
-
-Ipadayon ang mga live rates sa sentro nga giya sa presyo ug i-link sa panid sa mensahe alang sa tambag sa mga pulong. I-refresh ang inskripsiyon ug mga detalye sa pagpadala sa dili pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itanong kung kasama ang lettering at ang hiniling na disenyo ng cake
-
-Kapag humihiling ng presyo, ibigay ang laki ng cake, lasa, petsa, disenyo, at eksaktong inskripsiyon. Itanong kung kasama sa quote ang hinihiling na letra, kung magkano ang akma sa text, at kung binago ng isang espesyal na placement o dekorasyon ang gastos. Kung kailangan ang paghahatid, ibigay ang address at kumpirmahin ang anumang bayad sa ruta.
-
-Hilingin ang kasalukuyang kabuuan nang nakasulat. Maaaring magbago ang mga presyo at custom na opsyon, kaya huwag umasa sa lumang larawan o pangkalahatang panimulang presyo. Kung mayroon kang badyet, sabihin sa panaderya bago ma-finalize ang disenyo at itanong kung aling opsyon ang maaaring magkasya.
-
-Panatilihin ang mga live na rate sa gitnang gabay sa presyo at i-link sa pahina ng mensahe para sa payo sa mga salita. I-refresh ang inskripsyon at mga detalye ng paghahatid bago i-publish.
+- Confirm current lettering methods, pricing, production timing, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

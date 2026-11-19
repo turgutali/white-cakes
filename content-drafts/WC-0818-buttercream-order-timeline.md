@@ -1,38 +1,39 @@
 ---
 id: WC-0818
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html; verify current lead time
 english_title: "How to plan the order timeline for buttercream cake in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa buttercream nga cake sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa buttercream na cake sa Cebu"
 ---
 
-## Leave time to confirm the finish, message, and care plan
+## English
 
-Choose the date and requested size, then tell the bakery which buttercream finish or decoration you want. Share the flavour, exact inscription, serving estimate, and delivery or pickup details together. If the event is outdoors or warm, mention it early and ask for handling guidance for the actual cake.
+# How to plan the order timeline for buttercream cake in Cebu
 
-White Cakes’ current guidance asks for at least three days’ notice for made-to-order cakes. Contact earlier for detailed piping or a busy date, then wait for the bakery to confirm availability. Request the complete quote and order summary before using the stated 50% deposit process.
+For a buttercream cake, first confirm the finish and design the bakery can make for your date. Work backward from serving time, leaving space for a quote, approvals, payment, and a delivery plan. White Cakes asks for at least three days’ notice; custom piping or busy dates may need more.
 
-Keep lead times in one maintained order guide and verify them before publication. Do not assume every buttercream design has the same preparation time.
+Send one complete brief with size, guest estimate, exact inscription, venue, and receiver. Ask the bakery to confirm the final details and delivery window before considering the order booked.
+
+## Cebuano
+
+# Giunsa pagplano ang oras sa pag-order para sa buttercream nga cake sa Cebu
+
+Kumpirmaha una ang buttercream finish ug disenyo nga mahimo sa petsa. Ihapon paatras gikan sa oras sa pag-serve ug bilini og panahon sa quote, approvals, bayad ug delivery. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo; dugangi para sa custom piping o busy nga petsa.
+
+Ipadala ang usa ka kompleto nga brief sa gidak-on, bisita, eksaktong inskripsiyon, venue ug modawat. Pangayo og kumpirmasyon sa final nga detalye ug delivery window sa dili pa isipon nga booked ang order.
+
+## Tagalog
+
+# Paano planuhin ang oras ng pag-order para sa buttercream na cake sa Cebu
+
+Kumpirmahin muna ang buttercream finish at design na kayang gawin sa petsa. Magplano pabalik mula sa oras ng paghahain at maglaan para sa quote, approvals, bayad, at delivery. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso; maglaan pa para sa custom piping o mataong petsa.
+
+Magpadala ng kumpletong brief na may sukat, bisita, eksaktong inscription, venue, at tatanggap. Hingin ang kumpirmasyon sa pinal na detalye at delivery window bago ituring na booked ang order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagbilin ug panahon aron makumpirma ang pagkahuman, mensahe, ug plano sa pag-atiman
-
-Pilia ang petsa ug gihangyo nga gidak-on, dayon isulti sa panaderya kung unsang buttercream ang pagkahuman o dekorasyon nga gusto nimo. Ipaambit ang lami, eksaktong inskripsiyon, banabana sa pagserbisyo, ug mga detalye sa paghatud o pagkuha. Kung ang kalihokan naa sa gawas o init, hisgoti kini og sayo ug pangayo og giya sa pagdumala alang sa aktuwal nga cake.
-
-Ang kasamtangang giya sa White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa gihimo-sa-order nga mga cake. Kontaka sa sayo pa alang sa detalyado nga piping o usa ka busy nga petsa, unya paghulat sa panaderya aron makumpirma ang pagkaanaa. Hangyoa ang kompleto nga kinutlo ug summary sa order sa dili pa gamiton ang gipahayag nga 50% nga proseso sa pagdeposito.
-
-Itago ang mga oras sa pagpangulo sa usa ka gipadayon nga giya sa order ug pamatud-i kini sa wala pa imantala. Ayaw hunahunaa nga ang matag disenyo sa buttercream adunay parehas nga oras sa pag-andam.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-iwan ng oras upang kumpirmahin ang pagtatapos, mensahe, at plano ng pangangalaga
-
-Piliin ang petsa at hiniling na laki, pagkatapos ay sabihin sa panaderya kung aling buttercream finish o palamuti ang gusto mo. Ibahagi ang lasa, eksaktong inskripsiyon, pagtatantya ng paghahatid, at mga detalye ng paghahatid o pagkuha nang magkasama. Kung ang kaganapan ay nasa labas o mainit, banggitin ito nang maaga at humingi ng gabay sa paghawak para sa aktwal na cake.
-
-Ang kasalukuyang gabay ng White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Makipag-ugnayan nang mas maaga para sa detalyadong piping o isang abalang petsa, pagkatapos ay hintayin ang panaderya upang kumpirmahin ang pagkakaroon. Hilingin ang kumpletong quote at buod ng order bago gamitin ang nakasaad na 50% na proseso ng deposito.
-
-Panatilihin ang mga oras ng lead sa isang pinapanatili na gabay sa order at i-verify ang mga ito bago i-publish. Huwag ipagpalagay na ang bawat disenyo ng buttercream ay may parehong oras ng paghahanda.
+- Confirm current flavours, finish options, price, and product-specific handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

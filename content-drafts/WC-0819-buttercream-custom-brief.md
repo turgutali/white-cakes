@@ -1,38 +1,39 @@
 ---
 id: WC-0819
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html; verify current flavour and design options
 english_title: "What to include in a custom brief for buttercream cake in Cebu"
 cebuano_title: "Unsa ang iapil sa custom nga brief para sa buttercream nga cake sa Cebu"
 tagalog_title: "Ano ang isasama sa custom na brief para sa buttercream na cake sa Cebu"
 ---
 
-## Specify the buttercream finish, event conditions, and non-negotiable details
+## English
 
-Include the event date, guest estimate, requested size, current flavour choice, exact inscription, and delivery or pickup plan. For the design, identify whether you want a smooth finish, border, flowers, or another feature, and share one reference that shows it. Mark which details are essential and which can be adapted.
+# What to include in a custom brief for buttercream cake in Cebu
 
-If the cake will be outdoors or in a warm venue, tell the bakery and ask for product-specific handling guidance. Confirm how the design fits the selected size, get a complete quote, and make sure one person approves the final brief.
+A buttercream brief should identify the finish, texture, colours, and piping details you want, not just say “buttercream cake.” Include the event date, size, serving count, inscription, and venue. Distinguish required details from optional inspiration so the quote covers the intended work.
 
-Keep the reusable checklist in the custom-cake guide, with verified care details in the heat guide. Do not infer heat resistance from a photograph.
+White Cakes hand-pipes buttercream. Ask what current flavours and finishes are available and which parts of the reference can be adapted; do not assume every piping style or palette is possible.
+
+## Cebuano
+
+# Unsa ang iapil sa custom nga brief para sa buttercream nga cake sa Cebu
+
+Sa buttercream brief, isulti ang finish, texture, kolor ug piping; ayaw “buttercream cake” lang. Iapil ang petsa, gidak-on, servings, inskripsiyon ug venue. Ilahi ang kinahanglan sa opsyonal nga inspirasyon aron sakop sa quote ang tuyo nga trabaho.
+
+Kamot nga gipiping sa White Cakes ang buttercream. Pangutan-a ang kasamtangang flavours ug finishes ug unsang bahin sa reference ang maipahiangay; ayaw pagtuo nga mahimo ang tanang piping o kolor.
+
+## Tagalog
+
+# Ano ang isasama sa custom na brief para sa buttercream na cake sa Cebu
+
+Sa buttercream brief, tukuyin ang finish, texture, kulay, at piping detail na gusto, hindi “buttercream cake” lang. Ilagay ang petsa, sukat, serving, inscription, at venue. Ihiwalay ang kailangan sa opsyonal na inspirasyon para sakop ng quote ang nilalayong trabaho.
+
+Mano-manong ipinipipe ng White Cakes ang buttercream. Itanong kung anong kasalukuyang flavours at finishes ang available at aling bahagi ng reference ang maaaring iangkop; huwag ipagpalagay na posible ang bawat piping style o paleta.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipiho ang paghuman sa buttercream, kondisyon sa panghitabo, ug dili ma-negotiable nga mga detalye
-
-Ilakip ang petsa sa panghitabo, banabana sa bisita, gihangyo nga gidak-on, gipili karon nga lami, eksaktong inskripsiyon, ug plano sa pagpadala o pagkuha. Alang sa disenyo, ilha kung gusto nimo ang usa ka hapsay nga pagkahuman, utlanan, bulak, o lain nga bahin, ug ipaambit ang usa ka pakisayran nga nagpakita niini. Markahi kon unsa nga mga detalye ang gikinahanglan ug unsa ang mahimong ipahiangay.
-
-Kung ang cake naa sa gawas o sa usa ka mainit nga lugar, sultihi ang panaderya ug pangayo og giya sa pagdumala nga piho sa produkto. Kumpirma kung giunsa ang disenyo nga mohaum sa gipili nga gidak-on, pagkuha og kompleto nga kinutlo, ug siguroha nga usa ka tawo ang mouyon sa katapusang mubo.
-
-Itago ang magamit pag-usab nga checklist sa custom-cake nga giya, nga adunay gipamatud-an nga mga detalye sa pag-atiman sa heat guide. Ayaw isulti ang resistensya sa kainit gikan sa usa ka litrato.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tukuyin ang buttercream finish, mga kundisyon ng kaganapan, at hindi mapag-usapan na mga detalye
-
-Isama ang petsa ng kaganapan, pagtatantya ng bisita, hiniling na laki, kasalukuyang pagpipilian ng lasa, eksaktong inskripsiyon, at plano sa paghahatid o pagkuha. Para sa disenyo, tukuyin kung gusto mo ng makinis na finish, border, mga bulaklak, o iba pang feature, at magbahagi ng isang reference na nagpapakita nito. Markahan kung aling mga detalye ang mahalaga at alin ang maaaring iakma.
-
-Kung ang cake ay nasa labas o sa isang mainit na lugar, sabihin sa panaderya at humingi ng gabay sa pangangasiwa na partikular sa produkto. Kumpirmahin kung paano umaangkop ang disenyo sa napiling laki, kumuha ng kumpletong quote, at tiyaking aprubahan ng isang tao ang huling brief.
-
-Panatilihin ang reusable checklist sa custom-cake guide, na may mga na-verify na detalye ng pangangalaga sa heat guide. Huwag ipahiwatig ang paglaban sa init mula sa isang litrato.
+- Confirm current flavours, finish options, price, and product-specific handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

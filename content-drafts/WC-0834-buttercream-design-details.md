@@ -1,44 +1,39 @@
 ---
 id: WC-0834
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /journal/buttercream-vs-fondant-cake-cebu.html
 english_title: "Design details to consider for buttercream cake in Cebu"
 cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa buttercream nga cake sa Cebu"
 tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa buttercream na cake sa Cebu"
 ---
 
-## Choose buttercream details that suit the cake size
+## English
 
-White Cakes hand-pipes buttercream designs. A border, marbled colour, flowers, leaves, or lettering can each become the main visual detail, but the surface area changes with the size. Choose one priority before sending the brief. If the cake is small, a short inscription and one finish detail may read more clearly than several decorations crowded together.
+# Design details to consider for buttercream cake in Cebu
 
-Current White Cakes examples include Signature Marble's dusty-blue marbling and shell border, and Bouquet Cake's piped rosettes and sage leaves. Fully custom cakes can follow a reference image within the piped finish. Ask which parts of your photo can be adapted and whether the requested design changes the price. Do not assume every colour, flower, or technique is included in a standard option.
+Buttercream design details include finish texture, piping density, colour contrast, and clear space for lettering. Decide which detail should lead rather than requesting every technique in one design. White Cakes hand-pipes buttercream; ask what can be achieved cleanly at the confirmed size.
 
-For a buttercream order, send the date, size, flavour, guest count, message, and one reference. Confirm availability and the quote before paying the 50% deposit. If delivery is needed, include a receiver and handover instructions so the cake is not left in direct sun.
+A buttercream-versus-fondant comparison should describe actual material and finish differences without claiming one is always better. Use approved close-up photos and confirm the chosen finish in writing.
 
-Keep these shared design facts on the existing cake-style guide. A close-up technique article should use a real, approved cake image and explain a distinct piping detail visible in that photograph.
+## Cebuano
+
+# Mga detalye sa disenyo nga ikonsiderar para sa buttercream nga cake sa Cebu
+
+Apil sa buttercream design ang texture, kadaghan sa piping, contrast sa kolor ug luna sa letra. Desisyoni unsay unahon imbes ipangayo ang tanang teknik sa usa ka disenyo. Kamot nga gipiping sa White Cakes ang buttercream; pangutan-a unsay limpyo nga mahimo sa gidak-on.
+
+Sa pagtandi sa buttercream ug fondant, ihulagway ang aktuwal nga kalainan nga walay pag-angkon nga mas maayo pirmi ang usa. Gamita ang aprubadong close-up ug kumpirmaha sa sinulat ang finish.
+
+## Tagalog
+
+# Mga detalye ng disenyo na dapat isaalang-alang para sa buttercream na cake sa Cebu
+
+Kasama sa buttercream design details ang texture, dami ng piping, contrast ng kulay, at malinaw na espasyo para sa lettering. Magpasya kung alin ang uunahin sa halip na hingin ang bawat teknik sa iisang design. Mano-manong ipinipipe ng White Cakes ang buttercream; itanong kung ano ang malinis na magagawa sa kumpirmadong sukat.
+
+Sa paghahambing ng buttercream at fondant, ilarawan ang aktuwal na pagkakaiba sa materyal at finish nang hindi sinasabing laging mas mahusay ang isa. Gumamit ng aprubadong close-up at kumpirmahin sa sulat ang napiling finish.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pilia ang mga detalye sa buttercream nga haum sa gidak-on sa cake
-
-Mga disenyo sa buttercream nga White Cakes nga hand-pipes. Ang usa ka utlanan, marmol nga kolor, bulak, dahon, o letra mahimong ang matag usa mahimong pangunang visual nga detalye, apan ang ibabaw nga bahin mausab sa gidak-on. Pagpili ug usa ka prayoridad sa dili pa ipadala ang mubo. Kung gamay ang cake, ang usa ka mubo nga inskripsiyon ug usa ka detalye sa paghuman mahimong mabasa nga mas klaro kaysa daghang mga dekorasyon nga napuno.
-
-Kasamtangang mga pananglitan sa White Cakes naglakip sa abogon-asul nga marbling ug kabhang sa Signature Marble, ug mga piped rosette ug dahon sa sage sa Bouquet Cake. Ang bug-os nga naandan nga mga cake mahimong magsunod sa usa ka reference nga imahe sa sulod sa piped finish. Pangutan-a kung unsang mga bahin sa imong litrato ang mahimong ipasibo ug kung ang gihangyo nga disenyo nagbag-o sa presyo. Ayaw hunahunaa nga ang matag kolor, bulak, o teknik gilakip sa usa ka sagad nga kapilian.
-
-Para sa order nga buttercream, ipadala ang petsa, gidak-on, lami, ihap sa bisita, mensahe, ug usa ka reference. Kumpirma ang pagkaanaa ug ang quote sa dili pa mobayad sa 50% nga deposito. Kung gikinahanglan ang paghatod, iapil ang tigdawat ug mga instruksiyon sa pagtugyan aron ang cake dili mabutang sa direkta nga adlaw.
-
-Itago kining gipaambit nga mga kamatuoran sa disenyo sa kasamtangan nga giya sa estilo sa cake. Ang usa ka close-up nga teknik nga artikulo kinahanglang mogamit ug tinuod, aprobado nga cake nga hulagway ug ipatin-aw ang lahi nga detalye sa tubo nga makita sa maong hulagway.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng mga detalye ng buttercream na angkop sa laki ng cake
-
-Mga disenyo ng buttercream na hand-pipes ng White Cakes. Ang hangganan, kulay ng marmol, bulaklak, dahon, o letra ay maaaring maging pangunahing visual na detalye, ngunit nagbabago ang ibabaw na bahagi sa laki. Pumili ng isang priyoridad bago ipadala ang brief. Kung ang cake ay maliit, ang isang maikling inskripsiyon at isang detalye ng pagtatapos ay maaaring basahin nang mas malinaw kaysa sa ilang mga dekorasyon na nagsisiksikan.
-
-Kasama sa mga kasalukuyang halimbawa ng White Cakes ang dusty-blue marbling at shell border ng Signature Marble, at ang mga piped rosette at dahon ng sage ng Bouquet Cake. Maaaring sundin ng ganap na custom na mga cake ang isang reference na larawan sa loob ng piped finish. Itanong kung aling mga bahagi ng iyong larawan ang maaaring iakma at kung binago ng hiniling na disenyo ang presyo. Huwag ipagpalagay na ang bawat kulay, bulaklak, o pamamaraan ay kasama sa isang karaniwang opsyon.
-
-Para sa order ng buttercream, ipadala ang petsa, laki, lasa, bilang ng bisita, mensahe, at isang reference. Kumpirmahin ang availability at ang quote bago bayaran ang 50% na deposito. Kung kailangan ang paghahatid, isama ang isang receiver at mga tagubilin sa paghahatid upang ang cake ay hindi maiwan sa direktang araw.
-
-Panatilihin ang mga nakabahaging katotohanan sa disenyo na ito sa umiiral nang gabay sa istilo ng cake. Ang isang close-up na artikulo ng diskarte ay dapat gumamit ng isang tunay, naaprubahang larawan ng cake at ipaliwanag ang isang natatanging detalye ng piping na makikita sa larawang iyon.
+- Confirm current flavours, finish options, price, and product-specific handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

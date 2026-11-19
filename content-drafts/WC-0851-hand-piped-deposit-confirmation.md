@@ -1,38 +1,39 @@
 ---
 id: WC-0851
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html; verify current payment details
 english_title: "What to confirm before paying a deposit for custom cake with hand-piped details in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa custom nga cake nga adunay hand-piped nga detalye sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa custom na cake na may hand-piped na detalye sa Cebu"
 ---
 
-## Get the piping reference and complete quote agreed in writing
+## English
 
-Before paying, confirm the event date, cake size, flavour, exact wording, and the hand-piped detail you are requesting. Identify what the reference photo shows—border, lettering, flowers, or another feature—and ask what can be adapted to the selected cake and available time.
+# What to confirm before paying a deposit for custom cake with hand-piped details in Cebu
 
-Request the total price, including custom decoration and delivery if needed. White Cakes currently states a 50% deposit to confirm an agreed order; verify the exact amount and payment channel against the final quote. Save the receipt and order summary, and wait for the bakery’s written confirmation before treating the slot as secured.
+Before paying, confirm the hand-piped design scope, size, exact wording, date, delivery, and total in the quote. Check who approved the final artwork and whether a wording change affects the work. Keep the company’s payment process aligned with the bakery’s booking deadline.
 
-Keep the payment steps in the central order guide and add piping-specific advice to the custom brief guide. Confirm current instructions before publishing.
+White Cakes’ published guidance says a 50% deposit follows agreement on final price and details; verify current payment instructions directly and keep written acknowledgement.
+
+## Cebuano
+
+# Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa custom nga cake nga adunay hand-piped nga detalye sa Cebu
+
+Sa dili pa mobayad, kumpirmaha sa quote ang hand-piped scope, gidak-on, teksto, petsa, delivery ug total. Susiha kinsa ang miapruba ug makaapekto ba sa trabaho ang kausaban sa teksto. Ipares ang proseso sa bayad sa kompanya sa deadline sa booking.
+
+Nag-ingon ang giya sa White Cakes nga 50% nga deposit human mouyon sa final nga presyo ug detalye; kumpirmaha ang instruksyon ug tipigi ang sinulat nga pag-ila.
+
+## Tagalog
+
+# Ano ang dapat kumpirmahin bago magbayad ng deposito para sa custom na cake na may hand-piped na detalye sa Cebu
+
+Bago magbayad, kumpirmahin sa quote ang hand-piped scope, sukat, eksaktong teksto, petsa, delivery, at kabuuan. Suriin kung sino ang nag-apruba at kung nakaaapekto sa trabaho ang pagbabago ng teksto. Itugma ang proseso ng bayad ng kumpanya sa booking deadline ng bakery.
+
+Nasa gabay ng White Cakes ang 50% na deposito matapos mapagkasunduan ang pinal na presyo at detalye; direktang kumpirmahin ang instructions at itago ang nakasulat na pagkilala.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kuhaa ang piping reference ug kompleto nga quote nga gikasabotan pinaagi sa pagsulat
-
-Sa dili pa mobayad, kumpirmahi ang petsa sa panghitabo, gidak-on sa cake, lami, eksakto nga pulong, ug ang detalye sa kamot nga imong gipangayo. Ilha kon unsa ang gipakita sa reference nga litrato—utlanan, letra, bulak, o laing feature—ug pangutana kon unsay ipahaom sa pinili nga cake ug magamit nga oras.
-
-Hangyoa ang kinatibuk-ang presyo, lakip ang kostumbre nga dekorasyon ug paghatud kung gikinahanglan. Ang White Cakes sa pagkakaron nag-ingon og 50% nga deposito aron pagkumpirma sa usa ka gikasabutan nga order; pamatud-i ang eksaktong kantidad ug channel sa pagbayad batok sa katapusang quote. I-save ang resibo ug summary sa order, ug hulata ang sinulat nga kumpirmasyon sa panaderya sa dili pa itratar ang slot nga segurado.
-
-Ipadayon ang mga lakang sa pagbayad sa sentro nga giya sa order ug idugang ang piho nga tambag sa piping sa naandan nga mubu nga giya. Kumpirma ang kasamtangang instruksyon sa dili pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kunin ang piping reference at kumpletong quote na napagkasunduan sa pagsulat
-
-Bago magbayad, kumpirmahin ang petsa ng kaganapan, laki ng cake, lasa, eksaktong salita, at ang hand-piped na detalye na iyong hinihiling. Tukuyin kung ano ang ipinapakita ng reference na larawan—border, lettering, flowers, o isa pang feature—at itanong kung ano ang maaaring iakma sa napiling cake at available na oras.
-
-Hilingin ang kabuuang presyo, kabilang ang custom na dekorasyon at paghahatid kung kinakailangan. Ang White Cakes ay kasalukuyang nagsasaad ng 50% na deposito upang kumpirmahin ang isang napagkasunduang order; i-verify ang eksaktong halaga at channel ng pagbabayad laban sa huling quote. I-save ang buod ng resibo at order, at hintayin ang nakasulat na kumpirmasyon ng panaderya bago ituring ang slot bilang secured.
-
-Panatilihin ang mga hakbang sa pagbabayad sa gitnang gabay sa pag-order at magdagdag ng payo na partikular sa piping sa custom na maikling gabay. Kumpirmahin ang mga kasalukuyang tagubilin bago i-publish.
+- Confirm current piping options, lead time, pricing, and delivery instructions before publication.
+- Cebuano and Tagalog drafts need native editorial review.
