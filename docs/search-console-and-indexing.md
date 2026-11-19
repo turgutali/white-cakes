@@ -10,7 +10,7 @@
 
 ## Google Search Console
 
-The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the 197-URL sitemap was successfully resubmitted from Brave. Search Console still showed 99 discovered URLs immediately afterward; that count is processing data and does not yet confirm discovery of all 197 URLs.
+The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the final 197-URL sitemap was successfully resubmitted from Brave. Search Console reports `Success` and 197 discovered pages. This confirms sitemap processing and discovery, not that every page is indexed or ranking.
 
 The Page indexing report was still processing. The latest three-month Performance report showed 14 impressions, 0 clicks, 0% CTR, and average position 14.8, with data only through 2026-11-16. This sample is too small to support a broad demand forecast.
 
