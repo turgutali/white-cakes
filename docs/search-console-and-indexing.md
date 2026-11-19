@@ -9,6 +9,8 @@
 - After removing draft markers, fixing empty localized titles, and adding DTI business identity, IndexNow accepted 37 changed canonical URLs in one request (HTTP 200).
 - A Google search snapshot for `cake delivery Cebu City` localized to Cebu did not show The White Cakes in the visible local or organic results. In a separate signed-out Google session whose displayed location was Singapore, `site:https://www.thewhitecakes.com/` returned no results. This is an indexing warning, not an index count: Google says `site:` results are incomplete and URL Inspection is more reliable ([Google Search operator documentation](https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site)).
 
+On 2026-11-19, a content QA pass removed reader-facing editorial prompts about photo permissions, draft frameworks, and page-merging instructions from affected English/Cebuano/Tagalog articles. Generic family-gathering sections previously titled as case studies were retitled as planning and handover checklists; they do not claim to document customer commissions. Repeated fictional-customer disclaimer paragraphs were removed from ten local occasion guides. Journal URL counts did not change.
+
 ## Google Search Console
 
 The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the final 197-URL sitemap was successfully resubmitted from Brave. Search Console reported `Success` and 197 discovered pages. The live sitemap now has 263 URLs; the property has not been manually resubmitted since those new URLs were published. This confirms prior sitemap processing and discovery, not that every page is indexed or ranking.
