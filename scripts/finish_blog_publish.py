@@ -56,6 +56,7 @@ CROSSLINKS = {
     ],
     "bento-cakes-cebu": [
         ("what-is-a-bento-cake.html",),
+        ("affordable-bento-cake-cebu.html",),
         ("minimalist-cake-cebu.html",),
         ("corporate-office-cakes-cebu.html",),
         ("valentines-bouquet-cake-cebu.html",),

@@ -1128,7 +1128,7 @@ def write_llms() -> None:
 ## Brand
 
 - Name: The White Cakes - Cebu
-- DTI-registered business name: THE WHTE CAKES SHOP (National scope), Business Name No. 8628157; valid November 19, 2026 through November 19, 2031. This is a business name registration, not a license to operate.
+- DTI-registered business name: THE WHTE CAKES SHOP (National scope), registered to HONEY MAE ANG UG BULAHAN, Business Name No. 8628157; issued November 19, 2026 and valid through November 19, 2031. This is a business name registration, not a license to operate.
 - Alternate names: White Cakes; The White Cakes
 - Website: {BASE}/
 - Email: {EMAIL}
