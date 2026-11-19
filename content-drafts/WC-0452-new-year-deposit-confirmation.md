@@ -1,38 +1,51 @@
 ---
 id: WC-0452
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "What to confirm before paying a deposit for New Year cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa Bag-ong Tuig sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa Bagong Taon sa Cebu"
+english_title: "What to Confirm Before Paying a Deposit for a New Year Cake in Cebu"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa New Year Cake sa Cebu"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa New Year Cake sa Cebu"
 ---
 
-## Get the complete order summary before sending the deposit
+## English
 
-Before paying for a New Year cake, confirm the date, pickup or delivery arrangement, cake size, flavour, design, inscription, total price, and any delivery charge. Ask the bakery to put the agreed details in writing so the payer and the person receiving the cake share the same information.
+# What to Confirm Before Paying a Deposit for a New Year Cake in Cebu
 
-White Cakes’ current ordering instructions use a 50% deposit to confirm an order. Verify the payment channel and the amount against the final quote; do not treat an unanswered inquiry or an informal date request as a confirmed booking. Save the confirmation message and payment receipt until the cake has been handed over.
+Before paying, confirm that the bakery can accept the order for the intended year and date. Seasonal capacity may differ, so a previous menu or general lead-time recommendation does not reserve a slot.
 
-Year-end schedules and prices can change. Keep the payment process in the single order guide and refresh the seasonal details from the live business information before publication.
+Review the complete order in writing: size, serving estimate, flavour, design, exact inscription, delivery or pickup address, entry details, receiver, and delivery window. Ask whether the quote includes seasonal decoration and delivery to the full address. Check the year and date in the inscription and confirmation.
+
+The current site guide describes a 50% deposit after the final price and details are agreed. Confirm the current deposit amount, payment channel, balance due date, and change or cancellation terms directly with White Cakes. Do not transfer money against an incomplete estimate.
+
+Keep the receipt and final order confirmation together. Share the handoff plan with the receiver, especially if the organizer will be occupied. Since delivery is confirmed within a window, allow a buffer before serving. For the full ordering steps, see [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa New Year Cake sa Cebu
+
+Sa dili pa mobayad, kumpirmaha nga makadawat ang panaderya sa order para sa tuig ug petsa nga gusto nimo. Mahimong lahi ang seasonal capacity, busa dili reserbasyon sa slot ang menu sa miaging tuig o kinatibuk-ang lead-time recommendation.
+
+Susiha sa sinulat ang kompleto nga order: gidak-on, banabana sa servings, flavour, disenyo, eksaktong inskripsiyon, delivery o pickup address, access details, modawat ug delivery window. Pangutan-a kon apil sa quote ang seasonal decoration ug delivery sa kompleto nga address. Susiha ang tuig ug petsa sa inskripsiyon ug kumpirmasyon.
+
+Gihulagway sa kasamtangang site guide ang 50% nga deposit human mouyon sa pinal nga presyo ug detalye. Kumpirmaha direkta sa White Cakes ang kantidad, paagi sa pagbayad, petsa sa balanse ug terms sa kausaban o pagkansela. Ayaw pagbalhin og bayad base sa kulang nga estimate.
+
+Tipigi nga magkauban ang resibo ug pinal nga kumpirmasyon. Ipaambit ang handoff plan sa modawat, ilabi na kon busy ang organizer. Kay delivery window ang kumpirmahon, pagbilin og buffer sa dili pa i-serve. Para sa tibuok lakang sa order, tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa New Year Cake sa Cebu
+
+Bago magbayad, kumpirmahing matatanggap ng bakery ang order para sa nilalayong taon at petsa. Maaaring mag-iba ang seasonal capacity, kaya hindi nagrereserba ng slot ang menu noong nakaraang taon o pangkalahatang lead-time recommendation.
+
+Suriin sa sulat ang buong order: sukat, tantiya ng servings, flavour, design, eksaktong inscription, delivery o pickup address, access details, tatanggap, at delivery window. Itanong kung kasama sa quote ang seasonal decoration at delivery sa buong address. Suriin ang taon at petsa sa inscription at confirmation.
+
+Inilalarawan ng kasalukuyang site guide ang 50% deposit matapos mapagkasunduan ang pinal na presyo at detalye. Direktang kumpirmahin sa White Cakes ang halaga, paraan ng pagbabayad, takdang petsa ng natitirang bayad, at terms sa pagbabago o pagkansela. Huwag maglipat ng bayad batay sa kulang na estimate.
+
+Itago nang magkasama ang resibo at pinal na confirmation ng order. Ibahagi ang handoff plan sa tatanggap, lalo na kung magiging abala ang organizer. Dahil delivery window ang kinukumpirma, maglaan ng palugit bago ihain. Para sa buong hakbang sa pag-order, tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kuhaa ang kompleto nga summary sa order sa dili pa ipadala ang deposito
-
-Sa dili pa mobayad sa cake sa Bag-ong Tuig, kumpirmahi ang petsa, pickup o kahikayan sa paghatod, gidak-on sa cake, lami, disenyo, inskripsiyon, kinatibuk-ang presyo, ug bisan unsang bayad sa pagpadala. Hangyoa ang panaderya sa pagsulat sa gikasabotan nga mga detalye aron ang nagbayad ug ang tawo nga nakadawat sa cake magpaambit sa samang impormasyon.
-
-Ang mga instruksyon sa pag-order karon sa White Cakes naggamit og 50% nga deposito aron makumpirma ang usa ka order. Tinoa ang channel sa pagbayad ug ang kantidad batok sa katapusang quote; ayaw tagda ang usa ka wala matubag nga pangutana o usa ka dili pormal nga hangyo sa petsa ingon usa ka gikumpirma nga booking. I-save ang mensahe sa pagkumpirma ug resibo sa pagbayad hangtod nga mahatag ang cake.
-
-Ang mga iskedyul ug mga presyo sa katapusan sa tuig mahimong mausab. Ipadayon ang proseso sa pagbayad sa usa ka giya sa order ug i-refresh ang mga seasonal nga mga detalye gikan sa live nga impormasyon sa negosyo sa wala pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kunin ang kumpletong buod ng order bago ipadala ang deposito
-
-Bago magbayad para sa cake ng Bagong Taon, kumpirmahin ang petsa, pag-aayos ng pickup o paghahatid, laki ng cake, lasa, disenyo, inskripsyon, kabuuang presyo, at anumang singil sa paghahatid. Hilingin sa panaderya na ilagay ang mga napagkasunduang detalye nang nakasulat upang ang nagbabayad at ang taong tumatanggap ng cake ay magbahagi ng parehong impormasyon.
-
-Ang kasalukuyang mga tagubilin sa pag-order ng White Cakes ay gumagamit ng 50% na deposito upang kumpirmahin ang isang order. I-verify ang channel ng pagbabayad at ang halaga laban sa huling quote; huwag ituring ang isang hindi nasagot na katanungan o isang impormal na kahilingan sa petsa bilang isang kumpirmadong booking. I-save ang confirmation message at payment receipt hanggang sa maibigay ang cake.
-
-Maaaring magbago ang mga iskedyul at presyo sa pagtatapos ng taon. Panatilihin ang proseso ng pagbabayad sa isang gabay sa pag-order at i-refresh ang mga napapanahong detalye mula sa live na impormasyon ng negosyo bago i-publish.
+- Reconfirm year-specific availability and current payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

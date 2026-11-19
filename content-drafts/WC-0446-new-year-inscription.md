@@ -1,38 +1,51 @@
 ---
 id: WC-0446
-status: written-draft
-publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html; verify year-specific wording
-english_title: "What to write on New Year cake in Cebu"
-cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa Bag-ong Tuig sa Cebu"
-tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa Bagong Taon sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
+english_title: "What to Write on a New Year Cake in Cebu"
+cebuano_title: "Unsa ang Isulat sa New Year Cake sa Cebu"
+tagalog_title: "Ano ang Isusulat sa New Year Cake sa Cebu"
 ---
 
-## Keep the New Year wording short and specific to the celebration
+## English
 
-Choose whether the cake should say “Happy New Year,” include the coming year, or carry a short family greeting. A few words are easier to read and leave space for decoration. If the cake will be served around midnight, make sure the date and year in the message match the event.
+# What to Write on a New Year Cake in Cebu
 
-Send exact spelling, capitalization, punctuation, and any year to the bakery. Ask whether the wording fits the selected cake size and design. Put a longer resolution or personal message on a card rather than crowding the surface.
+Choose a message for the people who will share the cake and the moment it will mark. A New Year’s Eve cake may carry a short countdown greeting or the coming year; a New Year’s Day meal may suit a simple wish for the household. Keep the wording brief enough to read on the selected size.
 
-Add New Year examples to the shared message guide and refresh year-specific examples annually. Do not use an outdated year in an evergreen headline or image caption.
+Decide whether the message should name a family, team, or host. Check the year carefully and avoid wording that could become inaccurate if the cake is ordered for a different date. If the gathering is a surprise, tell the bakery which contact may see the inscription.
+
+Send the exact text in writing, with spelling, punctuation, capitalization, and line breaks. Ask the bakery whether the words fit the cake size and current lettering style. White Cakes hand-pipes buttercream, so confirm the available lettering rather than assuming printed text can be used.
+
+If the message is in Cebuano, Tagalog, or English, state the language and have a fluent speaker review personal phrasing. For more examples, see the [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Unsa ang Isulat sa New Year Cake sa Cebu
+
+Pilia ang mensahe para sa mga mopaambit sa cake ug higayon nga timaanan niini. Ang cake sa bisperas sa Bag-ong Tuig mahimong adunay mubo nga countdown greeting o tuig nga mosunod; ang panihapon sa unang adlaw mahimong mohaom sa yano nga pangandoy para sa pamilya. Himoa nga mubo aron mabasa sa napiling gidak-on.
+
+Desisyoni kon iapil ang ngalan sa pamilya, team o host. Susiha pag-ayo ang tuig ug likayi ang teksto nga mahimong dili na tukma kon lahi ang petsa sa order. Kung surprise ang tapok, sultihi ang panaderya kinsa ang makakita sa inskripsiyon.
+
+Ipadala sa sinulat ang eksaktong teksto apil spelling, punctuation, capitalization ug line breaks. Pangutan-a ang panaderya kon mohaom ba ang mga pulong sa gidak-on ug kasamtangang lettering style. Hand-piped buttercream ang gamit sa White Cakes, busa kumpirmaha ang lettering imbes magtuo nga printed ang teksto.
+
+Kung Cebuano, Tagalog o English ang mensahe, klaroha ang pinulongan ug ipa-review ang personal nga wording sa hanas nga mamumulong. Para sa dugang ehemplo, tan-awa ang [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Isusulat sa New Year Cake sa Cebu
+
+Pumili ng mensahe para sa mga magsasalo at sandaling mamarkahan ng cake. Maaaring may maikling countdown greeting o paparating na taon ang cake sa bisperas ng Bagong Taon; maaaring bumagay sa kainan sa unang araw ang simpleng hiling para sa pamilya. Panatilihing maikli para mabasa sa napiling sukat.
+
+Pagpasiyahan kung babanggitin ang pangalan ng pamilya, team, o host. Suriing mabuti ang taon at iwasan ang wording na maaaring maging mali kung ibang petsa ang order. Kung sorpresa ang pagtitipon, sabihin sa bakery kung sino ang maaaring makakita sa inscription.
+
+Ipadala nang nakasulat ang eksaktong text kasama ang spelling, punctuation, capitalization, at line breaks. Itanong kung kasya ang mga salita sa sukat at kasalukuyang lettering style. Hand-piped buttercream ang gamit ng White Cakes, kaya kumpirmahin ang available na lettering sa halip na ipalagay na maaaring gumamit ng printed text.
+
+Kung Cebuano, Tagalog, o English ang mensahe, linawin ang wika at ipasuri sa mahusay na tagapagsalita ang personal na phrasing. Para sa iba pang halimbawa, tingnan ang [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti ang mga pulong sa Bag-ong Tuig nga mubo ug espesipiko sa selebrasyon
-
-Pilia kon ang keyk kinahanglang mosulti ug “Malipayong Bag-ong Tuig,” ilakip ang umaabot nga tuig, o magdala ug mubo nga pagbati sa pamilya. Ang pipila ka mga pulong mas sayon ​​nga basahon ug magbilin og luna alang sa dekorasyon. Kung ang cake isilbi sa tungang gabii, siguroha nga ang petsa ug tuig sa mensahe mohaum sa panghitabo.
-
-Ipadala ang eksaktong spelling, capitalization, punctuation, ug bisan unsang tuig sa panaderya. Pangutan-a kon ang mga pulong mohaum ba sa pinili nga gidak-on ug disenyo sa cake. Pagbutang og mas taas nga resolusyon o personal nga mensahe sa usa ka kard kay sa magpunsisok sa ibabaw.
-
-Idugang ang mga pananglitan sa Bag-ong Tuig sa gipaambit nga giya sa mensahe ug i-refresh ang piho nga tuig nga mga pananglitan matag tuig. Ayaw gamita ang usa ka karaan nga tuig sa usa ka evergreen nga ulohan o caption sa imahe.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing maikli at tiyak ang mga salita sa Bagong Taon sa pagdiriwang
-
-Piliin kung ang cake ay dapat magsabi ng "Maligayang Bagong Taon," isama ang darating na taon, o magdala ng maikling pagbati ng pamilya. Ang ilang mga salita ay mas madaling basahin at mag-iwan ng espasyo para sa dekorasyon. Kung ang cake ay ihahain sa hatinggabi, siguraduhin na ang petsa at taon sa mensahe ay tumutugma sa kaganapan.
-
-Magpadala ng eksaktong spelling, capitalization, bantas, at anumang taon sa panaderya. Itanong kung ang mga salita ay umaangkop sa napiling laki at disenyo ng cake. Maglagay ng mas mahabang resolution o personal na mensahe sa isang card sa halip na magsiksikan sa ibabaw.
-
-Magdagdag ng mga halimbawa ng Bagong Taon sa nakabahaging gabay sa mensahe at i-refresh ang mga halimbawang partikular sa taon taun-taon. Huwag gumamit ng hindi napapanahong taon sa isang evergreen na headline o caption ng larawan.
+- Verify current lettering and cake-size constraints before publication.
+- Cebuano and Tagalog drafts need native editorial review.

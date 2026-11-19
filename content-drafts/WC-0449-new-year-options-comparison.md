@@ -1,38 +1,51 @@
 ---
 id: WC-0449
-status: written-draft
-publish_action: merge into /journal/which-cake.html and /journal/cake-sizes-cebu.html; verify holiday products
-english_title: "How to compare options for New Year cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa Bag-ong Tuig sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa Bagong Taon sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/which-cake.html
+english_title: "How to Compare New Year Cake Options in Cebu"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa New Year Cake sa Cebu"
+tagalog_title: "Paano Ihambing ang mga Opsyon sa New Year Cake sa Cebu"
 ---
 
-## Compare options by servings, display space, and confirmed availability
+## English
 
-Estimate how many people will be present when dessert is served and decide whether the cake is the main treat. Ask the bakery to match a current size to that serving plan; the number of invited guests may differ from the number of cake portions needed. Consider where the cake will sit and how much display space is available.
+# How to Compare New Year Cake Options in Cebu
 
-Then compare current flavour, design, and price options for the New Year date. Confirm delivery or pickup details and any holiday fee. Seasonal availability can change, so get a written quote rather than relying on a previous year’s photo or menu.
+Compare New Year cake options against the date, guest plan, and venue. First decide whether the cake will be served at a countdown, a family meal, or a gathering on New Year’s Day. The serving time and event size affect the useful cake size, inscription, and delivery plan.
 
-Update the existing comparison and size pages with verified holiday information. Link to the order timeline for current booking cutoffs.
+Check availability before comparing seasonal designs. Ask the bakery which sizes, flavours, and decorations it can make for your date. An old social post may show a cake from another season and does not confirm the current menu. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so ask how a printed graphic can be adapted.
+
+Compare quotes using the same details: size, servings estimate, flavour, design, inscription, delivery address, timing, and payment terms. Ask whether the quote includes delivery and confirm the current deposit policy. A lower price is not directly comparable if it refers to a different size or less decoration.
+
+Choose the option that fits the celebration and handoff logistics. Get the final details in writing and leave a buffer around delivery. For broader selection advice, see [which cake should you choose?](/journal/which-cake.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa New Year Cake sa Cebu
+
+Itandi ang mga kapilian base sa petsa, plano sa bisita ug venue. Desisyoni una kon i-serve ba ang cake sa countdown, panihapon sa pamilya o tapok sa unang adlaw sa tuig. Makaapekto sa angay nga gidak-on, inskripsiyon ug delivery plan ang oras sa pag-serve ug kadako sa event.
+
+Susiha ang availability sa dili pa motandi sa seasonal design. Pangutan-a ang panaderya unsang gidak-on, flavour ug dekorasyon ang mahimo sa imong petsa. Mahimong cake sa laing season ang makita sa daang social post ug dili kini kumpirmasyon sa kasamtangang menu. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa pangutan-a unsaon pagpasibo sa printed graphic.
+
+Itandi ang quote gamit ang parehas nga detalye: gidak-on, banabana sa servings, flavour, disenyo, inskripsiyon, delivery address, oras ug terms sa bayad. Pangutan-a kon apil ang delivery ug kumpirmaha ang kasamtangang deposit policy. Dili direktang ikatandi ang mas barato nga presyo kon lahi ang gidak-on o kulang ang dekorasyon.
+
+Pilia ang mohaom sa selebrasyon ug handoff logistics. Pangayo sa sinulat ang pinal nga detalye ug pagbilin og buffer sa delivery. Para sa mas lapad nga tambag, tan-awa ang [which cake should you choose?](/journal/which-cake.html).
+
+## Tagalog
+
+# Paano Ihambing ang mga Opsyon sa New Year Cake sa Cebu
+
+Ihambing ang mga opsyon ayon sa petsa, plano sa bisita, at venue. Pagpasiyahan muna kung ihahain ang cake sa countdown, hapunan ng pamilya, o pagtitipon sa unang araw ng taon. Naaapektuhan ng oras ng paghahain at laki ng event ang angkop na sukat, inscription, at delivery plan.
+
+Tingnan muna ang availability bago magkumpara ng seasonal design. Itanong sa bakery kung aling sukat, flavour, at dekorasyon ang kaya nito para sa petsa mo. Maaaring cake mula sa ibang season ang nasa lumang social post at hindi nito kinukumpirma ang kasalukuyang menu. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya itanong kung paano iaangkop ang printed graphic.
+
+Ihambing ang quotes gamit ang parehong detalye: sukat, tantiya ng servings, flavour, design, inscription, delivery address, timing, at payment terms. Itanong kung kasama ang delivery at kumpirmahin ang kasalukuyang deposit policy. Hindi direktang maihahambing ang mas mababang presyo kung ibang sukat o mas kaunting dekorasyon ang tinutukoy nito.
+
+Piliin ang opsyong babagay sa selebrasyon at handoff logistics. Hingin sa sulat ang pinal na detalye at maglaan ng palugit sa delivery. Para sa mas malawak na payo sa pagpili, tingnan ang [which cake should you choose?](/journal/which-cake.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang mga opsyon pinaagi sa mga servings, display space, ug kumpirmadong pagkaanaa
-
-Pagbanabana kon pila ka mga tawo ang motambong kung ang dessert gisilbi ug pagdesisyon kung ang cake mao ang panguna nga pagkaon. Hangyoa ang panaderya nga ipares ang kasamtangang gidak-on nianang plano sa pag-alagad; ang gidaghanon sa mga dinapit nga bisita mahimong lahi sa gidaghanon sa mga bahin sa cake nga gikinahanglan. Hunahunaa kung asa molingkod ang cake ug pila ang magamit nga espasyo sa display.
-
-Unya itandi ang kasamtangan nga lami, disenyo, ug mga kapilian sa presyo alang sa petsa sa Bag-ong Tuig. Kumpirma ang mga detalye sa pagpadala o pagkuha ug bisan unsang bayad sa holiday. Mahimong mausab ang seasonal nga pagkaanaa, busa pagkuha og sinulat nga kinutlo imbes nga magsalig sa litrato o menu sa miaging tuig.
-
-I-update ang kasamtangan nga pagtandi ug gidak-on nga mga panid nga adunay gipamatud-an nga impormasyon sa holiday. Pag-link sa timeline sa pag-order alang sa karon nga mga cutoff sa booking.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Paghambingin ang mga opsyon ayon sa mga serving, display space, at kumpirmadong availability
-
-Tantyahin kung gaano karaming tao ang naroroon kapag inihain ang dessert at magpasya kung ang cake ang pangunahing pagkain. Hilingin sa panaderya na itugma ang kasalukuyang sukat sa plano ng paghahatid na iyon; ang bilang ng mga inimbitahang bisita ay maaaring mag-iba sa bilang ng mga bahagi ng cake na kailangan. Isaalang-alang kung saan ilalagay ang cake at kung gaano karaming espasyo ang magagamit.
-
-Pagkatapos ay ihambing ang kasalukuyang mga pagpipilian sa lasa, disenyo, at presyo para sa petsa ng Bagong Taon. Kumpirmahin ang mga detalye ng paghahatid o pagkuha at anumang bayad sa holiday. Maaaring magbago ang seasonal availability, kaya kumuha ng nakasulat na quote sa halip na umasa sa larawan o menu ng nakaraang taon.
-
-I-update ang kasalukuyang paghahambing at laki ng mga pahina na may na-verify na impormasyon sa holiday. Mag-link sa timeline ng order para sa mga kasalukuyang cutoff ng booking.
+- Reconfirm seasonal menu, prices, and current payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

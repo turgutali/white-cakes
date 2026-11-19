@@ -1,38 +1,51 @@
 ---
 id: WC-0435
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; use original approved photos and current seasonal options
-english_title: "Design details to consider for Christmas cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Pasko sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Pasko sa Cebu"
+english_title: "Design Details to Consider for a Christmas Cake in Cebu"
+cebuano_title: "Mga Detalye sa Disenyo nga Ikonsiderar para sa Christmas Cake sa Cebu"
+tagalog_title: "Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Christmas Cake sa Cebu"
 ---
 
-## Choose a seasonal focal point that still feels personal
+## English
 
-Select one Christmas design direction: a family colour palette, a short holiday greeting, or a small seasonal motif. If the cake is for a particular person, add one preference that makes it feel personal. Share a reference image and identify which details are essential versus flexible.
+# Design Details to Consider for a Christmas Cake in Cebu
 
-Confirm the requested size, flavour, date, exact inscription, and price. Ask whether the bakery offers the seasonal decoration this year and how it can fit the chosen cake. Availability, product designs, and rates may change between seasons.
+Start with the occasion and the group who will share the cake. A family meal, children’s gathering, and office party may call for different messages and display styles. Decide whether the cake should feel traditional, understated, playful, or simply festive, then choose one visual direction.
 
-Add a seasonal note to the existing design guide and refresh it annually. Use real product photos with accurate captions rather than implying every past design is currently offered.
+Set the inscription and focal element early. A short greeting can be easier to read and leave space for decoration, especially on a smaller cake. If you want a family or company name, check the lettering space and spelling before confirming.
+
+Use references to show a palette, layout, or motif, and say what should be adapted. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so printed characters, ornaments, or detailed images may need another interpretation. Ask about current seasonal options; a design seen in an old photo does not prove it is available this season.
+
+Consider table space, transport, and storage before choosing fragile or tall details. Include the date, size, servings estimate, flavour, and delivery plan in the brief. For general design planning, see the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo nga Ikonsiderar para sa Christmas Cake sa Cebu
+
+Sugdi sa okasyon ug grupo nga mopaambit sa cake. Lahi ang mensahe ug display style para sa panihapon sa pamilya, tapok sa bata ug office party. Desisyoni kon tradisyonal, simple, playful o festive ang gusto, dayon pagpili og usa ka visual direction.
+
+Tinoa daan ang inskripsiyon ug sentrong detalye. Mas sayon mabasa ang mubo nga greeting ug magbilin kini og luna sa dekorasyon, ilabi na sa gamay nga cake. Kung gusto ibutang ang ngalan sa pamilya o kompanya, susiha daan ang luna sa letra ug spelling.
+
+Gamita ang reference sa pagpakita sa kolor, layout o motif ug isulti unsay ipasibo. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa mahimong lahi ang paghubad sa printed nga karakter, dekorasyon o detalyadong hulagway. Pangutan-a ang kasamtangang seasonal options; dili pamatuod sa availability karong season ang daang litrato.
+
+Hunahunaa ang luna sa lamesa, transport ug storage sa dili pa mopili og delikado o taas nga detalye. Iapil sa brief ang petsa, gidak-on, banabana sa servings, flavour ug delivery plan. Para sa kinatibuk-ang pagplano, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Christmas Cake sa Cebu
+
+Magsimula sa okasyon at grupong magsasalo sa cake. Maaaring magkaiba ang mensahe at display style para sa hapunan ng pamilya, pagtitipon ng mga bata, at office party. Pagpasiyahan kung tradisyonal, simple, mapaglaro, o festive ang gusto, saka pumili ng iisang visual direction.
+
+Itakda nang maaga ang inscription at focal element. Mas madaling basahin ang maikling pagbati at nag-iiwan ito ng puwang para sa dekorasyon, lalo na sa maliit na cake. Kung gusto mong ilagay ang pangalan ng pamilya o kumpanya, suriin muna ang espasyo para sa lettering at spelling.
+
+Gamitin ang references para ipakita ang palette, layout, o motif at sabihin kung ano ang iaangkop. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya maaaring ibang interpretasyon ang kailangan para sa printed na karakter, palamuti, o detalyadong larawan. Itanong ang kasalukuyang seasonal options; hindi patunay ng availability ngayong season ang lumang larawan.
+
+Isaalang-alang ang espasyo sa mesa, biyahe, at storage bago pumili ng marurupok o matataas na detalye. Isama sa brief ang petsa, sukat, tantiya ng servings, flavour, at delivery plan. Para sa pangkalahatang pagpaplano ng design, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug seasonal nga focal point nga personal gihapon
-
-Pagpili og usa ka direksyon sa disenyo sa Pasko: usa ka paleta sa kolor sa pamilya, usa ka mubo nga pagbati sa holiday, o usa ka gamay nga seasonal nga motif. Kung ang cake alang sa usa ka partikular nga tawo, pagdugang usa ka gusto nga makapabati niini nga personal. Ipaambit ang usa ka reperensya nga imahe ug ilha kung unsang mga detalye ang hinungdanon kumpara sa flexible.
-
-Kumpirma ang gipangayo nga gidak-on, lami, petsa, eksaktong inskripsiyon, ug presyo. Pangutan-a kung ang panaderya nagtanyag sa seasonal nga dekorasyon karong tuiga ug kung giunsa kini mohaum sa gipili nga cake. Ang pagkaanaa, mga disenyo sa produkto, ug mga presyo mahimong mausab tali sa mga panahon.
-
-Pagdugang og usa ka seasonal nga nota sa kasamtangan nga giya sa disenyo ug i-refresh kini kada tuig. Paggamit sa tinuod nga mga litrato sa produkto nga adunay tukma nga mga kapsyon imbes nga ipasabut ang matag nangagi nga disenyo nga gitanyag karon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng pana-panahong focal point na personal pa rin
-
-Pumili ng isang direksyon sa disenyo ng Pasko: isang paleta ng kulay ng pamilya, isang maikling pagbati sa holiday, o isang maliit na seasonal na motif. Kung ang cake ay para sa isang partikular na tao, magdagdag ng isang kagustuhan na nagpaparamdam dito na personal. Magbahagi ng reference na larawan at tukuyin kung aling mga detalye ang mahalaga laban sa flexible.
-
-Kumpirmahin ang hiniling na laki, lasa, petsa, eksaktong inskripsiyon, at presyo. Itanong kung ang panaderya ay nag-aalok ng pana-panahong dekorasyon sa taong ito at kung paano ito magkasya sa napiling cake. Maaaring magbago ang availability, mga disenyo ng produkto, at mga rate sa pagitan ng mga season.
-
-Magdagdag ng pana-panahong tala sa kasalukuyang gabay sa disenyo at i-refresh ito taun-taon. Gumamit ng mga totoong larawan ng produkto na may tumpak na mga caption sa halip na ipahiwatig ang bawat nakaraang disenyo na kasalukuyang inaalok.
+- Reconfirm current seasonal design options before publication.
+- Cebuano and Tagalog drafts need native editorial review.

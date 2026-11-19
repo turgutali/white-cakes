@@ -1,38 +1,51 @@
 ---
 id: WC-0445
-status: written-draft
-publish_action: merge into /journal/buttercream-in-cebu-heat.html; verify product-specific storage guidance
-english_title: "How to keep safe and cool until serving New Year cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa Bag-ong Tuig sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa Bagong Taon sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/buttercream-in-cebu-heat.html
+english_title: "How to Keep a New Year Cake Safe and Cool Until Serving in Cebu"
+cebuano_title: "Giunsa Pagpabiling Luwas ug Bugnaw ang New Year Cake hangtod I-serve sa Cebu"
+tagalog_title: "Paano Panatilihing Ligtas at Malamig ang New Year Cake Hanggang Ihain sa Cebu"
 ---
 
-## Plan how the cake will wait if it arrives before midnight
+## English
 
-Ask the bakery for storage instructions for the exact New Year cake and tell it when the cake will arrive and be served. A late-night schedule may leave a long gap between handoff and dessert, so confirm whether the cake should be refrigerated and when it should be brought out.
+# How to Keep a New Year Cake Safe and Cool Until Serving in Cebu
 
-Arrange for someone to receive it promptly, keep the box level, and protect it from direct sunlight or heat. Follow product-specific advice rather than applying one room-temperature rule to every cake. If the celebration runs late, ask the bakery what to do.
+Decide where the cake will wait between delivery and the meal or countdown. A shaded indoor place is generally easier to manage than a sunny window, warm car, or outdoor table. Ask the bakery for storage guidance for the exact cake because fillings and decorations may have different requirements.
 
-Keep verified care information in the central heat guide and link from New Year planning content. Recheck the current seasonal product and handling advice before publication.
+For a home gathering, set aside a stable, level spot away from sunlight, heat-producing appliances, and frequent handling. If the cake will be at a restaurant or office, confirm who will receive it and whether there is appropriate storage space. Do not assume staff will refrigerate or move the cake unless that has been agreed.
+
+If the event is outdoors or the serving time may change, ask White Cakes for product-specific instructions. Do not guess a safe holding period based on weather or appearance. Keep the cake level and follow the guidance provided for the order.
+
+White Cakes confirms a delivery window rather than an exact minute, so leave a buffer before serving. For local heat and buttercream care, see the [Cebu cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Cebuano
+
+# Giunsa Pagpabiling Luwas ug Bugnaw ang New Year Cake hangtod I-serve sa Cebu
+
+Desisyoni asa maghulat ang cake tali sa delivery ug panihapon o countdown. Mas sayon atimanon ang landong nga lugar sulod kaysa bintana nga initan sa adlaw, init nga sakyanan o lamesa sa gawas. Pangayo og storage guidance sa panaderya para sa eksaktong cake kay mahimong lahi ang kinahanglan sa filling ug dekorasyon.
+
+Para sa tapok sa balay, pagpili og lig-on ug patag nga lugar nga layo sa adlaw, appliance nga nagpagawas og kainit ug sige nga paghawid. Kung sa restaurant o opisina ang cake, kumpirmaha kinsa ang modawat ug kon adunay angay nga storage space. Ayaw pagtuo nga i-refrigerate o ibalhin sa staff kon wala sila mouyon.
+
+Kung sa gawas ang event o mahimong mausab ang oras sa pag-serve, pangayo sa White Cakes og instruksyon para sa produkto. Ayaw tagna ang luwas nga oras base sa panahon o hitsura. Ibutang nga patag ug sunda ang giya sa order.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa pagbilin og buffer. Para sa kainit ug buttercream, tan-awa ang [Cebu cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Tagalog
+
+# Paano Panatilihing Ligtas at Malamig ang New Year Cake Hanggang Ihain sa Cebu
+
+Pagpasiyahan kung saan maghihintay ang cake mula delivery hanggang pagkain o countdown. Karaniwang mas madaling pangasiwaan ang may-lilim na lugar sa loob kaysa bintanang nasisikatan ng araw, mainit na sasakyan, o mesa sa labas. Humingi sa bakery ng storage guidance para sa eksaktong cake dahil maaaring magkaiba ang pangangailangan ng filling at dekorasyon.
+
+Para sa pagtitipon sa bahay, maglaan ng matatag at patag na puwesto na malayo sa araw, appliance na naglalabas ng init, at madalas na paghawak. Kung sa restaurant o opisina ang cake, kumpirmahin kung sino ang tatanggap at kung may angkop na storage space. Huwag ipalagay na ilalagay sa refrigerator o ililipat ito ng staff kung hindi napagkasunduan.
+
+Kung outdoor ang event o maaaring magbago ang oras ng paghahain, humingi sa White Cakes ng tagubiling para sa partikular na produkto. Huwag hulaan ang ligtas na tagal batay sa panahon o itsura. Panatilihing patag ang cake at sundin ang tagubilin para sa order.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya maglaan ng palugit bago ihain. Para sa init sa Cebu at buttercream, tingnan ang [Cebu cake care guide](/journal/buttercream-in-cebu-heat.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha kung unsaon paghulat sa cake kung moabot kini sa dili pa ang tungang gabii
-
-Pangutan-a ang panaderya alang sa mga panudlo sa pagtipig alang sa eksaktong cake sa Bag-ong Tuig ug isulti kini kung kanus-a moabot ang cake ug ihain. Ang eskedyul sa ulahing gabii mahimong magbilin ug taas nga kal-ang tali sa handoff ug dessert, busa kumpirmahi kung ang cake kinahanglan ba nga ibutang sa refrigerator ug kung kanus-a kini ipagawas.
-
-Paghan-ay alang sa usa ka tawo nga makadawat niini dayon, ipabilin ang lebel sa kahon, ug panalipdan kini gikan sa direkta nga kahayag sa adlaw o kainit. Sunda ang tambag nga espesipiko sa produkto kay sa paggamit sa usa ka lagda sa temperatura sa lawak sa matag cake. Kung ulahi na ang selebrasyon, pangutan-a ang panaderya kung unsa ang buhaton.
-
-Itago ang gipamatud-an nga impormasyon sa pag-atiman sa sentro nga giya sa kainit ug link gikan sa sulod sa pagplano sa Bag-ong Tuig. Susiha pag-usab ang kasamtangan nga seasonal nga produkto ug tambag sa pagdumala sa dili pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin kung paano maghihintay ang cake kung dumating ito bago mag hatinggabi
-
-Tanungin ang panaderya para sa mga tagubilin sa pag-iimbak para sa eksaktong cake ng Bagong Taon at sabihin dito kung kailan darating at ihain ang cake. Ang iskedyul sa gabi ay maaaring mag-iwan ng mahabang agwat sa pagitan ng handoff at dessert, kaya kumpirmahin kung ang cake ay dapat palamigin at kung kailan ito dapat ilabas.
-
-Ayusin para sa isang tao na makatanggap nito kaagad, panatilihin ang antas ng kahon, at protektahan ito mula sa direktang sikat ng araw o init. Sundin ang payo na partikular sa produkto sa halip na maglapat ng isang panuntunan sa temperatura ng silid sa bawat cake. Kung huli na ang pagdiriwang, tanungin ang panaderya kung ano ang gagawin.
-
-Panatilihin ang na-verify na impormasyon sa pangangalaga sa gitnang gabay sa init at link mula sa nilalaman ng pagpaplano ng Bagong Taon. Suriin muli ang kasalukuyang napapanahong produkto at payo sa pangangasiwa bago ilathala.
+- Confirm storage guidance for the exact cake before publication.
+- Cebuano and Tagalog drafts need native editorial review.

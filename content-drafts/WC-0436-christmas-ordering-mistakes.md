@@ -1,38 +1,51 @@
 ---
 id: WC-0436
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html; refresh holiday availability each year
-english_title: "Common ordering mistakes to avoid with Christmas cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa Pasko sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa Pasko sa Cebu"
+english_title: "Common Christmas Cake Ordering Mistakes to Avoid in Cebu"
+cebuano_title: "Mga Kasagarang Sayop sa Pag-order og Christmas Cake nga Likayan sa Cebu"
+tagalog_title: "Mga Karaniwang Pagkakamali sa Pag-order ng Christmas Cake na Dapat Iwasan sa Cebu"
 ---
 
-## Avoid waiting for the holiday week to settle the design and handoff
+## English
 
-A common mistake is asking about a detailed Christmas cake only after the preferred date is nearly full. Contact the bakery early, share the size, flavour, design direction, and exact message, and wait for a clear availability response. Do not assume a past seasonal photo or product remains available unchanged.
+# Common Christmas Cake Ordering Mistakes to Avoid in Cebu
 
-Confirm the complete price, delivery or pickup arrangement, and the current deposit process in writing. Double-check the receiving address and contact, especially if the cake is going to a workplace or a family gathering at another home. Tell the bakery if the cake will wait before serving.
+One mistake is assuming that last year’s menu or photo confirms this year’s seasonal availability. Ask White Cakes whether it can accept the selected date, flavour, and design before planning the event around the cake. Holiday capacity and options may change.
 
-Keep general booking checks in the order guide and refresh Christmas deadlines from the current year’s business schedule.
+Do not send a reference photo without identifying what matters. Name the colour, greeting, or motif to adapt and ask what can be made with current techniques. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so confirm how a printed character or ornament could be interpreted.
+
+Another mistake is choosing the cake size from the invitation count alone. Consider who will be present at dessert, other sweets, and whether the cake is for sharing or display. Use the size guide as an estimate and confirm the serving plan with the bakery.
+
+Before paying, confirm the full order, current price, deposit terms, address, receiver, and delivery window in writing. White Cakes confirms a delivery window rather than an exact minute, so arrange a receiver and leave time before the event. See [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Mga Kasagarang Sayop sa Pag-order og Christmas Cake nga Likayan sa Cebu
+
+Usa ka sayop ang pagtuo nga kumpirmasyon sa seasonal availability karong tuiga ang menu o litrato sa miaging tuig. Pangutan-a ang White Cakes kon madawat ba niini ang petsa, flavour ug disenyo sa dili pa ibase sa cake ang event. Mahimong mausab ang holiday capacity ug kapilian.
+
+Ayaw pagpadala og reference photo nga walay pag-ingon unsay importante. Tinoa ang kolor, greeting o motif nga ipasibo ug pangutan-a unsay mahimo sa kasamtangang teknik. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa kumpirmaha unsaon paghubad sa printed nga karakter o dekorasyon.
+
+Sayop usab ang pagpili sa gidak-on base sa lista sa imbitasyon lang. Hunahunaa kinsa ang anaa sa oras sa dessert, laing tam-is ug kon pang-share ba o pang-display ang cake. Gamita isip banabana ang size guide ug kumpirmaha ang plano sa servings sa panaderya.
+
+Sa dili pa mobayad, kumpirmaha sa sinulat ang tibuok order, kasamtangang presyo, deposit terms, address, modawat ug delivery window. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa pag-andam og modawat ug pagbilin og panahon sa dili pa ang event. Tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Mga Karaniwang Pagkakamali sa Pag-order ng Christmas Cake na Dapat Iwasan sa Cebu
+
+Isang pagkakamali ang pag-aakalang kinukumpirma ng menu o larawan noong nakaraang taon ang seasonal availability ngayong taon. Tanungin ang White Cakes kung kaya nito ang napiling petsa, flavour, at design bago ibatay sa cake ang plano ng event. Maaaring magbago ang holiday capacity at mga opsyon.
+
+Huwag magpadala ng reference photo nang hindi sinasabi kung ano ang mahalaga rito. Tukuyin ang kulay, pagbati, o motif na iaangkop at itanong kung ano ang kayang gawin gamit ang kasalukuyang technique. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya kumpirmahin kung paano bibigyang-kahulugan ang printed na karakter o palamuti.
+
+Isa pang pagkakamali ang pagpili ng sukat batay lang sa listahan ng inimbitahan. Isaalang-alang kung sino ang naroroon sa oras ng dessert, iba pang matatamis, at kung pagsasaluhan o pang-display ang cake. Gamitin bilang tantiya ang size guide at kumpirmahin sa bakery ang serving plan.
+
+Bago magbayad, kumpirmahin sa sulat ang buong order, kasalukuyang presyo, deposit terms, address, tatanggap, at delivery window. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya magtalaga ng tatanggap at maglaan ng oras bago ang event. Tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang paghulat sa holiday week aron masulbad ang disenyo ug handoff
-
-Usa ka sagad nga sayup mao ang pagpangutana bahin sa usa ka detalyado nga cake sa Pasko pagkahuman hapit na puno ang gusto nga petsa. Sayo nga kontaka ang panaderya, ipaambit ang gidak-on, lami, direksyon sa disenyo, ug eksakto nga mensahe, ug maghulat alang sa usa ka tin-aw nga tubag nga magamit. Ayaw hunahunaa nga ang miaging seasonal nga litrato o produkto nagpabilin nga magamit nga wala mausab.
-
-Kumpirma ang kompleto nga presyo, delivery o pickup arrangement, ug ang kasamtangang proseso sa pagdeposito sa pagsulat. Susihon pag-double ang adres ug kontak sa pagdawat, labi na kung ang cake moadto sa trabahoan o panagtapok sa pamilya sa laing balay. Sultihi ang panaderya kon maghulat ba ang cake sa dili pa i-serve.
-
-Ipadayon ang kinatibuk-ang tseke sa booking sa giya sa order ug i-refresh ang mga deadline sa Pasko gikan sa eskedyul sa negosyo karong tuiga.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasang maghintay para sa holiday week upang ayusin ang disenyo at handoff
-
-Ang isang karaniwang pagkakamali ay ang pagtatanong tungkol sa isang detalyadong Christmas cake pagkatapos lamang mapuno ang gustong petsa. Makipag-ugnayan nang maaga sa panaderya, ibahagi ang laki, lasa, direksyon ng disenyo, at eksaktong mensahe, at maghintay ng malinaw na tugon sa availability. Huwag ipagpalagay na ang isang nakaraang pana-panahong larawan o produkto ay nananatiling available nang hindi nagbabago.
-
-Kumpirmahin ang kumpletong presyo, pag-aayos ng paghahatid o pag-pick up, at ang kasalukuyang proseso ng pagdedeposito nang nakasulat. I-double check ang receiving address at contact, lalo na kung ang cake ay pupunta sa isang lugar ng trabaho o isang family gathering sa ibang bahay. Sabihin sa panaderya kung maghihintay ang cake bago ihain.
-
-Panatilihin ang mga pangkalahatang pagsusuri sa pag-book sa gabay sa pag-order at i-refresh ang mga deadline ng Pasko mula sa iskedyul ng negosyo sa kasalukuyang taon.
+- Verify current holiday options and payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

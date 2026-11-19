@@ -1,44 +1,51 @@
 ---
 id: WC-0444
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html and /journal/new-year-cake-cebu-2027.html
-english_title: "How to prepare for delivery of New Year cake in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa Bag-ong Tuig sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa Bagong Taon sa Cebu"
+english_title: "How to Prepare for Delivery of a New Year Cake in Cebu"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa New Year Cake sa Cebu"
+tagalog_title: "Paano Maghanda para sa Delivery ng New Year Cake sa Cebu"
 ---
 
-## Plan the New Year's cake handover before the gathering
+## English
 
-New Year's celebrations often involve several guests arriving at different times. Give the bakery one complete delivery plan and choose a receiver who will be present during the agreed window. White Cakes delivers in Cebu City, Mandaue City, and Lapu-Lapu City, and confirms the delivery charge for the address with the quote. Send the full address, a nearby landmark, and the receiver's mobile number; add a gate, lobby, or venue instruction if one is needed.
+# How to Prepare for Delivery of a New Year Cake in Cebu
 
-Ask about availability early. The kitchen requests at least three days' notice, but a holiday date may need more planning and should never be assumed open. Confirm the cake size, flavour, design, inscription, price, and delivery window in writing. For serving, use the current size guide and share the expected number of cake-eaters; do not estimate portions by looking at a product photo.
+Prepare the handoff around the date and time the cake will be served. A New Year’s Eve delivery may be received before midnight, while a New Year’s Day order may need a different arrangement. State the year, complete address, venue access, receiver, and a working contact number when confirming the order.
 
-After the cake arrives, keep the box upright and out of direct sun or a hot car. If it will wait for several hours, the ordering guidance says to refrigerate it. Let the person in charge know where it is being kept, and do not leave it unattended at a gate or warm reception area.
+White Cakes confirms a delivery window rather than an exact minute. Make sure someone can receive the cake throughout the window and allow time before the meal or countdown. If the building has a gate, guard, or visitor process, share the instructions and let the receiver know who is expected.
 
-The 50% deposit confirms the order after the details are agreed. A clear handover plan helps the celebrants focus on the countdown instead of searching for a driver or an available receiver. Add this New Year scenario to the existing cake-delivery guide and current annual holiday article rather than creating another page with the same delivery facts.
+For an event at a restaurant or office, confirm that staff can accept an outside cake and ask where it can wait before serving. For a home gathering, prepare a stable, shaded spot and share the bakery’s handling instructions with the receiver. Do not assume another person can accept the order without confirming.
+
+If the date, venue, or contact changes, tell the bakery and get confirmation. For the full area and handoff guidance, see the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa New Year Cake sa Cebu
+
+Andama ang handoff base sa petsa ug oras sa pag-serve. Mahimong madawat ang delivery sa bisperas sa Bag-ong Tuig sa dili pa tungang gabii; lahi usab ang kahikayan sa order para sa unang adlaw sa tuig. Isulti ang tuig, kompleto nga address, access sa venue, modawat ug aktibong numero sa pagkumpirma sa order.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Siguroha nga adunay modawat sulod sa tibuok window ug pagbilin og panahon sa dili pa ang panihapon o countdown. Kung adunay gate, guard o proseso sa bisita ang building, ipaambit ang instruksyon ug pahibal-a ang modawat kinsa ang moabot.
+
+Para sa event sa restaurant o opisina, kumpirmaha nga modawat ang staff og cake gikan sa gawas ug pangutan-a asa kini maghulat. Para sa tapok sa balay, andama ang lig-on ug landong nga lugar ug ipaambit sa modawat ang instruksyon sa pag-atiman. Ayaw pagtuo nga modawat ang laing tawo nga walay kumpirmasyon.
+
+Kung mausab ang petsa, venue o contact, pahibaloa ang panaderya ug pangayo og kumpirmasyon. Para sa tibuok area ug handoff guidance, tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng New Year Cake sa Cebu
+
+Ihanda ang handoff ayon sa petsa at oras ng paghahain. Maaaring matanggap ang delivery sa bisperas ng Bagong Taon bago maghatinggabi, samantalang maaaring iba ang ayos para sa order sa Araw ng Bagong Taon. Sabihin ang taon, buong address, access sa venue, tatanggap, at aktibong contact number kapag kinukumpirma ang order.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Tiyaking may tatanggap sa buong window at maglaan ng oras bago ang pagkain o countdown. Kung may gate, guard, o proseso para sa bisita sa building, ibahagi ang tagubilin at ipaalam sa tatanggap kung sino ang darating.
+
+Para sa event sa restaurant o opisina, kumpirmahing tatanggap ang staff ng dalang cake at itanong kung saan ito maghihintay bago ihain. Para sa pagtitipon sa bahay, maghanda ng matatag at may-lilim na puwesto at ibahagi sa tatanggap ang tagubilin sa paghawak. Huwag ipalagay na tatanggap ang ibang tao nang walang kumpirmasyon.
+
+Kung magbago ang petsa, venue, o contact, ipaalam sa bakery at humingi ng kumpirmasyon. Para sa buong area at handoff guidance, tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha ang paghatod sa cake sa Bag-ong Tuig sa dili pa ang panagtapok
-
-Ang mga selebrasyon sa Bag-ong Tuig kasagaran naglakip sa pipila ka mga bisita nga moabut sa lain-laing mga panahon. Hatagi ang panaderya og usa ka kompleto nga plano sa pagpadala ug pagpili og tigdawat nga anaa sa panahon sa gikasabutan nga bintana. Ang White Cakes naghatod sa Cebu City, Mandaue City, ug Lapu-Lapu City, ug nagpamatuod sa delivery charge alang sa address uban sa quote. Ipadala ang kompleto nga adres, duol nga landmark, ug ang mobile number sa receiver; dugangi og gate, lobby, o venue instruction kon gikinahanglan.
-
-Pangutan-a bahin sa pagkaanaa sa sayo. Ang kusina nangayo ug labing menos tulo ka adlaw nga pahibalo, apan ang usa ka petsa sa holiday mahimong magkinahanglan ug dugang nga pagplano ug dili gayod angayng isipon nga bukas. Kumpirma ang gidak-on sa cake, lami, disenyo, inskripsiyon, presyo, ug delivery window sa pagsulat. Para sa pag-alagad, gamita ang kasamtangan nga giya sa gidak-on ug ipaambit ang gipaabot nga gidaghanon sa mga cake-eaters; ayaw pagbanabana sa mga bahin pinaagi sa pagtan-aw sa litrato sa produkto.
-
-Pag-abot sa cake, ibutang nga tul-id ang kahon ug dili direkta nga adlaw o init nga sakyanan. Kung maghulat kini ug daghang oras, ang giya sa pag-order nag-ingon nga pabugnawon kini. Pahibaloa ang tagdumala kon diin kini gitipigan, ug ayaw kini ibilin nga wala mabantayi sa usa ka ganghaan o mainit nga reception area.
-
-Ang 50% nga deposito nagpamatuod sa order human ang mga detalye gikasabutan. Ang usa ka tin-aw nga plano sa paghatag makatabang sa mga nagsaulog sa pag-focus sa pag-ihap imbes nga mangita alang sa usa ka drayber o usa ka magamit nga tigdawat. Idugang kini nga senaryo sa Bag-ong Tuig sa kasamtangan nga giya sa paghatud sa cake ug kasamtangan nga tinuig nga artikulo sa holiday kaysa paghimo og laing panid nga adunay parehas nga mga kamatuoran sa pagpadala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin ang pagbibigay ng cake ng Bagong Taon bago ang pagtitipon
-
-Ang mga pagdiriwang ng Bagong Taon ay kadalasang nagsasangkot ng ilang bisita na dumarating sa iba't ibang oras. Bigyan ang panaderya ng isang kumpletong plano sa paghahatid at pumili ng isang tatanggap na naroroon sa panahon ng napagkasunduang window. Nagde-deliver ang White Cakes sa Cebu City, Mandaue City, at Lapu-Lapu City, at kinukumpirma ang delivery charge para sa address na may quote. Ipadala ang buong address, isang kalapit na landmark, at ang mobile number ng receiver; magdagdag ng gate, lobby, o venue instruction kung kinakailangan.
-
-Magtanong tungkol sa availability nang maaga. Ang kusina ay humihiling ng hindi bababa sa tatlong araw na paunawa, ngunit ang petsa ng holiday ay maaaring mangailangan ng higit pang pagpaplano at hindi dapat ipagpalagay na bukas. Kumpirmahin ang laki, lasa, disenyo, inskripsiyon, presyo, at window ng paghahatid nang nakasulat. Para sa paghahatid, gamitin ang kasalukuyang gabay sa sukat at ibahagi ang inaasahang bilang ng mga kumakain ng cake; huwag tantiyahin ang mga bahagi sa pamamagitan ng pagtingin sa isang larawan ng produkto.
-
-Pagkatapos dumating ang cake, panatilihing patayo ang kahon at malayo sa direktang araw o mainit na kotse. Kung maghihintay ito ng ilang oras, sinasabi ng gabay sa pag-order na palamigin ito. Ipaalam sa taong kinauukulan kung saan ito inilalagay, at huwag iwanan ito nang walang nagbabantay sa isang tarangkahan o mainit na lugar ng pagtanggap.
-
-Kinukumpirma ng 50% na deposito ang order pagkatapos napagkasunduan ang mga detalye. Ang isang malinaw na handover plan ay tumutulong sa mga nagdiriwang na tumuon sa countdown sa halip na maghanap ng driver o available na receiver. Idagdag ang senaryo ng Bagong Taon na ito sa kasalukuyang gabay sa paghahatid ng cake at kasalukuyang taunang artikulo sa holiday sa halip na gumawa ng isa pang page na may parehong mga katotohanan sa paghahatid.
+- Confirm year-specific schedule, route, and handoff details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

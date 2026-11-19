@@ -1,44 +1,51 @@
 ---
 id: WC-0439
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "What to include in a custom brief for New Year cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa Bag-ong Tuig sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa Bagong Taon sa Cebu"
+english_title: "What to Include in a Custom Brief for a New Year Cake in Cebu"
+cebuano_title: "Unsa ang Iapil sa Custom Brief para sa New Year Cake sa Cebu"
+tagalog_title: "Ano ang Isasama sa Custom Brief para sa New Year Cake sa Cebu"
 ---
 
-## Write a New Year cake brief that confirms the essentials
+## English
 
-Start with the date, event time, number of people who will eat cake, and delivery or pickup location. New Year's gatherings may involve multiple dishes, so tell the bakery whether the cake is the main dessert and whether you expect small or generous servings. Ask White Cakes to confirm the size against that plan.
+# What to Include in a Custom Brief for a New Year Cake in Cebu
 
-For design, choose a palette and one focal detail. Send one reference and explain whether you want the colours, layout, or motif adapted. Include the exact message, preferred flavour, and any details that must not appear. Confirm what the bakery can make and get the final quote; a photo alone does not establish a product or price.
+Identify which celebration the cake is for: New Year’s Eve, a New Year’s Day meal, or another gathering. Include the serving date, expected guest range, venue, delivery address, receiver, and the time the cake needs to be ready. The year matters for seasonal availability, so state it clearly.
 
-Holiday availability should be checked early. Made-to-order cakes need at least three days' notice. For delivery, include the full address, landmark, receiver's mobile number, agreed window, and access instructions. Confirm the terms in writing, then use the 50% deposit to secure the agreed order.
+Describe one design direction, such as a simple year inscription, a colour palette, or a festive motif. Send one or two references and say what should be adapted. Do not assume a countdown graphic, metallic finish, or seasonal flavour is currently offered just because it appeared in an older photo.
 
-Place this seasonal prompt in the general custom brief guide and update only with confirmed holiday scheduling information.
+Include the exact message, flavour preference, cake size, and any ingredient questions. Check spelling and punctuation, especially the year and names. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets; ask how a graphic or printed detail can be interpreted using current methods.
+
+Request a written summary of the agreed design, size, price, payment terms, delivery window, and receiver. For the full custom cake checklist, see [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Custom Brief para sa New Year Cake sa Cebu
+
+Tinoa para sa unsang selebrasyon ang cake: bisperas sa Bag-ong Tuig, panihapon sa Bag-ong Tuig o laing tapok. Iapil ang petsa sa pag-serve, range sa bisita, venue, delivery address, modawat ug oras nga kinahanglan andam na ang cake. Importante ang tuig sa seasonal availability, busa isulti kini klaro.
+
+Ihulagway ang usa ka direksiyon sa disenyo sama sa yano nga inskripsiyon sa tuig, kombinasyon sa kolor o festive motif. Pagpadala og usa o duha ka reference ug sultihi unsay ipasibo. Ayaw pagtuo nga available karon ang countdown graphic, metallic finish o seasonal flavour tungod kay makita kini sa daang litrato.
+
+Iapil ang eksaktong mensahe, flavour preference, gidak-on ug pangutana bahin sa sangkap. Susiha ang spelling ug punctuation, ilabi na sa tuig ug mga ngalan. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets; pangutan-a unsaon paghubad sa graphic o printed detail gamit ang kasamtangang pamaagi.
+
+Pangayo og sinulat nga summary sa giuyonan nga disenyo, gidak-on, presyo, terms sa bayad, delivery window ug modawat. Para sa kompletong custom cake checklist, tan-awa ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Custom Brief para sa New Year Cake sa Cebu
+
+Tukuyin kung para sa aling selebrasyon ang cake: bisperas ng Bagong Taon, kainan sa Bagong Taon, o ibang pagtitipon. Isama ang petsa ng paghahain, range ng bisita, venue, delivery address, tatanggap, at oras na dapat handa na ang cake. Mahalaga ang taon sa seasonal availability, kaya sabihin ito nang malinaw.
+
+Ilarawan ang iisang direksiyon ng design gaya ng simpleng inscription ng taon, palette ng kulay, o festive motif. Magpadala ng isa o dalawang reference at sabihin kung ano ang iaangkop. Huwag ipalagay na kasalukuyang iniaalok ang countdown graphic, metallic finish, o seasonal flavour dahil nasa lumang larawan ito.
+
+Isama ang eksaktong mensahe, flavour preference, sukat ng cake, at mga tanong sa sangkap. Suriin ang spelling at punctuation, lalo na ang taon at mga pangalan. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets; itanong kung paano bibigyang-kahulugan ang graphic o printed detail gamit ang kasalukuyang paraan.
+
+Humingi ng nakasulat na buod ng napagkasunduang design, sukat, presyo, payment terms, delivery window, at tatanggap. Para sa buong custom cake checklist, tingnan ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagsulat ug mubo nga cake sa Bag-ong Tuig nga nagpamatuod sa mga kinahanglanon
-
-Pagsugod sa petsa, oras sa panghitabo, gidaghanon sa mga tawo nga mokaon sa cake, ug lokasyon sa paghatud o pagkuha. Ang mga panagtapok sa Bag-ong Tuig mahimong maglakip sa daghang mga putahe, busa sultihi ang panaderya kung ang cake mao ang panguna nga dessert ug kung nagdahom ka nga gamay o daghang mga pagkaon. Pangutan-a ang White Cakes sa pagkumpirma sa gidak-on batok sa maong plano.
-
-Alang sa disenyo, pagpili og palette ug usa ka focal detail. Pagpadala ug usa ka reperensiya ug ipasabut kung gusto nimo ang mga kolor, layout, o motif nga ipahiangay. Ilakip ang eksakto nga mensahe, gusto nga lami, ug bisan unsang mga detalye nga kinahanglan dili makita. Kumpirma kung unsa ang mahimo sa panaderya ug makuha ang katapusang quote; ang usa ka litrato lamang wala magtukod og usa ka produkto o presyo.
-
-Ang pagkaanaa sa holiday kinahanglan nga susihon og sayo. Ang gihimo nga mga cake kinahanglan nga labing menos tulo ka adlaw nga pahibalo. Para sa paghatod, iapil ang tibuok nga adres, landmark, mobile number sa receiver, gikasabutan nga bintana, ug mga instruksyon sa pag-access. Pagkumpirma sa mga termino sa pagsulat, dayon gamita ang 50% nga deposito aron masiguro ang gikasabutan nga order.
-
-Ibutang kini nga seasonal nga prompt sa kinatibuk-ang custom nga mubo nga giya ug i-update lamang uban sa gikumpirma nga impormasyon sa pag-iskedyul sa holiday.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Sumulat ng maikling cake ng Bagong Taon na nagpapatunay sa mga mahahalagang bagay
-
-Magsimula sa petsa, oras ng kaganapan, bilang ng mga taong kakain ng cake, at lokasyon ng paghahatid o pagsundo. Ang mga pagtitipon sa Bagong Taon ay maaaring may kasamang maraming pagkain, kaya sabihin sa panaderya kung ang cake ang pangunahing dessert at kung inaasahan mong maliit o masaganang serving. Hilingin sa White Cake na kumpirmahin ang laki laban sa planong iyon.
-
-Para sa disenyo, pumili ng palette at isang focal detail. Magpadala ng isang reference at ipaliwanag kung gusto mong ibagay ang mga kulay, layout, o motif. Isama ang eksaktong mensahe, ginustong lasa, at anumang mga detalye na hindi dapat lumabas. Kumpirmahin kung ano ang maaaring gawin ng panaderya at makuha ang huling quote; ang isang larawan lamang ay hindi nagtatatag ng isang produkto o presyo.
-
-Dapat suriin nang maaga ang availability ng holiday. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Para sa paghahatid, isama ang buong address, landmark, mobile number ng receiver, napagkasunduang window, at mga tagubilin sa pag-access. Kumpirmahin ang mga tuntunin sa pagsulat, pagkatapos ay gamitin ang 50% na deposito upang ma-secure ang napagkasunduang order.
-
-Ilagay ang pana-panahong prompt na ito sa pangkalahatang custom na maikling gabay at i-update lamang gamit ang nakumpirmang impormasyon sa pag-iiskedyul ng holiday.
+- Verify year-specific availability and current production methods before publication.
+- Cebuano and Tagalog drafts need native editorial review.
