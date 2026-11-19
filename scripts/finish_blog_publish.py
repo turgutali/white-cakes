@@ -8,7 +8,7 @@ import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-LASTMOD_SITE = "2026-11-15"
+LASTMOD_SITE = "2026-11-19"
 
 CROSSLINKS = {
     "cake-delivery-cebu-city": [
@@ -113,7 +113,12 @@ def all_posts() -> list[dict]:
             continue
         if canonical.group(1).rstrip("/") != f"https://www.thewhitecakes.com/journal/{path.name}":
             continue
-        h1_text = re.sub(r"<[^>]+>", "", h1.group(1)).strip()
+        h1_text = unescape(re.sub(r"<[^>]+>", "", h1.group(1))).strip()
+        if not h1_text:
+            title = re.search(r"<title>(.*?)</title>", page, re.I | re.S)
+            h1_text = unescape(re.sub(r"<[^>]+>", "", title.group(1))).split("|")[0].strip() if title else ""
+        if not h1_text:
+            continue
         combined.append({
             "file": path.name,
             "h1": unescape(h1_text),

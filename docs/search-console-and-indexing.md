@@ -10,7 +10,7 @@
 
 ## Google Search Console
 
-The property is signed in under `info@thewhitecakes.com`. The latest successful sitemap resubmission occurred before the 2026-11-19 content deployment, when the sitemap contained 99 URLs. At that time Search Console showed 68 discovered URLs. The updated 197-URL sitemap still needs to be resubmitted and its discovery count rechecked; the accessible browser session did not expose Brave during this deployment.
+The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the 197-URL sitemap was successfully resubmitted from Brave. Search Console still showed 99 discovered URLs immediately afterward; that count is processing data and does not yet confirm discovery of all 197 URLs.
 
 The Page indexing report was still processing. The latest three-month Performance report showed 14 impressions, 0 clicks, 0% CTR, and average position 14.8, with data only through 2026-11-16. This sample is too small to support a broad demand forecast.
 
@@ -22,7 +22,9 @@ URL Inspection results on 2026-11-19:
 
 Individual recrawl requests are quota-limited and do not guarantee inclusion. Use the sitemap for the full page set and URL Inspection for a small number of priority pages.
 
-The 950 multilingual content items are integrated as reader questions and answers across the existing topic pages and localized companion pages; they were not published as 950 separate URLs. Cebuano and Tagalog copy still needs native editorial review. Keep the cluster structure and review factual accuracy and usefulness before expanding the page count further.
+The 950 multilingual content items are integrated as reader questions and answers across the existing topic pages and localized companion pages; they were not published as 950 separate URLs. Cebuano and Tagalog copy still needs native editorial review. Editor-only translation marker paragraphs and empty localized page titles were removed or repaired on 2026-11-19. Keep the cluster structure and review factual accuracy and usefulness before expanding the page count further.
+
+The About page and Organization entity now identify the DTI-registered business name `THE WHTE CAKES SHOP` (National scope), Business Name No. 8628157, valid November 19, 2026 through November 19, 2031. The certificate states that business-name registration is not a license to operate; the site does not imply otherwise.
 
 Do not claim Google indexing solely because a URL is in the sitemap, appears in a `site:` query, or was sent through IndexNow. Google Search Console is the source for URL-level index status and site performance.
 

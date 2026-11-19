@@ -385,12 +385,18 @@ def organization_entity(images: list[dict]) -> dict:
         "@type": ["Organization", "Bakery"],
         "@id": ORG_ID,
         "name": "The White Cakes - Cebu",
+        "legalName": "THE WHTE CAKES SHOP",
+        "identifier": {
+            "@type": "PropertyValue",
+            "propertyID": "DTI Business Name Number",
+            "value": "8628157",
+        },
         "alternateName": ["White Cakes", "The White Cakes", "thewhitecakes.com"],
         "url": f"{BASE}/",
         "logo": logo_object(),
         "image": images,
         "description": (
-            "The White Cakes - Cebu is a made-to-order cloud kitchen in Lahug, Cebu. "
+            "The White Cakes - Cebu is a DTI-registered business name and made-to-order cloud kitchen in Lahug, Cebu. "
             "There is no storefront and no walk-in counter, and the street address is not published. "
             "Signature Marble, bouquet, bento, and custom buttercream cakes are baked for a named date, "
             "with at least three days' notice, for pickup by arrangement or delivery in Cebu City, Mandaue City, and Lapu-Lapu City."
@@ -1094,6 +1100,7 @@ def write_llms() -> None:
 ## Brand
 
 - Name: The White Cakes - Cebu
+- DTI-registered business name: THE WHTE CAKES SHOP (National scope), Business Name No. 8628157; valid November 19, 2026 through November 19, 2031. This is a business name registration, not a license to operate.
 - Alternate names: White Cakes; The White Cakes
 - Website: {BASE}/
 - Email: {EMAIL}
