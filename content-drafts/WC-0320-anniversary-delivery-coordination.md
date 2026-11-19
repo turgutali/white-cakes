@@ -1,44 +1,51 @@
 ---
 id: WC-0320
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to coordinate anniversary cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa anibersaryo sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "Coordinating an Anniversary Cake Delivery with Your Cebu Venue"
+cebuano_title: "Pag-coordinate sa Anniversary Cake Delivery uban sa Venue sa Cebu"
+tagalog_title: "Pag-coordinate ng Anniversary Cake Delivery sa Venue sa Cebu"
 ---
 
-## Coordinate anniversary-cake delivery with the person hosting
+## English
 
-Choose a receiver who will be at the destination during the agreed delivery window. Give White Cakes the complete address, landmark, receiver's mobile number, and any gate, lobby, or venue instructions. If the cake is a surprise, say who the bakery may contact and which local number should be used.
+# Coordinating an Anniversary Cake Delivery with Your Cebu Venue
 
-Confirm that delivery is available for the exact address and ask about the fee and timing. Decide where the cake will be placed after arrival, away from direct sun and heat. If it will wait several hours, follow the bakery's care guidance and make sure someone is responsible for it.
+When an anniversary celebration is at a restaurant, hotel, or event venue, coordinate the cake handoff with both the bakery and the venue. Ask the venue whether outside cakes are accepted, which entrance couriers should use, whether a staff member can receive the box, and if there is a refrigerator or designated holding area. Do not assume cake service or storage is included in the venue booking.
 
-Include the event date, size, flavour, design, inscription, and serving estimate in the order. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. White Cakes requires at least three days' notice; a 50% deposit confirms the agreed order after design and handoff are settled.
+Give the bakery one complete address and handoff note: venue name, full address, landmark, entrance or lobby, recipient’s name and mobile number, and any visitor or loading instructions. Ask the venue for the name or phone number of the person who will be present at the handoff. If the celebration is a surprise, use a trusted contact and avoid sending updates to a shared phone or email account the couple can see.
 
-Keep general delivery steps in the central guide. Publish a specific venue case only when verified delivery facts and image permission are available.
+Set the event timing with a buffer. White Cakes confirms a delivery window rather than an exact minute, so the toast or reveal should not depend on a precise arrival time. Ask the bakery where it can hand over the cake and confirm the address-based delivery fee. Tell the venue when to expect it and who will move it to the display or storage area.
+
+At the venue, keep the cake level and follow the baker’s handling instructions. The person receiving it should check the order label and inscription, then let the venue know when the cake may be brought out. For pickup instead of delivery, coordinate a safe transport plan and assign someone to carry the cake. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) and [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Pag-coordinate sa Anniversary Cake Delivery uban sa Venue sa Cebu
+
+Kung sa restaurant, hotel o event venue ang anniversary celebration, i-coordinate ang handoff sa cake sa panaderya ug venue. Pangutan-a ang venue kung modawat ba og cake gikan sa gawas, unsang entrance ang gamiton sa courier, kung adunay staff nga modawat sa kahon ug kung naa bay refrigerator o gitakdang holding area. Ayaw pagtuo nga apil sa booking ang pag-serve o pagtipig sa cake.
+
+Ihatag sa panaderya ang usa ka kompleto nga address ug handoff note: ngalan ug kompletong address sa venue, landmark, entrance o lobby, ngalan ug mobile number sa modawat, ug instruksyon sa visitor o loading. Pangayo sa venue sa ngalan o numero sa tawo nga anaa sa handoff. Kung surprise ang selebrasyon, gamita ang kasaligan nga contact ug ayaw ipadala ang update sa shared phone o email nga makita sa magtiayon.
+
+Iplano ang oras nga naay buffer. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes, busa ayaw pagsalig sa tukmang oras para sa toast o reveal. Pangutan-a ang panaderya asa mahimo ang handoff ug kumpirmaha ang bayad base sa address. Pahibal-a ang venue kanus-a moabot ang cake ug kinsa ang modala niini sa display o storage area.
+
+Sa venue, ipabiling patag ang cake ug sunda ang instruksyon sa baker. Susiha sa modawat ang order label ug inskripsiyon, dayon pahibal-a ang venue kanus-a ipagawas ang cake. Kung pickup ang pili-on, i-coordinate ang luwas nga pagdala ug pagtudlo og tawo nga modala niini. Tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) ug [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Pag-coordinate ng Anniversary Cake Delivery sa Venue sa Cebu
+
+Kapag sa restaurant, hotel, o event venue gaganapin ang anniversary celebration, i-coordinate ang handoff ng cake sa bakery at venue. Itanong sa venue kung tumatanggap sila ng cake mula sa labas, aling pasukan ang dapat gamitin ng courier, kung may staff na tatanggap sa kahon, at kung may refrigerator o itinalagang holding area. Huwag ipagpalagay na kasama sa booking ang paghahain o pag-iimbak ng cake.
+
+Magbigay sa bakery ng iisang kumpletong address at handoff note: pangalan ng venue, buong address, landmark, entrance o lobby, pangalan at mobile number ng tatanggap, at anumang visitor o loading instruction. Itanong sa venue ang pangalan o numero ng taong naroon sa handoff. Kung sorpresa ang selebrasyon, gumamit ng mapagkakatiwalaang contact at iwasang magpadala ng update sa shared phone o email na nakikita ng mag-partner.
+
+Magplano ng schedule na may buffer. Delivery window ang kinukumpirma ng White Cakes sa halip na eksaktong minuto, kaya hindi dapat nakasalalay sa tiyak na oras ng pagdating ang toast o reveal. Itanong sa bakery kung saan nito maaaring iabot ang cake at kumpirmahin ang delivery fee batay sa address. Ipaalam sa venue kung kailan ito darating at sino ang maglilipat sa display o storage area.
+
+Sa venue, panatilihing pantay ang cake at sundin ang tagubilin ng baker sa paghawak dito. Dapat tingnan ng tatanggap ang order label at inscription, saka ipaalam sa venue kung kailan ilalabas ang cake. Kung pickup sa halip na delivery, i-coordinate ang ligtas na pagdadala at magtalaga ng taong magbubuhat nito. Tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) at [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-coordinate sa anibersaryo-paghatud sa cake uban sa tawo nga nag-host
-
-Pagpili og usa ka tigdawat nga anaa sa destinasyon atol sa gikasabutan nga delivery window. Ihatag sa White Cakes ang kompleto nga adres, landmark, mobile number sa receiver, ug bisan unsang mga instruksiyon sa gate, lobby, o venue. Kung ang cake usa ka sorpresa, isulti kung kinsa ang mahimo nga kontakon sa panaderya ug unsang lokal nga numero ang kinahanglan gamiton.
-
-Kumpirma nga ang pagpadala magamit alang sa eksaktong adres ug pangutana bahin sa bayad ug oras. Pagdesisyon kung asa ibutang ang cake pagkahuman sa pag-abot, layo sa direkta nga adlaw ug init. Kung maghulat kini ug daghang oras, sunda ang giya sa pag-atiman sa panaderya ug siguroha nga adunay responsable niini.
-
-Ilakip ang petsa sa panghitabo, gidak-on, lami, disenyo, inskripsiyon, ug banabana sa pagserbisyo sa han-ay. Ang kasamtangan nga mga banabana mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order human masulbad ang disenyo ug handoff.
-
-Ipadayon ang kinatibuk-ang mga lakang sa pagpadala sa sentro nga giya. Imantala ang usa ka espesipikong venue case lamang kung ang gipamatud-an nga mga kamatuoran sa pagpadala ug pagtugot sa imahe anaa.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## I-coordinate ang anniversary-cake delivery sa taong nagho-host
-
-Pumili ng receiver na pupunta sa destinasyon sa panahon ng napagkasunduang delivery window. Ibigay sa White Cakes ang kumpletong address, landmark, mobile number ng receiver, at anumang mga tagubilin sa gate, lobby, o venue. Kung sorpresa ang cake, sabihin kung sino ang maaaring kontakin ng panaderya at kung anong lokal na numero ang dapat gamitin.
-
-Kumpirmahin na available ang paghahatid para sa eksaktong address at magtanong tungkol sa bayad at timing. Magpasya kung saan ilalagay ang cake pagkatapos ng pagdating, malayo sa direktang araw at init. Kung maghihintay ito ng ilang oras, sundin ang patnubay sa pangangalaga ng panaderya at tiyaking may mananagot para dito.
-
-Isama ang petsa ng kaganapan, laki, lasa, disenyo, inskripsiyon, at pagtatantya ng paghahatid sa pagkakasunud-sunod. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos mabayaran ang disenyo at handoff.
-
-Panatilihin ang mga pangkalahatang hakbang sa paghahatid sa gitnang gabay. Mag-publish lamang ng isang partikular na venue case kapag available ang mga na-verify na katotohanan sa paghahatid at pahintulot ng larawan.
+- Confirm current delivery availability, fee, venue policy, storage options, and handoff instructions before publication.
+- Cebuano and Tagalog drafts need native editorial review.

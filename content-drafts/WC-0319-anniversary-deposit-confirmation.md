@@ -1,44 +1,51 @@
 ---
 id: WC-0319
-status: written-draft
-publish_action: merge into /journal/how-to-order.html
-english_title: "What to confirm before paying a deposit for anniversary cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa anibersaryo sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa anibersaryo sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-order.html and /journal/anniversary-cake-message-ideas-cebu.html
+english_title: "What to Confirm Before Paying for an Anniversary Cake in Cebu"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad para sa Anniversary Cake sa Cebu"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad para sa Anniversary Cake sa Cebu"
 ---
 
-## Confirm the anniversary cake details before sending payment
+## English
 
-Check that White Cakes has confirmed the requested date and production slot. Made-to-order cakes need at least three days' notice; a weekend or holiday should be checked earlier. An enquiry is not a reservation, so wait for clear confirmation before planning the event around the cake.
+# What to Confirm Before Paying for an Anniversary Cake in Cebu
 
-Review the written summary for size, flavour, design, exact inscription, total price, and pickup or delivery. If the cake is a surprise, confirm who the bakery may contact and who will receive it. Verify the full address, landmark, mobile number, delivery window, and fee.
+Before paying a deposit, make sure the couple or event organizer has approved the final cake details. Anniversary orders can involve a surprise planner, family member, and person paying. Name one contact who sends the final brief and receives the bakery’s written confirmation so there is no uncertainty about which message or design is approved.
 
-The current process uses a 50% deposit to confirm an agreed order. Follow the payment instructions in the current quote and keep the receipt with the confirmation. Resolve any unclear design or delivery detail before paying so the agreed order matches what the couple expects.
+Confirm the date and cake availability first. Then check the selected size, flavour, decoration, exact inscription, spelling of names, and anniversary year. Ask the bakery whether the design fits the chosen product and whether a change would affect the quote. If you are ordering as a surprise, keep the celebrants off the order conversation and name a discreet person to receive the delivery.
 
-Keep deposit information in the central order guide and recheck it when the bakery updates its process.
+Confirm the handoff too. For delivery, give the full address, landmark, receiver’s mobile number, and any venue or building access instruction. Ask whether delivery is available to that address, what fee applies, and what delivery window is confirmed. For pickup, confirm when the cake will be ready and who will transport it. If a restaurant is involved, check its cake policy and storage plan directly with the venue.
+
+Ask for the total price, deposit amount, accepted payment method, and terms for changing or cancelling in writing. White Cakes’ current information states a 50% deposit confirms the order after details and price are agreed; verify the applicable terms in your quote. Keep the confirmation and payment record together. For the full ordering sequence, see the [cake ordering guide](/journal/how-to-order.html) and [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad para sa Anniversary Cake sa Cebu
+
+Sa dili pa mobayad og deposito, siguroha nga giaprobahan na sa magtiayon o organizer ang pinal nga detalye sa cake. Mahimong apil ang nagplano og surprise, paryente ug mobayad sa anniversary order. Pagngalan og usa ka contact nga mopadala sa pinal nga brief ug modawat sa sinulat nga kumpirmasyon sa panaderya aron klaro kung unsang mensahe ug disenyo ang giuyonan.
+
+Kumpirmaha una ang petsa ug availability sa cake. Susiha dayon ang gidak-on, flavour, dekorasyon, eksaktong inskripsiyon, spelling sa ngalan ug tuig sa anibersaryo. Pangutan-a ang panaderya kung mohaom ba ang disenyo sa napiling produkto ug kung mausab ba ang quote kon mag-usab. Kung surprise ang order, ayaw iapil ang celebrant sa panag-istorya ug pagngalan og sekretong modawat sa delivery.
+
+Klaroha usab ang handoff. Para sa delivery, ihatag ang kompletong address, landmark, mobile number sa modawat ug instruksyon sa venue o building. Pangutan-a kung mo-deliver ba sila didto, pila ang bayad ug unsa ang nakumpirmang delivery window. Para sa pickup, kumpirmaha kanus-a andam ang cake ug kinsa ang modala niini. Kung restaurant ang venue, susiha direkta ang ilang lagda sa cake ug plano sa pagtipig.
+
+Pangayoa sa sinulat ang tibuok presyo, kantidad sa deposito, gidawat nga paagi sa pagbayad ug kondisyon sa pag-usab o pagkansela. Nag-ingon ang kasamtangang impormasyon sa White Cakes nga mokumpirma sa order ang 50% nga deposito human magkasinabot sa detalye ug presyo; susiha sa quote ang kondisyon sa inyong order. Tipigi nga magkauban ang kumpirmasyon ug record sa bayad. Para sa tibuok proseso, tan-awa ang [cake ordering guide](/journal/how-to-order.html) ug [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad para sa Anniversary Cake sa Cebu
+
+Bago magbayad ng deposit, tiyaking inaprubahan na ng mag-partner o event organizer ang pinal na detalye ng cake. Maaaring may surprise planner, kapamilya, at magbabayad ang anniversary order. Magtalaga ng iisang contact na magpapadala ng pinal na brief at tatanggap ng nakasulat na confirmation ng bakery para malinaw kung aling mensahe at disenyo ang aprubado.
+
+Kumpirmahin muna ang petsa at availability ng cake. Pagkatapos, suriin ang napiling sukat, flavour, dekorasyon, eksaktong inscription, spelling ng mga pangalan, at taon ng anniversary. Itanong sa bakery kung babagay ang disenyo sa napiling produkto at kung makaaapekto sa quote ang pagbabago. Kung sorpresa ang order, huwag isama ang celebrants sa usapan at magtalaga ng discreet na tatanggap ng delivery.
+
+Kumpirmahin din ang handoff. Para sa delivery, ibigay ang buong address, landmark, mobile number ng tatanggap, at anumang tagubilin sa venue o building access. Itanong kung available ang delivery sa address na iyon, magkano ang fee, at anong delivery window ang nakumpirma. Para sa pickup, kumpirmahin kung kailan handa ang cake at sino ang magdadala nito. Kung restaurant ang venue, direktang suriin sa venue ang cake policy at storage plan.
+
+Hingin sa sulat ang buong presyo, halaga ng deposit, tinatanggap na payment method, at mga tuntunin sa pagbabago o pagkansela. Nakatala sa kasalukuyang impormasyon ng White Cakes na kinukumpirma ng 50% deposit ang order kapag napagkasunduan na ang detalye at presyo; tiyakin sa quote ang mga tuntuning naaangkop. Itabi nang magkasama ang confirmation at payment record. Para sa buong proseso ng pag-order, tingnan ang [cake ordering guide](/journal/how-to-order.html) at [anniversary cake guide](/journal/anniversary-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang mga detalye sa anibersaryo sa cake sa dili pa ipadala ang bayad
-
-Susiha nga gikumpirma sa White Cakes ang gihangyo nga petsa ug puwang sa produksiyon. Ang hinimo-sa-pag-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo; usa ka hinapos sa semana o holiday kinahanglan nga susihon sa sayo pa. Ang usa ka pangutana dili usa ka reserbasyon, busa paghulat alang sa klaro nga kumpirmasyon sa dili pa magplano sa panghitabo sa palibot sa cake.
-
-Ribyuha ang sinulat nga summary para sa gidak-on, lami, disenyo, eksaktong inskripsiyon, kinatibuk-ang presyo, ug pickup o delivery. Kung ang cake usa ka sorpresa, kumpirmahi kung kinsa ang mahimong kontakon sa panaderya ug kinsa ang makadawat niini. I-verify ang kompleto nga adres, landmark, mobile number, delivery window, ug bayad.
-
-Ang kasamtangan nga proseso naggamit og 50% nga deposito aron pagkumpirma sa usa ka gikasabutan nga order. Sunda ang mga instruksyon sa pagbayad sa kasamtangan nga quote ug tipigi ang resibo uban ang kumpirmasyon. Pagsulbad sa bisan unsang dili klaro nga disenyo o detalye sa pagpadala sa dili pa mobayad aron ang gikasabutan nga order mohaum sa gipaabut sa magtiayon.
-
-Itago ang impormasyon sa pagdeposito sa sentro nga giya sa pag-order ug susiha kini pag-usab kung gi-update sa panaderya ang proseso niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang mga detalye ng anniversary cake bago magpadala ng bayad
-
-Tingnan kung nakumpirma ng White Cakes ang hiniling na petsa at puwang ng produksyon. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; isang katapusan ng linggo o holiday ay dapat suriin nang mas maaga. Ang pagtatanong ay hindi isang reserbasyon, kaya maghintay ng malinaw na kumpirmasyon bago magplano ng kaganapan sa paligid ng cake.
-
-Suriin ang nakasulat na buod para sa laki, lasa, disenyo, eksaktong inskripsiyon, kabuuang presyo, at pickup o paghahatid. Kung sorpresa ang cake, kumpirmahin kung sino ang maaaring kontakin ng panaderya at kung sino ang tatanggap nito. I-verify ang buong address, landmark, mobile number, delivery window, at bayad.
-
-Ang kasalukuyang proseso ay gumagamit ng 50% na deposito upang kumpirmahin ang isang napagkasunduang order. Sundin ang mga tagubilin sa pagbabayad sa kasalukuyang quote at panatilihin ang resibo na may kumpirmasyon. Resolbahin ang anumang hindi malinaw na disenyo o detalye ng paghahatid bago magbayad para tumugma ang napagkasunduang order sa inaasahan ng mag-asawa.
-
-Panatilihin ang impormasyon ng deposito sa gitnang gabay sa pag-order at muling suriin ito kapag na-update ng panaderya ang proseso nito.
+- Reconfirm current deposit/payment terms, venue policies, price, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,51 @@
 ---
 id: WC-0326
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; use original approved photos for examples
-english_title: "How to choose a design for monthsary cake in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa monthsary sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa monthsary sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html and /journal/monthsary-cakes-cebu.html
+english_title: "How to Choose a Monthsary Cake Design in Cebu"
+cebuano_title: "Giunsa Pagpili og Disenyo para sa Monthsary Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Disenyo para sa Monthsary Cake sa Cebu"
 ---
 
-## Pick one detail that reflects the couple without overcomplicating a small cake
+## English
 
-A monthsary cake may be shared by two people, so a simple design can feel personal without needing a large theme. Choose one colour, a short phrase, or a small symbol that matters to the couple. Send a reference image and explain which detail you want the bakery to adapt.
+# How to Choose a Monthsary Cake Design in Cebu
 
-Confirm the cake size, flavour, exact wording, date, and pickup or delivery plan. Ask whether the message fits the selected surface and whether custom decorations change the price. If the cake is a surprise, use one organizer to approve the details and receive it.
+Choose a monthsary cake design that fits the way you plan to celebrate. A small dinner at home may call for a simple message and one personal detail; a dinner out may suit a neat design that is easy to carry and photograph. Decide first whether the cake is meant to be the main surprise, a shared dessert, or a small gift alongside another plan.
 
-Add this as a compact example in the central design guide. A separate monthsary gallery needs real approved photos showing distinct design choices.
+If you mark the occasion every month, keep a design system rather than making every cake identical. You might repeat one colour or lettering style and change the small motif or message. This creates a personal thread while allowing each month’s cake to feel fresh. If a particular month is a milestone for you, say why it matters and let that guide the design instead of adding a large number of unrelated decorations.
+
+Keep the inscription and decoration in balance. A month number and two names can use much of the top on a small cake, so a single piped accent may work better than a detailed scene. Choose one reference image and identify the feature you want to borrow. White Cakes uses hand-piped buttercream; ask what can be made at the size you plan to order and whether the exact design is available.
+
+If the cake is a surprise, consider how it will be transported and where it will be opened. A design with delicate details may need careful handoff. Send the bakery the date, flavour, size, exact message, and pickup or delivery plan together. For further ideas, see the [Cebu cake design guide](/journal/cake-designs-cebu.html) and [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili og Disenyo para sa Monthsary Cake sa Cebu
+
+Pagpili og disenyo nga mohaom sa paagi sa inyong selebrasyon. Mahimong angay sa gamay nga panihapon sa balay ang yano nga mensahe ug usa ka personal nga detalye; para sa panihapon sa gawas, mahimong mas praktikal ang limpyo nga disenyo nga sayon dad-on ug picturan. Desisyoni una kung sorpresa, dessert nga i-share o gamay nga regalo kini kauban sa laing plano.
+
+Kung selebraron ninyo kada bulan, paghimo og sistema sa disenyo imbis himoong eksaktong parehas ang matag cake. Mahimong sublion ang usa ka kolor o estilo sa letra ug usbon ang gamay nga motif o mensahe. Magpabilin ang personal nga timaan apan lahi gihapon ang cake matag bulan. Kung importante kaayo ang usa ka bulan, isulti ang hinungdan ug gamita kini sa paggiya sa disenyo imbis magdugang og daghang dekorasyon nga walay kalabotan.
+
+Ibalanse ang inskripsiyon ug dekorasyon. Mahimong dakog luna ang ihap sa bulan ug duha ka ngalan sa gamay nga cake, busa mas angay tingali ang usa ka piped accent kaysa detalyadong eksena. Pagpili og usa ka reference image ug markahi unsang bahin ang gusto nimong kuhaon. Hand-piped buttercream ang gamit sa White Cakes; pangutan-a unsay mahimo sa gidak-on nga imong orderon ug kung available ba ang eksaktong disenyo.
+
+Kung surprise ang cake, hunahunaa unsaon pagdala ug asa kini ablihan. Mahimong kinahanglan og maampingong handoff ang delikadong dekorasyon. Ipadala sa panaderya ang petsa, flavour, gidak-on, eksaktong mensahe ug pickup o delivery nga plano. Para sa dugang ideya, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html) ug [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Disenyo para sa Monthsary Cake sa Cebu
+
+Pumili ng monthsary cake design na babagay sa planong selebrasyon ninyo. Maaaring bagay sa maliit na hapunan sa bahay ang simpleng mensahe at isang personal na detalye; para sa dinner sa labas, maaaring praktikal ang malinis na disenyong madaling dalhin at kuhanan ng litrato. Magpasya muna kung pangunahing sorpresa, dessert na pagsasaluhan, o maliit na regalong kasama ng ibang plano ang cake.
+
+Kung ipinagdiriwang ninyo ito bawat buwan, gumawa ng design system sa halip na gawing eksaktong magkakapareho ang bawat cake. Maaari ninyong ulitin ang isang kulay o lettering style at palitan ang maliit na motif o mensahe. Nagkakaroon ito ng personal na continuity habang sariwa pa rin ang cake sa bawat buwan. Kung mahalaga sa inyo ang partikular na buwan, sabihin kung bakit at hayaang gabayan nito ang disenyo sa halip na magdagdag ng maraming dekorasyong walang kaugnayan.
+
+Balansehin ang inscription at dekorasyon. Maaaring malaki na ang espasyong gamitin ng bilang ng buwan at dalawang pangalan sa maliit na cake, kaya maaaring mas bagay ang isang piped accent kaysa detalyadong eksena. Pumili ng isang reference image at tukuyin kung aling feature ang gusto mong kunin. Hand-piped buttercream ang gamit ng White Cakes; itanong kung ano ang magagawa sa sukat na o-orderin mo at kung available ang eksaktong disenyo.
+
+Kung sorpresa ang cake, pag-isipan kung paano ito dadalhin at saan bubuksan. Maaaring kailanganin ng maselang detalye ang maingat na handoff. Ipadala sa bakery nang magkakasama ang petsa, flavour, sukat, eksaktong mensahe, at pickup o delivery plan. Para sa dagdag na ideya, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html) at [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og usa ka detalye nga nagpakita sa magtiayon nga dili mokomplikado og gamay nga cake
-
-Ang usa ka bulan nga cake mahimong ipaambit sa duha ka tawo, mao nga ang usa ka yano nga disenyo mahimong mobati nga personal nga dili kinahanglan ang usa ka dako nga tema. Pagpili og usa ka kolor, usa ka mubo nga hugpong sa mga pulong, o usa ka gamay nga simbolo nga importante sa magtiayon. Ipadala ang usa ka reference nga hulagway ug ipasabut kung unsang detalye ang gusto nimo nga ipahiangay sa panaderya.
-
-Kumpirma ang gidak-on sa cake, lami, eksaktong pulong, petsa, ug plano sa pag-pickup o paghatod. Pangutan-a kon ang mensahe mohaum ba sa pinili nga nawong ug kon ang custom nga mga dekorasyon nagbag-o sa presyo. Kung ang cake usa ka sorpresa, gamita ang usa ka organizer aron aprobahan ang mga detalye ug madawat kini.
-
-Idugang kini isip usa ka compact nga pananglitan sa sentro nga giya sa disenyo. Ang usa ka bulag nga gallery sa monthsary nanginahanglan tinuod nga naaprubahan nga mga litrato nga nagpakita sa lahi nga mga kapilian sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng isang detalye na sumasalamin sa mag-asawa nang hindi nagpapahirap sa isang maliit na cake
-
-Ang isang monthsary cake ay maaaring ibahagi ng dalawang tao, kaya ang isang simpleng disenyo ay maaaring maging personal nang hindi nangangailangan ng isang malaking tema. Pumili ng isang kulay, isang maikling parirala, o isang maliit na simbolo na mahalaga sa mag-asawa. Magpadala ng reference na larawan at ipaliwanag kung aling detalye ang gusto mong iakma ng panaderya.
-
-Kumpirmahin ang laki ng cake, lasa, eksaktong salita, petsa, at plano ng pickup o paghahatid. Itanong kung ang mensahe ay akma sa napiling surface at kung binago ng mga custom na dekorasyon ang presyo. Kung sorpresa ang cake, gumamit ng isang organizer para aprubahan ang mga detalye at matanggap ito.
-
-Idagdag ito bilang isang compact na halimbawa sa gitnang gabay sa disenyo. Ang isang hiwalay na monthsary gallery ay nangangailangan ng mga totoong aprubadong larawan na nagpapakita ng mga natatanging pagpipilian sa disenyo.
+- Confirm current products, size, decoration capacity, and care instructions before publication.
+- Cebuano and Tagalog drafts need native editorial review.

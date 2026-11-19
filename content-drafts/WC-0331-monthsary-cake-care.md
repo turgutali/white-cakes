@@ -1,44 +1,51 @@
 ---
 id: WC-0331
-status: written-draft
-publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: "How to keep safe and cool until serving monthsary cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa monthsary sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa monthsary sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/monthsary-cakes-cebu.html
+english_title: "How to Care for a Monthsary Cake Before Serving"
+cebuano_title: "Giunsa Pag-atiman sa Monthsary Cake sa Dili pa I-serve"
+tagalog_title: "Paano Alagaan ang Monthsary Cake Bago Ihain"
 ---
 
-## Keep a small monthsary cake cool until serving
+## English
 
-Even a small cake can soften if left in a warm room. Keep the box level and away from direct sunlight, a hot vehicle, and warm appliances. If the cake will wait several hours, follow White Cakes' storage guidance and ask whether refrigeration is recommended for the specific design.
+# How to Care for a Monthsary Cake Before Serving
 
-Choose a person to receive the cake and place it safely after delivery. If it is a surprise at a restaurant or home, confirm where the box can wait and when the cake will be served. Avoid leaving it unattended or moving it back and forth between heat and a refrigerator.
+Ask the bakery how to store the specific monthsary cake you ordered. Frosting, filling, decoration, and delivery time all affect what the cake needs. When your order is confirmed, check whether refrigeration is required, how long the cake can be displayed, and when to bring it out. Do not use a general room-temperature rule when the bakery can give product-specific advice.
 
-When ordering, include the event date, size, flavour, message, and delivery plan. The 4-inch Bento serves about two generous or three modest portions. Confirm current care instructions for the specific cake and allow at least three days' notice. A 50% deposit confirms the agreed order.
+For a home surprise, choose a level spot away from direct sun, a warm window, cooking appliances, and pets or children who might move the box. If refrigeration is recommended, make room for the cake to sit flat and protect the decoration from pressure. Keep it in its packaging until you are ready to set it out unless the baker tells you otherwise.
 
-Keep verified care advice in one central heat guide; do not invent a special storage rule for monthsary cakes.
+If you plan to bring the cake to a restaurant, park, or another location, ask how long it will be in transit and what handling is appropriate. Avoid leaving the box in a parked car or carrying it unlevel. At an outdoor celebration, arrange shade and ask the baker how the chosen design should be protected from warm weather. Do not assume that a more decorative cake can stay outside for the same period as a plain one.
+
+Plan the reveal so the cake is not left on display longer than necessary. Keep the table clear, assign one person to handle the box, and follow the bakery’s advice for serving. White Cakes’ [buttercream in Cebu heat guide](/journal/buttercream-in-cebu-heat.html) offers general context, but follow instructions for the flavour and decoration you ordered.
+
+## Cebuano
+
+# Giunsa Pag-atiman sa Monthsary Cake sa Dili pa I-serve
+
+Pangutan-a ang panaderya unsaon pagtipig sa eksaktong monthsary cake nga imong gi-order. Makaapekto sa pag-atiman ang frosting, filling, dekorasyon ug oras sa delivery. Sa pagkumpirma, susiha kung kinahanglan ba ibutang sa refrigerator, unsa kini kadugay mahimong ipakita ug kanus-a ipagawas. Ayaw gamita ang kinatibuk-ang lagda sa temperatura sa kwarto kon makahatag man ang panaderya og tambag para sa produkto.
+
+Para sa surprise sa balay, pagpili og patag nga dapit nga layo sa adlaw, init nga bintana, gamit sa pagluto ug bata o hayop nga mahimong mobalhin sa kahon. Kung irekomenda ang refrigerator, hawani og luna para patag ang cake ug mapanalipdan ang dekorasyon nga dili mapislit. Ipabilin kini sa packaging hangtod andam na ipakita gawas kon lahi ang instruksyon sa baker.
+
+Kung dad-on ang cake sa restaurant, parke o laing lugar, pangutan-a unsa kadugay ang biyahe ug unsang pag-atiman ang angay. Ayaw ibilin ang kahon sa giparking nga sakyanan o dad-a nga nakatagilid. Para sa outdoor celebration, andama ang landong ug pangutan-a ang baker unsaon pagpanalipod sa napiling disenyo sa init nga panahon. Ayaw pagtuo nga parehas kadugay sa gawas ang dekoradong cake ug yano nga cake.
+
+Iplano ang reveal aron dili magdugay sa display ang cake. Hawani ang lamesa, pagtudlo og usa ka tawo nga moatiman sa kahon ug sunda ang tambag sa panaderya sa pag-serve. Naghatag og kinatibuk-ang konteksto ang [buttercream in Cebu heat guide](/journal/buttercream-in-cebu-heat.html), apan sunda ang instruksyon para sa flavour ug dekorasyon nga imong gi-order.
+
+## Tagalog
+
+# Paano Alagaan ang Monthsary Cake Bago Ihain
+
+Itanong sa bakery kung paano iimbak ang mismong monthsary cake na o-orderin mo. Nakaaapekto sa pag-aalaga ang frosting, filling, dekorasyon, at oras ng delivery. Kapag kinukumpirma ang order, alamin kung kailangan ng refrigeration, gaano katagal maaaring naka-display ang cake, at kailan ito ilalabas. Huwag gumamit ng pangkalahatang tuntunin sa room temperature kung makapagbibigay ang bakery ng payo para sa produkto.
+
+Para sa sorpresa sa bahay, pumili ng patag na lugar na malayo sa direktang araw, mainit na bintana, cooking appliances, at mga alagang hayop o bata na maaaring maglipat sa kahon. Kung refrigeration ang payo, magbakante ng espasyo para pantay na mailagay ang cake at maprotektahan ang dekorasyon mula sa pressure. Panatilihin ito sa packaging hanggang handa ka nang ilabas maliban kung iba ang tagubilin ng baker.
+
+Kung dadalhin ang cake sa restaurant, parke, o ibang lugar, itanong kung gaano ito katagal ibibiyahe at paano ito dapat hawakan. Huwag iwan ang kahon sa nakaparadang sasakyan o dalhin nang nakatagilid. Para sa outdoor celebration, maghanda ng lilim at itanong sa baker kung paano poprotektahan ang napiling disenyo sa mainit na panahon. Huwag ipagpalagay na maaaring manatili sa labas nang parehong tagal ang mas dekoradong cake at simpleng cake.
+
+Planuhin ang reveal para hindi masyadong matagal naka-display ang cake. Alisin ang kalat sa mesa, magtalaga ng taong hahawak sa kahon, at sundin ang payo ng bakery sa paghahain. Nagbibigay ng pangkalahatang konteksto ang [buttercream in Cebu heat guide](/journal/buttercream-in-cebu-heat.html), pero sundin ang tagubilin para sa flavour at dekorasyong in-order mo.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti nga bugnaw ang gamay nga monthsary nga cake hangtod isilbi
-
-Bisan ang gamay nga cake mahimong mohumok kung ibilin sa usa ka mainit nga kwarto. Ibutang ang lebel sa kahon ug layo sa direkta nga kahayag sa adlaw, init nga sakyanan, ug init nga mga kasangkapan. Kung ang cake maghulat daghang oras, sunda ang giya sa pagtipig sa White Cakes ug pangutana kung girekomenda ba ang pagpabugnaw alang sa piho nga disenyo.
-
-Pagpili og tawo nga modawat sa cake ug ibutang kini nga luwas human sa paghatod. Kung kini usa ka sorpresa sa usa ka restawran o balay, kumpirmahi kung asa maghulat ang kahon ug kung kanus-a i-serve ang cake. Likayi nga biyaan kini nga walay pagtagad o ibalhin kini balik-balik tali sa kainit ug refrigerator.
-
-Kung nag-order, ilakip ang petsa sa panghitabo, gidak-on, lami, mensahe, ug plano sa pagpadala. Ang 4-pulgada nga Bento nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga bahin. Kumpirma ang kasamtangan nga mga instruksyon sa pag-atiman alang sa piho nga cake ug tugoti ang labing menos tulo ka adlaw nga pahibalo. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Hupti ang gipamatud-an nga tambag sa pag-atiman sa usa ka sentral nga giya sa kainit; ayaw pag-imbento og espesyal nga lagda sa pagtipig alang sa mga bulan nga tinapay.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing malamig ang isang maliit na monthsary cake hanggang sa paghahatid
-
-Kahit na ang isang maliit na cake ay maaaring lumambot kung iniwan sa isang mainit na silid. Panatilihin ang antas ng kahon at malayo sa direktang liwanag ng araw, mainit na sasakyan, at maiinit na kagamitan. Kung maghihintay ng ilang oras ang cake, sundin ang patnubay ng imbakan ng White Cakes at tanungin kung inirerekomenda ang pagpapalamig para sa partikular na disenyo.
-
-Pumili ng taong tatanggap ng cake at ilagay ito nang ligtas pagkatapos maihatid. Kung ito ay isang sorpresa sa isang restawran o bahay, kumpirmahin kung saan maaaring maghintay ang kahon at kung kailan ihahain ang cake. Iwasang iwan itong walang bantay o ilipat ito pabalik-balik sa pagitan ng init at refrigerator.
-
-Kapag nag-order, isama ang petsa ng kaganapan, laki, lasa, mensahe, at plano sa paghahatid. Ang 4-pulgadang Bento ay naghahain ng halos dalawang mapagbigay o tatlong katamtamang bahagi. Kumpirmahin ang kasalukuyang mga tagubilin sa pangangalaga para sa partikular na cake at payagan ang hindi bababa sa tatlong araw na paunawa. Kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang na-verify na payo sa pangangalaga sa isang central heat guide; huwag mag-imbento ng espesyal na panuntunan sa pag-iimbak para sa mga monthsary cake.
+- Obtain storage/display guidance from the bakery for the exact product before publication; avoid generic time or temperature promises.
+- Cebuano and Tagalog drafts need native editorial review.
