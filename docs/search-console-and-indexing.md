@@ -2,15 +2,15 @@
 
 ## Current verified state (2026-11-19)
 
-- The live sitemap contains 99 unique canonical URLs, including 81 Journal articles (excluding the `/journal/` index).
-- A Googlebot-user-agent crawl of all 99 sitemap URLs returned HTTP 200, with matching canonicals and no `noindex` directives. This establishes fetchability, not that Google has crawled or indexed each URL.
+- The live sitemap contains 197 unique URLs, including 179 Journal articles (excluding the `/journal/` index). The newly added articles checked after deployment returned HTTP 200 and declared their own canonical URLs. This establishes fetchability for those checked URLs, not that Google has crawled or indexed them.
 - The public robots file permits Googlebot, Bingbot, OAI-SearchBot, GPTBot, ClaudeBot, and PerplexityBot. `llms.txt` lists the current service areas, prices, key pages, and Journal articles.
 - On 2026-11-19, after the journal content work was live, IndexNow accepted seven updated article URLs in one request (HTTP 200). The follow-up Cebuano pricing update changed `/journal/asa-magpa-order-cake-cebu.html` and `/journal/`; IndexNow accepted both in one request (HTTP 200). After the order-wizard image description update, IndexNow accepted `/order/` (HTTP 200). These notifications inform IndexNow-participating engines; they are not Google indexing requests or guarantees.
+- After the 2026-11-19 trilingual content deployment, IndexNow accepted 175 changed canonical URLs in one request (HTTP 200). This is a notification only, not a crawl or indexing guarantee.
 - A Google search snapshot for `cake delivery Cebu City` localized to Cebu did not show The White Cakes in the visible local or organic results. In a separate signed-out Google session whose displayed location was Singapore, `site:https://www.thewhitecakes.com/` returned no results. This is an indexing warning, not an index count: Google says `site:` results are incomplete and URL Inspection is more reliable ([Google Search operator documentation](https://developers.google.com/search/docs/monitor-debug/search-operators/all-search-site)).
 
 ## Google Search Console
 
-The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the current 99-URL sitemap was successfully resubmitted. Search Console still showed 68 discovered URLs at the time of checking; this is stale processing data, not confirmation that all 99 were discovered.
+The property is signed in under `info@thewhitecakes.com`. The latest successful sitemap resubmission occurred before the 2026-11-19 content deployment, when the sitemap contained 99 URLs. At that time Search Console showed 68 discovered URLs. The updated 197-URL sitemap still needs to be resubmitted and its discovery count rechecked; the accessible browser session did not expose Brave during this deployment.
 
 The Page indexing report was still processing. The latest three-month Performance report showed 14 impressions, 0 clicks, 0% CTR, and average position 14.8, with data only through 2026-11-16. This sample is too small to support a broad demand forecast.
 
@@ -22,7 +22,7 @@ URL Inspection results on 2026-11-19:
 
 Individual recrawl requests are quota-limited and do not guarantee inclusion. Use the sitemap for the full page set and URL Inspection for a small number of priority pages.
 
-The 950 multilingual candidate manuscripts are in the `cebubu/content-batch-next` draft branch; they are not live URLs. The live-site count remains 99 until reviewed material is merged into canonical pages or approved as a distinct page.
+The 950 multilingual content items are integrated as reader questions and answers across the existing topic pages and localized companion pages; they were not published as 950 separate URLs. Cebuano and Tagalog copy still needs native editorial review. Keep the cluster structure and review factual accuracy and usefulness before expanding the page count further.
 
 Do not claim Google indexing solely because a URL is in the sitemap, appears in a `site:` query, or was sent through IndexNow. Google Search Console is the source for URL-level index status and site performance.
 
