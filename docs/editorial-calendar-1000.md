@@ -115,6 +115,9 @@
 | 096 | Welcome Cake for a New Colleague in Cebu: Office Planning Guide | Welcome Cake para sa Bag-ong Kauban sa Trabaho sa Cebu: Giya sa Opisina | Welcome Cake para sa Bagong Kasamahan sa Cebu: Gabay sa Opisina | Coordinate a team welcome with workday timing, office receiving rules and an inclusive serving estimate. |
 | 097 | Welcome Home Cake for an OFW in Cebu: Arrival Planning Guide | Welcome Home Cake para sa OFW nga Mopauli sa Cebu: Giya sa Pagplano | Welcome Home Cake para sa OFW na Uuwi sa Cebu: Gabay sa Pagplano | Separate a flexible home or gathering handoff from uncertain arrival timing. |
 
+| 098 | Welcome Home Cake Messages for an OFW in Cebu: 20 Short Lines | Mga Mensahe sa Welcome Home Cake para sa OFW nga Mopauli sa Cebu: 20 ka Mubo nga Linya | Mga Mensahe sa Welcome Home Cake para sa OFW na Uuwi sa Cebu: 20 Maiikling Linya | Offer short wording choices in three languages and a privacy and name-proofing check. |
+| 099 | What to Write on a Welcome Cake for a New Colleague: Short Ideas | Unsa ang Isulat sa Welcome Cake para sa Bag-ong Kauban sa Trabaho: Mubo nga mga Ideya | Ano ang Isusulat sa Welcome Cake para sa Bagong Kasamahan: Maiikling Ideya | Distinct phrase bank for a work welcome, separate from office event planning. |
+
 ## Queue: next trilingual topics
 
 ### Next priority tranche (editorial hypotheses, not volume claims)
@@ -125,6 +128,6 @@
 
 ## Current progress
 
-- Mainline inventory: 97 trilingual topic groups and 1 English-only article.
-- The latest releases add civil wedding, 40th birthday, business opening, business-opening message, new-colleague welcome, and OFW welcome-home guides in English, Cebuano and Tagalog.
+- Mainline inventory: 99 trilingual topic groups and 1 English-only article.
+- The latest releases add civil wedding, 40th birthday, business opening, business-opening message, new-colleague welcome, OFW welcome-home, and their two message-ideas guides in English, Cebuano and Tagalog.
 - The full 1,000-topic calendar is still being built; the numbered queue continues in the next batches. Do not treat this inventory as the complete plan.
