@@ -1,38 +1,51 @@
 ---
 id: WC-0302
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; technique post needs actual approved close-ups
-english_title: "Design details to consider for farewell cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa panamilit sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa pamamaalam sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html and /journal/farewell-cake-cebu.html
+english_title: "Design Details to Settle for a Farewell Cake in Cebu"
+cebuano_title: "Mga Detalye sa Disenyo nga Klarohon para sa Farewell Cake sa Cebu"
+tagalog_title: "Mga Detalye ng Disenyo na Dapat Linawin para sa Farewell Cake sa Cebu"
 ---
 
-## Use one shared memory or team detail as the visual focus
+## English
 
-Ask the group what they want the cake to communicate: gratitude, a new adventure, or a specific shared memory. Choose one detail and keep the rest of the design simple enough for the message to be understood. A short inscription may be more meaningful than several small references competing for attention.
+# Design Details to Settle for a Farewell Cake in Cebu
 
-Share the exact wording, recipient’s name, event date, size, flavour, and budget. Ask whether the main detail fits the design and whether the bakery can adapt the reference. For a workplace farewell, confirm logo and photo permissions before ordering or publishing.
+Before confirming a farewell cake design, agree on the details that affect the finished look: the main colour, the inscription, one personal symbol, and how formal or playful the cake should feel. This keeps a group order from accumulating every colleague’s idea and helps the baker understand what matters most.
 
-Add the advice to the common design guide. A standalone technique post needs original close-ups of a real, approved cake and a specific detail to explain.
+Choose a colour direction that makes sense for the person or team. A familiar team colour can connect the cake to the workplace, while a favourite personal colour may feel more thoughtful. If you want both, pick one as the main colour and use the other as a small accent. Confirm the exact message separately; colour and text should not compete for attention.
+
+Select a single motif that captures the goodbye. It could be a simple hobby cue or a small reference to a shared project, as long as it does not expose confidential work. Ask the bakery whether the motif can be piped clearly at the chosen cake size. White Cakes uses hand-piped buttercream, so a reference photo with printed images or sculpted decorations may need a different interpretation.
+
+Decide where the cake will be seen. If colleagues will gather around a conference table, a readable message and uncluttered top help people see it in a group photo. If it will be displayed briefly in a lobby, a strong colour contrast may matter more than small detail. Send one annotated reference photo and ask the bakery to confirm the final layout, inscription space, and quote. For inspiration, see the [Cebu cake design guide](/journal/cake-designs-cebu.html) and [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo nga Klarohon para sa Farewell Cake sa Cebu
+
+Sa dili pa mokumpirma sa disenyo sa farewell cake, sabot sa mga detalye nga makaapekto sa hitsura: nag-unang kolor, inskripsiyon, usa ka personal nga simbolo ug kung pormal o kataw-anan ang dating. Makatabang kini nga dili matigom sa order sa grupo ang tanang ideya sa mga kauban ug masabtan sa baker unsay labing importante.
+
+Pagpili og direksiyon sa kolor nga angay sa tawo o team. Makadugtong sa cake ug trabahoan ang pamilyar nga kolor sa team; mahimong mas makahuluganon ang paboritong personal nga kolor. Kung gusto nimo ang duha, himoa nga nag-unang kolor ang usa ug gamay nga accent ang lain. Kumpirmaha nga bulag ang eksaktong mensahe aron dili makig-ilog sa atensiyon ang kolor ug teksto.
+
+Pagpili og usa ka motif nga nagrepresentar sa panamilit. Mahimong yano nga timailhan sa hobby o gamay nga reference sa proyekto nga gihimo sa team, basta dili kini mopadayag og kumpidensiyal nga trabaho. Pangutan-a ang panaderya kung klaro ba kining ma-pipe sa napiling gidak-on. Hand-piped buttercream ang gamit sa White Cakes, busa mahimong lahi ang paghubad sa reference nga adunay gi-print nga hulagway o iskultura nga dekorasyon.
+
+Desisyoni asa makita ang cake. Kung magtapok ang mga kauban palibot sa conference table, makatabang sa group photo ang mabasang mensahe ug dili samok nga ibabaw. Kung ipakita lang sa lobby, mahimong mas importante ang klarong kalainan sa kolor kaysa gagmay nga detalye. Ipadala ang usa ka reference nga naay marka ug pangayoa nga kumpirmahon ang layout, luna sa inskripsiyon ug quote. Para sa inspirasyon, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html) ug [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Disenyo na Dapat Linawin para sa Farewell Cake sa Cebu
+
+Bago kumpirmahin ang disenyo ng farewell cake, magkasundo sa mga detalyeng nakaaapekto sa magiging hitsura: pangunahing kulay, inscription, isang personal na simbolo, at kung pormal o playful ang dating ng cake. Naiiwasan nitong maisama sa group order ang bawat ideya ng mga katrabaho at natutulungan ang baker na maunawaan kung ano ang pinakamahalaga.
+
+Pumili ng direksiyon ng kulay na babagay sa tao o team. Maaaring mag-ugnay sa cake at workplace ang pamilyar na kulay ng team, samantalang maaaring mas personal ang paboritong kulay ng tao. Kung gusto mo pareho, gawing pangunahing kulay ang isa at maliit na accent ang isa pa. Kumpirmahin nang hiwalay ang eksaktong mensahe para hindi mag-agawan sa pansin ang kulay at text.
+
+Pumili ng iisang motif na kumakatawan sa pamamaalam. Maaaring simpleng pahiwatig ng libangan o maliit na reference sa pinagsamahan nilang proyekto, basta hindi nito ibinubunyag ang kumpidensiyal na trabaho. Itanong sa bakery kung malinaw itong mapipipe sa napiling sukat. Hand-piped buttercream ang gamit ng White Cakes, kaya maaaring kailanganin ng ibang interpretasyon ang reference photo na may printed image o sculpted na dekorasyon.
+
+Pagpasiyahan kung saan makikita ang cake. Kung magtitipon ang mga katrabaho sa conference table, makatutulong sa group photo ang nababasang mensahe at malinis na ibabaw. Kung saglit lang itong naka-display sa lobby, maaaring mas mahalaga ang malinaw na contrast ng kulay kaysa maliliit na detalye. Magpadala ng isang annotated na reference photo at hilinging kumpirmahin ng bakery ang final layout, puwang para sa inscription, at quote. Para sa inspirasyon, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html) at [farewell cake guide](/journal/farewell-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Gamita ang usa ka gipaambit nga memorya o detalye sa team isip visual focus
-
-Pangutan-a ang grupo kon unsay gusto nilang isulti sa cake: pasalamat, bag-ong adventure, o piho nga gipaambit nga memorya. Pagpili og usa ka detalye ug himoa nga yano ang nahabilin sa disenyo aron masabtan ang mensahe. Ang usa ka mubo nga inskripsiyon mahimong mas makahuluganon kay sa daghang gagmay nga mga pakisayran nga nakigkompetensya alang sa atensyon.
-
-Ipaambit ang eksaktong pulong, ngalan sa nakadawat, petsa sa panghitabo, gidak-on, lami, ug badyet. Pangutan-a kon ang nag-unang detalye mohaum ba sa disenyo ug kon ang panaderya makapasibo ba sa reperensiya. Para sa panamilit sa trabahoan, kumpirmahi ang logo ug mga permiso sa litrato sa dili pa mag-order o i-publish.
-
-Idugang ang tambag sa komon nga giya sa disenyo. Ang usa ka standalone nga post sa teknik nanginahanglan mga orihinal nga close-up sa usa ka tinuud, giaprubahan nga cake ug usa ka piho nga detalye aron ipasabut.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng isang nakabahaging memorya o detalye ng koponan bilang visual focus
-
-Tanungin ang grupo kung ano ang gusto nilang sabihin ng cake: pasasalamat, isang bagong pakikipagsapalaran, o isang partikular na nakabahaging memorya. Pumili ng isang detalye at panatilihing simple ang natitirang bahagi ng disenyo para maunawaan ang mensahe. Ang isang maikling inskripsiyon ay maaaring mas makabuluhan kaysa sa ilang maliliit na sanggunian na nakikipagkumpitensya para sa atensyon.
-
-Ibahagi ang eksaktong salita, pangalan ng tatanggap, petsa ng kaganapan, laki, lasa, at badyet. Itanong kung ang pangunahing detalye ay akma sa disenyo at kung ang panaderya ay maaaring iakma ang sanggunian. Para sa isang paalam sa lugar ng trabaho, kumpirmahin ang mga pahintulot ng logo at larawan bago mag-order o mag-publish.
-
-Idagdag ang payo sa karaniwang gabay sa disenyo. Ang isang standalone technique post ay nangangailangan ng mga orihinal na close-up ng isang tunay, naaprubahang cake at isang partikular na detalye upang ipaliwanag.
+- Confirm current piping capabilities and available design space for the selected product before publication.
+- Cebuano and Tagalog drafts need native editorial review.

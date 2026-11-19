@@ -1,38 +1,51 @@
 ---
 id: WC-0272
-status: written-draft
-publish_action: merge into /journal/choosing-a-flavor.html; verify current menu
-english_title: "How to choose a flavour for retirement cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa pagretiro sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa pagreretiro sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/choosing-a-flavor.html and /journal/retirement-cake-cebu.html
+english_title: "How to Choose a Retirement Cake Flavour in Cebu"
+cebuano_title: "Giunsa Pagpili sa Flavour sa Retirement Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Flavour para sa Retirement Cake sa Cebu"
 ---
 
-## Choose for the retiree and the colleagues or family sharing it
+## English
 
-Ask the retiree’s family or close colleagues which flavour the guest of honour prefers. If a larger group will share the cake, consider familiar choices and any known dietary needs. White Cakes’ current flavour list has included Chocolate, Vanilla, Ube, Mango, and Red Velvet; confirm the live menu for the event date.
+# How to Choose a Retirement Cake Flavour in Cebu
 
-Ask what the chosen option includes and whether it works for the requested size. Do not infer ingredients or allergy safety from a flavour name. Confirm servings, design, and handoff separately so the order meets both the retiree’s preference and the group’s plan.
+Choose a retirement-cake flavour for the people who will share it and the way the cake fits into the meal. If the cake follows a full lunch, guests may prefer a familiar, lighter-feeling finish; at a short afternoon send-off, the cake may be the main treat. Ask the organizer whether the group has a known favourite and whether there are dietary needs the bakery can accommodate. Do not promise an allergy-safe product unless the bakery has confirmed its ingredients and handling.
 
-Keep current options in the central flavour guide and link it from retirement planning content rather than creating another flavour page.
+Start with White Cakes’ current flavour list rather than a flavour you saw in an old photo or social post. Availability may differ by product and date. Ask which flavours pair with the selected cake design and size, and whether a filling or frosting choice affects the quote. If the celebrant has a favourite, mention it, but also consider the guests who will eat most of the cake.
+
+For a mixed group, ask whether the order can include more than one flavour or whether each cake in a multi-cake order can differ. Confirm this before paying, because options depend on the bakery’s current menu and schedule. If there are strict allergies or dietary restrictions, share them clearly and ask for a direct answer on what can be prepared safely. A preference is useful information; it is not the same as a verified allergen guarantee.
+
+Once the flavour is agreed, make sure it appears in the written confirmation along with the cake size, design, date, inscription, price, and pickup or delivery plan. See the [cake flavour guide](/journal/choosing-a-flavor.html) and [retirement cake guide](/journal/retirement-cake-cebu.html) for the related planning details.
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour sa Retirement Cake sa Cebu
+
+Pagpili og flavour base sa mga tawo nga mag-share sa cake ug kung unsa kini kauban sa pagkaon. Kung human sa bug-os nga paniudto i-serve ang cake, mahimong mas ganahan ang mga bisita og pamilyar ug dili bug-at nga tam-is; kung meryenda sa hapon ang despedida, mahimo kining pangunang treat. Pangutan-a ang organizer kung nahibalo ba sila sa paborito sa grupo ug kung adunay dietary need nga kaya sa panaderya. Ayaw pagsaad nga luwas kini para sa allergy gawas kon gikumpirma sa panaderya ang sangkap ug pagdumala niini.
+
+Sugdi sa kasamtangang listahan sa flavour sa White Cakes, dili sa daang litrato o post sa social media. Mahimong magkalahi ang availability depende sa produkto ug petsa. Pangutan-a kung unsang flavour ang mohaom sa napiling disenyo ug gidak-on ug kung mausab ba ang quote tungod sa filling o frosting. Kung adunay paborito ang celebrant, isulti kini apan hunahunaa usab ang kadaghanan sa mga mokaon.
+
+Para sa grupo nga nagkalahi ang gusto, pangutan-a kung makasagol ba og daghang flavour sa usa ka order o lahi-lahi ba ang matag cake kon daghan ang orderon. Kumpirmaha kini sa dili pa mobayad kay magdepende kini sa kasamtangang menu ug iskedyul. Kung istrikto ang allergy o dietary restriction, isulti kini og klaro ug pangayo og diretsong tubag kon unsay luwas nga mahimo. Importante ang preference, apan lahi kini sa kumpirmadong garantiya bahin sa allergen.
+
+Human magkasabot sa flavour, susiha nga makita kini sa sinulat nga kumpirmasyon uban sa gidak-on, disenyo, petsa, inskripsiyon, presyo ug plano sa pickup o delivery. Tan-awa ang [cake flavour guide](/journal/choosing-a-flavor.html) ug [retirement cake guide](/journal/retirement-cake-cebu.html) para sa ubang detalye sa pagplano.
+
+## Tagalog
+
+# Paano Pumili ng Flavour para sa Retirement Cake sa Cebu
+
+Pumili ng flavour batay sa mga taong magsasalo nito at kung paano isasama ang cake sa pagkain. Kung pagkatapos ng buong tanghalian ihahain ang cake, maaaring mas gusto ng mga bisita ang pamilyar at hindi gaanong mabigat na tamis; kung meryenda sa hapon ang send-off, maaaring ito ang pangunahing treat. Tanungin ang organizer kung alam nila ang paborito ng grupo at kung may dietary need na kayang tugunan ng bakery. Huwag mangakong ligtas ito para sa allergy maliban kung kinumpirma ng bakery ang mga sangkap at paghawak nito.
+
+Magsimula sa kasalukuyang listahan ng flavours ng White Cakes sa halip na flavour na nakita mo sa lumang larawan o social post. Maaaring mag-iba ang availability ayon sa produkto at petsa. Itanong kung aling flavour ang babagay sa napiling disenyo at sukat at kung makaaapekto sa quote ang filling o frosting. Kung may paborito ang celebrant, sabihin ito pero isaalang-alang din ang karamihan ng kakain.
+
+Para sa grupong magkakaiba ang gusto, itanong kung maaaring magsama ng higit sa isang flavour sa order o magkakaiba ang bawat cake kung marami ang o-orderin. Kumpirmahin ito bago magbayad dahil nakadepende ang mga opsyon sa kasalukuyang menu at schedule ng bakery. Kung may seryosong allergy o dietary restriction, sabihin ito nang malinaw at humingi ng tiyak na sagot kung ano ang ligtas nilang maihahanda. Mahalagang impormasyon ang preference; hindi ito katumbas ng beripikadong garantiya tungkol sa allergen.
+
+Kapag napagkasunduan na ang flavour, tiyaking nakasulat ito sa confirmation kasama ang sukat ng cake, disenyo, petsa, inscription, presyo, at pickup o delivery plan. Tingnan ang [cake flavour guide](/journal/choosing-a-flavor.html) at [retirement cake guide](/journal/retirement-cake-cebu.html) para sa kaugnay na detalye sa pagpaplano.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili alang sa retirado ug sa mga kauban o pamilya nga nagpaambit niini
-
-Pangutan-a ang pamilya sa retirado o suod nga mga kauban kung unsang lami ang gusto sa bisita sa dungog. Kung ang usa ka dako nga grupo mopaambit sa cake, ikonsiderar ang pamilyar nga mga pagpili ug bisan unsang nahibal-an nga mga panginahanglanon sa pagkaon. Ang listahan sa lami karon sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; kumpirmahi ang live menu alang sa petsa sa panghitabo.
-
-Pangutan-a kung unsa ang gilakip sa gipili nga kapilian ug kung kini molihok alang sa gihangyo nga gidak-on. Ayaw paghunahuna sa mga sangkap o kaluwasan sa alerdyi gikan sa usa ka ngalan sa lami. Kumpirma ang mga servings, disenyo, ug handoff nga gilain aron ang order makatagbo sa gusto sa retirado ug sa plano sa grupo.
-
-Ipadayon ang kasamtangan nga mga kapilian sa sentro nga giya sa lami ug i-link kini gikan sa sulod sa pagplano sa pagretiro imbes nga maghimo og laing panid sa lami.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili para sa retirado at sa mga kasamahan o pamilya na nagbabahagi nito
-
-Tanungin ang pamilya ng retirado o malapit na kasamahan kung aling lasa ang gusto ng panauhing pandangal. Kung ang isang mas malaking grupo ay makibahagi sa cake, isaalang-alang ang mga pamilyar na pagpipilian at anumang kilalang mga pangangailangan sa pagkain. Ang kasalukuyang listahan ng lasa ng White Cakes ay may kasamang Chocolate, Vanilla, Ube, Mango, at Red Velvet; kumpirmahin ang live na menu para sa petsa ng kaganapan.
-
-Itanong kung ano ang kasama sa napiling opsyon at kung gumagana ito para sa hiniling na laki. Huwag magpahiwatig ng mga sangkap o kaligtasan sa allergy mula sa isang pangalan ng lasa. Kumpirmahin ang mga serving, disenyo, at handoff nang hiwalay para matugunan ng order ang kagustuhan ng retiree at ang plano ng grupo.
-
-Panatilihin ang mga kasalukuyang opsyon sa gitnang gabay sa lasa at i-link ito mula sa nilalaman ng pagpaplano sa pagreretiro sa halip na gumawa ng isa pang pahina ng lasa.
+- Verify current flavour availability, fillings, ingredient/allergen handling, and any multi-flavour options before publication.
+- Cebuano and Tagalog drafts need native editorial review.

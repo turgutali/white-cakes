@@ -1,44 +1,51 @@
 ---
 id: WC-0292
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to prepare for delivery of farewell cake in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa panamilit sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa pamamaalam sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html and /journal/farewell-cake-cebu.html
+english_title: "How to Prepare for a Farewell Cake Delivery in Cebu"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Farewell Cake sa Cebu"
+tagalog_title: "Paano Maghanda para sa Delivery ng Farewell Cake sa Cebu"
 ---
 
-## Prepare the office to receive a farewell cake
+## English
 
-Choose a colleague who can meet the driver and bring the cake inside. Give White Cakes the full building address, tower or entrance, landmark, receiver's mobile number, and any visitor or loading instructions. Confirm the delivery window and fee, and make sure the contact will not be in a meeting when the driver arrives.
+# How to Prepare for a Farewell Cake Delivery in Cebu
 
-Pick a stable, shaded or cool place where the cake can wait until the farewell gathering. Keep the box away from direct sunlight and a hot vehicle. If several hours will pass, follow the bakery's storage instructions. Tell the person receiving it when the cake will be served and who is responsible for moving it.
+For an office farewell, a cake delivery needs a receiver who knows both the bakery’s delivery window and the building’s rules. Ask the office administrator which entrance couriers should use, whether a visitor pass is required, and where the driver may hand over the cake. If the person leaving work is not supposed to know about the event, choose a discreet colleague to receive it and keep the celebrant’s name off any visible delivery note if possible.
 
-In the order request, include the date, size, flavour, design, message, and number of cake eaters. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Confirm that the size fits the team. Allow at least three days' notice; the 50% deposit confirms the agreed order.
+Send the bakery one complete set of directions: full office address, building or tower name, floor or lobby handoff point, landmark, receiver’s name, and working mobile number. Include loading or parking notes only if required. Make sure the receiver can leave their desk or meeting when the driver calls. Appoint a backup contact in case the first person is unavailable.
 
-Keep general handoff details in the shared delivery guide. Publish office-specific route notes only when verified.
+Plan the time from arrival to serving. The receiver may need to carry the cake to a meeting room, place it somewhere stable, and keep it cool until the team gathers. Leave room in the schedule for these steps. White Cakes confirms a delivery window instead of an exact minute, so do not schedule the surprise reveal at the very start of that window. Ask the bakery about transport and storage instructions for the specific design.
+
+When the cake is handed over, keep it level and in its box while moving through the office. Put it on a stable table away from direct sun and heat, and avoid placing it beside busy foot traffic. If anything differs from the agreed order, contact the bakery promptly. For the broader process, see the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) and [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Farewell Cake sa Cebu
+
+Para sa despedida sa opisina, kinahanglan ang modawat sa delivery mahibalo sa delivery window sa panaderya ug sa lagda sa building. Pangutan-a ang office administrator unsang entrance ang gamiton sa courier, kinahanglan ba og visitor pass ug asa ihatag sa driver ang cake. Kung dili angay mahibalo ang mobiya sa event, pagpili og kauban nga sekretong modawat ug ayaw ibutang ang ngalan sa celebrant sa makita nga delivery note kon mahimo.
+
+Ihatag sa panaderya ang usa ka kompleto nga instruksyon: kompletong address sa opisina, ngalan sa building o tower, floor o handoff sa lobby, landmark, ngalan sa modawat ug aktibong mobile number. Iapil lang ang instruksyon sa loading o parking kon gikinahanglan. Siguroha nga makagawas sa lamesa o meeting ang modawat kon motawag ang driver. Pagngalan og ikaduhang contact kung dili available ang una.
+
+Iplano ang oras gikan sa pag-abot hangtod sa pag-serve. Mahimong kinahanglan dad-on sa modawat ang cake sa meeting room, ibutang sa lig-on nga lugar ug tipigan nga bugnaw hangtod magtapok ang team. Pagbilin og igo nga oras niini. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes, busa ayaw itakda ang sorpresa sa sinugdanan dayon sa window. Pangutan-a ang panaderya sa instruksyon sa pagdala ug pagtipig para sa piho nga disenyo.
+
+Sa handoff, ipabiling patag ug sulod sa kahon ang cake samtang dad-on sa opisina. Ibutang sa lig-on nga lamesa nga layo sa adlaw, kainit ug daghang tawo nga moagi. Kung lahi ang order sa nasabutan, kontaka dayon ang panaderya. Para sa kinatibuk-ang proseso, tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) ug [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Farewell Cake sa Cebu
+
+Para sa farewell sa opisina, kailangan ng tatanggap na alam ang delivery window ng bakery at mga tuntunin ng building. Tanungin ang office administrator kung aling entrance ang gagamitin ng courier, kung kailangan ng visitor pass, at saan maaaring iabot ng driver ang cake. Kung hindi dapat malaman ng aalis na katrabaho ang event, pumili ng discreet na tatanggap at iwasang ilagay ang pangalan ng celebrant sa nakikitang delivery note kung maaari.
+
+Magbigay sa bakery ng iisang kumpletong tagubilin: buong address ng opisina, pangalan ng building o tower, floor o lobby handoff point, landmark, pangalan ng tatanggap, at aktibong mobile number. Isama lang ang loading o parking note kung kailangan. Tiyaking makakaalis sa desk o meeting ang tatanggap kapag tumawag ang driver. Magtalaga ng backup contact kung hindi available ang una.
+
+Planuhin ang oras mula pagdating hanggang paghahain. Maaaring kailangang dalhin ng tatanggap ang cake sa meeting room, ilagay ito sa matatag na lugar, at panatilihing malamig hanggang magtipon ang team. Maglaan ng oras para sa mga hakbang na ito. Delivery window ang kinukumpirma ng White Cakes sa halip na eksaktong minuto, kaya huwag itakda ang surprise reveal sa simula mismo ng window. Itanong sa bakery ang tagubilin sa pagdadala at pag-iimbak para sa partikular na disenyo.
+
+Sa handoff, panatilihing pantay at nasa kahon ang cake habang dinadala sa opisina. Ilagay ito sa matatag na mesa na malayo sa araw, init, at mataong daanan. Kung may naiiba sa napagkasunduang order, makipag-ugnayan agad sa bakery. Para sa pangkalahatang proseso, tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) at [farewell cake guide](/journal/farewell-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Andama ang opisina para makadawat ug farewell cake
-
-Pagpili usa ka kauban nga makigkita sa drayber ug dad-on ang cake sa sulod. Ihatag sa White Cakes ang tibuok address sa building, tore o entrance, landmark, mobile number sa receiver, ug bisan kinsa nga bisita o loading instructions. Kumpirma ang delivery window ug bayranan, ug siguroa nga ang kontak dili makigkita sa pag-abot sa drayber.
-
-Pagpili og usa ka stable, shaded o cool nga dapit diin ang cake makahulat hangtud sa panamilit nga panagtapok. Ipahilayo ang kahon sa direktang silaw sa adlaw ug init nga sakyanan. Kung molabay ang daghang oras, sunda ang mga panudlo sa pagtipig sa panaderya. Sultihi ang tawo nga nakadawat niini kung kanus-a isilbi ang cake ug kinsa ang responsable sa pagbalhin niini.
-
-Sa hangyo sa pag-order, ilakip ang petsa, gidak-on, lami, disenyo, mensahe, ug gidaghanon sa mga mokaon og cake. Ang kasamtangan nga mga banabana mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kumpirma nga ang gidak-on mohaum sa team. Tugoti ang labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang kinatibuk-ang mga detalye sa handoff sa gipaambit nga giya sa paghatud. I-publish lang ang mga nota sa ruta nga espesipiko sa opisina kung gi-verify.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihanda ang opisina para makatanggap ng farewell cake
-
-Pumili ng isang kasamahan na maaaring makilala ang driver at dalhin ang cake sa loob. Ibigay sa White Cakes ang buong address ng gusali, tore o pasukan, palatandaan, numero ng mobile ng receiver, at sinumang bisita o mga tagubilin sa pag-load. Kumpirmahin ang window ng paghahatid at bayad, at siguraduhin na ang contact ay wala sa isang pulong kapag dumating ang driver.
-
-Pumili ng kuwadra, may kulay o malamig na lugar kung saan maaaring maghintay ang cake hanggang sa pagtitipon ng paalam. Ilayo ang kahon sa direktang sikat ng araw at sa mainit na sasakyan. Kung lumipas ang ilang oras, sundin ang mga tagubilin sa pag-iimbak ng panaderya. Sabihin sa taong tatanggap nito kung kailan ihahain ang cake at kung sino ang may pananagutan sa paglipat nito.
-
-Sa kahilingan ng order, isama ang petsa, laki, lasa, disenyo, mensahe, at bilang ng mga kumakain ng cake. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin na ang sukat ay akma sa koponan. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang mga pangkalahatang detalye ng handoff sa nakabahaging gabay sa paghahatid. Mag-publish lamang ng mga tala ng ruta na partikular sa opisina kapag na-verify.
+- Confirm current service areas, delivery windows, building handoff practices, and handling advice before publication.
+- Cebuano and Tagalog drafts need native editorial review.

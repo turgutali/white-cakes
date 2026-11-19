@@ -1,44 +1,51 @@
 ---
 id: WC-0279
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "Planning retirement cake in Cebu"
-cebuano_title: "Pagplano sa cake para sa pagretiro sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa pagreretiro sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html and /journal/retirement-cake-cebu.html
+english_title: "Planning a Retirement Cake for a Small Gathering in Cebu"
+cebuano_title: "Pagplano og Retirement Cake para sa Gamay nga Tapok sa Cebu"
+tagalog_title: "Pagpaplano ng Retirement Cake para sa Maliit na Pagtitipon sa Cebu"
 ---
 
-## Plan the retirement cake for the people who will share it
+## English
 
-For a small retirement gathering, estimate the number of colleagues or family members who will actually eat cake. The 4-inch Bento serves about two generous or three modest portions. A larger office group may need a 6-inch cake, currently estimated at 8–12 party slices, or an 8-inch cake at 16–24.
+# Planning a Retirement Cake for a Small Gathering in Cebu
 
-These are approximate ranges. Ask whether the cake is the only dessert and whether people will take a full slice or a small portion. Tell White Cakes the serving plan and ask it to confirm a suitable size. If the event combines an office program with a family meal, calculate who will be present at each serving rather than using the full invite count.
+A small retirement gathering can feel thoughtful without a large cake or a complicated setup. Start by confirming who will be there: the celebrant’s immediate team, a few relatives, or close friends. Count the people expected at dessert time, not everyone who received an invitation. Then decide whether cake is the only dessert, whether guests will have eaten already, and if there is a reason to keep a portion for someone who cannot attend.
 
-Include the date, flavour, design, inscription, and venue in the order request. Confirm whether delivery is available and who will receive the cake. Made-to-order cakes require at least three days' notice; the 50% deposit confirms the agreed order.
+Share that picture with the bakery and ask which currently listed size fits the occasion. Mention if you want a few slices left over or prefer to order close to the expected attendance. The baker can explain current portion guidance; a diameter by itself does not give a dependable serving count. If the group is small, a concise inscription and one personal design detail can make the cake feel made for the person without filling the top with decoration.
 
-Keep serving information in the central size guide and link to retirement content for the design and order checklist.
+Plan the gathering around the cake, too. Choose a stable table, make sure there is room to cut and serve, and appoint someone to bring the cake out at the right time. For a home gathering, provide a clear delivery address and recipient’s contact number. For a small office send-off, include the lobby or visitor instructions and a named receiver. Build the program around White Cakes’ confirmed delivery window instead of expecting an exact arrival minute.
+
+Before you confirm the order, check the quote for size, flavour, message, design, date, pickup or delivery, and full price. A small gathering is easier to host when the cake plan is settled in advance. Use the [cake-size guide](/journal/cake-sizes-cebu.html) and [retirement cake guide](/journal/retirement-cake-cebu.html) to prepare your brief.
+
+## Cebuano
+
+# Pagplano og Retirement Cake para sa Gamay nga Tapok sa Cebu
+
+Mahimong makahuluganon ang gamay nga retirement gathering bisan dili dako ang cake o komplikado ang setup. Kumpirmaha una kinsa ang moanhi: duol nga team sa celebrant, pipila ka paryente o suod nga higala. Ihapa ang gipaabot nga naa sa oras sa dessert, dili ang tanan nga giimbitar. Desisyoni dayon kung cake ra ba ang dessert, nakakaon na ba ang mga bisita ug kung magbilin ba og bahin para sa dili makaadto.
+
+Ihulagway kini sa panaderya ug pangutan-a unsang gidak-on sa kasamtangang menu ang mohaom. Isulti kung gusto nimog pipila ka hiwa nga mabilin o igo lang sa gipaabot nga bisita. Makapasabot ang baker sa kasamtangang giya sa servings; dili kasaligan ang ihap sa serving kon diyametro lang ang basihan. Kung gamay ra ang grupo, makapersonal sa cake ang mubo nga mensahe ug usa ka detalye sa disenyo nga dili pun-on ang ibabaw.
+
+Iplano usab ang tapok palibot sa cake. Pagpili og lig-on nga lamesa, siguroha nga adunay luna sa paghiwa ug pag-serve, ug pagtudlo og tawo nga mopagawas sa cake sa hustong oras. Para sa tapok sa balay, ihatag ang klarong delivery address ug contact number sa modawat. Para sa despedida sa gamay nga team sa opisina, iapil ang instruksyon sa lobby o visitor ug ginganli ang modawat. Ihaom ang programa sa nakumpirmang delivery window sa White Cakes, dili sa eksaktong minuto sa pag-abot.
+
+Sa dili pa mokumpirma, susiha sa quote ang gidak-on, flavour, mensahe, disenyo, petsa, pickup o delivery ug tibuok presyo. Mas sayon pagdumala sa gamay nga tapok kon daan nang klaro ang plano sa cake. Gamita ang [cake-size guide](/journal/cake-sizes-cebu.html) ug [retirement cake guide](/journal/retirement-cake-cebu.html) sa pag-andam sa brief.
+
+## Tagalog
+
+# Pagpaplano ng Retirement Cake para sa Maliit na Pagtitipon sa Cebu
+
+Maaaring maging makabuluhan ang maliit na retirement gathering kahit walang malaking cake o komplikadong setup. Kumpirmahin muna kung sino ang pupunta: malapit na team ng celebrant, ilang kamag-anak, o malalapit na kaibigan. Bilangin ang inaasahang naroon kapag oras na ng dessert, hindi lahat ng inimbitahan. Pagkatapos, pagpasiyahan kung cake lang ang dessert, kung nakakain na ang mga bisita, at kung may kailangang itabing bahagi para sa hindi makakadalo.
+
+Ilarawan ito sa bakery at itanong kung aling kasalukuyang sukat ang babagay. Sabihin kung gusto mong may ilang hiwang matira o umorder nang malapit sa inaasahang attendance. Maipaliliwanag ng baker ang kasalukuyang gabay sa portions; hindi maaasahang bilang ng servings ang diyametro lang. Kung maliit ang grupo, makapagpapersonal sa cake ang maikling mensahe at isang detalye sa disenyo nang hindi pinupuno ang ibabaw.
+
+Planuhin din ang pagtitipon ayon sa cake. Pumili ng matatag na mesa, tiyaking may puwang para maghiwa at maghain, at magtalaga ng taong maglalabas sa cake sa tamang oras. Para sa pagtitipon sa bahay, ibigay ang malinaw na delivery address at contact number ng tatanggap. Para sa maliit na send-off sa opisina, isama ang tagubilin sa lobby o visitor at magtalaga ng tatanggap. Iayon ang programa sa nakumpirmang delivery window ng White Cakes sa halip na umasa sa eksaktong minuto ng dating.
+
+Bago kumpirmahin ang order, tingnan sa quote ang sukat, flavour, mensahe, disenyo, petsa, pickup o delivery, at buong presyo. Mas madaling mag-host ng maliit na pagtitipon kapag napagplanuhan na ang cake. Gamitin ang [cake-size guide](/journal/cake-sizes-cebu.html) at [retirement cake guide](/journal/retirement-cake-cebu.html) sa paghahanda ng brief.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha ang retirement cake para sa mga tawo nga mopaambit niini
-
-Alang sa usa ka gamay nga panagtapok sa pagretiro, banabanaa ang gidaghanon sa mga kauban o miyembro sa pamilya nga mokaon gyud ug cake. Ang 4-pulgada nga Bento nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga bahin. Ang usa ka mas dako nga grupo sa opisina mahimong magkinahanglan ug 6-pulgada nga cake, nga karon gibanabana sa 8–12 ka hiwa sa partido, o usa ka 8-pulgada nga cake sa 16–24.
-
-Kini mao ang gibana-bana nga mga han-ay. Pangutan-a kung ang cake mao ra ang dessert ug kung ang mga tawo mokuha ba usa ka bug-os nga hiwa o gamay nga bahin. Sultihi ang White Cakes sa plano sa pag-alagad ug hangyoa kini sa pagkumpirma sa angay nga gidak-on. Kung ang kalihokan maghiusa sa usa ka programa sa opisina sa usa ka panihapon sa pamilya, kuwentaha kung kinsa ang motambong sa matag pag-alagad kaysa gamiton ang tibuuk nga ihap sa imbitasyon.
-
-Ilakip ang petsa, lami, disenyo, inskripsiyon, ug lugar sa hangyo sa order. Kumpirma kon ang delivery anaa ug kinsa ang makadawat sa cake. Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Ipadayon ang pag-alagad sa impormasyon sa sentro nga giya sa gidak-on ug i-link sa retirement content alang sa disenyo ug order checklist.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin ang retirement cake para sa mga taong magbabahagi nito
-
-Para sa isang maliit na pagtitipon sa pagreretiro, tantyahin ang bilang ng mga kasamahan o miyembro ng pamilya na talagang kakain ng cake. Ang 4-pulgadang Bento ay naghahain ng halos dalawang mapagbigay o tatlong katamtamang bahagi. Ang isang mas malaking grupo ng opisina ay maaaring mangailangan ng 6-inch na cake, na kasalukuyang tinatantya sa 8–12 party slice, o isang 8-inch na cake sa 16–24.
-
-Ito ay mga tinatayang saklaw. Tanungin kung ang cake ay ang tanging dessert at kung ang mga tao ay kukuha ng isang buong hiwa o isang maliit na bahagi. Sabihin sa White Cakes ang plano sa paghahatid at hilingin itong kumpirmahin ang angkop na sukat. Kung pinagsama ng kaganapan ang isang programa sa opisina sa isang pagkain ng pamilya, kalkulahin kung sino ang dadalo sa bawat paghahatid sa halip na gamitin ang buong bilang ng imbitasyon.
-
-Isama ang petsa, lasa, disenyo, inskripsiyon, at lugar sa kahilingan ng order. Kumpirmahin kung available ang delivery at kung sino ang tatanggap ng cake. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang paghahatid ng impormasyon sa gitnang gabay sa laki at i-link sa nilalaman ng pagreretiro para sa checklist ng disenyo at order.
+- Confirm current size and serving guidance, quote, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,63 @@
 ---
 id: WC-0303
-status: written-draft
-publish_action: merge into /journal/how-to-order.html and /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Common ordering mistakes to avoid with farewell cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa panamilit sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa pamamaalam sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-order.html and /journal/farewell-cake-cebu.html
+english_title: "Farewell Cake Ordering Mistakes to Avoid in Cebu"
+cebuano_title: "Mga Sayop sa Pag-order og Farewell Cake nga Likayan sa Cebu"
+tagalog_title: "Mga Pagkakamali sa Pag-order ng Farewell Cake na Dapat Iwasan sa Cebu"
 ---
 
-## Avoid sending mixed messages about the recipient and the farewell wording
+## English
 
-A farewell cake should make clear who is leaving and who is giving the cake. Ask one organizer to gather names, confirm the exact message, and send one final design direction. If colleagues want to add a logo or inside joke, check approval and make sure the cake has space for it.
+# Farewell Cake Ordering Mistakes to Avoid in Cebu
 
-Confirm the event date, size, flavour, full price, and handoff plan before expecting the order to be complete. Ask about availability early for a custom design and wait for written confirmation. Double-check names and delivery contact details before paying the deposit.
+Farewell plans can change quickly, and several colleagues may be sending instructions to the bakery. Avoid these common problems by choosing one coordinator and confirming the practical details early.
 
-Keep these reminders in the shared ordering and briefing guides. A unique farewell case needs real documented details and permission, not a generic list rewritten for the occasion.
+**Ordering against a tentative last day.** A final work date can move. Confirm the date with the colleague’s manager or event organizer, and ask the bakery about availability before announcing the plan. If the date is fixed, keep a backup option for the team gathering in case the event itself changes.
+
+**Using a joke or message the colleague may not like.** A private joke can feel wrong in front of the whole office or family. Ask someone who knows the person, choose a tone that fits the audience, and have one organizer approve the exact wording and spelling.
+
+**Sending several conflicting briefs.** A bakery should not have to guess whether the team wants the colour from one image and lettering from another. Gather preferences, select one reference, and tell the bakery what is essential versus flexible.
+
+**Forgetting who will receive the cake.** A surprise may be spoiled if the departing colleague answers the delivery call. Name a discreet receiver, share the building entrance and mobile number, and appoint a backup.
+
+**Assuming last-minute changes are possible.** Availability depends on the date and requested design. Confirm lead time, size, flavour, price, deposit, and pickup or delivery before payment. Check that the written confirmation reflects the final order. For a reliable process, see the [cake ordering guide](/journal/how-to-order.html) and [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Cebuano
+
+# Mga Sayop sa Pag-order og Farewell Cake nga Likayan sa Cebu
+
+Mahimong dali mausab ang plano sa despedida ug daghang kauban ang mopadala og instruksyon sa panaderya. Likayi kining kasagarang problema pinaagi sa pagpili og usa ka coordinator ug pagklaro daan sa praktikal nga detalye.
+
+**Pag-order base sa petsa sa trabaho nga wala pa pinal.** Mahimong mausab ang kataposang adlaw. Kumpirmaha ang petsa sa manager o organizer ug pangutan-a ang panaderya sa availability sa dili pa ipahibalo ang plano. Kung pirmi na ang petsa, pag-andam og backup nga adlaw sa tapok kon mausab ang event.
+
+**Paggamit og joke o mensahe nga dili ganahan ang kauban.** Mahimong dili angay ang personal nga joke atubangan sa tibuok opisina o pamilya. Pangutan-a ang nakaila niya, pagpili og tono nga angay sa mga bisita ug pasapta sa usa ka organizer ang eksaktong mensahe ug spelling.
+
+**Pagpadala og nagkasumpaking brief.** Dili angay mangagpas ang panaderya kung kolor ba sa usa ka litrato ug letra sa lain ang gusto sa team. Tigoma ang gusto sa grupo, pagpili og usa ka reference ug isulti unsay kinahanglan ug unsay mahimong usbon.
+
+**Pagkalimot kinsa ang modawat sa cake.** Mahimong mabutyag ang sorpresa kon ang mobiya mismo motubag sa tawag sa delivery. Pagngalan og sekretong modawat, ihatag ang entrance sa building ug mobile number, ug pag-andam og backup.
+
+**Pagtuo nga mahimo ang kausaban sa kataposang minuto.** Magdepende sa petsa ug disenyo ang availability. Kumpirmaha ang lead time, gidak-on, flavour, presyo, deposito ug pickup o delivery sa dili pa mobayad. Susiha nga sakto ang pinal nga order sa sinulat nga kumpirmasyon. Para sa kasaligan nga proseso, tan-awa ang [cake ordering guide](/journal/how-to-order.html) ug [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Tagalog
+
+# Mga Pagkakamali sa Pag-order ng Farewell Cake na Dapat Iwasan sa Cebu
+
+Maaaring mabilis magbago ang farewell plan, at ilang katrabaho ang maaaring nagpapadala ng tagubilin sa bakery. Iwasan ang mga karaniwang problema sa pamamagitan ng pagtatalaga ng iisang coordinator at maagang paglilinaw sa mga praktikal na detalye.
+
+**Pag-order batay sa hindi pa pinal na huling araw.** Maaaring magbago ang huling petsa sa trabaho. Kumpirmahin ito sa manager o event organizer ng katrabaho at itanong sa bakery ang availability bago ipahayag ang plano. Kung tiyak ang petsa, maghanda ng backup na araw para sa pagtitipon kung sakaling magbago ang event.
+
+**Paggamit ng biro o mensaheng maaaring hindi magustuhan ng katrabaho.** Maaaring hindi bagay ang private joke sa harap ng buong opisina o pamilya. Tanungin ang taong nakakakilala sa kanya, pumili ng tonong babagay sa audience, at magtalaga ng isang organizer na aapruba sa eksaktong wording at spelling.
+
+**Pagpapadala ng magkakasalungat na brief.** Hindi dapat manghula ang bakery kung kulay mula sa isang larawan at lettering mula sa iba ang gusto ng team. Tipunin ang mga preference, pumili ng isang reference, at sabihin kung ano ang kailangang manatili at ano ang puwedeng baguhin.
+
+**Pagkalimot kung sino ang tatanggap sa cake.** Maaaring masira ang sorpresa kung sasagutin ng aalis na katrabaho ang tawag sa delivery. Magtalaga ng discreet na tatanggap, ibigay ang pasukan ng building at mobile number, at magtalaga ng backup.
+
+**Pag-aakalang posible ang last-minute changes.** Nakasalalay ang availability sa petsa at hinihinging disenyo. Kumpirmahin ang lead time, sukat, flavour, presyo, deposit, at pickup o delivery bago magbayad. Tingnan kung tama ang pinal na order sa nakasulat na confirmation. Para sa maaasahang proseso, tingnan ang [cake ordering guide](/journal/how-to-order.html) at [farewell cake guide](/journal/farewell-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang pagpadala og nagkasagol nga mensahe mahitungod sa nakadawat ug sa panamilit nga mga pulong
-
-Ang usa ka panamilit nga cake kinahanglan nga klaro kung kinsa ang mobiya ug kinsa ang naghatag sa cake. Hangyoa ang usa ka organizer sa pagpundok sa mga ngalan, pagkumpirma sa eksakto nga mensahe, ug ipadala ang usa ka katapusan nga direksyon sa disenyo. Kung gusto sa mga kauban nga magdugang og logo o sulod nga joke, susiha ang pag-apruba ug siguroha nga ang cake adunay luna alang niini.
-
-Kumpirma ang petsa sa panghitabo, gidak-on, lami, bug-os nga presyo, ug handoff nga plano sa dili pa magdahom nga makompleto ang order. Pangutan-a mahitungod sa pagkaanaa sa sayo alang sa usa ka custom nga disenyo ug paghulat alang sa sinulat nga kumpirmasyon. Pag-double check sa mga ngalan ug mga detalye sa pagkontak sa pagpadala sa dili pa mobayad sa deposito.
-
-Itago kini nga mga pahinumdom sa gipaambit nga mga giya sa pag-order ug pagpahibalo. Ang usa ka talagsaon nga kaso sa panamilit nanginahanglan tinuod nga dokumentado nga mga detalye ug pagtugot, dili usa ka generic nga lista nga gisulat pag-usab alang sa okasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasan ang pagpapadala ng magkahalong mensahe tungkol sa tatanggap at paalam na salita
-
-Dapat linawin ng isang farewell cake kung sino ang aalis at kung sino ang nagbibigay ng cake. Hilingin sa isang organizer na magtipon ng mga pangalan, kumpirmahin ang eksaktong mensahe, at magpadala ng isang panghuling direksyon sa disenyo. Kung gusto ng mga kasamahan na magdagdag ng logo o inside joke, tingnan ang pag-apruba at tiyaking may espasyo ang cake para dito.
-
-Kumpirmahin ang petsa ng kaganapan, laki, lasa, buong presyo, at handoff na plano bago asahan na kumpleto ang order. Magtanong tungkol sa availability nang maaga para sa isang custom na disenyo at maghintay para sa nakasulat na kumpirmasyon. I-double check ang mga pangalan at mga detalye ng contact sa paghahatid bago bayaran ang deposito.
-
-Panatilihin ang mga paalala na ito sa nakabahaging mga gabay sa pag-order at briefing. Ang isang natatanging kaso ng paalam ay nangangailangan ng mga tunay na nakadokumentong detalye at pahintulot, hindi isang generic na listahan na muling isinulat para sa okasyon.
+- Confirm current lead times, available products, price, deposit, and delivery arrangements before publication.
+- Cebuano and Tagalog drafts need native editorial review.

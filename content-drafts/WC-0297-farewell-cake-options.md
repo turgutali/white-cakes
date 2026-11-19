@@ -1,44 +1,63 @@
 ---
 id: WC-0297
-status: written-draft
-publish_action: merge into /journal/which-cake.html and /journal/cake-sizes-cebu.html
-english_title: "How to compare options for farewell cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa panamilit sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa pamamaalam sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/which-cake.html and /journal/farewell-cake-cebu.html
+english_title: "How to Compare Cake Options for a Farewell in Cebu"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian nga Cake para sa Farewell sa Cebu"
+tagalog_title: "Paano Paghambingin ang mga Pagpipiliang Cake para sa Farewell sa Cebu"
 ---
 
-## Compare farewell-cake formats by the size of the send-off
+## English
 
-For a private goodbye, a 4-inch Bento may suit a small group and has room for a short message. It serves two generously or three modestly. For an office send-off or a larger family gathering, compare the 6-inch and 8-inch options using White Cakes' serving guide, then ask the bakery to confirm portions for the actual design.
+# How to Compare Cake Options for a Farewell in Cebu
 
-Style is another difference. Signature Marble is a 6-inch cake with a defined marbled finish; Bouquet Cake has a piped floral look; custom buttercream can follow a simple palette and reference. Choose the format that fits the person leaving and the table where the cake will be shared. Ask for the current quote—Bouquet Cake is quoted on request, and custom design can change the price.
+When comparing cake options for a farewell, begin with how the group will use the cake. A small design with a personal inscription may suit a close team; a larger office send-off may need more servings, a message visible in photos, and a plan to serve several people quickly. Ask the bakery to recommend from products currently available instead of choosing from photos alone.
 
-Send the guest count, date, flavour, exact inscription, and delivery or pickup plan in one message. For an office, include access instructions and a receiver who can meet the driver. At least three days' notice is requested, and the 50% deposit confirms an agreed order.
+Compare these points together:
 
-Keep the choice comparison in the existing cake-style and size pages. Do not create a separate URL for every farewell format when the same menu options are already described elsewhere.
+- **Guest count and service:** Count the people expected at cake time and note whether the cake follows a meal or is the main treat. Ask for serving guidance for each current size.
+- **Message and design space:** Decide if you need one name, a thank-you, or a longer team message. Confirm that the selected cake has room for it and that the decoration method is available.
+- **Flavour and quantity:** Check the current menu and ask whether different flavours or several cakes can be accommodated. Do not assume every option is offered in every size.
+- **Venue and handoff:** Compare pickup with delivery, including the receiving contact, building access, delivery window, and address-based fee.
+- **Total price:** Request the full quote for the same size, flavour, design, inscription, and handoff details before comparing bakeries.
+
+If a colleague is leaving unexpectedly, availability may matter more than an elaborate design. Ask the bakery which practical options fit its schedule and your budget. White Cakes uses hand-piped buttercream and confirms a delivery window, so choose a design and event plan that work with those details. For size and product questions, see the [cake comparison guide](/journal/which-cake.html) and [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian nga Cake para sa Farewell sa Cebu
+
+Sa pagtandi sa cake para sa despedida, sugdi sa unsay buhaton sa grupo niini. Mahimong angay ang gamay nga disenyo nga naay personal nga mensahe para sa suod nga team; ang mas dakong despedida sa opisina mahimong manginahanglan og mas daghang servings, mensaheng makita sa litrato ug dali nga paagi sa pag-serve. Pangutan-a ang panaderya unsang produkto ang anaa karon imbis mopili base lang sa litrato.
+
+Itandi kini nga mga punto:
+
+- **Ihap sa bisita ug pag-serve:** Ihapa ang gipaabot nga naa sa oras sa cake ug timan-i kung human ba sa pagkaon o mao ba kini ang pangunang tam-is. Pangayo og giya sa servings sa matag gidak-on.
+- **Mensahe ug luna sa disenyo:** Desisyoni kung ngalan, pasalamat o taas nga mensahe sa team ang kinahanglan. Kumpirmaha nga adunay luna ug mahimo ang pamaagi sa dekorasyon.
+- **Flavour ug gidaghanon:** Susiha ang kasamtangang menu ug pangutan-a kung mahimo ang lain-laing flavour o daghang cake. Ayaw pagtuo nga anaa ang tanang kapilian sa matag gidak-on.
+- **Venue ug handoff:** Itandi ang pickup ug delivery, lakip ang modawat, access sa building, delivery window ug bayad base sa address.
+- **Tibuok presyo:** Pangayo og kompleto nga quote sa parehas nga gidak-on, flavour, disenyo, inskripsiyon ug paagi sa pagdawat sa dili pa itandi ang mga panaderya.
+
+Kung kalit mobiya ang kauban, mahimong mas importante ang availability kaysa komplikadong disenyo. Pangutan-a ang panaderya unsang praktikal nga kapilian ang mohaom sa iskedyul ug budget. Hand-piped buttercream ang gamit sa White Cakes ug delivery window ang kumpirmahon, busa pagpili og disenyo ug event plan nga mohaom niini. Para sa gidak-on ug produkto, tan-awa ang [cake comparison guide](/journal/which-cake.html) ug [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Tagalog
+
+# Paano Paghambingin ang mga Pagpipiliang Cake para sa Farewell sa Cebu
+
+Sa paghahambing ng mga cake para sa farewell, magsimula sa kung paano gagamitin ng grupo ang cake. Maaaring bagay sa malapit na team ang maliit na disenyo na may personal na inscription; maaaring kailanganin ng mas malaking send-off sa opisina ang mas maraming servings, mensaheng kita sa photos, at planong mabilis maghain sa maraming tao. Itanong sa bakery kung anong produktong available ngayon sa halip na pumili batay lang sa mga larawan.
+
+Paghambingin ang mga puntong ito:
+
+- **Bilang ng bisita at paghahain:** Bilangin ang inaasahang naroon kapag oras na ng cake at tandaan kung pagkatapos ng pagkain o ito ang pangunahing treat. Humingi ng serving guidance para sa bawat kasalukuyang sukat.
+- **Mensahe at espasyo sa disenyo:** Magpasya kung kailangan mo ng pangalan, pasasalamat, o mas mahabang mensahe ng team. Kumpirmahing may puwang ang napiling cake at available ang paraan ng dekorasyon.
+- **Flavour at dami:** Tingnan ang kasalukuyang menu at itanong kung kaya ang magkakaibang flavour o maraming cake. Huwag ipagpalagay na iniaalok ang bawat opsyon sa lahat ng sukat.
+- **Venue at handoff:** Ihambing ang pickup at delivery, kasama ang tatanggap, access sa building, delivery window, at fee batay sa address.
+- **Buong presyo:** Humingi ng kumpletong quote para sa parehong sukat, flavour, disenyo, inscription, at handoff details bago maghambing ng bakery.
+
+Kung biglaang aalis ang katrabaho, maaaring mas mahalaga ang availability kaysa komplikadong disenyo. Itanong sa bakery kung aling praktikal na opsyon ang babagay sa schedule at budget mo. Hand-piped buttercream ang gamit ng White Cakes at delivery window ang kinukumpirma nito, kaya pumili ng disenyo at event plan na babagay sa mga detalyeng iyon. Para sa sukat at produkto, tingnan ang [cake comparison guide](/journal/which-cake.html) at [farewell cake guide](/journal/farewell-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang mga format sa panamilit nga cake pinaagi sa gidak-on sa pagpadala
-
-Alang sa usa ka pribado nga panamilit, ang usa ka 4-pulgada nga Bento mahimong mohaum sa usa ka gamay nga grupo ug adunay lugar alang sa usa ka mubo nga mensahe. Nag-alagad kini sa duha nga madagayaon o tulo nga kasarangan. Alang sa pagpadala sa opisina o mas dako nga panagtapok sa pamilya, itandi ang 6-pulgada ug 8-pulgada nga mga opsyon gamit ang giya sa pagsilbi sa White Cakes, dayon hangyoa ang panaderya sa pagkumpirma sa mga bahin alang sa aktuwal nga disenyo.
-
-Laing kalainan ang estilo. Ang Signature Marble usa ka 6-pulgada nga cake nga adunay gipiho nga marmol nga pagkahuman; Ang Bouquet Cake adunay tubo nga bulak nga hitsura; Ang naandan nga buttercream mahimong magsunod sa usa ka yano nga palette ug pakisayran. Pilia ang format nga mohaum sa tawo nga mobiya ug ang lamesa diin ang cake ipaambit. Pangayo alang sa kasamtangan nga kinutlo-Bouquet Cake gikutlo sa hangyo, ug ang custom nga disenyo makausab sa presyo.
-
-Ipadala ang ihap sa bisita, petsa, lami, eksaktong inskripsiyon, ug plano sa pagpadala o pagkuha sa usa ka mensahe. Alang sa usa ka opisina, ilakip ang mga instruksyon sa pag-access ug usa ka tigdawat nga makigkita sa drayber. Labing menos tulo ka adlaw nga pahibalo ang gihangyo, ug ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order.
-
-Ipadayon ang pagpili nga pagtandi sa kasamtangan nga cake-style ug gidak-on nga mga panid. Ayaw paghimo ug bulag nga URL alang sa matag format sa panamilit kung ang parehas nga mga kapilian sa menu gihulagway na sa ubang lugar.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing ang mga format ng farewell-cake ayon sa laki ng send-off
-
-Para sa isang pribadong paalam, ang isang 4-inch na Bento ay maaaring angkop sa isang maliit na grupo at may puwang para sa isang maikling mensahe. Ito ay nagsisilbi sa dalawa nang mapagbigay o tatlong mahinhin. Para sa isang office send-off o mas malaking pagtitipon ng pamilya, ihambing ang 6-inch at 8-inch na opsyon gamit ang gabay sa paghahatid ng White Cakes, pagkatapos ay hilingin sa panaderya na kumpirmahin ang mga bahagi para sa aktwal na disenyo.
-
-Ang istilo ay isa pang pagkakaiba. Ang Signature Marble ay isang 6-inch cake na may tinukoy na marble finish; Ang Bouquet Cake ay may piped floral look; ang custom na buttercream ay maaaring sumunod sa isang simpleng palette at reference. Piliin ang format na akma sa taong aalis at ang talahanayan kung saan ibabahagi ang cake. Hilingin ang kasalukuyang quote—Ang Bouquet Cake ay sinipi kapag hiniling, at maaaring baguhin ng custom na disenyo ang presyo.
-
-Ipadala ang bilang ng bisita, petsa, lasa, eksaktong inskripsiyon, at plano sa paghahatid o pagkuha sa isang mensahe. Para sa isang opisina, isama ang mga tagubilin sa pag-access at isang receiver na maaaring makipagkita sa driver. Ang hindi bababa sa tatlong araw na paunawa ay hinihiling, at ang 50% na deposito ay nagkukumpirma ng isang napagkasunduang order.
-
-Panatilihin ang mapagpipiliang paghahambing sa kasalukuyang mga pahina ng istilo ng cake at laki. Huwag gumawa ng hiwalay na URL para sa bawat format ng paalam kapag ang parehong mga opsyon sa menu ay inilarawan na sa ibang lugar.
+- Confirm current products, flavours, serving guidance, decoration methods, schedule, delivery availability, and pricing before publication.
+- Cebuano and Tagalog drafts need native editorial review.

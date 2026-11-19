@@ -1,44 +1,51 @@
 ---
 id: WC-0282
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to coordinate retirement cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa pagretiro sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa pagreretiro sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html and /journal/retirement-cake-cebu.html
+english_title: "Coordinating a Retirement Cake with the Event Organizer in Cebu"
+cebuano_title: "Pag-coordinate sa Retirement Cake uban sa Organizer sa Event sa Cebu"
+tagalog_title: "Pag-coordinate ng Retirement Cake sa Event Organizer sa Cebu"
 ---
 
-## Coordinate a retirement cake handoff at home or work
+## English
 
-Choose one person who will receive the cake and know the event schedule. Give White Cakes the complete destination, landmark, receiver's mobile number, and any gate or office instructions. Confirm the delivery window and address-based fee. If the celebration is at work, check which entrance the driver should use and who can accept the box.
+# Coordinating a Retirement Cake with the Event Organizer in Cebu
 
-Plan where the cake will wait before the gathering begins. Keep it level and away from direct sunlight and heat; ask the bakery about refrigeration if there will be a delay. Do not leave it unattended in an office lobby or vehicle.
+The cake order can become confusing when the celebrant, office organizer, family, and bakery are all receiving different updates. Pick one order contact who gathers decisions and sends the approved details to the bakery. That person should also share the final confirmation with whoever pays, receives the delivery, and runs the event. Everyone can contribute ideas, but only one copy of the order should be treated as final.
 
-Send the date, size, flavour, design, inscription, and serving estimate with the enquiry. Confirm the final quote and that the requested design is feasible. White Cakes requires at least three days' notice for made-to-order cakes. Its 50% deposit confirms the agreed order after delivery and design terms are settled.
+Make a simple event handoff plan. Record the time the cake should be served, the bakery’s confirmed delivery window or pickup time, the entrance or lobby where it will arrive, and the name and phone number of the receiver. Add who will take the cake to the serving room, who will place it on the table, and who will cut it. For an office send-off, check with the building administrator about visitor passes, loading access, or elevator instructions before event day.
 
-Use this as a practical note in the general delivery guide. Publish a venue-specific case only if the actual delivery details are verified and images are approved.
+If the celebration is a surprise, separate the confidential event plan from the order messages the celebrant might see. Use a reliable colleague or relative as receiver and confirm they can be at the handoff point. Include a backup contact if the first person may be in a meeting. White Cakes provides a delivery window, so schedule the reveal and speeches with flexibility rather than promising an exact arrival minute.
+
+Before the order is paid, the organizer should verify the date, flavour, cake size, inscription spelling, design notes, quote, and receiving arrangement. Share the final written version with all people who need to act on it. For practical route and handoff guidance, see the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) and [retirement cake guide](/journal/retirement-cake-cebu.html).
+
+## Cebuano
+
+# Pag-coordinate sa Retirement Cake uban sa Organizer sa Event sa Cebu
+
+Mahimong maglibog ang order sa cake kung lahi-lahi og update ang celebrant, organizer sa opisina, pamilya ug panaderya. Pagpili og usa ka order contact nga motigom sa desisyon ug mopadala sa giaprobahang detalye sa panaderya. Ipaambit usab niya ang pinal nga kumpirmasyon sa mobayad, modawat sa delivery ug modumala sa event. Makahatag og ideya ang tanan, apan usa ra ka kopya sa order ang isipon nga pinal.
+
+Paghimo og yano nga plano sa handoff sa event. Isulat ang oras nga i-serve ang cake, nakumpirmang delivery window o oras sa pickup, entrance o lobby nga adtoan, ug ngalan ug numero sa modawat. Idugang kinsa ang modala niini sa kwarto sa event, kinsa ang mobutang sa lamesa ug kinsa ang mohiwa. Para sa despedida sa opisina, pangutan-a daan ang building administrator bahin sa visitor pass, access sa loading o instruksyon sa elevator.
+
+Kung surprise ang selebrasyon, ibulag ang tinagong plano sa event sa mensahe bahin sa order nga basin makita sa celebrant. Paggamit og kasaligan nga kauban o paryente isip modawat ug kumpirmaha nga naa siya sa handoff point. Idugang ang backup contact kung mahimong naa sa meeting ang una. Delivery window ang ihatag sa White Cakes, busa ihaom nga flexible ang reveal ug mga speech imbis mosaad og eksaktong minuto sa pag-abot.
+
+Sa dili pa mobayad, susihon sa organizer ang petsa, flavour, gidak-on, spelling sa inskripsiyon, detalye sa disenyo, quote ug paagi sa pagdawat. Ipaambit ang pinal nga sinulat nga bersyon sa tanang tawo nga kinahanglan molihok base niini. Para sa praktikal nga giya sa ruta ug handoff, tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) ug [retirement cake guide](/journal/retirement-cake-cebu.html).
+
+## Tagalog
+
+# Pag-coordinate ng Retirement Cake sa Event Organizer sa Cebu
+
+Maaaring maging magulo ang cake order kapag magkakaibang update ang natatanggap ng celebrant, office organizer, pamilya, at bakery. Pumili ng iisang order contact na mangongolekta ng mga desisyon at magpapadala ng aprubadong detalye sa bakery. Dapat ding ibahagi ng taong iyon ang pinal na confirmation sa magbabayad, tatanggap ng delivery, at mamamahala sa event. Maaaring magbigay ng ideya ang lahat, pero iisang kopya lang ng order ang dapat ituring na pinal.
+
+Gumawa ng simpleng event handoff plan. Itala kung anong oras ihahain ang cake, nakumpirmang delivery window o pickup time, pasukan o lobby na pagdadalhan, at pangalan at numero ng tatanggap. Idagdag kung sino ang magdadala sa cake sa event room, maglalagay nito sa mesa, at maghihiwa. Para sa send-off sa opisina, itanong muna sa building administrator ang tungkol sa visitor pass, loading access, o tagubilin sa elevator.
+
+Kung sorpresa ang selebrasyon, ihiwalay ang kumpidensiyal na event plan sa mga mensahe tungkol sa order na maaaring makita ng celebrant. Magtalaga ng mapagkakatiwalaang katrabaho o kamag-anak bilang tatanggap at tiyaking naroon siya sa handoff point. Magdagdag ng backup contact kung maaaring nasa meeting ang una. Delivery window ang ibinibigay ng White Cakes, kaya panatilihing flexible ang reveal at mga speech sa halip na mangako sa eksaktong minuto ng dating.
+
+Bago bayaran ang order, dapat tiyakin ng organizer ang petsa, flavour, sukat ng cake, spelling ng inscription, design notes, quote, at receiving arrangement. Ibahagi ang pinal na nakasulat na bersyon sa lahat ng kailangang kumilos batay rito. Para sa praktikal na gabay sa ruta at handoff, tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) at [retirement cake guide](/journal/retirement-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-coordinate sa usa ka retirement cake handoff sa balay o trabaho
-
-Pagpili usa ka tawo nga makadawat sa cake ug nahibal-an ang iskedyul sa kalihokan. Ihatag ang White Cakes sa kompleto nga destinasyon, landmark, mobile number sa receiver, ug bisan unsang instruksiyon sa gate o opisina. Kumpirma ang delivery window ug address-based fee. Kung ang selebrasyon naa sa trabaho, susiha kung unsang agianan ang kinahanglan gamiton sa drayber ug kung kinsa ang makadawat sa kahon.
-
-Planoha kung asa maghulat ang cake sa dili pa magsugod ang panagtapok. Ipabilin kini nga patag ug layo sa direktang kahayag sa adlaw ug kainit; pangutan-a ang bakery bahin sa refrigeration kung adunay malangan. Ayaw kini ibilin nga wala maatiman sa usa ka lobby sa opisina o awto.
-
-Ipadala ang petsa, gidak-on, lami, disenyo, inskripsiyon, ug banabana sa pagserbisyo uban sa pangutana. Kumpirma ang katapusang kinutlo ug nga ang gihangyo nga disenyo mahimo. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake. Ang 50% nga deposito niini nagpamatuod sa gikasabutan nga order human masulbad ang mga termino sa paghatud ug disenyo.
-
-Gamita kini isip praktikal nga nota sa kinatibuk-ang giya sa paghatod. Pag-publish ug kaso nga espesipiko sa lugar kung ang aktuwal nga mga detalye sa pagpadala mapamatud-an ug maaprobahan ang mga imahe.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-coordinate ng retirement cake handoff sa bahay o trabaho
-
-Pumili ng isang tao na tatanggap ng cake at alam ang iskedyul ng kaganapan. Ibigay sa White Cakes ang kumpletong destinasyon, landmark, mobile number ng receiver, at anumang mga tagubilin sa gate o opisina. Kumpirmahin ang palugit ng paghahatid at bayad na nakabatay sa address. Kung ang pagdiriwang ay nasa trabaho, suriin kung aling pasukan ang dapat gamitin ng driver at kung sino ang maaaring tumanggap ng kahon.
-
-Planuhin kung saan maghihintay ang cake bago magsimula ang pagtitipon. Panatilihin itong patag at malayo sa direktang sikat ng araw at init; tanungin ang panaderya tungkol sa pagpapalamig kung magkakaroon ng pagkaantala. Huwag iwanan itong walang bantay sa lobby ng opisina o sasakyan.
-
-Ipadala ang petsa, laki, lasa, disenyo, inskripsiyon, at pagtatantya ng paghahatid kasama ang pagtatanong. Kumpirmahin ang huling quote at ang hiniling na disenyo ay magagawa. Ang mga White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Kinukumpirma ng 50% na deposito nito ang napagkasunduang order pagkatapos ma-settle ang mga tuntunin sa paghahatid at disenyo.
-
-Gamitin ito bilang praktikal na tala sa pangkalahatang gabay sa paghahatid. Mag-publish lamang ng kaso na partikular sa lugar kung ang mga aktwal na detalye ng paghahatid ay na-verify at naaprubahan ang mga larawan.
+- Confirm current delivery window practices, pickup instructions, and venue access requirements before publication.
+- Cebuano and Tagalog drafts need native editorial review.

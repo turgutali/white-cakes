@@ -1,44 +1,51 @@
 ---
 id: WC-0283
-status: draft-needs-original-closeup
-publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "Design details to consider for retirement cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa pagretiro sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa pagreretiro sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html and /journal/retirement-cake-cebu.html
+english_title: "Retirement Cake Design Details to Decide Before You Order"
+cebuano_title: "Mga Detalye sa Disenyo sa Retirement Cake nga Desisyunan sa Dili pa Mag-order"
+tagalog_title: "Mga Detalye sa Disenyo ng Retirement Cake na Dapat Pagpasiyahan Bago Mag-order"
 ---
 
-## Choose retirement-cake details that feel specific to the person
+## English
 
-Think about the retiree's interests, work, or next chapter before choosing a generic “Happy Retirement” decoration. One small motif or a short message can make the design personal without crowding the surface. Ask colleagues or family to agree on the main idea before sending references.
+# Retirement Cake Design Details to Decide Before You Order
 
-Describe the design in a few priorities and provide the exact inscription. If you want a company logo, use approved artwork and confirm permission. Send one reference photo, identify what should be adapted, and ask White Cakes whether the design is feasible for the cake size and budget.
+Before ordering a retirement cake in Cebu, decide which design details the bakery needs to know and which can be left to the decorator. A focused brief is easier to confirm than a list of every element you have seen online.
 
-Include the event date, flavour, size, and the number of people who will actually eat cake. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Confirm the delivery window and office or venue receiver. White Cakes requires at least three days' notice; a 50% deposit confirms the agreed order after terms are settled.
+Start with the event’s tone: warm and personal, playful among close colleagues, or formal for a larger audience. Choose one main visual direction and a supporting detail. That could be a restrained palette plus a small hobby motif, or a simple buttercream finish with a prominent message. Tell the bakery what the design should communicate—gratitude, a new beginning, or a lighthearted farewell—so the decoration supports the occasion rather than merely filling space.
 
-Add a design close-up only if it shows a real, permission-cleared White Cakes cake and the detail is accurately identified. Otherwise, keep the advice in the existing design guide.
+Next, prioritize the physical details. Decide the exact name or title to use, message length, preferred colours, and whether the cake needs to coordinate with a table or event theme. Keep essential lettering readable and verify spelling before confirmation. If you are requesting a company logo, a photo, a topper, or a character, ask whether it can be produced and whether the company or rights holder must approve it. White Cakes decorates with hand-piped buttercream, so the bakery should confirm what can be adapted to that method.
+
+Use reference photos to show mood and layout, then identify which feature matters most. Avoid combining a piped buttercream example with an image of printed fondant and assuming both can be made the same way. Ask the baker to confirm the final design notes and quote for the selected size. For a structured brief, see the [custom cake guide](/journal/how-to-brief-a-custom-cake-cebu.html) and [cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo sa Retirement Cake nga Desisyunan sa Dili pa Mag-order
+
+Sa dili pa mag-order og retirement cake sa Cebu, desisyoni unsang detalye sa disenyo ang kinahanglan mahibaloan sa panaderya ug unsay mahimong ipili sa decorator. Mas sayon kumpirmahon ang klarong brief kaysa lista sa tanang nakita nimo online.
+
+Sugdi sa tono sa event: mainiton ug personal, kataw-anan para sa suod nga kauban, o pormal para sa mas daghang bisita. Pagpili og usa ka nag-unang direksiyon ug usa ka suportang detalye. Mahimong yano nga palette ug gamay nga hobby motif, o limpyo nga buttercream finish nga klaro ang mensahe. Isulti sa panaderya unsay ipasabot sa disenyo—pasalamat, bag-ong sinugdanan o gaan nga panamilit—aron masuportahan sa dekorasyon ang okasyon ug dili lang mapuno ang luna.
+
+Sunod, unaha ang pisikal nga detalye. Desisyoni ang eksaktong ngalan o titulo, gitas-on sa mensahe, gustong kolor ug kung ihaom ba ang cake sa dekorasyon sa lamesa o theme sa event. Himoang mabasa ang importanteng teksto ug susiha ang spelling sa dili pa mokumpirma. Kung mangayo og logo sa kompanya, litrato, topper o karakter, pangutan-a kung mahimo ba ug kung kinahanglan og pagtugot sa kompanya o tag-iya sa katungod. Hand-piped buttercream ang gamit sa White Cakes, busa kinahanglan kumpirmahon sa panaderya unsay mapaangay niini.
+
+Gamita ang reference photo sa pagpakita sa mood ug layout, dayon ipatin-aw unsang feature ang labing importante. Ayaw pagsagol og buttercream reference ug litrato sa printed fondant nga nagtuo nga pareho sila mahimo. Hangyoa ang baker nga kumpirmahon ang pinal nga detalye ug quote para sa napiling gidak-on. Para sa organisadong brief, tan-awa ang [custom cake guide](/journal/how-to-brief-a-custom-cake-cebu.html) ug [cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye sa Disenyo ng Retirement Cake na Dapat Pagpasiyahan Bago Mag-order
+
+Bago mag-order ng retirement cake sa Cebu, pagpasiyahan kung aling detalye ng disenyo ang kailangang malaman ng bakery at alin ang maaaring ipaubaya sa decorator. Mas madaling kumpirmahin ang malinaw na brief kaysa listahan ng lahat ng nakita mo online.
+
+Magsimula sa tono ng event: mainit at personal, playful para sa malalapit na katrabaho, o pormal para sa mas malaking audience. Pumili ng pangunahing direksiyon at isang suportang detalye. Maaaring payak na palette na may maliit na hobby motif, o malinis na buttercream finish na may malinaw na mensahe. Sabihin sa bakery kung ano ang dapat ipahiwatig ng disenyo—pasasalamat, bagong simula, o magaan na pamamaalam—para suportahan ng dekorasyon ang okasyon at hindi lang punuin ang espasyo.
+
+Pagkatapos, unahin ang mga pisikal na detalye. Tukuyin ang eksaktong pangalang o titulong gagamitin, haba ng mensahe, gustong kulay, at kung kailangang umayon ang cake sa mesa o event theme. Panatilihing nababasa ang mahalagang text at tiyakin ang spelling bago magkumpirma. Kung humihingi ka ng company logo, larawan, topper, o character, itanong kung kaya itong gawin at kung kailangan ng pahintulot ng kumpanya o rights holder. Hand-piped buttercream ang gamit ng White Cakes, kaya dapat kumpirmahin ng bakery kung ano ang maaaring iangkop dito.
+
+Gamitin ang reference photos para ipakita ang mood at layout, saka tukuyin kung aling feature ang pinakamahalaga. Huwag pagsamahin ang buttercream reference at larawang printed fondant at ipagpalagay na magagawa ang dalawa sa parehong paraan. Hilinging kumpirmahin ng baker ang pinal na design notes at quote para sa napiling sukat. Para sa organisadong brief, tingnan ang [custom cake guide](/journal/how-to-brief-a-custom-cake-cebu.html) at [cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pilia ang mga detalye sa retirement-cake nga gibati nga espesipiko sa tawo
-
-Hunahunaa ang mga interes, trabaho, o sunod nga kapitulo sa retiree sa dili pa mopili og generic nga “Malipayong Pagretiro” nga dekorasyon. Ang usa ka gamay nga motif o usa ka mubo nga mensahe makahimo sa disenyo nga personal nga dili maghuot sa nawong. Hangyoa ang mga kauban o pamilya nga magkauyon sa panguna nga ideya sa dili pa magpadala mga pakisayran.
-
-Ihulagway ang disenyo sa pipila ka mga prayoridad ug ihatag ang eksaktong inskripsiyon. Kung gusto nimo ang logo sa kompanya, gamita ang giaprubahan nga artwork ug kumpirmahi ang pagtugot. Pagpadala ug usa ka reperensya nga litrato, ilha kung unsa ang angay ipahiangay, ug pangutan-a ang White Cakes kung mahimo ba ang disenyo alang sa gidak-on ug badyet sa cake.
-
-Ilakip ang petsa sa panghitabo, lami, gidak-on, ug ang gidaghanon sa mga tawo nga mokaon gyud ug cake. Ang kasamtangan nga mga banabana mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kumpirma ang delivery window ug opisina o venue receiver. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order human masulbad ang mga termino.
-
-Pagdugang og usa ka disenyo nga close-up lang kon kini nagpakita og tinuod, permiso-cleared nga White Cakes nga cake ug ang detalye tukma nga giila. Kung dili, itago ang tambag sa kasamtangan nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng mga detalye ng retirement-cake na tiyak sa tao
-
-Pag-isipan ang mga interes, trabaho, o susunod na kabanata ng nagretiro bago pumili ng pangkaraniwang dekorasyong "Maligayang Pagreretiro." Ang isang maliit na motif o isang maikling mensahe ay maaaring gawing personal ang disenyo nang hindi sumisiksik sa ibabaw. Hilingin sa mga kasamahan o pamilya na magkasundo sa pangunahing ideya bago magpadala ng mga sanggunian.
-
-Ilarawan ang disenyo sa ilang mga priyoridad at ibigay ang eksaktong inskripsiyon. Kung gusto mo ng logo ng kumpanya, gumamit ng aprubadong likhang sining at kumpirmahin ang pahintulot. Magpadala ng isang reference na larawan, tukuyin kung ano ang dapat iakma, at tanungin ang White Cake kung ang disenyo ay magagawa para sa laki at badyet ng cake.
-
-Isama ang petsa ng kaganapan, lasa, laki, at ang bilang ng mga taong talagang kakain ng cake. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin ang delivery window at opisina o venue receiver. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang mga tuntunin.
-
-Magdagdag lang ng close-up na disenyo kung nagpapakita ito ng tunay na White Cakes na may pahintulot na cake at tumpak na natukoy ang detalye. Kung hindi, panatilihin ang payo sa kasalukuyang gabay sa disenyo.
+- Verify current decoration methods, logo/character handling, size, and pricing before publication.
+- Cebuano and Tagalog drafts need native editorial review.

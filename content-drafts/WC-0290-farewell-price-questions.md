@@ -1,44 +1,51 @@
 ---
 id: WC-0290
-status: written-draft
-publish_action: merge into /journal/cake-prices-cebu.html
-english_title: "What to ask about the price of farewell cake in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa panamilit sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa pamamaalam sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-prices-cebu.html and /journal/farewell-cake-cebu.html
+english_title: "What to Ask About a Farewell Cake Price in Cebu"
+cebuano_title: "Unsa ang Pangutan-on Bahin sa Presyo sa Farewell Cake sa Cebu"
+tagalog_title: "Ano ang Itatanong Tungkol sa Presyo ng Farewell Cake sa Cebu"
 ---
 
-## Ask for a farewell-cake quote based on the team plan
+## English
 
-Send the event date, size, flavour, number of colleagues who will eat cake, design reference, inscription, and office delivery address. A cake with simple lettering may be priced differently from a custom illustration or company logo. Ask White Cakes for a quote for the exact request and confirm the logo is approved for use.
+# What to Ask About a Farewell Cake Price in Cebu
 
-The current menu lists 6-inch custom cakes at ₱1,399 through January 15, 2027, then ₱1,799. The 8-inch price is ₱1,999 through January 15 and ₱2,599 from January 16. These date-sensitive amounts must be checked on the live menu before ordering or publication. Ask whether the custom design and delivery affect the total.
+To compare farewell-cake prices fairly, ask each bakery to quote the same order. Include the event date, the number of people expected at cake time, preferred size or a request for size advice, current-menu flavour, design idea, exact message, and whether you need pickup or delivery. If you ask one bakery for a simple inscription and another for a custom design, the amounts will not be an apples-to-apples comparison.
 
-Current portion estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Confirm the size with the bakery. Verify the office handoff, delivery window, and fee. Allow at least three days' notice and use the 50% deposit to secure the agreed order.
+Ask what the quote includes. Confirm the cake size and flavour, hand-piped decoration or other agreed details, inscription, any topper or special element, and packaging. If the design refers to a company brand, ask how it will be represented and whether an approval is needed. White Cakes uses hand-piped buttercream and does not list printed edible logo sheets in current information; confirm the feasible approach before comparing the cost.
 
-Keep current amounts in the central price guide and update them when the menu changes.
+For delivery, provide the complete address and ask whether the location is served, how the fee is calculated, and what handoff information the driver needs. A farewell at an office may involve a lobby, tower, loading bay, or visitor procedure. Ask whether pickup is possible, too, and compare the time and transport responsibility as part of the plan.
+
+Finally, ask for the full total, deposit amount, accepted payment method, and any change or cancellation conditions in writing. Current White Cakes ordering information states a 50% deposit, but the quote should confirm the terms for the specific order. Keep the final inscription and design notes attached to the price confirmation. For more context, see the [Cebu cake price guide](/journal/cake-prices-cebu.html) and [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Pangutan-on Bahin sa Presyo sa Farewell Cake sa Cebu
+
+Aron patas ang pagtandi sa presyo sa farewell cake, pangayoa sa matag panaderya nga i-quote ang parehas nga order. Iapil ang petsa sa event, gidaghanon sa gipaabot nga bisita sa oras sa cake, gustong gidak-on o pangayo og sugyot, flavour sa kasamtangang menu, ideya sa disenyo, eksaktong mensahe ug pickup o delivery. Dili patas itandi ang quote nga mubo ra ang inskripsiyon sa usa ka panaderya ug custom ang disenyo sa lain.
+
+Pangutan-a unsay apil sa quote. Kumpirmaha ang gidak-on ug flavour, hand-piped nga dekorasyon o ubang nasabutan nga detalye, inskripsiyon, topper o espesyal nga elemento ug packaging. Kung may kalabotan sa brand sa kompanya ang disenyo, pangutan-a unsaon kini pagpakita ug kung kinahanglan ba og pagtugot. Hand-piped buttercream ang gamit sa White Cakes ug wala sa kasamtangang impormasyon ang gi-print nga edible logo sheet; kumpirmaha ang mahimo sa dili pa itandi ang gasto.
+
+Para sa delivery, ihatag ang kompletong address ug pangutan-a kung moabot ba sila didto, unsaon pagkuwenta sa bayad ug unsang detalye sa handoff ang kinahanglan sa driver. Mahimong adunay lobby, tower, loading bay o visitor procedure ang despedida sa opisina. Pangutan-a kung pwede sab ang pickup, ug iapil sa plano ang oras ug responsibilidad sa pagdala.
+
+Sa kataposan, pangayoa sa sinulat ang tibuok total, kantidad sa deposito, gidawat nga paagi sa pagbayad ug kondisyon sa pag-usab o pagkansela. Nagaingon ang kasamtangang ordering information sa White Cakes og 50% nga deposito, apan kinahanglan kumpirmahon sa quote ang kondisyon para sa maong order. Iuban sa kumpirmasyon sa presyo ang pinal nga inskripsiyon ug detalye sa disenyo. Para sa dugang konteksto, tan-awa ang [Cebu cake price guide](/journal/cake-prices-cebu.html) ug [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Itatanong Tungkol sa Presyo ng Farewell Cake sa Cebu
+
+Para patas na maihambing ang presyo ng farewell cake, hilingin sa bawat bakery na mag-quote ng parehong order. Isama ang petsa ng event, tantiya sa dadalo kapag oras na ng cake, gustong sukat o kahilingan para sa size advice, flavour mula sa kasalukuyang menu, ideya sa disenyo, eksaktong mensahe, at kung kailangan ng pickup o delivery. Hindi patas ihambing ang quote para sa simpleng inscription sa isang bakery at custom design sa isa pa.
+
+Itanong kung ano ang kasama sa quote. Kumpirmahin ang sukat at flavour ng cake, hand-piped na dekorasyon o iba pang napagkasunduang detalye, inscription, anumang topper o espesyal na elemento, at packaging. Kung may kaugnayan sa company brand ang disenyo, itanong kung paano ito ipapakita at kung kailangan ng approval. Hand-piped buttercream ang gamit ng White Cakes at hindi nakalista sa kasalukuyang impormasyon nito ang printed edible logo sheet; kumpirmahin muna ang posibleng paraan bago ihambing ang gastos.
+
+Para sa delivery, ibigay ang buong address at itanong kung nagseserbisyo sila roon, paano kinukuwenta ang fee, at anong handoff information ang kailangan ng driver. Maaaring may lobby, tower, loading bay, o visitor procedure ang farewell sa opisina. Itanong din kung posible ang pickup at isama sa plano ang oras at responsibilidad sa pagdadala.
+
+Panghuli, hingin sa sulat ang buong total, halaga ng deposit, tinatanggap na payment method, at anumang tuntunin sa pagbabago o pagkansela. Nakatala sa kasalukuyang ordering information ng White Cakes ang 50% deposit, pero dapat kumpirmahin ng quote ang tuntunin para sa mismong order. Isama ang pinal na inscription at design notes sa price confirmation. Para sa dagdag na konteksto, tingnan ang [Cebu cake price guide](/journal/cake-prices-cebu.html) at [farewell cake guide](/journal/farewell-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo ug panamilit nga cake nga kinutlo base sa plano sa grupo
-
-Ipadala ang petsa sa panghitabo, gidak-on, lami, gidaghanon sa mga kauban nga mokaon og cake, reference sa disenyo, inskripsiyon, ug adres sa pagpadala sa opisina. Ang usa ka cake nga adunay yano nga letra mahimong lahi ang presyo sa usa ka naandan nga ilustrasyon o logo sa kompanya. Pangutan-a ang White Cakes alang sa usa ka kinutlo alang sa eksaktong hangyo ug kumpirmahi nga ang logo aprobahan alang sa paggamit.
-
-Ang karon nga menu naglista sa 6-pulgada nga custom nga mga cake sa ₱1,399 hangtod sa Enero 15, 2027, dayon ₱1,799. Ang 8-pulgada nga presyo maoy ₱1,999 hangtod sa Enero 15 ug ₱2,599 gikan sa Enero 16. Kining sensitibo-sa-date nga mga kantidad kinahanglang susihon diha sa live menu sa dili pa mag-order o ipublikar. Pangutan-a kung ang naandan nga disenyo ug paghatud makaapekto sa kinatibuk-an.
-
-Ang mga banabana sa karon nga bahin mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kumpirma ang gidak-on sa panaderya. I-verify ang handoff sa opisina, delivery window, ug bayad. Tugoti ang labing menos tulo ka adlaw nga pahibalo ug gamita ang 50% nga deposito aron masiguro ang gikasabutan nga order.
-
-Itago ang kasamtangan nga kantidad sa sentro nga giya sa presyo ug i-update kini kung mausab ang menu.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humingi ng farewell-cake quote batay sa plano ng koponan
-
-Ipadala ang petsa ng kaganapan, laki, lasa, bilang ng mga kasamahan na kakain ng cake, sanggunian sa disenyo, inskripsiyon, at address ng paghahatid ng opisina. Maaaring iba ang presyo ng cake na may simpleng letra kumpara sa custom na larawan o logo ng kumpanya. Humingi ng quote sa White Cakes para sa eksaktong kahilingan at kumpirmahin na ang logo ay naaprubahan para sa paggamit.
-
-Ang kasalukuyang menu ay naglilista ng 6-inch na custom na cake sa ₱1,399 hanggang Enero 15, 2027, pagkatapos ay ₱1,799. Ang 8-pulgadang presyo ay ₱1,999 hanggang Enero 15 at ₱2,599 mula Enero 16. Ang mga halagang ito na sensitibo sa petsa ay dapat suriin sa live na menu bago mag-order o maglathala. Tanungin kung ang pasadyang disenyo at paghahatid ay nakakaapekto sa kabuuan.
-
-Ang kasalukuyang mga pagtatantya ng bahagi ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin ang laki sa panaderya. I-verify ang handoff ng opisina, delivery window, at bayad. Magbigay ng hindi bababa sa tatlong araw na paunawa at gamitin ang 50% na deposito upang ma-secure ang napagkasunduang order.
-
-Panatilihin ang mga kasalukuyang halaga sa gitnang gabay sa presyo at i-update ang mga ito kapag nagbago ang menu.
+- Verify current prices, deposit terms, menu, delivery fees, and logo capability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

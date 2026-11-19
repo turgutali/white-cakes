@@ -1,44 +1,58 @@
 ---
 id: WC-0258
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /corporate-cake-orders-cebu/
-english_title: "Which reference photos help when ordering corporate cake in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa opisina sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa opisina sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge this office-cake reference-photo checklist into /journal/corporate-cake-orders-cebu.html and /journal/how-to-brief-a-custom-cake-cebu.html
+english_title: "Which Reference Photos Help When Ordering a Corporate Cake in Cebu?"
+cebuano_title: "Unsang Reference Photo ang Makatabang sa Pag-order og Corporate Cake sa Cebu?"
+tagalog_title: "Aling Reference Photo ang Makakatulong sa Pag-order ng Corporate Cake sa Cebu?"
 ---
 
-## Sending a useful reference for an office cake
+## English
 
-The best corporate cake reference is one clear example, not a large folder of designs that disagree with each other. Pick a photo that shows the visual detail you want the baker to understand—perhaps the colour balance, a piped border, or the scale of the lettering. Then write one sentence about what should carry over and what can change for your company event.
+# Which Reference Photos Help When Ordering a Corporate Cake in Cebu?
 
-White Cakes hand-pipes buttercream designs. Company colours can guide the palette, but the bakery does not print an edible sheet from a digital logo file. If you want a recognisable company look, say which colours matter most and whether the cake should feel formal, playful, or understated. Send a logo only as a visual reference and ask what can be recreated in buttercream before confirming the order.
+The best corporate-cake reference is one clear example of the style you want, not a folder of unrelated designs. Choose a photo that shows the detail the bakery needs to understand: the colour balance, border, lettering, or overall scale. Add one sentence saying what should stay and what can change for your event.
 
-For an office delivery, include the event date, cake size or guest count, flavour, message, full address, landmark, and a named recipient's mobile number. IT Park and other office towers may require lobby or floor access; arrange a pass or reception contact before the driver arrives. The bakery agrees a delivery window, not a minute-specific arrival, so give the receiver enough time to meet the handover.
+White Cakes decorates in hand-piped buttercream. Company colours can guide a palette, but the bakery does not print edible sheets from digital logo files. If you want the cake to feel connected to your company, name the colours that matter and describe the mood—formal, playful, or understated. If you want to use a logo, send it as a visual reference and ask what can be adapted before confirming the order.
 
-If several cakes are being ordered for a team, send the quantity and whether each one needs a different message or flavour. The bakery will confirm what its schedule can accommodate. A 50% deposit confirms an agreed order after the design, price, date, and logistics are clear. Keep this reference-photo advice with the current corporate-order and custom-brief pages; a separate case study should wait for a real reference-to-finished-cake example.
+## Include the office delivery details
+
+Send the event date, guest count, cake size or serving plan, flavour, inscription, full office address, landmark, and the mobile number of the person who will receive it. Office towers may require a visitor pass, lobby contact, or delivery to a particular floor. Arrange those instructions before the driver arrives. White Cakes confirms a delivery window rather than a minute-specific arrival.
+
+If ordering several cakes, state the quantity and whether each needs its own flavour or message. Ask the bakery to confirm what its schedule can accommodate, the final price, and the address-based delivery charge. A 50% deposit confirms the agreed order after the date, design, price, and logistics are clear. See the [corporate cake order guide](/journal/corporate-cake-orders-cebu.html) and [custom brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang Reference Photo ang Makatabang sa Pag-order og Corporate Cake sa Cebu?
+
+Ang labing maayong corporate-cake reference usa ka klarong pananglitan sa estilo nga gusto nimo, dili folder sa nagkalainlaing disenyo. Pagpili og litrato nga nagpakita sa detalye nga kinahanglan masabtan sa panaderya: kombinasyon sa kolor, border, lettering o kinatibuk-ang scale. Idugang ang usa ka sentence nga nag-ingon unsay tipigan ug unsay mahimong usbon para sa inyong event.
+
+Hand-piped buttercream ang dekorasyon sa White Cakes. Makagiya ang kolor sa kompanya sa palette, apan dili sila mo-print og edible sheet gikan sa digital logo file. Kung gusto nimo nga konektado ang cake sa inyong kompanya, isulti ang importanteng kolor ug mood—formal, playful o simple. Kung mogamit og logo, ipadala kini isip visual reference ug pangutan-a unsay mapahiangay sa dili pa kumpirmahon ang order.
+
+## Iapil ang detalye sa delivery sa opisina
+
+Ipadala ang petsa sa event, guest count, gidak-on o serving plan, flavour, inskripsiyon, kompletong address sa opisina, landmark ug mobile number sa modawat. Mahimong manginahanglan og visitor pass, contact sa lobby o delivery sa piho nga floor ang office tower. Ayoha daan ang instruksyon sa dili pa moabot ang driver. Delivery window ang kumpirmahon sa White Cakes, dili eksaktong minuto sa pag-abot.
+
+Kung daghang cake ang orderon, isulti ang gidaghanon ug kung lahi-lahi ba ang flavour o mensahe sa matag usa. Pangayoa nga kumpirmahon sa panaderya ang mahimo sa iskedyul, final nga presyo ug delivery charge base sa address. Ang 50% nga deposito mokumpirma sa napagkasabutang order human maklaro ang petsa, disenyo, presyo ug logistics. Tan-awa ang [corporate cake order guide](/journal/corporate-cake-orders-cebu.html) ug [custom brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling Reference Photo ang Makakatulong sa Pag-order ng Corporate Cake sa Cebu?
+
+Pinakamabuting corporate-cake reference ang isang malinaw na halimbawa ng estilong gusto mo, hindi folder ng magkakaibang disenyo. Pumili ng larawan na nagpapakita ng detalyeng kailangang maunawaan ng bakery: balanse ng kulay, border, lettering, o pangkalahatang scale. Magdagdag ng isang pangungusap kung ano ang dapat panatilihin at ano ang maaaring baguhin para sa event ninyo.
+
+Hand-piped buttercream ang dekorasyon ng White Cakes. Maaaring gumabay sa palette ang kulay ng kumpanya, pero hindi sila nagpi-print ng edible sheet mula sa digital logo file. Kung gusto mong maiugnay ang cake sa kumpanya, sabihin ang mahahalagang kulay at mood—formal, playful, o simple. Kung gagamit ng logo, ipadala ito bilang visual reference at itanong kung ano ang puwedeng iangkop bago kumpirmahin ang order.
+
+## Isama ang detalye ng delivery sa opisina
+
+Ipadala ang petsa ng event, guest count, sukat o serving plan, flavour, inscription, kumpletong address ng opisina, landmark, at mobile number ng tatanggap. Maaaring mangailangan ng visitor pass, lobby contact, o delivery sa partikular na floor ang office tower. Ayusin ang tagubilin bago dumating ang driver. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto ng dating.
+
+Kung maraming cake ang o-orderin, sabihin ang dami at kung magkakaiba ang flavour o mensahe ng bawat isa. Ipasuri sa bakery kung ano ang kayang tanggapin ng schedule, ang final na presyo, at delivery charge ayon sa address. Kinukumpirma ng 50% deposit ang napagkasunduang order kapag malinaw na ang petsa, disenyo, presyo, at logistics. Tingnan ang [corporate cake order guide](/journal/corporate-cake-orders-cebu.html) at [custom brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Nagpadala usa ka mapuslanon nga pakisayran alang sa usa ka cake sa opisina
-
-Ang labing maayo nga corporate cake nga pakisayran usa ka tin-aw nga pananglitan, dili usa ka dako nga folder sa mga disenyo nga dili magkauyon sa usag usa. Pagpili og litrato nga nagpakita sa biswal nga detalye nga gusto nimong masabtan sa panadero—tingali ang balanse sa kolor, usa ka pipe nga utlanan, o ang sukod sa letra. Dayon pagsulat og usa ka sentence mahitungod sa kung unsa ang kinahanglan nga dad-on ug unsa ang mahimong mausab alang sa imong kompanya nga kalihokan.
-
-Mga disenyo sa buttercream nga White Cakes nga hand-pipes. Ang mga kolor sa kompanya makagiya sa palette, apan ang panaderya wala mag-imprinta sa usa ka makaon nga sheet gikan sa digital logo file. Kung gusto nimo ang usa ka mailhan nga hitsura sa kompanya, isulti kung unsang mga kolor ang labing hinungdanon ug kung ang cake ba kinahanglan nga bation nga pormal, dula, o gamay. Pagpadala ug logo isip biswal nga pakisayran ug pangutan-a kung unsa ang mahimo pag-usab sa buttercream sa dili pa kumpirmahon ang order.
-
-Alang sa paghatud sa opisina, iapil ang petsa sa panghitabo, gidak-on sa cake o ihap sa bisita, lami, mensahe, kompleto nga adres, landmark, ug numero sa mobile sa nakadawat. Ang IT Park ug uban pang mga office tower mahimong magkinahanglan og lobby o floor access; paghikay og pass o reception contact sa dili pa moabot ang driver. Ang panaderya miuyon sa usa ka bintana sa pagpadala, dili usa ka minuto nga espesipikong pag-abot, busa hatagi ang tigdawat og igong panahon sa pagsugat sa handover.
-
-Kung daghang mga cake ang gi-order alang sa usa ka team, ipadala ang gidaghanon ug kung ang matag usa kinahanglan usa ka lahi nga mensahe o lami. Ang panaderya mokompirmar kon unsay ma-accommodate sa eskedyul niini. Ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order human klaro ang disenyo, presyo, petsa, ug logistik. Hupti kini nga tambag sa reference-photo uban sa kasamtangan nga corporate-order ug custom-brief nga mga panid; ang usa ka bulag nga case study kinahanglan maghulat alang sa usa ka tinuod nga reference-to-finished-cake nga pananglitan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Nagpapadala ng kapaki-pakinabang na sanggunian para sa isang cake sa opisina
-
-Ang pinakamahusay na corporate cake reference ay isang malinaw na halimbawa, hindi isang malaking folder ng mga disenyo na hindi sumasang-ayon sa isa't isa. Pumili ng larawan na nagpapakita ng visual na detalye na gusto mong maunawaan ng panadero—marahil ang balanse ng kulay, piped na hangganan, o ang sukat ng pagkakasulat. Pagkatapos ay sumulat ng isang pangungusap tungkol sa kung ano ang dapat dalhin at kung ano ang maaaring magbago para sa kaganapan ng iyong kumpanya.
-
-Mga disenyo ng buttercream na hand-pipes ng White Cakes. Ang mga kulay ng kumpanya ay maaaring gabayan ang palette, ngunit ang panaderya ay hindi nagpi-print ng nakakain na sheet mula sa isang digital logo na file. Kung gusto mo ng isang makikilalang hitsura ng kumpanya, sabihin kung aling mga kulay ang pinakamahalaga at kung ang cake ay dapat maging pormal, mapaglaro, o maliit. Magpadala lamang ng logo bilang isang visual na sanggunian at magtanong kung ano ang maaaring gawin muli sa buttercream bago kumpirmahin ang order.
-
-Para sa paghahatid sa opisina, isama ang petsa ng kaganapan, laki ng cake o bilang ng bisita, lasa, mensahe, buong address, landmark, at numero ng mobile ng isang pinangalanang tatanggap. Ang IT Park at iba pang mga office tower ay maaaring mangailangan ng lobby o floor access; ayusin ang pass o reception contact bago dumating ang driver. Ang panaderya ay sumang-ayon sa isang window ng paghahatid, hindi isang minutong partikular na pagdating, kaya bigyan ang receiver ng sapat na oras upang matugunan ang handover.
-
-Kung maraming cake ang ino-order para sa isang team, ipadala ang dami at kung kailangan ng bawat isa ng ibang mensahe o lasa. Kukumpirmahin ng panaderya kung ano ang kayang i-accommodate ng schedule nito. Kinukumpirma ng 50% na deposito ang isang napagkasunduang order pagkatapos malinaw ang disenyo, presyo, petsa, at logistik. Panatilihin itong reference-photo advice kasama ang kasalukuyang corporate-order at custom-brief na pahina; ang isang hiwalay na case study ay dapat maghintay para sa isang tunay na reference-to-finished-cake na halimbawa.
+- Confirm logo/branding capability, order capacity, lead time, delivery areas, and office handover instructions before integration.
+- Do not promise printed edible logos or exact logo reproduction; keep the published buttercream limitation clear.
+- Cebuano and Tagalog copy is newly written but still needs native review.

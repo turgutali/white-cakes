@@ -1,44 +1,51 @@
 ---
 id: WC-0267
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html and /journal/retirement-cake-cebu.html
-english_title: "How to plan the order timeline for retirement cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa pagretiro sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa pagreretiro sa Cebu"
+english_title: "When to Arrange a Retirement Cake in Cebu"
+cebuano_title: "Kanus-a Mag-andam og Retirement Cake sa Cebu"
+tagalog_title: "Kailan Aayusin ang Retirement Cake sa Cebu"
 ---
 
-## Give a retirement-cake order enough time for confirmation
+## English
 
-White Cakes asks for at least three days' notice for a made-to-order cake. For a retirement party, contact the bakery as soon as the date and venue are known. A weekday date still needs availability confirmation; the kitchen cannot reserve a production slot from an unanswered enquiry.
+# When to Arrange a Retirement Cake in Cebu
 
-Send the date, expected guest count, size, flavour, exact inscription, and one reference image. If the design should include a team name or a specific colour, say which part matters most. White Cakes hand-pipes buttercream and can confirm how the request fits the selected size. Ask for the current quote before paying.
+Plan a retirement cake around the date when the celebrant, guests, and venue are all confirmed. The event may be a team lunch, a send-off at the office, or a family gathering after work; each has a different handoff and serving plan. Before contacting the bakery, write down the event date, approximate number of guests at cake time, venue, preferred flavour, and whether you want a name, years of service, or a short farewell message on the cake.
 
-If the cake is going to an office, include the building address, landmark, lobby instructions, and a receiver's mobile number. Confirm the delivery window so the retiree's colleagues can be ready to accept it. If the cake is for a surprise, coordinate through the buyer contact and a separate receiver.
+Ask White Cakes for its current lead-time guidance as soon as the date is known, especially if the cake needs custom decoration or delivery to an office. Availability depends on the requested design and the bakery’s schedule, so do not rely on a generic number of days. If the event date is flexible, ask which nearby dates have capacity before booking the venue or announcing the celebration.
 
-The 50% deposit confirms the agreed order after date, design, price, and logistics are clear. Keep the timing process in the existing Cebu lead-time guide and link it from the retirement page rather than repeating it in a separate timeline article.
+Once the bakery confirms what it can accommodate, settle the details in this order: cake size against its current serving guidance; flavour; design direction; exact inscription and spelling; pickup or delivery; and the full quote. For a workplace send-off, include the office’s receiving instructions and identify someone who can take the cake from the lobby to the event room. White Cakes confirms a delivery window rather than a precise minute, so schedule the speeches or presentation with room for handoff.
+
+Check the written order confirmation before paying the applicable deposit. It should match the date, design notes, message, price, and collection or delivery arrangement you agreed on. For general timing and ordering steps, see the [cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html) and the [retirement cake guide](/journal/retirement-cake-cebu.html).
+
+## Cebuano
+
+# Kanus-a Mag-andam og Retirement Cake sa Cebu
+
+Iplano ang retirement cake kon kumpirmado na ang petsa, celebrant, mga bisita ug venue. Mahimong paniudto sa team, despedida sa opisina, o tapok sa pamilya human sa trabaho; lahi-lahi ang paagi sa pagdawat ug pag-serve niini. Sa dili pa mokontak sa panaderya, isulat ang petsa, banabana sa gidaghanon sa bisita sa oras sa cake, venue, gustong flavour ug kung ibutang ba ang ngalan, gidugayon sa serbisyo o mubo nga mensahe sa panamilit.
+
+Pangayo dayon sa White Cakes sa kasamtangang giya sa lead time kon nahibaloan na ang petsa, labi na kung custom ang dekorasyon o ipadala sa opisina. Magdepende ang availability sa disenyo ug iskedyul sa panaderya, busa ayaw pagsalig sa kinatibuk-ang ihap sa mga adlaw. Kung flexible ang petsa, pangutan-a unsang duol nga mga adlaw ang bakante sa dili pa mag-book og venue o mopahibalo sa selebrasyon.
+
+Human mokumpirma ang panaderya sa mahimo niini, klaroha ang detalye sa mosunod nga han-ay: gidak-on base sa kasamtangang giya sa servings; flavour; direksiyon sa disenyo; eksaktong inskripsiyon ug spelling; pickup o delivery; ug tibuok quote. Para sa despedida sa trabahoan, iapil ang instruksyon sa pagdawat sa opisina ug pagpili og tawo nga modala sa cake gikan sa lobby paingon sa event room. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; pagbilin og igo nga oras sa delivery sa dili pa ang mga speech o presentasyon.
+
+Susiha ang sinulat nga order confirmation sa dili pa mobayad sa angay nga deposito. Kinahanglan motakdo kini sa petsa, detalye sa disenyo, mensahe, presyo ug pickup o delivery nga inyong gisabutan. Para sa kinatibuk-ang timing ug lakang sa order, tan-awa ang [cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html) ug [retirement cake guide](/journal/retirement-cake-cebu.html).
+
+## Tagalog
+
+# Kailan Aayusin ang Retirement Cake sa Cebu
+
+Planuhin ang retirement cake kapag kumpirmado na ang petsa, celebrant, mga dadalo, at venue. Maaaring team lunch, send-off sa opisina, o salu-salo ng pamilya pagkatapos ng trabaho; magkakaiba ang pagtanggap at paghahain sa bawat setup. Bago makipag-ugnayan sa bakery, isulat ang petsa ng event, tantiya sa mga dadalo kapag oras na ng cake, venue, gustong flavour, at kung gusto mo ng pangalan, taon ng serbisyo, o maikling pamamaalam sa cake.
+
+Humingi agad sa White Cakes ng kasalukuyang lead-time guidance kapag alam na ang petsa, lalo na kung custom ang dekorasyon o ihahatid sa opisina. Nakasalalay ang availability sa hinihinging disenyo at schedule ng bakery, kaya huwag umasa sa pangkalahatang bilang ng araw. Kung flexible ang petsa, itanong kung aling malalapit na petsa ang may puwang bago mag-book ng venue o mag-anunsyo ng selebrasyon.
+
+Kapag kinumpirma na ng bakery kung ano ang kaya nitong tanggapin, isaayos ang mga detalye sa ganitong pagkakasunod: sukat ng cake ayon sa kasalukuyang gabay sa servings; flavour; direksiyon ng disenyo; eksaktong inscription at spelling; pickup o delivery; at buong quote. Para sa send-off sa trabaho, isama ang tagubilin sa pagtanggap ng opisina at magtalaga ng taong magdadala sa cake mula lobby papunta sa event room. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya maglaan ng oras bago ang mga speech o presentation.
+
+Suriin ang nakasulat na order confirmation bago magbayad ng naaangkop na deposit. Dapat tumugma rito ang petsa, design notes, mensahe, presyo, at napagkasunduang pickup o delivery. Para sa pangkalahatang timing at mga hakbang sa pag-order, tingnan ang [cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html) at [retirement cake guide](/journal/retirement-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hatagi og retirement-cake order og igong panahon para sa pagkumpirma
-
-Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa usa ka made-to-order nga cake. Para sa retirement party, kontaka ang bakery sa diha nga nahibal-an na ang petsa ug lugar. Ang usa ka adlaw sa semana nga petsa nagkinahanglan gihapon sa pagkumpirma sa pagkaanaa; ang kusina dili makareserba ug production slot gikan sa wala matubag nga pangutana.
-
-Ipadala ang petsa, gipaabot nga ihap sa bisita, gidak-on, lami, eksaktong inskripsiyon, ug usa ka reference nga larawan. Kung ang disenyo kinahanglan nga adunay usa ka ngalan sa team o usa ka piho nga kolor, isulti kung unsang bahin ang labing hinungdanon. White Cakes hand-pipes buttercream ug makumpirma kung giunsa ang hangyo mohaum sa gipili nga gidak-on. Pangutan-a ang kasamtangan nga quote sa dili pa mobayad.
-
-Kung ang cake moadto sa opisina, ilakip ang adres sa bilding, landmark, instruksyon sa lobby, ug numero sa mobile sa receiver. Kumpirma ang delivery window aron ang mga kauban sa retiree mahimong andam sa pagdawat niini. Kung ang cake alang sa usa ka sorpresa, pag-coordinate pinaagi sa kontak sa pumapalit ug usa ka bulag nga tigdawat.
-
-Ang 50% nga deposito nagpamatuod sa gikasabutan nga order human sa petsa, disenyo, presyo, ug logistics klaro. Ipadayon ang proseso sa timing sa kasamtangan nga Cebu lead-time nga giya ug i-link kini gikan sa retirement page imbes nga balikon kini sa lain nga timeline nga artikulo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magbigay ng retirement-cake order ng sapat na oras para sa kumpirmasyon
-
-Ang White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa isang made-to-order na cake. Para sa isang retirement party, makipag-ugnayan sa panaderya sa sandaling malaman ang petsa at lugar. Nangangailangan pa rin ng kumpirmasyon sa availability ang isang araw ng linggo na petsa; ang kusina ay hindi makakapagreserba ng production slot mula sa hindi nasagot na katanungan.
-
-Ipadala ang petsa, inaasahang bilang ng bisita, laki, lasa, eksaktong inskripsiyon, at isang reference na larawan. Kung ang disenyo ay dapat magsama ng pangalan ng koponan o isang partikular na kulay, sabihin kung aling bahagi ang pinakamahalaga. White Cakes hand-pipes buttercream at maaaring kumpirmahin kung paano umaangkop ang kahilingan sa napiling laki. Tanungin ang kasalukuyang quote bago magbayad.
-
-Kung pupunta ang cake sa isang opisina, isama ang address ng gusali, landmark, mga tagubilin sa lobby, at mobile number ng receiver. Kumpirmahin ang window ng paghahatid para maging handa ang mga kasamahan ng retiree na tanggapin ito. Kung ang cake ay para sa isang sorpresa, makipag-ugnayan sa contact ng mamimili at isang hiwalay na receiver.
-
-Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ng petsa, ang disenyo, presyo, at logistik ay malinaw. Panatilihin ang proseso ng timing sa umiiral nang Cebu lead-time na gabay at i-link ito mula sa pahina ng pagreretiro sa halip na ulitin ito sa isang hiwalay na artikulo sa timeline.
+- Confirm current lead time, availability, delivery area, serving guidance, and deposit terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,51 @@
 ---
 id: WC-0296
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Which reference photos help when ordering farewell cake in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa panamilit sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pamamaalam sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/farewell-cake-cebu.html
+english_title: "Which Photos to Send for a Farewell Cake Design in Cebu"
+cebuano_title: "Unsang mga Litrato ang Ipadala para sa Disenyo sa Farewell Cake sa Cebu"
+tagalog_title: "Aling mga Larawan ang Ipapadala para sa Disenyo ng Farewell Cake sa Cebu"
 ---
 
-## Choose reference photos that explain the farewell-cake design
+## English
 
-One clear image is usually more useful than a large album. Pick a photo that shows the feature you care about—perhaps the colour palette, layout, lettering style, or a simple motif. If you send a second image, explain what to take from it. This prevents a brief from asking for several incompatible designs at once.
+# Which Photos to Send for a Farewell Cake Design in Cebu
 
-Tell the bakery what can change. A reference is direction, not a promise of an exact copy; the finished design depends on size, materials, and what White Cakes confirms it can make. Include the event date, flavour, serving estimate, exact message, and whether you want delivery. Farewell inscriptions can be personal, so send the final wording in one message and check spelling before the design is confirmed.
+For a farewell cake in Cebu, send photos that explain the design you want and the person or event it should suit. One clear cake reference is usually enough to show the overall layout. If the design depends on a detail, such as a border, colour combination, or small work-related motif, add one close-up and label the detail you want the decorator to notice.
 
-For a team event, give the number of people who will actually take cake. Current White Cakes estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Allow at least three days for made-to-order work and confirm availability before the 50% deposit.
+Do not send several unrelated cakes without explaining the differences. The bakery cannot know whether you want the colours from one image, lettering from another, and shape from a third. If you have two possible directions, label them “Option A” and “Option B,” state what you like about each, and ask which can be adapted to the selected size. This is especially useful when colleagues have different ideas: appoint one person to collect preferences and send a single agreed reference.
 
-Add a reference-to-finished comparison only when the bakery has a real project and permission to use both images. Otherwise, this advice belongs in the general custom-cake brief guide.
+Keep the images clear and relevant. Crop a screenshot to the design area, but retain enough context to show the full cake shape. Add a short note such as “keep the simple border; use our team’s blue; change the message.” Include the exact farewell wording, cake size or serving question, flavour, date, and pickup or delivery plan in the same brief.
+
+Use your own photos only with permission. Do not present another customer’s cake or a company’s internal image as your own design or event. If a photo includes a logo, name, staff member, or confidential project detail, confirm permission before sharing it. White Cakes uses hand-piped buttercream; reference images can guide the mood but do not guarantee the same materials or exact reproduction. For a reusable order brief, see the [custom cake guide](/journal/how-to-brief-a-custom-cake-cebu.html) and [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Cebuano
+
+# Unsang mga Litrato ang Ipadala para sa Disenyo sa Farewell Cake sa Cebu
+
+Para sa farewell cake sa Cebu, ipadala ang litrato nga nagpasabot sa disenyo nga gusto nimo ug sa tawo o event nga angay niini. Kasagarang igo na ang usa ka klarong reference sa cake aron makita ang kinatibuk-ang layout. Kung importante ang usa ka detalye sama sa border, kombinasyon sa kolor o gamay nga simbolo sa trabaho, dugangi og close-up ug markahi unsa ang kinahanglan tan-awon sa decorator.
+
+Ayaw pagpadala og daghang cake nga walay kalabotan ug walay pagpasabot sa kalainan. Dili mahibalo ang panaderya kung kolor ba sa usa, letra sa lain ug porma sa ikatulo ang gusto nimo. Kung duha ang kapilian, markahi og “Option A” ug “Option B,” isulti unsay gusto nimo sa matag usa ug pangutan-a unsay mapaangay sa napiling gidak-on. Makatabang kini kon nagkalahi ang ideya sa mga kauban: pagtudlo og usa ka tawo nga motigom sa gusto ug mopadala og usa ka nasabutang reference.
+
+Himoang klaro ug may kalabotan ang mga litrato. I-crop ang screenshot sa bahin sa disenyo apan ibilin ang igo nga konteksto aron makita ang porma sa tibuok cake. Idugang ang mubo nga pahinumdom sama sa “tipigi ang yano nga border; gamita ang asul sa team; usba ang mensahe.” Iapil sa samang brief ang eksaktong panamilit, gidak-on o pangutana sa servings, flavour, petsa ug pickup o delivery.
+
+Gamita ang kaugalingong litrato kon adunay pagtugot. Ayaw ipresentar ang cake sa laing kustomer o internal nga litrato sa kompanya isip inyong disenyo o event. Kung adunay logo, ngalan, empleyado o kumpidensiyal nga detalye sa proyekto sa litrato, kumpirmaha ang pagtugot sa dili pa ipaambit. Hand-piped buttercream ang gamit sa White Cakes; makagiya sa mood ang reference apan dili garantiya ang samang materyales o eksaktong kopya. Para sa order brief, tan-awa ang [custom cake guide](/journal/how-to-brief-a-custom-cake-cebu.html) ug [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Tagalog
+
+# Aling mga Larawan ang Ipapadala para sa Disenyo ng Farewell Cake sa Cebu
+
+Para sa farewell cake sa Cebu, magpadala ng mga larawang nagpapaliwanag sa disenyong gusto mo at sa taong o event na babagayan nito. Karaniwang sapat na ang isang malinaw na cake reference para makita ang pangkalahatang layout. Kung nakasalalay ang disenyo sa isang detalye gaya ng border, kombinasyon ng kulay, o maliit na work-related motif, magdagdag ng close-up at markahan kung anong detalye ang dapat pansinin ng decorator.
+
+Huwag magpadala ng maraming cake na walang kaugnayan nang hindi ipinapaliwanag ang pagkakaiba. Hindi malalaman ng bakery kung kulay mula sa isa, lettering mula sa iba, at hugis mula sa ikatlo ang gusto mo. Kung dalawa ang posibleng direksiyon, lagyan ng label na “Option A” at “Option B,” sabihin kung ano ang gusto mo sa bawat isa, at itanong kung alin ang maaaring iangkop sa napiling sukat. Kapaki-pakinabang ito kapag magkakaiba ang ideya ng mga katrabaho: magtalaga ng isang taong mangongolekta ng preference at magpapadala ng iisang napagkasunduang reference.
+
+Panatilihing malinaw at may kaugnayan ang mga larawan. I-crop ang screenshot sa bahagi ng disenyo pero mag-iwan ng sapat na konteksto para makita ang buong hugis ng cake. Magdagdag ng maikling note gaya ng “panatilihin ang simpleng border; gamitin ang asul ng team; palitan ang mensahe.” Isama sa parehong brief ang eksaktong pamamaalam, sukat o tanong tungkol sa servings, flavour, petsa, at pickup o delivery plan.
+
+Gamitin lang ang sarili mong larawan kung may pahintulot. Huwag ipakita ang cake ng ibang customer o internal na larawan ng kumpanya bilang sarili mong disenyo o event. Kung may logo, pangalan, staff member, o kumpidensiyal na detalye ng proyekto ang larawan, kumpirmahin ang pahintulot bago ito ibahagi. Hand-piped buttercream ang gamit ng White Cakes; gabay sa mood ang reference images pero hindi garantiya ng parehong materyales o eksaktong paggaya. Para sa magagamit na order brief, tingnan ang [custom cake guide](/journal/how-to-brief-a-custom-cake-cebu.html) at [farewell cake guide](/journal/farewell-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og reference nga mga litrato nga nagpatin-aw sa disenyo sa panamilit nga cake
-
-Ang usa ka tin-aw nga imahe kasagaran mas mapuslanon kaysa usa ka dako nga album. Pagpili og litrato nga nagpakita sa feature nga imong gimahal—tingali ang color palette, layout, estilo sa letra, o simple nga motif. Kung magpadala ka ug ikaduha nga imahe, ipasabut kung unsa ang kuhaon gikan niini. Gipugngan niini ang usa ka mubo sa pagpangayo og daghang dili magkatugma nga mga disenyo sa usa ka higayon.
-
-Sultihi ang panaderya kon unsay mausab. Ang usa ka pakisayran maoy direksyon, dili usa ka saad sa eksaktong kopya; ang nahuman nga disenyo nagdepende sa gidak-on, mga materyales, ug kung unsa ang gipamatud-an sa White Cakes nga mahimo niini. Ilakip ang petsa sa panghitabo, lami, banabana sa pagserbisyo, eksaktong mensahe, ug kung gusto nimo ipadala. Ang mga inskripsiyon sa panamilit mahimo nga personal, busa ipadala ang katapusang mga pulong sa usa ka mensahe ug susiha ang spelling sa dili pa makumpirma ang disenyo.
-
-Para sa usa ka team event, ihatag ang gidaghanon sa mga tawo nga mokuha gyud ug cake. Ang kasamtangang White Cakes nga gibanabana mao ang 8–12 ka party slices alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Tugoti ang labing menos tulo ka adlaw alang sa hinimo-sa-pag-order nga trabaho ug kumpirmahi ang pagkaanaa sa wala pa ang 50% nga deposito.
-
-Pagdugang usa ka reference-to-finished nga pagtandi lamang kung ang panaderya adunay tinuod nga proyekto ug pagtugot sa paggamit sa duha ka mga hulagway. Kay kon dili, kini nga tambag iya sa kinatibuk-ang custom-cake mubo nga giya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng mga reference na larawan na nagpapaliwanag sa disenyo ng farewell-cake
-
-Ang isang malinaw na larawan ay karaniwang mas kapaki-pakinabang kaysa sa isang malaking album. Pumili ng larawan na nagpapakita ng feature na mahalaga sa iyo—marahil ang color palette, layout, istilo ng pagkakasulat, o isang simpleng motif. Kung magpapadala ka ng pangalawang larawan, ipaliwanag kung ano ang kukunin mula rito. Pinipigilan nito ang maikling paghingi ng ilang hindi tugmang disenyo nang sabay-sabay.
-
-Sabihin sa panaderya kung ano ang maaaring magbago. Ang isang sanggunian ay direksyon, hindi isang pangako ng isang eksaktong kopya; ang natapos na disenyo ay depende sa laki, materyales, at kung ano ang kinukumpirma ng White Cakes na magagawa nito. Isama ang petsa ng kaganapan, lasa, pagtatantya ng paghahatid, eksaktong mensahe, at kung gusto mo ng paghahatid. Maaaring personal ang mga inskripsiyon ng paalam, kaya ipadala ang huling salita sa isang mensahe at suriin ang spelling bago makumpirma ang disenyo.
-
-Para sa isang team event, ibigay ang bilang ng mga tao na talagang kukuha ng cake. Ang kasalukuyang mga pagtatantya ng White Cakes ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Maglaan ng hindi bababa sa tatlong araw para sa ginawang paggawa at kumpirmahin ang pagkakaroon bago ang 50% na deposito.
-
-Magdagdag lamang ng reference-to-finished na paghahambing kapag ang panaderya ay may tunay na proyekto at pahintulot na gamitin ang parehong mga larawan. Kung hindi, ang payo na ito ay kabilang sa pangkalahatang custom-cake na maikling gabay.
+- Confirm current decoration methods and obtain permission for any third-party or company imagery before publication.
+- Cebuano and Tagalog drafts need native editorial review.

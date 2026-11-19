@@ -1,38 +1,51 @@
 ---
 id: WC-0276
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; a separate story needs a real approved case
-english_title: "How to match the design of retirement cake in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa pagretiro sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa pagreretiro sa Cebu"
+english_title: "How to Match a Retirement Cake Design to the Celebration"
+cebuano_title: "Giunsa Pagpahiangay ang Disenyo sa Retirement Cake sa Selebrasyon"
+tagalog_title: "Paano Itugma ang Disenyo ng Retirement Cake sa Selebrasyon"
 ---
 
-## Choose one personal detail that reflects the retiree
+## English
 
-A retirement cake can reference a favourite hobby, a career milestone, or the next chapter the person is looking forward to. Ask colleagues or family for one shared detail and decide whether it should appear as a colour, short message, or small decorative element. A single clear idea is easier to communicate than a collage of unrelated themes.
+# How to Match a Retirement Cake Design to the Celebration
 
-Send one or two references and say which parts are inspiration. Confirm the exact name, message, requested size, flavour, event date, and handoff plan. If the design uses a company logo or workplace reference, obtain approval before ordering and before sharing photos publicly.
+Match the retirement cake to the atmosphere of the event, the room where it will be served, and the person being celebrated. A family lunch at home can feel relaxed and personal; a formal office send-off may call for a cleaner design with a message that is easy to read in a group photo. Decide which of those qualities matters most before collecting inspiration images.
 
-Include this occasion as a short example in the Cebu design guide. Publish a separate case only with an actual finished cake, a distinct design decision, and consent for the images and story.
+Use the venue to narrow the design. Notice the table space, background, lighting, and whether the cake will be displayed before it is cut. A tall topper or delicate detail may be harder to handle in a crowded office pantry than a low-profile buttercream design. Share a photo of the actual table or venue only if you have permission and it helps the decorator understand the setting.
+
+Then connect the design to the celebrant with one personal cue: a favourite hobby, a familiar colour, or a phrase from their work life. Avoid stacking every idea into one cake. Choose a primary feature and one supporting detail, then ask the baker what can be piped clearly at the selected size. White Cakes uses hand-piped buttercream, so photos are guides to mood and layout rather than a guarantee of exact reproduction.
+
+Keep the audience in mind. A private in-joke may work for a small team but confuse a larger group or family. If you are unsure, a simple thank-you message and a restrained palette keep the cake welcoming. Confirm the written inscription, colour priorities, and any company branding with the bakery before you pay. For examples and briefing steps, see the [cake design guide](/journal/cake-designs-cebu.html) and [retirement cake guide](/journal/retirement-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpahiangay ang Disenyo sa Retirement Cake sa Selebrasyon
+
+Ihaom ang retirement cake sa kahimtang sa event, lawak diin kini i-serve ug sa tawo nga gisaulog. Mahimong relaks ug personal ang paniudto sa pamilya sa balay; ang pormal nga despedida sa opisina mahimong manginahanglan og limpyo nga disenyo ug mensaheng dali mabasa sa group photo. Desisyoni una unsang aspeto ang labing importante sa dili pa mangolekta og inspiration photos.
+
+Gamita ang venue sa pagpili sa disenyo. Tan-awa ang luna sa lamesa, background, suga ug kung ipakita ba ang cake sa dili pa hiwaon. Mahimong lisod atimanon ang taas nga topper o delikadong detalye sa huot nga pantry sa opisina kumpara sa ubos nga buttercream design. Ipaambit ang litrato sa aktuwal nga lamesa o venue kon adunay pagtugot ug makatabang kini sa decorator nga masabtan ang lugar.
+
+Dayon ikonektar ang disenyo sa celebrant pinaagi sa usa ka personal nga timailhan: paboritong hobby, pamilyar nga kolor o pulong gikan sa iyang trabaho. Ayaw pun-a ang cake sa tanang ideya. Pagpili og usa ka nag-unang feature ug usa ka suportang detalye, dayon pangutan-a ang baker unsay klarong mahimo sa napiling gidak-on. Hand-piped buttercream ang gamit sa White Cakes; giya lang sa mood ug layout ang mga litrato, dili garantiya nga makopya og eksakto.
+
+Hunahunaa ang mga bisita. Mahimong masabtan sa suod nga team ang private joke apan malibog ang mas dakong grupo o pamilya. Kung dili sigurado, maabiabihon tan-awon ang yano nga pasalamat ug dili sobra ka hayag nga palette. Kumpirmaha sa panaderya ang inskripsiyon, prayoridad sa kolor ug brand sa kompanya sa dili pa mobayad. Para sa mga pananglitan ug lakang sa brief, tan-awa ang [cake design guide](/journal/cake-designs-cebu.html) ug [retirement cake guide](/journal/retirement-cake-cebu.html).
+
+## Tagalog
+
+# Paano Itugma ang Disenyo ng Retirement Cake sa Selebrasyon
+
+Itugma ang retirement cake sa atmosphere ng event, kuwartong paghahainan nito, at taong pinararangalan. Maaaring relaxed at personal ang salu-salo ng pamilya sa bahay; maaaring kailanganin ng pormal na send-off sa opisina ang malinis na disenyo at mensaheng madaling basahin sa group photo. Magpasya kung alin sa mga katangiang iyon ang pinakamahalaga bago mangalap ng inspiration images.
+
+Gamitin ang venue para paliitin ang mga pagpipilian. Tingnan ang espasyo sa mesa, background, ilaw, at kung naka-display muna ang cake bago hiwain. Maaaring mas mahirap alagaan ang mataas na topper o maselang detalye sa masikip na pantry ng opisina kaysa sa low-profile na buttercream design. Ibahagi lang ang larawan ng mismong mesa o venue kung may pahintulot ka at makatutulong ito sa decorator na maunawaan ang lugar.
+
+Pagkatapos, iugnay ang disenyo sa celebrant sa pamamagitan ng isang personal na cue: paboritong libangan, pamilyar na kulay, o pariralang kaugnay ng trabaho niya. Iwasang isiksik ang lahat ng ideya sa isang cake. Pumili ng pangunahing feature at isang suportang detalye, saka itanong sa baker kung ano ang malinaw na maipapagawa sa napiling sukat. Hand-piped buttercream ang gamit ng White Cakes, kaya gabay lang sa mood at layout ang photos at hindi garantiya ng eksaktong paggaya.
+
+Isaalang-alang ang mga dadalo. Maaaring maintindihan ng maliit na team ang private joke pero malito rito ang mas malaking grupo o pamilya. Kung hindi sigurado, nagiging welcoming ang simpleng pasasalamat at restrained na palette. Kumpirmahin sa bakery ang nakasulat na inscription, prayoridad sa kulay, at anumang company branding bago magbayad. Para sa mga halimbawa at hakbang sa brief, tingnan ang [cake design guide](/journal/cake-designs-cebu.html) at [retirement cake guide](/journal/retirement-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og usa ka personal nga detalye nga nagpakita sa retirado
-
-Ang usa ka cake sa pagretiro mahimong maghisgot sa usa ka paborito nga kalingawan, usa ka milestone sa karera, o ang sunod nga kapitulo nga gipaabut sa tawo. Pangutan-a ang mga kauban o pamilya alang sa usa ka gipaambit nga detalye ug pagdesisyon kung kini kinahanglan nga makita ingon usa ka kolor, mubo nga mensahe, o gamay nga elemento sa dekorasyon. Ang usa ka tin-aw nga ideya mas dali nga isulti kaysa usa ka collage sa wala’y kalabutan nga mga tema.
-
-Pagpadala og usa o duha ka mga pakisayran ug isulti kung unsang mga bahin ang inspirasyon. Kumpirma ang eksaktong ngalan, mensahe, gipangayo nga gidak-on, lami, petsa sa panghitabo, ug plano sa handoff. Kung ang disenyo naggamit ug logo sa kompanya o reperensiya sa trabahoan, pagkuha og pagtugot sa dili pa mag-order ug sa dili pa ipaambit ang mga litrato sa publiko.
-
-Ilakip kini nga okasyon isip usa ka mubo nga pananglitan sa giya sa disenyo sa Sugbo. Imantala ang usa ka bulag nga kaso nga adunay usa ka aktuwal nga nahuman nga cake, usa ka lahi nga desisyon sa disenyo, ug pagtugot alang sa mga imahe ug istorya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng isang personal na detalye na sumasalamin sa nagretiro
-
-Ang isang retirement cake ay maaaring sumangguni sa isang paboritong libangan, isang milestone sa karera, o sa susunod na kabanata na inaabangan ng tao. Magtanong sa mga kasamahan o pamilya para sa isang nakabahaging detalye at magpasya kung dapat itong lumitaw bilang isang kulay, maikling mensahe, o maliit na elemento ng dekorasyon. Ang isang malinaw na ideya ay mas madaling makipag-usap kaysa sa isang collage ng hindi nauugnay na mga tema.
-
-Magpadala ng isa o dalawang sanggunian at sabihin kung aling mga bahagi ang inspirasyon. Kumpirmahin ang eksaktong pangalan, mensahe, hiniling na laki, lasa, petsa ng kaganapan, at handoff na plano. Kung ang disenyo ay gumagamit ng logo ng kumpanya o sanggunian sa lugar ng trabaho, kumuha ng pag-apruba bago mag-order at bago magbahagi ng mga larawan sa publiko.
-
-Isama ang okasyong ito bilang isang maikling halimbawa sa gabay sa disenyo ng Cebu. Mag-publish ng hiwalay na case na may aktwal na natapos na cake, isang natatanging desisyon sa disenyo, at pahintulot para sa mga larawan at kuwento.
+- Confirm current decoration capability, available sizes, and any brand/logo handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

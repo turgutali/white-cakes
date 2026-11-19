@@ -1,38 +1,51 @@
 ---
 id: WC-0263
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html; confirm route and venue access
-english_title: "How to coordinate corporate cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa opisina sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa opisina sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html and /journal/corporate-cake-orders-cebu.html
+english_title: "How to Coordinate Cake Delivery for an Office Event in Cebu"
+cebuano_title: "Giunsa Pag-coordinate sa Delivery sa Cake para sa Event sa Opisina sa Cebu"
+tagalog_title: "Paano I-coordinate ang Delivery ng Cake para sa Event sa Opisina sa Cebu"
 ---
 
-## Assign one colleague to manage the venue handoff
+## English
 
-Corporate deliveries may require reception, building security, or an event coordinator. Give the bakery the complete address, tower or unit, preferred handoff window, receiving colleague’s name and phone number, and any loading or entry instructions. Ask whether delivery is available and confirm the fee and timing.
+# How to Coordinate Cake Delivery for an Office Event in Cebu
 
-The named receiver should be reachable and ready to take the cake. Ask for product-specific care instructions and confirm how early it can arrive before the event. For a company surprise or restricted office, specify which contact the bakery may call so the delivery does not reveal the plan.
+Office cake delivery has two schedules to coordinate: the bakery’s delivery window and the building’s receiving process. Start by asking the office administrator how deliveries enter the property. Some locations direct couriers to a loading bay or lobby; others require a visitor pass, a recipient to meet the driver, or approval to go upstairs. Get the exact instruction and the name of the person who can answer a call on event day.
 
-Keep handoff advice in the central Cebu delivery guide. Do not state that every office building or route is covered without current confirmation.
+Send the bakery one complete delivery note: event date, full address, building and tower name, floor or lobby, landmark, recipient’s name, and working mobile number. Include gate, parking, security, or loading guidance only if the building requires it. If reception cannot keep the cake cool or level, arrange for the named recipient to take it to the serving area promptly. Avoid asking a driver to navigate changing office instructions by phone while carrying a cake.
+
+Set the event schedule around the confirmed delivery window. White Cakes confirms a window rather than an exact minute, so do not announce a guaranteed arrival time. Leave enough time to receive the box, check that the inscription and design notes match the order, move it carefully, and prepare the table. If the cake must be displayed for a while, choose a stable spot away from direct sunlight and heat.
+
+Name a backup receiver in case the primary contact is in a meeting. Share the bakery’s contact details and the order confirmation with both people. Before the event, reconfirm the building access instructions and the receiver’s availability. For general handling and route details, use the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) and the [corporate cake order guide](/journal/corporate-cake-orders-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-coordinate sa Delivery sa Cake para sa Event sa Opisina sa Cebu
+
+Duha ka iskedyul ang i-coordinate sa delivery sa cake sa opisina: ang delivery window sa panaderya ug ang proseso sa pagdawat sa building. Sugdi sa pagpangutana sa office administrator kung giunsa pagsulod ang mga delivery. Ang uban nga lugar moagi sa loading bay o lobby; ang uban nanginahanglan og visitor pass, modawat nga motagbo sa driver, o pagtugot sa pagsaka. Hibal-i ang eksaktong instruksyon ug ngalan sa tawo nga motubag sa tawag sa adlaw sa event.
+
+Ihatag sa panaderya ang usa ka kompleto nga delivery note: petsa sa event, kompletong address, ngalan sa building ug tower, floor o lobby, landmark, ngalan sa modawat ug aktibong mobile number. Iapil ang instruksyon sa gate, parking, seguridad o loading kon gikinahanglan ra sa building. Kung dili angay tipigan ang cake sa reception, paspasa ang pagkuha niini sa ginganlang modawat ug pagdala sa lamesa sa pag-serve. Likayi nga maghatag og bag-ong instruksyon sa driver pinaagi sa telepono samtang nagdala siya og cake.
+
+Ihaom ang programa sa event sa nakumpirmang delivery window. Window ang kumpirmahon sa White Cakes, dili eksaktong minuto, busa ayaw pag-anunsyo og garantiya nga oras sa pag-abot. Pagbilin og igong panahon sa pagdawat sa kahon, pagsusi nga motakdo ang inskripsiyon ug detalye sa disenyo, pagbalhin niini pag-ayo ug pag-andam sa lamesa. Kung dugay ipakita ang cake, pagpili og lig-on nga lugar nga dili maigo sa adlaw ug kainit.
+
+Pilia ang backup nga modawat kon naa sa meeting ang unang contact. Ihatag sa duha ang contact details sa panaderya ug order confirmation. Sa dili pa ang event, kumpirmaha pag-usab ang instruksyon sa pagsulod sa building ug ang availability sa modawat. Para sa kinatibuk-ang pag-atiman ug detalye sa delivery, gamita ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) ug [corporate cake order guide](/journal/corporate-cake-orders-cebu.html).
+
+## Tagalog
+
+# Paano I-coordinate ang Delivery ng Cake para sa Event sa Opisina sa Cebu
+
+Dalawang schedule ang kailangang i-coordinate sa delivery ng cake sa opisina: ang delivery window ng bakery at ang proseso ng pagtanggap ng building. Magsimula sa pagtatanong sa office administrator kung paano pumapasok ang mga delivery. May mga lugar na sa loading bay o lobby pinapadaan ang courier; ang iba ay nangangailangan ng visitor pass, tatanggap na sasalubong sa driver, o pahintulot na umakyat. Kunin ang eksaktong tagubilin at pangalan ng taong sasagot sa tawag sa araw ng event.
+
+Magbigay sa bakery ng iisang kumpletong delivery note: petsa ng event, buong address, pangalan ng building at tower, floor o lobby, landmark, pangalan ng tatanggap, at aktibong mobile number. Isama lang ang tagubilin sa gate, parking, security, o loading kung kailangan ng building. Kung hindi angkop iwan ang cake sa reception, ipakuha ito agad sa nakatalagang tatanggap at ipalipat sa serving area. Iwasang magbigay ng pabago-bagong tagubilin sa driver sa telepono habang may dala siyang cake.
+
+Iayon ang programa ng event sa nakumpirmang delivery window. Window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya huwag mag-anunsyo ng garantisadong oras ng dating. Maglaan ng sapat na oras para tanggapin ang kahon, tiyaking tugma ang inscription at design notes sa order, maingat itong mailipat, at maihanda ang mesa. Kung matagal na naka-display ang cake, pumili ng matatag na lugar na malayo sa araw at init.
+
+Magtalaga ng backup na tatanggap kung nasa meeting ang pangunahing contact. Ibahagi sa kanilang dalawa ang contact details ng bakery at order confirmation. Bago ang event, kumpirmahin muli ang tagubilin sa pagpasok sa building at availability ng tatanggap. Para sa pangkalahatang paghawak at detalye ng ruta, gamitin ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) at [corporate cake order guide](/journal/corporate-cake-orders-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagtudlo og usa ka kauban sa pagdumala sa handoff sa venue
-
-Ang mga paghatod sa korporasyon mahimong magkinahanglan og pagdawat, seguridad sa pagtukod, o usa ka coordinator sa kalihokan. Ihatag sa panaderya ang kompleto nga adres, tore o unit, gusto nga handoff window, pagdawat sa ngalan ug numero sa telepono sa kauban, ug bisan unsang mga instruksiyon sa pagkarga o pagsulod. Pangutan-a kung magamit ba ang pagpadala ug kumpirmahi ang bayad ug oras.
-
-Ang gihinganlan nga tigdawat kinahanglang maabot ug andam sa pagkuha sa cake. Pangayo alang sa mga panudlo sa pag-atiman nga espesipiko sa produkto ug kumpirmahi kung unsa ka sayo kini moabut sa wala pa ang kalihokan. Para sa usa ka sorpresa sa kompanya o gipugngan nga opisina, ipiho kung unsang kontak ang mahimong tawagan sa panaderya aron dili ipadayag sa paghatod ang plano.
-
-Hupti ang handoff advice sa sentro sa Cebu delivery guide. Ayaw isulti nga ang matag bilding sa opisina o ruta nasakup nga wala’y karon nga kumpirmasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magtalaga ng isang kasamahan upang pamahalaan ang handoff ng venue
-
-Maaaring mangailangan ng pagtanggap, seguridad ng gusali, o coordinator ng kaganapan ang mga paghahatid ng kumpanya. Ibigay sa panaderya ang kumpletong address, tore o unit, gustong handoff window, pagtanggap ng pangalan at numero ng telepono ng kasamahan, at anumang mga tagubilin sa pag-load o pagpasok. Tanungin kung available ang paghahatid at kumpirmahin ang bayad at timing.
-
-Ang pinangalanang receiver ay dapat na maabot at handang kunin ang cake. Humingi ng mga tagubilin sa pangangalaga na partikular sa produkto at kumpirmahin kung gaano ito kaaga dumating bago ang kaganapan. Para sa isang sorpresa ng kumpanya o pinaghihigpitang opisina, tukuyin kung aling contact ang maaaring tawagan ng panaderya upang hindi maihayag ng paghahatid ang plano.
-
-Panatilihin ang handoff na payo sa gitnang gabay sa paghahatid ng Cebu. Huwag sabihin na ang bawat gusali ng opisina o ruta ay sakop nang walang kasalukuyang kumpirmasyon.
+- Confirm delivery window practices, building handoff arrangements, and current service areas before publication.
+- Cebuano and Tagalog drafts need native editorial review.

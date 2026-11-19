@@ -1,44 +1,51 @@
 ---
 id: WC-0298
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html and /journal/corporate-office-cakes-cebu.html
-english_title: "Planning farewell cake in Cebu"
-cebuano_title: "Pagplano sa cake para sa panamilit sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa pamamaalam sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/farewell-cake-cebu.html and /journal/cake-delivery-cebu.html
+english_title: "Planning a Farewell Cake Moment for a Cebu Team"
+cebuano_title: "Pagplano sa Oras sa Farewell Cake para sa Team sa Cebu"
+tagalog_title: "Pagpaplano ng Sandali para sa Farewell Cake ng Team sa Cebu"
 ---
 
-## Plan the farewell cake around the people who will share it
+## English
 
-Start with the number of colleagues or family members who will actually have cake. White Cakes' size guide estimates two generous or three modest portions from a 4-inch Bento, about 8–12 party slices from a 6-inch round, and about 16–24 from an 8-inch. A common 6-inch-plus-8-inch two-tier cake is planned for roughly 30–36. These are estimates; the cut, cake height, and design affect the final number.
+# Planning a Farewell Cake Moment for a Cebu Team
 
-Decide if the cake will be served during a short office gathering or after a meal at home. If other desserts are available, smaller slices may be enough. If people expect full portions or want to take slices away, mention that when asking the bakery to recommend a size.
+Plan the cake moment as part of the farewell run-of-show, not as an item that appears whenever the meeting ends. Decide when the colleague will arrive, who will give the message, when the team photo happens, and at what point the cake should be brought out. This prevents the cake from sitting on a table through a long program or being served while key colleagues are away.
 
-Choose a short message and a simple design cue that suits the person leaving. A name, team, or brief thank-you can be easier to read than a long line. For custom buttercream, send one reference and identify the feature to adapt. Include the date, flavour, delivery address, and a receiver who can meet the agreed window.
+Ask the team organizer to confirm who will be present at cake time. A shared lunch may have different attendees from a final office meeting, and staff on another shift may need a separate plan. If the group is large, plan how people will line up and where the cake can be cut. Choose a serving table that is stable and out of the main walkway.
 
-At least three days' notice is requested; availability and the quote must be confirmed before the 50% deposit. Keep portion planning on the central size guide and office-specific logistics on the corporate-cake guide.
+Assign clear roles: one person coordinates the order with the bakery, one receives or collects it, one keeps it in the recommended condition, and one brings it out and serves it. Do not assume the colleague leaving should handle any logistics. For a surprise farewell, choose a discreet receiver and keep the order details out of shared calendars or messages the celebrant can see.
+
+Share the event schedule and venue details with the bakery. Confirm pickup or the delivery window, the receiver’s mobile number, and any building access requirement. White Cakes confirms a delivery window, so leave flexibility before the reveal. For practical delivery planning, see the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) and [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Cebuano
+
+# Pagplano sa Oras sa Farewell Cake para sa Team sa Cebu
+
+Iplano ang cake isip kabahin sa run-of-show sa despedida, dili butang nga ipagawas lang kon mahuman ang meeting. Desisyoni kanus-a moabot ang kauban, kinsa ang mosulti, kanus-a magkuha og litrato ang team ug kanus-a angay ipagawas ang cake. Makalikay kini nga dugay magpabilin ang cake sa lamesa o ma-serve samtang wala ang mga importanteng kauban.
+
+Hangyoa ang organizer sa team nga mokumpirma kinsa ang motambong sa oras sa cake. Mahimong lahi ang bisita sa paniudto sa team kumpara sa kataposang meeting sa opisina; kinahanglan tingali og lahi nga plano para sa laing shift. Kung daghan ang grupo, hunahunaa daan ang linya sa mga tawo ug asa hiwaon ang cake. Pagpili og lig-on nga lamesa nga wala sa pangunang agianan.
+
+Tin-aw nga bahin-bahina ang responsibilidad: usa ang makig-coordinate sa panaderya, usa ang modawat o mokuha, usa ang moatiman sa cake sumala sa instruksyon ug usa ang mopagawas ug mo-serve niini. Ayaw pagtuo nga ang mobiya sa trabaho maoy moatiman sa logistics. Para sa surprise farewell, pagpili og sekretong modawat ug ayaw ibutang ang detalye sa shared calendar o mensahe nga makita sa celebrant.
+
+Ipaambit sa panaderya ang iskedyul sa event ug detalye sa venue. Kumpirmaha ang pickup o delivery window, mobile number sa modawat ug lagda sa pagsulod sa building kon naa. Delivery window ang kumpirmahon sa White Cakes, busa pagbilin og flexible nga oras sa dili pa ang reveal. Para sa pagplano sa delivery, tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) ug [farewell cake guide](/journal/farewell-cake-cebu.html).
+
+## Tagalog
+
+# Pagpaplano ng Sandali para sa Farewell Cake ng Team sa Cebu
+
+Planuhin ang sandali ng cake bilang bahagi ng run-of-show ng farewell, hindi bilang bagay na ilalabas kung kailan matatapos ang meeting. Pagpasiyahan kung kailan darating ang katrabaho, sino ang magsasalita, kailan kukunan ng litrato ang team, at anong bahagi ilalabas ang cake. Naiiwasan nitong matagal nakatengga ang cake sa mesa o maihain habang wala ang mahahalagang katrabaho.
+
+Hilingin sa team organizer na kumpirmahin kung sino ang naroon sa oras ng cake. Maaaring iba ang dadalo sa team lunch kaysa sa huling office meeting, at maaaring kailanganin ng hiwalay na plano para sa ibang shift. Kung malaki ang grupo, planuhin ang pila at kung saan hihiwa-hiwain ang cake. Pumili ng matatag na serving table na wala sa pangunahing daanan.
+
+Magtalaga ng malinaw na tungkulin: isang taong makikipag-coordinate sa bakery, isang tatanggap o kukuha ng cake, isang mag-aalaga rito ayon sa tagubilin, at isang maglalabas at maghahain. Huwag ipagpalagay na ang aalis na katrabaho ang aasikaso ng logistics. Para sa surprise farewell, pumili ng discreet na tatanggap at ilayo ang detalye ng order sa shared calendar o mensaheng makikita ng celebrant.
+
+Ibahagi sa bakery ang event schedule at detalye ng venue. Kumpirmahin ang pickup o delivery window, mobile number ng tatanggap, at anumang access requirement sa building. Delivery window ang kinukumpirma ng White Cakes, kaya maglaan ng flexible na oras bago ang reveal. Para sa praktikal na delivery planning, tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) at [farewell cake guide](/journal/farewell-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha ang panamilit nga cake sa palibot sa mga tawo nga mopaambit niini
-
-Pagsugod sa gidaghanon sa mga kauban o miyembro sa pamilya nga adunay cake. Ang giya sa gidak-on sa White Cakes nagbanabana sa duha ka manggihatagon o tulo ka kasarangang bahin gikan sa 4-pulgada nga Bento, mga 8–12 ka hiwa sa partido gikan sa 6-pulgada nga lingin, ug mga 16–24 gikan sa 8-pulgada. Ang kasagaran nga 6-pulgada-plus-8-pulgada nga duha ka lebel nga cake giplano alang sa halos 30-36. Kini mga banabana; ang pagputol, gitas-on sa cake, ug disenyo makaapekto sa katapusang numero.
-
-Desisyuni kung ang cake isilbi ba sa usa ka mubo nga panagtapok sa opisina o pagkahuman sa pagpangaon sa balay. Kung adunay ubang mga dessert, mahimo’g igo na ang gagmay nga mga hiwa. Kung ang mga tawo nagdahom nga bug-os nga mga bahin o gusto nga kuhaon ang mga hiwa, hisguti kana kung mangutana sa panaderya nga magrekomenda sa usa ka gidak-on.
-
-Pagpili og usa ka mubo nga mensahe ug usa ka yano nga disenyo nga cue nga haum sa tawo nga mobiya. Ang usa ka ngalan, grupo, o mubo nga pasalamat mahimong mas sayon ​​basahon kay sa taas nga linya. Para sa custom nga buttercream, magpadala ug usa ka reference ug ilha ang feature nga ipahiangay. Ilakip ang petsa, lami, adres sa pagpadala, ug usa ka tigdawat nga makatagbo sa giuyonan nga bintana.
-
-Ang labing menos tulo ka adlaw nga pahibalo gihangyo; ang pagkaanaa ug ang kinutlo kinahanglan makumpirma sa wala pa ang 50% nga deposito. Ipadayon ang pagplano sa bahin sa giya sa sentral nga gidak-on ug logistik nga espesipiko sa opisina sa giya sa corporate-cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin ang farewell cake sa paligid ng mga taong magbabahagi nito
-
-Magsimula sa bilang ng mga kasamahan o miyembro ng pamilya na talagang magkakaroon ng cake. Tinatantya ng gabay sa laki ng White Cakes ang dalawang mapagbigay o tatlong katamtamang bahagi mula sa isang 4-inch Bento, mga 8–12 party slice mula sa isang 6-inch na round, at mga 16–24 mula sa isang 8-inch. Ang isang karaniwang 6-inch-plus-8-inch na two-tier na cake ay binalak para sa humigit-kumulang 30–36. Ito ay mga pagtatantya; ang hiwa, taas ng cake, at disenyo ay nakakaapekto sa huling numero.
-
-Magpasya kung ang cake ay ihahain sa isang maikling pagtitipon sa opisina o pagkatapos ng pagkain sa bahay. Kung available ang ibang mga dessert, maaaring sapat na ang maliliit na hiwa. Kung inaasahan ng mga tao ang buong bahagi o gustong kumuha ng mga hiwa, banggitin iyon kapag humihiling sa panaderya na magrekomenda ng laki.
-
-Pumili ng isang maikling mensahe at isang simpleng cue ng disenyo na nababagay sa taong aalis. Ang isang pangalan, pangkat, o maikling pasasalamat ay maaaring mas madaling basahin kaysa sa mahabang linya. Para sa custom na buttercream, magpadala ng isang reference at tukuyin ang feature na iaangkop. Isama ang petsa, lasa, address ng paghahatid, at isang tatanggap na makakatugon sa napagkasunduang window.
-
-Ang hindi bababa sa tatlong araw na paunawa ay hinihiling; availability at ang quote ay dapat kumpirmahin bago ang 50% na deposito. Panatilihin ang pagpaplano ng bahagi sa gabay sa gitnang sukat at logistik na tukoy sa opisina sa gabay ng corporate-cake.
+- Confirm delivery window, access requirements, and product-care instructions before publication.
+- Cebuano and Tagalog drafts need native editorial review.
