@@ -112,6 +112,9 @@
 | 092 | Civil Wedding Cake in Cebu: A Simple Planning Guide | Cake para sa Civil Wedding sa Cebu: Yano nga Giya sa Pagplano | Cake para sa Civil Wedding sa Cebu: Simpleng Gabay sa Pagpaplano | Coordinate a civil ceremony, separate reception, venue rules and delivery handoff. |
 | 093 | 40th Birthday Cake in Cebu: Design, Size and Message | Cake para sa Ika-40 nga Birthday sa Cebu: Disenyo, Gidak-on ug Mensahe | 40th Birthday Cake sa Cebu: Disenyo, Sukat at Mensahe | Plan a milestone celebration around the person, guest count and cake message. |
 
+| 096 | Welcome Cake for a New Colleague in Cebu: Office Planning Guide | Welcome Cake para sa Bag-ong Kauban sa Trabaho sa Cebu: Giya sa Opisina | Welcome Cake para sa Bagong Kasamahan sa Cebu: Gabay sa Opisina | Coordinate a team welcome with workday timing, office receiving rules and an inclusive serving estimate. |
+| 097 | Welcome Home Cake for an OFW in Cebu: Arrival Planning Guide | Welcome Home Cake para sa OFW nga Mopauli sa Cebu: Giya sa Pagplano | Welcome Home Cake para sa OFW na Uuwi sa Cebu: Gabay sa Pagplano | Separate a flexible home or gathering handoff from uncertain arrival timing. |
+
 ## Queue: next trilingual topics
 
 ### Next priority tranche (editorial hypotheses, not volume claims)
@@ -122,6 +125,6 @@
 
 ## Current progress
 
-- Mainline inventory: 93 trilingual topic groups and 1 English-only article.
-- This release adds original civil wedding and 40th birthday guides in English, Cebuano and Tagalog.
+- Mainline inventory: 97 trilingual topic groups and 1 English-only article.
+- The latest releases add civil wedding, 40th birthday, business opening, business-opening message, new-colleague welcome, and OFW welcome-home guides in English, Cebuano and Tagalog.
 - The full 1,000-topic calendar is still being built; the numbered queue continues in the next batches. Do not treat this inventory as the complete plan.
