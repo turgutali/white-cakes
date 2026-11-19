@@ -1,38 +1,31 @@
 ---
 id: WC-0168
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; confirm venue route
 english_title: "How to coordinate baby shower cake in Cebu"
 cebuano_title: "Giunsa pag-coordinate ang cake para sa baby shower sa Cebu"
 tagalog_title: "Paano i-coordinate ang cake para sa baby shower sa Cebu"
 ---
+## How to coordinate baby shower cake in Cebu
 
-## Plan one point of contact for the shower venue handoff
+Assign one cake contact who has the confirmed order summary, delivery window and venue details. That person should answer the rider, notify the venue coordinator and make sure the cake reaches its planned table without being left unattended.
 
-Give the bakery the full venue address, requested delivery window, organizer’s name and phone number, and any gate or reception instructions. Ask whether delivery to the location is available and confirm the fee and timing. If the cake is a surprise, choose a coordinator whose contact will not reach the guest of honour.
-
-Have someone available to receive the cake and follow the baker’s storage instructions. If the shower is outdoors or the cake will arrive early, mention the conditions and ask how to care for the specific design. Confirm the message and design details in advance so no one needs to make a last-minute change.
-
-Keep logistics in the central delivery guide. A venue-specific story needs documented route details and permission.
+Share a short handoff note with the receiver’s name and phone, landmark, entry instructions, cake-table location and time of service. Avoid parallel revisions from several people; send any change through the single contact and get it reconfirmed. For a baby shower, decide who is authorized to share the cake brief and receive delivery, especially if the event is a surprise. Keep the message and colour direction aligned with the host’s confirmed plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pagplano og usa ka punto sa kontak para sa shower venue handoff
+Pilia ang usa ka kontak sa cake nga adunay order summary, delivery window ug detalye sa venue. Siya motubag sa rider, mopahibalo sa venue coordinator ug mosiguro nga maabot sa cake ang lamesa nga giplano ug dili mabiyaan.
 
-Ihatag sa panaderya ang tibuok nga adres sa lugar, gihangyo nga delivery window, ngalan sa organizer ug numero sa telepono, ug bisan unsang gate o reception instructions. Pangutan-a kung ang pagpadala sa lokasyon magamit ug kumpirmahi ang bayad ug oras. Kung ang cake usa ka sorpresa, pagpili og usa ka coordinator kansang kontak dili makaabot sa bisita sa dungog.
+Ipaambit ang mubo nga handoff note nga adunay ngalan ug numero sa modawat, landmark, instruksyon sa pagsulod, cake table ug oras sa pagserbisyo. Likayi ang daghang tawo nga magpadala og rebisyon; ipaagi ang kausaban sa usa ka kontak ug pakumpirmaha kini. Alang sa baby shower, pilia kon kinsa ang awtorisadong mopadala sa cake brief ug modawat sa delivery, labi na kon sorpresa ang event. Ipares ang mensahe ug kolor sa gikumpirmang plano sa host.
 
-Pagbaton og usa ka tawo aron makadawat sa cake ug mosunod sa mga instruksyon sa pagtipig sa panadero. Kung ang shower naa sa gawas o ang cake moabut og sayo, hisguti ang mga kondisyon ug pangutana kung giunsa pag-atiman ang piho nga disenyo. Kumpirma ang mensahe ug mga detalye sa disenyo nga abante aron walay usa nga kinahanglan nga mohimo sa katapusang minuto nga pagbag-o.
+## Tagalog translation (editorial review pending)
 
-Ibutang ang logistik sa sentro nga giya sa pagpadala. Ang istorya nga espesipiko sa lugar nanginahanglan mga dokumentado nga detalye sa ruta ug pagtugot.
+Magtalaga ng isang cake contact na may kumpirmadong order summary, delivery window, at detalye ng venue. Siya ang sasagot sa rider, magbibigay-alam sa venue coordinator, at sisiguro na makarating ang cake sa nakalaang mesa nang hindi naiiwan.
 
-## Tagalog translation (machine translated; editorial review pending)
+Ibahagi ang maikling handoff note na may pangalan at numero ng tatanggap, landmark, tagubilin sa pagpasok, lokasyon ng cake table, at oras ng paghahain. Iwasan ang magkakahiwalay na rebisyon; idaan ang pagbabago sa iisang contact at ipa-confirm muli. Para sa baby shower, piliin kung sino ang awtorisadong magpadala ng cake brief at tumanggap ng delivery, lalo na kung sorpresa ang event. Iayon ang mensahe at kulay sa kumpirmadong plano ng host.
 
-## Magplano ng isang punto ng contact para sa handoff ng shower venue
+## Editorial note
 
-Ibigay sa panaderya ang buong address ng venue, hiniling na delivery window, pangalan at numero ng telepono ng organizer, at anumang mga tagubilin sa gate o reception. Itanong kung available ang paghahatid sa lokasyon at kumpirmahin ang bayad at timing. Kung ang cake ay isang sorpresa, pumili ng isang coordinator na ang contact ay hindi makakarating sa panauhing pandangal.
-
-Maghanda ng isang tao na tumanggap ng cake at sundin ang mga tagubilin sa pag-iimbak ng panadero. Kung ang shower ay nasa labas o ang cake ay darating nang maaga, banggitin ang mga kondisyon at tanungin kung paano aalagaan ang partikular na disenyo. Kumpirmahin nang maaga ang mensahe at mga detalye ng disenyo para walang kailangang gumawa ng huling minutong pagbabago.
-
-Panatilihin ang logistik sa gitnang gabay sa paghahatid. Ang isang kuwentong partikular sa lugar ay nangangailangan ng mga nakadokumentong detalye ng ruta at pahintulot.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

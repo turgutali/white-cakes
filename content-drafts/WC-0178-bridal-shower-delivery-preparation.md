@@ -1,38 +1,31 @@
 ---
 id: WC-0178
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; verify route and handoff time
 english_title: "How to prepare for delivery of bridal shower cake in Cebu"
 cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa bridal shower sa Cebu"
 tagalog_title: "Paano maghanda para sa delivery ng cake para sa bridal shower sa Cebu"
 ---
+## How to prepare for delivery of bridal shower cake in Cebu
 
-## Make the venue and receiver easy for the bakery to identify
+Share the complete venue address, map pin or landmark, event time and latest acceptable arrival. Cebu City, Mandaue and Lapu-Lapu are listed service areas, but the exact route, availability, delivery window and address-based charge need confirmation in the quote.
 
-Provide the full venue address, requested delivery window, receiver’s name and phone number, and any gate, hotel, or reception instructions. Ask whether delivery to the exact venue is available and confirm the fee and timing. A named organizer should be ready to take the cake when it arrives.
-
-Tell the bakery when the cake will be served and ask how the specific design should be handled before the shower begins. Keep the box level and follow product-specific storage guidance. If the event is a surprise, use a coordinator’s contact details.
-
-Add general handoff advice to the central delivery guide. Do not promise delivery to a particular venue without current route confirmation.
+Name one reachable person who will meet the rider at the door. Include a working number and building-entry instructions; the cake should not be left with security or in a warm lobby. Coordinate a direct handoff to the person responsible for the cake table. For a bridal shower, treat the couple’s or host’s palette as a guide and avoid reproducing private or copyrighted details without permission. Confirm who approves the inscription and final design so the surprise stays coordinated.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Himua nga dali mailhan sa bakery ang venue ug receiver
+Ihatag ang tibuok address sa venue, map pin o landmark, oras sa event ug pinakalate nga pag-abot. Gilista ang Cebu City, Mandaue ug Lapu-Lapu nga mga service area, apan kumpirmaha sa quote ang eksaktong ruta, availability, delivery window ug bayad base sa address.
 
-Ihatag ang tibuok adres sa venue, gihangyo nga delivery window, ngalan sa receiver ug numero sa telepono, ug bisan unsang gate, hotel, o instruksyon sa reception. Pangutan-a kung ang pagpadala sa eksakto nga lugar magamit ug kumpirmahi ang bayad ug oras. Ang usa ka ginganlan nga organizer kinahanglan nga andam sa pagkuha sa cake kon kini moabut.
+Pagpili og usa ka tawo nga maabot ug modawat sa rider sa pultahan. Iapil ang aktibong numero ug instruksyon sa pagsulod sa building; ayaw ibilin ang cake sa security o init nga lobby. I-coordinate ang direktang pagdawat ngadto sa responsable sa cake table. Alang sa bridal shower, gamita isip giya ang palette sa magtiayon o host ug ayaw kopyaha ang pribado o copyrighted nga detalye kon walay pagtugot. Kumpirmaha kinsa ang moapruba sa mensahe ug disenyo aron hapsay ang sorpresa.
 
-Sultihi ang panaderya kung kanus-a isilbi ang cake ug pangutan-a kung giunsa pagdumala ang piho nga disenyo sa dili pa magsugod ang shower. Ipadayon ang lebel sa kahon ug sunda ang giya sa pagtipig nga piho sa produkto. Kung ang panghitabo usa ka sorpresa, gamita ang mga detalye sa pagkontak sa usa ka coordinator.
+## Tagalog translation (editorial review pending)
 
-Idugang ang kinatibuk-ang tambag sa handoff sa sentro nga giya sa paghatod. Ayaw pagsaad nga ipadala sa usa ka partikular nga lugar nga wala’y kumpirmasyon sa ruta karon.
+Ibigay ang buong address ng venue, map pin o landmark, oras ng event, at pinakahuling katanggap-tanggap na dating. Nasa service area ang Cebu City, Mandaue, at Lapu-Lapu, pero kumpirmahin sa quote ang ruta, availability, delivery window, at singil batay sa address.
 
-## Tagalog translation (machine translated; editorial review pending)
+Magtalaga ng isang taong reachable na sasalubong sa rider sa pinto. Isama ang aktibong numero at tagubilin sa pagpasok sa gusali; huwag iwan ang cake sa security o mainit na lobby. Ayusin ang direktang handoff sa taong responsable sa cake table. Para sa bridal shower, gawing gabay ang palette ng magkapareha o host at huwag kopyahin ang pribado o copyrighted na detalye nang walang pahintulot. Kumpirmahin kung sino ang mag-aapruba ng mensahe at disenyo para maayos ang sorpresa.
 
-## Gawing madaling matukoy ng panaderya ang venue at receiver
+## Editorial note
 
-Ibigay ang buong address ng venue, hiniling na delivery window, pangalan at numero ng telepono ng receiver, at anumang mga tagubilin sa gate, hotel, o reception. Tanungin kung available ang paghahatid sa eksaktong lugar at kumpirmahin ang bayad at timing. Ang isang pinangalanang organizer ay dapat na handang kunin ang cake pagdating nito.
-
-Sabihin sa panaderya kung kailan ihahain ang cake at itanong kung paano dapat pangasiwaan ang partikular na disenyo bago magsimula ang shower. Panatilihin ang antas ng kahon at sundin ang gabay sa storage na partikular sa produkto. Kung ang kaganapan ay isang sorpresa, gumamit ng mga detalye ng contact ng isang coordinator.
-
-Magdagdag ng pangkalahatang payo sa handoff sa gitnang gabay sa paghahatid. Huwag mangako ng paghahatid sa isang partikular na lugar nang walang kasalukuyang kumpirmasyon ng ruta.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

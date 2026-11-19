@@ -1,38 +1,31 @@
 ---
 id: WC-0166
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
 english_title: "How to plan baby shower cake in Cebu"
 cebuano_title: "Giunsa pagplano ang cake para sa baby shower sa Cebu"
 tagalog_title: "Paano planuhin ang cake para sa baby shower sa Cebu"
 ---
+## How to plan baby shower cake in Cebu
 
-## Size the cake for the shower guests who will share dessert
+Decide the cake’s job first: feed the gathering, mark a candle or photo moment, or do both. Note when it will be served and what other desserts are planned before choosing size and design.
 
-Estimate how many people are likely to stay for cake and whether it will be served after a meal. Tell the bakery if you want modest portions or party slices and whether other desserts are planned. Ask it to recommend a size for the actual guest count rather than choosing by the shower theme.
-
-The current guide estimates 8–12 party slices from a 6-inch cake and 16–24 from an 8-inch cake; a 6+8-inch two-tier cake is estimated at 30–36. These are approximate; confirm servings for your event. Ask about the 4-inch Bento only if the gathering is small enough for its stated two generous or three modest servings.
-
-Keep verified ranges in the central sizing guide and link to the design brief for theme choices.
+Put one person in charge of the final brief and handoff. Confirm date, serving count, wording, quote, delivery recipient and care plan together so the event team works from one agreed version. For a baby shower, decide who is authorized to share the cake brief and receive delivery, especially if the event is a surprise. Keep the message and colour direction aligned with the host’s confirmed plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Laki ang cake para sa mga bisita sa shower nga magpaambit sa dessert
+Desisyoni una ang papel sa cake: pakaonon ang panagtapok, markahan ang kandila o litrato, o buhaton ang duha. Timan-i kanus-a i-serve ug unsa pay ubang dessert sa dili pa mopili og gidak-on ug disenyo.
 
-Pagbanabana kon pila ka tawo ang lagmit nga magpabilin alang sa cake ug kon kini isilbi human sa pagpangaon. Sultihi ang panaderya kung gusto nimo ang kasarangan nga mga bahin o mga hiwa sa party ug kung giplano ba ang ubang mga dessert. Hangyoa kini sa pagrekomendar sa usa ka gidak-on alang sa aktuwal nga ihap sa bisita kay sa pagpili pinaagi sa shower nga tema.
+Pilia ang usa ka tawo nga modumala sa final brief ug pagdawat. Kumpirmaha dungan ang petsa, serving, teksto, quote, modawat sa delivery ug pag-atiman aron usa ra ka bersyon ang gamiton sa team. Alang sa baby shower, pilia kon kinsa ang awtorisadong mopadala sa cake brief ug modawat sa delivery, labi na kon sorpresa ang event. Ipares ang mensahe ug kolor sa gikumpirmang plano sa host.
 
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices gikan sa 6-inch nga cake ug 16–24 gikan sa 8-inch nga cake; ang usa ka 6+8-pulgada nga two-tier nga cake gibanabana nga 30–36. Kini mga gibanabana; kumpirmahi ang mga servings alang sa imong kalihokan. Pangutan-a ang bahin sa 4-pulgada nga Bento kung ang panagtapok gamay ra alang sa gipahayag nga duha ka manggihatagon o tulo ka kasarangan nga pag-alagad.
+## Tagalog translation (editorial review pending)
 
-Ipadayon ang napamatud-an nga mga han-ay sa sentro nga giya sa pagsukod ug i-link sa mubo nga disenyo alang sa mga pagpili sa tema.
+Pagpasyahan muna ang papel ng cake: pakainin ang pagtitipon, markahan ang sandali ng kandila o litrato, o pareho. Itala kung kailan ito ihahain at kung anu-ano pang dessert bago pumili ng laki at disenyo.
 
-## Tagalog translation (machine translated; editorial review pending)
+Magtalaga ng isang taong hahawak sa final brief at handoff. Kumpirmahin nang sabay ang petsa, servings, teksto, quote, tatanggap ng delivery, at plano sa pag-aalaga para iisang bersiyon ang gamit ng event team. Para sa baby shower, piliin kung sino ang awtorisadong magpadala ng cake brief at tumanggap ng delivery, lalo na kung sorpresa ang event. Iayon ang mensahe at kulay sa kumpirmadong plano ng host.
 
-## Sukatin ang cake para sa mga bisita sa shower na magsasalo ng dessert
+## Editorial note
 
-Tantyahin kung ilang tao ang malamang na manatili para sa cake at kung ito ay ihain pagkatapos kumain. Sabihin sa panaderya kung gusto mo ng mga katamtamang bahagi o mga hiwa ng party at kung ang iba pang mga dessert ay binalak. Hilingin dito na magrekomenda ng laki para sa aktwal na bilang ng bisita sa halip na pumili ayon sa tema ng shower.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice mula sa isang 6-inch na cake at 16–24 mula sa isang 8-inch na cake; ang isang 6+8-inch na two-tier na cake ay tinatantya sa 30–36. Ang mga ito ay tinatayang; kumpirmahin ang mga serving para sa iyong kaganapan. Magtanong lamang tungkol sa 4-inch Bento kung ang pagtitipon ay sapat na maliit para sa nakasaad na dalawang mapagbigay o tatlong katamtamang serving.
-
-Panatilihin ang mga na-verify na hanay sa gitnang gabay sa pagpapalaki at i-link sa maikling disenyo para sa mga pagpipilian sa tema.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

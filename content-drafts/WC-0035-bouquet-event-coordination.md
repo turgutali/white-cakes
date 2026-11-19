@@ -1,38 +1,39 @@
 ---
 id: WC-0035
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; verify product handling and route
 english_title: "How to coordinate Bouquet Cake in Cebu"
 cebuano_title: "Giunsa pag-coordinate ang Bouquet Cake sa Cebu"
 tagalog_title: "Paano i-coordinate ang Bouquet Cake sa Cebu"
 ---
 
-## Plan a receiver who can handle the decorated cake carefully
+## English
 
-Check the current Bouquet Cake listing and confirm the requested date, flavour, design, and price. Provide the delivery address, handoff window, recipient’s name and mobile number, and any building or gate instructions. Ask whether delivery to the exact location is available and confirm the fee.
+# How to coordinate Bouquet Cake in Cebu
 
-The product is described as hand-piped buttercream flowers, so ask the bakery for handling advice for the actual cake. Have someone receive it promptly, keep the box level, and follow the baker’s storage instructions. If the cake is for an outdoor event, mention the conditions when confirming the plan.
+Coordinate bouquet delivery with a receiver at the door, not only a guard or lobby. Share full address, landmark, phone number, and delivery window; confirm the exact coverage. The piped flowers should not wait in a warm guardhouse or be left unattended.
 
-Keep coordination steps in the main delivery guide and product-specific facts on the current Bouquet Cake page. Verify availability and route before promising a handoff.
+For a surprise, the bakery can send the delivery window to the coordinator. Confirm that arrangement and who will keep the box upright after handoff.
+
+## Cebuano
+
+# Giunsa pag-coordinate ang Bouquet Cake sa Cebu
+
+I-coordinate ang delivery sa modawat sa pultahan, dili guard o lobby lang. Ipaambit ang address, landmark, numero ug window; kumpirmaha ang coverage. Dili angay hulaton sa init nga guardhouse o biyaan ang piped flowers.
+
+Para sa surprise, ipadala sa coordinator ang delivery window. Kumpirmaha kinsa mopatindog sa kahon human sa handoff.
+
+## Tagalog
+
+# Paano i-coordinate ang Bouquet Cake sa Cebu
+
+I-coordinate ang delivery sa tatanggap sa pintuan, hindi guard o lobby lang. Ibigay ang address, landmark, numero, at window; tiyakin ang coverage. Hindi dapat maghintay sa mainit na guardhouse o iwanang walang nagbabantay ang piped flowers.
+
+Para sa surprise, maaaring ipadala ng bakery sa coordinator ang delivery window. Kumpirmahin kung sino ang magpapanatiling nakatayo sa kahon pagkatapos ng handoff.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano og tigdawat nga makakupot pag-ayo sa giadornohan nga cake
-
-Susiha ang kasamtangan nga listahan sa Bouquet Cake ug kumpirmahi ang gihangyo nga petsa, lami, disenyo, ug presyo. Ihatag ang adres sa pagpadala, handoff window, ngalan sa nakadawat ug numero sa mobile, ug bisan unsang instruksyon sa building o gate. Pangutan-a kung ang pagpadala sa eksaktong lokasyon magamit ug kumpirmahi ang bayad.
-
-Ang produkto gihulagway nga mga bulak nga buttercream sa kamot, busa pangutan-a ang panaderya alang sa pagdumala sa tambag alang sa aktuwal nga cake. Ipadawat dayon kini sa usa ka tawo, ipabilin ang lebel sa kahon, ug sunda ang mga instruksyon sa pagtipig sa panadero. Kung ang cake alang sa usa ka kalihokan sa gawas, hisguti ang mga kondisyon sa pagkumpirma sa plano.
-
-Ipadayon ang mga lakang sa koordinasyon sa panguna nga giya sa paghatud ug piho nga mga kamatuoran sa produkto sa karon nga panid sa Bouquet Cake. I-verify ang pagkaanaa ug ruta sa dili pa magsaad og handoff.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng receiver na maingat na makakahawak sa pinalamutian na cake
-
-Tingnan ang kasalukuyang listahan ng Bouquet Cake at kumpirmahin ang hiniling na petsa, lasa, disenyo, at presyo. Ibigay ang address ng paghahatid, handoff window, pangalan ng tatanggap at numero ng mobile, at anumang mga tagubilin sa gusali o gate. Tanungin kung available ang paghahatid sa eksaktong lokasyon at kumpirmahin ang bayad.
-
-Ang produkto ay inilalarawan bilang hand-piped buttercream na bulaklak, kaya humingi ng payo sa panaderya para sa aktwal na cake. Ipatanggap kaagad sa isang tao, panatilihin ang antas ng kahon, at sundin ang mga tagubilin sa pag-iimbak ng panadero. Kung ang cake ay para sa isang panlabas na kaganapan, banggitin ang mga kondisyon kapag kinukumpirma ang plano.
-
-Panatilihin ang mga hakbang sa koordinasyon sa pangunahing gabay sa paghahatid at mga katotohanang partikular sa produkto sa kasalukuyang pahina ng Bouquet Cake. I-verify ang availability at ruta bago mangako ng handoff.
+- Confirm current product scale, quote, flavour availability, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

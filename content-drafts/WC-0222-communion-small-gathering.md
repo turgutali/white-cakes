@@ -1,38 +1,31 @@
 ---
 id: WC-0222
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
 english_title: "Planning First Communion cake in Cebu"
 cebuano_title: "Pagplano sa cake para sa First Communion sa Cebu"
 tagalog_title: "Pagpaplano ng cake para sa First Communion sa Cebu"
 ---
+## Planning First Communion cake in Cebu
 
-## Match the cake size to the reception group
+Decide the cake’s job first: feed the gathering, mark a candle or photo moment, or do both. Note when it will be served and what other desserts are planned before choosing size and design.
 
-For a small First Communion gathering, estimate how many relatives will be present when dessert is served. Ceremony attendance may include people who will not come to the meal. Tell the bakery whether cake is served after lunch and whether other desserts are planned, then ask which size suits the expected portions.
-
-The current guide describes the 4-inch Bento as about two generous servings or three modest ones. A 6-inch cake is estimated at 8–12 party slices, but those numbers are approximate and depend on cutting style. Ask the bakery to confirm the expected servings for your event date.
-
-Keep portion estimates in the central size page and link it from the First Communion planning content. Do not promise a specific yield without current confirmation.
+Put one person in charge of the final brief and handoff. Confirm date, serving count, wording, quote, delivery recipient and care plan together so the event team works from one agreed version. For First Communion, confirm the wording and visual symbols with the family rather than assuming what they want. Check the ceremony and reception schedule so delivery and the cake moment do not conflict with the service.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ipares ang gidak-on sa cake sa grupo sa pagdawat
+Desisyoni una ang papel sa cake: pakaonon ang panagtapok, markahan ang kandila o litrato, o buhaton ang duha. Timan-i kanus-a i-serve ug unsa pay ubang dessert sa dili pa mopili og gidak-on ug disenyo.
 
-Para sa gamay nga First Communion gathering, banabanaa kon pila ka mga paryente ang motambong sa dihang i-serve ang dessert. Ang pagtambong sa seremonyas mahimong maglakip sa mga tawo nga dili motambong sa panihapon. Sultihi ang panaderya kung ang cake gisilbi pagkahuman sa paniudto ug kung ang ubang mga dessert giplano, dayon pangutana kung unsang gidak-on ang angay sa gipaabut nga mga bahin.
+Pilia ang usa ka tawo nga modumala sa final brief ug pagdawat. Kumpirmaha dungan ang petsa, serving, teksto, quote, modawat sa delivery ug pag-atiman aron usa ra ka bersyon ang gamiton sa team. Alang sa First Communion, kumpirmaha sa pamilya ang teksto ug simbolo imbis mangagpasabot unsay gusto nila. Susiha ang oras sa misa ug salo-salo aron dili magsumpaki ang delivery ug cake moment.
 
-Ang kasamtangan nga giya naghulagway sa 4-pulgada nga Bento nga mga duha ka manggihatagon nga mga pag-alagad o tulo ka mga kasarangan. Ang 6-pulgada nga cake gibana-bana sa 8-12 nga mga hiwa sa partido, apan kini nga mga numero gibanabana ug nagdepende sa estilo sa pagputol. Hangyoa ang panaderya sa pagkumpirma sa gipaabot nga mga pagkaon alang sa petsa sa imong kalihokan.
+## Tagalog translation (editorial review pending)
 
-Itago ang mga banabana sa bahin sa panid sa sentral nga gidak-on ug i-link kini gikan sa sulud sa pagplano sa Unang Komunyon. Ayaw pagsaad og usa ka piho nga abot nga walay kasamtangan nga kumpirmasyon.
+Pagpasyahan muna ang papel ng cake: pakainin ang pagtitipon, markahan ang sandali ng kandila o litrato, o pareho. Itala kung kailan ito ihahain at kung anu-ano pang dessert bago pumili ng laki at disenyo.
 
-## Tagalog translation (machine translated; editorial review pending)
+Magtalaga ng isang taong hahawak sa final brief at handoff. Kumpirmahin nang sabay ang petsa, servings, teksto, quote, tatanggap ng delivery, at plano sa pag-aalaga para iisang bersiyon ang gamit ng event team. Para sa First Communion, kumpirmahin sa pamilya ang teksto at simbolo sa halip na manghula. Tingnan ang iskedyul ng seremonya at salu-salo para hindi sumabay ang delivery at cake moment.
 
-## Itugma ang laki ng cake sa reception group
+## Editorial note
 
-Para sa isang maliit na pagtitipon ng Unang Komunyon, tantiyahin kung ilang kamag-anak ang dadalo kapag naghahain ng dessert. Maaaring kabilang sa pagdalo sa seremonya ang mga taong hindi pupunta sa pagkain. Sabihin sa panaderya kung ang cake ay inihahain pagkatapos ng tanghalian at kung ang iba pang mga dessert ay binalak, pagkatapos ay itanong kung aling sukat ang nababagay sa inaasahang mga bahagi.
-
-Inilalarawan ng kasalukuyang gabay ang 4-pulgada na Bento bilang tungkol sa dalawang mapagbigay na serving o tatlong katamtaman. Ang isang 6 na pulgadang cake ay tinatantya sa 8–12 party slice, ngunit ang mga bilang na iyon ay tinatayang at nakadepende sa istilo ng pagputol. Hilingin sa panaderya na kumpirmahin ang inaasahang mga serving para sa petsa ng iyong kaganapan.
-
-Panatilihin ang mga pagtatantya ng bahagi sa gitnang laki ng pahina at i-link ito mula sa nilalaman ng pagpaplano ng Unang Komunyon. Huwag mangako ng isang tiyak na ani nang walang kasalukuyang kumpirmasyon.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

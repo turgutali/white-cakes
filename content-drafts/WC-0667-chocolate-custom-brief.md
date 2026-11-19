@@ -2,9 +2,9 @@
 id: WC-0667
 status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: \"What to include in a custom brief for chocolate cake in Cebu\"
-cebuano_title: \"Unsa ang iapil sa custom nga brief para sa chocolate cake sa Cebu\"
-tagalog_title: \"Ano ang isasama sa custom na brief para sa chocolate cake sa Cebu\"
+english_title: "What to include in a custom brief for chocolate cake in Cebu"
+cebuano_title: "Unsa ang iapil sa custom nga brief para sa chocolate cake sa Cebu"
+tagalog_title: "Ano ang isasama sa custom na brief para sa chocolate cake sa Cebu"
 ---
 
 ## English

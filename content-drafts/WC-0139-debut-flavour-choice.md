@@ -1,38 +1,31 @@
 ---
 id: WC-0139
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/choosing-a-flavor.html; verify live flavour menu
 english_title: "How to choose a flavour for debut cake in Cebu"
 cebuano_title: "Giunsa pagpili sa lami para sa cake para sa debut sa Cebu"
 tagalog_title: "Paano pumili ng flavor para sa cake para sa debut sa Cebu"
 ---
+## How to choose a flavour for debut cake in Cebu
 
-## Let the celebrant’s preference guide the flavour choice
+Choose flavour by asking what each option means in the bakery’s current menu. White Cakes lists chocolate, vanilla, ube, mango and red velvet; the flavour name alone does not promise a separate filling, fruit layer or topping. Confirm the actual cake construction and any allergen questions directly.
 
-Ask the debutante which flavour she enjoys, then consider how many guests will share the cake and whether the reception includes other desserts. White Cakes’ current flavour list has included Chocolate, Vanilla, Ube, Mango, and Red Velvet; confirm which options are available for the event date.
-
-Ask what the chosen flavour includes and whether it is offered in the size and design requested. If anyone has an allergy or dietary requirement, explain it directly and ask whether the bakery can accommodate it. Do not infer ingredients from a flavour name or cake colour.
-
-Keep the current options in the main flavour guide and link the size page for servings. Avoid a separate debut flavour article that repeats the same menu list.
+For a large debut, consider whether guests would prefer a familiar flavour or a distinctive one, then choose based on the bakery’s available options. If the cake is a single flavour, a clear menu note helps the host set expectations. Never assume an unlisted combination is available.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Himoa nga ang gusto sa nagsaulog mogiya sa pagpili sa lami
+Pilia ang lami pinaagi sa pagpangutana unsay kahulogan sa matag kapilian sa kasamtangang menu sa panaderya. Gilista sa White Cakes ang chocolate, vanilla, ube, mango ug red velvet; ang ngalan lang sa lami dili garantiya nga adunay lahi nga filling, fruit layer o topping. Kumpirmaha ang aktuwal nga cake ug pangutana bahin sa allergens diretso.
 
-Pangutan-a ang debutante kung unsa nga lami ang iyang natagamtam, unya hunahunaa kung pila ka mga bisita ang makigbahin sa cake ug kung ang pagdawat naglakip sa ubang mga dessert. Ang listahan sa lami karon sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; kumpirmahi kung unsang mga kapilian ang magamit alang sa petsa sa panghitabo.
+Alang sa dakong debut, hunahunaa kon pamilyar nga lami ba o lahi ang mas gusto sa bisita, dayon pilia gikan sa anaa sa panaderya. Kon usa ra ka lami ang cake, makatabang ang klarong pahibalo sa host. Ayaw paghunahuna nga anaa ang wala gilista nga kombinasyon.
 
-Pangutan-a kung unsa ang gilakip sa gipili nga lami ug kung gitanyag ba kini sa gidak-on ug disenyo nga gihangyo. Kung adunay bisan kinsa nga adunay allergy o kinahanglanon sa pagdiyeta, ipasabut kini direkta ug pangutana kung ang panaderya makaakomodar ba niini. Ayaw isulti ang mga sangkap gikan sa ngalan sa lami o kolor sa cake.
+## Tagalog translation (editorial review pending)
 
-Ipadayon ang kasamtangan nga mga kapilian sa panguna nga giya sa lami ug i-link ang gidak-on nga panid alang sa mga servings. Likayi ang usa ka separado nga debut flavor nga artikulo nga nagsubli sa samang listahan sa menu.
+Pumili ng flavor sa pamamagitan ng pagtatanong kung ano talaga ang ibig sabihin ng bawat opsyon sa kasalukuyang menu ng panaderya. Nakalista sa White Cakes ang chocolate, vanilla, ube, mango, at red velvet; hindi ginagarantiya ng pangalan lang ang hiwalay na filling, fruit layer, o topping. Kumpirmahin nang direkta ang aktuwal na laman at anumang tanong sa allergens.
 
-## Tagalog translation (machine translated; editorial review pending)
+Para sa malaking debut, isipin kung mas gusto ng bisita ang pamilyar o kakaibang lasa, saka pumili mula sa kasalukuyang available. Kung iisang flavor ang cake, makatutulong ang malinaw na abiso sa host. Huwag ipagpalagay na available ang kombinasyong wala sa listahan.
 
-## Hayaang gabayan ng kagustuhan ng celebrant ang pagpili ng lasa
+## Editorial note
 
-Tanungin ang debutante kung aling lasa ang gusto niya, pagkatapos ay isaalang-alang kung gaano karaming mga bisita ang sasalo sa cake at kung ang reception ay may kasamang iba pang mga dessert. Ang kasalukuyang listahan ng lasa ng White Cakes ay may kasamang Chocolate, Vanilla, Ube, Mango, at Red Velvet; kumpirmahin kung aling mga opsyon ang magagamit para sa petsa ng kaganapan.
-
-Itanong kung ano ang kasama sa napiling lasa at kung ito ay inaalok sa laki at disenyo na hiniling. Kung sinuman ang may allergy o dietary requirement, direktang ipaliwanag ito at tanungin kung kayang tanggapin ito ng panaderya. Huwag maghinuha ng mga sangkap mula sa pangalan ng lasa o kulay ng cake.
-
-Panatilihin ang kasalukuyang mga opsyon sa pangunahing gabay sa lasa at i-link ang page ng laki para sa mga serving. Iwasan ang isang hiwalay na artikulo ng debut flavor na umuulit sa parehong listahan ng menu.
+Draft for integration into the canonical pages listed in the index. Confirm current availability, prices, delivery terms and cake-care instructions before publication; Cebuano and Tagalog wording needs native editorial review.

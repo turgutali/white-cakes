@@ -1,38 +1,31 @@
 ---
 id: WC-0140
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; confirm venue access and route
 english_title: "How to prepare for delivery of debut cake in Cebu"
 cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa debut sa Cebu"
 tagalog_title: "Paano maghanda para sa delivery ng cake para sa debut sa Cebu"
 ---
+## How to prepare for delivery of debut cake in Cebu
 
-## Coordinate the venue handoff before guests arrive
+Give the complete venue address, a map pin or landmark, the event start time and the latest acceptable arrival time. Ask for the delivery window and address-based charge in the quote. Cebu City, Mandaue and Lapu-Lapu are listed service areas, but availability and route timing must be confirmed for the exact order.
 
-Share the full debut venue address, requested delivery window, receiving person’s name and phone number, and any gate, loading, or room access details. Ask whether the bakery can reach the venue and confirm the delivery timing and fee. If the cake must arrive before the program starts, leave enough time for setup and receiving.
-
-The named recipient should take the cake directly and keep it level until it is displayed. Ask the bakery for care instructions for the actual design, especially if the venue is warm or outdoors. Do not leave the cake unattended in a vehicle or in direct sunlight.
-
-Add these steps to the central Cebu delivery guide and link the cake-care page. Do not promise a specific arrival time without confirmation from the bakery.
+Name one reachable person who will meet the rider at the door, with a working phone number and any building entry instructions. The cake should not be left with a guard or in a warm lobby. Tell the coordinator where the cake table is and who will take the box there.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## I-coordinate ang handoff sa venue sa dili pa moabot ang mga bisita
+Ihatag ang tibuok address sa venue, map pin o landmark, oras sa pagsugod sa event ug pinakalate nga oras sa pag-abot. Pangayoa ang delivery window ug bayad base sa address sa quote. Gilista ang Cebu City, Mandaue ug Lapu-Lapu nga mga lugar nga giserbisyohan, apan kumpirmaha gihapon ang availability ug ruta sa eksaktong order.
 
-Ipakigbahin ang kompleto nga adres sa lugar nga debut, gihangyo nga window sa pagpadala, nakadawat sa ngalan ug numero sa telepono sa tawo, ug bisan unsang mga detalye sa gate, loading, o pag-access sa kwarto. Pangutan-a kung makaabot ba ang panaderya sa venue ug makumpirma ang oras sa pagpadala ug bayad. Kon ang cake kinahanglang moabot sa dili pa magsugod ang programa, pagbilin ug igong panahon alang sa pag-setup ug pagdawat.
+Pagpili og usa ka tawo nga maabot ug modawat sa rider sa pultahan, uban sa aktibong numero ug instruksyon sa pagsulod sa building. Dili angay ibilin ang cake sa guard o init nga lobby. Sultihi ang coordinator asa ang cake table ug kinsa ang modala sa kahon didto.
 
-Ang gihinganlan nga nakadawat kinahanglan nga diretso nga mokuha sa cake ug ipabilin kini nga lebel hangtod kini ipakita. Pangutan-a ang panaderya alang sa mga instruksyon sa pag-atiman alang sa aktwal nga disenyo, ilabi na kung ang lugar init o sa gawas. Ayaw ibilin ang cake nga wala maatiman sa usa ka awto o sa direkta nga adlaw.
+## Tagalog translation (editorial review pending)
 
-Idugang kini nga mga lakang sa sentro sa Cebu nga giya sa paghatud ug i-link ang panid sa pag-atiman sa cake. Ayaw pagsaad og piho nga oras sa pag-abot nga walay kumpirmasyon gikan sa panaderya.
+Ibigay ang buong address ng venue, map pin o landmark, oras ng simula ng event, at pinakahuling katanggap-tanggap na dating. Itanong ang delivery window at singil batay sa address sa quote. Nasa listahan ng service area ang Cebu City, Mandaue, at Lapu-Lapu, pero kumpirmahin ang availability at oras ng ruta para sa mismong order.
 
-## Tagalog translation (machine translated; editorial review pending)
+Magtalaga ng isang taong reachable na sasalubong sa rider sa pinto, may aktibong numero at tagubilin sa pagpasok sa gusali. Hindi dapat iwan ang cake sa guwardiya o mainit na lobby. Sabihin sa coordinator kung nasaan ang cake table at sino ang magdadala roon ng kahon.
 
-## I-coordinate ang handoff ng venue bago dumating ang mga bisita
+## Editorial note
 
-Ibahagi ang buong address ng venue ng debut, hiniling na window ng paghahatid, pagtanggap ng pangalan at numero ng telepono ng tao, at anumang mga detalye ng gate, loading, o pag-access sa kuwarto. Tanungin kung makakarating ang panaderya sa venue at kumpirmahin ang oras ng paghahatid at bayad. Kung dapat dumating ang cake bago magsimula ang programa, mag-iwan ng sapat na oras para sa pag-setup at pagtanggap.
-
-Dapat direktang kunin ng pinangalanang tatanggap ang cake at panatilihin itong kapantay hanggang sa ito ay maipakita. Magtanong sa panaderya para sa mga tagubilin sa pangangalaga para sa aktwal na disenyo, lalo na kung ang lugar ay mainit o nasa labas. Huwag iwanan ang cake na walang nagbabantay sa isang sasakyan o sa direktang sikat ng araw.
-
-Idagdag ang mga hakbang na ito sa gabay sa paghahatid sa gitnang Cebu at i-link ang pahina ng pangangalaga ng cake. Huwag mangako ng tiyak na oras ng pagdating nang walang kumpirmasyon mula sa panaderya.
+Draft for integration into the canonical pages listed in the index. Confirm current availability, prices, delivery terms and cake-care instructions before publication; Cebuano and Tagalog wording needs native editorial review.

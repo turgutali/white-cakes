@@ -1,38 +1,31 @@
 ---
 id: WC-0231
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; use actual approved cakes for examples
 english_title: "How to choose a design for graduation cake in Cebu"
 cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa graduation sa Cebu"
 tagalog_title: "Paano pumili ng disenyo para sa cake para sa graduation sa Cebu"
 ---
+## How to choose a design for graduation cake in Cebu
 
-## Highlight the graduate’s achievement with one clear feature
+Choose one visual direction that connects to the occasion: a palette, motif or meaningful detail. A cake does not need to repeat every element in the room; a restrained design often reads more clearly in photographs and keeps the celebrant as the focus.
 
-Choose whether the cake should show the graduate’s name, school colour, short congratulations, or a simple symbol. One focal detail is often easier to read than a collection of unrelated decorations. If you use a school logo, confirm permission and ask the bakery what it can reproduce.
-
-Send the exact spelling, event date, cake size, guest estimate, flavour, and delivery or pickup location. Share a reference and state what can be adapted. Confirm the quote and design summary in writing, especially if the cake must arrive before a ceremony or photo session.
-
-Add this prompt to the central Cebu design guide. Publish a separate graduation case only with a real cake, original approved photo, and customer consent.
+White Cakes makes custom work with hand-piped buttercream rather than printed sheets or fondant sculpture. Share one overall reference and prioritize the details that matter; confirm what can be adapted to the selected size. For graduation, check the graduate’s correct name, school spelling and ceremony date before approving lettering. If the cake travels to a venue after the ceremony, include the handoff location and time in the delivery plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ipasiugda ang kalamposan sa gradwado sa usa ka tin-aw nga bahin
+Pilia ang usa ka visual nga direksyon nga konektado sa okasyon: palette, motif o makahuluganon nga detalye. Dili kinahanglan kopyahon sa cake ang tanang elemento sa venue; mas klaro sa litrato ang simple nga disenyo ug ang celebrant gihapon ang sentro.
 
-Pilia kung ang cake kinahanglan ba magpakita sa ngalan sa gradwado, kolor sa eskuylahan, mubo nga pahalipay, o usa ka yano nga simbolo. Ang usa ka focal detail kasagaran mas sayon ​​basahon kay sa usa ka koleksyon sa walay kalabutan nga mga dekorasyon. Kung mogamit ka ug logo sa eskuylahan, kumpirmahi ang pagtugot ug pangutan-a ang panaderya kung unsa ang mahimo niini.
+Custom nga hand-piped buttercream ang gihimo sa White Cakes, dili printed sheet o fondant sculpture. Ipaambit ang usa ka kinatibuk-ang reference ug unaha ang importante nga detalye; kumpirmaha kon unsa ang ipahiangay sa gidak-on. Alang sa graduation, susiha ang hustong ngalan, spelling sa eskwelahan ug petsa sa seremonya sa dili pa aprobahan ang letra. Kon dad-on ang cake sa venue human sa seremonya, iapil sa delivery plan ang lokasyon ug oras sa handoff.
 
-Ipadala ang eksaktong spelling, petsa sa panghitabo, gidak-on sa cake, banabana sa bisita, lami, ug lokasyon sa pagpadala o pagkuha. Ipaambit ang usa ka pakisayran ug isulti kung unsa ang mahimo nga ipahiangay. Pagkumpirma sa kinutlo ug katingbanan sa disenyo sa pagsulat, labi na kung ang cake kinahanglan moabut sa wala pa ang usa ka seremonya o sesyon sa litrato.
+## Tagalog translation (editorial review pending)
 
-Idugang kini nga prompt sa sentro sa Cebu nga giya sa disenyo. Pag-publish ug bulag nga kaso sa graduation gamit lang ang tinuod nga cake, orihinal nga aprubado nga litrato, ug pagtugot sa kustomer.
+Pumili ng iisang visual na direksiyon na konektado sa okasyon: palette, motif, o makabuluhang detalye. Hindi kailangang ulitin ng cake ang lahat ng elemento sa venue; mas malinaw sa litrato ang payak na disenyo at nananatiling sentro ang celebrant.
 
-## Tagalog translation (machine translated; editorial review pending)
+Custom na hand-piped buttercream ang ginagawa ng White Cakes, hindi printed sheet o fondant sculpture. Ibahagi ang isang kabuuang reference at unahin ang mahahalagang detalye; kumpirmahin kung paano iaangkop sa napiling laki. Para sa graduation, tingnan ang tamang pangalan, baybay ng paaralan, at petsa ng seremonya bago aprubahan ang lettering. Kung dadalhin ang cake sa venue pagkatapos ng seremonya, isama sa delivery plan ang lugar at oras ng handoff.
 
-## I-highlight ang tagumpay ng nagtapos sa isang malinaw na tampok
+## Editorial note
 
-Piliin kung dapat ipakita ng cake ang pangalan ng nagtapos, kulay ng paaralan, maikling pagbati, o isang simpleng simbolo. Ang isang focal detail ay kadalasang mas madaling basahin kaysa sa isang koleksyon ng mga hindi nauugnay na dekorasyon. Kung gumagamit ka ng logo ng paaralan, kumpirmahin ang pahintulot at tanungin ang panaderya kung ano ang maaari nitong kopyahin.
-
-Ipadala ang eksaktong spelling, petsa ng kaganapan, laki ng cake, pagtatantya ng bisita, lasa, at lokasyon ng paghahatid o pagkuha. Magbahagi ng sanggunian at sabihin kung ano ang maaaring iakma. Kumpirmahin ang quote at buod ng disenyo sa pagsulat, lalo na kung ang cake ay dapat dumating bago ang isang seremonya o photo session.
-
-Idagdag ang prompt na ito sa gitnang gabay sa disenyo ng Cebu. Mag-publish ng hiwalay na kaso ng graduation gamit lang ang totoong cake, orihinal na inaprubahang larawan, at pahintulot ng customer.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

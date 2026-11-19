@@ -1,44 +1,31 @@
 ---
 id: WC-0201
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Which reference photos help when ordering christening cake in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa bunyag sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa binyag sa Cebu"
 ---
+## Which reference photos help when ordering christening cake in Cebu
 
-## Choose a clear design reference for a christening cake
+Choose one image that shows the overall silhouette, then add a separate close-up only for a detail that matters. Explain what you like in each image—colour, border, flower placement or lettering—and identify what is flexible.
 
-Select a photo that shows the main idea you want, such as a colour palette or a simple decorative motif. Explain what should be adapted and what can change. One main reference plus a short written note is easier to interpret than several photos with different themes.
-
-If you have an invitation or event decor, share only the colours or details that matter. Do not expect a custom cake to reproduce a church symbol, copyrighted character, or another bakery's design exactly. Ask White Cakes what is feasible for the chosen size and how the request affects the quote. Send the inscription separately in its final, checked wording.
-
-Include the event date, flavour, number of cake eaters, venue address, and delivery contact. Confirm availability and the handoff plan, especially if the cake goes to a church hall or function venue. Allow at least three days' notice; the 50% deposit confirms the agreed order.
-
-For a public reference-to-finished example, use original photos of a real cake and obtain permission. Otherwise, keep the tips in the general custom-brief guide.
+A reference is a direction, not a promise of an exact replica. White Cakes adapts designs to hand-piped buttercream, cake size and practical constraints. Ask for the bakery’s written interpretation before approving the final brief. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pagpili usa ka tin-aw nga pakisayran sa disenyo alang sa usa ka christening cake
+Pilia ang usa ka hulagway nga nagpakita sa kinatibuk-ang porma, ug idugang lang ang lahi nga close-up kon importante ang detalye. Isulti unsay ganahan sa matag litrato—kolor, border, kahimutang sa bulak o letra—ug unsay puwedeng usbon.
 
-Pagpili og litrato nga nagpakita sa pangunang ideya nga imong gusto, sama sa color palette o simple nga pangdekorasyon nga motif. Ipaathag kon ano ang dapat ibagay kag kon ano ang mahimo magbag-o. Ang usa ka nag-unang reperensiya ug usa ka mubo nga sinulat nga nota mas daling hubaron kaysa daghang mga litrato nga adunay lainlaing mga tema.
+Ang reference giya, dili saad nga eksaktong kopyahon. Ipahiangay sa White Cakes ang disenyo sa hand-piped buttercream, gidak-on ug praktikal nga limitasyon. Pangayo og sinulat nga interpretasyon sa dili pa aprobahan ang final brief. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Kung ikaw adunay imbitasyon o dekorasyon sa kalihokan, ipaambit lamang ang mga kolor o detalye nga hinungdanon. Ayaw pagdahum nga ang usa ka naandan nga cake mokopya sa simbolo sa simbahan, copyrighted nga karakter, o lain nga disenyo sa panaderya. Pangutan-a ang White Cake kung unsa ang mahimo alang sa gipili nga gidak-on ug kung giunsa ang hangyo makaapekto sa kinutlo. Ipadala ang inskripsiyon nga gilain sa katapusan, gisusi nga mga pulong niini.
+## Tagalog translation (editorial review pending)
 
-Ilakip ang petsa sa kalihokan, lami, gidaghanon sa mga nangaon sa cake, adres sa lugar, ug kontak sa pagpadala. Kumpirma ang pagkaanaa ug ang handoff nga plano, ilabi na kung ang cake moadto sa usa ka hawanan sa simbahan o lugar sa pag-obra. Tugoti ang labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
+Pumili ng isang larawan na nagpapakita ng kabuuang hugis, saka magdagdag ng hiwalay na close-up kung mahalaga ang isang detalye. Ipaliwanag kung ano ang gusto sa bawat larawan—kulay, border, ayos ng bulaklak, o lettering—at tukuyin kung ano ang puwedeng baguhin.
 
-Para sa usa ka public reference-to-finished nga pananglitan, gamita ang orihinal nga mga litrato sa tinuod nga cake ug pagkuha og pagtugot. Kung dili, itago ang mga tip sa kinatibuk-ang custom-mubo nga giya.
+Gabay ang reference, hindi pangako ng eksaktong replika. Inaangkop ng White Cakes ang disenyo sa hand-piped buttercream, laki ng cake, at praktikal na limitasyon. Humingi ng nakasulat na interpretasyon bago aprubahan ang final brief. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Pumili ng malinaw na sanggunian sa disenyo para sa isang christening cake
-
-Pumili ng larawan na nagpapakita ng pangunahing ideya na gusto mo, gaya ng paleta ng kulay o simpleng pandekorasyon na motif. Ipaliwanag kung ano ang dapat iakma at kung ano ang maaaring magbago. Ang isang pangunahing sanggunian at isang maikling nakasulat na tala ay mas madaling bigyang-kahulugan kaysa sa ilang mga larawan na may iba't ibang mga tema.
-
-Kung mayroon kang imbitasyon o palamuti ng kaganapan, ibahagi lamang ang mga kulay o detalyeng mahalaga. Huwag asahan ang isang custom na cake na gagawa ng isang simbolo ng simbahan, naka-copyright na karakter, o eksaktong disenyo ng ibang panaderya. Tanungin ang White Cake kung ano ang magagawa para sa napiling laki at kung paano nakakaapekto ang kahilingan sa quote. Ipadala ang inskripsiyon nang hiwalay sa huling, may check na mga salita nito.
-
-Isama ang petsa ng kaganapan, lasa, bilang ng mga kumakain ng cake, address ng lugar, at contact sa paghahatid. Kumpirmahin ang availability at ang handoff plan, lalo na kung ang cake ay pupunta sa isang church hall o function venue. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Para sa isang pampublikong reference-to-finished na halimbawa, gumamit ng mga orihinal na larawan ng isang tunay na cake at kumuha ng pahintulot. Kung hindi, panatilihin ang mga tip sa pangkalahatang custom-brief na gabay.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

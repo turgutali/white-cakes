@@ -1,38 +1,31 @@
 ---
 id: WC-0181
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; use only original approved cake photos
 english_title: "How to match the design of bridal shower cake in Cebu"
 cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa bridal shower sa Cebu"
 tagalog_title: "Paano itugma ang disenyo ng cake para sa bridal shower sa Cebu"
 ---
+## How to match the design of bridal shower cake in Cebu
 
-## Tie the cake to the shower’s mood and one clear visual cue
+Choose one visual direction that connects to the occasion: a palette, motif or meaningful detail. A cake does not need to repeat every element in the room; a restrained design often reads more clearly in photographs and keeps the celebrant as the focus.
 
-Decide whether the cake should feel playful, elegant, or understated. Use one element from the event—such as a colour from the invitations or a flower from the table setup—as the main visual cue. Share a reference image and explain what you want the bakery to adapt rather than asking for an exact copy.
-
-Confirm the inscription, size, serving estimate, flavour, date, and delivery location separately. If the cake will sit on a dessert table, share the available space and ask whether the decoration fits the chosen size. Get a current quote before paying.
-
-Add this as a short example to the central design guide. A standalone bridal-shower article needs real approved photos and event-specific decisions that add more than another generic theme list.
+White Cakes makes custom work with hand-piped buttercream rather than printed sheets or fondant sculpture. Share one overall reference and prioritize the details that matter; confirm what can be adapted to the selected size. For a bridal shower, treat the couple’s or host’s palette as a guide and avoid reproducing private or copyrighted details without permission. Confirm who approves the inscription and final design so the surprise stays coordinated.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ihigot ang cake sa mood sa shower ug usa ka klaro nga visual cue
+Pilia ang usa ka visual nga direksyon nga konektado sa okasyon: palette, motif o makahuluganon nga detalye. Dili kinahanglan kopyahon sa cake ang tanang elemento sa venue; mas klaro sa litrato ang simple nga disenyo ug ang celebrant gihapon ang sentro.
 
-Desisyuni kung ang cake kinahanglan ba nga mobati nga madulaon, elegante, o gamay. Gamita ang usa ka elemento gikan sa panghitabo—sama sa usa ka kolor gikan sa mga imbitasyon o usa ka bulak gikan sa setup sa lamesa—ingon nga nag-unang visual cue. Ipakigbahin ang usa ka reperensya nga imahe ug ipasabut kung unsa ang gusto nimo nga ipahiangay sa panaderya kaysa mangayo usa ka eksaktong kopya.
+Custom nga hand-piped buttercream ang gihimo sa White Cakes, dili printed sheet o fondant sculpture. Ipaambit ang usa ka kinatibuk-ang reference ug unaha ang importante nga detalye; kumpirmaha kon unsa ang ipahiangay sa gidak-on. Alang sa bridal shower, gamita isip giya ang palette sa magtiayon o host ug ayaw kopyaha ang pribado o copyrighted nga detalye kon walay pagtugot. Kumpirmaha kinsa ang moapruba sa mensahe ug disenyo aron hapsay ang sorpresa.
 
-Kumpirma ang inskripsiyon, gidak-on, banabana sa pagserbisyo, lami, petsa, ug lokasyon sa paghatod nga gilain. Kon ang cake molingkod sa usa ka dessert table, ipaambit ang anaa nga luna ug pangutana kon ang dekorasyon mohaum ba sa gipili nga gidak-on. Pagkuha ug kasamtangang quote sa dili pa mobayad.
+## Tagalog translation (editorial review pending)
 
-Idugang kini isip usa ka mubo nga pananglitan sa sentro nga giya sa disenyo. Ang usa ka standalone nga bridal-shower nga artikulo nanginahanglan ug tinuod nga aprobahan nga mga litrato ug mga desisyon nga espesipiko sa panghitabo nga nagdugang labaw pa sa usa ka generic nga listahan sa tema.
+Pumili ng iisang visual na direksiyon na konektado sa okasyon: palette, motif, o makabuluhang detalye. Hindi kailangang ulitin ng cake ang lahat ng elemento sa venue; mas malinaw sa litrato ang payak na disenyo at nananatiling sentro ang celebrant.
 
-## Tagalog translation (machine translated; editorial review pending)
+Custom na hand-piped buttercream ang ginagawa ng White Cakes, hindi printed sheet o fondant sculpture. Ibahagi ang isang kabuuang reference at unahin ang mahahalagang detalye; kumpirmahin kung paano iaangkop sa napiling laki. Para sa bridal shower, gawing gabay ang palette ng magkapareha o host at huwag kopyahin ang pribado o copyrighted na detalye nang walang pahintulot. Kumpirmahin kung sino ang mag-aapruba ng mensahe at disenyo para maayos ang sorpresa.
 
-## Itali ang cake sa mood ng shower at isang malinaw na visual cue
+## Editorial note
 
-Magpasya kung ang cake ay dapat maging mapaglaro, elegante, o hindi gaanong mahalaga. Gumamit ng isang elemento mula sa kaganapan—gaya ng isang kulay mula sa mga imbitasyon o isang bulaklak mula sa setup ng talahanayan—bilang pangunahing visual cue. Magbahagi ng reference na larawan at ipaliwanag kung ano ang gusto mong ibagay ng panaderya sa halip na humingi ng eksaktong kopya.
-
-Kumpirmahin ang inskripsiyon, laki, pagtatantya ng paghahatid, lasa, petsa, at lokasyon ng paghahatid nang hiwalay. Kung ang cake ay uupo sa isang dessert table, ibahagi ang magagamit na espasyo at tanungin kung ang dekorasyon ay umaangkop sa napiling sukat. Kumuha ng kasalukuyang quote bago magbayad.
-
-Idagdag ito bilang isang maikling halimbawa sa gitnang gabay sa disenyo. Ang isang standalone na bridal-shower na artikulo ay nangangailangan ng mga tunay na inaprubahang larawan at mga desisyong partikular sa kaganapan na nagdaragdag ng higit pa sa isa pang generic na listahan ng tema.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

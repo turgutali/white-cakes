@@ -1,38 +1,31 @@
 ---
 id: WC-0169
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; a technique gallery requires actual approved close-ups
 english_title: "Design details to consider for baby shower cake in Cebu"
 cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa baby shower sa Cebu"
 tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa baby shower sa Cebu"
 ---
+## Design details to consider for baby shower cake in Cebu
 
-## Choose one focal design detail that suits the family’s celebration
+Choose one visual direction that connects to the occasion: a palette, motif or meaningful detail. A cake does not need to repeat every element in the room; a restrained design often reads more clearly in photographs and keeps the celebrant as the focus.
 
-Decide whether the cake should reflect the shower’s palette, a short greeting, or a small theme detail. Ask the family which feature matters most and choose one reference that shows it. Keep the design flexible where possible so the bakery can adapt it to the cake size and production schedule.
-
-Confirm the recipient’s name, event date, guest estimate, flavour, message, and handoff plan. Ask whether the design has enough space for the wording and whether the current quote includes the requested decoration. Avoid assuming a reference image represents a product currently offered.
-
-Add this prompt to the existing design guide. A separate piping or technique article needs original close-ups of real White Cakes work and a distinct verified explanation.
+White Cakes makes custom work with hand-piped buttercream rather than printed sheets or fondant sculpture. Share one overall reference and prioritize the details that matter; confirm what can be adapted to the selected size. For a baby shower, decide who is authorized to share the cake brief and receive delivery, especially if the event is a surprise. Keep the message and colour direction aligned with the host’s confirmed plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pagpili og usa ka detalye sa focal design nga haum sa selebrasyon sa pamilya
+Pilia ang usa ka visual nga direksyon nga konektado sa okasyon: palette, motif o makahuluganon nga detalye. Dili kinahanglan kopyahon sa cake ang tanang elemento sa venue; mas klaro sa litrato ang simple nga disenyo ug ang celebrant gihapon ang sentro.
 
-Pagdesisyon kung ang cake kinahanglan nga magpakita sa paleta sa shower, usa ka mubo nga pagtimbaya, o usa ka gamay nga detalye sa tema. Pangutan-a ang pamilya kon unsa nga bahin ang labing importante ug pagpili og usa ka pakisayran nga nagpakita niini. Hupti nga flexible ang disenyo kung mahimo aron ang panaderya makapahiangay niini sa gidak-on sa cake ug iskedyul sa produksiyon.
+Custom nga hand-piped buttercream ang gihimo sa White Cakes, dili printed sheet o fondant sculpture. Ipaambit ang usa ka kinatibuk-ang reference ug unaha ang importante nga detalye; kumpirmaha kon unsa ang ipahiangay sa gidak-on. Alang sa baby shower, pilia kon kinsa ang awtorisadong mopadala sa cake brief ug modawat sa delivery, labi na kon sorpresa ang event. Ipares ang mensahe ug kolor sa gikumpirmang plano sa host.
 
-Kumpirma ang ngalan sa nakadawat, petsa sa panghitabo, banabana sa bisita, lami, mensahe, ug plano sa handoff. Pangutan-a kung ang disenyo adunay igo nga luna alang sa mga pulong ug kung ang kasamtangan nga kinutlo naglakip sa gipangayo nga dekorasyon. Likayi ang paghunahuna nga ang usa ka reperensya nga imahe nagrepresentar sa usa ka produkto nga gitanyag karon.
+## Tagalog translation (editorial review pending)
 
-Idugang kini nga prompt sa kasamtangan nga giya sa disenyo. Ang usa ka lahi nga artikulo sa piping o teknik nanginahanglan mga orihinal nga close-up sa tinuud nga trabaho sa White Cakes ug usa ka lahi nga gipamatud-an nga katin-awan.
+Pumili ng iisang visual na direksiyon na konektado sa okasyon: palette, motif, o makabuluhang detalye. Hindi kailangang ulitin ng cake ang lahat ng elemento sa venue; mas malinaw sa litrato ang payak na disenyo at nananatiling sentro ang celebrant.
 
-## Tagalog translation (machine translated; editorial review pending)
+Custom na hand-piped buttercream ang ginagawa ng White Cakes, hindi printed sheet o fondant sculpture. Ibahagi ang isang kabuuang reference at unahin ang mahahalagang detalye; kumpirmahin kung paano iaangkop sa napiling laki. Para sa baby shower, piliin kung sino ang awtorisadong magpadala ng cake brief at tumanggap ng delivery, lalo na kung sorpresa ang event. Iayon ang mensahe at kulay sa kumpirmadong plano ng host.
 
-## Pumili ng isang detalye ng focal na disenyo na angkop sa pagdiriwang ng pamilya
+## Editorial note
 
-Magpasya kung dapat ipakita ng cake ang palette ng shower, isang maikling pagbati, o isang maliit na detalye ng tema. Tanungin ang pamilya kung aling tampok ang pinakamahalaga at pumili ng isang sanggunian na nagpapakita nito. Panatilihing flexible ang disenyo kung saan posible upang maiangkop ito ng panaderya sa laki ng cake at iskedyul ng produksyon.
-
-Kumpirmahin ang pangalan ng tatanggap, petsa ng kaganapan, pagtatantya ng bisita, lasa, mensahe, at handoff na plano. Itanong kung ang disenyo ay may sapat na espasyo para sa mga salita at kung ang kasalukuyang quote ay kasama ang hiniling na palamuti. Iwasang ipagpalagay na ang isang reference na larawan ay kumakatawan sa isang produktong kasalukuyang inaalok.
-
-Idagdag ang prompt na ito sa kasalukuyang gabay sa disenyo. Ang isang hiwalay na artikulo ng piping o technique ay nangangailangan ng mga orihinal na close-up ng totoong gawa ng White Cakes at isang natatanging na-verify na paliwanag.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

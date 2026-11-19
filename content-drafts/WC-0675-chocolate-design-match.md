@@ -2,9 +2,9 @@
 id: WC-0675
 status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; confirm current chocolate menu
-english_title: \"How to match the design of chocolate cake in Cebu\"
-cebuano_title: \"Giunsa pagpares ang disenyo sa chocolate cake sa Cebu\"
-tagalog_title: \"Paano itugma ang disenyo ng chocolate cake sa Cebu\"
+english_title: "How to match the design of chocolate cake in Cebu"
+cebuano_title: "Giunsa pagpares ang disenyo sa chocolate cake sa Cebu"
+tagalog_title: "Paano itugma ang disenyo ng chocolate cake sa Cebu"
 ---
 
 ## English

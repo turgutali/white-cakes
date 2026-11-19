@@ -1,38 +1,31 @@
 ---
 id: WC-0207
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; a close-up article needs original approved cake photos
 english_title: "Design details to consider for christening cake in Cebu"
 cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa bunyag sa Cebu"
 tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa binyag sa Cebu"
 ---
+## Design details to consider for christening cake in Cebu
 
-## Keep the design focused on one family-approved detail
+Choose one visual direction that connects to the occasion: a palette, motif or meaningful detail. A cake does not need to repeat every element in the room; a restrained design often reads more clearly in photographs and keeps the celebrant as the focus.
 
-Choose one visual direction that suits the family’s gathering, such as a simple colour palette, short message, or small decorative symbol. Ask the family which detail matters most and share a clear reference. Confirm the child’s name spelling and any religious wording before the bakery finalizes the layout.
-
-Tell the bakery the date, guest estimate, size, flavour, budget, and venue plan. Ask whether the design fits the cake surface and production schedule. For any allergy or dietary question, ask about ingredients directly rather than inferring from appearance.
-
-Add this as a prompt to the existing design guide. A standalone close-up story should use real approved work and explain a specific technique.
+White Cakes makes custom work with hand-piped buttercream rather than printed sheets or fondant sculpture. Share one overall reference and prioritize the details that matter; confirm what can be adapted to the selected size. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ipadayon ang disenyo nga naka-focus sa usa ka detalye nga giaprobahan sa pamilya
+Pilia ang usa ka visual nga direksyon nga konektado sa okasyon: palette, motif o makahuluganon nga detalye. Dili kinahanglan kopyahon sa cake ang tanang elemento sa venue; mas klaro sa litrato ang simple nga disenyo ug ang celebrant gihapon ang sentro.
 
-Pagpili og usa ka biswal nga direksyon nga mohaum sa panagpundok sa pamilya, sama sa usa ka yano nga paleta sa kolor, mubo nga mensahe, o gamay nga simbolo sa dekorasyon. Pangutan-a ang pamilya kon unsa nga detalye ang labing importante ug ipaambit ang klaro nga pakisayran. Kumpirmahi ang spelling sa ngalan sa bata ug bisan unsang relihiyosong mga pulong sa dili pa mahuman sa panaderya ang layout.
+Custom nga hand-piped buttercream ang gihimo sa White Cakes, dili printed sheet o fondant sculpture. Ipaambit ang usa ka kinatibuk-ang reference ug unaha ang importante nga detalye; kumpirmaha kon unsa ang ipahiangay sa gidak-on. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Isulti sa panaderya ang petsa, banabana sa bisita, gidak-on, lami, badyet, ug plano sa lugar. Pangutan-a kung ang disenyo mohaum sa ibabaw sa cake ug iskedyul sa produksyon. Alang sa bisan unsang pangutana sa alerdyi o pagkaon, pangutana bahin sa mga sangkap nga direkta imbes nga isulti ang hitsura.
+## Tagalog translation (editorial review pending)
 
-Idugang kini isip usa ka prompt sa kasamtangan nga giya sa disenyo. Ang usa ka standalone nga close-up nga istorya kinahanglan nga mogamit sa tinuud nga giaprubahan nga trabaho ug ipasabut ang usa ka piho nga teknik.
+Pumili ng iisang visual na direksiyon na konektado sa okasyon: palette, motif, o makabuluhang detalye. Hindi kailangang ulitin ng cake ang lahat ng elemento sa venue; mas malinaw sa litrato ang payak na disenyo at nananatiling sentro ang celebrant.
 
-## Tagalog translation (machine translated; editorial review pending)
+Custom na hand-piped buttercream ang ginagawa ng White Cakes, hindi printed sheet o fondant sculpture. Ibahagi ang isang kabuuang reference at unahin ang mahahalagang detalye; kumpirmahin kung paano iaangkop sa napiling laki. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Panatilihing nakatutok ang disenyo sa isang detalyeng inaprubahan ng pamilya
+## Editorial note
 
-Pumili ng isang visual na direksyon na nababagay sa pagtitipon ng pamilya, tulad ng isang simpleng color palette, maikling mensahe, o maliit na simbolo ng dekorasyon. Tanungin ang pamilya kung aling detalye ang pinakamahalaga at magbahagi ng malinaw na sanggunian. Kumpirmahin ang spelling ng pangalan ng bata at anumang relihiyosong mga salita bago tapusin ng panaderya ang layout.
-
-Sabihin sa panaderya ang petsa, pagtatantya ng bisita, laki, lasa, badyet, at plano ng venue. Itanong kung ang disenyo ay akma sa ibabaw ng cake at iskedyul ng produksyon. Para sa anumang allergy o pandiyeta na tanong, direktang magtanong tungkol sa mga sangkap sa halip na maghinuha mula sa hitsura.
-
-Idagdag ito bilang prompt sa kasalukuyang gabay sa disenyo. Ang isang standalone na close-up na kuwento ay dapat gumamit ng tunay na naaprubahang trabaho at ipaliwanag ang isang partikular na pamamaraan.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

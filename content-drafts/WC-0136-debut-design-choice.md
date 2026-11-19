@@ -1,38 +1,31 @@
 ---
 id: WC-0136
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; use original approved examples
 english_title: "How to choose a design for debut cake in Cebu"
 cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa debut sa Cebu"
 tagalog_title: "Paano pumili ng disenyo para sa cake para sa debut sa Cebu"
 ---
+## How to choose a design for debut cake in Cebu
 
-## Choose a design that reflects the celebrant and the reception style
+Treat the celebrant’s outfit, venue palette and one motif as a design brief, not a demand to reproduce a reference cake exactly. White Cakes works in hand-piped buttercream; describe which detail matters most—colour, border, flowers or a short message—so the design can be adapted to the chosen size.
 
-Ask the debutante what colours or details she likes and decide on one focal idea. A name, short message, or simple decorative theme can be easier to read than several competing elements. Share a reference and tell the bakery which parts are inspiration and which are essential.
-
-Confirm the size, serving estimate, flavour, exact wording, event date, budget, and venue handoff. Ask whether the design fits the cake shape and the production schedule. If using a school or brand logo, confirm permission before sending it.
-
-Keep general guidance in the existing Cebu design guide. A standalone debut case needs a real cake, original approved photo, and a distinct design lesson.
+Send one overall reference and, if useful, a separate close-up of a single detail. Too many unrelated screenshots make it hard to identify the priority. Ask the bakery to confirm what is achievable before invitations or décor are finalized around an unapproved cake mock-up.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pagpili og disenyo nga nagpakita sa nagsaulog ug sa estilo sa pagdawat
+Gamita isip design brief ang sinina sa debutante, kolor sa venue ug usa ka motif; ayaw ipasabot nga eksaktong kopyahon ang reference cake. Hand-piped buttercream ang pamaagi sa White Cakes; isulti kon unsang detalye ang labing importante—kolor, border, bulak o mubo nga mensahe—aron ipahiangay sa gidak-on.
 
-Pangutan-a ang debutante kung unsa nga mga kolor o mga detalye ang iyang gusto ug pagdesisyon sa usa ka focal idea. Ang usa ka ngalan, mubo nga mensahe, o yano nga pangdekorasyon nga tema mahimong dali nga basahon kaysa daghang mga elemento nga nakigkompetensya. Ipaambit ang usa ka pakisayran ug sultihi ang panaderya kung unsang mga bahin ang inspirasyon ug unsa ang hinungdanon.
+Ipadala ang usa ka kinatibuk-ang reference ug, kon makatabang, lahi nga close-up sa usa ka detalye. Lisod mahibal-an ang prayoridad kon daghan og dili magkasinabot nga screenshot. Pangayo og kumpirmasyon kon mahimo ba sa dili pa ibase ang imbitasyon o dekorasyon sa wala pa aprobahan nga cake mock-up.
 
-Kumpirma ang gidak-on, banabana sa pagserbisyo, lami, eksaktong pulong, petsa sa panghitabo, badyet, ug handoff sa lugar. Pangutan-a kung ang disenyo mohaum ba sa porma sa cake ug sa iskedyul sa produksiyon. Kung naggamit ug logo sa eskuylahan o brand, kumpirmahi ang pagtugot sa dili pa ipadala.
+## Tagalog translation (editorial review pending)
 
-Hupti ang kinatibuk-ang giya sa kasamtangan nga giya sa disenyo sa Cebu. Ang usa ka standalone debut case nanginahanglan usa ka tinuud nga cake, orihinal nga gi-aprubahan nga litrato, ug usa ka lahi nga leksyon sa disenyo.
+Gawing design brief ang damit ng debutante, palette ng venue, at isang motif; huwag ipalagay na eksaktong gagayahin ang reference cake. Hand-piped buttercream ang ginagawa ng White Cakes; sabihin kung aling detalye ang pinakamahalaga—kulay, border, bulaklak, o maikling mensahe—para maiangkop sa napiling laki.
 
-## Tagalog translation (machine translated; editorial review pending)
+Magpadala ng isang kabuuang reference at, kung makatutulong, hiwalay na close-up ng isang detalye. Mahirap matukoy ang prayoridad kapag maraming hindi magkakaugnay na screenshot. Ipa-confirm kung kaya bago ibatay ang imbitasyon o dekorasyon sa hindi pa aprubadong cake mock-up.
 
-## Pumili ng disenyo na sumasalamin sa celebrant at sa istilo ng pagtanggap
+## Editorial note
 
-Tanungin ang debutante kung anong mga kulay o detalye ang gusto niya at magpasya sa isang focal idea. Ang isang pangalan, maikling mensahe, o simpleng pandekorasyon na tema ay maaaring mas madaling basahin kaysa sa ilang nakikipagkumpitensyang elemento. Magbahagi ng sanggunian at sabihin sa panaderya kung aling mga bahagi ang inspirasyon at kung alin ang mahalaga.
-
-Kumpirmahin ang laki, pagtatantya ng paghahatid, lasa, eksaktong salita, petsa ng kaganapan, badyet, at handoff ng venue. Itanong kung ang disenyo ay akma sa hugis ng cake at sa iskedyul ng produksyon. Kung gumagamit ng logo ng paaralan o brand, kumpirmahin ang pahintulot bago ito ipadala.
-
-Panatilihin ang pangkalahatang gabay sa umiiral na gabay sa disenyo ng Cebu. Ang isang standalone na debut case ay nangangailangan ng isang tunay na cake, orihinal na naaprubahang larawan, at isang natatanging aralin sa disenyo.
+Draft for integration into the canonical pages listed in the index. Confirm current availability, prices, delivery terms and cake-care instructions before publication; Cebuano and Tagalog wording needs native editorial review.

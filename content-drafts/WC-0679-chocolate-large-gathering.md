@@ -2,9 +2,9 @@
 id: WC-0679
 status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html; verify current flavour availability
-english_title: \"How to plan chocolate cake in Cebu\"
-cebuano_title: \"Giunsa pagplano ang chocolate cake sa Cebu\"
-tagalog_title: \"Paano planuhin ang chocolate cake sa Cebu\"
+english_title: "How to plan chocolate cake in Cebu"
+cebuano_title: "Giunsa pagplano ang chocolate cake sa Cebu"
+tagalog_title: "Paano planuhin ang chocolate cake sa Cebu"
 ---
 
 ## English

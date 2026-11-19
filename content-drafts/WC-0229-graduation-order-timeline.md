@@ -1,38 +1,31 @@
 ---
 id: WC-0229
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
 english_title: "How to plan the order timeline for graduation cake in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa graduation sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa graduation sa Cebu"
 ---
+## How to plan the order timeline for graduation cake in Cebu
 
-## Work backward from the ceremony, photos, and family celebration
+Start with the confirmed event date and the time the cake must be ready. White Cakes requests at least three days’ notice, with earlier contact for detailed piping, multi-tier work and busy dates. Availability is confirmed by the bakery, so an inquiry alone does not hold a slot.
 
-Decide when the cake should be received and when it will be served. A graduation may involve several schedule changes, so share the venue, ceremony timing, and a realistic handoff window with the bakery. Confirm the graduate’s name, size, flavour, design, and message early enough for one person to approve them.
-
-White Cakes currently asks for at least three days’ notice for made-to-order cakes. Inquire earlier for a detailed design or busy date, and wait for availability confirmation. Get the full quote and delivery or pickup plan in writing before following the stated deposit process.
-
-Keep lead-time guidance in the central order page and recheck current business instructions before publication.
+Send the date, venue area, guest estimate, size, flavour, one design reference and delivery or pickup preference together. Ask for the production slot and final quote in writing; pay the stated 50% deposit only after those details are agreed. For graduation, check the graduate’s correct name, school spelling and ceremony date before approving lettering. If the cake travels to a venue after the ceremony, include the handoff location and time in the delivery plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Trabaho pabalik gikan sa seremonya, mga litrato, ug pagsaulog sa pamilya
+Sugdi sa kumpirmadong petsa ug oras nga kinahanglan andam ang cake. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo; mas sayo kontaka sila para sa detalyadong piping, daghang tier ug busy nga petsa. Ang panaderya ang mokumpirma sa availability; dili pa reserbasyon ang pangutana.
 
-Pagdesisyon kung kanus-a madawat ang cake ug kung kanus-a kini i-serve. Ang usa ka gradwasyon mahimong maglakip sa daghang mga pagbag-o sa iskedyul, busa ipaambit ang lugar, oras sa seremonya, ug usa ka realistiko nga bintana sa handoff sa panaderya. Kumpirma ang ngalan sa gradwado, gidak-on, lami, disenyo, ug mensahe sa sayo nga igo aron maaprobahan sila sa usa ka tawo.
+Ipadala dungan ang petsa, dapit sa venue, gibanabanang bisita, gidak-on, lami, usa ka design reference ug gusto nga delivery o pickup. Pangayoa sa sinulat ang production slot ug kataposang quote; mobayad lang sa 50% nga deposito kon nagkasinabot na sa detalye. Alang sa graduation, susiha ang hustong ngalan, spelling sa eskwelahan ug petsa sa seremonya sa dili pa aprobahan ang letra. Kon dad-on ang cake sa venue human sa seremonya, iapil sa delivery plan ang lokasyon ug oras sa handoff.
 
-Ang mga White Cakes sa pagkakaron nangayo og labing menos tulo ka adlaw nga pahibalo alang sa mga made-to-order nga mga cake. Pagpangutana sa sayo pa alang sa usa ka detalyado nga disenyo o busy nga petsa, ug paghulat alang sa pagkumpirma sa pagkaanaa. Kuhaa ang tibuok nga quote ug delivery o pickup nga plano sa pagsulat sa dili pa mosunod sa gipahayag nga proseso sa pagdeposito.
+## Tagalog translation (editorial review pending)
 
-Hupti ang lead-time nga giya sa sentral nga panid sa order ug susiha pag-usab ang kasamtangan nga mga instruksyon sa negosyo sa dili pa imantala.
+Magsimula sa kumpirmadong petsa ng event at oras na dapat handa ang cake. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso; mas maagang makipag-ugnayan para sa detalyadong piping, maraming tier, at mataong petsa. Panaderya ang nagkukumpirma ng availability; hindi reservation ang inquiry.
 
-## Tagalog translation (machine translated; editorial review pending)
+Ipadala nang sabay ang petsa, lugar ng venue, tantiyang bisita, laki, flavor, isang design reference, at kung delivery o pickup. Hilingin sa sulat ang production slot at final quote; magbayad lang ng 50% deposito kapag napagkasunduan na ang mga detalye. Para sa graduation, tingnan ang tamang pangalan, baybay ng paaralan, at petsa ng seremonya bago aprubahan ang lettering. Kung dadalhin ang cake sa venue pagkatapos ng seremonya, isama sa delivery plan ang lugar at oras ng handoff.
 
-## Trabaho pabalik mula sa seremonya, mga larawan, at pagdiriwang ng pamilya
+## Editorial note
 
-Magpasya kung kailan dapat tanggapin ang cake at kung kailan ito ihain. Maaaring may kasamang ilang pagbabago sa iskedyul ang graduation, kaya ibahagi ang venue, timing ng seremonya, at isang makatotohanang handoff window sa panaderya. Kumpirmahin nang maaga ang pangalan, laki, lasa, disenyo, at mensahe ng nagtapos para maaprubahan sila ng isang tao.
-
-Kasalukuyang humihingi ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Magtanong nang mas maaga para sa isang detalyadong disenyo o abala na petsa, at maghintay para sa kumpirmasyon ng availability. Kunin ang buong quote at delivery o pickup plan nang nakasulat bago sundin ang nakasaad na proseso ng deposito.
-
-Panatilihin ang gabay sa lead-time sa gitnang pahina ng order at suriin muli ang mga kasalukuyang tagubilin sa negosyo bago i-publish.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

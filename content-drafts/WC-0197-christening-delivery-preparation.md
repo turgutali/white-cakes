@@ -1,44 +1,31 @@
 ---
 id: WC-0197
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
 english_title: "How to prepare for delivery of christening cake in Cebu"
 cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa bunyag sa Cebu"
 tagalog_title: "Paano maghanda para sa delivery ng cake para sa binyag sa Cebu"
 ---
+## How to prepare for delivery of christening cake in Cebu
 
-## Prepare the christening venue to receive the cake
+Share the complete venue address, map pin or landmark, event time and latest acceptable arrival. Cebu City, Mandaue and Lapu-Lapu are listed service areas, but the exact route, availability, delivery window and address-based charge need confirmation in the quote.
 
-Name a person who will meet the driver and bring the cake to the serving area. Give White Cakes the complete venue address, landmark, receiver's mobile number, and any church hall, gate, or building instructions. Confirm the delivery window and fee; do not assume the driver can find the correct room without a contact.
-
-Check that the venue can accept the cake at that time and has a stable place to set it down. If it will arrive hours before the reception, ask about storage and arrange a cool place if White Cakes recommends it. Keep the box out of direct sunlight and away from a hot vehicle.
-
-Include the event date, size, flavour, inscription, and delivery contact in the order. Confirm that the design and quoted price are agreed. Made-to-order cakes need at least three days' notice; the 50% deposit confirms the order after the details and handoff are settled.
-
-Keep general delivery steps in the shared Cebu guide. Add church-venue instructions only when verified from actual orders.
+Name one reachable person who will meet the rider at the door. Include a working number and building-entry instructions; the cake should not be left with security or in a warm lobby. Coordinate a direct handoff to the person responsible for the cake table. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pag-andam sa christening venue para makadawat sa cake
+Ihatag ang tibuok address sa venue, map pin o landmark, oras sa event ug pinakalate nga pag-abot. Gilista ang Cebu City, Mandaue ug Lapu-Lapu nga mga service area, apan kumpirmaha sa quote ang eksaktong ruta, availability, delivery window ug bayad base sa address.
 
-Pagngalan ug tawo nga makigkita sa drayber ug dad-on ang cake sa lugar nga giserbisyuhan. Ihatag ang White Cakes sa kompleto nga adres sa lugar, landmark, mobile number sa receiver, ug bisan unsang instruksyon sa hawanan, ganghaan, o building sa simbahan. Kumpirma ang delivery window ug bayad; ayaw hunahunaa nga makit-an sa drayber ang husto nga kwarto nga wala’y kontak.
+Pagpili og usa ka tawo nga maabot ug modawat sa rider sa pultahan. Iapil ang aktibong numero ug instruksyon sa pagsulod sa building; ayaw ibilin ang cake sa security o init nga lobby. I-coordinate ang direktang pagdawat ngadto sa responsable sa cake table. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Susiha nga ang venue makadawat sa cake nianang panahona ug adunay usa ka lig-on nga dapit nga ibutang kini. Kung moabut kini mga oras sa wala pa ang pagdawat, pangutana bahin sa pagtipig ug paghikay sa usa ka mabugnaw nga lugar kung girekomenda kini sa White Cakes. Ipahilayo ang kahon sa direktang silaw sa adlaw ug layo sa init nga sakyanan.
+## Tagalog translation (editorial review pending)
 
-Ilakip ang petsa sa panghitabo, gidak-on, lami, inskripsiyon, ug kontak sa pagpadala sa order. Pagmatuod nga ang disenyo ug gikutlo nga presyo nagkauyon. Ang hinimo-sa-pag-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa order human ang mga detalye ug handoff masulbad.
+Ibigay ang buong address ng venue, map pin o landmark, oras ng event, at pinakahuling katanggap-tanggap na dating. Nasa service area ang Cebu City, Mandaue, at Lapu-Lapu, pero kumpirmahin sa quote ang ruta, availability, delivery window, at singil batay sa address.
 
-Ipadayon ang kinatibuk-ang mga lakang sa pagpadala sa gipaambit nga giya sa Sugbo. Idugang ang mga panudlo sa lugar sa simbahan kung gipamatud-an gikan sa aktwal nga mga mando.
+Magtalaga ng isang taong reachable na sasalubong sa rider sa pinto. Isama ang aktibong numero at tagubilin sa pagpasok sa gusali; huwag iwan ang cake sa security o mainit na lobby. Ayusin ang direktang handoff sa taong responsable sa cake table. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Ihanda ang venue ng pagbibinyag para matanggap ang cake
-
-Pangalanan ang isang tao na makikilala ang driver at dalhin ang cake sa lugar ng paghahatid. Ibigay sa White Cakes ang kumpletong address ng venue, landmark, mobile number ng receiver, at anumang mga tagubilin sa hall, gate, o gusali ng simbahan. Kumpirmahin ang window ng paghahatid at bayad; huwag ipagpalagay na mahahanap ng driver ang tamang silid nang walang contact.
-
-Suriin kung ang venue ay maaaring tanggapin ang cake sa oras na iyon at may isang matatag na lugar upang ilagay ito. Kung darating ito ilang oras bago ang reception, magtanong tungkol sa imbakan at ayusin ang isang malamig na lugar kung inirerekomenda ito ng White Cakes. Ilayo ang kahon sa direktang sikat ng araw at malayo sa mainit na sasakyan.
-
-Isama ang petsa ng kaganapan, laki, lasa, inskripsiyon, at contact sa paghahatid sa order. Kumpirmahin na ang disenyo at naka-quote na presyo ay napagkasunduan. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang order pagkatapos ma-settle ang mga detalye at handoff.
-
-Panatilihin ang mga pangkalahatang hakbang sa paghahatid sa nakabahaging gabay sa Cebu. Magdagdag lamang ng mga tagubilin sa lugar ng simbahan kapag na-verify mula sa aktwal na mga order.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

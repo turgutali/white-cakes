@@ -1,38 +1,31 @@
 ---
 id: WC-0153
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
 english_title: "How to plan the order timeline for baby shower cake in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa baby shower sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa baby shower sa Cebu"
 ---
+## How to plan the order timeline for baby shower cake in Cebu
 
-## Set the shower date and handoff before choosing the final design
+Start with the confirmed event date and the time the cake must be ready. White Cakes requests at least three days’ notice, with earlier contact for detailed piping, multi-tier work and busy dates. Availability is confirmed by the bakery, so an inquiry alone does not hold a slot.
 
-Confirm the celebration date, venue, and serving time first. Then decide the approximate guest count, cake size, flavour, inscription, and design direction. If the shower includes a surprise or a reveal, assign one organizer to contact the bakery and receive the order so details remain coordinated.
-
-White Cakes’ current instructions ask for at least three days’ notice for made-to-order cakes. Reach out earlier for a detailed design or a busy weekend, and wait for the bakery to confirm availability. A 50% deposit is the stated way to confirm the agreed order; verify the current total and payment method in writing.
-
-Keep lead-time details in the single Cebu order-timeline guide and review them against current business instructions before publication.
+Send the date, venue area, guest estimate, size, flavour, one design reference and delivery or pickup preference together. Ask for the production slot and final quote in writing; pay the stated 50% deposit only after those details are agreed. For a baby shower, decide who is authorized to share the cake brief and receive delivery, especially if the event is a surprise. Keep the message and colour direction aligned with the host’s confirmed plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Itakda ang petsa sa shower ug handoff sa dili pa pilion ang kataposang disenyo
+Sugdi sa kumpirmadong petsa ug oras nga kinahanglan andam ang cake. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo; mas sayo kontaka sila para sa detalyadong piping, daghang tier ug busy nga petsa. Ang panaderya ang mokumpirma sa availability; dili pa reserbasyon ang pangutana.
 
-Kumpirma una ang petsa sa selebrasyon, lugar, ug oras sa pagserbisyo. Dayon pagdesisyon sa gibanabana nga ihap sa bisita, gidak-on sa cake, lami, inskripsiyon, ug direksyon sa disenyo. Kung ang shower naglakip sa usa ka sorpresa o usa ka pagpadayag, pag-assign og usa ka organizer sa pagkontak sa panaderya ug pagdawat sa order aron ang mga detalye magpabilin nga koordinado.
+Ipadala dungan ang petsa, dapit sa venue, gibanabanang bisita, gidak-on, lami, usa ka design reference ug gusto nga delivery o pickup. Pangayoa sa sinulat ang production slot ug kataposang quote; mobayad lang sa 50% nga deposito kon nagkasinabot na sa detalye. Alang sa baby shower, pilia kon kinsa ang awtorisadong mopadala sa cake brief ug modawat sa delivery, labi na kon sorpresa ang event. Ipares ang mensahe ug kolor sa gikumpirmang plano sa host.
 
-Ang kasamtangang instruksyon sa White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa made-to-order nga mga cake. Pag-abot sa sayo pa alang sa usa ka detalyado nga disenyo o usa ka busy nga katapusan sa semana, ug paghulat sa panaderya aron makumpirma ang pagkaanaa. Ang 50% nga deposito mao ang gipahayag nga paagi aron makumpirma ang gikasabutan nga order; pamatud-i ang kasamtangan nga total ug paagi sa pagbayad pinaagi sa pagsulat.
+## Tagalog translation (editorial review pending)
 
-Itago ang mga detalye sa lead-time sa usa ka giya sa order-timeline sa Cebu ug ribyuha kini batok sa kasamtangan nga mga instruksyon sa negosyo sa dili pa imantala.
+Magsimula sa kumpirmadong petsa ng event at oras na dapat handa ang cake. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso; mas maagang makipag-ugnayan para sa detalyadong piping, maraming tier, at mataong petsa. Panaderya ang nagkukumpirma ng availability; hindi reservation ang inquiry.
 
-## Tagalog translation (machine translated; editorial review pending)
+Ipadala nang sabay ang petsa, lugar ng venue, tantiyang bisita, laki, flavor, isang design reference, at kung delivery o pickup. Hilingin sa sulat ang production slot at final quote; magbayad lang ng 50% deposito kapag napagkasunduan na ang mga detalye. Para sa baby shower, piliin kung sino ang awtorisadong magpadala ng cake brief at tumanggap ng delivery, lalo na kung sorpresa ang event. Iayon ang mensahe at kulay sa kumpirmadong plano ng host.
 
-## Itakda ang petsa ng shower at handoff bago piliin ang huling disenyo
+## Editorial note
 
-Kumpirmahin muna ang petsa ng pagdiriwang, lugar, at oras ng paghahatid. Pagkatapos ay magpasya ang tinatayang bilang ng bisita, laki ng cake, lasa, inskripsiyon, at direksyon ng disenyo. Kung may kasamang sorpresa o pagsisiwalat ang shower, magtalaga ng isang organizer na makipag-ugnayan sa panaderya at tanggapin ang order upang manatiling magkakaugnay ang mga detalye.
-
-Ang mga kasalukuyang tagubilin ng White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Makipag-ugnayan nang mas maaga para sa isang detalyadong disenyo o isang abalang weekend, at hintayin ang panaderya na kumpirmahin ang pagkakaroon. Ang 50% na deposito ay ang nakasaad na paraan upang kumpirmahin ang napagkasunduang order; i-verify ang kasalukuyang kabuuan at paraan ng pagbabayad nang nakasulat.
-
-Panatilihin ang mga detalye ng lead-time sa iisang Cebu order-timeline na gabay at suriin ang mga ito ayon sa kasalukuyang mga tagubilin sa negosyo bago i-publish.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

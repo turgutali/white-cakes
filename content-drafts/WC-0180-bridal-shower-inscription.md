@@ -1,38 +1,31 @@
 ---
 id: WC-0180
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
 english_title: "What to write on bridal shower cake in Cebu"
 cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa bridal shower sa Cebu"
 tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa bridal shower sa Cebu"
 ---
+## What to write on bridal shower cake in Cebu
 
-## Keep the bridal shower message short and suited to the guest of honour
+Keep the message short, legible and correctly spelled. Send the exact text, capitalization and punctuation in writing; compare names and dates with the invitation or programme before approving the final order.
 
-Choose whether to use the bride’s name, a brief congratulations, or a short phrase shared by the group. A few readable words usually work better than a long inside joke that guests may not understand. If you want a longer dedication, place it on a card beside the cake.
-
-Send the exact spelling and capitalization with the order. Ask whether the phrase fits the cake’s design and where it can be placed. Confirm the cake size and decoration before choosing a message length, since borders and flowers use part of the writing area.
-
-Add original bridal shower examples to the shared message guide only when real approved images show useful layout differences.
+Ask whether the wording fits the selected cake size and hand-piped finish. If several names or a long phrase matter, decide early what can be shortened so the lettering remains readable in person and in photographs. For a bridal shower, treat the couple’s or host’s palette as a guide and avoid reproducing private or copyrighted details without permission. Confirm who approves the inscription and final design so the surprise stays coordinated.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Hupti ang mensahe sa bridal shower nga mubo ug haum sa bisita sa dungog
+Himoa nga mubo, klaro ug husto ang spelling sa mensahe. Ipadala sa sinulat ang eksaktong teksto, capital ug punctuation; itandi ang ngalan ug petsa sa imbitasyon o programa sa dili pa aprobahan ang order.
 
-Pilia kung gamiton ba ang ngalan sa pangasaw-onon, usa ka mubo nga pahalipay, o usa ka mubo nga hugpong sa mga pulong nga gipaambit sa grupo. Ang pipila ka mabasa nga mga pulong kasagaran mas maayo kay sa taas nga sulod nga komedya nga dili masabtan sa mga bisita. Kung gusto nimo og mas taas nga dedikasyon, ibutang kini sa usa ka kard tupad sa cake.
+Pangutan-a kon moigo ba ang teksto sa piniling gidak-on ug hand-piped finish. Kon importante ang daghang ngalan o taas nga mensahe, desisyoni daan unsay mapamubo aron mabasa gihapon sa personal ug litrato. Alang sa bridal shower, gamita isip giya ang palette sa magtiayon o host ug ayaw kopyaha ang pribado o copyrighted nga detalye kon walay pagtugot. Kumpirmaha kinsa ang moapruba sa mensahe ug disenyo aron hapsay ang sorpresa.
 
-Ipadala ang eksaktong spelling ug capitalization uban sa order. Pangutan-a kon ang hugpong sa mga pulong mohaum ba sa disenyo sa cake ug asa kini ibutang. Kumpirma ang gidak-on ug dekorasyon sa cake sa dili pa mopili ug gitas-on sa mensahe, tungod kay ang mga utlanan ug mga bulak naggamit ug bahin sa dapit sa pagsulat.
+## Tagalog translation (editorial review pending)
 
-Idugang ang orihinal nga bridal shower nga mga panig-ingnan sa gipaambit nga giya sa mensahe lamang kung ang tinuod nga aprobahan nga mga hulagway nagpakita sa mapuslanong mga kalainan sa layout.
+Panatilihing maikli, malinaw, at tama ang baybay ng mensahe. Ipadala nang nakasulat ang eksaktong teksto, capitalization, at bantas; itugma ang mga pangalan at petsa sa imbitasyon o programa bago aprubahan ang order.
 
-## Tagalog translation (machine translated; editorial review pending)
+Itanong kung kasya ang teksto sa napiling laki at hand-piped finish. Kung mahalaga ang maraming pangalan o mahabang mensahe, pagpasyahan nang maaga kung ano ang paiikliin para mabasa pa rin nang personal at sa litrato. Para sa bridal shower, gawing gabay ang palette ng magkapareha o host at huwag kopyahin ang pribado o copyrighted na detalye nang walang pahintulot. Kumpirmahin kung sino ang mag-aapruba ng mensahe at disenyo para maayos ang sorpresa.
 
-## Panatilihing maikli ang mensahe ng bridal shower at angkop sa panauhing pandangal
+## Editorial note
 
-Piliin kung gagamitin ang pangalan ng nobya, isang maikling pagbati, o isang maikling parirala na ibinahagi ng grupo. Ang ilang nababasang salita ay kadalasang mas gumagana kaysa sa isang mahabang biro sa loob na maaaring hindi maintindihan ng mga bisita. Kung gusto mo ng mas mahabang dedikasyon, ilagay ito sa isang card sa tabi ng cake.
-
-Ipadala ang eksaktong spelling at capitalization kasama ng order. Itanong kung ang parirala ay angkop sa disenyo ng cake at kung saan ito maaaring ilagay. Kumpirmahin ang laki at dekorasyon ng cake bago pumili ng haba ng mensahe, dahil ang mga hangganan at bulaklak ay gumagamit ng bahagi ng lugar ng pagsusulatan.
-
-Magdagdag ng mga orihinal na halimbawa ng bridal shower sa nakabahaging gabay sa mensahe kapag ang mga tunay na inaprubahang larawan ay nagpapakita ng mga kapaki-pakinabang na pagkakaiba sa layout.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

@@ -1,44 +1,31 @@
 ---
 id: WC-0186
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
 english_title: "What to confirm before paying a deposit for bridal shower cake in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa bridal shower sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa bridal shower sa Cebu"
 ---
+## What to confirm before paying a deposit for bridal shower cake in Cebu
 
-## Confirm the bridal-shower order before sending payment
+Before paying, check that the written order summary has the event date, size, flavour, design direction, exact inscription, total price and delivery or pickup arrangement. Correct spelling, address and timing while the details can still be reviewed.
 
-Make sure White Cakes has confirmed the event date and production slot. Made-to-order cakes require at least three days' notice; a popular weekend date may need earlier planning. Do not treat a quote enquiry or design discussion as a reservation.
-
-Read the written order summary for the size, flavour, design, exact inscription, price, pickup or delivery, venue address, and receiver. Confirm which reference details the bakery will adapt and what the quote includes. If delivery is planned, check the window and fee for the full address.
-
-The current process uses a 50% deposit to confirm the agreed order. Follow the payment details in the current quote and save the receipt. If the family is still deciding on wording, size, or delivery time, settle those details before payment so the confirmation records the final plan.
-
-Keep deposit terms and ordering steps in one central guide. Recheck them against the current bakery process before publication.
+The stated 50% deposit confirms an agreed order after the details and price are settled. Ask how the remaining balance is handled and what to do if timing changes; keep the confirmation and payment record together. For a bridal shower, treat the couple’s or host’s palette as a guide and avoid reproducing private or copyrighted details without permission. Confirm who approves the inscription and final design so the surprise stays coordinated.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Kumpirma ang order sa bridal-shower sa dili pa ipadala ang bayad
+Sa dili pa mobayad, susiha nga naa sa sinulat nga order summary ang petsa, gidak-on, lami, direksyon sa disenyo, eksaktong inskripsiyon, total nga presyo ug delivery o pickup. Itul-id ang spelling, address ug oras samtang marepaso pa.
 
-Siguruha nga gikumpirma sa White Cakes ang petsa sa panghitabo ug puwang sa produksiyon. Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang usa ka popular nga petsa sa katapusan sa semana mahimong magkinahanglan og sayo nga pagplano. Ayaw isipa ang usa ka quote inquiry o design discussion isip reservation.
+Ang gipasabot nga 50% nga deposito mokumpirma sa gikasabutang order human mahuman ang detalye ug presyo. Pangutan-a unsaon pagbayad sa nahibilin ug unsay buhaton kon mausab ang oras; tipigi dungan ang kumpirmasyon ug resibo. Alang sa bridal shower, gamita isip giya ang palette sa magtiayon o host ug ayaw kopyaha ang pribado o copyrighted nga detalye kon walay pagtugot. Kumpirmaha kinsa ang moapruba sa mensahe ug disenyo aron hapsay ang sorpresa.
 
-Basaha ang sinulat nga summary sa order alang sa gidak-on, lami, disenyo, eksaktong inskripsiyon, presyo, pickup o delivery, venue address, ug receiver. Kumpirma kung unsang mga detalye sa pakisayran ang ipahiangay sa panaderya ug kung unsa ang gilakip sa kinutlo. Kung giplano ang pagpadala, susiha ang bintana ug bayad alang sa tibuuk nga adres.
+## Tagalog translation (editorial review pending)
 
-Ang kasamtangan nga proseso naggamit ug 50% nga deposito aron makumpirma ang gikasabutan nga order. Sunda ang mga detalye sa pagbayad sa kasamtangan nga quote ug i-save ang resibo. Kon ang pamilya nagdesisyon pa sa mga pulong, gidak-on, o oras sa paghatod, husaya kadtong mga detalye sa dili pa ang pagbayad aron marekord sa kumpirmasyon ang katapusang plano.
+Bago magbayad, tingnan kung nakasulat sa order summary ang petsa, laki, flavor, direksiyon ng disenyo, eksaktong inskripsiyon, kabuuang presyo, at delivery o pickup arrangement. Itama ang baybay, address, at oras habang maaari pang marepaso.
 
-Ipadayon ang mga termino sa pagdeposito ug mga lakang sa pag-order sa usa ka sentro nga giya. Susiha kini pag-usab batok sa kasamtangan nga proseso sa panaderya sa dili pa imantala.
+Kinukumpirma ng nakasaad na 50% deposito ang napagkasunduang order kapag kumpleto na ang detalye at presyo. Itanong kung paano babayaran ang balanse at ano ang gagawin kung magbago ang oras; itabi ang kumpirmasyon at resibo. Para sa bridal shower, gawing gabay ang palette ng magkapareha o host at huwag kopyahin ang pribado o copyrighted na detalye nang walang pahintulot. Kumpirmahin kung sino ang mag-aapruba ng mensahe at disenyo para maayos ang sorpresa.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Kumpirmahin ang order ng bridal-shower bago magpadala ng bayad
-
-Tiyaking kinumpirma ng White Cakes ang petsa ng kaganapan at puwang ng produksyon. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; isang sikat na petsa sa katapusan ng linggo ay maaaring mangailangan ng mas maagang pagpaplano. Huwag ituring ang isang quote inquiry o design discussion bilang isang reserbasyon.
-
-Basahin ang nakasulat na buod ng order para sa laki, lasa, disenyo, eksaktong inskripsiyon, presyo, pickup o delivery, address ng lugar, at receiver. Kumpirmahin kung aling mga detalye ng sanggunian ang iaangkop ng panaderya at kung ano ang kasama sa quote. Kung pinlano ang paghahatid, tingnan ang window at bayad para sa buong address.
-
-Ang kasalukuyang proseso ay gumagamit ng 50% na deposito upang kumpirmahin ang napagkasunduang order. Sundin ang mga detalye ng pagbabayad sa kasalukuyang quote at i-save ang resibo. Kung ang pamilya ay nagpapasya pa rin sa mga salita, laki, o oras ng paghahatid, ayusin ang mga detalyeng iyon bago magbayad upang maitala ng kumpirmasyon ang pinal na plano.
-
-Panatilihin ang mga tuntunin ng deposito at mga hakbang sa pag-order sa isang sentral na gabay. Suriin muli ang mga ito laban sa kasalukuyang proseso ng panaderya bago i-publish.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

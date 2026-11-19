@@ -2,9 +2,9 @@
 id: WC-0669
 status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/chocolate-cake-cebu.html
-english_title: \"How to estimate servings for chocolate cake in Cebu\"
-cebuano_title: \"Giunsa pagbanabana sa servings para sa chocolate cake sa Cebu\"
-tagalog_title: \"Paano tantiyahin ang servings para sa chocolate cake sa Cebu\"
+english_title: "How to estimate servings for chocolate cake in Cebu"
+cebuano_title: "Giunsa pagbanabana sa servings para sa chocolate cake sa Cebu"
+tagalog_title: "Paano tantiyahin ang servings para sa chocolate cake sa Cebu"
 ---
 
 ## English

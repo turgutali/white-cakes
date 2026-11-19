@@ -1,44 +1,31 @@
 ---
 id: WC-0210
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
 english_title: "How to plan the order timeline for First Communion cake in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa First Communion sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa First Communion sa Cebu"
 ---
+## How to plan the order timeline for First Communion cake in Cebu
 
-## Check the First Communion date and cake slot early
+Start with the confirmed event date and the time the cake must be ready. White Cakes requests at least three days’ notice, with earlier contact for detailed piping, multi-tier work and busy dates. Availability is confirmed by the bakery, so an inquiry alone does not hold a slot.
 
-Ask White Cakes about date availability as soon as the family knows the ceremony and meal schedule. Made-to-order cakes need at least three days' notice. If the event is on a weekend or close to a holiday, check earlier rather than assuming the bakery can fit the order.
-
-Once the date is available, send the number of cake eaters, size preference, flavour, design reference, and exact inscription. If the cake will be served after lunch, mention other desserts and whether you want small or full portions. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches; ask the bakery to confirm the size.
-
-If delivery is planned, provide the venue address, landmark, receiver's mobile number, and any church hall or building instructions. Confirm the delivery window and fee. Review the final design and price in writing; the 50% deposit confirms the agreed order.
-
-Keep lead-time information in the single Cebu order-timeline guide and recheck it when booking policy changes.
+Send the date, venue area, guest estimate, size, flavour, one design reference and delivery or pickup preference together. Ask for the production slot and final quote in writing; pay the stated 50% deposit only after those details are agreed. For First Communion, confirm the wording and visual symbols with the family rather than assuming what they want. Check the ceremony and reception schedule so delivery and the cake moment do not conflict with the service.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Susihon og sayo ang petsa sa Unang Komunyon ug slot sa cake
+Sugdi sa kumpirmadong petsa ug oras nga kinahanglan andam ang cake. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo; mas sayo kontaka sila para sa detalyadong piping, daghang tier ug busy nga petsa. Ang panaderya ang mokumpirma sa availability; dili pa reserbasyon ang pangutana.
 
-Pangutan-a ang White Cakes bahin sa pagkaanaa sa petsa sa diha nga nahibal-an sa pamilya ang seremonya ug iskedyul sa pagkaon. Ang gihimo nga mga cake kinahanglan nga labing menos tulo ka adlaw nga pahibalo. Kung ang kalihokan sa katapusan sa semana o hapit sa usa ka holiday, susiha sa sayo pa kaysa sa paghunahuna nga ang panaderya mahimong mohaum sa order.
+Ipadala dungan ang petsa, dapit sa venue, gibanabanang bisita, gidak-on, lami, usa ka design reference ug gusto nga delivery o pickup. Pangayoa sa sinulat ang production slot ug kataposang quote; mobayad lang sa 50% nga deposito kon nagkasinabot na sa detalye. Alang sa First Communion, kumpirmaha sa pamilya ang teksto ug simbolo imbis mangagpasabot unsay gusto nila. Susiha ang oras sa misa ug salo-salo aron dili magsumpaki ang delivery ug cake moment.
 
-Kung magamit na ang petsa, ipadala ang gidaghanon sa mga mokaon og cake, gusto sa gidak-on, lami, reference sa disenyo, ug eksaktong inskripsiyon. Kung ang cake i-serve pagkahuman sa paniudto, hisguti ang ubang mga dessert ug kung gusto nimo ang gagmay o puno nga mga bahin. Ang mga banabana karon mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada; pangutan-a ang panaderya sa pagkumpirma sa gidak-on.
+## Tagalog translation (editorial review pending)
 
-Kung giplano ang paghatod, ihatag ang adres sa lugar, landmark, numero sa mobile sa tigdawat, ug bisan unsang instruksyon sa hawanan o bilding sa simbahan. Kumpirma ang delivery window ug bayad. Ribyuha ang katapusang disenyo ug presyo sa pagsulat; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
+Magsimula sa kumpirmadong petsa ng event at oras na dapat handa ang cake. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso; mas maagang makipag-ugnayan para sa detalyadong piping, maraming tier, at mataong petsa. Panaderya ang nagkukumpirma ng availability; hindi reservation ang inquiry.
 
-Itago ang lead-time nga impormasyon sa usa ka Cebu order-timeline nga giya ug susiha kini pag-usab kon magbag-o ang polisiya sa booking.
+Ipadala nang sabay ang petsa, lugar ng venue, tantiyang bisita, laki, flavor, isang design reference, at kung delivery o pickup. Hilingin sa sulat ang production slot at final quote; magbayad lang ng 50% deposito kapag napagkasunduan na ang mga detalye. Para sa First Communion, kumpirmahin sa pamilya ang teksto at simbolo sa halip na manghula. Tingnan ang iskedyul ng seremonya at salu-salo para hindi sumabay ang delivery at cake moment.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Tingnan ang petsa ng Unang Komunyon at slot ng cake nang maaga
-
-Magtanong ng White Cakes tungkol sa pagkakaroon ng petsa sa sandaling malaman ng pamilya ang seremonya at iskedyul ng pagkain. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Kung ang kaganapan ay sa isang katapusan ng linggo o malapit sa isang holiday, suriin nang mas maaga sa halip na ipagpalagay na ang panaderya ay maaaring magkasya sa order.
-
-Kapag available na ang petsa, ipadala ang bilang ng mga kumakain ng cake, kagustuhan sa laki, lasa, sanggunian sa disenyo, at eksaktong inskripsiyon. Kung ang cake ay ihahain pagkatapos ng tanghalian, banggitin ang iba pang mga dessert at kung gusto mo ng maliliit o buong bahagi. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada; hilingin sa panaderya na kumpirmahin ang laki.
-
-Kung pinlano ang paghahatid, ibigay ang address ng venue, landmark, mobile number ng receiver, at anumang bulwagan ng simbahan o mga tagubilin sa gusali. Kumpirmahin ang window ng paghahatid at bayad. Suriin ang huling disenyo at presyo sa pamamagitan ng pagsulat; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang impormasyon ng lead-time sa iisang Cebu order-timeline guide at suriin muli ito kapag nagbago ang patakaran sa booking.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

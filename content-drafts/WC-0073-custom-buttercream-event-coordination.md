@@ -1,38 +1,39 @@
 ---
 id: WC-0073
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; confirm route and product care
 english_title: "How to coordinate custom buttercream cake in Cebu"
 cebuano_title: "Giunsa pag-coordinate ang custom buttercream cake sa Cebu"
 tagalog_title: "Paano i-coordinate ang custom buttercream cake sa Cebu"
 ---
 
-## Give the receiver and event conditions to the bakery ahead of time
+## English
 
-Provide the full address, requested handoff window, receiver’s name and phone number, and any building or venue access instructions. Ask whether delivery to the location is available and confirm its timing and fee. If the cake is for an outdoor event or office, explain where it will wait before serving.
+# How to coordinate custom buttercream cake in Cebu
 
-Choose someone who can receive it promptly, keep the box level, and follow the bakery’s care guidance for the specific buttercream design. If the schedule changes, contact the bakery before extending the storage time or moving the cake.
+Coordinate delivery with a named receiver and the person responsible for the event table. Give the bakery the exact address, venue access notes, phone number, and delivery window. White Cakes delivers to Cebu City, Mandaue, and Lapu-Lapu; confirm the exact destination and current terms.
 
-Keep general logistics in the Cebu delivery guide and verified handling advice in the care page. A route or finish guarantee needs direct confirmation.
+The client or venue handles setup and cutting; plan who will carry the cake from the handoff point.
+
+## Cebuano
+
+# Giunsa pag-coordinate ang custom buttercream cake sa Cebu
+
+I-coordinate ang delivery sa modawat ug responsable sa lamesa. Ihatag ang address, access notes, numero ug window. Nag-deliver ang White Cakes sa Cebu City, Mandaue ug Lapu-Lapu; kumpirmaha ang destinasyon ug terms.
+
+Ang kliyente o venue maoy mag-setup ug mohiwa; planoha kinsa modala gikan handoff.
+
+## Tagalog
+
+# Paano i-coordinate ang custom buttercream cake sa Cebu
+
+I-coordinate ang delivery sa tatanggap at taong responsable sa mesa. Ibigay ang address, access notes, numero, at window. Nagde-deliver ang White Cakes sa Cebu City, Mandaue, at Lapu-Lapu; kumpirmahin ang eksaktong destinasyon at terms.
+
+Kliyente o venue ang bahala sa setup at paghiwa; tukuyin kung sino ang magdadala mula handoff.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hatagi ang tigdawat ug mga kondisyon sa panghitabo sa panaderya sa sayo pa
-
-Ihatag ang kompleto nga adres, gihangyo nga handoff window, ngalan sa tigdawat ug numero sa telepono, ug bisan unsang mga panudlo sa pag-access sa bilding o lugar. Pangutan-a kung magamit ba ang pagpadala sa lokasyon ug kumpirmahi ang oras ug bayad niini. Kung ang cake alang sa usa ka kalihokan sa gawas o opisina, ipasabut kung asa kini maghulat sa dili pa i-serve.
-
-Pagpili og tawo nga makadawat dayon niini, ipabilin ang lebel sa kahon, ug sunda ang giya sa pag-atiman sa panaderya alang sa piho nga disenyo sa buttercream. Kung mausab ang eskedyul, kontaka ang panaderya sa dili pa lugwayan ang oras sa pagtipig o ibalhin ang cake.
-
-Ibutang ang kinatibuk-ang logistik sa Cebu delivery guide ug verified handling advice sa care page. Ang usa ka ruta o pagtapos nga garantiya nanginahanglan direkta nga pagkumpirma.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ibigay ang receiver at mga kundisyon ng kaganapan sa panaderya nang maaga
-
-Ibigay ang buong address, hiniling na handoff window, pangalan at numero ng telepono ng tatanggap, at anumang mga tagubilin sa pag-access sa gusali o lugar. Tanungin kung available ang paghahatid sa lokasyon at kumpirmahin ang oras at bayad nito. Kung ang cake ay para sa isang panlabas na kaganapan o opisina, ipaliwanag kung saan ito maghihintay bago ihain.
-
-Pumili ng isang taong makakatanggap nito kaagad, panatilihin ang antas ng kahon, at sundin ang gabay sa pangangalaga ng panaderya para sa partikular na disenyo ng buttercream. Kung magbago ang iskedyul, makipag-ugnayan sa panaderya bago pahabain ang oras ng pag-iimbak o ilipat ang cake.
-
-Panatilihin ang pangkalahatang logistik sa gabay sa paghahatid sa Cebu at na-verify na payo sa paghawak sa pahina ng pangangalaga. Ang isang ruta o pagtatapos na garantiya ay nangangailangan ng direktang kumpirmasyon.
+- Verify current flavours, pricing dates, lead time, venue requirements, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

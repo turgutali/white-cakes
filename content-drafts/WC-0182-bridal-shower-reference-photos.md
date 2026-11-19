@@ -1,38 +1,31 @@
 ---
 id: WC-0182
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Which reference photos help when ordering bridal shower cake in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa bridal shower sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa bridal shower sa Cebu"
 ---
+## Which reference photos help when ordering bridal shower cake in Cebu
 
-## Show the bakery the style and the one detail you want to preserve
+Choose one image that shows the overall silhouette, then add a separate close-up only for a detail that matters. Explain what you like in each image—colour, border, flower placement or lettering—and identify what is flexible.
 
-For a bridal shower cake, send one image that captures the overall look and, if needed, another for a specific feature such as a flower, colour, or lettering style. Explain which part of each reference matters. If the host has a venue palette or invitation design, share it only as inspiration unless those exact colours are essential.
-
-Tell the bakery the date, approximate guest count, chosen size, flavour, inscription, and handoff plan. Ask whether the reference can be adapted to the cake’s dimensions and the available production time. Confirm the final design and quote in writing.
-
-Add this advice to the shared custom brief guide. A separate inspiration story needs a real reference-to-finished example with approval and a useful design lesson.
+A reference is a direction, not a promise of an exact replica. White Cakes adapts designs to hand-piped buttercream, cake size and practical constraints. Ask for the bakery’s written interpretation before approving the final brief. For a bridal shower, treat the couple’s or host’s palette as a guide and avoid reproducing private or copyrighted details without permission. Confirm who approves the inscription and final design so the surprise stays coordinated.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ipakita sa panaderya ang istilo ug ang usa ka detalye nga gusto nimong mapreserbar
+Pilia ang usa ka hulagway nga nagpakita sa kinatibuk-ang porma, ug idugang lang ang lahi nga close-up kon importante ang detalye. Isulti unsay ganahan sa matag litrato—kolor, border, kahimutang sa bulak o letra—ug unsay puwedeng usbon.
 
-Para sa bridal shower cake, magpadala ug usa ka hulagway nga nagkuha sa kinatibuk-ang hitsura ug, kung gikinahanglan, lain alang sa usa ka piho nga bahin sama sa bulak, kolor, o estilo sa letra. Ipaathag kon ano nga bahin sang tagsa ka reperensia ang importante. Kung ang host adunay paleta sa lugar o disenyo sa imbitasyon, ipaambit kini isip inspirasyon gawas kung kinahanglan ang eksaktong mga kolor.
+Ang reference giya, dili saad nga eksaktong kopyahon. Ipahiangay sa White Cakes ang disenyo sa hand-piped buttercream, gidak-on ug praktikal nga limitasyon. Pangayo og sinulat nga interpretasyon sa dili pa aprobahan ang final brief. Alang sa bridal shower, gamita isip giya ang palette sa magtiayon o host ug ayaw kopyaha ang pribado o copyrighted nga detalye kon walay pagtugot. Kumpirmaha kinsa ang moapruba sa mensahe ug disenyo aron hapsay ang sorpresa.
 
-Isulti sa panaderya ang petsa, gibanabana nga ihap sa bisita, gipili nga gidak-on, lami, inskripsiyon, ug plano sa handoff. Pangutan-a kung ang reperensiya mahimong ipahiangay sa mga dimensyon sa cake ug ang magamit nga oras sa paghimo. Kumpirma ang katapusang disenyo ug kinutlo pinaagi sa pagsulat.
+## Tagalog translation (editorial review pending)
 
-Idugang kini nga tambag sa gipaambit nga custom nga mubo nga giya. Ang usa ka bulag nga istorya sa inspirasyon nanginahanglan usa ka tinuud nga reference-to-finished nga pananglitan nga adunay pagtugot ug usa ka mapuslanon nga leksyon sa disenyo.
+Pumili ng isang larawan na nagpapakita ng kabuuang hugis, saka magdagdag ng hiwalay na close-up kung mahalaga ang isang detalye. Ipaliwanag kung ano ang gusto sa bawat larawan—kulay, border, ayos ng bulaklak, o lettering—at tukuyin kung ano ang puwedeng baguhin.
 
-## Tagalog translation (machine translated; editorial review pending)
+Gabay ang reference, hindi pangako ng eksaktong replika. Inaangkop ng White Cakes ang disenyo sa hand-piped buttercream, laki ng cake, at praktikal na limitasyon. Humingi ng nakasulat na interpretasyon bago aprubahan ang final brief. Para sa bridal shower, gawing gabay ang palette ng magkapareha o host at huwag kopyahin ang pribado o copyrighted na detalye nang walang pahintulot. Kumpirmahin kung sino ang mag-aapruba ng mensahe at disenyo para maayos ang sorpresa.
 
-## Ipakita sa panaderya ang istilo at ang isang detalyeng gusto mong panatilihin
+## Editorial note
 
-Para sa isang bridal shower cake, magpadala ng isang larawan na kumukuha ng pangkalahatang hitsura at, kung kinakailangan, isa pa para sa isang partikular na feature gaya ng bulaklak, kulay, o istilo ng pagkakasulat. Ipaliwanag kung aling bahagi ng bawat sanggunian ang mahalaga. Kung ang host ay may palette ng lugar o disenyo ng imbitasyon, ibahagi lamang ito bilang inspirasyon maliban kung ang mga eksaktong kulay na iyon ay mahalaga.
-
-Sabihin sa panaderya ang petsa, tinatayang bilang ng bisita, napiling laki, lasa, inskripsiyon, at handoff na plano. Itanong kung ang sanggunian ay maaaring iakma sa mga sukat ng cake at sa magagamit na oras ng paggawa. Kumpirmahin ang huling disenyo at quote sa pamamagitan ng pagsulat.
-
-Idagdag ang payong ito sa nakabahaging custom na maikling gabay. Ang isang hiwalay na kwento ng inspirasyon ay nangangailangan ng isang tunay na reference-to-finished na halimbawa na may pag-apruba at isang kapaki-pakinabang na aralin sa disenyo.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

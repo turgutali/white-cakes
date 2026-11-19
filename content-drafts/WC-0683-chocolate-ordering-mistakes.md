@@ -2,9 +2,9 @@
 id: WC-0683
 status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: \"Common ordering mistakes to avoid with chocolate cake in Cebu\"
-cebuano_title: \"Mga kasagarang sayop sa pag-order nga likayan sa chocolate cake sa Cebu\"
-tagalog_title: \"Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa chocolate cake sa Cebu\"
+english_title: "Common ordering mistakes to avoid with chocolate cake in Cebu"
+cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa chocolate cake sa Cebu"
+tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa chocolate cake sa Cebu"
 ---
 
 ## English

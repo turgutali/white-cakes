@@ -2,9 +2,9 @@
 id: WC-0676
 status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: \"Which reference photos help when ordering chocolate cake in Cebu\"
-cebuano_title: \"Unsang mga litrato nga reference ang makatabang sa pag-order og chocolate cake sa Cebu\"
-tagalog_title: \"Aling mga reference photo ang makatutulong sa pag-order ng chocolate cake sa Cebu\"
+english_title: "Which reference photos help when ordering chocolate cake in Cebu"
+cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og chocolate cake sa Cebu"
+tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng chocolate cake sa Cebu"
 ---
 
 ## English

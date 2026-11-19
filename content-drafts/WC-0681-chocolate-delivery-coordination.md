@@ -2,9 +2,9 @@
 id: WC-0681
 status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: \"How to coordinate chocolate cake in Cebu\"
-cebuano_title: \"Giunsa pag-coordinate ang chocolate cake sa Cebu\"
-tagalog_title: \"Paano i-coordinate ang chocolate cake sa Cebu\"
+english_title: "How to coordinate chocolate cake in Cebu"
+cebuano_title: "Giunsa pag-coordinate ang chocolate cake sa Cebu"
+tagalog_title: "Paano i-coordinate ang chocolate cake sa Cebu"
 ---
 
 ## English

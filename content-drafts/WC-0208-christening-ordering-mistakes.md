@@ -1,38 +1,31 @@
 ---
 id: WC-0208
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Common ordering mistakes to avoid with christening cake in Cebu"
 cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa bunyag sa Cebu"
 tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa binyag sa Cebu"
 ---
+## Common ordering mistakes to avoid with christening cake in Cebu
 
-## Avoid leaving the child’s name, serving plan, or venue unclear
+Avoid booking assumptions: a message or reference photo is not a confirmed slot. Also avoid a brief with no guest count, venue or serving time, choosing tiers from appearance alone, and leaving spelling or delivery arrangements until event day.
 
-Check the spelling of the child’s name and any religious wording before sending the final brief. Share the actual reception guest estimate rather than only the ceremony attendance, then ask the bakery to recommend a size. Confirm the event date and where the cake will be received.
-
-Choose one organizer to approve the design and coordinate pickup or delivery. Send a clear reference and say which feature matters. Ask for the complete quote and current availability, including any delivery fee; do not assume an old cake photo shows today’s product or price.
-
-Add these checks to the shared order guide. A case-specific story should use a real order and family permission.
+Use one written summary for the final size, flavour, design, wording, quote and handoff. Confirm current availability and care instructions with the bakery; these checks reduce last-minute confusion without adding unnecessary complexity. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Likayi nga biyaan ang ngalan sa bata, plano sa pagserbisyo, o lugar nga dili klaro
+Likayi ang paghunahuna nga kumpirmado na ang booking tungod sa mensahe o reference photo. Likayi usab ang brief nga walay ihap sa bisita, venue o oras sa pagserbisyo, pagpili og tier tungod lang sa hitsura, ug paghulat sa event day para sa spelling o delivery.
 
-Susiha ang spelling sa ngalan sa bata ug bisan unsang relihiyoso nga mga pulong sa dili pa ipadala ang katapusang brief. Ipaambit ang aktuwal nga banabana sa bisita sa pagdawat kay sa pagtambong lamang sa seremonyas, dayon hangyoa ang panaderya sa pagrekomendar og gidak-on. Kumpirma ang petsa sa panghitabo ug asa madawat ang cake.
+Gamita ang usa ka sinulat nga summary para sa kataposang gidak-on, lami, disenyo, teksto, quote ug handoff. Kumpirmaha sa panaderya ang availability ug giya sa pag-atiman; makapamenos kini sa kalibog sa kataposang minuto. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Pagpili og usa ka organizer aron aprobahan ang disenyo ug i-coordinate ang pickup o delivery. Pagpadala usa ka tin-aw nga pakisayran ug isulti kung unsang bahin ang hinungdanon. Pangayo alang sa kompleto nga kinutlo ug kasamtangan nga anaa, lakip ang bisan unsang bayad sa pagpadala; ayaw hunahunaa nga ang daan nga litrato sa cake nagpakita sa produkto o presyo karon.
+## Tagalog translation (editorial review pending)
 
-Idugang kini nga mga tseke sa gipaambit nga giya sa order. Ang istorya nga espesipiko sa kaso kinahanglang mogamit ug tinuod nga han-ay ug pagtugot sa pamilya.
+Iwasang ipagpalagay na kumpirmado na ang booking dahil sa mensahe o reference photo. Iwasan din ang brief na walang bilang ng bisita, venue, o oras ng paghahain, pagpili ng tier dahil lang sa itsura, at pag-iwan ng baybay o delivery arrangement sa araw ng event.
 
-## Tagalog translation (machine translated; editorial review pending)
+Gumamit ng iisang nakasulat na buod para sa final na laki, flavor, disenyo, teksto, quote, at handoff. Kumpirmahin sa panaderya ang availability at gabay sa pag-aalaga; nakababawas ito ng kalituhan sa huling sandali. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Iwasang iwanang hindi malinaw ang pangalan ng bata, plano ng paghahatid, o lugar
+## Editorial note
 
-Suriin ang spelling ng pangalan ng bata at anumang relihiyosong mga salita bago ipadala ang huling brief. Ibahagi ang aktwal na pagtatantya ng bisita sa pagtanggap sa halip na ang pagdalo lamang sa seremonya, pagkatapos ay hilingin sa panaderya na magrekomenda ng laki. Kumpirmahin ang petsa ng kaganapan at kung saan matatanggap ang cake.
-
-Pumili ng isang organizer para aprubahan ang disenyo at i-coordinate ang pickup o delivery. Magpadala ng malinaw na sanggunian at sabihin kung aling feature ang mahalaga. Hilingin ang kumpletong quote at kasalukuyang availability, kasama ang anumang bayad sa paghahatid; huwag ipagpalagay na ang isang lumang larawan ng cake ay nagpapakita ng produkto o presyo ngayon.
-
-Idagdag ang mga pagsusuring ito sa nakabahaging gabay sa order. Ang isang kuwentong partikular sa kaso ay dapat gumamit ng tunay na pagkakasunud-sunod at pahintulot ng pamilya.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

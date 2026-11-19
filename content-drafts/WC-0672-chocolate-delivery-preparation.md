@@ -2,9 +2,9 @@
 id: WC-0672
 status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; confirm route and product-specific care
-english_title: \"How to prepare for delivery of chocolate cake in Cebu\"
-cebuano_title: \"Giunsa pag-andam sa delivery sa chocolate cake sa Cebu\"
-tagalog_title: \"Paano maghanda para sa delivery ng chocolate cake sa Cebu\"
+english_title: "How to prepare for delivery of chocolate cake in Cebu"
+cebuano_title: "Giunsa pag-andam sa delivery sa chocolate cake sa Cebu"
+tagalog_title: "Paano maghanda para sa delivery ng chocolate cake sa Cebu"
 ---
 
 ## English

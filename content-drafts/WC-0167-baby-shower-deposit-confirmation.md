@@ -1,38 +1,31 @@
 ---
 id: WC-0167
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html; verify current deposit and availability details
 english_title: "What to confirm before paying a deposit for baby shower cake in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa baby shower sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa baby shower sa Cebu"
 ---
+## What to confirm before paying a deposit for baby shower cake in Cebu
 
-## Confirm the shower date, receiver, inscription, and full quote
+Before paying, check that the written order summary has the event date, size, flavour, design direction, exact inscription, total price and delivery or pickup arrangement. Correct spelling, address and timing while the details can still be reviewed.
 
-Before paying, confirm the event date, cake size, guest estimate, flavour, design, exact wording, and venue address. Choose a coordinator who can approve the design and receive the cake, particularly if it is a surprise. Ask whether delivery is available and whether the quoted amount includes custom decoration and transport.
-
-White Cakes currently states a 50% deposit confirms an agreed order. Verify the exact amount and payment channel with the final quote, then save the receipt and confirmation. Wait for the bakery to confirm the production date; an inquiry alone does not reserve a slot.
-
-Keep the current booking steps in the central order guide and recheck them before publication.
+The stated 50% deposit confirms an agreed order after the details and price are settled. Ask how the remaining balance is handled and what to do if timing changes; keep the confirmation and payment record together. For a baby shower, decide who is authorized to share the cake brief and receive delivery, especially if the event is a surprise. Keep the message and colour direction aligned with the host’s confirmed plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Kumpirma ang shower date, receiver, inskripsiyon, ug full quote
+Sa dili pa mobayad, susiha nga naa sa sinulat nga order summary ang petsa, gidak-on, lami, direksyon sa disenyo, eksaktong inskripsiyon, total nga presyo ug delivery o pickup. Itul-id ang spelling, address ug oras samtang marepaso pa.
 
-Sa dili pa mobayad, kumpirmahi ang petsa sa panghitabo, gidak-on sa cake, banabana sa bisita, lami, disenyo, eksaktong pulong, ug adres sa lugar. Pagpili og usa ka coordinator nga makaaprobar sa disenyo ug makadawat sa cake, ilabina kon kini usa ka surpresa. Pangutan-a kung magamit ba ang pagpadala ug kung ang gikutlo nga kantidad naglakip sa kostumbre nga dekorasyon ug transportasyon.
+Ang gipasabot nga 50% nga deposito mokumpirma sa gikasabutang order human mahuman ang detalye ug presyo. Pangutan-a unsaon pagbayad sa nahibilin ug unsay buhaton kon mausab ang oras; tipigi dungan ang kumpirmasyon ug resibo. Alang sa baby shower, pilia kon kinsa ang awtorisadong mopadala sa cake brief ug modawat sa delivery, labi na kon sorpresa ang event. Ipares ang mensahe ug kolor sa gikumpirmang plano sa host.
 
-Ang White Cakes sa pagkakaron nag-ingon nga usa ka 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order. Tinoa ang eksaktong kantidad ug channel sa pagbayad gamit ang katapusang quote, unya i-save ang resibo ug kumpirmasyon. Paghulat alang sa panaderya sa pagkumpirma sa petsa sa produksyon; ang pagpangutana lamang wala magreserba ug slot.
+## Tagalog translation (editorial review pending)
 
-Ipadayon ang kasamtangan nga mga lakang sa pag-book sa sentro nga giya sa order ug susihon kini pag-usab sa dili pa imantala.
+Bago magbayad, tingnan kung nakasulat sa order summary ang petsa, laki, flavor, direksiyon ng disenyo, eksaktong inskripsiyon, kabuuang presyo, at delivery o pickup arrangement. Itama ang baybay, address, at oras habang maaari pang marepaso.
 
-## Tagalog translation (machine translated; editorial review pending)
+Kinukumpirma ng nakasaad na 50% deposito ang napagkasunduang order kapag kumpleto na ang detalye at presyo. Itanong kung paano babayaran ang balanse at ano ang gagawin kung magbago ang oras; itabi ang kumpirmasyon at resibo. Para sa baby shower, piliin kung sino ang awtorisadong magpadala ng cake brief at tumanggap ng delivery, lalo na kung sorpresa ang event. Iayon ang mensahe at kulay sa kumpirmadong plano ng host.
 
-## Kumpirmahin ang petsa ng shower, receiver, inskripsiyon, at buong quote
+## Editorial note
 
-Bago magbayad, kumpirmahin ang petsa ng kaganapan, laki ng cake, pagtatantya ng bisita, lasa, disenyo, eksaktong salita, at address ng lugar. Pumili ng coordinator na maaaring mag-apruba ng disenyo at tumanggap ng cake, lalo na kung ito ay isang sorpresa. Itanong kung available ang paghahatid at kung kasama sa naka-quote na halaga ang custom na dekorasyon at transportasyon.
-
-Ang White Cakes ay kasalukuyang nagsasaad ng 50% na deposito na nagpapatunay sa isang napagkasunduang order. I-verify ang eksaktong halaga at channel ng pagbabayad gamit ang huling quote, pagkatapos ay i-save ang resibo at kumpirmasyon. Maghintay para sa panaderya upang kumpirmahin ang petsa ng produksyon; ang pagtatanong lamang ay hindi nagrereserba ng puwang.
-
-Panatilihin ang kasalukuyang mga hakbang sa pag-book sa gitnang gabay sa pag-order at suriin muli ang mga ito bago i-publish.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

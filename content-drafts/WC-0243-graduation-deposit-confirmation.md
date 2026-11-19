@@ -1,44 +1,31 @@
 ---
 id: WC-0243
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
 english_title: "What to confirm before paying a deposit for graduation cake in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa graduation sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa graduation sa Cebu"
 ---
+## What to confirm before paying a deposit for graduation cake in Cebu
 
-## Confirm the graduation order details before paying
+Before paying, check that the written order summary has the event date, size, flavour, design direction, exact inscription, total price and delivery or pickup arrangement. Correct spelling, address and timing while the details can still be reviewed.
 
-Graduation dates can involve a ceremony, family meal, and a separate party. Make sure White Cakes has the correct date and the time you need the cake, then wait for an availability confirmation. Do not assume a message asking for a quote has reserved a slot.
-
-Review the written order for size, flavour, design, exact inscription, final price, and delivery or pickup plan. If you requested school colours or a logo, confirm that the bakery can use the supplied artwork and that you have permission to share it. Give the complete venue address, landmark, receiving contact, delivery window, and any access instructions; verify the address-based fee.
-
-White Cakes requires at least three days' notice for made-to-order cakes. Its current process uses a 50% deposit to confirm the agreed order. Follow the payment instructions attached to the current quote and save the confirmation and receipt together. Ask about storage if the cake will arrive well before the event begins.
-
-Keep deposit terms in one maintained ordering guide and recheck them if the process changes. Do not rely on a stale screenshot or generic social post.
+The stated 50% deposit confirms an agreed order after the details and price are settled. Ask how the remaining balance is handled and what to do if timing changes; keep the confirmation and payment record together. For graduation, check the graduate’s correct name, school spelling and ceremony date before approving lettering. If the cake travels to a venue after the ceremony, include the handoff location and time in the delivery plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Kumpirma ang mga detalye sa order sa graduation sa dili pa mobayad
+Sa dili pa mobayad, susiha nga naa sa sinulat nga order summary ang petsa, gidak-on, lami, direksyon sa disenyo, eksaktong inskripsiyon, total nga presyo ug delivery o pickup. Itul-id ang spelling, address ug oras samtang marepaso pa.
 
-Ang mga petsa sa gradwasyon mahimong maglakip sa usa ka seremonyas, panihapon sa pamilya, ug usa ka bulag nga party. Siguruha nga ang White Cakes adunay husto nga petsa ug oras nga kinahanglan nimo ang cake, unya paghulat alang sa usa ka kumpirmasyon sa pagkaanaa. Ayaw paghunahuna nga ang usa ka mensahe nga nangayo alang sa usa ka kinutlo adunay gireserba nga puwang.
+Ang gipasabot nga 50% nga deposito mokumpirma sa gikasabutang order human mahuman ang detalye ug presyo. Pangutan-a unsaon pagbayad sa nahibilin ug unsay buhaton kon mausab ang oras; tipigi dungan ang kumpirmasyon ug resibo. Alang sa graduation, susiha ang hustong ngalan, spelling sa eskwelahan ug petsa sa seremonya sa dili pa aprobahan ang letra. Kon dad-on ang cake sa venue human sa seremonya, iapil sa delivery plan ang lokasyon ug oras sa handoff.
 
-Ribyuha ang sinulat nga han-ay alang sa gidak-on, lami, disenyo, eksaktong inskripsiyon, katapusang presyo, ug plano sa pagpadala o pagkuha. Kung nangayo ka og mga kolor sa eskuylahan o logo, kumpirmahi nga ang panaderya makagamit sa gihatag nga artwork ug nga ikaw adunay pagtugot sa pagpaambit niini. Ihatag ang kompleto nga adres sa lugar, landmark, pagdawat sa kontak, window sa pagpadala, ug bisan unsang mga panudlo sa pag-access; pamatud-i ang bayad nga gibase sa address.
+## Tagalog translation (editorial review pending)
 
-Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake. Ang kasamtangang proseso niini naggamit ug 50% nga deposito aron pagkumpirma sa gikasabutan nga order. Sunda ang mga instruksyon sa pagbayad nga gilakip sa kasamtangan nga quote ug i-save ang kumpirmasyon ug resibo nga magkauban. Pangutan-a ang mahitungod sa pagtipig kon ang cake moabut ba sa dili pa magsugod ang kalihokan.
+Bago magbayad, tingnan kung nakasulat sa order summary ang petsa, laki, flavor, direksiyon ng disenyo, eksaktong inskripsiyon, kabuuang presyo, at delivery o pickup arrangement. Itama ang baybay, address, at oras habang maaari pang marepaso.
 
-Itago ang mga termino sa pagdeposito sa usa ka gipadayon nga giya sa pag-order ug susiha kini pag-usab kung mabag-o ang proseso. Ayaw pagsalig sa usa ka stale screenshot o generic nga social post.
+Kinukumpirma ng nakasaad na 50% deposito ang napagkasunduang order kapag kumpleto na ang detalye at presyo. Itanong kung paano babayaran ang balanse at ano ang gagawin kung magbago ang oras; itabi ang kumpirmasyon at resibo. Para sa graduation, tingnan ang tamang pangalan, baybay ng paaralan, at petsa ng seremonya bago aprubahan ang lettering. Kung dadalhin ang cake sa venue pagkatapos ng seremonya, isama sa delivery plan ang lugar at oras ng handoff.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Kumpirmahin ang mga detalye ng order ng graduation bago magbayad
-
-Ang mga petsa ng pagtatapos ay maaaring magsama ng isang seremonya, pagkain ng pamilya, at isang hiwalay na partido. Tiyaking may tamang petsa ang White Cakes at ang oras na kailangan mo ang cake, pagkatapos ay maghintay para sa kumpirmasyon ng availability. Huwag ipagpalagay na ang isang mensahe na humihingi ng isang quote ay nakareserba ng isang puwang.
-
-Suriin ang nakasulat na order para sa laki, lasa, disenyo, eksaktong inskripsiyon, huling presyo, at plano sa paghahatid o pagkuha. Kung humiling ka ng mga kulay ng paaralan o isang logo, kumpirmahin na magagamit ng panaderya ang ibinigay na likhang sining at mayroon kang pahintulot na ibahagi ito. Ibigay ang kumpletong address ng venue, landmark, receiving contact, delivery window, at anumang mga tagubilin sa pag-access; i-verify ang bayad na nakabatay sa address.
-
-Ang mga White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Ang kasalukuyang proseso nito ay gumagamit ng 50% na deposito upang kumpirmahin ang napagkasunduang order. Sundin ang mga tagubilin sa pagbabayad na nakalakip sa kasalukuyang quote at i-save ang kumpirmasyon at resibo nang magkasama. Magtanong tungkol sa pag-iimbak kung ang cake ay darating bago magsimula ang kaganapan.
-
-Panatilihin ang mga tuntunin ng deposito sa isang pinananatili na gabay sa pag-order at suriin muli ang mga ito kung magbago ang proseso. Huwag umasa sa isang lipas na screenshot o generic na social post.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

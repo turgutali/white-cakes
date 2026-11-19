@@ -1,38 +1,31 @@
 ---
 id: WC-0141
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm cake-specific instructions
 english_title: "How to keep safe and cool until serving debut cake in Cebu"
 cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa debut sa Cebu"
 tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa debut sa Cebu"
 ---
+## How to keep safe and cool until serving debut cake in Cebu
 
-## Plan storage for the cake’s finish and the debut schedule
+Ask the bakery for care instructions for the exact cake and follow them on the event day. Keep the boxed cake upright, out of direct sun and away from a hot vehicle or window. Do not place heavy items on top or move the box by holding only one edge.
 
-Ask the bakery how to store the exact debut cake you ordered. The right advice can depend on its filling, frosting, and decoration, so do not assume all cakes need the same refrigeration time. Tell the baker whether the cake will wait at a venue and how long before it is served.
-
-Arrange for someone to receive it promptly, keep the box level, and protect it from direct sunlight and heat. Follow the bakery’s instructions about refrigeration and when to bring it out. If the event timing changes, ask the bakery whether the revised plan is suitable.
-
-Keep this information in one current Cebu cake-care guide. Publish only storage directions the business has confirmed for its products.
+Coordinate the programme so the cake is not sitting out longer than needed. White Cakes’ general guidance says to refrigerate the closed box if serving later that day and remove it 20–30 minutes before slicing; confirm this is suitable for the specific order, especially in a warm venue.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Planoha ang pagtipig alang sa paghuman sa cake ug ang debut nga iskedyul
+Pangayo sa panaderya og instruksyon sa pag-atiman sa eksaktong cake ug sunda kini sa adlaw sa event. Ibutang nga tul-id ang cake sulod sa kahon, layo sa direktang adlaw, init nga sakyanan o bintana. Ayaw butangi og bug-at sa ibabaw o alsaha ang kahon pinaagi lang sa usa ka kilid.
 
-Pangutan-a ang panaderya kon unsaon pagtipig sa eksaktong debut cake nga imong gi-order. Ang husto nga tambag mahimong magdepende sa pagpuno niini, pagyelo, ug dekorasyon, busa ayaw hunahunaa nga ang tanan nga mga cake kinahanglan sa parehas nga oras sa pagpabugnaw. Sultihi ang panadero kon ang cake maghulat ba sa usa ka venue ug unsa ka dugay sa dili pa kini i-serve.
+I-coordinate ang programa aron dili magdugay ang cake sa gawas. Ang kinatibuk-ang giya sa White Cakes mao ang pagpabugnaw sa siradong kahon kon ulahi pa i-serve ug kuhaon kini 20–30 minutos sa dili pa hiwaon; kumpirmaha kon angay kini sa order, labi na sa init nga venue.
 
-Paghan-ay alang sa usa ka tawo nga makadawat niini dayon, ipabilin ang lebel sa kahon, ug panalipdan kini gikan sa direkta nga kahayag sa adlaw ug kainit. Sunda ang mga instruksyon sa panaderya bahin sa pagpabugnaw ug kanus-a kini ipagawas. Kung mabag-o ang oras sa panghitabo, pangutan-a ang panaderya kung angay ba ang giusab nga plano.
+## Tagalog translation (editorial review pending)
 
-Itago kini nga kasayuran sa usa ka bag-ong giya sa pag-atiman sa cake sa Cebu. I-publish lamang ang mga direksyon sa pagtipig nga gikumpirma sa negosyo alang sa mga produkto niini.
+Humingi sa panaderya ng tagubilin para sa mismong cake at sundin ito sa araw ng event. Panatilihing tuwid ang cake sa kahon, malayo sa direktang araw, mainit na sasakyan, o bintana. Huwag patungan ng mabigat o buhatin ang kahon sa isang gilid lang.
 
-## Tagalog translation (machine translated; editorial review pending)
+Ayusin ang programa para hindi nakatiwangwang nang matagal ang cake. Pangkalahatang gabay ng White Cakes ang palamigin ang saradong kahon kung ihahain pa sa bandang huli at ilabas ito 20–30 minuto bago hiwain; kumpirmahing angkop ito sa mismong order, lalo na sa mainit na venue.
 
-## Magplano ng storage para sa pagtatapos ng cake at ang iskedyul ng debut
+## Editorial note
 
-Tanungin ang panaderya kung paano iimbak ang eksaktong debut cake na iyong na-order. Ang tamang payo ay maaaring depende sa pagpuno, pagyelo, at dekorasyon nito, kaya huwag ipagpalagay na ang lahat ng mga cake ay nangangailangan ng parehong oras ng pagpapalamig. Sabihin sa panadero kung maghihintay ang cake sa isang venue at kung gaano katagal bago ito ihain.
-
-Ayusin ang isang tao na makatanggap nito kaagad, panatilihin ang antas ng kahon, at protektahan ito mula sa direktang sikat ng araw at init. Sundin ang mga tagubilin ng panaderya tungkol sa pagpapalamig at kung kailan ito ilalabas. Kung magbago ang oras ng kaganapan, tanungin ang panaderya kung angkop ang binagong plano.
-
-Itago ang impormasyong ito sa isang kasalukuyang gabay sa pangangalaga ng cake ng Cebu. I-publish lamang ang mga direksyon sa storage na nakumpirma ng negosyo para sa mga produkto nito.
+Draft for integration into the canonical pages listed in the index. Confirm current availability, prices, delivery terms and cake-care instructions before publication; Cebuano and Tagalog wording needs native editorial review.

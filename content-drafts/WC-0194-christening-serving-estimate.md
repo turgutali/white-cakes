@@ -1,38 +1,31 @@
 ---
 id: WC-0194
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
 english_title: "How to estimate servings for christening cake in Cebu"
 cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa bunyag sa Cebu"
 tagalog_title: "Paano tantiyahin ang servings para sa cake para sa binyag sa Cebu"
 ---
+## How to estimate servings for christening cake in Cebu
 
-## Count expected cake servings after the ceremony
+Estimate portions from the serving plan, not from a photograph. White Cakes’ guide gives about 8–12 party slices for a 6-inch round, 16–24 for an 8-inch round, and 30–36 for a common 6+8-inch two-tier cake. These are approximate and vary with slice size, height and design.
 
-For a christening, separate the number of invited guests from the number expected to eat cake. Some guests may leave early, and a family meal may include other desserts. Tell the bakery whether you want small dessert portions or larger party slices and ask it to recommend a size for that plan.
-
-Current guidance estimates 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and 30–36 from a 6+8-inch two-tier cake. These are approximate and depend on cutting style. Confirm the actual serving expectation before ordering, particularly when a single cake needs to serve a large guest list.
-
-Keep verified portion ranges in the central size guide. Do not publish a christening-specific serving chart that simply repeats estimates without adding reliable information.
+Tell the bakery whether cake is the main dessert, one of several sweets, or a ceremonial cut. Share the guest count and whether everyone needs a full slice; ask the team to confirm the best size for the exact design. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pag-ihap sa gipaabot nga mga pagkaon sa cake pagkahuman sa seremonya
+Banabana ang serving sumala sa paagi sa pagserbisyo, dili sa litrato. Sa giya sa White Cakes, mga 8–12 ka party slice ang 6-inch round, 16–24 ang 8-inch, ug 30–36 ang kasagarang 6+8-inch two-tier. Banabana kini ug mausab sa kadak-on sa hiwa, kataas ug disenyo.
 
-Alang sa pagbunyag, ibulag ang gidaghanon sa mga dinapit nga bisita gikan sa gidaghanon nga gipaabot nga mokaon og cake. Ang ubang mga bisita mahimong sayo nga mobiya, ug ang panihapon sa pamilya mahimong maglakip sa ubang mga dessert. Sultihi ang panaderya kung gusto nimo ang gagmay nga mga bahin sa dessert o mas dako nga mga hiwa sa partido ug hangyoa kini nga irekomenda ang usa ka gidak-on alang sa kana nga plano.
+Sultihi ang panaderya kon main dessert ba ang cake, usa sa daghang tam-is, o ceremonial cut lang. Ipaambit ang ihap sa bisita ug kon tanan ba manginahanglan og tibuok hiwa; pangayo og rekomendasyon sa eksaktong disenyo. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices gikan sa 6-pulgada nga cake, 16–24 gikan sa 8-pulgada nga cake, ug 30–36 gikan sa 6+8-pulgada nga two-tier nga cake. Kini mga gibanabana ug nagdepende sa estilo sa pagputol. Kumpirma ang aktwal nga pagpaabot sa pagserbisyo sa dili pa mag-order, ilabi na kung ang usa ka cake kinahanglan nga mag-alagad sa usa ka dako nga lista sa bisita.
+## Tagalog translation (editorial review pending)
 
-Itago ang gipamatud-an nga mga han-ay sa bahin sa sentro nga giya sa gidak-on. Ayaw pagmantala ug tsart sa pagserbisyo nga espesipiko sa pagbunyag nga yano nga nagsubli sa mga banabana nga wala magdugang kasaligan nga kasayuran.
+Tantiyahin ang serving ayon sa plano ng paghahain, hindi sa larawan. Ayon sa gabay ng White Cakes, mga 8–12 party slice ang 6-inch round, 16–24 ang 8-inch round, at 30–36 ang karaniwang 6+8-inch two-tier. Tantya lamang ito at nagbabago ayon sa hiwa, taas, at disenyo.
 
-## Tagalog translation (machine translated; editorial review pending)
+Sabihin sa panaderya kung pangunahing dessert ang cake, isa sa maraming panghimagas, o ceremonial cut lang. Ibigay ang bilang ng bisita at kung kailangan ng bawat isa ng buong slice; itanong ang angkop na laki para sa mismong disenyo. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Bilangin ang inaasahang pagkain ng cake pagkatapos ng seremonya
+## Editorial note
 
-Para sa isang pagbibinyag, paghiwalayin ang bilang ng mga inimbitahang bisita sa bilang na inaasahang makakain ng cake. Maaaring umalis ng maaga ang ilang bisita, at maaaring may kasamang iba pang dessert sa pagkain ng pamilya. Sabihin sa panaderya kung gusto mo ng maliliit na bahagi ng dessert o mas malalaking party slice at hilingin itong magrekomenda ng sukat para sa planong iyon.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice mula sa isang 6-inch na cake, 16–24 mula sa isang 8-inch na cake, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga ito ay tinatayang at depende sa estilo ng pagputol. Kumpirmahin ang aktwal na inaasahan sa paghahatid bago mag-order, lalo na kapag ang isang cake ay kailangang maghatid ng isang malaking listahan ng bisita.
-
-Panatilihin ang na-verify na mga saklaw ng bahagi sa gabay sa gitnang laki. Huwag mag-publish ng chart ng paghahatid na partikular sa pagbibinyag na inuulit lang ang mga pagtatantya nang hindi nagdaragdag ng mapagkakatiwalaang impormasyon.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

@@ -2,9 +2,9 @@
 id: WC-0673
 status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm storage advice for the current chocolate cake
-english_title: \"How to keep safe and cool until serving chocolate cake in Cebu\"
-cebuano_title: \"Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang chocolate cake sa Cebu\"
-tagalog_title: \"Paano panatilihing ligtas at malamig hanggang ihain ang chocolate cake sa Cebu\"
+english_title: "How to keep safe and cool until serving chocolate cake in Cebu"
+cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang chocolate cake sa Cebu"
+tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang chocolate cake sa Cebu"
 ---
 
 ## English

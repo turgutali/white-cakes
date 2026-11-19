@@ -1,44 +1,31 @@
 ---
 id: WC-0202
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html
 english_title: "How to compare options for christening cake in Cebu"
 cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa bunyag sa Cebu"
 tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa binyag sa Cebu"
 ---
+## How to compare options for christening cake in Cebu
 
-## Compare christening-cake options by size, design, and handoff
+Compare options on the same criteria: servings, current total price, achievable finish and handoff logistics. Ask for one or two sizes that fit the guest count rather than comparing unrelated photographs or designs with different levels of detail.
 
-Begin with the number of people likely to eat cake. White Cakes estimates 8–12 party portions for a 6-inch cake, 16–24 for an 8-inch cake, and 30–36 for a 6+8-inch two-tier cake. These are approximate yields. Ask the bakery to confirm the best size based on the meal, other desserts, and slice size.
-
-Next, compare the design scope. A simple palette and short inscription may be enough for a family gathering; a custom motif or multiple decorative elements may need a separate quote. Send one reference image and state which detail matters most. Confirm the flavour from the current menu and check that it is available for the requested size and date.
-
-Finally, compare the handoff plan. If the cake is going to a church hall or family venue, provide the full address, landmark, receiving person's mobile number, and access instructions. Confirm delivery availability, fee, and timing. White Cakes requires at least three days' notice, and a 50% deposit confirms the agreed order.
-
-Keep this comparison in the central cake-choice guide and link to the christening page. Do not repeat a separate product table for each occasion.
+Clarify whether the cake is meant to feed every guest or serve as a ceremonial centrepiece. That answer can change the useful size more than a decorative detail; confirm all options against the actual event plan. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Itandi ang mga opsyon sa christening-cake sa gidak-on, disenyo, ug handoff
+Itandi ang mga kapilian sa parehas nga sukdanan: serving, kasamtangang total nga presyo, mahimo nga finish ug handoff logistics. Pangayo og usa o duha ka gidak-on nga mohaom sa bisita imbis itandi ang dili magkaparehas nga litrato o disenyo.
 
-Pagsugod sa gidaghanon sa mga tawo nga lagmit mokaon sa cake. Gibanabana sa White Cakes ang 8–12 ka bahin sa party alang sa 6-pulgada nga cake, 16–24 alang sa 8-pulgada nga cake, ug 30–36 alang sa 6+8-pulgada nga duha ka hut-ong nga cake. Kini mga gibanabana nga abot. Hangyoa ang panaderya sa pagkumpirma sa pinakamaayo nga gidak-on base sa pagkaon, ubang mga dessert, ug gidak-on sa slice.
+Klaroha kon para ba ang cake nga pakaonon ang tanan o ceremonial centerpiece lang. Makausab kana sa angay nga gidak-on labaw pa sa dekorasyon; kumpirmaha ang mga kapilian sumala sa tinuod nga plano sa event. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Sunod, itandi ang laraw sa laraw. Ang usa ka yano nga palette ug mubo nga inskripsiyon mahimong igo alang sa usa ka panagtapok sa pamilya; ang usa ka naandan nga motif o daghang mga elemento sa dekorasyon mahimong magkinahanglan usa ka lahi nga kinutlo. Ipadala ang usa ka reference nga larawan ug isulti kung unsang detalye ang labing hinungdanon. Kumpirma ang lami gikan sa kasamtangan nga menu ug susiha nga kini anaa alang sa gihangyo nga gidak-on ug petsa.
+## Tagalog translation (editorial review pending)
 
-Sa katapusan, itandi ang handoff nga plano. Kung ang cake moadto sa simbahan o lugar sa pamilya, ihatag ang tibuuk nga adres, landmark, numero sa mobile sa nakadawat, ug mga panudlo sa pag-access. Kumpirma ang pagkaanaa sa pagpadala, bayad, ug oras. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
+Ihambing ang mga opsyon sa parehong pamantayan: servings, kasalukuyang kabuuang presyo, kayang finish, at handoff logistics. Humingi ng isa o dalawang laki na babagay sa bilang ng bisita sa halip na maghambing ng magkakaibang larawan o disenyong iba-iba ang detalye.
 
-Itago kini nga pagtandi sa sentro nga giya sa pagpili sa cake ug sumpay sa panid sa pagbunyag. Ayaw usba ang usa ka lahi nga lamesa sa produkto alang sa matag okasyon.
+Linawin kung para pakainin ang lahat ang cake o ceremonial centerpiece lang. Maaari nitong baguhin ang angkop na laki nang higit kaysa dekorasyon; itugma ang mga opsyon sa totoong plano ng event. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Ihambing ang mga opsyon sa pagbibinyag-cake ayon sa laki, disenyo, at handoff
-
-Magsimula sa bilang ng mga taong malamang na kumain ng cake. Tinatantya ng White Cakes ang 8–12 party portion para sa isang 6-inch na cake, 16–24 para sa isang 8-inch na cake, at 30–36 para sa isang 6+8-inch na two-tier na cake. Ito ay mga tinatayang ani. Hilingin sa panaderya na kumpirmahin ang pinakamahusay na sukat batay sa pagkain, iba pang mga dessert, at laki ng slice.
-
-Susunod, ihambing ang saklaw ng disenyo. Ang isang simpleng palette at maikling inskripsiyon ay maaaring sapat para sa isang pagtitipon ng pamilya; maaaring mangailangan ng hiwalay na quote ang isang custom na motif o maraming elemento ng dekorasyon. Magpadala ng isang reference na larawan at sabihin kung aling detalye ang pinakamahalaga. Kumpirmahin ang lasa mula sa kasalukuyang menu at tingnan kung available ito para sa hiniling na laki at petsa.
-
-Panghuli, ihambing ang handoff plan. Kung pupunta ang cake sa isang bulwagan ng simbahan o lugar ng pamilya, ibigay ang buong address, landmark, numero ng mobile ng tumatanggap, at mga tagubilin sa pag-access. Kumpirmahin ang availability ng paghahatid, bayad, at timing. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order.
-
-Panatilihin ang paghahambing na ito sa gitnang gabay sa pagpili ng cake at link sa pahina ng pagbibinyag. Huwag ulitin ang isang hiwalay na talahanayan ng produkto para sa bawat okasyon.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

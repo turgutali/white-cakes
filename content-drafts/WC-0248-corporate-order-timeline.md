@@ -1,44 +1,31 @@
 ---
 id: WC-0248
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
 english_title: "How to plan the order timeline for corporate cake in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa opisina sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa opisina sa Cebu"
 ---
+## How to plan the order timeline for corporate cake in Cebu
 
-## Plan a corporate cake order around the office schedule
+Start with the confirmed event date and the time the cake must be ready. White Cakes requests at least three days’ notice, with earlier contact for detailed piping, multi-tier work and busy dates. Availability is confirmed by the bakery, so an inquiry alone does not hold a slot.
 
-Check the event date with White Cakes as soon as the meeting or program is scheduled. Made-to-order cakes require at least three days' notice, and the office may need time to coordinate visitor access and a receiving contact. Wait for the bakery to confirm the date before promising the cake to the team.
-
-Send the size, flavour, serving estimate, design, inscription, full office address, and delivery time together. Confirm who will receive it and which entrance the driver should use. Ask about the delivery window and fee for the exact building. A weekday date does not automatically mean the bakery has capacity.
-
-Request written confirmation of the final design, price, and handoff plan. The current 50% deposit confirms the agreed order after terms are settled. If the meeting or address changes, notify the bakery promptly.
-
-Keep corporate scheduling in the central Cebu order-timeline article and link from the corporate cake page. Add only verified building-specific information.
+Send the date, venue area, guest estimate, size, flavour, one design reference and delivery or pickup preference together. Ask for the production slot and final quote in writing; pay the stated 50% deposit only after those details are agreed. For a corporate cake, send the approved brand colour and exact wording, and confirm who can authorize logo use. Keep the delivery contact reachable at the office or venue; do not assume reception can accept a cake without prior arrangement.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pagplano ug corporate cake order sa palibot sa eskedyul sa opisina
+Sugdi sa kumpirmadong petsa ug oras nga kinahanglan andam ang cake. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo; mas sayo kontaka sila para sa detalyadong piping, daghang tier ug busy nga petsa. Ang panaderya ang mokumpirma sa availability; dili pa reserbasyon ang pangutana.
 
-Susiha ang petsa sa kalihokan uban sa White Cakes sa diha nga ang miting o programa gikatakda. Ang hinimo nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang opisina mahimo’g magkinahanglan og panahon sa pag-coordinate sa pag-access sa bisita ug usa ka kontak sa pagdawat. Paghulat sa panaderya sa pagkumpirma sa petsa sa dili pa isaad ang cake ngadto sa team.
+Ipadala dungan ang petsa, dapit sa venue, gibanabanang bisita, gidak-on, lami, usa ka design reference ug gusto nga delivery o pickup. Pangayoa sa sinulat ang production slot ug kataposang quote; mobayad lang sa 50% nga deposito kon nagkasinabot na sa detalye. Alang sa corporate cake, ipadala ang aprobado nga brand colour ug eksaktong teksto, ug kumpirmaha kinsa ang mahimong moapruba sa paggamit sa logo. Siguroha nga maabot ang kontak sa opisina o venue; ayaw hunahunaa nga modawat ang reception nga walay kasabotan.
 
-Ipadala ang gidak-on, lami, banabana sa pagserbisyo, disenyo, inskripsiyon, tibuok nga adres sa opisina, ug oras sa paghatod nga magkauban. Kumpirma kung kinsa ang makadawat niini ug kung unsang agianan ang kinahanglan gamiton sa drayber. Pangutan-a ang bahin sa bintana sa pagpadala ug bayad alang sa eksaktong bilding. Ang petsa sa adlaw sa semana wala magpasabot nga ang panaderya adunay kapasidad.
+## Tagalog translation (editorial review pending)
 
-Paghangyo ug sinulat nga kumpirmasyon sa kataposang disenyo, presyo, ug handoff nga plano. Ang kasamtangan nga 50% nga deposito nagpamatuod sa gikasabutan nga order human masulbad ang mga termino. Kung mausab ang miting o adres, ipahibalo dayon ang panaderya.
+Magsimula sa kumpirmadong petsa ng event at oras na dapat handa ang cake. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso; mas maagang makipag-ugnayan para sa detalyadong piping, maraming tier, at mataong petsa. Panaderya ang nagkukumpirma ng availability; hindi reservation ang inquiry.
 
-Ipadayon ang corporate scheduling sa sentro sa Cebu order-timeline nga artikulo ug link gikan sa corporate cake page. Idugang lamang ang gipamatud-an nga impormasyon nga espesipiko sa bilding.
+Ipadala nang sabay ang petsa, lugar ng venue, tantiyang bisita, laki, flavor, isang design reference, at kung delivery o pickup. Hilingin sa sulat ang production slot at final quote; magbayad lang ng 50% deposito kapag napagkasunduan na ang mga detalye. Para sa corporate cake, ipadala ang aprubadong brand color at eksaktong teksto, at kumpirmahin kung sino ang maaaring mag-apruba ng paggamit ng logo. Tiyaking reachable ang contact sa opisina o venue; huwag ipagpalagay na tatanggap ang reception nang walang paunang usapan.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Magplano ng corporate cake order sa paligid ng iskedyul ng opisina
-
-Suriin ang petsa ng kaganapan sa White Cake sa sandaling naka-iskedyul ang pulong o programa. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang opisina ay maaaring mangailangan ng oras upang i-coordinate ang pag-access ng bisita at isang tumatanggap na contact. Hintayin ang panaderya na kumpirmahin ang petsa bago ipangako ang cake sa koponan.
-
-Ipadala ang laki, lasa, pagtatantya ng paghahatid, disenyo, inskripsiyon, buong address ng opisina, at oras ng paghahatid nang magkasama. Kumpirmahin kung sino ang makakatanggap nito at kung aling pasukan ang dapat gamitin ng driver. Magtanong tungkol sa delivery window at bayad para sa eksaktong gusali. Ang isang araw ng linggo ay hindi awtomatikong nangangahulugan na ang panaderya ay may kapasidad.
-
-Humiling ng nakasulat na kumpirmasyon ng pinal na disenyo, presyo, at handoff na plano. Kinukumpirma ng kasalukuyang 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang mga tuntunin. Kung magbago ang pulong o address, abisuhan kaagad ang panaderya.
-
-Panatilihin ang corporate scheduling sa central Cebu order-timeline article at link mula sa corporate cake page. Magdagdag lamang ng na-verify na impormasyong tukoy sa gusali.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

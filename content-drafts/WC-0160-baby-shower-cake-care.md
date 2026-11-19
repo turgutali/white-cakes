@@ -1,44 +1,31 @@
 ---
 id: WC-0160
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
 english_title: "How to keep safe and cool until serving baby shower cake in Cebu"
 cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa baby shower sa Cebu"
 tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa baby shower sa Cebu"
 ---
+## How to keep safe and cool until serving baby shower cake in Cebu
 
-## Keep a baby-shower cake cool between delivery and serving
+Estimate portions from the serving plan, not from a photograph. White Cakes’ guide gives about 8–12 party slices for a 6-inch round, 16–24 for an 8-inch round, and 30–36 for a common 6+8-inch two-tier cake. These are approximate and vary with slice size, height and design.
 
-Choose the cake's waiting place before it arrives. Keep the box level and away from direct sunlight, a hot car, or warm kitchen equipment. If the event begins several hours after delivery, follow White Cakes' refrigeration guidance and make sure someone at the venue knows how to handle the cake.
-
-Ask the bakery if the selected design has specific care instructions. Do not assume every buttercream cake can stay out for the same amount of time, particularly in a warm room. Avoid repeatedly moving the box between refrigeration and heat or opening it to check the decoration.
-
-Include the delivery address, landmark, receiving contact, and agreed window in the order. Confirm that the venue can accept the cake and that the recipient will be present. White Cakes requires at least three days' notice for made-to-order cakes; a 50% deposit confirms the agreed order after the date and terms are settled.
-
-Store validated care advice in one heat guide. Add baby-shower-specific handling only if White Cakes confirms a real product requirement.
+Tell the bakery whether cake is the main dessert, one of several sweets, or a ceremonial cut. Share the guest count and whether everyone needs a full slice; ask the team to confirm the best size for the exact design. For a baby shower, decide who is authorized to share the cake brief and receive delivery, especially if the event is a surprise. Keep the message and colour direction aligned with the host’s confirmed plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Hupti nga bugnaw ang baby-shower cake tali sa paghatod ug pagserbisyo
+Banabana ang serving sumala sa paagi sa pagserbisyo, dili sa litrato. Sa giya sa White Cakes, mga 8–12 ka party slice ang 6-inch round, 16–24 ang 8-inch, ug 30–36 ang kasagarang 6+8-inch two-tier. Banabana kini ug mausab sa kadak-on sa hiwa, kataas ug disenyo.
 
-Pilia ang naghulat nga lugar sa cake sa dili pa kini moabut. Ibutang ang lebel sa kahon ug layo sa direkta nga kahayag sa adlaw, init nga awto, o init nga kagamitan sa kusina. Kung ang kalihokan magsugod pipila ka oras pagkahuman sa paghatud, sunda ang giya sa pagpalamig sa White Cakes ug siguroha nga adunay usa sa lugar nga nahibal-an kung giunsa pagdumala ang cake.
+Sultihi ang panaderya kon main dessert ba ang cake, usa sa daghang tam-is, o ceremonial cut lang. Ipaambit ang ihap sa bisita ug kon tanan ba manginahanglan og tibuok hiwa; pangayo og rekomendasyon sa eksaktong disenyo. Alang sa baby shower, pilia kon kinsa ang awtorisadong mopadala sa cake brief ug modawat sa delivery, labi na kon sorpresa ang event. Ipares ang mensahe ug kolor sa gikumpirmang plano sa host.
 
-Pangutan-a ang panaderya kung ang gipili nga disenyo adunay piho nga mga panudlo sa pag-atiman. Ayaw hunahunaa nga ang matag buttercream cake mahimong magpabilin sa gawas sa parehas nga oras, labi na sa usa ka mainit nga kwarto. Likayi ang balik-balik nga pagbalhin sa kahon tali sa refrigerasyon ug kainit o pag-abli niini aron masusi ang dekorasyon.
+## Tagalog translation (editorial review pending)
 
-Ilakip ang adres sa pagpadala, landmark, pagdawat sa kontak, ug giuyonan nga bintana sa order. Kumpirma nga ang venue makadawat sa cake ug nga ang nakadawat anaa. Ang mga White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order pagkahuman sa petsa ug mga termino nahusay.
+Tantiyahin ang serving ayon sa plano ng paghahain, hindi sa larawan. Ayon sa gabay ng White Cakes, mga 8–12 party slice ang 6-inch round, 16–24 ang 8-inch round, at 30–36 ang karaniwang 6+8-inch two-tier. Tantya lamang ito at nagbabago ayon sa hiwa, taas, at disenyo.
 
-Tipigi ang balido nga tambag sa pag-atiman sa usa ka giya sa kainit. Idugang lamang ang pagdumala sa baby-shower-specific kung ang White Cakes nagpamatuod sa usa ka tinuod nga kinahanglanon sa produkto.
+Sabihin sa panaderya kung pangunahing dessert ang cake, isa sa maraming panghimagas, o ceremonial cut lang. Ibigay ang bilang ng bisita at kung kailangan ng bawat isa ng buong slice; itanong ang angkop na laki para sa mismong disenyo. Para sa baby shower, piliin kung sino ang awtorisadong magpadala ng cake brief at tumanggap ng delivery, lalo na kung sorpresa ang event. Iayon ang mensahe at kulay sa kumpirmadong plano ng host.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Panatilihing malamig ang baby-shower cake sa pagitan ng paghahatid at paghahatid
-
-Piliin ang naghihintay na lugar ng cake bago ito dumating. Panatilihin ang antas ng kahon at malayo sa direktang sikat ng araw, mainit na kotse, o mainit na kagamitan sa kusina. Kung magsisimula ang kaganapan ilang oras pagkatapos ng paghahatid, sundin ang gabay sa pagpapalamig ng White Cakes at tiyaking alam ng isang tao sa venue kung paano hawakan ang cake.
-
-Tanungin ang panaderya kung ang napiling disenyo ay may partikular na mga tagubilin sa pangangalaga. Huwag ipagpalagay na ang bawat buttercream cake ay maaaring manatili sa labas para sa parehong tagal ng oras, lalo na sa isang mainit na silid. Iwasang paulit-ulit na ilipat ang kahon sa pagitan ng pagpapalamig at init o buksan ito upang suriin ang dekorasyon.
-
-Isama ang address ng paghahatid, landmark, pagtanggap ng contact, at napagkasunduang window sa order. Kumpirmahin na maaaring tanggapin ng venue ang cake at naroroon ang tatanggap. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake; kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ng petsa at mga tuntunin ay naayos.
-
-Mag-imbak ng napatunayang payo sa pangangalaga sa isang gabay sa init. Magdagdag lang ng paghawak na partikular sa baby-shower kung kinukumpirma ng White Cakes ang isang tunay na kinakailangan sa produkto.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

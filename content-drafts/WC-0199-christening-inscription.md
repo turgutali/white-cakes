@@ -1,44 +1,31 @@
 ---
 id: WC-0199
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
 english_title: "What to write on christening cake in Cebu"
 cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa bunyag sa Cebu"
 tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa binyag sa Cebu"
 ---
+## What to write on christening cake in Cebu
 
-## Keep a christening-cake inscription short and checked
+Keep the message short, legible and correctly spelled. Send the exact text, capitalization and punctuation in writing; compare names and dates with the invitation or programme before approving the final order.
 
-Common options include the child's name, christening date, or a short blessing. Choose one or two of these details rather than filling the cake with a long sentence. These are wording suggestions, not text from real White Cakes orders. Ask the family to approve the exact phrase and spelling before it is sent to the bakery.
-
-If the inscription is in Cebuano or Tagalog, have a fluent family member confirm the wording and tone. Send the final version in one message with capitalization and punctuation. Ask White Cakes whether it fits the selected size and decoration; a small cake may have limited space.
-
-Include the event date, flavour, serving estimate, and delivery plan with the order. Current estimates are 8–12 party slices from a 6-inch cake and 16–24 from an 8-inch cake. Allow at least three days' notice and confirm the quote. The 50% deposit secures the agreed order.
-
-Add sample phrasing to the existing message guide. A separate christening gallery needs original, permission-cleared cake images and examples that add more than a list of generic greetings.
+Ask whether the wording fits the selected cake size and hand-piped finish. If several names or a long phrase matter, decide early what can be shortened so the lettering remains readable in person and in photographs. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Hupti nga mubo ug susiha ang inskripsiyon sa christening-cake
+Himoa nga mubo, klaro ug husto ang spelling sa mensahe. Ipadala sa sinulat ang eksaktong teksto, capital ug punctuation; itandi ang ngalan ug petsa sa imbitasyon o programa sa dili pa aprobahan ang order.
 
-Ang kasagarang mga kapilian naglakip sa ngalan sa bata, petsa sa pagbunyag, o mubo nga panalangin. Pagpili og usa o duha niini nga mga detalye kay sa pagpuno sa cake og taas nga sentence. Kini mga sugyot sa mga pulong, dili teksto gikan sa tinuod nga mga order sa White Cakes. Hangyoa ang pamilya sa pag-aprobar sa eksaktong hugpong sa mga pulong ug spelling sa dili pa kini ipadala ngadto sa panaderya.
+Pangutan-a kon moigo ba ang teksto sa piniling gidak-on ug hand-piped finish. Kon importante ang daghang ngalan o taas nga mensahe, desisyoni daan unsay mapamubo aron mabasa gihapon sa personal ug litrato. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Kung ang inskripsiyon naa sa Cebuano o Tagalog, ipakumpirma sa usa ka larino nga miyembro sa pamilya ang mga pulong ug tono. Ipadala ang kataposang bersyon sa usa ka mensahe nga adunay capitalization ug punctuation. Pangutan-a ang White Cake kung haom ba kini sa gipili nga gidak-on ug dekorasyon; ang gamay nga cake mahimong adunay limitado nga lugar.
+## Tagalog translation (editorial review pending)
 
-Ilakip ang petsa sa panghitabo, lami, banabana sa pagserbisyo, ug plano sa paghatud sa order. Ang kasamtangan nga mga banabana mao ang 8–12 ka party slices gikan sa 6-inch nga cake ug 16–24 gikan sa 8-inch nga cake. Tugoti ang labing menos tulo ka adlaw nga pahibalo ug kumpirmahi ang kinutlo. Ang 50% nga deposito nagsiguro sa gikasabutan nga order.
+Panatilihing maikli, malinaw, at tama ang baybay ng mensahe. Ipadala nang nakasulat ang eksaktong teksto, capitalization, at bantas; itugma ang mga pangalan at petsa sa imbitasyon o programa bago aprubahan ang order.
 
-Idugang ang sampol nga hugpong sa mga pulong sa kasamtangan nga giya sa mensahe. Ang usa ka bulag nga galeriya sa pagbautismo nanginahanglan orihinal, gi-clear sa pagtugot nga mga imahe sa cake ug mga pananglitan nga nagdugang labaw pa sa usa ka lista sa mga generic nga pagtimbaya.
+Itanong kung kasya ang teksto sa napiling laki at hand-piped finish. Kung mahalaga ang maraming pangalan o mahabang mensahe, pagpasyahan nang maaga kung ano ang paiikliin para mabasa pa rin nang personal at sa litrato. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Panatilihing maikli at naka-check ang inskripsiyon ng christening-cake
-
-Kasama sa mga karaniwang opsyon ang pangalan ng bata, petsa ng pagbibinyag, o isang maikling basbas. Pumili ng isa o dalawa sa mga detalyeng ito sa halip na punan ang cake ng mahabang pangungusap. Ito ay mga mungkahi sa mga salita, hindi text mula sa mga tunay na order ng White Cakes. Hilingin sa pamilya na aprubahan ang eksaktong parirala at spelling bago ito ipadala sa panaderya.
-
-Kung ang inskripsiyon ay nasa Cebuano o Tagalog, ipakumpirma sa isang matatas na miyembro ng pamilya ang pananalita at tono. Ipadala ang huling bersyon sa isang mensahe na may capitalization at bantas. Tanungin ang White Cake kung ito ay akma sa napiling laki at palamuti; ang isang maliit na cake ay maaaring may limitadong espasyo.
-
-Isama ang petsa ng kaganapan, lasa, pagtatantya ng paghahatid, at plano ng paghahatid sa order. Ang kasalukuyang mga pagtatantya ay 8–12 party slice mula sa isang 6-inch na cake at 16–24 mula sa isang 8-inch na cake. Payagan ang hindi bababa sa tatlong araw na paunawa at kumpirmahin ang quote. Sinisiguro ng 50% na deposito ang napagkasunduang order.
-
-Magdagdag ng sample na parirala sa umiiral nang gabay sa mensahe. Ang isang hiwalay na gallery ng pagbibinyag ay nangangailangan ng orihinal, na-clear ng pahintulot na mga larawan ng cake at mga halimbawa na nagdaragdag ng higit pa sa isang listahan ng mga generic na pagbati.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

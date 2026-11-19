@@ -1,38 +1,31 @@
 ---
 id: WC-0179
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html; ask the bakery for product-specific instructions
 english_title: "How to keep safe and cool until serving bridal shower cake in Cebu"
 cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa bridal shower sa Cebu"
 tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa bridal shower sa Cebu"
 ---
+## How to keep safe and cool until serving bridal shower cake in Cebu
 
-## Match the storage plan to the cake and the shower schedule
+Estimate portions from the serving plan, not from a photograph. White Cakes’ guide gives about 8–12 party slices for a 6-inch round, 16–24 for an 8-inch round, and 30–36 for a common 6+8-inch two-tier cake. These are approximate and vary with slice size, height and design.
 
-Ask the bakery how to store the exact cake you ordered, since filling, frosting, and decoration can affect handling. Tell it when the cake will arrive, when it will be served, and whether the shower is indoors or outdoors. Request guidance specific to the product rather than using a generic time limit.
-
-Arrange for a named person to receive the cake promptly, keep the box level, and protect it from direct sunlight. Follow the bakery’s instructions about refrigeration and when to bring it out. If the program runs late, contact the baker before changing the care plan.
-
-Keep verified advice in the central Cebu heat guide and link from event planning content.
+Tell the bakery whether cake is the main dessert, one of several sweets, or a ceremonial cut. Share the guest count and whether everyone needs a full slice; ask the team to confirm the best size for the exact design. For a bridal shower, treat the couple’s or host’s palette as a guide and avoid reproducing private or copyrighted details without permission. Confirm who approves the inscription and final design so the surprise stays coordinated.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ipares ang plano sa pagtipig sa cake ug ang iskedyul sa shower
+Banabana ang serving sumala sa paagi sa pagserbisyo, dili sa litrato. Sa giya sa White Cakes, mga 8–12 ka party slice ang 6-inch round, 16–24 ang 8-inch, ug 30–36 ang kasagarang 6+8-inch two-tier. Banabana kini ug mausab sa kadak-on sa hiwa, kataas ug disenyo.
 
-Pangutan-a ang panaderya kung unsaon pagtipig sa eksaktong cake nga imong gi-order, tungod kay ang pagpuno, pag-frost, ug dekorasyon makaapekto sa pagdumala. Sultihi kini kung kanus-a moabot ang cake, kanus-a kini i-serve, ug kung ang shower anaa sa sulod o sa gawas. Paghangyo ug giya nga espesipiko sa produkto kay sa paggamit ug generic time limit.
+Sultihi ang panaderya kon main dessert ba ang cake, usa sa daghang tam-is, o ceremonial cut lang. Ipaambit ang ihap sa bisita ug kon tanan ba manginahanglan og tibuok hiwa; pangayo og rekomendasyon sa eksaktong disenyo. Alang sa bridal shower, gamita isip giya ang palette sa magtiayon o host ug ayaw kopyaha ang pribado o copyrighted nga detalye kon walay pagtugot. Kumpirmaha kinsa ang moapruba sa mensahe ug disenyo aron hapsay ang sorpresa.
 
-Paghan-ay alang sa usa ka ginganlan nga tawo nga makadawat dayon sa cake, ipabilin ang lebel sa kahon, ug panalipdan kini gikan sa direkta nga kahayag sa adlaw. Sunda ang mga instruksyon sa panaderya bahin sa pagpabugnaw ug kanus-a kini ipagawas. Kung ulahi na ang programa, kontaka ang panadero sa dili pa usbon ang plano sa pag-atiman.
+## Tagalog translation (editorial review pending)
 
-Hupti ang napamatud-an nga tambag sa sentro sa Cebu heat guide ug link gikan sa sulod sa pagplano sa panghitabo.
+Tantiyahin ang serving ayon sa plano ng paghahain, hindi sa larawan. Ayon sa gabay ng White Cakes, mga 8–12 party slice ang 6-inch round, 16–24 ang 8-inch round, at 30–36 ang karaniwang 6+8-inch two-tier. Tantya lamang ito at nagbabago ayon sa hiwa, taas, at disenyo.
 
-## Tagalog translation (machine translated; editorial review pending)
+Sabihin sa panaderya kung pangunahing dessert ang cake, isa sa maraming panghimagas, o ceremonial cut lang. Ibigay ang bilang ng bisita at kung kailangan ng bawat isa ng buong slice; itanong ang angkop na laki para sa mismong disenyo. Para sa bridal shower, gawing gabay ang palette ng magkapareha o host at huwag kopyahin ang pribado o copyrighted na detalye nang walang pahintulot. Kumpirmahin kung sino ang mag-aapruba ng mensahe at disenyo para maayos ang sorpresa.
 
-## Itugma ang plano ng imbakan sa cake at iskedyul ng shower
+## Editorial note
 
-Tanungin ang panaderya kung paano iimbak ang eksaktong cake na iyong na-order, dahil ang pagpuno, frosting, at dekorasyon ay maaaring makaapekto sa paghawak. Sabihin ito kung kailan darating ang cake, kung kailan ito ihahain, at kung ang shower ay nasa loob o sa labas. Humiling ng gabay na partikular sa produkto sa halip na gumamit ng generic na limitasyon sa oras.
-
-Ayusin para sa isang pinangalanang tao na matanggap kaagad ang cake, panatilihin ang antas ng kahon, at protektahan ito mula sa direktang sikat ng araw. Sundin ang mga tagubilin ng panaderya tungkol sa pagpapalamig at kung kailan ito ilalabas. Kung huli na ang programa, makipag-ugnayan sa panadero bago baguhin ang plano ng pangangalaga.
-
-Panatilihin ang na-verify na payo sa gitnang Cebu heat guide at link mula sa nilalaman ng pagpaplano ng kaganapan.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

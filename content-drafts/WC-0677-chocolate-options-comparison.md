@@ -2,9 +2,9 @@
 id: WC-0677
 status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html and /journal/choosing-a-flavor.html
-english_title: \"How to compare options for chocolate cake in Cebu\"
-cebuano_title: \"Giunsa pagtandi ang mga kapilian para sa chocolate cake sa Cebu\"
-tagalog_title: \"Paano paghambingin ang mga pagpipilian para sa chocolate cake sa Cebu\"
+english_title: "How to compare options for chocolate cake in Cebu"
+cebuano_title: "Giunsa pagtandi ang mga kapilian para sa chocolate cake sa Cebu"
+tagalog_title: "Paano paghambingin ang mga pagpipilian para sa chocolate cake sa Cebu"
 ---
 
 ## English

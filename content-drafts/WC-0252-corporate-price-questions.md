@@ -1,44 +1,31 @@
 ---
 id: WC-0252
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html
 english_title: "What to ask about the price of corporate cake in Cebu"
 cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa opisina sa Cebu"
 tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa opisina sa Cebu"
 ---
+## What to ask about the price of corporate cake in Cebu
 
-## Request an office-cake quote with the right details
+Request a written quote for the exact date, size, flavour, piping detail, inscription and delivery address. A reference image by itself cannot establish the price because scale and hand-piped detail affect the work; ask what the quoted amount includes.
 
-For a corporate cake quote, include the event date, size, flavour, number of people expected to eat cake, design, inscription, and delivery address. If the cake includes a company logo or brand colours, provide approved artwork and ask whether the bakery can use it. A simple menu price may not cover custom work, so request a quote for the actual scope.
-
-White Cakes' current custom-menu rates are time-limited: 6 inches is ₱1,399 through January 15, 2027 and ₱1,799 from January 16; 8 inches is ₱1,999 through January 15 and ₱2,599 after. Check the live menu before publishing these amounts. Confirm whether the design and delivery change the total.
-
-Current serving estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Tell the bakery how many colleagues will share it. Confirm building access, receiver, delivery window, and fee. Allow at least three days' notice; the 50% deposit confirms the agreed order.
-
-Keep current corporate pricing in the shared price guide and recheck it whenever the bakery updates its rates.
+Prices and availability can change. The listed launch prices for Signature Marble sizes are date-limited through 15 January 2027 and do not set the price for every custom design. Confirm current pricing directly before announcing a budget. For a corporate cake, send the approved brand colour and exact wording, and confirm who can authorize logo use. Keep the delivery contact reachable at the office or venue; do not assume reception can accept a cake without prior arrangement.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Paghangyo ug office-cake quote nga adunay saktong mga detalye
+Pangayo og sinulat nga quote para sa eksaktong petsa, gidak-on, lami, detalye sa piping, inskripsiyon ug delivery address. Dili igo ang reference image kay makaapekto sa trabaho ang sukod ug detalye sa hand-piping; pangutan-a unsay apil sa presyo.
 
-Para sa usa ka corporate cake quote, ilakip ang petsa sa panghitabo, gidak-on, lami, gidaghanon sa mga tawo nga gilauman nga mokaon sa cake, disenyo, inskripsiyon, ug adres sa pagpadala. Kung ang cake adunay logo sa kompanya o mga kolor sa brand, paghatag og aprubadong artwork ug pangutana kung magamit ba kini sa panaderya. Ang usa ka yano nga presyo sa menu mahimong dili maglakip sa naandan nga trabaho, busa paghangyo og usa ka kinutlo alang sa aktuwal nga kasangkaran.
+Mahimong mausab ang presyo ug availability. Kutob ra sa 15 Enero 2027 ang gilista nga launch price sa mga gidak-on sa Signature Marble ug dili kini presyo sa tanang custom design. Kumpirmaha diretso ang kasamtangang presyo sa dili pa magtakda og budget. Alang sa corporate cake, ipadala ang aprobado nga brand colour ug eksaktong teksto, ug kumpirmaha kinsa ang mahimong moapruba sa paggamit sa logo. Siguroha nga maabot ang kontak sa opisina o venue; ayaw hunahunaa nga modawat ang reception nga walay kasabotan.
 
-Ang kasamtangang custom-menu rates sa White Cakes kay limitado sa panahon: 6 ka pulgada maoy ₱1,399 hangtod sa Enero 15, 2027 ug ₱1,799 gikan sa Enero 16; Ang 8 pulgada maoy ₱1,999 hangtod sa Enero 15 ug ₱2,599 pagkahuman. Susiha ang live menu sa dili pa imantala kini nga mga kantidad. Pagkumpirma kung ang disenyo ug paghatud nagbag-o sa kinatibuk-an.
+## Tagalog translation (editorial review pending)
 
-Ang mga banabana sa kasamtangan nga pagserbisyo mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Sultihi ang panaderya kon pila ka kauban ang mopaambit niini. Kumpirma ang pag-access sa building, receiver, delivery window, ug bayad. Tugoti ang labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
+Humingi ng nakasulat na quote para sa eksaktong petsa, laki, flavor, detalye ng piping, inskripsiyon, at delivery address. Hindi sapat ang reference image lang dahil nakaaapekto sa trabaho ang sukat at hand-piped na detalye; itanong kung ano ang kasama sa presyo.
 
-Ipadayon ang kasamtangan nga pagpresyo sa korporasyon sa gipaambit nga giya sa presyo ug susiha kini pag-usab kung ang panaderya mag-update sa mga presyo niini.
+Maaaring magbago ang presyo at availability. Hanggang 15 Enero 2027 lamang ang nakalistang launch price para sa mga laki ng Signature Marble at hindi ito presyo ng bawat custom design. Kumpirmahin nang direkta ang kasalukuyang presyo bago magtakda ng budget. Para sa corporate cake, ipadala ang aprubadong brand color at eksaktong teksto, at kumpirmahin kung sino ang maaaring mag-apruba ng paggamit ng logo. Tiyaking reachable ang contact sa opisina o venue; huwag ipagpalagay na tatanggap ang reception nang walang paunang usapan.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Humiling ng quote ng office-cake na may mga tamang detalye
-
-Para sa isang corporate cake quote, isama ang petsa ng kaganapan, laki, lasa, bilang ng mga taong inaasahang makakain ng cake, disenyo, inskripsyon, at address ng paghahatid. Kung ang cake ay may kasamang logo ng kumpanya o mga kulay ng brand, magbigay ng aprubadong likhang sining at tanungin kung magagamit ito ng panaderya. Maaaring hindi saklaw ng simpleng presyo ng menu ang custom na trabaho, kaya humiling ng quote para sa aktwal na saklaw.
-
-Ang kasalukuyang mga rate ng custom-menu ng White Cakes ay limitado sa oras: 6 pulgada ay ₱1,399 hanggang Enero 15, 2027 at ₱1,799 mula Enero 16; Ang 8 pulgada ay ₱1,999 hanggang Enero 15 at ₱2,599 pagkatapos. Tingnan ang live na menu bago i-publish ang mga halagang ito. Kumpirmahin kung binago ng disenyo at paghahatid ang kabuuan.
-
-Ang kasalukuyang pagtatantya ng paghahatid ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Sabihin sa panaderya kung gaano karaming mga kasamahan ang magbabahagi nito. Kumpirmahin ang access sa gusali, receiver, delivery window, at bayad. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang kasalukuyang pagpepresyo ng kumpanya sa nakabahaging gabay sa presyo at muling suriin ito sa tuwing ina-update ng panaderya ang mga rate nito.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

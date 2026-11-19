@@ -1,38 +1,31 @@
 ---
 id: WC-0192
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "What to include in a custom brief for christening cake in Cebu"
 cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa bunyag sa Cebu"
 tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa binyag sa Cebu"
 ---
+## What to include in a custom brief for christening cake in Cebu
 
-## Share the child’s details and the family’s design priorities
+A useful brief names the occasion, date, serving time, venue, approximate guest count, budget range and the cake’s role. Add the preferred size, flavour, exact message and one clear design reference; mark which details are essential and which can change.
 
-Include the christening date, child’s name and spelling, guest estimate, preferred size, flavour, and delivery or pickup plan. For the visual direction, choose one reference that shows the overall style and identify the most important detail, such as a short message, simple palette, or symbol.
-
-Mark which parts are required and which are inspiration. Ask the bakery whether the design fits the cake size and production time, and confirm the exact inscription and current quote in writing. If there are allergies or dietary needs, ask directly whether they can be accommodated.
-
-Keep this checklist in the custom-brief guide. A separate christening design case should only appear with a real finished cake, original photo, and customer approval.
+White Cakes hand-pipes buttercream, so describe the mood and a few specific details instead of asking for an exact copy of a screenshot. Ask the bakery to confirm an achievable interpretation before treating the design as final. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ipaambit ang mga detalye sa bata ug ang mga prayoridad sa disenyo sa pamilya
+Ang maayong brief naghisgot sa okasyon, petsa, oras sa pagserbisyo, venue, banabana sa bisita, budget range ug papel sa cake. Idugang ang gustong gidak-on, lami, eksaktong mensahe ug usa ka klarong design reference; ilahi ang kinahanglan gyod sa puwedeng usbon.
 
-Ilakip ang petsa sa pagbunyag, ngalan ug spelling sa bata, banabana sa bisita, gusto nga gidak-on, lami, ug plano sa pagpadala o pagkuha. Para sa biswal nga direksyon, pagpili og usa ka reperensiya nga nagpakita sa kinatibuk-ang estilo ug ilha ang pinakaimportante nga detalye, sama sa mubo nga mensahe, yanong palette, o simbolo.
+Hand-piped buttercream ang gamit sa White Cakes, busa ihulagway ang mood ug pipila ka espesipikong detalye imbis mangayo og eksaktong kopya sa screenshot. Pangayo og kumpirmasyon sa mahimo nga interpretasyon sa dili pa final ang disenyo. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Markahi kon unsa nga mga bahin ang gikinahanglan ug hain ang inspirasyon. Pangutan-a ang panaderya kon ang disenyo mohaom ba sa gidak-on sa cake ug panahon sa produksyon, ug kumpirmahi ang eksaktong inskripsiyon ug kasamtangang kinutlo sa pagsulat. Kung adunay mga alerdyi o mga panginahanglanon sa pagkaon, pangutana direkta kung mahimo ba kini nga ma-accommodate.
+## Tagalog translation (editorial review pending)
 
-Ibutang kini nga checklist sa custom-mubo nga giya. Ang usa ka bulag nga kaso sa disenyo sa pagbunyag kinahanglan nga makita lamang nga adunay usa ka tinuod nga nahuman nga cake, orihinal nga litrato, ug pagtugot sa kustomer.
+Dapat ilahad sa maayos na brief ang okasyon, petsa, oras ng paghahain, venue, tantiyang bilang ng bisita, budget range, at papel ng cake. Idagdag ang gustong laki, flavor, eksaktong mensahe, at isang malinaw na design reference; ihiwalay ang kailangang-kailangan sa puwedeng baguhin.
 
-## Tagalog translation (machine translated; editorial review pending)
+Hand-piped buttercream ang ginagawa ng White Cakes, kaya ilarawan ang mood at piling detalye sa halip na humiling ng eksaktong kopya ng screenshot. Ipa-confirm ang kayang interpretasyon bago ituring na pinal ang disenyo. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Ibahagi ang mga detalye ng bata at mga priyoridad sa disenyo ng pamilya
+## Editorial note
 
-Isama ang petsa ng pagbibinyag, pangalan at spelling ng bata, pagtatantya ng bisita, gustong laki, lasa, at plano sa paghahatid o pagkuha. Para sa visual na direksyon, pumili ng isang reference na nagpapakita ng pangkalahatang istilo at tukuyin ang pinakamahalagang detalye, gaya ng maikling mensahe, simpleng palette, o simbolo.
-
-Markahan kung aling mga bahagi ang kinakailangan at alin ang inspirasyon. Tanungin ang panaderya kung ang disenyo ay akma sa laki ng cake at oras ng paggawa, at kumpirmahin ang eksaktong inskripsiyon at kasalukuyang quote sa pamamagitan ng pagsulat. Kung may mga allergy o mga pangangailangan sa pandiyeta, tanungin nang direkta kung maaari silang tanggapin.
-
-Panatilihin ang checklist na ito sa custom-brief na gabay. Ang isang hiwalay na kaso ng disenyo ng pagbibinyag ay dapat lamang lumitaw na may isang tunay na tapos na cake, orihinal na larawan, at pag-apruba ng customer.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

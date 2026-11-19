@@ -1,50 +1,31 @@
 ---
 id: WC-0246
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /journal/graduation-cake-cebu.html
 english_title: "Common ordering mistakes to avoid with graduation cake in Cebu"
 cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa graduation sa Cebu"
 tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa graduation sa Cebu"
 ---
+## Common ordering mistakes to avoid with graduation cake in Cebu
 
-## Graduation-cake order details that are easy to miss
+Avoid booking assumptions: a message or reference photo is not a confirmed slot. Also avoid a brief with no guest count, venue or serving time, choosing tiers from appearance alone, and leaving spelling or delivery arrangements until event day.
 
-**Leaving the date open-ended.** Give the exact graduation or celebration date and ask whether the bakery has a production slot. White Cakes requests at least three days' notice, and an enquiry alone does not reserve the date.
-
-**Sending a long message too late.** Graduation inscriptions can include a name, degree, or short congratulations. Send the exact wording early so the bakery can confirm whether it fits the selected cake size. Keep the message concise, especially for a Bento.
-
-**Choosing size from a photograph.** Share the number of people who will eat cake and use the current serving guide. A design image cannot show the portion count, and the actual number changes with the cut and cake dimensions.
-
-**Leaving delivery details until event day.** Provide the venue address, landmark, a named receiver's mobile number, and any gate or lobby instruction. Agree a delivery window and ensure someone can accept the cake and keep it out of direct sun.
-
-Confirm the flavour, design reference, quote, address-based delivery charge, and payment terms before the 50% deposit. These checks belong in the central order guide, with graduation-specific examples on the existing graduation page; avoid a separate list that merely repeats general ordering rules.
+Use one written summary for the final size, flavour, design, wording, quote and handoff. Confirm current availability and care instructions with the bakery; these checks reduce last-minute confusion without adding unnecessary complexity. For graduation, check the graduate’s correct name, school spelling and ceremony date before approving lettering. If the cake travels to a venue after the ceremony, include the handoff location and time in the delivery plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Mga detalye sa pag-order sa gradwasyon-cake nga daling makalimtan
+Likayi ang paghunahuna nga kumpirmado na ang booking tungod sa mensahe o reference photo. Likayi usab ang brief nga walay ihap sa bisita, venue o oras sa pagserbisyo, pagpili og tier tungod lang sa hitsura, ug paghulat sa event day para sa spelling o delivery.
 
-**Pagbiya sa petsa nga open-ended.** Ihatag ang eksaktong petsa sa gradwasyon o selebrasyon ug pangutana kung ang bakery adunay puwang sa produksiyon. Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo, ug ang pagpangutana lamang dili magreserba sa petsa.
+Gamita ang usa ka sinulat nga summary para sa kataposang gidak-on, lami, disenyo, teksto, quote ug handoff. Kumpirmaha sa panaderya ang availability ug giya sa pag-atiman; makapamenos kini sa kalibog sa kataposang minuto. Alang sa graduation, susiha ang hustong ngalan, spelling sa eskwelahan ug petsa sa seremonya sa dili pa aprobahan ang letra. Kon dad-on ang cake sa venue human sa seremonya, iapil sa delivery plan ang lokasyon ug oras sa handoff.
 
-**Pagpadala ug taas nga mensahe ulahi na kaayo.** Ang mga inskripsiyon sa gradwasyon mahimong maglakip sa usa ka ngalan, degree, o mubo nga pahalipay. Ipadala ang eksaktong mga pulong sa sayo aron makumpirma sa panaderya kung mohaum ba kini sa gipili nga gidak-on sa cake. Hupti ang mensahe nga mubo, ilabi na alang sa usa ka Bento.
+## Tagalog translation (editorial review pending)
 
-**Pagpili sa gidak-on gikan sa usa ka litrato.** Ipakigbahin ang gidaghanon sa mga tawo nga mokaon sa cake ug gamiton ang kasamtangan nga giya sa pag-alagad. Ang usa ka disenyo nga larawan dili makapakita sa gidaghanon sa mga bahin, ug ang aktuwal nga gidaghanon mausab uban sa mga sukod sa cut ug cake.
+Iwasang ipagpalagay na kumpirmado na ang booking dahil sa mensahe o reference photo. Iwasan din ang brief na walang bilang ng bisita, venue, o oras ng paghahain, pagpili ng tier dahil lang sa itsura, at pag-iwan ng baybay o delivery arrangement sa araw ng event.
 
-**Pagbilin sa mga detalye sa pagpadala hangtod sa adlaw sa kalihokan.** Ihatag ang adres sa lugar, landmark, usa ka gihinganlan nga numero sa mobile sa tigdawat, ug bisan unsang panudlo sa gate o lobby. Pag-uyon sa usa ka bintana sa pagpadala ug siguroha nga adunay makadawat sa cake ug dili kini direkta nga adlaw.
+Gumamit ng iisang nakasulat na buod para sa final na laki, flavor, disenyo, teksto, quote, at handoff. Kumpirmahin sa panaderya ang availability at gabay sa pag-aalaga; nakababawas ito ng kalituhan sa huling sandali. Para sa graduation, tingnan ang tamang pangalan, baybay ng paaralan, at petsa ng seremonya bago aprubahan ang lettering. Kung dadalhin ang cake sa venue pagkatapos ng seremonya, isama sa delivery plan ang lugar at oras ng handoff.
 
-Kumpirma ang lami, reference sa disenyo, quote, bayad sa pagpadala nga nakabase sa address, ug mga termino sa pagbayad sa wala pa ang 50% nga deposito. Kini nga mga tseke nahisakop sa sentro nga giya sa han-ay, nga adunay piho nga mga pananglitan sa graduation sa kasamtangan nga panid sa gradwasyon; likayi ang usa ka bulag nga lista nga nagsubli lang sa kinatibuk-ang mga lagda sa pag-order.
+## Editorial note
 
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mga detalye ng order ng graduation-cake na madaling makaligtaan
-
-**Iniwan ang petsa na bukas.** Ibigay ang eksaktong petsa ng pagtatapos o pagdiriwang at tanungin kung ang panaderya ay may puwang ng produksyon. Ang White Cakes ay humihiling ng hindi bababa sa tatlong araw na paunawa, at ang pagtatanong lamang ay hindi nagrereserba ng petsa.
-
-**Nahuhuli na ang pagpapadala ng mahabang mensahe.** Ang mga inskripsiyon sa pagtatapos ay maaaring magsama ng pangalan, degree, o maikling pagbati. Ipadala nang maaga ang eksaktong salita para makumpirma ng panaderya kung akma ito sa napiling laki ng cake. Panatilihing maigsi ang mensahe, lalo na para sa isang Bento.
-
-**Pagpili ng laki mula sa isang litrato.** Ibahagi ang bilang ng mga taong kakain ng cake at gamitin ang kasalukuyang gabay sa paghahatid. Hindi maipapakita ng isang larawang disenyo ang bilang ng bahagi, at nagbabago ang aktwal na numero sa mga sukat ng hiwa at cake.
-
-**Nag-iiwan ng mga detalye ng paghahatid hanggang sa araw ng kaganapan.** Ibigay ang address ng venue, landmark, isang pinangalanang numero ng mobile ng receiver, at anumang tagubilin sa gate o lobby. Sumang-ayon sa isang window ng paghahatid at tiyaking maaaring tanggapin ng isang tao ang cake at itago ito sa direktang araw.
-
-Kumpirmahin ang lasa, reference sa disenyo, quote, singil sa paghahatid na nakabatay sa address, at mga tuntunin sa pagbabayad bago ang 50% na deposito. Ang mga tseke na ito ay nabibilang sa gitnang gabay sa pagkakasunud-sunod, na may mga halimbawang partikular sa pagtatapos sa kasalukuyang pahina ng pagtatapos; iwasan ang isang hiwalay na listahan na umuulit lamang sa mga pangkalahatang tuntunin sa pag-order.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

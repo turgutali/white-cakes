@@ -1,38 +1,31 @@
 ---
 id: WC-0177
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/choosing-a-flavor.html; verify current menu
 english_title: "How to choose a flavour for bridal shower cake in Cebu"
 cebuano_title: "Giunsa pagpili sa lami para sa cake para sa bridal shower sa Cebu"
 tagalog_title: "Paano pumili ng flavor para sa cake para sa bridal shower sa Cebu"
 ---
+## How to choose a flavour for bridal shower cake in Cebu
 
-## Choose for the bride and the people sharing the dessert
+White Cakes lists chocolate, vanilla, ube, mango and red velvet. Ask what the selected flavour means in the current menu: the name alone does not promise a separate filling, fruit layer or topping. Confirm the cake construction and raise any ingredient or allergy question directly.
 
-Ask the bride or host which flavours she enjoys, then consider the guests and any other desserts at the shower. White Cakes’ current listed flavours have included Chocolate, Vanilla, Ube, Mango, and Red Velvet; confirm what is available for your date. Do not assume a past photo shows the current menu.
-
-Ask what the selected flavour option includes and mention any dietary needs directly to the bakery. A flavour name does not confirm ingredients or allergy safety. Confirm cake size and servings separately from flavour.
-
-Keep current choices in the central flavour guide and link to serving and design pages. Update the menu before publishing seasonal recommendations.
+For a mixed-age gathering, choose from the bakery’s confirmed options and tell the host what flavour is being served. Do not assume an unlisted combination or special dietary version is available without written confirmation. For a bridal shower, treat the couple’s or host’s palette as a guide and avoid reproducing private or copyrighted details without permission. Confirm who approves the inscription and final design so the surprise stays coordinated.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pagpili alang sa pangasaw-onon ug sa mga tawo nga nag-ambit sa dessert
+Gilista sa White Cakes ang chocolate, vanilla, ube, mango ug red velvet. Pangutan-a unsay kahulogan sa lami sa kasamtangang menu: dili garantiya ang ngalan lang nga adunay lahi nga filling, fruit layer o topping. Kumpirmaha ang sulod sa cake ug ipangutana diretso ang bahin sa allergy.
 
-Pangutan-a ang pangasaw-onon o tagbalay kung unsang mga lami ang iyang natagamtam, unya hunahunaa ang mga bisita ug bisan unsang uban pang mga dessert sa shower. Ang nalista karon nga mga lami sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; kumpirmahi kung unsa ang magamit alang sa imong petsa. Ayaw isipa nga ang miaging litrato nagpakita sa kasamtangan nga menu.
+Para sa nagkalain-laing edad nga bisita, pilia ang nakumpirmang kapilian sa panaderya ug sultihi ang host unsay lami. Ayaw paghunahuna nga anaa ang wala gilista nga kombinasyon o espesyal nga bersyon sa pagkaon kon walay sinulat nga kumpirmasyon. Alang sa bridal shower, gamita isip giya ang palette sa magtiayon o host ug ayaw kopyaha ang pribado o copyrighted nga detalye kon walay pagtugot. Kumpirmaha kinsa ang moapruba sa mensahe ug disenyo aron hapsay ang sorpresa.
 
-Pangutan-a kung unsa ang gilakip sa gipili nga kapilian sa lami ug isulti ang bisan unsang panginahanglan sa pagkaon direkta sa panaderya. Ang ngalan sa palami wala magpamatuod sa mga sangkap o kaluwasan sa alerdyi. Kumpirma ang gidak-on sa cake ug mga servings nga lahi sa lami.
+## Tagalog translation (editorial review pending)
 
-Itago ang mga karon nga kapilian sa sentro nga giya sa lami ug sumpay sa mga panid sa pagserbisyo ug disenyo. I-update ang menu sa dili pa imantala ang mga seasonal nga rekomendasyon.
+Nakalista sa White Cakes ang chocolate, vanilla, ube, mango, at red velvet. Itanong kung ano ang ibig sabihin ng flavor sa kasalukuyang menu: hindi ginagarantiya ng pangalan lang ang hiwalay na filling, fruit layer, o topping. Kumpirmahin ang laman at direktang itanong ang tungkol sa allergy.
 
-## Tagalog translation (machine translated; editorial review pending)
+Para sa bisitang iba-iba ang edad, pumili mula sa kumpirmadong opsyon ng panaderya at sabihin sa host ang ihahaing flavor. Huwag ipagpalagay na available ang kombinasyong wala sa listahan o espesyal na bersiyon para sa diet nang walang nakasulat na kumpirmasyon. Para sa bridal shower, gawing gabay ang palette ng magkapareha o host at huwag kopyahin ang pribado o copyrighted na detalye nang walang pahintulot. Kumpirmahin kung sino ang mag-aapruba ng mensahe at disenyo para maayos ang sorpresa.
 
-## Pumili para sa nobya at sa mga taong nagbabahagi ng dessert
+## Editorial note
 
-Tanungin ang nobya o host kung aling mga lasa ang gusto niya, pagkatapos ay isaalang-alang ang mga bisita at anumang iba pang mga dessert sa shower. Kasama sa mga kasalukuyang nakalistang lasa ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet; kumpirmahin kung ano ang magagamit para sa iyong petsa. Huwag ipagpalagay na ang isang nakaraang larawan ay nagpapakita ng kasalukuyang menu.
-
-Itanong kung ano ang kasama sa napiling opsyon sa lasa at banggitin ang anumang mga pangangailangan sa pandiyeta nang direkta sa panaderya. Hindi kinukumpirma ng pangalan ng lasa ang mga sangkap o kaligtasan sa allergy. Kumpirmahin ang laki ng cake at mga servings nang hiwalay sa lasa.
-
-Panatilihin ang mga kasalukuyang pagpipilian sa pangunahing gabay sa lasa at link sa paghahatid at mga pahina ng disenyo. I-update ang menu bago mag-publish ng mga pana-panahong rekomendasyon.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

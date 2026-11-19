@@ -1,44 +1,31 @@
 ---
 id: WC-0239
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Which reference photos help when ordering graduation cake in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa graduation sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa graduation sa Cebu"
 ---
+## Which reference photos help when ordering graduation cake in Cebu
 
-## Use graduation-cake references to show one design priority
+Choose one image that shows the overall silhouette, then add a separate close-up only for a detail that matters. Explain what you like in each image—colour, border, flower placement or lettering—and identify what is flexible.
 
-Choose a photo that explains the detail you want: school colours, a lettering style, or a simple graduation motif. Tell White Cakes which part to adapt and what can change. If you send several images, explain how they fit together instead of asking the bakery to combine conflicting ideas.
-
-For a school logo or emblem, check that you have permission to use it and provide a clear approved file. Do not assume an image from a search result can be reproduced or used publicly. Ask what design is feasible for the cake size and whether custom work changes the quote.
-
-Include the event date, flavour, serving estimate, exact inscription, and delivery or pickup plan. Current ranges are 8–12 party portions for 6 inches and 16–24 for 8 inches. Confirm the size and office or school handoff details. Made-to-order cakes need at least three days' notice; a 50% deposit confirms the agreed order.
-
-Keep reference guidance in the custom-brief guide. Publish a reference-to-finished example only with original photos and permission.
+A reference is a direction, not a promise of an exact replica. White Cakes adapts designs to hand-piped buttercream, cake size and practical constraints. Ask for the bakery’s written interpretation before approving the final brief. For graduation, check the graduate’s correct name, school spelling and ceremony date before approving lettering. If the cake travels to a venue after the ceremony, include the handoff location and time in the delivery plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Gamita ang graduation-cake reference aron ipakita ang usa ka disenyo nga prayoridad
+Pilia ang usa ka hulagway nga nagpakita sa kinatibuk-ang porma, ug idugang lang ang lahi nga close-up kon importante ang detalye. Isulti unsay ganahan sa matag litrato—kolor, border, kahimutang sa bulak o letra—ug unsay puwedeng usbon.
 
-Pagpili og litrato nga nagpatin-aw sa detalye nga imong gusto: mga kolor sa eskwelahan, estilo sa letra, o yanong motif sa graduation. Sultihi ang White Cake kung unsang bahin ang ipahiangay ug kung unsa ang mabag-o. Kung magpadala ka ug daghang mga imahe, ipasabut kung giunsa nila pagkaangay imbes nga hangyoon ang panaderya sa paghiusa sa nagkasumpaki nga mga ideya.
+Ang reference giya, dili saad nga eksaktong kopyahon. Ipahiangay sa White Cakes ang disenyo sa hand-piped buttercream, gidak-on ug praktikal nga limitasyon. Pangayo og sinulat nga interpretasyon sa dili pa aprobahan ang final brief. Alang sa graduation, susiha ang hustong ngalan, spelling sa eskwelahan ug petsa sa seremonya sa dili pa aprobahan ang letra. Kon dad-on ang cake sa venue human sa seremonya, iapil sa delivery plan ang lokasyon ug oras sa handoff.
 
-Para sa logo o emblema sa eskwelahan, susiha nga duna kay permiso sa paggamit niini ug paghatag ug klaro nga giaprobahan nga file. Ayaw paghunahuna nga ang usa ka imahe gikan sa usa ka resulta sa pagpangita mahimong kopyahon o magamit sa publiko. Pangutan-a kung unsa nga disenyo ang mahimo alang sa gidak-on sa cake ug kung ang naandan nga trabaho nagbag-o sa kinutlo.
+## Tagalog translation (editorial review pending)
 
-Ilakip ang petsa sa panghitabo, lami, banabana sa pagserbisyo, eksaktong inskripsiyon, ug plano sa pagpadala o pagkuha. Ang kasamtangang mga han-ay mao ang 8–12 ka bahin sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kumpirma ang gidak-on ug mga detalye sa handoff sa opisina o eskwelahan. Ang hinimo-sa-pag-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
+Pumili ng isang larawan na nagpapakita ng kabuuang hugis, saka magdagdag ng hiwalay na close-up kung mahalaga ang isang detalye. Ipaliwanag kung ano ang gusto sa bawat larawan—kulay, border, ayos ng bulaklak, o lettering—at tukuyin kung ano ang puwedeng baguhin.
 
-Itago ang giya sa pakisayran sa custom-mubo nga giya. I-publish ang usa ka reference-to-finished nga pananglitan lamang sa orihinal nga mga litrato ug pagtugot.
+Gabay ang reference, hindi pangako ng eksaktong replika. Inaangkop ng White Cakes ang disenyo sa hand-piped buttercream, laki ng cake, at praktikal na limitasyon. Humingi ng nakasulat na interpretasyon bago aprubahan ang final brief. Para sa graduation, tingnan ang tamang pangalan, baybay ng paaralan, at petsa ng seremonya bago aprubahan ang lettering. Kung dadalhin ang cake sa venue pagkatapos ng seremonya, isama sa delivery plan ang lugar at oras ng handoff.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Gumamit ng mga sanggunian ng graduation-cake upang ipakita ang isang priyoridad sa disenyo
-
-Pumili ng larawang nagpapaliwanag sa detalyeng gusto mo: mga kulay ng paaralan, istilo ng pagkakasulat, o simpleng motif ng pagtatapos. Sabihin sa White Cake kung aling bahagi ang iaangkop at kung ano ang maaaring magbago. Kung magpapadala ka ng ilang larawan, ipaliwanag kung paano magkasya ang mga ito sa halip na hilingin sa panaderya na pagsamahin ang mga magkasalungat na ideya.
-
-Para sa logo o emblem ng paaralan, tingnan kung mayroon kang pahintulot na gamitin ito at magbigay ng malinaw na naaprubahang file. Huwag ipagpalagay na ang isang imahe mula sa isang resulta ng paghahanap ay maaaring kopyahin o gamitin sa publiko. Itanong kung anong disenyo ang magagawa para sa laki ng cake at kung binago ng custom na trabaho ang quote.
-
-Isama ang petsa ng kaganapan, lasa, pagtatantya ng paghahatid, eksaktong inskripsiyon, at plano sa paghahatid o pagkuha. Ang mga kasalukuyang hanay ay 8–12 bahagi ng partido para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin ang laki at mga detalye ng handoff ng opisina o paaralan. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang reference na gabay sa custom-brief na gabay. Mag-publish ng isang reference-to-finished na halimbawa lamang na may orihinal na mga larawan at pahintulot.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

@@ -1,38 +1,31 @@
 ---
 id: WC-0230
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "What to include in a custom brief for graduation cake in Cebu"
 cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa graduation sa Cebu"
 tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa graduation sa Cebu"
 ---
+## What to include in a custom brief for graduation cake in Cebu
 
-## Include the graduate’s name, event schedule, and one design priority
+A useful brief names the occasion, date, serving time, venue, approximate guest count, budget range and the cake’s role. Add the preferred size, flavour, exact message and one clear design reference; mark which details are essential and which can change.
 
-Write the graduate’s name with the correct spelling, the event date, expected servings, preferred size, flavour, and delivery or pickup location. For the design, choose one main detail such as a school colour, short message, or simple symbol. If a logo is involved, confirm permission before sharing it.
-
-Send one or two reference images with notes about what each shows. Ask the bakery how the idea can fit the cake size and available schedule, and confirm the final quote and wording in writing. If the cake must arrive before a ceremony or photo session, provide a realistic handoff window.
-
-Keep the reusable checklist in the central custom-cake guide and link to the delivery and size pages.
+White Cakes hand-pipes buttercream, so describe the mood and a few specific details instead of asking for an exact copy of a screenshot. Ask the bakery to confirm an achievable interpretation before treating the design as final. For graduation, check the graduate’s correct name, school spelling and ceremony date before approving lettering. If the cake travels to a venue after the ceremony, include the handoff location and time in the delivery plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Ilakip ang ngalan sa gradwado, eskedyul sa panghitabo, ug usa ka prayoridad sa disenyo
+Ang maayong brief naghisgot sa okasyon, petsa, oras sa pagserbisyo, venue, banabana sa bisita, budget range ug papel sa cake. Idugang ang gustong gidak-on, lami, eksaktong mensahe ug usa ka klarong design reference; ilahi ang kinahanglan gyod sa puwedeng usbon.
 
-Isulat ang ngalan sa gradwado nga adunay husto nga spelling, petsa sa panghitabo, gipaabot nga mga servings, gusto nga gidak-on, lami, ug lokasyon sa pagpadala o pagkuha. Alang sa disenyo, pagpili og usa ka nag-unang detalye sama sa kolor sa eskwelahan, mubo nga mensahe, o yano nga simbolo. Kung naapil ang usa ka logo, kumpirmahi ang pagtugot sa dili pa kini ipaambit.
+Hand-piped buttercream ang gamit sa White Cakes, busa ihulagway ang mood ug pipila ka espesipikong detalye imbis mangayo og eksaktong kopya sa screenshot. Pangayo og kumpirmasyon sa mahimo nga interpretasyon sa dili pa final ang disenyo. Alang sa graduation, susiha ang hustong ngalan, spelling sa eskwelahan ug petsa sa seremonya sa dili pa aprobahan ang letra. Kon dad-on ang cake sa venue human sa seremonya, iapil sa delivery plan ang lokasyon ug oras sa handoff.
 
-Pagpadala og usa o duha ka reference nga mga hulagway nga adunay mga nota mahitungod sa gipakita sa matag usa. Pangutan-a ang panaderya kon sa unsang paagi ang ideya mohaom sa gidak-on sa cake ug magamit nga eskedyul, ug kumpirmahi ang kataposang kinutlo ug mga pulong sa pagsulat. Kung ang cake kinahanglan nga moabut sa wala pa ang usa ka seremonya o sesyon sa litrato, paghatag usa ka realistiko nga handoff window.
+## Tagalog translation (editorial review pending)
 
-Itago ang magamit pag-usab nga checklist sa sentro nga giya sa custom-cake ug sumpay sa mga panid sa pagpadala ug gidak-on.
+Dapat ilahad sa maayos na brief ang okasyon, petsa, oras ng paghahain, venue, tantiyang bilang ng bisita, budget range, at papel ng cake. Idagdag ang gustong laki, flavor, eksaktong mensahe, at isang malinaw na design reference; ihiwalay ang kailangang-kailangan sa puwedeng baguhin.
 
-## Tagalog translation (machine translated; editorial review pending)
+Hand-piped buttercream ang ginagawa ng White Cakes, kaya ilarawan ang mood at piling detalye sa halip na humiling ng eksaktong kopya ng screenshot. Ipa-confirm ang kayang interpretasyon bago ituring na pinal ang disenyo. Para sa graduation, tingnan ang tamang pangalan, baybay ng paaralan, at petsa ng seremonya bago aprubahan ang lettering. Kung dadalhin ang cake sa venue pagkatapos ng seremonya, isama sa delivery plan ang lugar at oras ng handoff.
 
-## Isama ang pangalan ng nagtapos, iskedyul ng kaganapan, at isang priyoridad sa disenyo
+## Editorial note
 
-Isulat ang pangalan ng nagtapos na may tamang spelling, petsa ng kaganapan, inaasahang mga serving, gustong laki, lasa, at lokasyon ng paghahatid o pagkuha. Para sa disenyo, pumili ng isang pangunahing detalye gaya ng kulay ng paaralan, maikling mensahe, o simpleng simbolo. Kung may kasamang logo, kumpirmahin ang pahintulot bago ito ibahagi.
-
-Magpadala ng isa o dalawang reference na larawan na may mga tala tungkol sa kung ano ang ipinapakita ng bawat isa. Tanungin ang panaderya kung paano magkasya ang ideya sa laki ng cake at magagamit na iskedyul, at kumpirmahin ang huling quote at mga salita sa pamamagitan ng pagsulat. Kung ang cake ay dapat dumating bago ang isang seremonya o sesyon ng larawan, magbigay ng isang makatotohanang handoff window.
-
-Panatilihin ang reusable checklist sa gitnang custom-cake na gabay at i-link sa mga pahina ng paghahatid at laki.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

@@ -2,9 +2,9 @@
 id: WC-0682
 status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: \"Design details to consider for chocolate cake in Cebu\"
-cebuano_title: \"Mga detalye sa disenyo nga ikonsiderar para sa chocolate cake sa Cebu\"
-tagalog_title: \"Mga detalye ng disenyo na dapat isaalang-alang para sa chocolate cake sa Cebu\"
+english_title: "Design details to consider for chocolate cake in Cebu"
+cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa chocolate cake sa Cebu"
+tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa chocolate cake sa Cebu"
 ---
 
 ## English

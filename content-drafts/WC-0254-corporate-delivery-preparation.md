@@ -1,44 +1,31 @@
 ---
 id: WC-0254
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
 english_title: "How to prepare for delivery of corporate cake in Cebu"
 cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa opisina sa Cebu"
 tagalog_title: "Paano maghanda para sa delivery ng cake para sa opisina sa Cebu"
 ---
+## How to prepare for delivery of corporate cake in Cebu
 
-## Prepare an office contact to receive the corporate cake
+Share the complete venue address, map pin or landmark, event time and latest acceptable arrival. Cebu City, Mandaue and Lapu-Lapu are listed service areas, but the exact route, availability, delivery window and address-based charge need confirmation in the quote.
 
-Choose a colleague who will be available during the delivery window. Give that person the order details and ask them to meet the driver at the agreed entrance. Send White Cakes the full office address, tower or building name, floor or receiving point if needed, landmark, contact mobile number, and visitor or loading instructions.
-
-Confirm delivery availability and the fee for the exact destination. Office buildings may have security procedures, so check them before the event day. Do not assume a driver can enter a restricted floor or wait while the office contact is in a meeting. If the cake arrives early, plan a cool, stable place to store it away from direct sun and heat.
-
-For the order, include the event date, serving estimate, flavour, design, and exact company message. Ask the bakery to confirm size and quote; current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. White Cakes needs at least three days' notice, and a 50% deposit confirms the agreed order.
-
-Keep general delivery directions in the main Cebu guide. Add building-specific claims only after verifying them with a real order and the location.
+Name one reachable person who will meet the rider at the door. Include a working number and building-entry instructions; the cake should not be left with security or in a warm lobby. Coordinate a direct handoff to the person responsible for the cake table. For a corporate cake, send the approved brand colour and exact wording, and confirm who can authorize logo use. Keep the delivery contact reachable at the office or venue; do not assume reception can accept a cake without prior arrangement.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pag-andam og kontak sa opisina aron makadawat sa corporate cake
+Ihatag ang tibuok address sa venue, map pin o landmark, oras sa event ug pinakalate nga pag-abot. Gilista ang Cebu City, Mandaue ug Lapu-Lapu nga mga service area, apan kumpirmaha sa quote ang eksaktong ruta, availability, delivery window ug bayad base sa address.
 
-Pagpili usa ka kauban nga magamit sa panahon sa paghatud sa bintana. Ihatag sa maong tawo ang mga detalye sa pag-order ug hangyoa sila nga makigkita sa drayber sa gikasabutan nga entrada. Ipadala ang White Cakes sa tibuok nga adres sa opisina, ngalan sa tore o building, salog o receiving point kon gikinahanglan, landmark, contact mobile number, ug mga instruksyon sa bisita o loading.
+Pagpili og usa ka tawo nga maabot ug modawat sa rider sa pultahan. Iapil ang aktibong numero ug instruksyon sa pagsulod sa building; ayaw ibilin ang cake sa security o init nga lobby. I-coordinate ang direktang pagdawat ngadto sa responsable sa cake table. Alang sa corporate cake, ipadala ang aprobado nga brand colour ug eksaktong teksto, ug kumpirmaha kinsa ang mahimong moapruba sa paggamit sa logo. Siguroha nga maabot ang kontak sa opisina o venue; ayaw hunahunaa nga modawat ang reception nga walay kasabotan.
 
-Kumpirma ang pagkaanaa sa pagpadala ug ang bayad alang sa eksaktong destinasyon. Ang mga bilding sa opisina mahimong adunay mga pamaagi sa seguridad, busa susiha kini sa dili pa ang adlaw sa kalihokan. Ayaw isipa nga ang usa ka drayber makasulod sa usa ka higpit nga salog o maghulat samtang ang kontak sa opisina anaa sa usa ka miting. Kung ang cake moabut og sayo, pagplano og usa ka bugnaw, lig-on nga dapit aron tipigan kini gikan sa direkta nga adlaw ug init.
+## Tagalog translation (editorial review pending)
 
-Para sa order, iapil ang petsa sa panghitabo, banabana sa pagserbisyo, lami, disenyo, ug eksaktong mensahe sa kompanya. Hangyoa ang panaderya sa pagkumpirma sa gidak-on ug kinutlo; kasamtangan nga mga banabana mao ang 8-12 party slices alang sa 6 pulgada ug 16-24 alang sa 8 pulgada. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
+Ibigay ang buong address ng venue, map pin o landmark, oras ng event, at pinakahuling katanggap-tanggap na dating. Nasa service area ang Cebu City, Mandaue, at Lapu-Lapu, pero kumpirmahin sa quote ang ruta, availability, delivery window, at singil batay sa address.
 
-Ipadayon ang kinatibuk-ang direksyon sa paghatod sa nag-unang giya sa Cebu. Idugang ang espesipiko nga mga pag-angkon sa bilding pagkahuman mapamatud-an kini nga adunay tinuud nga order ug lokasyon.
+Magtalaga ng isang taong reachable na sasalubong sa rider sa pinto. Isama ang aktibong numero at tagubilin sa pagpasok sa gusali; huwag iwan ang cake sa security o mainit na lobby. Ayusin ang direktang handoff sa taong responsable sa cake table. Para sa corporate cake, ipadala ang aprubadong brand color at eksaktong teksto, at kumpirmahin kung sino ang maaaring mag-apruba ng paggamit ng logo. Tiyaking reachable ang contact sa opisina o venue; huwag ipagpalagay na tatanggap ang reception nang walang paunang usapan.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Maghanda ng contact sa opisina para matanggap ang corporate cake
-
-Pumili ng kasamahan na magiging available sa panahon ng paghahatid. Ibigay sa taong iyon ang mga detalye ng order at hilingin sa kanila na makipagkita sa driver sa napagkasunduang pasukan. Ipadala sa White Cakes ang buong address ng opisina, pangalan ng tore o gusali, palapag o receiving point kung kinakailangan, landmark, contact mobile number, at mga tagubilin sa bisita o pag-load.
-
-Kumpirmahin ang availability ng paghahatid at ang bayad para sa eksaktong destinasyon. Maaaring may mga pamamaraan sa seguridad ang mga gusali ng opisina, kaya suriin ang mga ito bago ang araw ng kaganapan. Huwag ipagpalagay na ang isang driver ay maaaring pumasok sa isang restricted floor o maghintay habang ang contact sa opisina ay nasa isang pulong. Kung ang cake ay dumating nang maaga, magplano ng isang malamig, matatag na lugar upang itago ito mula sa direktang araw at init.
-
-Para sa order, isama ang petsa ng kaganapan, pagtatantya ng paghahatid, lasa, disenyo, at eksaktong mensahe ng kumpanya. Hilingin sa panaderya na kumpirmahin ang laki at quote; kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Ang mga White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order.
-
-Panatilihin ang mga pangkalahatang direksyon sa paghahatid sa pangunahing gabay sa Cebu. Magdagdag lamang ng mga claim na partikular sa gusali pagkatapos ma-verify ang mga ito gamit ang isang tunay na order at ang lokasyon.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

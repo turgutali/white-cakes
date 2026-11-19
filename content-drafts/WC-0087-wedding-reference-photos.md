@@ -1,38 +1,39 @@
 ---
 id: WC-0087
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Which reference photos help when ordering wedding cake in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa kasal sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa kasal sa Cebu"
 ---
 
-## Use references to align the cake with the wedding, not to promise an exact copy
+## English
 
-Choose one image for the overall style and another only if it clarifies a specific detail, such as a border, flower, or lettering. Tell the bakery which parts should guide the design and which are flexible. If the venue or invitation has a palette, share it as context rather than assuming every colour can be reproduced exactly.
+# Which reference photos help when ordering wedding cake in Cebu
 
-Include the wedding date, serving estimate, cake size, flavour, message, delivery location, and venue access requirements. Ask whether the requested design and handoff plan are available for that date. Confirm the final design and quote in writing.
+Send wedding cake references that show one decision at a time: overall shape, palette, piping, or the cake table. Explain what matters in each and share the venue type and guest count. This helps the bakery assess scale and hand-piped feasibility rather than interpret a whole inspiration board.
 
-Add this checklist to the custom-brief guide and link to serving advice. A distinct wedding portfolio story needs actual approved reference-to-finished images.
+Use images as direction, not a promise of exact replication. Confirm the design and quote in writing.
+
+## Cebuano
+
+# Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa kasal sa Cebu
+
+Ipadala ang reference nga usa ra ka desisyon ang gipakita: porma, kolor, piping o cake table. Isulti unsay importante ug ihatag ang venue ug bisita. Makatabang kini sa pagsusi sa scale ug hand-piped feasibility.
+
+Giya lang ang litrato, dili saad sa kopya. Kumpirmaha sa sinulat ang disenyo ug quote.
+
+## Tagalog
+
+# Aling mga reference photo ang makatutulong sa pag-order ng cake para sa kasal sa Cebu
+
+Magpadala ng wedding cake reference na tig-iisang pasya ang ipinapakita: hugis, paleta, piping, o cake table. Ipaliwanag ang mahalagang detalye at ibigay ang venue type at bilang ng bisita. Nakakatulong ito sa pagtatantiya ng scale at hand-piped feasibility.
+
+Direksyon lang ang larawan, hindi pangako ng eksaktong kopya. Kumpirmahin sa sulat ang design at quote.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paggamit ug mga pakisayran aron ipahiangay ang cake sa kasal, dili aron magsaad ug eksaktong kopya
-
-Pagpili og usa ka hulagway alang sa kinatibuk-ang estilo ug ang lain lang kon kini nagpatin-aw sa usa ka piho nga detalye, sama sa utlanan, bulak, o letra. Sultihi ang panaderya kung unsang mga bahin ang kinahanglan nga mogiya sa disenyo ug unsa ang flexible. Kung ang lugar o imbitasyon adunay palette, ipaambit kini ingon nga konteksto kaysa sa paghunahuna nga ang matag kolor mahimo nga kopyahon sa eksakto.
-
-Ilakip ang petsa sa kasal, banabana sa pagserbisyo, gidak-on sa cake, lami, mensahe, lokasyon sa paghatud, ug mga kinahanglanon sa pag-access sa lugar. Pangutan-a kon ang gipangayo nga disenyo ug handoff nga plano anaa ba alang nianang petsa. Kumpirma ang katapusang disenyo ug kinutlo pinaagi sa pagsulat.
-
-Idugang kini nga checklist sa custom-mubo nga giya ug link sa pag-alagad sa tambag. Ang usa ka lahi nga istorya sa portfolio sa kasal nanginahanglan aktuwal nga giaprubahan nga pakisayran-sa-natapos nga mga imahe.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng mga sanggunian para iayon ang cake sa kasal, hindi para mangako ng eksaktong kopya
-
-Pumili ng isang larawan para sa pangkalahatang istilo at isa pa lamang kung nililinaw nito ang isang partikular na detalye, gaya ng border, bulaklak, o letra. Sabihin sa panaderya kung aling mga bahagi ang dapat gumabay sa disenyo at kung alin ang nababaluktot. Kung ang venue o imbitasyon ay may palette, ibahagi ito bilang konteksto sa halip na ipagpalagay na ang bawat kulay ay maaaring kopyahin nang eksakto.
-
-Isama ang petsa ng kasal, pagtatantya ng paghahatid, laki ng cake, lasa, mensahe, lokasyon ng paghahatid, at mga kinakailangan sa pag-access sa lugar. Itanong kung ang hiniling na disenyo at handoff na plano ay magagamit para sa petsang iyon. Kumpirmahin ang huling disenyo at quote sa pamamagitan ng pagsulat.
-
-Idagdag ang checklist na ito sa custom-brief na gabay at link sa paghahatid ng payo. Ang isang natatanging kwento ng portfolio ng kasal ay nangangailangan ng aktwal na naaprubahang reference-to-finished na mga larawan.
+- Verify current date-specific pricing, product availability, and venue requirements before publication.
+- Cebuano and Tagalog drafts need native editorial review.

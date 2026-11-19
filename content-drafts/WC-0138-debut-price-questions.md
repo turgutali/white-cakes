@@ -1,38 +1,31 @@
 ---
 id: WC-0138
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html; verify current rates and menu
 english_title: "What to ask about the price of debut cake in Cebu"
 cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa debut sa Cebu"
 tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa debut sa Cebu"
 ---
+## What to ask about the price of debut cake in Cebu
 
-## Ask for a quote that includes the chosen size and custom decoration
+Ask for an itemized quote tied to the exact date, size, finish, inscription and delivery address. A design photograph alone is not enough to price a custom cake because piping detail and scale change the work. Request the current total and what is included in writing.
 
-Share the debut date, approximate servings, requested size, flavour, design reference, and exact inscription when asking about cost. Tell the bakery whether you need delivery to a home, venue, or restaurant and ask whether the route is available. A base product price may not include every custom element.
-
-Confirm the current total in writing, including lettering, decoration, and delivery fees. Prices and availability can change, especially around popular dates, so do not rely on old photos or social posts. If you have a set budget, share it before the design is finalized.
-
-Keep live rates in the maintained Cebu price guide and link it from debut planning content. Recheck the current menu before publication.
+White Cakes’ listed launch prices for 6-inch, 8-inch and two-tier Signature Marble are date-limited through 15 January 2027; they are not a universal price for every debut design. Ask whether the requested buttercream finish uses that product or needs a separate custom quote. Confirm delivery separately.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Pangayo og usa ka kinutlo nga naglakip sa gipili nga gidak-on ug custom nga dekorasyon
+Pangayo og detalyadong quote nga naglakip sa eksaktong petsa, gidak-on, finish, inskripsiyon ug delivery address. Dili igo ang litrato lang sa disenyo sa pagpresyo kay mausab ang trabaho depende sa piping ug sukod. Pangayoa sa sinulat ang kasamtangang total ug apil niini.
 
-Ipaambit ang petsa sa debut, gibanabana nga mga pag-alagad, gihangyo nga gidak-on, lami, reference sa disenyo, ug eksaktong inskripsiyon kung mangutana bahin sa gasto. Sultihi ang panaderya kung kinahanglan nimo nga ipadala sa usa ka balay, lugar, o restawran ug pangutana kung ang ruta magamit. Ang base nga presyo sa produkto mahimong dili maglakip sa matag kostumbre nga elemento.
+Ang gilista sa White Cakes nga launch price para sa 6-inch, 8-inch ug two-tier Signature Marble kutob ra sa 15 Enero 2027; dili kini kinatibuk-ang presyo sa tanang debut design. Pangutan-a kon mao ba kana nga produkto ang gusto nga buttercream finish o kinahanglan og lahi nga custom quote. Kumpirmaha ang delivery nga lahi.
 
-Kumpirma ang kasamtangan nga kinatibuk-an pinaagi sa pagsulat, lakip ang sulat, dekorasyon, ug bayad sa pagpadala. Ang mga presyo ug pagkaanaa mahimong magbag-o, labi na sa mga sikat nga petsa, busa ayaw pagsalig sa mga daan nga litrato o sosyal nga mga post. Kon duna kay gitakda nga badyet, ipaambit kini sa dili pa mahuman ang disenyo.
+## Tagalog translation (editorial review pending)
 
-Ipadayon ang live rates sa gimentinar nga giya sa presyo sa Cebu ug i-link kini gikan sa debut planning content. Susiha pag-usab ang kasamtangan nga menu sa dili pa imantala.
+Humingi ng detalyadong quote batay sa eksaktong petsa, laki, finish, inskripsiyon, at delivery address. Hindi sapat ang larawan lang sa disenyo para magpresyo ng custom cake dahil nagbabago ang trabaho ayon sa piping at sukat. Hilingin sa sulat ang kasalukuyang kabuuan at mga kasama rito.
 
-## Tagalog translation (machine translated; editorial review pending)
+Ang nakalistang launch price ng White Cakes para sa 6-inch, 8-inch, at two-tier Signature Marble ay hanggang 15 Enero 2027 lamang; hindi ito pangkalahatang presyo para sa lahat ng debut design. Itanong kung iyon ang produktong tugma sa gustong buttercream finish o kailangan ng hiwalay na custom quote. Kumpirmahin nang hiwalay ang delivery.
 
-## Humingi ng quote na kasama ang napiling laki at custom na palamuti
+## Editorial note
 
-Ibahagi ang petsa ng debut, tinatayang mga serving, hiniling na laki, lasa, sanggunian sa disenyo, at eksaktong inskripsyon kapag nagtatanong tungkol sa gastos. Sabihin sa panaderya kung kailangan mo ng paghahatid sa isang bahay, lugar, o restaurant at tanungin kung available ang ruta. Maaaring hindi kasama sa isang batayang presyo ng produkto ang bawat custom na elemento.
-
-Kumpirmahin ang kasalukuyang kabuuan sa pamamagitan ng pagsulat, kabilang ang mga sulat, dekorasyon, at mga bayarin sa paghahatid. Maaaring magbago ang mga presyo at availability, lalo na sa mga sikat na petsa, kaya huwag umasa sa mga lumang larawan o social post. Kung mayroon kang nakatakdang badyet, ibahagi ito bago ma-finalize ang disenyo.
-
-Panatilihin ang mga live na rate sa pinapanatili na gabay sa presyo sa Cebu at i-link ito mula sa nilalaman ng pagpaplano ng debut. Suriin muli ang kasalukuyang menu bago i-publish.
+Draft for integration into the canonical pages listed in the index. Confirm current availability, prices, delivery terms and cake-care instructions before publication; Cebuano and Tagalog wording needs native editorial review.

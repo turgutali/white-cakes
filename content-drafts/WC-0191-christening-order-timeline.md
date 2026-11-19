@@ -1,38 +1,31 @@
 ---
 id: WC-0191
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
 english_title: "How to plan the order timeline for christening cake in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa bunyag sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa binyag sa Cebu"
 ---
+## How to plan the order timeline for christening cake in Cebu
 
-## Confirm the church and reception schedule before booking the cake
+Start with the confirmed event date and the time the cake must be ready. White Cakes requests at least three days’ notice, with earlier contact for detailed piping, multi-tier work and busy dates. Availability is confirmed by the bakery, so an inquiry alone does not hold a slot.
 
-Set the ceremony date, reception location, and time the cake should be ready to serve. Then settle the approximate guest count, size, flavour, inscription, and design. If the cake travels from church to the reception, choose one person to coordinate the handoff and share the exact destination with the bakery.
-
-White Cakes’ current instructions ask for at least three days’ notice for made-to-order cakes. Contact the bakery earlier for a detailed custom design or a busy date, and wait for written availability confirmation. Ask for a full quote and follow the current deposit process to secure the agreed order.
-
-Keep the lead-time advice in one authoritative order guide. Verify current timing and payment details before publishing.
+Send the date, venue area, guest estimate, size, flavour, one design reference and delivery or pickup preference together. Ask for the production slot and final quote in writing; pay the stated 50% deposit only after those details are agreed. For a christening, confirm the child’s name and event date from the family’s final invitation, and ask the venue about the cake handoff point and service time. Keep any religious motif within the family’s requested direction.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Kumpirma ang eskedyul sa simbahan ug pagdawat sa dili pa mag-book sa cake
+Sugdi sa kumpirmadong petsa ug oras nga kinahanglan andam ang cake. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo; mas sayo kontaka sila para sa detalyadong piping, daghang tier ug busy nga petsa. Ang panaderya ang mokumpirma sa availability; dili pa reserbasyon ang pangutana.
 
-Itakda ang petsa sa seremonya, lokasyon sa salo-salo, ug oras nga ang cake kinahanglang andam na sa pag-alagad. Unya husaya ang gibanabana nga ihap sa bisita, gidak-on, lami, inskripsiyon, ug disenyo. Kon ang cake mobiyahe gikan sa simbahan ngadto sa salo-salo, pagpili og usa ka tawo nga mo-coordinate sa handoff ug ipaambit ang eksaktong destinasyon sa panaderya.
+Ipadala dungan ang petsa, dapit sa venue, gibanabanang bisita, gidak-on, lami, usa ka design reference ug gusto nga delivery o pickup. Pangayoa sa sinulat ang production slot ug kataposang quote; mobayad lang sa 50% nga deposito kon nagkasinabot na sa detalye. Alang sa christening, kumpirmaha ang ngalan sa bata ug petsa sa event gikan sa kataposang imbitasyon sa pamilya, ug pangutan-a ang venue bahin sa handoff point ug oras sa pagserbisyo. Sundon ang gusto sa pamilya sa relihiyosong motif.
 
-Ang kasamtangang instruksyon sa White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa made-to-order nga mga cake. Kontaka ang panaderya sa sayo pa alang sa usa ka detalyado nga custom nga disenyo o usa ka busy nga petsa, ug maghulat alang sa sinulat nga kumpirmasyon sa pagkaanaa. Pangayo alang sa usa ka bug-os nga kinutlo ug sunda ang karon nga proseso sa pagdeposito aron masiguro ang gikasabutan nga order.
+## Tagalog translation (editorial review pending)
 
-Hupti ang lead-time nga tambag sa usa ka awtoritatibo nga giya sa pag-order. I-verify ang kasamtangang panahon ug mga detalye sa pagbayad sa dili pa imantala.
+Magsimula sa kumpirmadong petsa ng event at oras na dapat handa ang cake. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso; mas maagang makipag-ugnayan para sa detalyadong piping, maraming tier, at mataong petsa. Panaderya ang nagkukumpirma ng availability; hindi reservation ang inquiry.
 
-## Tagalog translation (machine translated; editorial review pending)
+Ipadala nang sabay ang petsa, lugar ng venue, tantiyang bisita, laki, flavor, isang design reference, at kung delivery o pickup. Hilingin sa sulat ang production slot at final quote; magbayad lang ng 50% deposito kapag napagkasunduan na ang mga detalye. Para sa christening, tiyakin ang pangalan ng bata at petsa ng event mula sa pinal na imbitasyon ng pamilya, at itanong sa venue ang handoff point at oras ng paghahain. Sundin ang nais ng pamilya para sa relihiyosong motif.
 
-## Kumpirmahin ang iskedyul ng simbahan at reception bago mag-book ng cake
+## Editorial note
 
-Itakda ang petsa ng seremonya, lokasyon ng pagtanggap, at oras na dapat ihain ang cake. Pagkatapos ay ayusin ang tinatayang bilang ng bisita, laki, lasa, inskripsiyon, at disenyo. Kung ang cake ay bumabyahe mula sa simbahan patungo sa reception, pumili ng isang tao upang i-coordinate ang handoff at ibahagi ang eksaktong destinasyon sa panaderya.
-
-Ang mga kasalukuyang tagubilin ng White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Makipag-ugnayan sa panaderya nang mas maaga para sa isang detalyadong custom na disenyo o isang abalang petsa, at maghintay para sa nakasulat na kumpirmasyon sa availability. Humingi ng buong quote at sundin ang kasalukuyang proseso ng deposito upang ma-secure ang napagkasunduang order.
-
-Panatilihin ang lead-time na payo sa isang awtoritatibong gabay sa pagkakasunud-sunod. I-verify ang kasalukuyang oras at mga detalye ng pagbabayad bago i-publish.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

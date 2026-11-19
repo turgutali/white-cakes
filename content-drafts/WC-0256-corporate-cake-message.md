@@ -1,44 +1,31 @@
 ---
 id: WC-0256
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/corporate-office-cakes-cebu.html and /journal/birthday-cake-message-ideas-cebu.html
 english_title: "What to write on corporate cake in Cebu"
 cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa opisina sa Cebu"
 tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa opisina sa Cebu"
 ---
+## What to write on corporate cake in Cebu
 
-## Keep an office-cake inscription brief enough for the room
+Keep the message short, legible and correctly spelled. Send the exact text, capitalization and punctuation in writing; compare names and dates with the invitation or programme before approving the final order.
 
-Choose wording that colleagues can read from the table: a team name, milestone, or short congratulations. Send the exact text and verify spelling before confirming the order. A long company name plus a quotation may not fit, especially if the cake also has a piped border or logo-inspired colours.
-
-White Cakes hand-pipes buttercream designs and does not print edible logo sheets from digital files. If the company wants branding, decide whether the cake should use the brand palette, a short team name, or another piped detail. Ask the bakery what can be adapted on the selected size. For a set of Bento boxes, state whether each needs the same message or different names.
-
-Include the event date, guest count, flavour, size, and delivery address in the enquiry. For an office tower, provide lobby or floor-access instructions and a named receiver's mobile number. The receiver should be ready during the agreed delivery window.
-
-Use this message guidance within the existing corporate cake page and link to the shared cake-message guide. A separate corporate inscription gallery should wait for original, approved examples and evidence that each line fits an actual cake surface.
+Ask whether the wording fits the selected cake size and hand-piped finish. If several names or a long phrase matter, decide early what can be shortened so the lettering remains readable in person and in photographs. For a corporate cake, send the approved brand colour and exact wording, and confirm who can authorize logo use. Keep the delivery contact reachable at the office or venue; do not assume reception can accept a cake without prior arrangement.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Hupti ang inskripsiyon sa office-cake nga igo nga mubu para sa kwarto
+Himoa nga mubo, klaro ug husto ang spelling sa mensahe. Ipadala sa sinulat ang eksaktong teksto, capital ug punctuation; itandi ang ngalan ug petsa sa imbitasyon o programa sa dili pa aprobahan ang order.
 
-Pagpili og mga pulong nga mabasa sa mga kauban gikan sa lamesa: usa ka ngalan sa team, milestone, o mubo nga pahalipay. Ipadala ang eksaktong teksto ug pamatud-i ang spelling sa dili pa kumpirmahon ang order. Ang usa ka taas nga ngalan sa kompanya ug usa ka kinutlo mahimong dili mohaum, labi na kung ang cake usab adunay piped nga utlanan o mga kolor nga dinasig sa logo.
+Pangutan-a kon moigo ba ang teksto sa piniling gidak-on ug hand-piped finish. Kon importante ang daghang ngalan o taas nga mensahe, desisyoni daan unsay mapamubo aron mabasa gihapon sa personal ug litrato. Alang sa corporate cake, ipadala ang aprobado nga brand colour ug eksaktong teksto, ug kumpirmaha kinsa ang mahimong moapruba sa paggamit sa logo. Siguroha nga maabot ang kontak sa opisina o venue; ayaw hunahunaa nga modawat ang reception nga walay kasabotan.
 
-Ang White Cakes hand-pipes buttercream nga mga disenyo ug wala mag-imprinta sa makaon nga logo sheets gikan sa digital files. Kung gusto sa kompanya ang pagmarka, pagdesisyon kung ang cake kinahanglan ba nga mogamit sa paleta sa tatak, usa ka mubo nga ngalan sa grupo, o uban pang detalye sa pipe. Pangutan-a ang panaderya kung unsa ang mahimong ipahiangay sa gipili nga gidak-on. Para sa set sa Bento boxes, isulti kung ang matag usa nagkinahanglan sa parehas nga mensahe o lain-laing mga ngalan.
+## Tagalog translation (editorial review pending)
 
-Ilakip ang petsa sa panghitabo, ihap sa bisita, lami, gidak-on, ug adres sa pagpadala sa pangutana. Para sa usa ka office tower, paghatag og mga instruksiyon sa lobby o floor-access ug usa ka gihinganlan nga numero sa cellphone sa receiver. Ang tigdawat kinahanglang andam sa panahon sa gikasabutan nga delivery window.
+Panatilihing maikli, malinaw, at tama ang baybay ng mensahe. Ipadala nang nakasulat ang eksaktong teksto, capitalization, at bantas; itugma ang mga pangalan at petsa sa imbitasyon o programa bago aprubahan ang order.
 
-Gamita kini nga giya sa mensahe sulod sa kasamtangan nga corporate cake page ug i-link sa gipaambit nga cake-message guide. Ang usa ka separado nga gallery sa inskripsiyon sa korporasyon kinahanglan maghulat alang sa orihinal, aprobahan nga mga pananglitan ug ebidensya nga ang matag linya mohaum sa usa ka aktwal nga ibabaw sa cake.
+Itanong kung kasya ang teksto sa napiling laki at hand-piped finish. Kung mahalaga ang maraming pangalan o mahabang mensahe, pagpasyahan nang maaga kung ano ang paiikliin para mabasa pa rin nang personal at sa litrato. Para sa corporate cake, ipadala ang aprubadong brand color at eksaktong teksto, at kumpirmahin kung sino ang maaaring mag-apruba ng paggamit ng logo. Tiyaking reachable ang contact sa opisina o venue; huwag ipagpalagay na tatanggap ang reception nang walang paunang usapan.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Panatilihin ang isang office-cake inscription na sapat na maikli para sa silid
-
-Pumili ng mga salita na mababasa ng mga kasamahan mula sa talahanayan: isang pangalan ng koponan, milestone, o maikling pagbati. Ipadala ang eksaktong text at i-verify ang spelling bago kumpirmahin ang order. Maaaring hindi magkasya ang isang mahabang pangalan ng kumpanya at isang quotation, lalo na kung ang cake ay mayroon ding piped na hangganan o mga kulay na may inspirasyon ng logo.
-
-White Cakes hand-pipes buttercream na mga disenyo at hindi nagpi-print ng mga nakakain na logo sheet mula sa mga digital na file. Kung gusto ng kumpanya ang pagba-brand, magpasya kung dapat gamitin ng cake ang brand palette, isang maikling pangalan ng team, o isa pang piped na detalye. Tanungin ang panaderya kung ano ang maaaring iakma sa napiling laki. Para sa isang set ng mga Bento box, sabihin kung ang bawat isa ay nangangailangan ng parehong mensahe o magkaibang pangalan.
-
-Isama ang petsa ng kaganapan, bilang ng bisita, lasa, laki, at address ng paghahatid sa tanong. Para sa isang office tower, magbigay ng mga tagubilin sa lobby o floor-access at isang pinangalanang numero ng mobile ng receiver. Dapat na handa ang tatanggap sa panahon ng napagkasunduang palugit ng paghahatid.
-
-Gamitin ang gabay sa mensaheng ito sa loob ng kasalukuyang corporate cake page at mag-link sa nakabahaging gabay sa mensahe ng cake. Ang isang hiwalay na corporate inscription gallery ay dapat maghintay para sa orihinal, naaprubahang mga halimbawa at katibayan na ang bawat linya ay umaangkop sa isang aktwal na ibabaw ng cake.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.

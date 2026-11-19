@@ -1,44 +1,31 @@
 ---
 id: WC-0145
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html
 english_title: "How to compare options for debut cake in Cebu"
 cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa debut sa Cebu"
 tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa debut sa Cebu"
 ---
+## How to compare options for debut cake in Cebu
 
-## Compare debut-cake options by guest count and design
+Compare options using the same four questions: how many servings are needed, what is the total quoted price, what design is achievable in hand-piped buttercream, and how will the cake reach the venue? A photograph cannot answer serving capacity or delivery logistics.
 
-Begin with the number of people who will eat cake and the rest of the dessert plan. White Cakes estimates 8–12 party slices for a 6-inch cake, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. These are approximate ranges; tell the bakery whether you expect small or generous portions.
-
-Compare flavour and design next. The current menu includes Chocolate, Vanilla, Ube, Mango, and Red Velvet; confirm which flavours are available for the chosen date and size. A custom debut design may include a palette, motif, or inscription. Send one reference and ask what is feasible and what the quote includes.
-
-Compare delivery or pickup options too. If the venue is involved, provide a full address, landmark, receiving mobile number, and any access instructions. Confirm the delivery window and fee. White Cakes requires at least three days' notice, and a 50% deposit confirms the agreed order.
-
-Keep option comparisons in one maintained cake-choice guide and link to the debut page instead of creating duplicate price tables.
+For a simpler comparison, ask the bakery to quote one or two realistic sizes against your guest count instead of requesting many speculative designs. Include whether cake is a plated dessert or a small ceremonial slice; that distinction can change the useful size more than décor does.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Itandi ang mga opsyon sa debut-cake pinaagi sa ihap sa bisita ug disenyo
+Itandi ang mga kapilian gamit ang upat ka parehas nga pangutana: pila ka serving ang gikinahanglan, unsa ang kinatibuk-ang quote, unsang disenyo ang mahimo sa hand-piped buttercream, ug unsaon pagdala sa cake sa venue? Dili matubag sa litrato ang serving capacity o delivery.
 
-Pagsugod sa gidaghanon sa mga tawo nga mokaon sa cake ug ang nahabilin nga plano sa dessert. Gibanabana sa White Cakes ang 8–12 ka hiwa sa party para sa 6-pulgada nga cake, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Kini mao ang gibana-bana nga mga han-ay; sultihi ang panaderya kung nagdahom ka nga gamay o daghang bahin.
+Aron mas sayon itandi, hangyoa ang panaderya og quote para sa usa o duha ka praktikal nga gidak-on sumala sa bisita imbis daghang pangagpas nga disenyo. Isulti kon plated dessert ba ang cake o gamay nga ceremonial slice; mas makaapekto kana sa gidak-on kaysa dekorasyon.
 
-Itandi ang lami ug disenyo sunod. Ang kasamtangan nga menu naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; kumpirmahi kung unsang mga lami ang magamit alang sa gipili nga petsa ug gidak-on. Ang usa ka custom nga debut design mahimong maglakip sa usa ka palette, motif, o inskripsiyon. Pagpadala ug usa ka reperensiya ug pangutan-a kung unsa ang mahimo ug unsa ang gilakip sa kinutlo.
+## Tagalog translation (editorial review pending)
 
-Itandi usab ang mga kapilian sa pagpadala o pagkuha. Kung apil ang venue, paghatag ug kompleto nga adres, landmark, pagdawat sa mobile number, ug bisan unsang instruksyon sa pag-access. Kumpirma ang delivery window ug bayad. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
+Ihambing ang mga opsyon gamit ang parehong apat na tanong: ilang serving ang kailangan, magkano ang kabuuang quote, anong disenyo ang kayang gawin sa hand-piped buttercream, at paano dadalhin ang cake sa venue? Hindi masasagot ng larawan ang serving capacity o delivery logistics.
 
-Ipadayon ang mga pagtandi sa kapilian sa usa ka gipadayon nga giya sa pagpili sa cake ug i-link sa pasiuna nga panid imbis nga maghimo mga doble nga lamesa sa presyo.
+Para mas madaling maghambing, humingi ng quote para sa isa o dalawang praktikal na laki batay sa bilang ng bisita sa halip na maraming haka-hakang disenyo. Isama kung plated dessert ba ang cake o maliit na ceremonial slice; mas malaki ang epekto nito sa laki kaysa dekorasyon.
 
-## Tagalog translation (machine translated; editorial review pending)
+## Editorial note
 
-## Ihambing ang mga pagpipilian sa debut-cake ayon sa bilang ng bisita at disenyo
-
-Magsimula sa bilang ng mga taong kakain ng cake at ang natitirang plano ng dessert. Tinatantya ng White Cakes ang 8–12 party slice para sa isang 6-inch na cake, 16–24 para sa 8 pulgada, at 30–36 para sa isang 6+8-inch na two-tier na cake. Ito ay mga tinatayang saklaw; sabihin sa panaderya kung inaasahan mo ang maliit o masaganang bahagi.
-
-Ihambing ang lasa at disenyo sa susunod. Kasama sa kasalukuyang menu ang Chocolate, Vanilla, Ube, Mango, at Red Velvet; kumpirmahin kung aling mga lasa ang magagamit para sa napiling petsa at laki. Maaaring may kasamang palette, motif, o inskripsiyon ang custom na disenyo ng debut. Magpadala ng isang sanggunian at itanong kung ano ang magagawa at kung ano ang kasama sa quote.
-
-Ihambing din ang mga opsyon sa paghahatid o pagkuha. Kung ang lugar ay kasangkot, magbigay ng isang buong address, palatandaan, pagtanggap ng numero ng mobile, at anumang mga tagubilin sa pag-access. Kumpirmahin ang window ng paghahatid at bayad. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order.
-
-Panatilihin ang mga paghahambing ng opsyon sa isang pinapanatili na gabay sa pagpili ng cake at i-link sa debut page sa halip na gumawa ng mga duplicate na talahanayan ng presyo.
+Draft for integration into the canonical pages listed in the index. Confirm current availability, prices, delivery terms and cake-care instructions before publication; Cebuano and Tagalog wording needs native editorial review.

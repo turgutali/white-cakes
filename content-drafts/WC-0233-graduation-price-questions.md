@@ -1,38 +1,31 @@
 ---
 id: WC-0233
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html; verify current rates and graduation availability
 english_title: "What to ask about the price of graduation cake in Cebu"
 cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa graduation sa Cebu"
 tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa graduation sa Cebu"
 ---
+## What to ask about the price of graduation cake in Cebu
 
-## Request a quote based on the graduation plan and the actual design
+Request a written quote for the exact date, size, flavour, piping detail, inscription and delivery address. A reference image by itself cannot establish the price because scale and hand-piped detail affect the work; ask what the quoted amount includes.
 
-Share the graduation date, approximate number of servings, preferred size, flavour, inscription, and design reference. Tell the bakery whether the cake is for a home gathering, office, or venue and whether you need delivery. Ask which current options are available for that date.
-
-Confirm the total price in writing, including any custom design and delivery fee. Current rates and seasonal availability may change, so do not rely on a price in an old post. If you have a fixed budget, say so early and ask which size or design adjustment may fit it.
-
-Keep live prices in the central Cebu price guide and link to it from graduation planning content. Recheck the published menu before updating any seasonal example.
+Prices and availability can change. The listed launch prices for Signature Marble sizes are date-limited through 15 January 2027 and do not set the price for every custom design. Confirm current pricing directly before announcing a budget. For graduation, check the graduate’s correct name, school spelling and ceremony date before approving lettering. If the cake travels to a venue after the ceremony, include the handoff location and time in the delivery plan.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Cebuano translation (editorial review pending)
 
-## Paghangyo ug quote base sa graduation plan ug sa aktuwal nga design
+Pangayo og sinulat nga quote para sa eksaktong petsa, gidak-on, lami, detalye sa piping, inskripsiyon ug delivery address. Dili igo ang reference image kay makaapekto sa trabaho ang sukod ug detalye sa hand-piping; pangutan-a unsay apil sa presyo.
 
-Ipaambit ang petsa sa gradwasyon, gibanabana nga gidaghanon sa mga servings, gusto nga gidak-on, lami, inskripsiyon, ug reference sa disenyo. Sultihi ang panaderya kung ang cake para sa panagtapok sa balay, opisina, o lugar ug kung kinahanglan nimo nga ipadala. Pangutan-a kung unsang mga kapilian karon ang magamit alang sa kana nga petsa.
+Mahimong mausab ang presyo ug availability. Kutob ra sa 15 Enero 2027 ang gilista nga launch price sa mga gidak-on sa Signature Marble ug dili kini presyo sa tanang custom design. Kumpirmaha diretso ang kasamtangang presyo sa dili pa magtakda og budget. Alang sa graduation, susiha ang hustong ngalan, spelling sa eskwelahan ug petsa sa seremonya sa dili pa aprobahan ang letra. Kon dad-on ang cake sa venue human sa seremonya, iapil sa delivery plan ang lokasyon ug oras sa handoff.
 
-Pagkumpirma sa kinatibuk-ang presyo sa pagsulat, lakip ang bisan unsang naandan nga disenyo ug bayad sa pagpadala. Ang kasamtangan nga mga rate ug seasonal nga pagkaanaa mahimong mausab, busa ayaw pagsalig sa usa ka presyo sa usa ka daan nga post. Kung ikaw adunay usa ka piho nga badyet, isulti kini sayo ug pangutana kung unsang gidak-on o pag-adjust sa disenyo ang mahimong mohaum niini.
+## Tagalog translation (editorial review pending)
 
-Ipadayon ang mga buhi nga presyo sa sentro sa giya sa presyo sa Sugbo ug i-link kini gikan sa sulud sa pagplano sa gradwasyon. Susiha pag-usab ang gipatik nga menu sa dili pa mag-update sa bisan unsang seasonal nga pananglitan.
+Humingi ng nakasulat na quote para sa eksaktong petsa, laki, flavor, detalye ng piping, inskripsiyon, at delivery address. Hindi sapat ang reference image lang dahil nakaaapekto sa trabaho ang sukat at hand-piped na detalye; itanong kung ano ang kasama sa presyo.
 
-## Tagalog translation (machine translated; editorial review pending)
+Maaaring magbago ang presyo at availability. Hanggang 15 Enero 2027 lamang ang nakalistang launch price para sa mga laki ng Signature Marble at hindi ito presyo ng bawat custom design. Kumpirmahin nang direkta ang kasalukuyang presyo bago magtakda ng budget. Para sa graduation, tingnan ang tamang pangalan, baybay ng paaralan, at petsa ng seremonya bago aprubahan ang lettering. Kung dadalhin ang cake sa venue pagkatapos ng seremonya, isama sa delivery plan ang lugar at oras ng handoff.
 
-## Humiling ng isang quote batay sa plano ng pagtatapos at ang aktwal na disenyo
+## Editorial note
 
-Ibahagi ang petsa ng pagtatapos, tinatayang bilang ng mga serving, gustong laki, lasa, inskripsiyon, at sanggunian sa disenyo. Sabihin sa panaderya kung ang cake ay para sa isang pagtitipon sa bahay, opisina, o venue at kung kailangan mo ng paghahatid. Itanong kung aling mga kasalukuyang opsyon ang available para sa petsang iyon.
-
-Kumpirmahin ang kabuuang presyo nang nakasulat, kasama ang anumang custom na disenyo at bayad sa paghahatid. Maaaring magbago ang kasalukuyang mga rate at napapanahong availability, kaya huwag umasa sa isang presyo sa isang lumang post. Kung mayroon kang nakapirming badyet, sabihin nang maaga at itanong kung aling laki o pagsasaayos ng disenyo ang maaaring magkasya dito.
-
-Panatilihin ang mga live na presyo sa gitnang gabay sa presyo ng Cebu at i-link dito mula sa nilalaman ng pagpaplano ng pagtatapos. Suriin muli ang na-publish na menu bago i-update ang anumang pana-panahong halimbawa.
+Draft for integration into the canonical page(s) listed in the content index. Verify current availability, pricing, delivery terms and cake-care advice before publication. Cebuano and Tagalog wording needs native editorial review.
