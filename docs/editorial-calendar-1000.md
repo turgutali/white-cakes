@@ -87,19 +87,20 @@
 | 074 | Sinulog 2027 Cakes in Cebu: Date, Ordering and Delivery Guide | Sinulog Cake sa Cebu: Pagplano sa Selebrasyon ug Order | Sinulog Cake sa Cebu: Pagplano ng Selebrasyon at Order | `sinulog-cakes-cebu.html` |
 | 075 | Teachers’ Day Cake in Cebu: A Class Gift Planning Guide | Cake para sa Teachers’ Day sa Cebu: Giya sa Regalo sa Klase | Cake para sa Teachers’ Day sa Cebu: Gabay sa Regalo ng Klase | `teachers-day-cake-cebu.html` |
 | 076 | Thank You Cake in Cebu: A Personal Way to Show Appreciation | Thank-you Cake sa Cebu: Mensahe ug Pag-order | Thank-you Cake sa Cebu: Mensahe at Pag-order | `thank-you-cake-cebu.html` |
-| 077 | Ube Cake in Cebu: How to Order a Custom Ube Cake | Ube Cake sa Cebu: Lami, Custom Design, Presyo ug Delivery | Ube Cake sa Cebu: Flavour, Custom Design, Presyo at Delivery | `ube-cake-cebu.html` |
-| 078 | Valentine's Day in Cebu: Send a Bouquet Cake | Valentine’s Cake sa Cebu: Bouquet, Mensahe ug Order | Valentine’s Cake sa Cebu: Bouquet, Mensahe at Order | `valentines-bouquet-cake-cebu.html` |
-| 079 | Vanilla Cake in Cebu: Design and Ordering Guide | Vanilla Cake sa Cebu: Lami, Disenyo ug Pag-order | Vanilla Cake sa Cebu: Lasa, Disenyo at Pag-order | `vanilla-cake-cebu.html` |
-| 080 | Vintage Cake in Cebu: Hand-Piped Buttercream Guide | Vintage Cake sa Cebu: Hand-piped nga Disenyo ug Order | Vintage Cake sa Cebu: Hand-piped na Disenyo at Pag-order | `vintage-cake-cebu.html` |
-| 081 | Wedding Cake Message Ideas in Cebu: Short Lines for Couples | Mga Mensahe sa Wedding Cake sa Cebu: Mubo nga Linya para sa Magtiayon | Mga Mensahe para sa Wedding Cake sa Cebu: Maiikling Linya para sa Mag-asawa | `wedding-cake-message-ideas-cebu.html` |
-| 082 | Welcome Home Cake in Cebu: Plan a Surprise for Their Return | Welcome Home Cake sa Cebu: Pagplano og Surprise sa Pag-uli | Welcome Home Cake sa Cebu: Sorpresa para sa Pag-uwi | `welcome-home-cake-cebu.html` |
-| 083 | What Is a Bento Cake? A Small-Cake Guide for Cebu | Unsa ang Bento Cake? Gidak-on, Lami ug Pag-order sa Cebu | Ano ang Bento Cake? Sukat, Flavor at Pag-order sa Cebu | `what-is-a-bento-cake.html` |
-| 084 | What to Write on an Anniversary Cake: 25 Short Message Ideas | Mga Mensahe sa Cake para sa Anibersaryo sa Cebu | Mga Mensahe sa Anniversary Cake sa Cebu | `anniversary-cake-message-ideas-cebu.html` |
-| 085 | When to Order a Cake for a Lapu-Lapu Family Celebration | Kanus-a Mag-order og Cake para sa Selebrasyon sa Pamilya sa Lapu-Lapu | Kailan Mag-order ng Cake para sa Family Celebration sa Lapu-Lapu | `lapulapu-family-cake-cebu.html` |
-| 086 | When to Order a Cake for a Large Family Gathering in Cebu | Kanus-a Mag-order og Cake para sa Dakong Tapok sa Pamilya sa Cebu | Kailan Mag-order ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu | `large-family-cake-cebu.html` |
-| 087 | When to Order a Cake for a Mandaue Family Celebration | Kanus-a Mag-order og Cake para sa Selebrasyon sa Pamilya sa Mandaue | Kailan Mag-order ng Cake para sa Family Celebration sa Mandaue | `mandaue-family-cake-cebu.html` |
-| 088 | When to Order a Cake for a Small Gathering in Cebu | Kanus-a Mag-order og Cake para sa Gamay nga Tapok sa Cebu | Kailan Mag-order ng Cake para sa Maliit na Pagtitipon sa Cebu | `small-gathering-cake-cebu.html` |
-| 089 | When to Order a Cake for an IT Park Office Celebration in Cebu | Kanus-a Mag-order og Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu | Kailan Mag-order ng Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu | `itpark-office-cake-cebu.html` |
+| 077 | Twin Birthday Cake in Cebu: One Design for Two Celebrants | Cake para sa Kambal nga Birthday sa Cebu: Usa ka Disenyo para sa Duha | Cake para sa Kambal na Birthday sa Cebu: Isang Disenyo para sa Dalawa | `twin-birthday-cake-cebu.html` |
+| 078 | Ube Cake in Cebu: How to Order a Custom Ube Cake | Ube Cake sa Cebu: Lami, Custom Design, Presyo ug Delivery | Ube Cake sa Cebu: Flavour, Custom Design, Presyo at Delivery | `ube-cake-cebu.html` |
+| 079 | Valentine's Day in Cebu: Send a Bouquet Cake | Valentine’s Cake sa Cebu: Bouquet, Mensahe ug Order | Valentine’s Cake sa Cebu: Bouquet, Mensahe at Order | `valentines-bouquet-cake-cebu.html` |
+| 080 | Vanilla Cake in Cebu: Design and Ordering Guide | Vanilla Cake sa Cebu: Lami, Disenyo ug Pag-order | Vanilla Cake sa Cebu: Lasa, Disenyo at Pag-order | `vanilla-cake-cebu.html` |
+| 081 | Vintage Cake in Cebu: Hand-Piped Buttercream Guide | Vintage Cake sa Cebu: Hand-piped nga Disenyo ug Order | Vintage Cake sa Cebu: Hand-piped na Disenyo at Pag-order | `vintage-cake-cebu.html` |
+| 082 | Wedding Cake Message Ideas in Cebu: Short Lines for Couples | Mga Mensahe sa Wedding Cake sa Cebu: Mubo nga Linya para sa Magtiayon | Mga Mensahe para sa Wedding Cake sa Cebu: Maiikling Linya para sa Mag-asawa | `wedding-cake-message-ideas-cebu.html` |
+| 083 | Welcome Home Cake in Cebu: Plan a Surprise for Their Return | Welcome Home Cake sa Cebu: Pagplano og Surprise sa Pag-uli | Welcome Home Cake sa Cebu: Sorpresa para sa Pag-uwi | `welcome-home-cake-cebu.html` |
+| 084 | What Is a Bento Cake? A Small-Cake Guide for Cebu | Unsa ang Bento Cake? Gidak-on, Lami ug Pag-order sa Cebu | Ano ang Bento Cake? Sukat, Flavor at Pag-order sa Cebu | `what-is-a-bento-cake.html` |
+| 085 | What to Write on an Anniversary Cake: 25 Short Message Ideas | Mga Mensahe sa Cake para sa Anibersaryo sa Cebu | Mga Mensahe sa Anniversary Cake sa Cebu | `anniversary-cake-message-ideas-cebu.html` |
+| 086 | When to Order a Cake for a Lapu-Lapu Family Celebration | Kanus-a Mag-order og Cake para sa Selebrasyon sa Pamilya sa Lapu-Lapu | Kailan Mag-order ng Cake para sa Family Celebration sa Lapu-Lapu | `lapulapu-family-cake-cebu.html` |
+| 087 | When to Order a Cake for a Large Family Gathering in Cebu | Kanus-a Mag-order og Cake para sa Dakong Tapok sa Pamilya sa Cebu | Kailan Mag-order ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu | `large-family-cake-cebu.html` |
+| 088 | When to Order a Cake for a Mandaue Family Celebration | Kanus-a Mag-order og Cake para sa Selebrasyon sa Pamilya sa Mandaue | Kailan Mag-order ng Cake para sa Family Celebration sa Mandaue | `mandaue-family-cake-cebu.html` |
+| 089 | When to Order a Cake for a Small Gathering in Cebu | Kanus-a Mag-order og Cake para sa Gamay nga Tapok sa Cebu | Kailan Mag-order ng Cake para sa Maliit na Pagtitipon sa Cebu | `small-gathering-cake-cebu.html` |
+| 090 | When to Order a Cake for an IT Park Office Celebration in Cebu | Kanus-a Mag-order og Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu | Kailan Mag-order ng Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu | `itpark-office-cake-cebu.html` |
 
 ## Published English-only article
 
@@ -113,10 +114,10 @@
 
 | # | English topic | Cebuano topic | Tagalog topic | Distinct reader need |
 |---:|---|---|---|---|
-| 90 | Twin Birthday Cake in Cebu: Design for Two Celebrants | Cake para sa Birthday sa Kambal sa Cebu: Disenyo para sa Duha | Cake para sa Kambal na Magkasabay ang Kaarawan sa Cebu: Disenyo para sa Dalawa | Help families balance two names, preferences and an inscription on one cake; confirm whether separate cakes are a better fit. |
+| 91 | Joint Birthday Cake for Siblings in Cebu: One Party, Two Ages | Cake para sa Mag-uban nga Birthday sa Mag-igsuon sa Cebu: Usa ka Party, Duha ka Edad | Cake para sa Pinagsamang Birthday ng Magkapatid sa Cebu: Isang Party, Dalawang Edad | A shared celebration for siblings born on different dates; distinguish it from the twins guide by planning around separate preferences and ages. |
 
 ## Current progress
 
-- Mainline inventory: 89 trilingual topic groups and 1 English-only article.
-- This release includes the Seventh Birthday Cake trilingual topic group; the next numbered topic begins at 90.
+- Mainline inventory: 90 trilingual topic groups and 1 English-only article.
+- This release includes the Twin Birthday Cake trilingual topic group; the next numbered topic begins at 91.
 - The full 1,000-topic calendar is still being built; the numbered queue continues in the next batches. Do not treat this first queue as the complete plan.
