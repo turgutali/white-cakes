@@ -7,6 +7,8 @@ This folder contains unpublished manuscript drafts derived from the 1,000-item r
 - Remaining from the 950-item roadmap: 0.
 - Each file records the calendar's English, Cebuano, and Tagalog titles, the English draft, Cebuano and Tagalog body translations, and a recommended canonical target.
 - The Cebuano and Tagalog body text is machine translated and requires native editorial review before publication. The English drafts also need a fact and overlap review.
+- Three human-localized editorial addenda are now drafted for five high-priority entries (order timing, quote questions, custom brief, cake sizes, and birthday messages). These enrich existing roadmap entries and do not increase the 950-item count.
+- The addenda are in `localization-extension-cake-ordering.md`, `localization-extension-cake-sizes.md`, and `localization-extension-birthday-messages.md`. Cebuano and Tagalog copy is drafted; final native review and current-fact confirmation are still required before production.
 - Most candidates are sections or FAQs to merge into existing canonical guides; they are not approved as 950 separate URLs.
 - Do not copy this folder into production or submit the draft URLs for indexing before the full editorial pass is complete.
 - Never invent White Cakes prices, serving counts, customer cases, delivery rules, available ingredients, or photo evidence. Recheck time-sensitive details before publication.
