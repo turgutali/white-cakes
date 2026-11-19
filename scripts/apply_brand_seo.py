@@ -166,8 +166,14 @@ SITEMAP_PAGES = [
     ("/christmas-cakes-cebu-tagalog/", "weekly", "0.9"),
     ("/order/", "monthly", "0.95"),
     ("/about/", "monthly", "0.8"),
+    ("/about-ceb/", "monthly", "0.8"),
+    ("/about-tagalog/", "monthly", "0.8"),
     ("/ordering/", "monthly", "0.8"),
     ("/faq/", "monthly", "0.8"),
+    ("/faq-ceb/", "monthly", "0.8"),
+    ("/faq-tagalog/", "monthly", "0.8"),
+    ("/ordering-ceb/", "monthly", "0.8"),
+    ("/ordering-tagalog/", "monthly", "0.8"),
     ("/journal/", "weekly", "0.8"),
     ("/privacy/", "yearly", "0.2"),
 ]
@@ -1166,6 +1172,12 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 
 - [Home]({BASE}/) — Signature Marble, Bouquet, and Bento, plus how to order.
 - [About]({BASE}/about/) — Facts: name, kitchen, delivery areas, and contact.
+- [About in Cebuano]({BASE}/about-ceb/) — DTI business registration and business details in Cebuano.
+- [About in Tagalog]({BASE}/about-tagalog/) — DTI business registration and business details in Tagalog.
+- [FAQ in Cebuano]({BASE}/faq-ceb/) — Ordering, sizes, price, delivery and care questions in Cebuano.
+- [FAQ in Tagalog]({BASE}/faq-tagalog/) — Ordering, sizes, price, delivery and care questions in Tagalog.
+- [Ordering in Cebuano]({BASE}/ordering-ceb/) — Lead time, pickup, delivery, payment and cancellation terms in Cebuano.
+- [Ordering in Tagalog]({BASE}/ordering-tagalog/) — Lead time, pickup, delivery, payment and cancellation terms in Tagalog.
 - [Order]({BASE}/order/) — Design a cake and send the order.
 - [Bento cakes]({BASE}/bento-cakes-cebu/) — 4-inch bento cakes.
 - [Bento cakes in Cebuano]({BASE}/bento-cakes-cebu-ceb/) — Product, price, and delivery details in Cebuano.

@@ -49,6 +49,12 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 
 - [Home](https://www.thewhitecakes.com/) — Signature Marble, Bouquet, and Bento, plus how to order.
 - [About](https://www.thewhitecakes.com/about/) — Facts: name, kitchen, delivery areas, and contact.
+- [About in Cebuano](https://www.thewhitecakes.com/about-ceb/) — DTI business registration and business details in Cebuano.
+- [About in Tagalog](https://www.thewhitecakes.com/about-tagalog/) — DTI business registration and business details in Tagalog.
+- [FAQ in Cebuano](https://www.thewhitecakes.com/faq-ceb/) — Ordering, sizes, price, delivery and care questions in Cebuano.
+- [FAQ in Tagalog](https://www.thewhitecakes.com/faq-tagalog/) — Ordering, sizes, price, delivery and care questions in Tagalog.
+- [Ordering in Cebuano](https://www.thewhitecakes.com/ordering-ceb/) — Lead time, pickup, delivery, payment and cancellation terms in Cebuano.
+- [Ordering in Tagalog](https://www.thewhitecakes.com/ordering-tagalog/) — Lead time, pickup, delivery, payment and cancellation terms in Tagalog.
 - [Order](https://www.thewhitecakes.com/order/) — Design a cake and send the order.
 - [Bento cakes](https://www.thewhitecakes.com/bento-cakes-cebu/) — 4-inch bento cakes.
 - [Bento cakes in Cebuano](https://www.thewhitecakes.com/bento-cakes-cebu-ceb/) — Product, price, and delivery details in Cebuano.

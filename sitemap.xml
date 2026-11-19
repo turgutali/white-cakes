@@ -684,6 +684,26 @@
     </image:image>
   </url>
   <url>
+    <loc>https://www.thewhitecakes.com/about-ceb/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/about-tagalog/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://www.thewhitecakes.com/ordering/</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -705,6 +725,46 @@
     <image:image>
       <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
       <image:title>The White Cakes - Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/faq-ceb/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/faq-tagalog/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/ordering-ceb/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes Cebu logo</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/ordering-tagalog/</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/logo-512.png</image:loc>
+      <image:title>The White Cakes Cebu logo</image:title>
     </image:image>
   </url>
   <url>
