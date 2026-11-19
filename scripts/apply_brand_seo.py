@@ -138,7 +138,11 @@ SITEMAP_PAGES = [
     ("/bouquet-cakes-cebu-ceb/", "monthly", "0.9"),
     ("/bouquet-cakes-cebu-tagalog/", "monthly", "0.9"),
     ("/custom-cakes-cebu/", "monthly", "0.9"),
+    ("/custom-cakes-cebu-ceb/", "monthly", "0.9"),
+    ("/custom-cakes-cebu-tagalog/", "monthly", "0.9"),
     ("/birthday-cakes-cebu/", "monthly", "0.85"),
+    ("/birthday-cakes-cebu-ceb/", "monthly", "0.85"),
+    ("/birthday-cakes-cebu-tagalog/", "monthly", "0.85"),
     ("/anniversary-cakes-cebu/", "monthly", "0.85"),
     ("/wedding-cakes-cebu/", "monthly", "0.85"),
     ("/corporate-cake-orders-cebu/", "monthly", "0.85"),
@@ -1156,7 +1160,11 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 - [Bouquet cakes in Cebuano]({BASE}/bouquet-cakes-cebu-ceb/) — Flower-finished cakes, quote, and delivery details in Cebuano.
 - [Bouquet cakes in Tagalog]({BASE}/bouquet-cakes-cebu-tagalog/) — Flower-finished cakes, quote, and delivery details in Tagalog.
 - [Custom cakes]({BASE}/custom-cakes-cebu/) — Signature Marble and custom celebration cakes.
+- [Custom cakes in Cebuano]({BASE}/custom-cakes-cebu-ceb/) — Custom cake prices and buttercream ordering details in Cebuano.
+- [Custom cakes in Tagalog]({BASE}/custom-cakes-cebu-tagalog/) — Custom cake prices and buttercream ordering details in Tagalog.
 - [Birthday cakes]({BASE}/birthday-cakes-cebu/) — Birthday cakes made to order.
+- [Birthday cakes in Cebuano]({BASE}/birthday-cakes-cebu-ceb/) — Birthday cake sizes, flavours, and ordering details in Cebuano.
+- [Birthday cakes in Tagalog]({BASE}/birthday-cakes-cebu-tagalog/) — Birthday cake sizes, flavours, and ordering details in Tagalog.
 - [Anniversary cakes]({BASE}/anniversary-cakes-cebu/) — Anniversary and gift cakes.
 - [Wedding cakes]({BASE}/wedding-cakes-cebu/) — Intimate wedding and engagement cakes.
 - [Corporate orders]({BASE}/corporate-cake-orders-cebu/) — Office and corporate cake orders.
