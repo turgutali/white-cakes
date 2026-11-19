@@ -16,3 +16,29 @@ For the design, choose one colour or decorative detail that fits the new home. S
 If delivery is needed, provide the full home address, nearby landmark, receiver's mobile number, and gate or subdivision instructions. A person should be available during the agreed window and should move the cake out of direct sun after handover.
 
 Ask for the current quote and address-based delivery charge before paying the 50% deposit. At least three days' notice is requested, and availability must be confirmed. Keep the brief template on the custom-cake and housewarming pages, not as a separate order guide for each occasion.
+
+---
+
+## Cebuano translation (machine translated; editorial review pending)
+
+## Usa ka mubu nga mubu nga cake sa balay para sa bag-ong balay ug sa mga bisita niini
+
+Ilakip ang petsa sa panghitabo, ang gidaghanon sa mga tawo nga mokaon ug cake, ug asa kini i-serve. Ang usa ka gamay nga panimalay mahimong mohaum sa 4-pulgada nga Bento, samtang ang usa ka panagtapok sa pamilya nanginahanglan usa ka gidak-on nga diskusyon gamit ang giya sa pagsilbi sa White Cakes. Isulti kung gusto nimo ang tibuuk nga mga hiwa o gagmay nga mga bahin pagkahuman sa pagkaon aron ang panaderya makarekomenda sa usa ka praktikal nga pormat.
+
+Alang sa disenyo, pagpili og usa ka kolor o detalye sa dekorasyon nga mohaum sa bag-ong balay. Pagpadala usa ka reperensya nga litrato ug isulti kung gusto nimo ang palette, utlanan, o detalye sa bulak nga ipahiangay. White Cakes hand-pipes buttercream, mao nga ang usa ka reperensiya mao ang giya kay sa usa ka saad sa usa ka eksaktong kopya. Hupti nga mubo ang inskripsiyon ug ipadala ang eksaktong spelling.
+
+Kung gikinahanglan ang paghatod, ihatag ang tibuok adres sa balay, duol nga landmark, mobile number sa receiver, ug gate o subdivision instructions. Ang usa ka tawo kinahanglan nga magamit sa panahon sa gikasabutan nga bintana ug kinahanglan nga ibalhin ang cake gikan sa direkta nga adlaw pagkahuman sa pagtugyan.
+
+Pangayo alang sa kasamtangan nga quote ug address-based delivery charge sa dili pa mobayad sa 50% nga deposito. Ang labing menos tulo ka adlaw nga pahibalo gihangyo, ug ang pagkaanaa kinahanglan makumpirma. Itago ang mubo nga template sa custom-cake ug housewarming nga mga panid, dili isip usa ka bulag nga giya sa pag-order alang sa matag okasyon.
+
+## Tagalog translation (machine translated; editorial review pending)
+
+## Isang housewarming cake brief para sa isang bagong tahanan at sa mga bisita nito
+
+Isama ang petsa ng kaganapan, ang bilang ng mga taong kakain ng cake, at kung saan ito ihahain. Ang isang maliit na sambahayan ay maaaring angkop sa 4-pulgada na Bento, habang ang isang pagtitipon ng pamilya ay nangangailangan ng talakayan sa laki gamit ang gabay sa paghahatid ng White Cakes. Sabihin kung mas gusto mo ang buong hiwa o mas maliliit na bahagi pagkatapos kumain para makapagrekomenda ang panaderya ng praktikal na format.
+
+Para sa disenyo, pumili ng isang kulay o detalye ng dekorasyon na akma sa bagong tahanan. Magpadala ng isang reference na larawan at sabihin kung gusto mong i-adapt ang palette, border, o floral na detalye nito. White Cakes hand-pipes buttercream, kaya ang isang sanggunian ay gabay sa halip na isang pangako ng isang eksaktong kopya. Panatilihing maikli ang inskripsiyon at magpadala ng eksaktong spelling.
+
+Kung kailangan ang paghahatid, ibigay ang buong address ng tahanan, kalapit na landmark, numero ng mobile ng receiver, at mga tagubilin sa gate o subdivision. Ang isang tao ay dapat na available sa panahon ng napagkasunduang window at dapat ilipat ang cake sa labas ng direktang araw pagkatapos ng handover.
+
+Hilingin ang kasalukuyang quote at address-based na delivery charge bago bayaran ang 50% na deposito. Ang hindi bababa sa tatlong araw na paunawa ay hinihiling, at ang pagkakaroon ay dapat kumpirmahin. Panatilihin ang maikling template sa custom-cake at housewarming na mga pahina, hindi bilang isang hiwalay na gabay sa pag-order para sa bawat okasyon.

@@ -16,3 +16,29 @@ Describe the design with a few choices instead of a long mood board. Name the ma
 Ask about availability early. White Cakes requires at least three days' notice for custom cakes, and popular event dates should be checked sooner. Wait for written agreement on the design, flavour, size, price, delivery details, and timing; the 50% deposit confirms that agreed order.
 
 Use this as the bridal-shower example within the custom brief guide. A separate occasion page needs original evidence or a distinct search intent, not just a new event name attached to the same checklist.
+
+---
+
+## Cebuano translation (machine translated; editorial review pending)
+
+## Paghimo usa ka bridal-shower cake nga dali nga kutloon
+
+Unaha ang praktikal nga mga detalye: petsa sa panghitabo, gusto nga paghatod o oras sa pagkuha, adres sa lugar, gibanabana nga mokaon og cake, ug lami. Kung ang cake mahimong bahin sa usa ka mas dako nga lamesa sa dessert, ingna; ang cake dili kinahanglan nga mag-alagad sa matag bisita. Gibanabana sa giya sa White Cakes ang 8–12 ka party slice para sa 6-pulgada nga cake ug 16–24 para sa 8-pulgada nga cake, nga ang aktuwal nga ihap nagdepende sa mga bahin.
+
+Ihulagway ang disenyo nga adunay pipila ka mga kapilian imbes nga usa ka taas nga mood board. Pagngalan sa mga nag-unang kolor, ang labing importante nga dekorasyon nga bahin, ug bisan unsang detalye nga likayan. Ilakip ang usa ka pakisayran ug isulti kung unsa ang gihulagway niini. Ilakip ang inskripsiyon sa eksakto nga hitsura niini. Kinahanglang kumpirmahon sa panaderya kon ang disenyo ug mga pulong mohaom ba sa gihangyo nga gidak-on ug kon unsa ang ilang gasto.
+
+Pangutan-a bahin sa pagkaanaa sa sayo. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa naandan nga mga cake, ug ang mga sikat nga petsa sa panghitabo kinahanglan nga susihon dayon. Paghulat alang sa sinulat nga kasabutan sa disenyo, lami, gidak-on, presyo, mga detalye sa pagpadala, ug panahon; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
+
+Gamita kini isip pananglitan sa bridal-shower sulod sa custom nga mubo nga giya. Ang usa ka bulag nga panid sa okasyon nanginahanglan orihinal nga ebidensya o lahi nga katuyoan sa pagpangita, dili lamang usa ka bag-ong ngalan sa panghitabo nga gilakip sa parehas nga checklist.
+
+## Tagalog translation (machine translated; editorial review pending)
+
+## Gumawa ng bridal-shower cake na madaling banggitin
+
+Unahin ang mga praktikal na detalye: petsa ng kaganapan, gustong paghahatid o oras ng pickup, address ng lugar, tinantyang mga kumakain ng cake, at lasa. Kung ang cake ay magiging bahagi ng isang mas malaking dessert table, sabihin ito; maaaring hindi kailangang ihain ng cake ang bawat bisita. Tinatantya ng gabay ng White Cakes ang 8–12 party slice para sa isang 6-inch na cake at 16–24 para sa isang 8-inch na cake, na ang aktwal na bilang ay depende sa mga bahagi.
+
+Ilarawan ang disenyo na may ilang mga pagpipilian sa halip na isang mahabang mood board. Pangalanan ang mga pangunahing kulay, ang pinakamahalagang tampok na pampalamuti, at anumang detalyeng dapat iwasan. Maglakip ng sanggunian at sabihin kung ano ang inilalarawan nito. Isama ang inskripsiyon nang eksakto kung paano ito dapat lumitaw. Dapat kumpirmahin ng panaderya kung ang disenyo at mga salita ay akma sa hinihiling na laki at kung ano ang kanilang halaga.
+
+Magtanong tungkol sa availability nang maaga. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga custom na cake, at dapat na mas maagang suriin ang mga sikat na petsa ng kaganapan. Maghintay ng nakasulat na kasunduan sa disenyo, lasa, laki, presyo, mga detalye ng paghahatid, at timing; kinukumpirma ng 50% na deposito ang napagkasunduang order.
+
+Gamitin ito bilang halimbawa ng bridal-shower sa loob ng custom na maikling gabay. Ang isang hiwalay na pahina ng okasyon ay nangangailangan ng orihinal na katibayan o isang natatanging layunin sa paghahanap, hindi lamang isang bagong pangalan ng kaganapan na naka-attach sa parehong checklist.
