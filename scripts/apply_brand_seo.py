@@ -419,6 +419,23 @@ def organization_entity(images: list[dict]) -> dict:
             "propertyID": "DTI Business Name Number",
             "value": "8628157",
         },
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "propertyID": "DTI business name registration scope",
+                "value": "National",
+            },
+            {
+                "@type": "PropertyValue",
+                "propertyID": "DTI certificate issued",
+                "value": "2026-11-19",
+            },
+            {
+                "@type": "PropertyValue",
+                "propertyID": "DTI certificate valid through",
+                "value": "2031-11-19",
+            },
+        ],
         "alternateName": ["White Cakes", "The White Cakes", "thewhitecakes.com"],
         "url": f"{BASE}/",
         "logo": logo_object(),
