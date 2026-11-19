@@ -1,38 +1,45 @@
 ---
 id: WC-0595
-status: written-draft
-publish_action: merge into /journal/choosing-a-flavor.html; confirm current menu and local recipient needs
-english_title: "How to choose a flavour for sending a cake to family in Cebu from abroad"
-cebuano_title: "Giunsa pagpili sa lami para sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Paano pumili ng flavor para sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/choosing-a-flavor.html
+english_title: "How to Choose a Cake Flavour for Family in Cebu from Abroad"
+cebuano_title: "Giunsa Pagpili sa Flavour sa Cake para sa Pamilya sa Cebu Gikan sa Laing Nasod"
+tagalog_title: "Paano Pumili ng Flavour ng Cake para sa Pamilya sa Cebu Mula sa Ibang Bansa"
 ---
 
-## Ask the local recipient what the family enjoys and verify availability in Cebu
+## English
 
-If you are ordering from abroad, ask the person in Cebu what flavours the family prefers and how many people will share the cake. White Cakes’ listed choices have included Chocolate, Vanilla, Ube, Mango, and Red Velvet; confirm the live menu and date availability directly. Do not assume a flavour is available because you saw it in an old photo.
+# How to Choose a Cake Flavour for Family in Cebu from Abroad
 
-Tell the bakery about any allergy or dietary concern and ask whether it can accommodate it. A remote payer should also confirm the cake’s size, exact message, local delivery address, recipient phone number, and final price with the local coordinator.
+Ask the recipient or local host which flavours the family enjoys before placing the order. Preferences can be hard to infer from abroad, especially when several relatives will share the cake. Consider known allergies or dietary restrictions and ask the bakery directly what it can accommodate.
 
-Keep the current flavour list and product questions in one maintained guide. Link to the delivery page for coordinating the local handoff.
+Confirm which flavours are currently available for the selected date and size. Do not rely on an old photo, previous order, or a flavour name that may have changed. If the recipient is unsure, ask for a familiar first choice and a backup option.
+
+Put the agreed flavour in the written brief and have the local contact verify it with the bakery. Confirm storage directions too if the family will serve the cake later. See [how to choose a cake flavour in Cebu](/journal/choosing-a-flavor.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour sa Cake para sa Pamilya sa Cebu Gikan sa Laing Nasod
+
+Pangutan-a ang recipient o lokal nga host unsang flavour ang ganahan sa pamilya sa dili pa mo-order. Lisod banabanaon gikan sa laing nasod ang gusto, ilabi na kon daghang paryente ang mopaambit sa cake. Ikonsiderar ang nahibaw-ang allergy o dietary restriction ug pangutan-a direkta ang panaderya unsay ma-accommodate niini.
+
+Kumpirmaha unsang flavour ang available karon sa napiling petsa ug gidak-on. Ayaw salig sa daang litrato, miaging order o ngalan sa flavour nga basin nausab na. Kon dili sigurado ang recipient, pangayo og pamilyar nga unang kapilian ug backup.
+
+Ibutang sa sinulat nga brief ang nasabutang flavour ug hangyoa ang lokal nga contact nga kumpirmahon kini sa panaderya. Kumpirmaha usab ang instruksyon sa pagtipig kon ulahi pa i-serve sa pamilya ang cake. Tan-awa ang [pagpili sa flavour sa cake sa Cebu](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano Pumili ng Flavour ng Cake para sa Pamilya sa Cebu Mula sa Ibang Bansa
+
+Tanungin ang tatanggap o lokal na host kung aling flavour ang gusto ng pamilya bago umorder. Mahirap hulaan mula sa ibang bansa ang panlasa, lalo na kung maraming kamag-anak ang magsasalo sa cake. Isaalang-alang ang alam na allergy o dietary restriction at direktang itanong sa bakery kung ano ang kaya nitong tugunan.
+
+Kumpirmahin kung aling flavour ang available ngayon sa napiling petsa at sukat. Huwag umasa sa lumang larawan, dating order, o pangalan ng flavour na maaaring nagbago na. Kung hindi sigurado ang tatanggap, humingi ng pamilyar na unang pagpipilian at backup.
+
+Ilagay sa nakasulat na brief ang napagkasunduang flavour at hilingin sa lokal na contact na kumpirmahin ito sa bakery. Kumpirmahin din ang tagubilin sa pag-iimbak kung sa ibang oras pa ihahain ng pamilya ang cake. Tingnan ang [paano pumili ng flavour ng cake sa Cebu](/journal/choosing-a-flavor.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangutan-a ang lokal nga nakadawat kung unsa ang nalingaw sa pamilya ug susiha nga anaa sa Cebu
-
-Kung nag-order ka gikan sa gawas sa nasud, pangutan-a ang taga-Cebu kung unsang mga lami ang gusto sa pamilya ug pila ang magbahin sa cake. Ang nalista nga mga pagpili sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; kumpirmahi ang live menu ug ang pagkaanaa sa petsa direkta. Ayaw paghunahuna nga adunay usa ka lami tungod kay nakita nimo kini sa usa ka daan nga litrato.
-
-Sultihi ang panaderya mahitungod sa bisan unsang allergy o pagkaon nga kabalaka ug pangutana kon kini maka-accommodate ba niini. Ang usa ka hilit nga tigbayad kinahanglan usab nga mokumpirma sa gidak-on sa cake, eksakto nga mensahe, lokal nga adres sa pagpadala, numero sa telepono sa nakadawat, ug katapusang presyo uban sa lokal nga coordinator.
-
-Itago ang karon nga lista sa lami ug mga pangutana sa produkto sa usa ka gipadayon nga giya. Link sa delivery page para sa pag-coordinate sa lokal nga handoff.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tanungin ang lokal na tatanggap kung ano ang kinagigiliwan ng pamilya at i-verify ang availability sa Cebu
-
-Kung nag-o-order ka mula sa ibang bansa, tanungin ang taga-Cebu kung anong mga lasa ang mas gusto ng pamilya at kung gaano karaming tao ang makibahagi sa cake. Kasama sa mga nakalistang pagpipilian ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet; direktang kumpirmahin ang live na menu at availability ng petsa. Huwag ipagpalagay na may available na lasa dahil nakita mo ito sa isang lumang larawan.
-
-Sabihin sa panaderya ang tungkol sa anumang allergy o pag-aalala sa pandiyeta at tanungin kung kaya nitong tanggapin ito. Dapat ding kumpirmahin ng isang malayong nagbabayad ang laki ng cake, eksaktong mensahe, lokal na address ng paghahatid, numero ng telepono ng tatanggap, at huling presyo sa lokal na coordinator.
-
-Panatilihin ang kasalukuyang listahan ng lasa at mga tanong sa produkto sa isang pinapanatili na gabay. Mag-link sa page ng paghahatid para sa pag-coordinate ng lokal na handoff.
+- Confirm current menu, payment, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

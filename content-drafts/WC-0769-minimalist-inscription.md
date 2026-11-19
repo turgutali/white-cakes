@@ -1,38 +1,39 @@
 ---
 id: WC-0769
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
 english_title: "What to write on minimalist cake in Cebu"
 cebuano_title: "Unsa ang isulat sa ibabaw sa minimalist nga cake sa Cebu"
 tagalog_title: "Ano ang isusulat sa ibabaw ng minimalist na cake sa Cebu"
 ---
 
-## Let a short message preserve the clean look
+## English
 
-A minimalist design often leaves open space around the lettering. Choose a few words that communicate the occasion or recipient without turning the message into a paragraph. A name, date, or brief greeting may be enough; if you want a longer dedication, use a separate card.
+# What to write on minimalist cake in Cebu
 
-Send the exact wording and spelling with your order and ask where it can fit on the design. Confirm whether the selected size has enough writing space and whether the inscription is included in the current quote. If a reference image shows no words, explain that you want lettering added.
+Minimalist lettering needs room and contrast. Choose a short name, date, or greeting and send the exact wording with capitalization and punctuation. Ask the bakery where the text can sit without competing with the one decorative feature.
 
-Keep message advice in the main inscription guide. Use original photos only to show real placement examples, and do not promise the exact appearance from another bakery’s reference.
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Have one person proofread the final message and approve it in writing before payment; late edits can alter the balance of a sparse design.
+
+## Cebuano
+
+# Unsa ang isulat sa ibabaw sa minimalist nga cake sa Cebu
+
+Kinahanglan og luna ug contrast ang minimalist lettering. Pilia ang mubo nga ngalan, petsa o pangumusta ug ipadala ang eksaktong teksto, capitalization ug punctuation. Pangutan-a asa ibutang ang letra nga dili makigkompetensya sa usa ka dekorasyon.
+
+Kamot nga gipiping ang buttercream sa White Cakes ug walay edible printed logo sheets. Pabasaha sa usa ka tawo ang mensahe ug aprubahan sa sinulat sa dili pa mobayad; ang ulahing kausaban makausab sa balanse sa simple nga disenyo.
+
+## Tagalog
+
+# Ano ang isusulat sa ibabaw ng minimalist na cake sa Cebu
+
+Kailangan ng espasyo at contrast ang minimalist lettering. Pumili ng maikling pangalan, petsa, o pagbati at ipadala ang eksaktong teksto, capitalization, at punctuation. Itanong kung saan ilalagay ang teksto nang hindi nakikipag-agawan sa iisang dekorasyon.
+
+Mano-manong ipinipipe ng White Cakes ang buttercream at wala itong edible printed logo sheets. Ipabasa sa isang tao ang mensahe at aprubahan ito sa sulat bago magbayad; maaaring baguhin ng huling edit ang balanse ng payak na design.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Himoa nga ang usa ka mubo nga mensahe mapreserbar ang limpyo nga hitsura
-
-Ang usa ka minimalist nga disenyo kanunay nga nagbilin sa bukas nga wanang sa palibot sa letra. Pagpili og pipila ka mga pulong nga nagpahibalo sa okasyon o nakadawat nga dili himoong parapo ang mensahe. Ang usa ka ngalan, petsa, o mubo nga pagtimbaya tingali igo na; kung gusto nimo ug mas taas nga dedikasyon, gamita ang lahi nga kard.
-
-Ipadala ang eksakto nga mga pulong ug spelling sa imong order ug pangutana kung asa kini mohaum sa disenyo. Pagmatuod kung ang gipili nga gidak-on adunay igo nga wanang sa pagsulat ug kung ang inskripsiyon gilakip sa karon nga kinutlo. Kung ang usa ka reference nga hulagway walay makita nga mga pulong, ipasabut nga gusto nimo nga idugang ang letra.
-
-Itago ang tambag sa mensahe sa panguna nga giya sa inskripsiyon. Gamita lang ang orihinal nga mga litrato aron ipakita ang tinuod nga mga pananglitan sa pagbutang, ug ayaw isaad ang eksaktong hitsura gikan sa pakisayran sa laing panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Hayaang mapanatili ng isang maikling mensahe ang malinis na hitsura
-
-Ang isang minimalist na disenyo ay madalas na nag-iiwan ng bukas na espasyo sa paligid ng titik. Pumili ng ilang salita na nagpapaalam sa okasyon o tatanggap nang hindi ginagawang isang talata ang mensahe. Maaaring sapat na ang isang pangalan, petsa, o maikling pagbati; kung gusto mo ng mas mahabang dedikasyon, gumamit ng hiwalay na card.
-
-Ipadala ang eksaktong mga salita at spelling kasama ng iyong order at itanong kung saan ito maaaring magkasya sa disenyo. Kumpirmahin kung ang napiling laki ay may sapat na espasyo sa pagsusulat at kung ang inskripsiyon ay kasama sa kasalukuyang quote. Kung walang makikitang salita ang isang reference na larawan, ipaliwanag na gusto mong idagdag ang titik.
-
-Panatilihin ang payo ng mensahe sa pangunahing gabay sa inskripsiyon. Gumamit lamang ng mga orihinal na larawan upang magpakita ng mga tunay na halimbawa ng placement, at huwag ipangako ang eksaktong hitsura mula sa sanggunian ng isa pang panaderya.
+- Verify current menu, available finishes, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

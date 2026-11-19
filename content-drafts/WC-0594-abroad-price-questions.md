@@ -1,38 +1,45 @@
 ---
 id: WC-0594
-status: written-draft
-publish_action: merge into /journal/cake-prices-cebu.html; verify live quote and delivery fee
-english_title: "What to ask about the price of sending a cake to family in Cebu from abroad"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-prices-cebu.html
+english_title: "What to Ask About the Price of a Cake Ordered for Cebu from Abroad"
+cebuano_title: "Unsa ang Pangutan-on Bahin sa Presyo sa Cake nga I-order para sa Cebu Gikan sa Laing Nasod"
+tagalog_title: "Ano ang Itatanong Tungkol sa Presyo ng Cake na I-o-order para sa Cebu Mula sa Ibang Bansa"
 ---
 
-## Ask for a complete local quote and share it with the recipient
+## English
 
-When ordering from abroad, provide the local address, date, requested size, flavour, design, and recipient’s contact information. Ask whether delivery to that Cebu location is available and whether a fee applies. Confirm the cake cost, custom work, delivery charge, and accepted payment method in the same written quote.
+# What to Ask About the Price of a Cake Ordered for Cebu from Abroad
 
-Prices and menu options can change, so request a current total for the actual order rather than relying on an old post or exchange-rate estimate. If another family member will receive it, share the final summary and receipt so they can coordinate the handoff.
+Ask for a local quote that includes the cake and delivery to the exact Cebu address. Send the event date, size, flavour, design, inscription, and recipient’s location. Confirm which currency and payment method the bakery accepts, and ask whether any processing charge applies before sending money.
 
-Keep live rates in the maintained Cebu price guide and the overseas-order instructions in the delivery page. Do not promise a fixed international payment method without current confirmation.
+Request the final total and current deposit terms in writing. White Cakes’ published guidance describes a 50% deposit after the final price and order details are agreed; verify the current instructions directly. Ask when the balance is due and how the bakery confirms payment.
+
+If another family member in Cebu will pay or receive the cake, clarify who owns the order and who gets the receipt. Compare complete quotes, including delivery, rather than a cake-only estimate. See the [Cebu cake price guide](/journal/cake-prices-cebu.html).
+
+## Cebuano
+
+# Unsa ang Pangutan-on Bahin sa Presyo sa Cake nga I-order para sa Cebu Gikan sa Laing Nasod
+
+Pangayo og lokal nga quote nga naglakip sa cake ug delivery ngadto sa tukmang address sa Cebu. Ipadala ang petsa sa event, gidak-on, flavour, disenyo, inskripsiyon ug lokasyon sa modawat. Kumpirmaha unsang currency ug paagi sa bayad ang dawaton sa panaderya ug pangutan-a kon adunay processing charge sa dili pa magpadala og kwarta.
+
+Pangayo sa final nga total ug kasamtangang deposit terms sa sinulat. Naghulagway ang gipatik nga giya sa White Cakes og 50% nga deposit human magkasinabot sa final nga presyo ug detalye; kumpirmaha diretso ang kasamtangang instruksyon. Pangutan-a kanus-a bayran ang balanse ug unsaon pagkumpirma sa bayad.
+
+Kon laing sakop sa pamilya sa Cebu ang mobayad o modawat sa cake, klaroha kinsa ang tag-iya sa order ug kinsa makadawat sa resibo. Itandi ang kompleto nga quote apil ang delivery, dili cake lang. Tan-awa ang [giya sa presyo sa cake sa Cebu](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Ano ang Itatanong Tungkol sa Presyo ng Cake na I-o-order para sa Cebu Mula sa Ibang Bansa
+
+Humingi ng lokal na quote na kasama ang cake at delivery sa eksaktong address sa Cebu. Ipadala ang petsa ng event, sukat, flavour, design, inscription, at lokasyon ng tatanggap. Kumpirmahin kung anong currency at paraan ng bayad ang tinatanggap ng bakery at itanong kung may processing charge bago magpadala ng pera.
+
+Hingin sa sulat ang pinal na kabuuan at kasalukuyang deposit terms. Inilalarawan ng inilathalang gabay ng White Cakes ang 50% na deposito matapos magkasundo sa pinal na presyo at detalye; tiyakin nang direkta ang kasalukuyang tagubilin. Itanong kung kailan babayaran ang balanse at paano kinukumpirma ng bakery ang bayad.
+
+Kung ibang kapamilya sa Cebu ang magbabayad o tatanggap ng cake, linawin kung sino ang may hawak ng order at tatanggap ng resibo. Paghambingin ang kumpletong quote kasama ang delivery, hindi cake lang. Tingnan ang [gabay sa presyo ng cake sa Cebu](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo ug kompletong lokal nga kinutlo ug ipaambit kini sa nakadawat
-
-Kung nag-order gikan sa gawas sa nasud, ihatag ang lokal nga adres, petsa, gihangyo nga gidak-on, lami, disenyo, ug impormasyon sa pagkontak sa nakadawat. Pangutan-a kung ang pagpadala sa kana nga lokasyon sa Cebu magamit ug kung adunay bayad. Pagkumpirma sa gasto sa cake, kostumbre nga trabaho, bayad sa pagpadala, ug gidawat nga paagi sa pagbayad sa parehas nga sinulat nga kinutlo.
-
-Ang mga presyo ug mga opsyon sa menu mahimong mausab, busa paghangyo ug kasamtangang total para sa aktuwal nga order imbes nga magsalig sa daan nga post o exchange-rate nga banabana. Kon ang laing sakop sa pamilya makadawat niini, ipaambit ang katapusang summary ug resibo aron ilang ma-coordinate ang handoff.
-
-Ipadayon ang live rates sa gipadayon nga giya sa presyo sa Cebu ug ang mga panudlo sa pag-order sa gawas sa nasud sa panid sa pagpadala. Ayaw pagsaad og usa ka fixed nga internasyonal nga paagi sa pagbayad nga walay kasamtangan nga kumpirmasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humingi ng kumpletong lokal na quote at ibahagi ito sa tatanggap
-
-Kapag nag-order mula sa ibang bansa, ibigay ang lokal na address, petsa, hiniling na laki, lasa, disenyo, at impormasyon sa pakikipag-ugnayan ng tatanggap. Itanong kung available ang paghahatid sa lokasyong iyon sa Cebu at kung may nalalapat na bayad. Kumpirmahin ang halaga ng cake, custom na trabaho, singil sa paghahatid, at tinatanggap na paraan ng pagbabayad sa parehong nakasulat na quote.
-
-Maaaring magbago ang mga presyo at opsyon sa menu, kaya humiling ng kasalukuyang kabuuan para sa aktwal na order sa halip na umasa sa isang lumang post o pagtatantya ng exchange-rate. Kung matatanggap ito ng ibang miyembro ng pamilya, ibahagi ang huling buod at resibo para mapag-ugnay nila ang handoff.
-
-Panatilihin ang mga live na rate sa pinapanatili na gabay sa presyo sa Cebu at ang mga tagubilin sa pag-order sa ibang bansa sa pahina ng paghahatid. Huwag mangako ng nakapirming paraan ng pagbabayad sa ibang bansa nang walang kasalukuyang kumpirmasyon.
+- Confirm current menu, payment, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

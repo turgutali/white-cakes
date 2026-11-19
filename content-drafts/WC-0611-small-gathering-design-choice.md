@@ -1,44 +1,45 @@
 ---
 id: WC-0611
-status: draft-needs-original-photo-case
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "How to choose a design for cake for a small intimate gathering in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa gamay ug suod nga panagtigom sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa maliit at malapit na pagtitipon sa Cebu"
+english_title: "How to Choose a Cake Design for an Intimate Cebu Gathering"
+cebuano_title: "Giunsa Pagpili sa Disenyo sa Cake para sa Suod nga Tapok sa Cebu"
+tagalog_title: "Paano Pumili ng Design ng Cake para sa Intimate na Pagtitipon sa Cebu"
 ---
 
-## Choose a design that fits a small gathering
+## English
 
-For an intimate event, a focused design can feel more personal than a large arrangement of decorations. Choose one colour, a short message, or one small motif that matters to the host. If the cake is compact, leave room for the inscription and avoid sending references that show conflicting styles.
+# How to Choose a Cake Design for an Intimate Cebu Gathering
 
-Send one clear image and tell White Cakes which element to adapt. Ask whether the requested design fits the chosen size and what price it adds. A reference photo does not guarantee an exact copy. If a specific colour or lettering style is essential, confirm it in writing before the order is finalized.
+For an intimate gathering, the design can focus on one personal detail rather than a large display. Think about what the recipient will notice: a short message, familiar colour, or small motif tied to the occasion. One clear feature can make the cake feel considered without crowding it.
 
-Choose the size based on cake eaters. The 4-inch Bento serves about two generous or three modest portions; 6 inches is estimated at 8–12 party slices. Tell the bakery whether there are other desserts. Include the date, flavour, and delivery plan, and allow at least three days' notice. The 50% deposit confirms the agreed order.
+Choose decoration that fits the size and serving setting. A cake on a small dining table may need a simpler layout than a centrepiece in a private event room. If the cake will be transported after delivery or photographed before cutting, tell the bakery so those needs are part of the brief.
 
-Use a real, permission-cleared close-up for a specific design example. Otherwise, integrate the small-event advice into the existing design guide.
+Use references to explain an idea, not to require exact duplication. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm current methods and availability before approving the design. See [cake design ideas in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Disenyo sa Cake para sa Suod nga Tapok sa Cebu
+
+Para sa suod nga tapok, mahimong magpunting ang disenyo sa usa ka personal nga detalye imbes dakong display. Hunahunaa unsay mamatikdan sa recipient: mubo nga mensahe, pamilyar nga kolor o gamay nga motif nga konektado sa okasyon. Makapersonal sa cake ang usa ka klarong detalye nga dili huot tan-awon.
+
+Pagpili og dekorasyon nga mohaum sa gidak-on ug paagi sa pag-serve. Mahimong mas simple ang layout sa cake sa gamay nga lamesa kaysa centerpiece sa private event room. Kon ibiyahe ang cake human sa delivery o kuhaan una og litrato, sultihi ang panaderya aron maapil kini sa brief.
+
+Gamita ang reference sa pagpasabot sa ideya, dili pagpangayo og eksaktong kopya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha ang kasamtangang pamaagi ug availability sa dili pa aprobahan ang disenyo. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Design ng Cake para sa Intimate na Pagtitipon sa Cebu
+
+Para sa intimate na pagtitipon, maaaring tumuon ang design sa isang personal na detalye sa halip na malaking display. Isipin kung ano ang mapapansin ng tatanggap: maikling mensahe, pamilyar na kulay, o maliit na motif na konektado sa okasyon. Nakapagpapersonal ng cake ang iisang malinaw na feature nang hindi ito sinisiksik.
+
+Pumili ng dekorasyong babagay sa sukat at paraan ng paghahain. Maaaring mas simple ang layout ng cake sa maliit na mesa kaysa centerpiece sa pribadong event room. Kung dadalhin ang cake pagkatapos ng delivery o kukunan muna ng larawan bago hiwain, sabihin ito sa bakery para maisama sa brief.
+
+Gamitin ang references para ipaliwanag ang ideya, hindi para humiling ng eksaktong kopya. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin ang kasalukuyang methods at availability bago aprubahan ang design. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug disenyo nga haom sa gamay nga panagtapok
-
-Alang sa usa ka suod nga panghitabo, ang usa ka naka-focus nga disenyo mahimong mobati nga mas personal kaysa usa ka dako nga kahikayan sa mga dekorasyon. Pagpili og usa ka kolor, usa ka mubo nga mensahe, o usa ka gamay nga motif nga importante sa host. Kon ang cake gamay ra, biyai ang lawak alang sa inskripsiyon ug likayi ang pagpadala og mga pakisayran nga nagpakita sa nagkasumpaki nga mga estilo.
-
-Pagpadala usa ka tin-aw nga imahe ug isulti ang White Cake kung unsang elemento ang ipahiangay. Pangutan-a kung ang gihangyo nga disenyo mohaum sa gipili nga gidak-on ug unsa nga presyo ang idugang niini. Ang reperensya nga litrato dili makagarantiya sa eksaktong kopya. Kung ang usa ka piho nga kolor o istilo sa letra kinahanglanon, kumpirmahi kini sa pagsulat sa dili pa mahuman ang order.
-
-Pilia ang gidak-on base sa cake eaters. Ang 4-pulgada nga Bento nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga mga bahin; Ang 6 ka pulgada gibanabana nga 8–12 ka hiwa sa partido. Sultihi ang panaderya kon naa bay ubang dessert. Ilakip ang petsa, lami, ug plano sa pagpadala, ug tugoti ang labing menos tulo ka adlaw nga pahibalo. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Paggamit usa ka tinuod, gi-clear nga pagtugot nga close-up alang sa usa ka piho nga pananglitan sa disenyo. Kung dili, i-integrate ang tambag sa gamay nga panghitabo sa naglungtad nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng disenyo na akma sa isang maliit na pagtitipon
-
-Para sa isang matalik na kaganapan, ang isang nakatutok na disenyo ay maaaring maging mas personal kaysa sa isang malaking pag-aayos ng mga dekorasyon. Pumili ng isang kulay, isang maikling mensahe, o isang maliit na motif na mahalaga sa host. Kung compact ang cake, mag-iwan ng puwang para sa inskripsiyon at iwasang magpadala ng mga reference na nagpapakita ng magkasalungat na istilo.
-
-Magpadala ng isang malinaw na larawan at sabihin sa White Cake kung aling elemento ang iaangkop. Itanong kung ang hiniling na disenyo ay umaangkop sa napiling laki at kung anong presyo ang idinaragdag nito. Ang isang reference na larawan ay hindi ginagarantiyahan ang eksaktong kopya. Kung ang isang partikular na kulay o istilo ng pagkakasulat ay mahalaga, kumpirmahin ito sa pamamagitan ng pagsulat bago ma-finalize ang order.
-
-Piliin ang laki batay sa mga kumakain ng cake. Ang 4-pulgadang Bento ay naghahain ng halos dalawang mapagbigay o tatlong katamtamang bahagi; Ang 6 na pulgada ay tinatantya sa 8–12 party slice. Sabihin sa panaderya kung may iba pang panghimagas. Isama ang petsa, lasa, at plano ng paghahatid, at payagan ang hindi bababa sa tatlong araw na paunawa. Kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Gumamit ng isang tunay, na-clear ng pahintulot na close-up para sa isang partikular na halimbawa ng disenyo. Kung hindi, isama ang payo sa maliit na kaganapan sa umiiral na gabay sa disenyo.
+- Confirm current availability and order-specific care guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

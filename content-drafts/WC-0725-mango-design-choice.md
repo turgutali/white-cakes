@@ -1,38 +1,39 @@
 ---
 id: WC-0725
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; verify current mango product and use real approved photos
 english_title: "How to choose a design for mango cake in Cebu"
 cebuano_title: "Giunsa pagpili og disenyo para sa mango cake sa Cebu"
 tagalog_title: "Paano pumili ng disenyo para sa mango cake sa Cebu"
 ---
 
-## Make the design clear without assuming what the mango option contains
+## English
 
-Choose one decorative direction that suits the occasion: a colour accent, short greeting, or simple border. Share a reference and tell the bakery what part you want adapted. The cake’s appearance does not confirm its flavour or ingredients, so check the current mango option and product details directly.
+# How to choose a design for mango cake in Cebu
 
-Confirm the size, serving estimate, exact inscription, date, and budget. Ask whether the design fits the selected cake and whether the current quote includes it. If there are allergies or dietary needs, talk to the bakery rather than relying on a flavour name.
+Choose a mango cake design only after confirming which mango product and finish the bakery can make. Decide whether the event should be signalled by a name, a short inscription, or a decorative theme; too many competing details can make the cake hard to read.
 
-Keep design advice in the shared guide and current product details in the live flavour listing. A distinct gallery needs real approved photos and a useful visual explanation.
+If you want fruit imagery or actual fruit decoration, ask what is feasible for the confirmed product and date. Use original, approved photos for examples and never imply a past cake is currently orderable. Confirm the final design and quote in writing.
+
+## Cebuano
+
+# Giunsa pagpili og disenyo para sa mango cake sa Cebu
+
+Pilia ang disenyo sa mango cake human makumpirma unsang produkto ug finish ang mahimo sa panaderya. Desisyoni kon ngalan, mubo nga inskripsiyon o tema ang mopaila sa event; mahimong lisod basahon kon daghang detalye ang mag-ilog sa atensyon.
+
+Kon gusto og hulagway sa prutas o dekorasyon nga prutas mismo, pangutan-a unsay mahimo sa produkto ug petsa. Gamita ang original ug aprubadong litrato; ayaw ipasabot nga orderable karon ang karaang cake. Kumpirmaha sa sinulat ang final nga disenyo ug quote.
+
+## Tagalog
+
+# Paano pumili ng disenyo para sa mango cake sa Cebu
+
+Piliin ang design ng mango cake matapos kumpirmahin kung aling produkto at finish ang kayang gawin ng bakery. Magpasya kung pangalan, maikling inscription, o temang dekorasyon ang magpapakilala sa event; maaaring mahirap basahin ang cake kapag maraming detalye ang naglalaban.
+
+Kung gusto ng fruit imagery o aktuwal na dekorasyong prutas, itanong kung ano ang posible para sa kumpirmadong produkto at petsa. Gumamit ng orihinal at aprubadong larawan; huwag ipahiwatig na mabibili pa ang lumang cake. Kumpirmahin sa sulat ang pinal na design at quote.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Himoa nga tin-aw ang desinyo nga dili maghunahuna kung unsa ang sulod sa opsyon sa mangga
-
-Pagpili og usa ka dekorasyon nga direksyon nga mohaum sa okasyon: usa ka kolor nga accent, mubo nga pagtimbaya, o yano nga utlanan. Ipaambit ang usa ka pakisayran ug isulti sa panaderya kung unsa nga bahin ang gusto nimong ipahiangay. Ang hitsura sa cake wala magkumpirma sa lami o sangkap niini, busa susiha ang kasamtangan nga kapilian sa mangga ug mga detalye sa produkto direkta.
-
-Kumpirma ang gidak-on, banabana sa pagserbisyo, eksaktong inskripsiyon, petsa, ug badyet. Pangutan-a kon ang disenyo mohaum ba sa pinili nga cake ug kon ang kasamtangan nga kinutlo naglakip niini. Kung adunay mga alerdyi o mga panginahanglanon sa pagkaon, pakigsulti sa panaderya kaysa magsalig sa ngalan sa lami.
-
-Ipadayon ang tambag sa disenyo sa gipaambit nga giya ug karon nga mga detalye sa produkto sa lista sa live nga lami. Ang usa ka lahi nga gallery nanginahanglan tinuod nga gi-aprubahan nga mga litrato ug usa ka mapuslanon nga pagpatin-aw sa panan-aw.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gawing malinaw ang disenyo nang hindi ipinapalagay kung ano ang nilalaman ng pagpipiliang mangga
-
-Pumili ng isang pandekorasyon na direksyon na angkop sa okasyon: isang color accent, maikling pagbati, o simpleng border. Magbahagi ng sanggunian at sabihin sa panaderya kung anong bahagi ang gusto mong iakma. Ang hitsura ng cake ay hindi kumpirmahin ang lasa o mga sangkap nito, kaya tingnan ang kasalukuyang opsyon ng mangga at mga detalye ng produkto nang direkta.
-
-Kumpirmahin ang laki, pagtatantya ng paghahatid, eksaktong inskripsiyon, petsa, at badyet. Itanong kung ang disenyo ay akma sa napiling cake at kung ang kasalukuyang quote ay kasama ito. Kung may mga allergy o pangangailangan sa pagkain, makipag-usap sa panaderya sa halip na umasa sa pangalan ng lasa.
-
-Panatilihin ang payo sa disenyo sa nakabahaging gabay at kasalukuyang mga detalye ng produkto sa listahan ng live na lasa. Ang isang natatanging gallery ay nangangailangan ng mga tunay na inaprubahang larawan at isang kapaki-pakinabang na visual na paliwanag.
+- Verify current menu, availability, ordering terms, ingredients, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

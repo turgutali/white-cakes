@@ -1,44 +1,45 @@
 ---
 id: WC-0699
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /journal/vanilla-cake-cebu.html
 english_title: "What to confirm before paying a deposit for vanilla cake in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa vanilla cake sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa vanilla cake sa Cebu"
 ---
 
-## Confirm the vanilla cake details before paying
+## English
 
-Before the deposit, make sure White Cakes has confirmed the order date, cake format and size, vanilla flavour, design, inscription, total price, and pickup or delivery plan. The menu lists vanilla as a flavour; any additional filling, topping, or special finish should be asked about and confirmed separately.
+# What to confirm before paying a deposit for vanilla cake in Cebu
 
-If the design is custom, send one reference photo and explain the colour or piped detail you want interpreted. Ask whether it fits the selected size and how it affects the quote. A reference does not guarantee an exact copy, and a sample image does not by itself set the price.
+Before paying for vanilla cake, check that the quote names the confirmed flavour option and matches the approved design, size, date, and delivery address. A flavour may be unavailable or defined differently from what the organizer assumes, so resolve that in writing first.
 
-For delivery, confirm the full address, landmark, receiver's mobile number, access instructions, delivery charge, and agreed window. White Cakes requests at least three days' notice; the date is not reserved until the bakery confirms availability.
+White Cakes’ published order guidance states a 50% deposit after agreement on the final price and details. Verify current payment instructions and balance timing directly. Make sure the company approver has accepted the same quote version and any invoice requirements are clear.
 
-The ordering page says a 50% deposit confirms an agreed order. Ask for payment method and remaining-balance details in the bakery's reply, and keep the written confirmation with your order. This checklist belongs in the common order guide, with vanilla-specific flavour details on the existing vanilla page.
+Keep written acknowledgement of the order and payment. Ask how a change to flavour, size, or delivery point affects the schedule and price. Review the [ordering guide](/journal/how-to-order.html) and confirm the current vanilla listing.
+
+## Cebuano
+
+# Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa vanilla cake sa Cebu
+
+Sa dili pa mobayad sa vanilla cake, susiha nga klaro sa quote ang nakumpirmang flavour ug pareho sa giaprubahang disenyo, gidak-on, petsa ug delivery address. Mahimong dili available o lahi ang kahulugan sa flavour sa gituohan sa organizer, busa kumpirmaha kini sa sinulat una.
+
+Nag-ingon ang giya sa White Cakes nga 50% nga deposit human mouyon sa final nga presyo ug detalye. Kumpirmaha direkta ang kasamtangang instruksyon sa bayad ug oras sa balanse. Siguroha nga pareho nga bersyon sa quote ang giuyonan sa approver ug klaro ang invoice requirements.
+
+Tipigi ang sinulat nga pag-ila sa order ug bayad. Pangutan-a unsay epekto sa iskedyul ug presyo kon mausab ang flavour, gidak-on o drop-off point. Basaha ang [giya sa pag-order](/journal/how-to-order.html) ug kumpirmaha ang kasamtangang vanilla listing.
+
+## Tagalog
+
+# Ano ang dapat kumpirmahin bago magbayad ng deposito para sa vanilla cake sa Cebu
+
+Bago magbayad para sa vanilla cake, tiyaking nakasaad sa quote ang kumpirmadong flavor at tugma ito sa aprubadong design, sukat, petsa, at delivery address. Maaaring hindi available o iba sa inaakala ng organizer ang ibig sabihin ng flavor, kaya kumpirmahin muna ito sa sulat.
+
+Nasa gabay sa pag-order ng White Cakes ang 50% na deposito matapos mapagkasunduan ang pinal na presyo at detalye. Direktang kumpirmahin ang kasalukuyang payment instructions at takdang bayad ng balanse. Tiyaking parehong bersyon ng quote ang inaprubahan at malinaw ang invoice requirements.
+
+Itago ang nakasulat na pagkilala sa order at bayad. Itanong kung paano maaapektuhan ang iskedyul at presyo ng pagbabago sa flavor, sukat, o drop-off point. Basahin ang [gabay sa pag-order](/journal/how-to-order.html) at kumpirmahin ang kasalukuyang vanilla listing.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang mga detalye sa vanilla cake sa dili pa mobayad
-
-Sa dili pa ang pagdeposito, siguroha nga ang White Cakes nakumpirma ang petsa sa pag-order, porma ug gidak-on sa cake, lami sa vanilla, disenyo, inskripsiyon, kinatibuk-ang presyo, ug plano sa pagkuha o paghatod. Ang menu naglista sa vanilla isip usa ka lami; ang bisan unsang dugang nga pagpuno, pagpuno, o espesyal nga paghuman kinahanglan pangutan-on ug kumpirmahon nga gilain.
-
-Kung naandan ang disenyo, ipadala ang usa ka litrato sa pakisayran ug ipasabut ang kolor o detalye sa pipe nga gusto nimo mahubad. Pangutan-a kung mohaum ba kini sa gipili nga gidak-on ug kung giunsa kini makaapekto sa kinutlo. Ang usa ka reperensiya dili makagarantiya sa usa ka eksaktong kopya, ug ang usa ka sampol nga hulagway dili sa iyang kaugalingon magtakda sa presyo.
-
-Para sa paghatod, kumpirmahi ang kompleto nga adres, landmark, mobile number sa receiver, instruksyon sa pag-access, bayad sa pagpadala, ug gikasabotan nga bintana. Ang White Cake nangayo ug labing menos tulo ka adlaw nga pahibalo; ang petsa wala gireserba hangtod ang panaderya nagpamatuod sa pagkaanaa.
-
-Ang panid sa pag-order nag-ingon nga ang usa ka 50% nga deposito nagpamatuod sa usa ka giuyonan nga order. Pangayo alang sa pamaagi sa pagbayad ug mga detalye sa nahabilin nga balanse sa tubag sa panaderya, ug itago ang nakasulat nga kumpirmasyon sa imong order. Kini nga checklist nahisakop sa komon nga giya sa han-ay, nga adunay mga detalye sa lami nga espesipiko sa vanilla sa kasamtangan nga panid sa vanilla.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang mga detalye ng vanilla cake bago magbayad
-
-Bago ang deposito, tiyaking kinumpirma ng White Cakes ang petsa ng order, format at laki ng cake, lasa ng vanilla, disenyo, inskripsiyon, kabuuang presyo, at plano ng pickup o paghahatid. Ang menu ay naglilista ng banilya bilang isang lasa; anumang karagdagang pagpuno, topping, o espesyal na pagtatapos ay dapat itanong at kumpirmahin nang hiwalay.
-
-Kung custom ang disenyo, magpadala ng isang reference na larawan at ipaliwanag ang kulay o piped na detalye na gusto mong bigyang kahulugan. Itanong kung umaangkop ito sa napiling laki at kung paano ito nakakaapekto sa quote. Ang isang sanggunian ay hindi ginagarantiyahan ang isang eksaktong kopya, at ang isang sample na larawan ay hindi mismo ang nagtatakda ng presyo.
-
-Para sa paghahatid, kumpirmahin ang buong address, landmark, numero ng mobile ng tatanggap, mga tagubilin sa pag-access, singil sa paghahatid, at napagkasunduang window. Ang White Cakes ay humihiling ng hindi bababa sa tatlong araw na paunawa; ang petsa ay hindi nakalaan hanggang sa makumpirma ng panaderya ang pagkakaroon.
-
-Ang pahina ng pag-order ay nagsasabi na ang isang 50% na deposito ay nagkukumpirma ng isang napagkasunduang order. Humingi ng paraan ng pagbabayad at mga detalye ng natitirang balanse sa tugon ng panaderya, at panatilihin ang nakasulat na kumpirmasyon kasama ng iyong order. Ang checklist na ito ay kabilang sa karaniwang gabay sa pagkakasunud-sunod, na may mga detalye ng lasa na partikular sa vanilla sa kasalukuyang page ng vanilla.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

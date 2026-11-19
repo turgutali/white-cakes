@@ -1,38 +1,39 @@
 ---
 id: WC-0755
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html; confirm current flavour availability
 english_title: "How to plan red velvet cake in Cebu"
 cebuano_title: "Giunsa pagplano ang red velvet cake sa Cebu"
 tagalog_title: "Paano planuhin ang red velvet cake sa Cebu"
 ---
 
-## Estimate the number of portions before confirming red velvet
+## English
 
-Count the guests who will actually take cake and whether it is served after a meal. Tell the bakery if you prefer modest portions or party slices and ask which size suits the group. Flavour does not affect the serving count, so keep that decision separate.
+# How to plan red velvet cake in Cebu
 
-Current estimates list 8–12 party slices for a 6-inch cake, 16–24 for an 8-inch cake, and 30–36 for a 6+8-inch two-tier cake. These are approximate; confirm the expected yield and whether red velvet is available for the date.
+For a large gathering, estimate likely cake eaters after accounting for meals and other desserts. Decide whether the company wants small tasting slices or full party portions and assign a person to cut the cake. Ask the bakery for a size recommendation tied to its current red velvet format.
 
-Keep portion ranges in the central size guide and flavour availability in the live flavour guide. Do not assume standard sizes serve a large event without bakery confirmation.
+An 8-inch round is roughly 16–24 party slices and a common 6+8-inch two-tier about 30–36; height and cutting change actual servings. Confirm availability for the date and check the venue’s display and storage capacity.
+
+## Cebuano
+
+# Giunsa pagplano ang red velvet cake sa Cebu
+
+Para sa dakong tapok, banabanaa ang mokaon human ikonsiderar ang pagkaon ug laing dessert. Desisyoni kon gagmayng tilaw o full party portion ang gusto sa kompanya ug pagtudlo og mohiwa. Pangayo og gidak-on nga rekomendasyon base sa kasamtangang red velvet format.
+
+Mga 16–24 ka party slice ang 8-inch round ug 30–36 ang kasagarang 6+8-inch nga two-tier; makausab ang kataas ug paghiwa. Kumpirmaha ang availability sa petsa ug kapasidad sa venue sa display ug storage.
+
+## Tagalog
+
+# Paano planuhin ang red velvet cake sa Cebu
+
+Para sa malaking pagtitipon, tantiyahin ang kakain matapos isaalang-alang ang pagkain at ibang dessert. Magpasya kung maliit na tikim o full party portion ang gusto ng kumpanya at magtalaga ng maghihiwa. Humingi ng rekomendasyon sa sukat batay sa kasalukuyang red velvet format ng bakery.
+
+Mga 16–24 party slice ang 8-inch na round at 30–36 ang karaniwang 6+8-inch na two-tier; nakaaapekto ang taas at paghiwa. Kumpirmahin ang availability sa petsa at kapasidad ng venue para sa display at storage.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ibanabana ang gidaghanon sa mga bahin sa dili pa kumpirmahon ang red velvet
-
-Pag-ihap sa mga bisita nga mokuha gyud ug cake ug kung ihain ba kini human sa pagpangaon. Sultihi ang panaderya kung gusto nimo ang kasarangan nga mga bahin o mga hiwa sa partido ug pangutana kung unsang gidak-on ang angay sa grupo. Ang lami dili makaapekto sa ihap sa pag-alagad, busa ibulag kana nga desisyon.
-
-Ang kasamtangan nga mga banabana naglista og 8–12 ka party slices para sa 6-pulgada nga cake, 16–24 para sa 8-pulgada nga cake, ug 30–36 para sa 6+8-pulgada nga duha-ka-tier nga cake. Kini mga gibanabana; pagmatuod sa gipaabot nga abot ug kon ang red velvet anaa ba alang sa petsa.
-
-Itago ang mga han-ay sa bahin sa giya sa sentral nga gidak-on ug pagkaanaa sa lami sa live nga giya sa lami. Ayaw isipa ang mga standard nga gidak-on nagsilbi sa usa ka dako nga panghitabo nga walay kumpirmasyon sa panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang bilang ng mga bahagi bago kumpirmahin ang red velvet
-
-Bilangin ang mga bisita na talagang kukuha ng cake at kung ihain ito pagkatapos kumain. Sabihin sa panaderya kung mas gusto mo ang mga katamtamang bahagi o mga hiwa ng party at itanong kung aling sukat ang nababagay sa grupo. Hindi nakakaapekto ang lasa sa bilang ng paghahatid, kaya panatilihing hiwalay ang desisyong iyon.
-
-Ang mga kasalukuyang pagtatantya ay naglilista ng 8–12 party slice para sa isang 6-inch na cake, 16–24 para sa isang 8-inch na cake, at 30–36 para sa isang 6+8-inch na two-tier na cake. Ang mga ito ay tinatayang; kumpirmahin ang inaasahang ani at kung ang red velvet ay magagamit para sa petsa.
-
-Panatilihin ang mga saklaw ng bahagi sa gabay sa gitnang laki at availability ng lasa sa live na gabay sa lasa. Huwag ipagpalagay na ang mga karaniwang sukat ay nagsisilbi sa isang malaking kaganapan nang walang kumpirmasyon sa panaderya.
+- Verify current menu, ingredients, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,45 @@
 ---
 id: WC-0693
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
 english_title: "What to write on vanilla cake in Cebu"
 cebuano_title: "Unsa ang isulat sa ibabaw sa vanilla cake sa Cebu"
 tagalog_title: "Ano ang isusulat sa ibabaw ng vanilla cake sa Cebu"
 ---
 
-## Choose a short inscription for a vanilla cake
+## English
 
-Keep the message focused on the recipient or occasion. A name, a short greeting, or a date can be easier to read than a long sentence. These are general suggestions, not actual White Cakes customer messages. Ask whether the exact wording fits the selected design and size.
+# What to write on vanilla cake in Cebu
 
-Send the final text in one message with spelling, capitalization, and punctuation checked. If you want Cebuano or Tagalog wording, ask a fluent speaker to verify tone and spelling before giving it to the bakery. Do not assume a particular font or colour can be reproduced from an online reference.
+Keep the vanilla cake inscription short enough to remain readable at the chosen size. Pick one purpose—name, occasion, or a brief greeting—then send exact spelling, punctuation, and capitalization in a single approved message. Avoid asking the bakery to interpret several versions from a group chat.
 
-White Cakes lists Vanilla among its current flavours; confirm availability for the requested date. Include the size, serving estimate, design, and pickup or delivery plan. The 4-inch Bento is intended for two generous or three modest servings; larger groups should confirm another size. Made-to-order cakes need at least three days' notice, and a 50% deposit secures the agreed order.
+If the message includes a company name or mark, confirm permission and ask how it will be applied. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask for a feasible lettering treatment and approve it in writing.
 
-Add concise examples to the existing message guide and link to current flavour details.
+Proofread the final text before payment and leave enough clear space in the design. See [Cebu cake message ideas](/journal/birthday-cake-message-ideas-cebu.html) for concise wording prompts.
+
+## Cebuano
+
+# Unsa ang isulat sa ibabaw sa vanilla cake sa Cebu
+
+Hupti nga mubo ang inskripsiyon sa vanilla cake aron mabasa sa napiling gidak-on. Pilia ang usa ka katuyoan—ngalan, okasyon o mubo nga pangumusta—unya ipadala ang eksaktong spelling, punctuation ug capitalization sa usa ka mensahe. Likayi ang daghang bersyon sa group chat nga panaderya pa ang mopili.
+
+Kon apil ang ngalan o marka sa kompanya, kumpirmaha ang permiso ug pangutan-a unsaon kini ibutang. Kamot nga gipiping ang buttercream sa White Cakes ug walay edible printed logo sheets. Pangayo og mahimo nga pamaagi sa lettering ug aprubahan kini sa sinulat.
+
+Basaha pag-usab ang final nga teksto sa dili pa mobayad ug bilini og luna ang disenyo. Tan-awa ang [mga ideya sa mensahe sa cake sa Cebu](/journal/birthday-cake-message-ideas-cebu.html) para sa mubo nga pulong.
+
+## Tagalog
+
+# Ano ang isusulat sa ibabaw ng vanilla cake sa Cebu
+
+Panatilihing maikli ang inscription sa vanilla cake para mabasa sa napiling sukat. Pumili ng iisang layunin—pangalan, okasyon, o maikling pagbati—at ipadala ang eksaktong spelling, punctuation, at capitalization sa iisang aprubadong mensahe. Iwasang ipaubaya sa bakery ang pagpili sa magkakaibang bersyon sa group chat.
+
+Kung kasama ang pangalan o marka ng kumpanya, kumpirmahin ang pahintulot at itanong kung paano ito ilalagay. Mano-manong ipinipipe ng White Cakes ang buttercream at wala itong edible printed logo sheets. Humingi ng posibleng lettering treatment at aprubahan ito sa sulat.
+
+Basahin muli ang pinal na teksto bago magbayad at maglaan ng espasyo sa design. Tingnan ang [mga ideya ng mensahe sa cake sa Cebu](/journal/birthday-cake-message-ideas-cebu.html) para sa maiikling wording prompt.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili usa ka mubo nga inskripsiyon para sa usa ka vanilla cake
-
-Ipadayon ang mensahe nga naka-focus sa nakadawat o okasyon. Ang usa ka ngalan, usa ka mubo nga pagtimbaya, o usa ka petsa mahimong dali nga basahon kaysa usa ka taas nga sentence. Kinatibuk-ang mga sugyot kini, dili aktuwal nga mensahe sa kustomer sa White Cakes. Pangutan-a kon ang eksaktong pulong mohaom ba sa pinili nga disenyo ug gidak-on.
-
-Ipadala ang kataposang teksto sa usa ka mensahe nga gi-tsek ang spelling, capitalization, ug punctuation. Kung gusto nimo ang Cebuano o Tagalog nga mga pulong, hangyoa ang usa ka larino nga mamumulong sa pagsusi sa tono ug spelling sa dili pa ihatag kini sa panaderya. Ayaw paghunahuna nga ang usa ka partikular nga font o kolor mahimong kopyahon gikan sa usa ka online nga pakisayran.
-
-Gilista sa White Cakes ang Vanilla sa mga lami niini; kumpirmahi ang pagkaanaa alang sa gihangyo nga petsa. Ilakip ang gidak-on, banabana sa pagserbisyo, disenyo, ug plano sa pagkuha o paghatud. Ang 4-pulgada nga Bento gituyo alang sa duha ka manggihatagon o tulo ka kasarangan nga pag-alagad; mas dako nga mga grupo kinahanglan nga mokumpirma sa lain nga gidak-on. Ang made-to-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagsiguro sa gikasabutan nga order.
-
-Idugang ang mugbo nga mga pananglitan sa kasamtangan nga giya sa mensahe ug i-link sa kasamtangan nga mga detalye sa lami.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng maikling inskripsiyon para sa isang vanilla cake
-
-Panatilihing nakatutok ang mensahe sa tatanggap o okasyon. Ang isang pangalan, isang maikling pagbati, o isang petsa ay maaaring mas madaling basahin kaysa sa isang mahabang pangungusap. Ito ay mga pangkalahatang mungkahi, hindi ang aktwal na mga mensahe ng customer ng White Cakes. Itanong kung ang eksaktong mga salita ay akma sa napiling disenyo at sukat.
-
-Ipadala ang huling text sa isang mensahe na may naka-check na spelling, capitalization, at bantas. Kung gusto mo ng Cebuano o Tagalog na mga salita, hilingin sa isang fluent speaker na i-verify ang tono at spelling bago ito ibigay sa panaderya. Huwag ipagpalagay na ang isang partikular na font o kulay ay maaaring kopyahin mula sa isang online na sanggunian.
-
-Inililista ng White Cakes ang Vanilla sa mga kasalukuyang lasa nito; kumpirmahin ang pagkakaroon para sa hiniling na petsa. Isama ang laki, pagtatantya ng paghahatid, disenyo, at plano ng pickup o paghahatid. Ang 4-inch Bento ay inilaan para sa dalawang mapagbigay o tatlong katamtamang serving; dapat kumpirmahin ng mas malalaking grupo ang isa pang laki. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang isang 50% na deposito ay sinisiguro ang napagkasunduang order.
-
-Magdagdag ng mga maiikling halimbawa sa umiiral nang gabay sa mensahe at mag-link sa mga kasalukuyang detalye ng lasa.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0622
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to plan cake for a small intimate gathering in Cebu"
-cebuano_title: "Giunsa pagplano ang cake para sa gamay ug suod nga panagtigom sa Cebu"
-tagalog_title: "Paano planuhin ang cake para sa maliit at malapit na pagtitipon sa Cebu"
+english_title: "How to Plan Cake for a Small Gathering with a Larger Guest Count"
+cebuano_title: "Giunsa Pagplano sa Cake para sa Gamay nga Tapok nga Daghan ang Bisita"
+tagalog_title: "Paano Magplano ng Cake para sa Maliit na Pagtitipon na Marami ang Bisita"
 ---
 
-## Choose a size for the people who will actually share dessert
+## English
 
-For a small gathering, count likely cake eaters and consider whether the event includes a meal or other desserts. Tell the bakery whether the group wants modest portions or a generous slice each, then ask which size fits. Do not choose a larger cake just because the occasion feels important.
+# How to Plan Cake for a Small Gathering with a Larger Guest Count
 
-The 4-inch Bento is described as about two generous servings or three modest ones. Confirm this current estimate and availability for your date. For a few more guests, ask the bakery to recommend a size based on the actual group and cutting style.
+“Small gathering” can describe the setting, not the number of people. If a home or private room will host a larger family group, count expected guests at serving time and decide how cake portions fit with the meal and other desserts.
 
-Keep the verified portion guidance in the central size guide and link it from the design and order pages for intimate events.
+The site estimates 8–12 party slices from a 6-inch round, 16–24 from an 8-inch round, and 30–36 from a common 6+8-inch two-tier. These are approximate, and the design and cutting style affect yield. Confirm a size with the bakery using the actual guest count.
+
+Check the table space and who will receive the cake. A larger cake may need a clear place to wait before serving and a plan for cutting. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Cake para sa Gamay nga Tapok nga Daghan ang Bisita
+
+Mahimong nagpasabot ang “small gathering” sa setting, dili sa gidaghanon sa tawo. Kon daghang pamilya ang magtapok sa balay o private room, ihap ang gilaoman nga bisita sa oras sa pag-serve ug desisyoni unsaon pagpahaum sa cake sa pagkaon ug ubang dessert.
+
+Gibanabana sa site ang 8–12 ka party slice gikan sa 6-inch round, 16–24 gikan sa 8-inch round ug 30–36 gikan sa kasagarang 6+8-inch two-tier. Banabana kini ug makaapekto ang disenyo ug paagi sa paghiwa sa yield. Kumpirmaha sa panaderya ang gidak-on base sa tinuod nga ihap sa bisita.
+
+Susiha ang luna sa lamesa ug kinsa ang modawat sa cake. Mahimong manginahanglan og klarong hulatanan ug cutting plan ang mas dako nga cake. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Magplano ng Cake para sa Maliit na Pagtitipon na Marami ang Bisita
+
+Maaaring tumukoy ang “small gathering” sa venue, hindi sa bilang ng tao. Kung malaking pamilya ang magtitipon sa bahay o pribadong silid, bilangin ang inaasahang bisita sa oras ng paghahain at pagpasiyahan kung paano babagay ang cake sa kainan at iba pang dessert.
+
+Tinatantiya ng site ang 8–12 party slice mula sa 6-inch round, 16–24 mula sa 8-inch round, at 30–36 mula sa karaniwang 6+8-inch two-tier. Tantiya ang mga ito at nakaaapekto sa yield ang design at paghiwa. Kumpirmahin sa bakery ang sukat batay sa aktuwal na bilang ng bisita.
+
+Suriin ang espasyo sa mesa at kung sino ang tatanggap ng cake. Maaaring kailanganin ng mas malaking cake ang malinaw na lugar na paghihintayan at cutting plan. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og gidak-on para sa mga tawo nga mopaambit gyud og dessert
-
-Alang sa usa ka gamay nga panagtapok, pag-ihap nga lagmit mokaon og cake ug hunahunaa kung ang kalihokan naglakip sa usa ka pagkaon o uban pang mga dessert. Sultihi ang panaderya kon gusto ba sa grupo ang kasarangan nga mga bahin o usa ka ubay-ubay nga hiwa matag usa, dayon pangutana kung unsang gidak-on ang mohaum. Ayaw pagpili og mas dako nga cake tungod lang kay importante ang okasyon.
-
-Ang 4-pulgada nga Bento gihulagway nga mga duha ka manggihatagon nga pag-alagad o tulo ka kasarangan. Kumpirma kining kasamtangang banabana ug anaa alang sa imong petsa. Alang sa pipila pa nga mga bisita, hangyoa ang panaderya sa pagrekomenda sa usa ka gidak-on base sa aktwal nga grupo ug estilo sa pagputol.
-
-Itago ang gipamatud-an nga giya sa bahin sa giya sa sentral nga gidak-on ug i-link kini gikan sa disenyo ug mga panid sa pag-order alang sa suod nga mga panghitabo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng sukat para sa mga taong talagang magsasalo ng dessert
-
-Para sa isang maliit na pagtitipon, bilangin ang malamang na kumakain ng cake at isaalang-alang kung ang kaganapan ay may kasamang pagkain o iba pang mga dessert. Sabihin sa panaderya kung gusto ng grupo ng mga katamtamang bahagi o isang masaganang hiwa bawat isa, pagkatapos ay itanong kung aling sukat ang akma. Huwag pumili ng mas malaking cake dahil lang sa pakiramdam na mahalaga ang okasyon.
-
-Ang 4-pulgadang Bento ay inilalarawan bilang mga dalawang masaganang serving o tatlong katamtaman. Kumpirmahin ang kasalukuyang pagtatantya at availability para sa iyong petsa. Para sa ilan pang bisita, hilingin sa panaderya na magrekomenda ng laki batay sa aktwal na grupo at istilo ng pagputol.
-
-Panatilihin ang na-verify na gabay sa bahagi sa gabay sa gitnang laki at i-link ito mula sa mga pahina ng disenyo at order para sa mga intimate na kaganapan.
+- Verify current size and order availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

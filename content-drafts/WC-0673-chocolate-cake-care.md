@@ -1,38 +1,45 @@
 ---
 id: WC-0673
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm storage advice for the current chocolate cake
-english_title: "How to keep safe and cool until serving chocolate cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang chocolate cake sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang chocolate cake sa Cebu"
+english_title: \"How to keep safe and cool until serving chocolate cake in Cebu\"
+cebuano_title: \"Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang chocolate cake sa Cebu\"
+tagalog_title: \"Paano panatilihing ligtas at malamig hanggang ihain ang chocolate cake sa Cebu\"
 ---
 
-## Ask for storage instructions for the chocolate cake you actually ordered
+## English
 
-The flavour alone does not tell you how a cake should be stored. Ask White Cakes about the specific chocolate option, filling, and decoration and tell it when the cake will arrive and be served. If the venue is warm or outdoors, mention that when requesting care advice.
+# How to keep safe and cool until serving chocolate cake in Cebu
 
-Have someone receive the cake promptly, keep the box level, and protect it from direct sunlight. Follow the bakery’s instructions about refrigeration and serving time. If the event is delayed, ask the baker before leaving the cake out longer than planned.
+Do not assume that every chocolate cake needs identical storage: the correct handling can depend on its ingredients and finish. Ask the bakery for instructions for the exact cake and the expected wait before serving. Arrange a cool, shaded spot and check whether refrigeration is appropriate and available.
 
-Keep verified information in the central care guide and current flavour details in the flavour guide. Avoid a universal safe-time claim.
+Keep the cake level, boxed, and away from sunlight, hot equipment, and a parked car. Assign one person to monitor it and coordinate when it moves to the serving table. If the event venue cannot provide the needed storage, discuss timing with the bakery before booking.
+
+Use the bakery’s product-specific guidance rather than a universal room-temperature rule. Confirm the care plan with the venue and include it in the event handoff notes. For Cebu heat considerations, see the [cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Cebuano
+
+# Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang chocolate cake sa Cebu
+
+Ayaw pagtuo nga pareho ang storage sa tanang chocolate cake: magdepende ang hustong pag-atiman sa sangkap ug finish. Pangayo og instruksyon sa panaderya para sa eksaktong cake ug gidugayon sa paghulat sa pag-serve. Pangandam og bugnaw ug landong nga dapit; kumpirmaha kon angay ug available ang refrigerator.
+
+Ipatag ug ibutang sa kahon ang cake, ipahilayo sa adlaw, init nga kagamitan ug giparking nga sakyanan. Pagtudlo og usa ka tawo nga mobantay ug mo-coordinate sa pagbalhin sa lamesa sa pag-serve. Kon walay storage ang venue, hisguti ang timing sa panaderya sa dili pa magpa-book.
+
+Sunda ang instruksyon sa panaderya para sa partikular nga produkto imbes universal nga lagda sa temperatura sa kwarto. Kumpirmaha ang plano sa venue ug iapil sa event handoff notes. Para sa kainit sa Cebu, tan-awa ang [giya sa pag-atiman sa cake](/journal/buttercream-in-cebu-heat.html).
+
+## Tagalog
+
+# Paano panatilihing ligtas at malamig hanggang ihain ang chocolate cake sa Cebu
+
+Huwag ipagpalagay na pare-pareho ang storage ng bawat chocolate cake: maaaring magdepende ang tamang paghawak sa sangkap at finish. Humingi sa bakery ng tagubilin para sa eksaktong cake at tagal ng paghihintay bago ihain. Maghanda ng malamig at may-lilim na lugar; tiyaking angkop at available ang refrigerator.
+
+Panatilihing pantay at nasa kahon ang cake, malayo sa araw, mainit na kagamitan, at nakaparadang sasakyan. Magtalaga ng isang magbabantay at mag-uugnay kung kailan ito ililipat sa mesa. Kung walang kinakailangang storage ang venue, pag-usapan ang timing sa bakery bago mag-book.
+
+Sundin ang gabay ng bakery para sa partikular na produkto sa halip na pangkalahatang tuntunin sa room temperature. Kumpirmahin ang plano sa venue at isama ito sa event handoff notes. Para sa init sa Cebu, tingnan ang [gabay sa pag-aalaga ng cake](/journal/buttercream-in-cebu-heat.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo alang sa mga panudlo sa pagtipig alang sa chocolate cake nga imong gi-order
-
-Ang lami lamang wala magsulti kanimo kung unsaon pagtipig sa usa ka cake. Pangutan-a ang mga White Cakes bahin sa piho nga kapilian sa tsokolate, pagpuno, ug dekorasyon ug isulti kini kung kanus-a moabut ang cake ug ihain. Kung ang lugar init o sa gawas, isulti kana kung mangayo tambag sa pag-atiman.
-
-Ipadawat dayon ang usa ka tawo sa cake, ipabilin ang lebel sa kahon, ug panalipdan kini gikan sa direktang kahayag sa adlaw. Sunda ang mga panudlo sa panaderya bahin sa pagpabugnaw ug oras sa pagserbisyo. Kon malangan ang panghitabo, pangutan-a ang panadero sa dili pa biyaan ang cake nga mas dugay kay sa giplano.
-
-Itago ang gipamatud-an nga kasayuran sa sentro nga giya sa pag-atiman ug ang karon nga mga detalye sa lami sa giya sa lami. Likayi ang unibersal nga luwas nga panahon nga pag-angkon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humingi ng mga tagubilin sa pag-iimbak para sa chocolate cake na talagang in-order mo
-
-Ang lasa lamang ay hindi nagsasabi sa iyo kung paano dapat iimbak ang isang cake. Magtanong ng mga White Cakes tungkol sa partikular na pagpipiliang tsokolate, pagpuno, at dekorasyon at sabihin dito kung kailan darating at ihain ang cake. Kung ang lugar ay mainit o nasa labas, banggitin iyon kapag humihiling ng payo sa pangangalaga.
-
-Ipatanggap kaagad sa isang tao ang cake, panatilihin ang antas ng kahon, at protektahan ito mula sa direktang sikat ng araw. Sundin ang mga tagubilin ng panaderya tungkol sa pagpapalamig at oras ng paghahatid. Kung naantala ang kaganapan, tanungin ang panadero bago iwanan ang cake nang mas matagal kaysa sa nakaplano.
-
-Panatilihin ang na-verify na impormasyon sa gabay sa gitnang pangangalaga at mga kasalukuyang detalye ng lasa sa gabay sa lasa. Iwasan ang isang unibersal na safe-time na claim.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

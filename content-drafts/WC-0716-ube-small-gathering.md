@@ -1,38 +1,39 @@
 ---
 id: WC-0716
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html; confirm current ube availability
 english_title: "Planning ube cake in Cebu"
 cebuano_title: "Pagplano sa ube cake sa Cebu"
 tagalog_title: "Pagpaplano ng ube cake sa Cebu"
 ---
 
-## Match the cake size to the small group before confirming ube
+## English
 
-Estimate how many people will share cake and whether the event includes other desserts. Tell the bakery whether you prefer modest slices or generous portions, then ask which size fits. Confirm that ube is currently available for the event date; older photos do not establish today’s menu.
+# Planning ube cake in Cebu
 
-White Cakes describes the 4-inch Bento as about two generous servings or three modest ones. Verify this estimate and the ube option directly. Ask about any ingredient or dietary questions instead of assuming from the flavour name.
+For a small gathering, start with the number of guests who will actually eat cake, not the invitation count. Note whether ube cake is the only dessert and whether slices should be modest. Then ask the bakery what ube size is currently available for that serving need.
 
-Keep serving ranges in the central size guide and current flavour choices in the flavour guide. Link the pages together rather than repeating both in a small-gathering ube article.
+Published sizes are estimates rather than guarantees: a 4-inch Bento is about two generous or three modest servings after a meal; a 6-inch round about 8–12 party slices. Confirm that the requested ube option can be made in the chosen size.
+
+## Cebuano
+
+# Pagplano sa ube cake sa Cebu
+
+Para sa gamay nga tapok, sugdi sa ihap sa tinuod nga mokaon, dili sa giimbitar. Ilista kon ube cake lang ba ang dessert ug gagmay ba ang hiwa. Dayon pangutan-a ang panaderya unsang gidak-on sa ube ang available karon para sa maong ihap.
+
+Banabana, dili garantiya, ang giya sa gidak-on: mga duha ka dagkong o tulo ka gagmay nga serving human mokaon ang 4-inch Bento; 8–12 ka party slice ang 6-inch round. Kumpirmaha nga mahimo ang gipangayong ube sa napiling gidak-on.
+
+## Tagalog
+
+# Pagpaplano ng ube cake sa Cebu
+
+Para sa maliit na salu-salo, magsimula sa bilang ng talagang kakain, hindi sa dami ng inimbitahan. Itala kung ube cake lang ang dessert at kung maliit na hiwa ang kailangan. Pagkatapos, itanong sa bakery kung anong sukat ng ube ang kasalukuyang available para sa bilang na iyon.
+
+Tantiya, hindi garantiya, ang size guide: mga dalawang masaganang o tatlong maliit na serving pagkatapos kumain ang 4-inch Bento; 8–12 party slice ang 6-inch na round. Kumpirmahin kung magagawa ang hinihinging ube sa napiling sukat.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipares ang gidak-on sa cake ngadto sa gamay nga grupo sa dili pa kumpirmahon ang ube
-
-Pagbanabana kon pila ka tawo ang moambit sa cake ug kon ang kalihokan naglakip sa ubang mga dessert. Sultihi ang panaderya kung gusto nimo ang kasarangan nga mga hiwa o ubay-ubay nga mga bahin, dayon pangutana kung unsang gidak-on ang mohaum. Kumpirma nga ang ube anaa sa pagkakaron alang sa petsa sa panghitabo; Ang daan nga mga litrato wala magtukod sa menu karon.
-
-Gihubit sa White Cakes ang 4-pulgada nga Bento nga mga duha ka manggihatagon nga pag-alagad o tulo ka kasarangan. I-verify kini nga banabana ug ang opsyon sa ube direkta. Pangutan-a mahitungod sa bisan unsa nga sangkap o mga pangutana sa pagkaon imbes nga maghunahuna gikan sa ngalan sa lami.
-
-Ipadayon ang mga han-ay sa pag-alagad sa sentro sa gidak-on nga giya ug kasamtangan nga mga pagpili sa lami sa giya sa lami. Idugtong ang mga panid imbes nga balikon ang duha sa usa ka gamay nga ube nga artikulo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itugma ang laki ng cake sa maliit na grupo bago kumpirmahin ang ube
-
-Tantyahin kung ilang tao ang magbabahagi ng cake at kung ang kaganapan ay may kasamang iba pang mga dessert. Sabihin sa panaderya kung mas gusto mo ang maliit na hiwa o masaganang bahagi, pagkatapos ay tanungin kung aling sukat ang akma. Kumpirmahin na kasalukuyang available ang ube para sa petsa ng kaganapan; Ang mga lumang larawan ay hindi nagtatag ng menu ngayon.
-
-Inilalarawan ng White Cakes ang 4-inch na Bento bilang mga dalawang masaganang serving o tatlong maliit na serving. Direktang i-verify ang pagtatantya na ito at ang opsyon sa ube. Magtanong tungkol sa anumang sangkap o mga tanong sa pandiyeta sa halip na ipagpalagay mula sa pangalan ng lasa.
-
-Panatilihin ang mga hanay ng paghahatid sa gabay sa gitnang laki at kasalukuyang mga pagpipilian sa lasa sa gabay sa lasa. I-link ang mga pahina nang magkasama sa halip na ulitin pareho sa isang maliit na pagtitipon na artikulo sa ube.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0634
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html; confirm route and product care
-english_title: "How to prepare for delivery of cake for a large family gathering in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa malaking pagtitipon ng pamilya sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html
+english_title: "How to Prepare for Cake Delivery to a Large Family Gathering"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Cake para sa Dakong Tapok sa Pamilya"
+tagalog_title: "Paano Maghanda para sa Delivery ng Cake para sa Malaking Pagtitipon ng Pamilya"
 ---
 
-## Arrange a clear receiving point for the family gathering
+## English
 
-Provide the full destination, requested handoff window, receiver’s name and phone number, and any subdivision, condo, or venue access instructions. Ask whether the bakery can deliver to the exact address and confirm the timing and fee. If several relatives are hosting, choose one person to meet the delivery.
+# How to Prepare for Cake Delivery to a Large Family Gathering
 
-The receiver should take the cake promptly, keep the box level, and follow the bakery’s storage guidance for that product. Tell the bakery if the cake will arrive well before serving or if the gathering is outdoors. This helps it provide relevant handling instructions.
+Choose a receiver who can focus on the cake while the host welcomes relatives. Share the full venue address, entrance, meeting point, and an active phone number with the bakery. If the cake is going to a restaurant or function room, ask the host about outside-cake rules and where it should be placed.
 
-Add these questions to the central delivery guide. Avoid promising route coverage or a fixed arrival window without current confirmation.
+White Cakes confirms a delivery window rather than an exact minute. Make sure the receiver is available throughout it and provide a backup contact. For a large cake, agree who will move it from the handoff point to its display surface and keep the route clear.
+
+Confirm current coverage for the exact address and date. If the venue changes, update the bakery and wait for confirmation. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Cake para sa Dakong Tapok sa Pamilya
+
+Pagpili og modawat nga makatiman sa cake samtang nangumusta sa paryente ang host. Ipaambit sa panaderya ang kompleto nga address sa venue, entrance, meeting point ug aktibong numero. Kon restaurant o function room ang destinasyon, pangutan-a ang host bahin sa lagda sa cake gikan sa gawas ug asa kini ibutang.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Siguroha nga available ang modawat sa tibuok window ug paghatag og backup contact. Para sa dakong cake, pagkauyon kinsa ang mobalhin niini gikan sa handoff point ngadto sa display surface ug bakanteha ang agianan.
+
+Kumpirmaha ang kasamtangang coverage sa tukmang address ug petsa. Kon mausab ang venue, i-update ang panaderya ug hulata ang kumpirmasyon. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Cake para sa Malaking Pagtitipon ng Pamilya
+
+Pumili ng tatanggap na makapagtutuon sa cake habang bumabati ng kamag-anak ang host. Ibahagi sa bakery ang buong address ng venue, entrance, meeting point, at aktibong numero. Kung restaurant o function room ang destinasyon, itanong sa host ang patakaran sa dalang cake at kung saan ito ilalagay.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Tiyaking available ang tatanggap sa buong window at magbigay ng backup contact. Para sa malaking cake, magkasundo kung sino ang maglilipat nito mula sa handoff point papunta sa display surface at panatilihing maluwag ang daanan.
+
+Kumpirmahin ang kasalukuyang coverage para sa eksaktong address at petsa. Kung magbago ang venue, i-update ang bakery at hintayin ang kumpirmasyon. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paghan-ay sa usa ka tin-aw nga punto sa pagdawat alang sa panagtapok sa pamilya
-
-Ihatag ang kompleto nga destinasyon, gihangyo nga handoff window, ngalan sa receiver ug numero sa telepono, ug bisan unsang subdivision, condo, o venue access instructions. Pangutan-a kung ang panaderya makadeliver ba sa eksaktong adres ug makumpirma ang oras ug bayad. Kung daghang mga paryente ang nag-host, pagpili usa ka tawo aron makigkita sa paghatud.
-
-Kinahanglang kuhaon dayon sa tigdawat ang cake, ipabilin ang lebel sa kahon, ug sundon ang giya sa pagtipig sa panaderya alang niana nga produkto. Sultihi ang panaderya kon ang cake moabut sa dili pa i-serve o kung ang panagtapok anaa sa gawas. Makatabang kini sa paghatag ug may kalabutan nga mga instruksyon sa pagdumala.
-
-Idugang kini nga mga pangutana sa sentro nga giya sa paghatod. Likayi ang nagsaad nga coverage sa ruta o usa ka fixed arrival window nga walay kasamtangang kumpirmasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ayusin ang isang malinaw na receiving point para sa pagtitipon ng pamilya
-
-Ibigay ang buong destinasyon, hiniling na handoff window, pangalan at numero ng telepono ng tatanggap, at anumang mga tagubilin sa pag-access sa subdivision, condo, o lugar. Tanungin kung ang panaderya ay maaaring maghatid sa eksaktong address at kumpirmahin ang oras at bayad. Kung maraming kamag-anak ang nagho-host, pumili ng isang tao para matugunan ang paghahatid.
-
-Dapat na kunin kaagad ng receiver ang cake, panatilihin ang antas ng kahon, at sundin ang gabay sa pag-iimbak ng panaderya para sa produktong iyon. Sabihin sa panaderya kung ang cake ay darating nang maayos bago ihain o kung ang pagtitipon ay nasa labas. Nakakatulong ito na magbigay ng may-katuturang mga tagubilin sa pangangasiwa.
-
-Idagdag ang mga tanong na ito sa gitnang gabay sa paghahatid. Iwasan ang pangakong saklaw ng ruta o isang nakapirming window ng pagdating nang walang kasalukuyang kumpirmasyon.
+- Confirm current order, serving, and care guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

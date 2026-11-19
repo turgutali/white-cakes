@@ -1,38 +1,45 @@
 ---
 id: WC-0583
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html; confirm route availability separately
-english_title: "Planning cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Pagplano sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html
+english_title: "Planning a Cake for a Small Lapu-Lapu Family Gathering"
+cebuano_title: "Pagplano og Cake para sa Gamay nga Tapok sa Pamilya sa Lapu-Lapu"
+tagalog_title: "Pagpaplano ng Cake para sa Maliit na Family Gathering sa Lapu-Lapu"
 ---
 
-## Estimate the small family group and choose a practical portion size
+## English
 
-For a close family celebration, count the people who will share dessert and decide whether the cake follows a full meal. Tell the bakery whether you prefer modest portions or generous slices and ask it to suggest an available size. If children or older relatives are part of the group, the host can also plan how the slices will be cut.
+# Planning a Cake for a Small Lapu-Lapu Family Gathering
 
-The current guide describes the 4-inch Bento as about two generous servings or three modest ones. Confirm the figure and current availability with the bakery. If the cake is delivered in Lapu-Lapu, verify the exact address, route, fee, and handoff time separately.
+For a small family gathering, count the people who will actually share the cake. Decide whether it follows a meal and whether guests want modest slices or a more generous dessert. If the recipient and a few relatives are the only guests, a compact cake may fit—but confirm the available sizes and design choices.
 
-Keep serving estimates in the main size guide and link to delivery details only where routes are confirmed.
+The site estimates a 4-inch Bento at about two generous or three modest servings after a meal. This is approximate; cutting style and design affect portions. Ask the bakery whether the selected inscription and decoration work on that size.
+
+Also confirm the precise Lapu-Lapu delivery address, receiver, and serving time. A small order still needs a clear handoff plan, particularly if the event is not at home. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Pagplano og Cake para sa Gamay nga Tapok sa Pamilya sa Lapu-Lapu
+
+Para sa gamay nga tapok sa pamilya, ihap ang mga tawo nga mopaambit gyud sa cake. Desisyoni kon human ba kini sa pagkaon ug modest ba nga hiwa o mas daghang dessert ang gusto sa bisita. Kon ang recipient ug pipila ka paryente ra ang motambong, mahimong mohaum ang compact nga cake—apan kumpirmaha ang available nga gidak-on ug disenyo.
+
+Gibanabana sa site nga adunay mga duha ka generous o tulo ka modest nga servings human mokaon ang 4-inch Bento. Banabana lamang kini; makaapekto ang paagi sa paghiwa ug disenyo. Pangutan-a ang panaderya kon mohaum ba sa maong gidak-on ang inskripsiyon ug dekorasyon.
+
+Kumpirmaha usab ang tukmang delivery address sa Lapu-Lapu, modawat ug oras sa pag-serve. Nanginahanglan gihapon og klarong handoff plan ang gamay nga order, ilabi na kon dili sa balay ang event. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Pagpaplano ng Cake para sa Maliit na Family Gathering sa Lapu-Lapu
+
+Para sa maliit na family gathering, bilangin ang mga taong talagang magsasalo sa cake. Pagpasyahan kung pagkatapos ito ng kainan at kung modest na hiwa o mas malaking dessert ang gusto ng mga bisita. Kung tatanggap at ilang kamag-anak lang ang dadalo, maaaring bumagay ang compact na cake—pero kumpirmahin ang available na sukat at design.
+
+Tinatantiya ng site na may mga dalawang generous o tatlong modest na serving pagkatapos kumain ang 4-inch Bento. Tantiya lang ito; nakaaapekto sa portions ang paraan ng paghiwa at design. Itanong sa bakery kung babagay sa sukat na iyon ang inscription at dekorasyon.
+
+Kumpirmahin din ang eksaktong delivery address sa Lapu-Lapu, tatanggap, at oras ng paghahain. Kailangan pa rin ng malinaw na handoff plan ang maliit na order, lalo na kung hindi sa bahay ang event. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ibanabana ang gamay nga grupo sa pamilya ug pilia ang praktikal nga gidak-on sa bahin
-
-Alang sa usa ka suod nga selebrasyon sa pamilya, ihap ang mga tawo nga makigbahin sa dessert ug paghukom kung ang cake nagsunod ba sa usa ka bug-os nga pagkaon. Sultihi ang panaderya kung gusto nimo ang kasarangan nga mga bahin o ubay-ubay nga mga hiwa ug hangyoa kini nga isugyot ang usa ka magamit nga gidak-on. Kung ang mga bata o tigulang nga mga paryente bahin sa grupo, ang host mahimo usab nga magplano kung giunsa ang pagputol sa mga hiwa.
-
-Ang kasamtangan nga giya naghulagway sa 4-pulgada nga Bento nga mga duha ka manggihatagon nga mga pag-alagad o tulo ka mga kasarangan. Kumpirma ang numero ug ang kasamtangan nga anaa sa panaderya. Kung ihatod ang cake sa Lapu-Lapu, i-verify ang eksaktong adres, ruta, bayad, ug oras sa handoff nga gilain.
-
-Ipadayon ang pagserbisyo sa mga banabana sa panguna nga giya sa gidak-on ug i-link ang mga detalye sa paghatud kung diin gikumpirma ang mga ruta.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang maliit na grupo ng pamilya at pumili ng praktikal na sukat ng bahagi
-
-Para sa isang malapit na pagdiriwang ng pamilya, bilangin ang mga taong makikibahagi sa dessert at magpasya kung ang cake ay sumusunod sa isang buong pagkain. Sabihin sa panaderya kung mas gusto mo ang mga katamtamang bahagi o masaganang hiwa at hilingin itong magmungkahi ng available na laki. Kung ang mga bata o mas matatandang kamag-anak ay bahagi ng grupo, ang host ay maaari ding magplano kung paano gupitin ang mga hiwa.
-
-Inilalarawan ng kasalukuyang gabay ang 4-pulgada na Bento bilang tungkol sa dalawang mapagbigay na serving o tatlong katamtaman. Kumpirmahin ang figure at kasalukuyang availability sa panaderya. Kung ang cake ay inihatid sa Lapu-Lapu, i-verify ang eksaktong address, ruta, bayad, at oras ng handoff nang hiwalay.
-
-Panatilihin ang paghahatid ng mga pagtatantya sa pangunahing gabay sa laki at i-link sa mga detalye ng paghahatid lamang kung saan nakumpirma ang mga ruta.
+- Confirm current Lapu-Lapu route coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

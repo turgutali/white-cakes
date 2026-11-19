@@ -1,44 +1,39 @@
 ---
 id: WC-0752
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/red-velvet-cake-cebu.html
 english_title: "Which reference photos help when ordering red velvet cake in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og red velvet cake sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng red velvet cake sa Cebu"
 ---
 
-## Choose a red-velvet reference that shows the finish, not assumed ingredients
+## English
 
-If you want a custom outside design on a red velvet cake, select one reference photo that shows the look you want. State whether you are pointing to the colour palette, lettering, piped border, or overall mood. White Cakes hand-pipes buttercream and can interpret a reference within the chosen size; an image does not guarantee an exact copy.
+# Which reference photos help when ordering red velvet cake in Cebu
 
-Keep flavour and finish separate in the request. Red velvet is one of the listed cake flavours, but the available menu description does not specify a filling, frosting, or particular crumb appearance. If one of those details matters, ask the bakery to confirm it for the selected cake and date. Do not assume a reference image's ingredients are included.
+Send references that each show one choice: cake silhouette, lettering, or decoration placement. Explain what matters in each image and what can be adapted. Do not use a red-toned photo as proof of red velvet flavour or assume a previous order is still offered.
 
-Send the guest count, size, date, flavour, exact inscription, and delivery or pickup preference. The size guide can help with portions, while the product page can confirm current starting prices. The bakery should confirm the design and quote before the 50% deposit.
+Include date, size, guest estimate, and exact inscription alongside the references. Ask the bakery to summarize the intended design and confirm the current red velvet option. Only share identifiable people or company materials with permission.
 
-Use this reference advice inside the central custom brief and red velvet pages. A separate reference gallery needs an actual permission-cleared red velvet cake photo and a documented example of how the inspiration was interpreted.
+## Cebuano
+
+# Unsang mga litrato nga reference ang makatabang sa pag-order og red velvet cake sa Cebu
+
+Ipadala ang reference nga matag usa nagpakita og usa ka kapilian: porma, lettering o puwesto sa dekorasyon. Isulti unsay importante ug unsay mahimong ipahiangay. Ayaw gamita ang pulang litrato isip pamatuod sa red velvet flavour o pagtuo nga gitanyag pa ang karaang order.
+
+Iapil ang petsa, gidak-on, banabana sa bisita ug eksaktong inskripsiyon. Pangayoa sa panaderya nga i-summarize ang disenyo ug kumpirmaha ang kasamtangang red velvet option. Ipaambit lang ang mailhang tawo o materyal sa kompanya kon adunay permiso.
+
+## Tagalog
+
+# Aling mga reference photo ang makatutulong sa pag-order ng red velvet cake sa Cebu
+
+Magpadala ng references na tig-iisang pagpipilian ang ipinapakita: silweta ng cake, lettering, o puwesto ng dekorasyon. Ipaliwanag kung ano ang mahalaga sa larawan at ano ang maaaring baguhin. Huwag gawing patunay ng red velvet flavour ang larawang mapula o ipagpalagay na iniaalok pa ang lumang order.
+
+Isama ang petsa, sukat, tantiya ng bisita, at eksaktong inscription. Hilingin sa bakery na ibuod ang nilalayong design at kumpirmahin ang kasalukuyang red velvet option. Magbahagi lang ng makikilalang tao o materyal ng kumpanya nang may pahintulot.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og red-velvet reference nga nagpakita sa finish, dili gituohan nga mga sangkap
-
-Kung gusto nimo ang usa ka naandan nga disenyo sa gawas sa usa ka pula nga velvet nga cake, pagpili og usa ka reference nga litrato nga nagpakita sa hitsura nga imong gusto. Isulti kung imong gipunting ang paleta sa kolor, letra, piped nga utlanan, o kinatibuk-ang kahimtang. White Cakes hand-pipes buttercream ug makahubad sa usa ka pakisayran sulod sa gipili nga gidak-on; ang usa ka hulagway dili makagarantiya sa eksaktong kopya.
-
-Hupti ang lami ug tapuson nga bulag sa hangyo. Ang pula nga velvet usa sa mga gilista nga lami sa cake, apan ang magamit nga paghulagway sa menu wala magtino sa usa ka pagpuno, pagyelo, o partikular nga hitsura sa mumho. Kung ang usa sa mga detalye hinungdanon, hangyoa ang panaderya sa pagkumpirma niini alang sa napili nga cake ug petsa. Ayaw hunahunaa ang mga sangkap sa usa ka reference nga imahe gilakip.
-
-Ipadala ang ihap sa bisita, gidak-on, petsa, lami, eksaktong inskripsiyon, ug gusto sa pagpadala o pickup. Ang giya sa gidak-on makatabang sa mga bahin, samtang ang panid sa produkto makakumpirma sa kasamtangang pagsugod nga mga presyo. Kinahanglang kumpirmahon sa panaderya ang disenyo ug quote sa dili pa ang 50% nga deposito.
-
-Gamita kini nga reperensiya nga tambag sulod sa sentral nga custom nga mubo ug pula nga velvet nga mga panid. Ang usa ka lahi nga reference gallery nanginahanglan usa ka aktuwal nga pagtugot-cleared red velvet cake nga litrato ug usa ka dokumentado nga pananglitan kung giunsa ang paghubad sa inspirasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng red-velvet na sanggunian na nagpapakita ng pagtatapos, hindi ipinapalagay na mga sangkap
-
-Kung gusto mo ng custom na panlabas na disenyo sa isang red velvet cake, pumili ng isang reference na larawan na nagpapakita ng hitsura na gusto mo. Sabihin kung itinuturo mo ang color palette, lettering, piped na hangganan, o pangkalahatang mood. White Cakes hand-pipes buttercream at maaaring bigyang-kahulugan ang isang reference sa loob ng napiling laki; hindi ginagarantiyahan ng isang imahe ang eksaktong kopya.
-
-Panatilihing hiwalay ang lasa at tapusin sa kahilingan. Ang red velvet ay isa sa mga nakalistang lasa ng cake, ngunit ang available na paglalarawan ng menu ay hindi tumutukoy ng isang filling, frosting, o partikular na mumo na hitsura. Kung mahalaga ang isa sa mga detalyeng iyon, hilingin sa panaderya na kumpirmahin ito para sa napiling cake at petsa. Huwag ipagpalagay na ang mga sangkap ng isang reference na larawan ay kasama.
-
-Ipadala ang bilang ng bisita, laki, petsa, lasa, eksaktong inskripsiyon, at kagustuhan sa paghahatid o pickup. Ang gabay sa laki ay maaaring makatulong sa mga bahagi, habang ang pahina ng produkto ay maaaring kumpirmahin ang kasalukuyang mga panimulang presyo. Dapat kumpirmahin ng panaderya ang disenyo at quote bago ang 50% na deposito.
-
-Gamitin ang reference na payo na ito sa loob ng gitnang custom na brief at red velvet na pahina. Ang isang hiwalay na reference gallery ay nangangailangan ng aktwal na permiso-cleared na red velvet cake na larawan at isang dokumentadong halimbawa kung paano binigyang-kahulugan ang inspirasyon.
+- Verify current menu, ingredients, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

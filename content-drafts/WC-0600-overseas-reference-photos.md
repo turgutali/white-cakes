@@ -1,44 +1,45 @@
 ---
 id: WC-0600
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Which reference photos help when ordering sending a cake to family in Cebu from abroad"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+english_title: "Which Reference Photos Help with a Cake Order from Abroad"
+cebuano_title: "Unsang Reference Photo ang Makatabang sa Cake Order Gikan sa Laing Nasod"
+tagalog_title: "Aling Reference Photo ang Makatutulong sa Cake Order Mula sa Ibang Bansa"
 ---
 
-## Choose a reference with help from a local family contact
+## English
 
-If you are ordering from abroad, ask someone in Cebu to help confirm what the recipient likes. Choose one clear photo that shows the design feature you want and explain which details can change. A large folder of inspiration can make it harder for White Cakes to understand the intended look, especially when the person paying cannot see the cake in person.
+# Which Reference Photos Help with a Cake Order from Abroad
 
-Use the reference as direction rather than a promise of an exact copy. Ask the bakery what is feasible for the size and flavour and request a quote for the actual design. Do not assume an image you found online can be reproduced or published without permission.
+Use reference photos to communicate specific choices across distance. One can show the overall cake shape, another a lettering style, and a close-up a texture detail. Add a note to each photo that identifies what should be considered and what can change.
 
-Include the event date, exact inscription, number of cake eaters, and local delivery address. Ask the local contact to verify the landmark, receiver's mobile number, access instructions, and handoff window. Confirm which payment methods and currencies White Cakes currently accepts from abroad; do not assume a particular option.
+Ask a local family member to confirm whether a reference fits the venue and recipient, but keep the final brief in one message or document. This avoids conflicting instructions across time zones. Include the date, size, flavour, exact inscription, Cebu address, and local receiver.
 
-Keep photo guidance in the custom brief guide and update international-order specifics only after the bakery verifies them.
+A reference does not guarantee exact duplication, current availability, or that the design suits the chosen size. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. See the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang Reference Photo ang Makatabang sa Cake Order Gikan sa Laing Nasod
+
+Gamita ang reference photo sa pagpasabot sa espesipikong kapilian bisag layo ka. Mahimong ipakita sa usa ang kinatibuk-ang porma, sa lain ang estilo sa letra ug sa close-up ang detalye sa texture. Butangi og nota ang matag litrato kon unsay ikonsiderar ug unsay mahimong usbon.
+
+Hangyoa ang sakop sa pamilya sa Cebu nga kumpirmahon kon mohaum ba ang reference sa venue ug recipient, apan tipigi sa usa ka mensahe o dokumento ang final brief. Makalikay kini sa nagkasumpaking instruksyon tungod sa time zone. Iapil ang petsa, gidak-on, flavour, eksaktong inskripsiyon, address sa Cebu ug lokal nga modawat.
+
+Dili garantiya sa eksaktong pagkopya, kasamtangang availability o pagpahaum sa napiling gidak-on ang reference. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Tan-awa ang [giya sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling Reference Photo ang Makatutulong sa Cake Order Mula sa Ibang Bansa
+
+Gamitin ang reference photos para ipaliwanag ang partikular na mga pagpili kahit malayo ka. Maaaring ipakita ng isa ang pangkalahatang hugis, ng isa ang estilo ng lettering, at ng close-up ang detalye ng texture. Lagyan ng tala ang bawat larawan kung ano ang dapat isaalang-alang at kung ano ang maaaring baguhin.
+
+Hilingin sa kapamilya sa Cebu na tiyaking babagay ang reference sa venue at tatanggap, pero panatilihin sa iisang mensahe o dokumento ang pinal na brief. Nakakaiwas ito sa magkakasalungat na tagubilin dahil sa time zone. Isama ang petsa, sukat, flavour, eksaktong inscription, address sa Cebu, at lokal na tatanggap.
+
+Hindi garantiya ng eksaktong pagkopya, kasalukuyang availability, o pagkakabagay sa napiling sukat ang reference. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Tingnan ang [gabay sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og usa ka pakisayran uban sa tabang gikan sa usa ka lokal nga kontak sa pamilya
-
-Kung nag-order ka gikan sa gawas sa nasud, hangyoa ang usa sa Cebu nga motabang sa pagkumpirma kung unsa ang gusto sa nakadawat. Pagpili og usa ka tin-aw nga litrato nga nagpakita sa disenyo nga gusto nimo ug ipasabut kung unsang mga detalye ang mahimong mausab. Ang usa ka dako nga folder sa inspirasyon makapalisud sa White Cakes nga masabtan ang gituyo nga hitsura, labi na kung ang tawo nga nagbayad dili makakita sa cake sa personal.
-
-Gamita ang reperensiya ingong direksyon kay sa saad sa eksaktong kopya. Pangutan-a ang panaderya kung unsa ang mahimo alang sa gidak-on ug lami ug paghangyo og usa ka kinutlo alang sa aktwal nga disenyo. Ayaw hunahunaa nga ang usa ka imahe nga imong nakit-an sa internet mahimong kopyahon o imantala nga wala’y pagtugot.
-
-Ilakip ang petsa sa panghitabo, eksaktong inskripsiyon, gidaghanon sa mga mokaon og cake, ug lokal nga adres sa pagpadala. Hangyoa ang lokal nga kontak sa pag-verify sa landmark, numero sa mobile sa receiver, mga instruksyon sa pag-access, ug handoff window. Kumpirma kung unsang mga paagi sa pagbayad ug kwarta ang White Cakes nga karon gidawat gikan sa gawas sa nasud; ayaw paghunahuna ug usa ka partikular nga kapilian.
-
-Itago ang giya sa litrato sa naandan nga mubu nga giya ug i-update ang mga detalye sa pag-order sa internasyonal pagkahuman mapamatud-an kini sa panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng isang sanggunian sa tulong mula sa isang lokal na contact ng pamilya
-
-Kung nag-order ka mula sa ibang bansa, humingi ng tulong sa isang tao sa Cebu na kumpirmahin kung ano ang gusto ng tatanggap. Pumili ng isang malinaw na larawan na nagpapakita ng tampok na disenyo na gusto mo at ipaliwanag kung aling mga detalye ang maaaring magbago. Ang isang malaking folder ng inspirasyon ay maaaring maging mas mahirap para sa White Cakes na maunawaan ang nilalayon na hitsura, lalo na kapag hindi nakikita ng taong nagbabayad ang cake nang personal.
-
-Gamitin ang sanggunian bilang direksyon sa halip na isang pangako ng eksaktong kopya. Tanungin ang panaderya kung ano ang magagawa para sa laki at lasa at humiling ng isang quote para sa aktwal na disenyo. Huwag ipagpalagay na ang isang larawang nakita mo online ay maaaring kopyahin o i-publish nang walang pahintulot.
-
-Isama ang petsa ng kaganapan, eksaktong inskripsiyon, bilang ng mga kumakain ng cake, at lokal na address ng paghahatid. Hilingin sa lokal na contact na i-verify ang landmark, mobile number ng receiver, mga tagubilin sa pag-access, at handoff window. Kumpirmahin kung aling mga paraan ng pagbabayad at pera ang kasalukuyang tinatanggap ng White Cakes mula sa ibang bansa; huwag ipagpalagay ang isang partikular na opsyon.
-
-Panatilihin ang gabay sa larawan sa custom na maikling gabay at i-update ang mga detalye ng international-order lamang pagkatapos ma-verify ng panaderya ang mga ito.
+- Verify current menu, payment, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

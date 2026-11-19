@@ -1,38 +1,45 @@
 ---
 id: WC-0637
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; any standalone case requires an actual approved cake
-english_title: "How to match the design of cake for a large family gathering in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa malaking pagtitipon ng pamilya sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "How to Match a Cake Design to a Large Family Gathering"
+cebuano_title: "Giunsa Pagpares ang Disenyo sa Cake sa Dakong Tapok sa Pamilya"
+tagalog_title: "Paano Itugma ang Design ng Cake sa Malaking Pagtitipon ng Pamilya"
 ---
 
-## Choose a focal point guests can recognize from the table
+## English
 
-For a large family gathering, a cake may be viewed by many people before it is cut. Pick one focal detail such as the celebrant’s name, family colours, or a meaningful symbol. If several relatives are contributing ideas, ask one person to combine them into a short brief so the final design remains coherent.
+# How to Match a Cake Design to a Large Family Gathering
 
-Share a reference photo and identify what should be adapted. Confirm how the design fits the chosen size, inscription, flavour, and budget. If the cake sits on a shared dessert table, mention the table dimensions or available space so the bakery can advise whether the requested decoration is practical.
+A cake for a large family gathering needs a design that reads from across the room and still looks coherent at the table. Choose one clear visual centre—a message, colour direction, or family motif—and avoid combining every relative’s idea into one crowded layout.
 
-Add this planning note to the central design guide. A separate case study should show a real cake, an original photo, and a distinct design decision approved by the customer.
+Consider the serving environment. A cake on a buffet may need a visible inscription; a cake in a private dining room may be seen mainly from close up. Match the decoration to the size, table space, and transport plan. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets.
+
+Share references with notes and ask how the design can be adapted. Confirm the final wording, size, and delivery details before production. See the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpares ang Disenyo sa Cake sa Dakong Tapok sa Pamilya
+
+Kinahanglan mabasa gikan sa pikas bahin sa kwarto ug magkahiuyon gihapon sa lamesa ang disenyo sa cake para sa dakong tapok sa pamilya. Pagpili og usa ka klarong biswal nga sentro—mensahe, direksiyon sa kolor o motif sa pamilya—ug likayi ang pagsagol sa tanang ideya sa paryente ngadto sa huot nga layout.
+
+Ikonsiderar ang palibot sa pag-serve. Mahimong kinahanglan makita ang inskripsiyon sa cake sa buffet; ang cake sa private dining room basin duol ra tan-awon. Ipares ang dekorasyon sa gidak-on, luna sa lamesa ug plano sa transportasyon. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets.
+
+Ipaambit ang reference nga naay nota ug pangutan-a unsaon pagpahiangay sa disenyo. Kumpirmaha ang wording, gidak-on ug delivery details sa dili pa sugdan. Tan-awa ang [giya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Itugma ang Design ng Cake sa Malaking Pagtitipon ng Pamilya
+
+Kailangan ng design para sa cake ng malaking pagtitipon ng pamilya na mababasa mula sa kabilang bahagi ng silid at maayos pa rin tingnan sa mesa. Pumili ng isang malinaw na visual centre—mensahe, direksiyon ng kulay, o motif ng pamilya—at iwasang pagsamahin ang ideya ng bawat kamag-anak sa isang masikip na layout.
+
+Isaalang-alang ang lugar ng paghahain. Maaaring kailangan ng inscription na kita sa cake sa buffet; maaaring malapitan lang tingnan ang cake sa pribadong dining room. Itugma ang dekorasyon sa sukat, espasyo sa mesa, at plano sa transportasyon. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets.
+
+Ibahagi ang references na may tala at itanong kung paano iaangkop ang design. Kumpirmahin ang pinal na wording, sukat, at delivery details bago simulan. Tingnan ang [gabay sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og focal point nga mailhan sa mga bisita gikan sa lamesa
-
-Alang sa usa ka dako nga panagtapok sa pamilya, ang usa ka cake mahimong tan-awon sa daghang mga tawo sa dili pa kini putlon. Pagpili og usa ka detalye sama sa ngalan sa nagsaulog, mga kolor sa pamilya, o usa ka makahuluganon nga simbolo. Kung daghang mga paryente ang nag-amot og mga ideya, hangyoa ang usa ka tawo sa paghiusa kanila sa usa ka mubo nga mubo aron ang katapusan nga disenyo magpabilin nga managsama.
-
-Ipaambit ang usa ka reperensya nga litrato ug ilha kung unsa ang angay nga ipahiangay. Kumpirma kon sa unsang paagi mohaum ang disenyo sa gipili nga gidak-on, inskripsiyon, lami, ug badyet. Kung ang cake molingkod sa usa ka shared dessert table, hisguti ang mga dimensyon sa lamesa o available space aron ang panaderya makatambag kon praktikal ba ang gipangayo nga dekorasyon.
-
-Idugang kini nga nota sa pagplano sa sentro nga giya sa disenyo. Ang usa ka bulag nga case study kinahanglang magpakita ug tinuod nga cake, orihinal nga litrato, ug lahi nga desisyon sa disenyo nga giaprobahan sa kustomer.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng focal point na makikilala ng mga bisita mula sa talahanayan
-
-Para sa isang malaking pagtitipon ng pamilya, ang isang cake ay maaaring tingnan ng maraming tao bago ito hiwain. Pumili ng isang focal detail gaya ng pangalan ng celebrant, mga kulay ng pamilya, o isang makabuluhang simbolo. Kung maraming kamag-anak ang nag-aambag ng mga ideya, hilingin sa isang tao na pagsamahin ang mga ito sa isang maikling maikling upang ang huling disenyo ay manatiling magkakaugnay.
-
-Magbahagi ng reference na larawan at tukuyin kung ano ang dapat iakma. Kumpirmahin kung paano umaangkop ang disenyo sa napiling laki, inskripsiyon, lasa, at badyet. Kung ang cake ay nakaupo sa isang shared dessert table, banggitin ang mga sukat ng mesa o available na espasyo para masabi ng panaderya kung praktikal ang hiniling na palamuti.
-
-Idagdag ang tala sa pagpaplano na ito sa gitnang gabay sa disenyo. Ang isang hiwalay na case study ay dapat magpakita ng isang tunay na cake, isang orihinal na larawan, at isang natatanging desisyon sa disenyo na inaprubahan ng customer.
+- Confirm current size, menu, terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

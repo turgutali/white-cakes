@@ -1,38 +1,45 @@
 ---
 id: WC-0580
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; verify Lapu-Lapu delivery separately
-english_title: "How to match the design of cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "How to Match a Cake Design to a Lapu-Lapu Family Celebration"
+cebuano_title: "Giunsa Pagpares ang Disenyo sa Cake sa Selebrasyon sa Pamilya sa Lapu-Lapu"
+tagalog_title: "Paano Itugma ang Design ng Cake sa Family Celebration sa Lapu-Lapu"
 ---
 
-## Choose a design that fits the family’s gathering and the cake size
+## English
 
-Ask the family what the cake should celebrate and pick one detail that feels personal, such as a favourite colour, shared greeting, or simple symbol. Send one reference and tell the bakery which element matters most. The design can then be adapted to the cake’s shape and size.
+# How to Match a Cake Design to a Lapu-Lapu Family Celebration
 
-Confirm the expected servings, flavour, exact message, event date, and full address. If delivery is needed in Lapu-Lapu, ask about current route coverage and the handoff fee. Confirm the final quote and design summary in writing.
+Let the recipient and event setting guide the design. A cake for a family meal at home may carry a personal message; one for a resort or restaurant gathering may need a layout that remains visible on a shared table. Choose a single focal point and avoid adding details that make the design hard to read.
 
-Add general design advice to the central Cebu guide. A location-specific case should only be published with an actual approved cake photo and verified delivery details.
+Think through the path from handoff to display. If the cake will be taken between buildings or carried to a function room, tell the bakery before approving delicate or tall decorations. Check whether the venue allows outside cakes and has a stable display surface.
+
+Use references to show a mood or detail, then ask how the idea can be adapted. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm current availability and delivery details for the exact location. See [cake design ideas in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpares ang Disenyo sa Cake sa Selebrasyon sa Pamilya sa Lapu-Lapu
+
+Pasagdi nga mogiya sa disenyo ang makadawat ug setting sa event. Mahimong adunay personal nga mensahe ang cake para sa paniudto sa balay; ang cake para sa resort o restaurant gathering tingali nanginahanglan og porma nga makita sa gipaambit nga lamesa. Pagpili og usa ka sentrong detalye ug likayi ang mga dugang nga makapalisod sa pagbasa.
+
+Hunahunaa ang ruta gikan sa handoff ngadto sa display. Kon dad-on ang cake sa laing building o function room, sultihi ang panaderya sa dili pa aprobahan ang delikado o taas nga dekorasyon. Susiha kon gitugotan sa venue ang cake gikan sa gawas ug adunay lig-on nga display surface.
+
+Gamita ang reference sa pagpakita sa mood o detalye, dayon pangutan-a unsaon pagpahiangay sa ideya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha ang kasamtangang availability ug delivery details sa tukmang lugar. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Itugma ang Design ng Cake sa Family Celebration sa Lapu-Lapu
+
+Hayaang gabayan ng tatanggap at setup ng event ang design. Maaaring lagyan ng personal na mensahe ang cake para sa kainan ng pamilya sa bahay; maaaring mangailangan naman ng layout na kita sa pinagsasaluhang mesa ang cake para sa resort o restaurant gathering. Pumili ng isang focal point at iwasan ang mga dagdag na nagpapahirap basahin ang design.
+
+Pag-isipan ang ruta mula handoff hanggang display. Kung dadalhin ang cake sa ibang building o function room, sabihin ito sa bakery bago aprubahan ang marurupok o matataas na dekorasyon. Suriin kung pinapayagan ng venue ang dalang cake at kung may matatag na display surface.
+
+Gamitin ang references para ipakita ang mood o detalye, saka itanong kung paano iaangkop ang ideya. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin ang kasalukuyang availability at delivery details para sa eksaktong lokasyon. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug disenyo nga haom sa panagtapok sa pamilya ug sa gidak-on sa cake
-
-Pangutan-a ang pamilya unsa ang kinahanglan nga saulogon sa cake ug pilia ang usa ka detalye nga gibati nga personal, sama sa paborito nga kolor, gipaambit nga pagtimbaya, o yano nga simbolo. Ipadala ang usa ka reperensiya ug sultihi ang panaderya kung unsang elemento ang labing hinungdanon. Ang disenyo mahimong ipahiangay sa porma ug gidak-on sa cake.
-
-Kumpirma ang gipaabot nga mga pagkaon, lami, eksaktong mensahe, petsa sa panghitabo, ug kompleto nga adres. Kung gikinahanglan ang paghatod sa Lapu-Lapu, pangutana bahin sa kasamtangang coverage sa ruta ug ang bayad sa handoff. Pagkumpirma sa katapusang kinutlo ug katingbanan sa disenyo sa pagsulat.
-
-Idugang ang kinatibuk-ang tambag sa disenyo sa giya sa sentro sa Sugbo. Ang usa ka kaso nga espesipiko sa lokasyon kinahanglan lamang nga imantala nga adunay usa ka aktuwal nga gi-aprubahan nga litrato sa cake ug gipamatud-an nga mga detalye sa pagpadala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng disenyo na akma sa pagtitipon ng pamilya at sa laki ng cake
-
-Tanungin ang pamilya kung ano ang dapat ipagdiwang ng cake at pumili ng isang detalyeng personal, gaya ng paboritong kulay, ibinahaging pagbati, o simpleng simbolo. Magpadala ng isang reference at sabihin sa panaderya kung aling elemento ang pinakamahalaga. Ang disenyo ay maaaring iakma sa hugis at sukat ng cake.
-
-Kumpirmahin ang inaasahang mga serving, lasa, eksaktong mensahe, petsa ng kaganapan, at buong address. Kung kailangan ang paghahatid sa Lapu-Lapu, magtanong tungkol sa kasalukuyang saklaw ng ruta at ang bayad sa handoff. Kumpirmahin ang huling quote at buod ng disenyo sa pamamagitan ng pagsulat.
-
-Magdagdag ng pangkalahatang payo sa disenyo sa gabay sa gitnang Cebu. Ang isang case na tukoy sa lokasyon ay dapat lang mag-publish na may aktwal na aprubadong larawan ng cake at na-verify na mga detalye ng paghahatid.
+- Confirm current Lapu-Lapu route coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0677
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html and /journal/choosing-a-flavor.html
-english_title: "How to compare options for chocolate cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa chocolate cake sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa chocolate cake sa Cebu"
+english_title: \"How to compare options for chocolate cake in Cebu\"
+cebuano_title: \"Giunsa pagtandi ang mga kapilian para sa chocolate cake sa Cebu\"
+tagalog_title: \"Paano paghambingin ang mga pagpipilian para sa chocolate cake sa Cebu\"
 ---
 
-## Compare the size, design, and current chocolate option separately
+## English
 
-Start with servings: how many people will eat cake, and will portions be modest or party-size? Ask the bakery which available size fits that plan. Then check what chocolate option is currently offered and whether it can be paired with the design or filling you have in mind.
+# How to compare options for chocolate cake in Cebu
 
-Compare the outside finish, inscription space, date availability, and complete price. Photos can help explain the look, but they do not establish current stock, ingredients, or serving count. If anyone has an allergy or dietary restriction, ask the bakery directly whether it can accommodate it.
+Compare chocolate cake options by purpose: number of servings, event formality, table space, and design. A plain finish may suit a brief office gathering; a custom design may better mark a milestone but needs extra discussion. First confirm the actual chocolate options and sizes currently offered.
 
-Keep product comparisons in the existing guide and current flavours in the flavour page. Link to the size guide for portion estimates rather than repeating them in a chocolate-specific URL.
+Use identical questions for each quote: flavour or filling, cake size, approximate servings, design scope, inscription, delivery, and payment terms. A social photo is neither a current menu nor a comparable quote. Ask the bakery to explain trade-offs using your guest count and venue.
+
+Summarize the options for the approver and choose based on confirmed needs, not assumptions about availability. See the [cake choice guide](/journal/which-cake.html) and [flavour guide](/journal/choosing-a-flavor.html).
+
+## Cebuano
+
+# Giunsa pagtandi ang mga kapilian para sa chocolate cake sa Cebu
+
+Itandi ang chocolate cake base sa katuyoan: ihap sa servings, pormalidad sa event, luna sa lamesa ug disenyo. Mahimong angay ang simple nga finish sa mubo nga selebrasyon sa opisina; mas markado ang milestone sa custom nga disenyo apan kinahanglan hisgotan pag-ayo. Kumpirmaha una ang tinuod nga chocolate options ug gidak-on nga gitanyag karon.
+
+Gamita ang parehas nga pangutana sa matag quote: flavour o filling, gidak-on, banabana sa servings, sakop sa disenyo, inskripsiyon, delivery ug terms sa bayad. Dili kasamtangang menu o ikatandi nga quote ang social photo. Pangutan-a ang panaderya unsay kalainan base sa bisita ug venue.
+
+I-summarize ang mga kapilian para sa approver ug pilia base sa kumpirmadong panginahanglan, dili sa banabana sa availability. Tan-awa ang [giya sa pagpili og cake](/journal/which-cake.html) ug [giya sa flavor](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano paghambingin ang mga pagpipilian para sa chocolate cake sa Cebu
+
+Ihambing ang chocolate cake options ayon sa layunin: dami ng serving, pormalidad ng event, espasyo sa mesa, at design. Maaaring bagay ang payak na finish sa maikling office gathering; mas mamarkahan ng custom design ang milestone pero kailangan ng dagdag na usapan. Kumpirmahin muna ang aktuwal na chocolate options at sukat na kasalukuyang iniaalok.
+
+Gamitin ang magkakaparehong tanong sa bawat quote: flavor o filling, sukat, tantiyang serving, saklaw ng design, inscription, delivery, at payment terms. Hindi kasalukuyang menu o maihahambing na quote ang social photo. Itanong sa bakery ang mga trade-off batay sa bisita at venue.
+
+Ibuod ang mga opsyon para sa approver at pumili ayon sa kumpirmadong pangangailangan, hindi palagay sa availability. Tingnan ang [gabay sa pagpili ng cake](/journal/which-cake.html) at [gabay sa flavor](/journal/choosing-a-flavor.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang gidak-on, disenyo, ug kasamtangan nga kapilian sa tsokolate nga gilain
-
-Pagsugod sa mga servings: pila ka tawo ang mokaon sa cake, ug ang mga bahin ba kasarangan o gidak-on sa party? Pangutan-a ang panaderya kung unsang available nga gidak-on ang mohaum niana nga plano. Unya susiha kung unsa nga kapilian sa tsokolate ang gitanyag karon ug kung mahimo ba kini ipares sa disenyo o pagpuno nga naa sa imong hunahuna.
-
-Itandi ang pagkahuman sa gawas, luna sa inskripsiyon, pagkaanaa sa petsa, ug kompleto nga presyo. Ang mga litrato makatabang sa pagpatin-aw sa hitsura, apan wala sila mag-establisar sa kasamtangan nga stock, mga sangkap, o ihap sa pag-alagad. Kung adunay bisan kinsa nga adunay alerdyi o pagdili sa pagdiyeta, pangutana direkta sa panaderya kung mahimo ba kini nga ma-accommodate.
-
-Ipadayon ang mga pagtandi sa produkto sa kasamtangan nga giya ug kasamtangan nga mga lami sa panid sa lami. I-link ang giya sa gidak-on alang sa mga banabana sa bahin imbes nga balikon kini sa usa ka URL nga espesipiko sa tsokolate.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing ang laki, disenyo, at kasalukuyang opsyon na tsokolate nang hiwalay
-
-Magsimula sa mga servings: ilang tao ang kakain ng cake, at magiging katamtaman o party-size ang mga bahagi? Tanungin ang panaderya kung aling sukat ang akma sa planong iyon. Pagkatapos ay suriin kung anong pagpipiliang tsokolate ang kasalukuyang inaalok at kung maaari itong ipares sa disenyo o pagpuno na nasa isip mo.
-
-Ihambing ang panlabas na finish, espasyo sa inskripsyon, availability ng petsa, at kumpletong presyo. Ang mga larawan ay maaaring makatulong na ipaliwanag ang hitsura, ngunit hindi sila nagtatatag ng kasalukuyang stock, mga sangkap, o bilang ng paghahatid. Kung ang sinuman ay may allergy o dietary restriction, tanungin nang direkta ang panaderya kung maaari itong tanggapin.
-
-Panatilihin ang mga paghahambing ng produkto sa kasalukuyang gabay at kasalukuyang mga lasa sa page ng lasa. Mag-link sa gabay sa laki para sa mga pagtatantya ng bahagi sa halip na ulitin ang mga ito sa isang URL na tukoy sa tsokolate.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

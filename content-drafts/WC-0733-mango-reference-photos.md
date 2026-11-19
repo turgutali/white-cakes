@@ -1,44 +1,39 @@
 ---
 id: WC-0733
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Which reference photos help when ordering mango cake in Cebu"
 cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og mango cake sa Cebu"
 tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng mango cake sa Cebu"
 ---
 
-## Choose a reference photo that clarifies a Mango cake design
+## English
 
-Select one image that shows a colour, arrangement, or decorative feature you want White Cakes to adapt. Explain which part matters most and what can change. A reference that shows a different cake or flavour is still inspiration; it does not guarantee an exact copy.
+# Which reference photos help when ordering mango cake in Cebu
 
-Mango appears on White Cakes' current flavour list. Confirm that it is available for the selected size and date. If the image shows fruit, filling, or an ingredient detail, ask the bakery directly whether that is part of its current product before assuming it will be included. Do not infer those facts from the photo.
+Use one reference to show the silhouette, one for lettering, and another only if a specific decorative detail matters. Explain what should be borrowed from each image and what can change. This is especially useful for mango cake so fruit imagery is not mistaken for a confirmed ingredient or topping.
 
-Include the event date, size, number of cake eaters, inscription, and delivery or pickup plan. Ask whether the design fits the cake size and request a quote for the exact work. White Cakes requires at least three days' notice; the 50% deposit confirms the agreed order.
+Pair references with exact size, serving estimate, message, and requested date. Ask the bakery to confirm what its current mango option can support. Do not share identifiable customer or staff photos without permission.
 
-Keep reference advice in the shared brief guide. Use a public reference-to-finished comparison only with original White Cakes photos and permission.
+## Cebuano
+
+# Unsang mga litrato nga reference ang makatabang sa pag-order og mango cake sa Cebu
+
+Gamita ang usa ka reference sa porma, lain sa letra ug usa pa lang kon importante ang dekorasyon. Ipasabot unsay sundon sa matag hulagway ug unsay mahimong usbon. Mapuslanon kini aron dili masayop og sabot nga sangkap o topping ang fruit imagery sa mango cake.
+
+Ipares ang reference sa eksaktong gidak-on, banabana sa servings, mensahe ug petsa. Pangutan-a unsay mahimo sa kasamtangang mango option. Ayaw ipaambit ang litrato nga mailhan ang customer o staff nga walay permiso.
+
+## Tagalog
+
+# Aling mga reference photo ang makatutulong sa pag-order ng mango cake sa Cebu
+
+Gumamit ng isang reference para sa hugis, isa para sa lettering, at isa pa lang kung mahalaga ang partikular na dekorasyon. Ipaliwanag kung ano ang kukunin sa bawat larawan at ano ang maaaring baguhin. Mahalaga ito sa mango cake para hindi mapagkamalang kumpirmadong sangkap o topping ang fruit imagery.
+
+Itambal ang references sa eksaktong sukat, tantiya ng serving, mensahe, at petsa. Itanong kung ano ang kayang gawin ng kasalukuyang mango option. Huwag magbahagi ng litratong makikilala ang customer o staff nang walang pahintulot.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug reperensya nga litrato nga nagpatin-aw sa disenyo sa Mango cake
-
-Pagpili og usa ka hulagway nga nagpakita og kolor, kahikayan, o dekorasyon nga bahin nga gusto nimo nga ipaangay sa White Cake. Ipaathag kon ano nga bahin ang pinakaimportante kag kon ano ang mahimo magbag-o. Ang usa ka pakisayran nga nagpakita sa usa ka lahi nga cake o lami kay inspirasyon gihapon; dili kini garantiya sa eksaktong kopya.
-
-Ang mangga makita sa White Cakes karon nga lista sa lami. Kumpirma nga kini anaa alang sa pinili nga gidak-on ug petsa. Kung ang imahe nagpakita sa prutas, pagpuno, o usa ka detalye sa sangkap, pangutana direkta sa panaderya kung bahin ba kana sa karon nga produkto niini sa wala pa maghunahuna nga kini iapil. Ayaw isulti kana nga mga kamatuoran gikan sa litrato.
-
-Ilakip ang petsa sa panghitabo, gidak-on, gidaghanon sa mga nangaon og cake, inskripsiyon, ug plano sa paghatod o pagkuha. Pangutan-a kung ang disenyo mohaum ba sa gidak-on sa cake ug paghangyo og usa ka kinutlo alang sa eksaktong trabaho. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang tambag sa pakisayran sa gipaambit nga mubo nga giya. Gamit ug public reference-to-finished comparison lang sa orihinal nga White Cakes nga mga litrato ug permiso.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng reference na larawan na nagpapaliwanag ng disenyo ng Mango cake
-
-Pumili ng isang larawan na nagpapakita ng kulay, pag-aayos, o pandekorasyon na tampok na gusto mong ibagay ng White Cake. Ipaliwanag kung aling bahagi ang pinakamahalaga at kung ano ang maaaring magbago. Ang isang sanggunian na nagpapakita ng ibang cake o lasa ay inspirasyon pa rin; hindi nito ginagarantiyahan ang eksaktong kopya.
-
-Lumilitaw ang mangga sa kasalukuyang listahan ng lasa ng White Cakes. Kumpirmahin na available ito para sa napiling laki at petsa. Kung ang larawan ay nagpapakita ng prutas, palaman, o isang detalye ng sangkap, direktang tanungin ang panaderya kung bahagi iyon ng kasalukuyang produkto nito bago ipagpalagay na isasama ito. Huwag ihinuha ang mga katotohanang iyon mula sa larawan.
-
-Isama ang petsa ng kaganapan, laki, bilang ng mga kumakain ng cake, inskripsiyon, at plano sa paghahatid o pagkuha. Itanong kung ang disenyo ay akma sa laki ng cake at humiling ng isang quote para sa eksaktong trabaho. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang reference na payo sa nakabahaging maikling gabay. Gumamit ng pampublikong reference-to-finished na paghahambing sa orihinal na mga larawan at pahintulot ng White Cakes.
+- Verify current menu, availability, ordering terms, ingredients, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

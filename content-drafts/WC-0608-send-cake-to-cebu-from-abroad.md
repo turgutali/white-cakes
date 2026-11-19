@@ -1,44 +1,44 @@
 ---
 id: WC-0608
-status: written-draft
-publish_action: merge into /journal/send-cake-to-cebu-from-abroad.html
-english_title: "A photo-led design breakdown of sending a cake to family in Cebu from abroad"
-cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Paghimay sa disenyo sa larawan ng pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+status: evidence-gated-photo-case
+publish_action: merge into /journal/send-cake-to-cebu-from-abroad.html only after an actual order from an overseas sender, original approved photos, verified order details, and customer permission; otherwise omit the case material
+evidence_required: completed order record; original photo rights; written sender and recipient permission; verified country/time-zone context, brief, design, size, flavour, and handoff details
+english_title: "A Photo-Led Case Study of Sending a Cake to Family in Cebu from Abroad"
+cebuano_title: "Case Study nga May Litrato sa Pagpadala og Cake sa Pamilya sa Cebu Gikan sa Laing Nasod"
+tagalog_title: "Photo-Led Case Study ng Pagpapadala ng Cake sa Pamilya sa Cebu Mula sa Ibang Bansa"
 ---
 
-## Ordering a Cebu cake when you are overseas
+## Evidence gate
 
-You can arrange a cake for family in Cebu from abroad, but the person placing the order and the person receiving it may be in different time zones. Send the bakery a reachable contact for the buyer and a separate mobile number for the Cebu receiver. Include the receiver's full address, landmark, and any gate or building instructions. Make sure someone has agreed to accept the cake during the delivery window.
+This case requires a real order placed by someone outside the Philippines for a Cebu recipient. Verify the order record, date, sender location only at the level the customer permits, recipient permission, and rights for every original photo. Never disclose payment details, exact home addresses, or private messages.
 
-Start with the date, cake format, flavour, size, and short inscription. White Cakes asks for at least three days' notice and confirms availability before an order is booked. If you are sending the cake for a holiday or weekend, ask earlier. The 4-inch Bento serves two generously or three modestly; larger cake portions should be planned with the current size guide and confirmed with the bakery.
+Describe only the documented brief, design, size, flavour, message, and coordination steps. Confirm what the sender and local recipient authorize you to share. Do not invent a family story, reaction, successful surprise, or cross-border payment claim. Captions must accurately identify the cake and event context.
 
-Ask the bakery to state the current price, address-based delivery charge, payment method, and the amount due before you pay. A 50% deposit confirms an agreed order. Keep the confirmation message and share the delivery window with the receiver; do not surprise someone with a delivery time they cannot meet.
+The useful lesson should show a real remote-order decision, such as how a local contact confirmed the handoff or how the sender approved wording across time zones. If evidence or permission is missing, keep this material unpublished and improve the canonical guide with general advice instead.
 
-If you want to use a cake photograph as a design reference, explain which detail matters and what can be adapted. The image should be an original White Cakes commission before the article is presented as a photo case study. This practical overseas-order checklist belongs in the existing guide for sending cake to Cebu from abroad; it should not claim a specific finished design without that approved photograph.
+## Cebuano
+
+## Kinahanglan nga ebidensiya
+
+Nagkinahanglan kini og tinuod nga order nga gibutang sa tawo sa gawas sa Pilipinas para sa recipient sa Cebu. Susiha ang order record, petsa, lokasyon sa nagpadala sa lebel lang nga gitugotan sa kustomer, pagtugot sa recipient ug katungod sa matag orihinal nga litrato. Ayaw ipadayag ang detalye sa bayad, eksaktong address sa balay o pribadong mensahe.
+
+Ihulagway lamang ang dokumentadong brief, disenyo, gidak-on, flavour, mensahe ug mga lakang sa koordinasyon. Kumpirmaha unsay gitugotan sa nagpadala ug lokal nga recipient nga ipaambit. Ayaw pag-imbento og istorya sa pamilya, reaksyon, malampusong surprise o claim bahin sa cross-border payment. Kinahanglan tukma ang caption sa cake ug konteksto sa event.
+
+Kinahanglan magpakita ang mapuslanong leksyon og tinuod nga desisyon sa remote order, sama sa pagkumpirma sa handoff sa lokal nga contact o pag-apruba sa mensahe tali sa time zone. Kon kulang ang ebidensiya o pagtugot, ayaw imantala kini ug pauswaga hinuon ang canonical guide gamit ang kinatibuk-ang tambag.
+
+## Tagalog
+
+## Kailangang ebidensiya
+
+Nangangailangan ito ng totoong order na inilagay ng taong nasa labas ng Pilipinas para sa tatanggap sa Cebu. Suriin ang order record, petsa, lokasyon ng nagpadala sa antas lang na pinapayagan ng customer, pahintulot ng tatanggap, at karapatan sa bawat orihinal na larawan. Huwag ibunyag ang detalye ng bayad, eksaktong address ng bahay, o pribadong mensahe.
+
+Ilarawan lamang ang dokumentadong brief, design, sukat, flavour, mensahe, at mga hakbang ng coordination. Kumpirmahin kung ano ang pinapayagan ng nagpadala at lokal na tatanggap na ibahagi. Huwag mag-imbento ng kuwento ng pamilya, reaksyon, matagumpay na sorpresa, o claim tungkol sa cross-border payment. Dapat tumpak ang caption sa cake at konteksto ng event.
+
+Dapat magpakita ang kapaki-pakinabang na aral ng tunay na desisyon sa remote order, gaya ng pagkumpirma ng local contact sa handoff o pag-apruba ng sender sa wording sa magkaibang time zone. Kung kulang ang ebidensiya o pahintulot, huwag ilathala ito at pagbutihin na lang ang canonical guide gamit ang pangkalahatang payo.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-order ug cake sa Cebu kung naa ka sa gawas sa nasud
-
-Mahimo kang maghan-ay og cake para sa pamilya sa Cebu gikan sa gawas sa nasud, apan ang tawo nga nag-order ug ang tawo nga nakadawat niini mahimong naa sa lainlaing mga time zone. Padad-i ang panaderya og contactable contact para sa buyer ug bulag nga mobile number para sa Cebu receiver. Ilakip ang kompleto nga adres sa tigdawat, timaan, ug bisan unsang mga panudlo sa ganghaan o bilding. Siguroha nga adunay miuyon sa pagdawat sa cake atol sa delivery window.
-
-Pagsugod sa petsa, pormat sa cake, lami, gidak-on, ug mubo nga inskripsiyon. Ang mga White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo ug gikumpirma ang pagkaanaa sa dili pa ma-book ang usa ka order. Kung ipadala nimo ang cake alang sa usa ka holiday o katapusan sa semana, pangutana sa sayo pa. Ang 4-pulgada nga Bento nagsilbi sa duha nga madagayaon o tulo nga kasarangan; mas dako nga mga bahin sa cake kinahanglan nga giplano uban sa kasamtangan nga giya sa gidak-on ug gikumpirma sa panaderya.
-
-Hangyoa ang panaderya nga ipahayag ang kasamtangan nga presyo, bayad sa pagpadala nga gibase sa address, pamaagi sa pagbayad, ug ang kantidad nga gikinahanglan sa dili pa ikaw mobayad. Ang 50% nga deposito nagpamatuod sa usa ka giuyonan nga order. Ipadayon ang mensahe sa pagkumpirma ug ipaambit ang window sa pagpadala sa tigdawat; ayaw katingala sa usa ka tawo nga adunay oras sa paghatud nga dili nila mahimamat.
-
-Kung gusto nimo nga mogamit usa ka litrato sa cake ingon usa ka reperensiya sa disenyo, ipasabut kung unsang detalye ang hinungdanon ug kung unsa ang mahimo nga ipahiangay. Ang imahe kinahanglan usa ka orihinal nga komisyon sa White Cakes sa wala pa ipresentar ang artikulo ingon usa ka pagtuon sa kaso sa litrato. Kining praktikal nga overseas-order checklist nahisakop sa kasamtangan nga giya sa pagpadala sa cake sa Cebu gikan sa gawas sa nasud; kini dili kinahanglan nga moangkon sa usa ka piho nga nahuman nga disenyo nga wala ang giaprobahan nga litrato.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pag-order ng Cebu cake kapag nasa ibang bansa ka
-
-Maaari kang mag-ayos ng cake para sa pamilya sa Cebu mula sa ibang bansa, ngunit maaaring nasa magkaibang time zone ang taong nag-order at ang taong tumatanggap nito. Padalhan ang panaderya ng isang contact para sa bumibili at isang hiwalay na mobile number para sa Cebu receiver. Isama ang buong address ng receiver, palatandaan, at anumang mga tagubilin sa gate o gusali. Tiyaking may sumang-ayon na tanggapin ang cake sa panahon ng paghahatid.
-
-Magsimula sa petsa, format ng cake, lasa, laki, at maikling inskripsiyon. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na paunawa at kinukumpirma ang pagkakaroon bago ma-book ang isang order. Kung ipapadala mo ang cake para sa isang holiday o weekend, magtanong nang mas maaga. Ang 4-inch Bento ay nagsisilbi sa dalawa nang mapagbigay o tatlong katamtaman; Ang mas malalaking bahagi ng cake ay dapat planuhin kasama ang kasalukuyang gabay sa laki at kumpirmahin sa panaderya.
-
-Hilingin sa panaderya na sabihin ang kasalukuyang presyo, singil sa paghahatid batay sa address, paraan ng pagbabayad, at ang halagang dapat bayaran bago ka magbayad. Kinukumpirma ng 50% na deposito ang isang napagkasunduang order. Panatilihin ang mensahe ng kumpirmasyon at ibahagi ang window ng paghahatid sa tatanggap; huwag sorpresahin ang isang tao na may oras ng paghahatid na hindi nila makikilala.
-
-Kung gusto mong gumamit ng litrato ng cake bilang isang sanggunian sa disenyo, ipaliwanag kung aling detalye ang mahalaga at kung ano ang maaaring iakma. Ang larawan ay dapat na isang orihinal na komisyon ng White Cakes bago iharap ang artikulo bilang isang photo case study. Ang praktikal na overseas-order checklist na ito ay kabilang sa umiiral na gabay para sa pagpapadala ng cake sa Cebu mula sa ibang bansa; hindi ito dapat mag-claim ng isang partikular na tapos na disenyo nang walang naaprubahang larawan.
+- Requires a real approved remote order and image rights; otherwise remains unpublished.
+- Cebuano and Tagalog drafts need native editorial review.

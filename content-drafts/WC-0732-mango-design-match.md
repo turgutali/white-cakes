@@ -1,44 +1,39 @@
 ---
 id: WC-0732
-status: draft-needs-original-photo-case
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
 english_title: "How to match the design of mango cake in Cebu"
 cebuano_title: "Giunsa pagpares ang disenyo sa mango cake sa Cebu"
 tagalog_title: "Paano itugma ang disenyo ng mango cake sa Cebu"
 ---
 
-## Match a Mango cake design to the event palette
+## English
 
-Start with the event colours and choose one detail the cake should emphasize. If the design includes fruit imagery or a particular finish, ask White Cakes what it offers rather than assuming those elements are included with the Mango flavour. Keep the brief focused so the flavour, message, and decoration work together.
+# How to match the design of mango cake in Cebu
 
-Send one reference image and identify what you want adapted. Ask whether the requested layout fits the selected cake size and what the quote includes. A reference photo does not guarantee an exact copy. Confirm the flavour is available for the requested date and size; do not infer specific ingredients or filling from the flavour name.
+Match the design to the confirmed mango cake format and event setting. If the brief includes fruit imagery, ask whether that is decoration or only a colour reference; the distinction affects feasibility and expectations. Choose a simple focal feature and avoid promising fresh fruit or a particular finish before the bakery confirms it.
 
-Include the serving estimate, inscription, event date, and delivery or pickup plan. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Confirm the size with the bakery, allow at least three days' notice, and secure the agreed order with a 50% deposit.
+Send approved references and ask for a written summary covering size, palette, message, and what will actually be made. A previous cake photo is inspiration, not a current menu promise. Confirm the product and quote before paying.
 
-Use original, permission-cleared photos for an actual Mango design example. Otherwise, merge these principles into the existing cake-design guide.
+## Cebuano
+
+# Giunsa pagpares ang disenyo sa mango cake sa Cebu
+
+Ipares ang disenyo sa nakumpirmang mango cake format ug lugar sa event. Kon adunay fruit imagery, pangutan-a kon dekorasyon ba kini o reference sa kolor lang; lahi ang mahimo ug gipaabot. Pilia ang simple nga focal feature ug ayaw mosaad og preskong prutas o finish hangtod kumpirmahon sa panaderya.
+
+Ipadala ang aprubadong reference ug pangayo og sinulat nga summary sa gidak-on, kolor, mensahe ug unsay aktuwal nga himoon. Inspirasyon lang ang karaang litrato, dili saad sa kasamtangang menu. Kumpirmaha ang produkto ug quote sa dili pa mobayad.
+
+## Tagalog
+
+# Paano itugma ang disenyo ng mango cake sa Cebu
+
+Itugma ang design sa kumpirmadong mango cake format at lugar ng event. Kung may fruit imagery sa brief, itanong kung dekorasyon ba ito o reference lang sa kulay; magkaiba ang posibilidad at inaasahan. Pumili ng payak na focal feature at huwag mangako ng sariwang prutas o partikular na finish bago kumpirmahin ng bakery.
+
+Magpadala ng aprubadong reference at humingi ng nakasulat na buod ng sukat, kulay, mensahe, at aktuwal na gagawin. Inspirasyon lang ang lumang larawan, hindi pangako ng kasalukuyang menu. Kumpirmahin ang produkto at quote bago magbayad.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipares ang disenyo sa Mango cake sa paleta sa panghitabo
-
-Pagsugod sa mga kolor sa panghitabo ug pagpili og usa ka detalye nga kinahanglan hatagan og gibug-aton sa cake. Kung ang disenyo naglakip sa mga hulagway sa prutas o usa ka partikular nga pagkahuman, pangutan-a ang White Cakes kung unsa ang gitanyag niini kaysa sa paghunahuna nga kana nga mga elemento gilakip sa lami nga Mango. Ipadayon nga naka-focus ang mubo aron ang lami, mensahe, ug dekorasyon magtinabangay.
-
-Pagpadala usa ka reference nga imahe ug ilha kung unsa ang gusto nimo ipahiangay. Pangutan-a kung ang gihangyo nga layout mohaum ba sa gipili nga gidak-on sa cake ug unsa ang gilakip sa kinutlo. Ang reperensya nga litrato dili makagarantiya sa eksaktong kopya. Pagmatuod nga ang palami anaa alang sa gihangyo nga petsa ug gidak-on; ayaw paghunahuna ug piho nga mga sangkap o pagpuno gikan sa ngalan sa palami.
-
-Ilakip ang banabana sa pagserbisyo, inskripsiyon, petsa sa panghitabo, ug plano sa pagpadala o pagkuha. Ang kasamtangan nga mga banabana mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kumpirma ang gidak-on sa panaderya, tugoti ang labing menos tulo ka adlaw nga pahibalo, ug luwasa ang gikasabutan nga order nga adunay 50% nga deposito.
-
-Gamita ang orihinal, gi-clear nga permiso nga mga litrato para sa aktuwal nga pananglitan sa disenyo sa Mango. Kung dili, iusa kini nga mga prinsipyo sa naglungtad nga giya sa disenyo sa cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itugma ang disenyo ng Mango cake sa palette ng kaganapan
-
-Magsimula sa mga kulay ng kaganapan at pumili ng isang detalye na dapat bigyang-diin ng cake. Kung ang disenyo ay may kasamang imagery ng prutas o isang partikular na finish, tanungin ang White Cakes kung ano ang inaalok nito sa halip na ipagpalagay na ang mga elementong iyon ay kasama sa lasa ng Mango. Panatilihing nakatutok ang maikling upang ang lasa, mensahe, at palamuti ay magtulungan.
-
-Magpadala ng isang reference na larawan at tukuyin kung ano ang gusto mong iakma. Itanong kung ang hiniling na layout ay umaangkop sa napiling laki ng cake at kung ano ang kasama sa quote. Ang isang reference na larawan ay hindi ginagarantiyahan ang eksaktong kopya. Kumpirmahin ang lasa ay magagamit para sa hiniling na petsa at laki; huwag maghinuha ng mga partikular na sangkap o pagpuno mula sa pangalan ng lasa.
-
-Isama ang pagtatantya ng paghahatid, inskripsiyon, petsa ng kaganapan, at plano ng paghahatid o pagkuha. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin ang laki sa panaderya, payagan ang hindi bababa sa tatlong araw na paunawa, at i-secure ang napagkasunduang order na may 50% na deposito.
-
-Gumamit ng orihinal, na-clear na mga larawan para sa isang aktwal na halimbawa ng disenyo ng Mango. Kung hindi, pagsamahin ang mga prinsipyong ito sa umiiral nang gabay sa disenyo ng cake.
+- Verify current menu, availability, ordering terms, ingredients, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

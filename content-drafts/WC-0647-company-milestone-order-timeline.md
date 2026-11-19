@@ -1,38 +1,45 @@
 ---
 id: WC-0647
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
 english_title: "How to plan the order timeline for cake for a company milestone in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
-## Confirm the event schedule and the person who can approve the cake
+## English
 
-For a company milestone, establish the event date, venue access time, and when the cake should be ready to serve. Assign one colleague to approve the size, flavour, inscription, design, logo use, and final quote. This prevents multiple rounds of conflicting directions from different teams.
+# How to plan the order timeline for cake for a company milestone in Cebu
 
-White Cakes’ current guidance asks for at least three days’ notice for made-to-order cakes. Ask earlier for a detailed logo or custom design and wait for the bakery to confirm availability. Confirm the building’s receiving process and the final delivery window before paying the stated 50% deposit.
+Start with the event date, then work backward from when the cake must be served. Before asking for a quote, decide who can approve the design, the expected guest count, the venue, and a realistic delivery window. Custom cakes need at least three days’ notice; allow more time for a larger or more detailed design and for busy dates.
 
-Keep lead times and confirmation steps in one authoritative order guide. Verify current business instructions before using them for a corporate booking.
+Request a written confirmation of the date, design direction, size, price, deposit, delivery address, and receiver. Keep one person responsible for approvals so a company chat does not produce conflicting versions. Do not promise a delivery minute to colleagues: confirm the bakery’s available window and the venue’s receiving rules.
+
+For a Cebu order, confirm the exact venue address and a reachable on-site contact. If a date, logo approval, or procurement step is still uncertain, resolve it before treating the order as booked. See the [Cebu ordering guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa pagplano ang oras sa pag-order para sa cake para sa milestone sa kompanya sa Cebu
+
+Sugdi sa petsa sa event, unya ihapon paatras gikan sa oras sa pag-serve sa cake. Sa dili pa mangayo og quote, pilia kinsa ang moapruba sa disenyo, banabanaa ang bisita, kumpirmaha ang venue ug takna sa delivery window. Kinahanglan og labing menos tulo ka adlaw nga pahibalo para sa custom cake; paghatag og dugang panahon kon dako o detalyado ang disenyo ug kon busy ang petsa.
+
+Pangayo og sinulat nga kumpirmasyon sa petsa, direksyon sa disenyo, gidak-on, presyo, deposit, delivery address ug modawat. Usa lang ka tawo ang responsable sa approvals aron malikayan ang nagkasumpaking bersyon sa company chat. Ayaw saad og eksaktong minuto sa delivery; kumpirmaha ang available nga window sa panaderya ug lagda sa venue.
+
+Para sa order sa Cebu, kumpirmaha ang eksaktong address sa venue ug contact didto. Kon wala pa maklaro ang petsa, pag-apruba sa logo o procurement, sulbara una kini sa dili pa isipon nga booked na ang order. Tan-awa ang [giya sa pag-order sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Paano planuhin ang oras ng pag-order para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu
+
+Magsimula sa petsa ng event at magbilang pabalik mula sa oras ng paghahain. Bago humingi ng quote, tukuyin kung sino ang mag-aapruba ng design, tantiyahin ang bisita, kumpirmahin ang venue, at pumili ng makatotohanang delivery window. Kailangan ng hindi bababa sa tatlong araw na abiso para sa custom cake; maglaan ng mas maraming oras para sa malaki o detalyadong design at sa mataong petsa.
+
+Humingi ng nakasulat na kumpirmasyon para sa petsa, direksyon ng design, laki, presyo, deposito, delivery address, at tatanggap. Isang tao lang ang dapat humawak ng approvals para maiwasan ang magkakaibang bersyon sa company chat. Huwag mangako ng eksaktong minuto ng delivery; kumpirmahin ang available na window ng bakery at mga patakaran ng venue.
+
+Para sa order sa Cebu, kumpirmahin ang eksaktong address ng venue at contact doon. Kung hindi pa tiyak ang petsa, pag-apruba sa logo, o procurement, ayusin muna ito bago ituring na booked ang order. Tingnan ang [gabay sa pag-order sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang eskedyul sa kalihokan ug ang tawo nga makaaprobar sa cake
-
-Alang sa milestone sa kompanya, i-establisar ang petsa sa panghitabo, oras sa pag-access sa lugar, ug kung kanus-a andam na ang cake. Pagtudlo og usa ka kauban sa pag-aprobar sa gidak-on, lami, inskripsiyon, disenyo, paggamit sa logo, ug katapusang kinutlo. Gipugngan niini ang daghang mga hugna sa magkasumpaki nga direksyon gikan sa lainlaing mga koponan.
-
-Ang kasamtangang giya sa White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa gihimo-sa-order nga mga cake. Pangutan-a sa sayo pa alang sa usa ka detalyado nga logo o naandan nga disenyo ug paghulat sa panaderya aron makumpirma ang pagkaanaa. Kumpirma ang proseso sa pagdawat sa bilding ug ang katapusan nga bintana sa pagpadala sa dili pa mobayad sa gipahayag nga 50% nga deposito.
-
-Ipadayon ang mga oras sa pagpangulo ug mga lakang sa pagkumpirma sa usa ka awtoritatibo nga giya sa pag-order. Tinoa ang kasamtangan nga mga instruksyon sa negosyo sa dili pa kini gamiton alang sa usa ka corporate booking.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang iskedyul ng kaganapan at ang taong maaaring mag-apruba ng cake
-
-Para sa isang milestone ng kumpanya, itakda ang petsa ng kaganapan, oras ng pag-access sa lugar, at kung kailan dapat ihain ang cake. Magtalaga ng isang kasamahan upang aprubahan ang laki, lasa, inskripsiyon, disenyo, paggamit ng logo, at huling quote. Pinipigilan nito ang maraming round ng magkasalungat na direksyon mula sa iba't ibang team.
-
-Ang kasalukuyang gabay ng White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Magtanong ng mas maaga para sa isang detalyadong logo o custom na disenyo at hintayin ang panaderya upang kumpirmahin ang pagkakaroon. Kumpirmahin ang proseso ng pagtanggap ng gusali at ang huling palugit ng paghahatid bago bayaran ang nakasaad na 50% na deposito.
-
-Panatilihin ang mga oras ng lead at mga hakbang sa pagkumpirma sa isang makapangyarihang gabay sa pagkakasunud-sunod. I-verify ang kasalukuyang mga tagubilin sa negosyo bago gamitin ang mga ito para sa isang corporate booking.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

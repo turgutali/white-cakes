@@ -1,44 +1,45 @@
 ---
 id: WC-0681
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to coordinate chocolate cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang chocolate cake sa Cebu"
-tagalog_title: "Paano i-coordinate ang chocolate cake sa Cebu"
+english_title: \"How to coordinate chocolate cake in Cebu\"
+cebuano_title: \"Giunsa pag-coordinate ang chocolate cake sa Cebu\"
+tagalog_title: \"Paano i-coordinate ang chocolate cake sa Cebu\"
 ---
 
-## Coordinate the chocolate cake handoff
+## English
 
-Choose a receiver who will be available during the agreed delivery window. Give White Cakes the complete address, landmark, mobile number, and any gate, lobby, or office instructions. Confirm that delivery is available to that destination and ask about the fee. A driver should know who will accept the cake and where to meet.
+# How to coordinate chocolate cake in Cebu
 
-Plan where the box will wait after delivery. Keep it level and away from direct sunlight and a hot vehicle. If there will be several hours before serving, follow the bakery's care guidance. Do not assume Chocolate requires a different storage rule from the one White Cakes gives for that specific cake.
+Coordinate the chocolate cake delivery with the person who controls venue access, not only the event organizer. Confirm the exact drop-off point, building entry, receiving hours, contact number, and a backup recipient. Send the bakery one final version of these details.
 
-Include the event date, size, Chocolate flavour, design, inscription, and serving estimate in the order. Confirm that the flavour and design are available for the requested date. White Cakes requires at least three days' notice for made-to-order cakes, and the 50% deposit confirms the agreed order.
+Agree who will accept the cake, where it will be kept, and who brings it to the serving area. Ask the bakery for product-specific handling guidance and share it with the receiver. Keep the cake away from sun and heat while waiting; do not leave it unattended in a vehicle or lobby.
 
-Keep general delivery details in one Cebu guide and link to the current menu for flavour information.
+Confirm the delivery window and coverage for the exact Cebu address. If the venue, room, or event schedule changes, notify the bakery and receive confirmation before updating the event team. See the [Cebu delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa pag-coordinate ang chocolate cake sa Cebu
+
+I-coordinate ang delivery sa chocolate cake sa tawo nga nagdumala sa access sa venue, dili lang sa organizer. Kumpirmaha ang eksaktong drop-off, pagsulod sa building, oras sa pagdawat, numero sa contact ug backup nga modawat. Ipadala sa panaderya ang usa ka final nga bersyon sa detalye.
+
+Pag-uyon kinsa ang modawat, asa ibutang ug kinsa ang modala sa cake sa dapit sa pag-serve. Pangayo sa panaderya og instruksyon para sa produkto ug ipaambit sa modawat. Ipahilayo sa adlaw ug kainit samtang naghulat; ayaw ibilin nga walay bantay sa sakyanan o lobby.
+
+Kumpirmaha ang delivery window ug coverage sa eksaktong address sa Cebu. Kon mausab ang venue, kwarto o iskedyul, pahibaloa ang panaderya ug hulata ang kumpirmasyon sa dili pa i-update ang event team. Tan-awa ang [giya sa delivery sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano i-coordinate ang chocolate cake sa Cebu
+
+I-coordinate ang delivery ng chocolate cake sa taong namamahala ng access sa venue, hindi lang sa event organizer. Kumpirmahin ang eksaktong drop-off, pasukan ng building, oras ng pagtanggap, contact number, at backup na tatanggap. Ipadala sa bakery ang iisang pinal na bersyon ng detalye.
+
+Pagkasunduan kung sino ang tatanggap, saan ilalagay, at sino ang magdadala sa cake sa lugar ng paghahain. Humingi sa bakery ng gabay sa paghawak para sa produkto at ibahagi iyon sa tatanggap. Ilayo sa araw at init habang naghihintay; huwag iwanang walang nagbabantay sa sasakyan o lobby.
+
+Kumpirmahin ang delivery window at coverage para sa eksaktong address sa Cebu. Kung magbago ang venue, kuwarto, o iskedyul, ipaalam sa bakery at hintayin ang kumpirmasyon bago i-update ang event team. Tingnan ang [gabay sa delivery sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## I-coordinate ang handoff nga chocolate cake
-
-Pagpili usa ka tigdawat nga magamit sa panahon sa gikasabutan nga bintana sa pagpadala. Ihatag sa White Cakes ang kompleto nga adres, landmark, mobile number, ug bisan unsang gate, lobby, o instruksyon sa opisina. Kumpirma nga ang pagpadala magamit sa kana nga destinasyon ug pangutana bahin sa bayad. Ang usa ka drayber kinahanglan mahibal-an kung kinsa ang modawat sa cake ug asa magkita.
-
-Pagplano kung asa maghulat ang kahon pagkahuman sa paghatud. Ipabilin kini nga patag ug layo sa direktang silaw sa adlaw ug init nga sakyanan. Kung adunay daghang oras sa dili pa i-serve, sunda ang giya sa pag-atiman sa panaderya. Ayaw hunahunaa nga ang Chocolate nanginahanglan usa ka lahi nga lagda sa pagtipig gikan sa usa nga gihatag sa White Cakes alang sa piho nga cake.
-
-Ilakip ang petsa sa panghitabo, gidak-on, lami sa tsokolate, disenyo, inskripsiyon, ug banabana sa pagserbisyo sa order. Kumpirma nga ang lami ug disenyo anaa alang sa gihangyo nga petsa. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga pag-order nga mga cake, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang kinatibuk-ang mga detalye sa pagpadala sa usa ka giya sa Cebu ug i-link ang kasamtangan nga menu alang sa impormasyon sa lami.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## I-coordinate ang handoff ng chocolate cake
-
-Pumili ng receiver na magiging available sa panahon ng napagkasunduang delivery window. Ibigay sa White Cakes ang kumpletong address, landmark, mobile number, at anumang mga tagubilin sa gate, lobby, o opisina. Kumpirmahin na available ang paghahatid sa destinasyong iyon at magtanong tungkol sa bayad. Dapat malaman ng isang driver kung sino ang tatanggap ng cake at kung saan magkikita.
-
-Planuhin kung saan maghihintay ang kahon pagkatapos ng paghahatid. Panatilihin itong patag at malayo sa direktang sikat ng araw at mainit na sasakyan. Kung magkakaroon ng ilang oras bago ihain, sundin ang gabay sa pangangalaga ng panaderya. Huwag ipagpalagay na nangangailangan ang Chocolate ng ibang panuntunan sa pag-iimbak mula sa ibinibigay ng White Cakes para sa partikular na cake na iyon.
-
-Isama ang petsa ng kaganapan, laki, lasa ng tsokolate, disenyo, inskripsiyon, at pagtatantya ng paghahatid sa pagkakasunud-sunod. Kumpirmahin na ang lasa at disenyo ay magagamit para sa hiniling na petsa. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order.
-
-Panatilihin ang pangkalahatang mga detalye ng paghahatid sa isang gabay sa Cebu at i-link sa kasalukuyang menu para sa impormasyon ng lasa.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,45 @@
 ---
 id: WC-0640
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "Planning cake for a large family gathering in Cebu"
-cebuano_title: "Pagplano sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa malaking pagtitipon ng pamilya sa Cebu"
+english_title: "Planning Cake for a Large Family Gathering in Cebu"
+cebuano_title: "Pagplano sa Cake para sa Dakong Tapok sa Pamilya sa Cebu"
+tagalog_title: "Pagpaplano ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu"
 ---
 
-## Plan cake portions for a large family gathering
+## English
 
-Count the people who will be present when cake is served, not just the full family list. Relatives may arrive at different times, and the gathering may have other desserts. Decide whether you want small slices or full party portions and tell White Cakes before choosing a size.
+# Planning Cake for a Large Family Gathering in Cebu
 
-The current guide estimates 8–12 portions for a 6-inch cake, 16–24 for an 8-inch cake, and 30–36 for a 6+8-inch two-tier cake. These are approximate ranges, not guarantees. If your guest count is near the upper end, ask the bakery to confirm the best configuration and serving plan.
+Plan the cake around the schedule, not only the guest count. Decide when the group will cut it, whether relatives arrive in waves, and whether portions need to be set aside for people who leave early. Share the plan with whoever is coordinating the meal.
 
-For a smaller group within a large family, a 4-inch Bento serves about two generous or three modest portions. Include the event date, flavour, design, and delivery location. Confirm the right size and quote; the 50% deposit secures the agreed order after the terms are clear.
+Use the published size estimates as a starting point: 6-inch round about 8–12 party slices, 8-inch about 16–24, and a common 6+8-inch two-tier about 30–36. These are approximate; cake height, design, and cutting change the result. Ask the bakery which current size fits the actual serving plan.
 
-Keep portion guidance in one central guide and link from family-gathering content instead of publishing conflicting guest-count tables.
+Also confirm the display table, receiver, and delivery window. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html) and keep the agreed plan in the order summary.
+
+## Cebuano
+
+# Pagplano sa Cake para sa Dakong Tapok sa Pamilya sa Cebu
+
+Iplano ang cake base sa iskedyul, dili sa ihap sa bisita lang. Desisyoni kanus-a hiwaon, mag-abot ba ang paryente sa nagkalain-laing oras ug adunay bahin nga itagana para sa sayo mouli. Ipaambit ang plano sa tawo nga nag-coordinate sa pagkaon.
+
+Gamita isip sinugdanan ang gipatik nga size estimates: mga 8–12 ka party slice sa 6-inch round, 16–24 sa 8-inch ug 30–36 sa kasagarang 6+8-inch two-tier. Banabana kini; mausab ang resulta tungod sa kataas, disenyo ug paghiwa. Pangutan-a ang panaderya unsang kasamtangang gidak-on ang mohaum sa aktuwal nga serving plan.
+
+Kumpirmaha usab ang display table, modawat ug delivery window. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html) ug ibutang sa order summary ang nasabutang plano.
+
+## Tagalog
+
+# Pagpaplano ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu
+
+Planuhin ang cake ayon sa iskedyul, hindi sa bilang lang ng bisita. Pagpasyahan kung kailan ito hihiwaing, kung paisa-isa ang dating ng mga kamag-anak, at kung may portions na itatabi para sa mga maagang uuwi. Ibahagi ang plano sa taong nag-uugnay ng pagkain.
+
+Gamitin muna ang inilathalang size estimates: mga 8–12 party slice ang 6-inch round, 16–24 ang 8-inch, at 30–36 ang karaniwang 6+8-inch two-tier. Tantiya ang mga ito; nagbabago ang resulta ayon sa taas, design, at paghiwa. Itanong sa bakery kung aling kasalukuyang sukat ang babagay sa aktuwal na serving plan.
+
+Kumpirmahin din ang display table, tatanggap, at delivery window. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) at ilagay sa order summary ang napagkasunduang plano.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano og mga bahin sa cake para sa dakong panagtapok sa pamilya
-
-Pag-ihap sa mga tawo nga motambong kung ang cake gisilbi, dili lang ang tibuuk nga lista sa pamilya. Ang mga paryente mahimong moabut sa lain-laing mga oras, ug ang panagtapok mahimong adunay uban pang mga dessert. Desisyuni kung gusto nimo ang gagmay nga mga hiwa o tibuuk nga mga bahin sa party ug isulti ang White Cake sa dili pa mopili og gidak-on.
-
-Ang kasamtangan nga giya nagbanabana og 8–12 ka bahin alang sa 6-pulgada nga cake, 16–24 alang sa 8-pulgada nga cake, ug 30–36 alang sa 6+8-pulgada nga duha ka hut-ong nga cake. Kini mga gibanabana nga mga sakup, dili mga garantiya. Kung ang ihap sa imong bisita duol sa taas nga tumoy, pangutan-a ang panaderya sa pagkumpirma sa labing kaayo nga plano sa pag-configure ug pag-alagad.
-
-Alang sa gamay nga grupo sulod sa usa ka dako nga pamilya, ang usa ka 4-pulgada nga Bento nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga mga bahin. Ilakip ang petsa sa panghitabo, lami, disenyo, ug lokasyon sa pagpadala. Pagkumpirma sa husto nga gidak-on ug kinutlo; ang 50% nga deposito nagsiguro sa gikasabutan nga order pagkahuman klaro ang mga termino.
-
-Itago ang giya sa bahin sa usa ka sentro nga giya ug link gikan sa sulud sa panagtigum sa pamilya imbis nga mag-publish sa nagkasumpaki nga mga lamesa sa pag-ihap sa bisita.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng mga bahagi ng cake para sa isang malaking pagtitipon ng pamilya
-
-Bilangin ang mga taong dadalo kapag inihain ang cake, hindi lang ang buong listahan ng pamilya. Ang mga kamag-anak ay maaaring dumating sa iba't ibang oras, at ang pagtitipon ay maaaring may iba pang mga dessert. Magpasya kung gusto mo ng maliliit na hiwa o buong bahagi ng party at sabihin sa White Cake bago pumili ng laki.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 na bahagi para sa 6-pulgadang cake, 16–24 para sa 8-pulgadang cake, at 30–36 para sa 6+8-pulgadang two-tier na cake. Ito ay mga tinatayang saklaw, hindi mga garantiya. Kung ang iyong bilang ng bisita ay malapit sa itaas na dulo, hilingin sa panaderya na kumpirmahin ang pinakamahusay na pagsasaayos at plano sa paghahatid.
-
-Para sa isang mas maliit na grupo sa loob ng isang malaking pamilya, ang isang 4-inch na Bento ay naghahain ng halos dalawang mapagbigay o tatlong maliit na bahagi. Isama ang petsa ng kaganapan, lasa, disenyo, at lokasyon ng paghahatid. Kumpirmahin ang tamang laki at quote; sinisigurado ng 50% na deposito ang napagkasunduang order pagkatapos malinaw ang mga tuntunin.
-
-Panatilihin ang gabay sa bahagi sa isang pangunahing gabay at link mula sa content ng pagtitipon ng pamilya sa halip na mag-publish ng mga salungat na talahanayan ng bilang ng bisita.
+- Confirm current size, menu, terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

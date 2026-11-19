@@ -1,38 +1,45 @@
 ---
 id: WC-0662
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; verify venue access and route
 english_title: "How to coordinate cake for a company milestone in Cebu"
 cebuano_title: "Giunsa pag-coordinate ang cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Paano i-coordinate ang cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
-## Set one company contact to meet the delivery and approve the details
+## English
 
-Share the full office or event venue, building entry instructions, requested handoff time, receiver’s name and phone number, and any loading or security process. Ask whether the bakery can serve the location and confirm the delivery fee. One colleague should be responsible for receiving the cake and contacting the bakery if plans change.
+# How to coordinate cake for a company milestone in Cebu
 
-Confirm the size, flavour, message, and approved design before the event. If the cake will wait before the program, ask the bakery for care instructions for the exact product. Do not assume office access or a specific delivery time without confirmation.
+Company event coordination depends on a reliable handoff between organizer, venue, bakery, and receiver. Establish one contact for each side and share the same final delivery window and address. Confirm building entry, security sign-in, elevator or loading access, and where the cake should be handed over.
 
-Keep logistics in the central delivery guide. A corporate route example requires a documented real order and company permission.
+Ask the venue who can accept the cake if the organizer is in a meeting. Provide a reachable phone number and a backup contact, but avoid giving private staff details beyond what is needed for delivery. Confirm who will move the cake from receiving point to storage or display and who will bring serving supplies.
+
+Notify the bakery promptly if the venue or schedule changes and wait for confirmation. Delivery coverage and terms depend on the exact Cebu address; do not assume a new branch, room, or building entrance is covered because another location was. Review the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa pag-coordinate ang cake para sa milestone sa kompanya sa Cebu
+
+Nagsalig ang koordinasyon sa company event sa kasaligan nga pag-turnover tali sa organizer, venue, panaderya ug modawat. Pagtudlo og usa ka contact sa matag bahin ug ipaambit ang parehas nga final delivery window ug address. Kumpirmaha ang pagsulod sa building, security sign-in, elevator o loading access ug asa itunol ang cake.
+
+Pangutan-a ang venue kinsa ang modawat sa cake kon naa sa meeting ang organizer. Ihatag ang numero nga matubag ug backup contact, apan ayaw ipaambit ang personal nga detalye sa staff gawas sa gikinahanglan para sa delivery. Kumpirmaha kinsa ang mobalhin sa cake gikan sa receiving point ngadto sa storage o display ug kinsa ang magdala sa serving supplies.
+
+Pahibaloa dayon ang panaderya kon mausab ang venue o iskedyul ug hulata ang kumpirmasyon. Magdepende sa eksaktong address sa Cebu ang delivery coverage ug terms; ayaw tuohi nga covered ang bag-ong branch, kwarto o entrada kay na-cover ang laing lugar. Tan-awa ang [giya sa cake delivery sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano i-coordinate ang cake para sa mahalagang okasyon ng kumpanya sa Cebu
+
+Nakadepende ang koordinasyon ng company event sa maayos na turnover sa organizer, venue, bakery, at tatanggap. Magtalaga ng isang contact sa bawat panig at ibahagi ang iisang pinal na delivery window at address. Kumpirmahin ang pagpasok sa building, security sign-in, elevator o loading access, at kung saan iaabot ang cake.
+
+Itanong sa venue kung sino ang tatanggap kapag nasa meeting ang organizer. Magbigay ng numerong masasagot at backup contact, pero huwag magbahagi ng pribadong detalye ng staff lampas sa kailangan sa delivery. Kumpirmahin kung sino ang maglilipat ng cake mula receiving point patungo sa storage o display at kung sino ang magdadala ng serving supplies.
+
+Agad ipaalam sa bakery kung magbago ang venue o iskedyul at hintayin ang kumpirmasyon. Nakadepende sa eksaktong address sa Cebu ang delivery coverage at terms; huwag ipagpalagay na sakop ang bagong branch, kuwarto, o pasukan dahil sakop ang ibang lokasyon. Tingnan ang [gabay sa cake delivery sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagbutang ug usa ka kontak sa kompanya aron matubag ang pagpadala ug aprobahan ang mga detalye
-
-Ipaambit ang tibuok nga opisina o lugar sa kalihokan, mga instruksyon sa pagsulod sa building, gipangayo nga oras sa paghatag, ngalan ug numero sa telepono sa tigdawat, ug bisan unsang proseso sa pagkarga o seguridad. Pangutan-a kung ang bakery makaserbisyo sa lokasyon ug makumpirma ang bayad sa pagpadala. Ang usa ka kauban kinahanglan nga responsable sa pagdawat sa cake ug pagkontak sa panaderya kung magbag-o ang mga plano.
-
-Kumpirma ang gidak-on, lami, mensahe, ug giaprobahan nga disenyo sa dili pa ang kalihokan. Kung ang cake maghulat una sa programa, pangutan-a ang panaderya alang sa mga panudlo sa pag-atiman alang sa eksaktong produkto. Ayaw hunahunaa ang pag-access sa opisina o usa ka piho nga oras sa pagpadala nga wala’y kumpirmasyon.
-
-Ibutang ang logistik sa sentro nga giya sa pagpadala. Ang usa ka pananglitan sa ruta sa korporasyon nanginahanglan usa ka dokumentado nga tinuud nga order ug pagtugot sa kompanya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magtakda ng isang contact ng kumpanya upang matugunan ang paghahatid at aprubahan ang mga detalye
-
-Ibahagi ang buong opisina o lugar ng kaganapan, mga tagubilin sa pagpasok sa gusali, hiniling na oras ng handoff, pangalan at numero ng telepono ng tatanggap, at anumang proseso ng pag-load o seguridad. Tanungin kung maihahatid ng panaderya ang lokasyon at kumpirmahin ang bayad sa paghahatid. Ang isang kasamahan ay dapat na responsable sa pagtanggap ng cake at pakikipag-ugnayan sa panaderya kung magbago ang mga plano.
-
-Kumpirmahin ang laki, lasa, mensahe, at inaprubahang disenyo bago ang kaganapan. Kung maghihintay ang cake bago ang programa, tanungin ang panaderya para sa mga tagubilin sa pangangalaga para sa eksaktong produkto. Huwag ipagpalagay ang pag-access sa opisina o isang partikular na oras ng paghahatid nang walang kumpirmasyon.
-
-Panatilihin ang logistik sa gitnang gabay sa paghahatid. Ang isang halimbawa ng ruta ng kumpanya ay nangangailangan ng isang nakadokumentong tunay na order at pahintulot ng kumpanya.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

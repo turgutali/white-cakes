@@ -1,38 +1,39 @@
 ---
 id: WC-0768
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm care instructions for the actual cake
 english_title: "How to keep safe and cool until serving minimalist cake in Cebu"
 cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang minimalist nga cake sa Cebu"
 tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang minimalist na cake sa Cebu"
 ---
 
-## Ask the bakery how the specific minimalist finish should be handled
+## English
 
-A minimalist appearance does not tell you what filling or frosting the cake contains. Ask White Cakes for storage instructions for the exact order and tell it when the cake will be delivered and served. Mention whether the venue is warm, outdoors, or air-conditioned so the advice matches the situation.
+# How to keep safe and cool until serving minimalist cake in Cebu
 
-Arrange for someone to receive the cake directly, keep its box level, and protect it from direct sunlight. Follow the bakery’s directions about refrigeration and when to bring the cake out. If the plan changes, ask before extending the wait or moving the cake.
+Ask the bakery for care instructions for the exact minimalist cake, especially if the design uses a finish or decoration that needs particular handling. Confirm how long it may wait before serving and whether refrigeration is appropriate. Do not decide storage based only on the cake’s plain appearance.
 
-Keep confirmed care instructions in one current guide. Do not infer storage time from a minimalist design or assume all cakes behave alike.
+Keep it level and away from direct sun and heat. Tell the venue the confirmed instructions and assign one person to monitor it. If the venue lacks the recommended conditions, discuss delivery timing before the order is fixed.
+
+## Cebuano
+
+# Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang minimalist nga cake sa Cebu
+
+Pangayo og instruksyon sa pag-atiman sa eksaktong minimalist cake, ilabina kon adunay finish o dekorasyon nga nanginahanglan og pagdumala. Kumpirmaha pila kini kahulat ug angay ba ang refrigerator. Ayaw pagdesisyon sa storage base lang sa simple nga hitsura.
+
+Ipatag ug ipahilayo sa adlaw ug kainit. Ipaambit sa venue ang instruksyon ug pagtudlo og usa nga mobantay. Kon walay maayong kondisyon ang venue, hisguti ang oras sa delivery sa dili pa final ang order.
+
+## Tagalog
+
+# Paano panatilihing ligtas at malamig hanggang ihain ang minimalist na cake sa Cebu
+
+Humingi ng tagubilin sa pag-aalaga sa eksaktong minimalist cake, lalo na kung may finish o dekorasyong nangangailangan ng partikular na paghawak. Kumpirmahin kung gaano ito katagal maghihintay at kung angkop ang refrigerator. Huwag magpasya sa storage batay lang sa payak nitong itsura.
+
+Panatilihing pantay at ilayo sa araw at init. Ibahagi sa venue ang kumpirmadong tagubilin at magtalaga ng magbabantay. Kung wala sa venue ang inirekomendang kondisyon, pag-usapan ang oras ng delivery bago pinal ang order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangutan-a ang panaderya kung giunsa pagdumala ang piho nga minimalist nga pagkahuman
-
-Ang usa ka minimalist nga panagway wala magsulti kanimo kung unsa ang pagpuno o pag-frost sa cake. Pangutan-a ang White Cake alang sa mga instruksyon sa pagtipig alang sa eksakto nga pagkahan-ay ug isulti kini kung kanus-a ihatod ug ihatod ang cake. Hisguti kung ang venue init, sa gawas, o air-conditioned aron ang tambag mohaum sa sitwasyon.
-
-Paghan-ay alang sa usa ka tawo nga direktang makadawat sa cake, ipabilin ang lebel sa kahon niini, ug panalipdan kini gikan sa direktang kahayag sa adlaw. Sunda ang mga direksyon sa panaderya bahin sa pagpabugnaw ug kanus-a ipagawas ang cake. Kon ang plano mausab, pangutana sa dili pa maghulat o ibalhin ang cake.
-
-Itago ang gikumpirma nga mga panudlo sa pag-atiman sa usa ka karon nga giya. Ayaw isulti ang oras sa pagtipig gikan sa usa ka minimalist nga disenyo o hunahunaa nga ang tanan nga mga cake managsama ang pamatasan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tanungin ang panaderya kung paano dapat pangasiwaan ang partikular na minimalist na finish
-
-Ang isang minimalist na hitsura ay hindi nagsasabi sa iyo kung ano ang laman ng pagpuno o frosting ng cake. Magtanong ng mga White Cake para sa mga tagubilin sa pag-iimbak para sa eksaktong pagkakasunud-sunod at sabihin dito kung kailan ihahatid at ihain ang cake. Banggitin kung ang venue ay mainit, nasa labas, o naka-air condition para tumugma ang payo sa sitwasyon.
-
-Ayusin para sa isang tao na direktang tumanggap ng cake, panatilihin ang antas ng kahon nito, at protektahan ito mula sa direktang sikat ng araw. Sundin ang mga direksyon ng panaderya tungkol sa pagpapalamig at kung kailan ilalabas ang cake. Kung magbago ang plano, magtanong bago patagalin ang paghihintay o ilipat ang cake.
-
-Panatilihin ang nakumpirma na mga tagubilin sa pangangalaga sa isang kasalukuyang gabay. Huwag ipagpalagay ang oras ng pag-iimbak mula sa isang minimalist na disenyo o ipagpalagay na ang lahat ng mga cake ay kumikilos nang magkatulad.
+- Verify current menu, available finishes, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

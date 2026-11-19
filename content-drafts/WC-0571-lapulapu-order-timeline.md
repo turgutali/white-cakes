@@ -1,44 +1,45 @@
 ---
 id: WC-0571
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+english_title: "When to Order a Cake for a Lapu-Lapu Family Celebration"
+cebuano_title: "Kanus-a Mag-order og Cake para sa Selebrasyon sa Pamilya sa Lapu-Lapu"
+tagalog_title: "Kailan Mag-order ng Cake para sa Family Celebration sa Lapu-Lapu"
 ---
 
-## Plan a Lapu-Lapu family-cake order with the address ready
+## English
 
-Check the celebration date with White Cakes as early as possible. Made-to-order cakes need at least three days' notice, but the actual date and delivery route still need confirmation. An enquiry does not reserve a production slot.
+# When to Order a Cake for a Lapu-Lapu Family Celebration
 
-When asking about availability, include the cake size, flavour, design, short inscription, and number of people who will eat cake. Provide the full Lapu-Lapu address, landmark, recipient's mobile number, and any gate or building instructions. Confirm that delivery to the exact address is available, then ask for the delivery window and fee.
+Start from the family’s serving date and time, then confirm the bakery can accept that exact order and address. A meal at home, a restaurant gathering, and a party at a separate venue can require different handoff and access plans. Provide the complete Lapu-Lapu location instead of relying on a neighbourhood name alone.
 
-Ask the bakery to confirm the final design, price, and order details in writing. Current serving estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches; share the family serving plan so the size can be checked. The 50% deposit confirms the agreed order after the details are settled.
+White Cakes’ general guidance requests at least three days’ notice for made-to-order cakes. Treat this as a minimum planning reference, not a promise of a booking. Ask earlier for a custom design or a high-demand date, and verify current route coverage for the specific address.
 
-Keep Lapu-Lapu route information in the central order guide and update it only when current service details are verified.
+When the bakery confirms availability, write down the size, flavour, message, final quote, deposit, receiver, access instructions, and delivery window. If the venue or serving time changes, reconfirm the arrangement. See the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Kanus-a Mag-order og Cake para sa Selebrasyon sa Pamilya sa Lapu-Lapu
+
+Sugdi sa petsa ug oras sa pag-serve sa pamilya, dayon kumpirmaha kon madawat sa panaderya ang eksaktong order ug address. Lahi ang handoff ug access plan para sa paniudto sa balay, tapok sa restaurant ug party sa laing venue. Ihatag ang kompleto nga lokasyon sa Lapu-Lapu imbes magsalig sa ngalan sa barangay lang.
+
+Nangayo ang kinatibuk-ang giya sa White Cakes og labing menos tulo ka adlaw nga pahibalo para sa made-to-order cake. Minimum nga reference kini sa pagplano, dili saad nga adunay booking. Pangutana og mas sayo para sa custom design o busy nga petsa ug kumpirmaha ang kasamtangang route coverage sa tukmang address.
+
+Sa pagkumpirma sa availability, isulat ang gidak-on, flavour, mensahe, final quote, deposit, modawat, instruksyon sa access ug delivery window. Kon mausab ang venue o oras sa pag-serve, kumpirmaha pag-usab ang arrangement. Tan-awa ang [giya sa oras sa pag-order og cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Kailan Mag-order ng Cake para sa Family Celebration sa Lapu-Lapu
+
+Magsimula sa petsa at oras ng paghahain ng pamilya, saka tiyaking matatanggap ng bakery ang eksaktong order at address. Magkaiba ang handoff at access plan para sa kainan sa bahay, pagtitipon sa restaurant, at party sa hiwalay na venue. Ibigay ang buong lokasyon sa Lapu-Lapu sa halip na pangalan lang ng barangay.
+
+Humihingi ang pangkalahatang gabay ng White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake. Minimum na sanggunian ito sa pagpaplano, hindi pangako ng booking. Magtanong nang mas maaga para sa custom design o mataong petsa at tiyakin ang kasalukuyang route coverage para sa eksaktong address.
+
+Kapag nakumpirma ang availability, isulat ang sukat, flavour, mensahe, pinal na quote, deposito, tatanggap, tagubilin sa access, at delivery window. Kung magbago ang venue o oras ng paghahain, kumpirmahin muli ang arrangement. Tingnan ang [gabay sa timeline ng pag-order ng cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano ug Lapu-Lapu family-cake order nga andam na ang adres
-
-Susiha ang petsa sa selebrasyon gamit ang White Cake sa sayo nga panahon. Ang made-to-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo, apan ang aktuwal nga petsa ug ruta sa paghatod nagkinahanglan gihapon ug kumpirmasyon. Ang usa ka pangutana wala magreserba ug puwang sa produksiyon.
-
-Kung mangutana bahin sa pagkaanaa, iapil ang gidak-on sa cake, lami, disenyo, mubo nga inskripsiyon, ug gidaghanon sa mga tawo nga mokaon sa cake. Ihatag ang tibuok address sa Lapu-Lapu, landmark, mobile number sa nakadawat, ug bisan unsa nga gate o building instructions. Kumpirma nga ang pagpadala sa eksaktong adres anaa, dayon pangayo alang sa delivery window ug bayad.
-
-Hangyoa ang panaderya sa pagkumpirma sa katapusang disenyo, presyo, ug mga detalye sa pag-order pinaagi sa pagsulat. Ang mga banabana sa kasamtangan nga pagserbisyo mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada; ipaambit ang plano sa pagserbisyo sa pamilya aron masusi ang gidak-on. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order human masulbad ang mga detalye.
-
-Itago ang impormasyon sa ruta sa Lapu-Lapu sa sentro nga giya sa order ug i-update lang kini kung mapamatud-an na ang mga detalye sa serbisyo karon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng Lapu-Lapu family-cake order na nakahanda na ang address
-
-Tingnan ang petsa ng pagdiriwang gamit ang White Cake sa lalong madaling panahon. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, ngunit ang aktwal na petsa at ruta ng paghahatid ay nangangailangan pa rin ng kumpirmasyon. Ang isang pagtatanong ay hindi nagrereserba ng puwang ng produksyon.
-
-Kapag nagtatanong tungkol sa availability, isama ang laki ng cake, lasa, disenyo, maikling inskripsiyon, at bilang ng mga taong kakain ng cake. Ibigay ang buong address ng Lapu-Lapu, landmark, mobile number ng tatanggap, at anumang mga tagubilin sa gate o gusali. Kumpirmahin na available ang paghahatid sa eksaktong address, pagkatapos ay hilingin ang window ng paghahatid at bayad.
-
-Hilingin sa panaderya na kumpirmahin ang huling disenyo, presyo, at mga detalye ng order nang nakasulat. Ang kasalukuyang pagtatantya ng paghahatid ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada; ibahagi ang plano ng paghahatid ng pamilya upang masuri ang laki. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang mga detalye.
-
-Panatilihin ang impormasyon ng ruta ng Lapu-Lapu sa central order guide at i-update lamang ito kapag na-verify ang mga kasalukuyang detalye ng serbisyo.
+- Confirm current Lapu-Lapu address coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

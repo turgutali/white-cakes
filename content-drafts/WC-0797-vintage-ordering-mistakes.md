@@ -1,38 +1,39 @@
 ---
 id: WC-0797
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /journal/how-to-brief-a-custom-cake-cebu.html
 english_title: "Common ordering mistakes to avoid with vintage cake in Cebu"
 cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa vintage nga cake sa Cebu"
 tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa vintage na cake sa Cebu"
 ---
 
-## Avoid treating reference photos as a confirmed design or booking
+## English
 
-A vintage cake photo can show a style, but it does not confirm the bakery can reproduce every border or piping detail for your date. Choose one reference, point out the feature you want adapted, and ask what is possible for the cake size and schedule. Do not assume the photographed cake’s price or availability is current.
+# Common ordering mistakes to avoid with vintage cake in Cebu
 
-Confirm the event date, size, flavour, exact message, complete quote, and delivery plan in writing. Contact the bakery early for detailed piping and wait for its confirmation before treating the order as secured. Double-check names and spelling before production.
+Avoid giving only “vintage” as the design instruction; specify the piping, colour, and lettering you want. Do not choose size by appearance, overlook delivery handling for raised borders, or assume a reference photo confirms the bakery can reproduce it.
 
-Add these checks to the main ordering and custom brief guides. A standalone vintage article should show real approved work and answer a specific design question.
+Use one final brief, proofread the inscription, and confirm the total, payment steps, delivery window, receiver, and venue setup. Ask the bakery before changing any approved detail.
+
+## Cebuano
+
+# Mga kasagarang sayop sa pag-order nga likayan sa vintage nga cake sa Cebu
+
+Likayi ang “vintage” lang nga instruksyon; ispecify ang piping, kolor ug letra. Ayaw pagpili sa gidak-on base sa hitsura, kalimti ang pagdumala sa raised border sa delivery o pagtuo nga makopya sa panaderya ang reference photo.
+
+Gamita ang usa ka final brief, basaha ang inskripsiyon ug kumpirmaha ang total, bayad, delivery window, modawat ug setup sa venue. Pangutana sa panaderya sa dili pa usbon ang aprubadong detalye.
+
+## Tagalog
+
+# Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa vintage na cake sa Cebu
+
+Iwasang “vintage” lang ang design instruction; tukuyin ang piping, kulay, at lettering. Huwag pumili ng sukat batay sa itsura, kaligtaan ang paghawak sa nakaangat na border sa delivery, o ipagpalagay na kayang kopyahin ng bakery ang reference photo.
+
+Gumamit ng iisang pinal na brief, basahin muli ang inscription, at kumpirmahin ang kabuuan, payment steps, delivery window, tatanggap, at setup sa venue. Magtanong sa bakery bago baguhin ang aprubadong detalye.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang pagtagad sa reference nga mga litrato isip usa ka kumpirmadong disenyo o booking
-
-Ang usa ka litrato sa vintage nga cake mahimong magpakita sa usa ka istilo, apan wala kini nagpamatuod nga ang panaderya makahimo sa pagkopya sa matag utlanan o detalye sa piping alang sa imong petsa. Pagpili og usa ka reperensiya, itudlo ang bahin nga gusto nimong ipahiangay, ug pangutana kon unsay posible alang sa gidak-on ug eskedyul sa cake. Ayaw hunahunaa ang presyo sa cake nga nakuhaan sa litrato o pagkaanaa karon.
-
-Pagkumpirma sa petsa sa panghitabo, gidak-on, lami, eksakto nga mensahe, kompleto nga kinutlo, ug plano sa pagpadala sa pagsulat. Kontaka ang panaderya og sayo alang sa detalyadong piping ug paghulat sa kumpirmasyon niini sa dili pa itratar ang order nga secured. Pag-double check sa mga ngalan ug spelling sa dili pa ang produksyon.
-
-Idugang kini nga mga tseke sa panguna nga pag-order ug naandan nga mubu nga mga giya. Ang usa ka standalone nga artikulo sa vintage kinahanglan magpakita sa tinuud nga giaprubahan nga trabaho ug tubagon ang usa ka piho nga pangutana sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasang ituring ang mga reference na larawan bilang isang kumpirmadong disenyo o booking
-
-Maaaring magpakita ng istilo ang isang vintage cake na larawan, ngunit hindi nito kinukumpirma na maaaring kopyahin ng panaderya ang bawat hangganan o detalye ng piping para sa iyong petsa. Pumili ng isang reference, ituro ang feature na gusto mong iakma, at itanong kung ano ang posible para sa laki at iskedyul ng cake. Huwag ipagpalagay na ang presyo o availability ng nakuhanan ng larawan ay napapanahon.
-
-Kumpirmahin ang petsa ng kaganapan, laki, lasa, eksaktong mensahe, kumpletong quote, at plano ng paghahatid nang nakasulat. Maagang makipag-ugnayan sa panaderya para sa detalyadong piping at hintayin ang kumpirmasyon nito bago ituring ang order bilang secured. I-double check ang mga pangalan at spelling bago ang produksyon.
-
-Idagdag ang mga tseke na ito sa pangunahing pag-order at mga custom na maikling gabay. Ang isang standalone na vintage na artikulo ay dapat magpakita ng tunay na inaprubahang trabaho at sagutin ang isang partikular na tanong sa disenyo.
+- Confirm current production capability, lead time, pricing, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

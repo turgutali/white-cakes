@@ -1,44 +1,39 @@
 ---
 id: WC-0738
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
 english_title: "How to coordinate mango cake in Cebu"
 cebuano_title: "Giunsa pag-coordinate ang mango cake sa Cebu"
 tagalog_title: "Paano i-coordinate ang mango cake sa Cebu"
 ---
 
-## Coordinate a mango-cake delivery and serving plan
+## English
 
-When arranging delivery, choose someone who can receive the cake during the confirmed window. Send White Cakes the full address, landmark, local mobile number, and any gate, lobby, or office instructions. Ask whether the location is within the available delivery area and confirm the address-based fee. A driver should have a real contact if the entrance is hard to identify.
+# How to coordinate mango cake in Cebu
 
-Plan where the cake will be held. Keep it away from direct sun and a hot vehicle; if it must wait for several hours, follow the bakery's refrigeration guidance. Tell the receiver when the cake will be served and ask White Cakes whether any product-specific care is needed. Do not assume that a mango flavour changes storage requirements without confirmation.
+Coordinate delivery with the venue contact who can explain access, not only the person who ordered the mango cake. Confirm exact address, entry point, receiving hours, and a working phone number. The bakery should confirm coverage and provide a delivery window for the destination.
 
-In the order message, include the date, requested size, Mango flavour, design, inscription, and number of cake eaters. Confirm Mango availability for the date and configuration. White Cakes requires at least three days' notice for made-to-order cakes, and its 50% deposit confirms the agreed order after the design and delivery terms are set.
+Name a receiver and decide where the cake will be kept until serving. Share any product-specific handling notes from the bakery. If the route, location, or schedule changes, request updated confirmation before the event team relies on the new plan.
 
-Keep delivery instructions in the shared Cebu guide. Publish a mango-specific delivery case only if a real, verified event provides distinct information.
+## Cebuano
+
+# Giunsa pag-coordinate ang mango cake sa Cebu
+
+I-coordinate ang delivery sa contact sa venue nga makasaysay sa access, dili lang sa nag-order sa mango cake. Kumpirmaha ang address, entrada, oras sa pagdawat ug numero nga motubag. Kumpirmahon sa panaderya ang coverage ug delivery window sa destinasyon.
+
+Pagtudlo og modawat ug desisyoni asa ibutang ang cake hangtod i-serve. Ipaambit ang instruksyon sa pag-atiman gikan sa panaderya. Kon mausab ang ruta, lugar o iskedyul, pangayo og bag-ong kumpirmasyon sa dili pa mosalig ang event team.
+
+## Tagalog
+
+# Paano i-coordinate ang mango cake sa Cebu
+
+I-coordinate ang delivery sa contact ng venue na makapagpapaliwanag ng access, hindi lang sa umorder ng mango cake. Kumpirmahin ang address, pasukan, oras ng pagtanggap, at numerong sasagot. Kumpirmahin ng bakery ang coverage at delivery window para sa destinasyon.
+
+Magtalaga ng tatanggap at magpasya kung saan ilalagay ang cake hanggang ihain. Ibahagi ang tagubilin sa paghawak mula sa bakery. Kung magbago ang ruta, lokasyon, o iskedyul, humingi ng updated confirmation bago umasa ang event team sa bagong plano.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-coordinate og mango-cake delivery ug plano sa pag-alagad
-
-Kung maghikay sa paghatod, pagpili og tawo nga makadawat sa cake atol sa kumpirmadong bintana. Ipadala ang White Cakes sa tibuok nga adres, landmark, lokal nga numero sa mobile, ug bisan unsang gate, lobby, o instruksyon sa opisina. Pangutan-a kung ang lokasyon naa sa sulod sa magamit nga lugar sa pagpadala ug kumpirmahi ang bayad nga nakabase sa address. Ang usa ka drayber kinahanglan adunay usa ka tinuod nga kontak kung ang entrada lisud mailhan.
-
-Planoha kung asa ipahigayon ang cake. Ipahilayo kini sa direktang adlaw ug init nga sakyanan; kung kinahanglan maghulat ug daghang oras, sunda ang giya sa pagpabugnaw sa panaderya. Sultihi ang tigdawat kung kanus-a i-serve ang cake ug pangutan-a ang White Cakes kung kinahanglan ba ang bisan unsang pag-atiman nga piho sa produkto. Ayaw hunahunaa nga ang lami sa mangga nagbag-o sa mga kinahanglanon sa pagtipig nga wala’y kumpirmasyon.
-
-Sa mensahe sa order, iapil ang petsa, gihangyo nga gidak-on, lami sa Mango, disenyo, inskripsiyon, ug gidaghanon sa mga mokaon og cake. Kumpirma ang pagkaanaa sa Mango para sa petsa ug configuration. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga pag-order nga mga cake, ug ang 50% nga deposito niini nagpamatuod sa gikasabutan nga order pagkahuman natakda ang disenyo ug mga termino sa pagpadala.
-
-Itago ang mga instruksyon sa pagpadala sa gipaambit nga giya sa Cebu. Imantala ang usa ka kaso sa paghatod nga espesipiko sa mangga kung ang tinuod, napamatud-an nga panghitabo naghatag ug lahi nga impormasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-coordinate ng plano sa paghahatid at paghahatid ng mango-cake
-
-Kapag nag-aayos ng paghahatid, pumili ng taong makakatanggap ng cake sa panahon ng kumpirmadong window. Ipadala sa White Cakes ang buong address, landmark, lokal na numero ng mobile, at anumang mga tagubilin sa gate, lobby, o opisina. Tanungin kung ang lokasyon ay nasa loob ng magagamit na lugar ng paghahatid at kumpirmahin ang bayad na batay sa address. Ang isang driver ay dapat magkaroon ng isang tunay na contact kung ang pasukan ay mahirap makilala.
-
-Planuhin kung saan gaganapin ang cake. Ilayo ito sa direktang araw at mainit na sasakyan; kung kailangan itong maghintay ng ilang oras, sundin ang gabay sa pagpapalamig ng panaderya. Sabihin sa tatanggap kung kailan ihahain ang cake at tanungin ang White Cake kung kailangan ng anumang pangangalagang partikular sa produkto. Huwag ipagpalagay na ang lasa ng mangga ay nagbabago ng mga kinakailangan sa imbakan nang walang kumpirmasyon.
-
-Sa mensahe ng order, isama ang petsa, hiniling na laki, lasa ng Mango, disenyo, inskripsiyon, at bilang ng mga kumakain ng cake. Kumpirmahin ang availability ng Mango para sa petsa at configuration. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, at ang 50% na deposito nito ay nagpapatunay sa napagkasunduang order pagkatapos maitakda ang disenyo at mga tuntunin sa paghahatid.
-
-Panatilihin ang mga tagubilin sa paghahatid sa nakabahaging gabay sa Cebu. Mag-publish lamang ng case ng paghahatid na partikular sa mangga kung ang isang tunay, na-verify na kaganapan ay nagbibigay ng natatanging impormasyon.
+- Verify current menu, availability, ordering terms, ingredients, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,39 @@
 ---
 id: WC-0726
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html; verify mango product and current size ranges
 english_title: "How to estimate servings for mango cake in Cebu"
 cebuano_title: "Giunsa pagbanabana sa servings para sa mango cake sa Cebu"
 tagalog_title: "Paano tantiyahin ang servings para sa mango cake sa Cebu"
 ---
 
-## Estimate portions from the cake size, not from its mango flavour
+## English
 
-Count who will actually eat cake and decide whether you want modest dessert slices or larger party portions. Tell the bakery if other desserts will be served and ask which current size fits. Confirm that the mango option is available for the date, but keep flavour selection separate from serving estimates.
+# How to estimate servings for mango cake in Cebu
 
-The current guide lists approximate party portions of 8–12 for a 6-inch cake, 16–24 for an 8-inch cake, and 30–36 for a 6+8-inch two-tier cake. Ask the bakery to confirm the current range and cutting style. Do not infer exact servings from an online photo.
+Estimate servings from actual cake eaters and the planned slice size. A 6-inch round is roughly 8–12 party portions, an 8-inch around 16–24, and a common 6+8-inch two-tier about 30–36. These are approximate and may not match every mango cake configuration; height and cutting matter.
 
-Keep portion guidance in the main size article and current flavour details in the flavour guide.
+Tell the bakery whether guests will have a meal or other desserts, then ask which currently available mango size fits. Do not infer scale or servings from a styled photo. Confirm the product and size together in the quote.
+
+## Cebuano
+
+# Giunsa pagbanabana sa servings para sa mango cake sa Cebu
+
+Banabanaa ang servings base sa tinuod nga mokaon ug gidak-on sa hiwa. Mga 8–12 ka party portion ang 6-inch round, 16–24 ang 8-inch ug mga 30–36 ang kasagarang 6+8-inch nga two-tier. Banabana kini ug mahimong lahi sa matag mango cake; importante ang kataas ug paghiwa.
+
+Isulti kon adunay pagkaon o laing dessert, unya pangutan-a unsang kasamtangang mango size ang mohaom. Ayaw kuhaa ang scale o servings sa styled nga litrato. Kumpirmaha sa quote ang produkto ug gidak-on nga dungan.
+
+## Tagalog
+
+# Paano tantiyahin ang servings para sa mango cake sa Cebu
+
+Tantiyahin ang serving batay sa mga talagang kakain at laki ng hiwa. Mga 8–12 party portion ang 6-inch na round, 16–24 ang 8-inch, at mga 30–36 ang karaniwang 6+8-inch na two-tier. Tantiya ito at maaaring mag-iba sa bawat mango cake; mahalaga ang taas at paghiwa.
+
+Sabihin kung may pagkain o ibang dessert at itanong kung aling kasalukuyang mango size ang babagay. Huwag hulaan ang scale o serving mula sa styled na larawan. Kumpirmahin nang magkasama sa quote ang produkto at sukat.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagbanabana sa mga bahin gikan sa gidak-on sa cake, dili gikan sa lami niini nga mangga
-
-Pag-ihap kung kinsa ang aktuwal nga mokaon sa cake ug pagdesisyon kung gusto nimo ang kasarangan nga mga hiwa sa dessert o mas daghang bahin sa party. Sultihi ang panaderya kon ang ubang mga panam-is isilbi ug pangutan-a kung unsa nga gidak-on ang mohaum. Kumpirma nga ang opsyon sa mangga anaa alang sa petsa, apan ibulag ang pagpili sa lami gikan sa mga banabana sa pagserbisyo.
-
-Ang kasamtangan nga giya naglista sa gibana-bana nga parti nga mga bahin sa 8–12 alang sa 6-pulgada nga cake, 16–24 alang sa 8-pulgada nga cake, ug 30–36 alang sa 6+8-pulgada nga duha ka hut-ong nga cake. Pangutan-a ang panaderya sa pagkumpirma sa kasamtangan nga range ug estilo sa pagputol. Ayaw pag-infer sa eksaktong mga servings gikan sa usa ka online nga litrato.
-
-Itago ang giya sa bahin sa panguna nga gidak-on nga artikulo ug karon nga mga detalye sa lami sa giya sa lami.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang mga bahagi mula sa laki ng cake, hindi mula sa lasa nitong mangga
-
-Bilangin kung sino ang aktuwal na kakain ng cake at magpasya kung gusto mo ng katamtamang hiwa ng dessert o mas malaking bahagi ng party. Sabihin sa panaderya kung iba pang dessert ang ihahain at itanong kung aling laki ang akma. Kumpirmahin na available ang pagpipiliang mangga para sa petsa, ngunit panatilihing hiwalay ang pagpili ng lasa sa mga pagtatantya ng paghahatid.
-
-Ang kasalukuyang gabay ay naglilista ng mga tinatayang bahagi ng party na 8–12 para sa 6-pulgadang cake, 16–24 para sa 8-pulgadang cake, at 30–36 para sa 6+8-pulgadang two-tier na cake. Hilingin sa panaderya na kumpirmahin ang kasalukuyang hanay at istilo ng pagputol. Huwag maghinuha ng eksaktong mga serving mula sa isang online na larawan.
-
-Panatilihin ang gabay sa bahagi sa pangunahing laki ng artikulo at kasalukuyang mga detalye ng lasa sa gabay sa lasa.
+- Verify current menu, availability, ordering terms, ingredients, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

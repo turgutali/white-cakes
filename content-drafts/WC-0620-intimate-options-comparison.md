@@ -1,38 +1,45 @@
 ---
 id: WC-0620
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html and /journal/cake-sizes-cebu.html
-english_title: "How to compare options for cake for a small intimate gathering in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa gamay ug suod nga panagtigom sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa maliit at malapit na pagtitipon sa Cebu"
+english_title: "How to Compare Cake Options for an Intimate Cebu Gathering"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Cake para sa Suod nga Tapok sa Cebu"
+tagalog_title: "Paano Paghambingin ang mga Opsyon ng Cake para sa Intimate na Pagtitipon sa Cebu"
 ---
 
-## Compare sizes by the real number of guests and portion style
+## English
 
-For an intimate event, decide how many people will share cake and whether slices are modest or generous. Ask the bakery which current size fits and compare it with other available products. A small gathering may not need the largest design, even if the celebration is important.
+# How to Compare Cake Options for an Intimate Cebu Gathering
 
-The 4-inch Bento is described as about two generous or three modest servings. Confirm the estimate, flavour options, and current price. Compare the design and handoff plan separately, especially if the cake is a surprise or the venue is not a home.
+Compare options by the role the cake will play: a small shared dessert, a gift for one person, or the visual centre of a few-person celebration. Ask the host how many people will share it, where it will sit, and whether it follows a meal.
 
-Update the shared product comparison and central size page with current information. Link them instead of creating another duplicate comparison URL.
+Then compare available sizes and designs. A larger cake may not add value if only a few people will eat it, while a very small size may not fit the chosen message or decoration. Confirm current availability for the date and ask how the cake will be served.
+
+Use complete written quotes, including flavour, custom details, deposit, and delivery. Do not choose from photos alone. See the [which cake guide](/journal/which-cake.html) and [size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Cake para sa Suod nga Tapok sa Cebu
+
+Itandi ang kapilian sumala sa papel sa cake: gamay nga dessert nga ipaambit, regalo para sa usa ka tawo o biswal nga sentro sa selebrasyon sa pipila ka tawo. Pangutan-a ang host pila ang mopaambit niini, asa ibutang ug human ba kini sa pagkaon.
+
+Dayon ikompara ang available nga gidak-on ug disenyo. Basin walay dugang bili ang mas dako nga cake kon pipila ra mokaon niini, samtang basin dili moigo sa mensahe o dekorasyon ang gamay kaayo nga gidak-on. Kumpirmaha ang availability sa petsa ug pangutan-a unsaon pag-serve.
+
+Gamita ang kompleto nga sinulat nga quote, lakip ang flavour, custom details, deposit ug delivery. Ayaw pagpili base sa litrato lang. Tan-awa ang [giya unsang cake ang pilion](/journal/which-cake.html) ug [size guide](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Paghambingin ang mga Opsyon ng Cake para sa Intimate na Pagtitipon sa Cebu
+
+Ihambing ang mga opsyon ayon sa papel ng cake: maliit na dessert na pagsasaluhan, regalo para sa isang tao, o visual centre ng selebrasyon ng iilang tao. Tanungin ang host kung ilan ang magsasalo rito, saan ito ilalagay, at kung pagkatapos ng kainan ihahain.
+
+Pagkatapos, ihambing ang available na sukat at design. Maaaring walang dagdag na pakinabang ang mas malaking cake kung iilan lang ang kakain, samantalang maaaring hindi magkasya sa napakaliit na sukat ang gustong mensahe o dekorasyon. Kumpirmahin ang availability sa petsa at itanong kung paano ihahain ang cake.
+
+Gumamit ng kumpletong nakasulat na quote, kasama ang flavour, custom details, deposito, at delivery. Huwag pumili batay sa mga larawan lang. Tingnan ang [gabay kung aling cake ang pipiliin](/journal/which-cake.html) at [size guide](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang mga gidak-on pinaagi sa tinuod nga gidaghanon sa mga bisita ug estilo sa bahin
-
-Alang sa usa ka suod nga kalihokan, pagdesisyon kung pila ka mga tawo ang mopaambit sa cake ug kung ang mga hiwa kasarangan o manggihatagon. Pangutan-a ang panaderya kung unsa nga gidak-on ang mohaum ug itandi kini sa ubang mga produkto nga magamit. Ang usa ka gamay nga panagtapok mahimong dili kinahanglan ang pinakadako nga disenyo, bisan kung ang selebrasyon hinungdanon.
-
-Ang 4-pulgada nga Bento gihulagway nga mga duha ka manggihatagon o tulo ka kasarangan nga pag-alagad. Kumpirma ang banabana, mga kapilian sa lami, ug kasamtangang presyo. Itandi ang disenyo ug handoff nga plano nga gilain, ilabi na kung ang cake usa ka sorpresa o ang venue dili usa ka balay.
-
-I-update ang gipaambit nga pagtandi sa produkto ug panid sa sentral nga gidak-on nga adunay karon nga kasayuran. I-link kini imbes nga maghimo ug laing duplicate nga URL sa pagtandi.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing ang mga laki ayon sa totoong bilang ng mga bisita at istilo ng bahagi
-
-Para sa isang matalik na kaganapan, magpasya kung gaano karaming tao ang magbabahagi ng cake at kung ang mga hiwa ay katamtaman o mapagbigay. Tanungin ang panaderya kung aling sukat ang akma at ihambing ito sa iba pang magagamit na mga produkto. Maaaring hindi kailangan ng isang maliit na pagtitipon ang pinakamalaking disenyo, kahit na mahalaga ang pagdiriwang.
-
-Ang 4-inch na Bento ay inilarawan bilang mga dalawang mapagbigay o tatlong katamtamang serving. Kumpirmahin ang pagtatantya, mga opsyon sa lasa, at kasalukuyang presyo. Ihambing ang disenyo at handoff plan nang hiwalay, lalo na kung ang cake ay isang sorpresa o ang venue ay hindi isang tahanan.
-
-I-update ang ibinahaging paghahambing ng produkto at gitnang laki ng page gamit ang kasalukuyang impormasyon. I-link ang mga ito sa halip na gumawa ng isa pang duplicate na URL ng paghahambing.
+- Verify current size and order availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0584
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html; verify current delivery availability independently
-english_title: "How to plan cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Giunsa pagplano ang cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Paano planuhin ang cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html
+english_title: "How to Plan Cake for a Large Lapu-Lapu Family Gathering"
+cebuano_title: "Giunsa Pagplano sa Cake para sa Dakong Tapok sa Pamilya sa Lapu-Lapu"
+tagalog_title: "Paano Magplano ng Cake para sa Malaking Family Gathering sa Lapu-Lapu"
 ---
 
-## Size the cake for the family who will be at the celebration
+## English
 
-Count the likely cake eaters and consider whether the cake follows a full meal or other desserts. Tell the bakery whether you expect modest slices or party portions and ask it to recommend a size. If relatives are traveling from different places, use the expected serving-time headcount rather than everyone invited at some point in the day.
+# How to Plan Cake for a Large Lapu-Lapu Family Gathering
 
-Current guidance estimates 8–12 party slices for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. The ranges are approximate; confirm the right size for your plan. Ask separately whether delivery to your Lapu-Lapu address is available and what timing and fee apply.
+Estimate the guests who will be present when dessert is served, not everyone on the family invitation list. Ask the host whether cake will be the only dessert, whether people will arrive in stages, and what slice size is appropriate after the meal.
 
-Keep serving estimates in the central size guide. Do not imply a delivery route from a city mention alone.
+The published guide estimates 8–12 party slices from a 6-inch round, 16–24 from an 8-inch round, and 30–36 from a common 6+8-inch two-tier. These figures are approximate and depend on design, height, and cutting style. Confirm the size recommendation with the bakery and check the venue’s table space.
+
+For a large cake, name a receiver and plan where it will be placed after delivery. Confirm the exact Lapu-Lapu address and current coverage before finalizing. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Cake para sa Dakong Tapok sa Pamilya sa Lapu-Lapu
+
+Ibanabana ang mga bisita nga naa sa oras sa dessert, dili ang tanan sa lista sa imbitasyon sa pamilya. Pangutan-a ang host kon cake ra ba ang dessert, mag-abot ba ang mga tawo sa nagkalain-laing oras ug unsang kadak-on sa hiwa ang angay human sa pagkaon.
+
+Gibanabana sa gipatik nga giya ang 8–12 ka party slice gikan sa 6-inch round, 16–24 gikan sa 8-inch round ug 30–36 sa kasagarang 6+8-inch two-tier. Banabana kini ug magdepende sa disenyo, kataas ug paagi sa paghiwa. Kumpirmaha ang rekomendasyon sa gidak-on sa panaderya ug susiha ang luna sa lamesa sa venue.
+
+Para sa dakong cake, pagngalan og modawat ug pagplano asa kini ibutang human sa delivery. Kumpirmaha ang tukmang address sa Lapu-Lapu ug kasamtangang coverage sa dili pa tapuson ang order. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Magplano ng Cake para sa Malaking Family Gathering sa Lapu-Lapu
+
+Tantiyahin ang mga bisitang naroroon kapag oras na ng dessert, hindi lahat ng nasa listahan ng imbitasyon ng pamilya. Itanong sa host kung cake lang ang dessert, kung paisa-isa ang dating ng mga tao, at kung anong laki ng hiwa ang angkop pagkatapos kumain.
+
+Tinatantiya ng inilathalang gabay ang 8–12 party slice mula sa 6-inch round, 16–24 mula sa 8-inch round, at 30–36 mula sa karaniwang 6+8-inch two-tier. Tantiya ang mga bilang at nakadepende sa design, taas, at paraan ng paghiwa. Kumpirmahin sa bakery ang rekomendasyon sa sukat at suriin ang espasyo sa mesa ng venue.
+
+Para sa malaking cake, magtalaga ng tatanggap at planuhin kung saan ito ilalagay pagkatapos ng delivery. Kumpirmahin ang eksaktong address sa Lapu-Lapu at kasalukuyang coverage bago tapusin ang order. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Laki ang cake para sa pamilya nga naa sa selebrasyon
-
-Pag-ihap sa lagmit nga mokaon og cake ug hunahunaa kon ang cake nagsunod ba sa bug-os nga pagkaon o uban pang mga dessert. Sultihi ang panaderya kung nagdahom ka nga kasarangan nga mga hiwa o mga bahin sa party ug hangyoa kini sa pagrekomenda sa usa ka gidak-on. Kung ang mga paryente nagbiyahe gikan sa lainlaing mga lugar, gamita ang gipaabut nga oras sa pagserbisyo imbes ang tanan nga giimbitahan sa usa ka punto sa adlaw.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices sa 6 ka pulgada, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Ang mga han-ay gibanabana; kumpirmahi ang husto nga gidak-on alang sa imong plano. Pangutan-a og lain kon ang delivery sa imong Lapu-Lapu address available ug unsay timing ug fee nga magamit.
-
-Ipadayon ang pagserbisyo sa mga banabana sa sentro nga giya sa gidak-on. Ayaw pagpasabot ug ruta sa paghatod gikan sa paghisgot sa siyudad nga nag-inusara.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Sukatin ang cake para sa pamilyang dadalo sa pagdiriwang
-
-Bilangin ang malamang na kumakain ng cake at isaalang-alang kung ang cake ay sumusunod sa isang buong pagkain o iba pang mga dessert. Sabihin sa panaderya kung inaasahan mo ang katamtamang mga hiwa o bahagi ng party at hilingin itong magrekomenda ng laki. Kung ang mga kamag-anak ay naglalakbay mula sa iba't ibang lugar, gamitin ang inaasahang oras ng paghahatid ng headcount kaysa sa lahat ng imbitado sa isang punto ng araw.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa isang 6+8-pulgada na two-tier na cake. Ang mga saklaw ay tinatayang; kumpirmahin ang tamang sukat para sa iyong plano. Magtanong nang hiwalay kung available ang paghahatid sa iyong address sa Lapu-Lapu at kung anong oras at bayad ang ilalapat.
-
-Panatilihin ang paghahatid ng mga pagtatantya sa gitnang gabay sa laki. Huwag magpahiwatig ng ruta ng paghahatid mula sa isang pagbanggit ng lungsod lamang.
+- Confirm current Lapu-Lapu route coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

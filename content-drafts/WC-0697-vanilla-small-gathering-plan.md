@@ -1,44 +1,45 @@
 ---
 id: WC-0697
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
 english_title: "Planning vanilla cake in Cebu"
 cebuano_title: "Pagplano sa vanilla cake sa Cebu"
 tagalog_title: "Pagpaplano ng vanilla cake sa Cebu"
 ---
 
-## Plan a vanilla cake for a small Cebu gathering
+## English
 
-Start by counting the people likely to share cake. For two or three people, White Cakes' 4-inch Bento offers about two generous or three modest servings. A small family gathering may need a larger cake if everyone will have a full slice; tell the bakery the number of cake eaters and ask what size fits.
+# Planning vanilla cake in Cebu
 
-Vanilla appears on White Cakes' current flavour list. Confirm that it is available for the requested date and cake size. If the gathering includes people with dietary restrictions, contact the bakery to ask about the actual ingredients and preparation; do not assume a flavour is allergen-free based on its name.
+For a small gathering, count the people who will actually eat cake and note any other dessert. Decide whether vanilla cake is the main treat or one of several; this changes how much cake is practical. Share the count and serving style with the bakery.
 
-Send the date, size, flavour, a short inscription, design reference, and delivery or pickup plan together. Confirm the quote and availability before paying. Made-to-order cakes need at least three days' notice, and the 50% deposit confirms the agreed order. If delivery is planned, include the full address, landmark, receiving contact, delivery window, and fee confirmation.
+A 4-inch Bento is estimated at about two generous or three modest servings after a meal; a 6-inch round is around 8–12 party slices. These are approximate and may not describe every vanilla format. Confirm current size and flavour availability before choosing.
 
-Keep portion ranges in the shared size guide and menu details in the current flavour guide so they remain consistent.
+Check that the table has room for the cake and candles, and that someone can cut or serve it. Put the agreed size and vanilla option in the written quote.
+
+## Cebuano
+
+# Pagplano sa vanilla cake sa Cebu
+
+Para sa gamay nga tapok, ihap-a ang tinuod nga mokaon ug ilista kon adunay laing dessert. Desisyoni kon pangunang pagkaon ba ang vanilla cake o usa sa daghan; makaapekto kini sa praktikal nga gidak-on. Ihatag sa panaderya ang ihap ug estilo sa pag-serve.
+
+Gibanabana nga mga duha ka dagkong o tulo ka gagmay nga serving human mokaon ang 4-inch Bento; mga 8–12 ka party slice ang 6-inch round. Banabana kini ug dili garantiya sa tanang vanilla format. Kumpirmaha ang gidak-on ug flavour availability sa dili pa mopili.
+
+Susiha kon adunay luna sa lamesa para sa cake ug kandila, ug adunay mohiwa o mo-serve. Ibutang sa sinulat nga quote ang gikasabotang gidak-on ug vanilla option.
+
+## Tagalog
+
+# Pagpaplano ng vanilla cake sa Cebu
+
+Para sa maliit na salu-salo, bilangin ang talagang kakain at itala kung may ibang dessert. Magpasya kung pangunahing handa ang vanilla cake o isa lang sa marami; nakaaapekto ito sa praktikal na laki. Ibigay sa bakery ang bilang at paraan ng paghahain.
+
+Tinatayang mga dalawang masaganang serving o tatlong maliit pagkatapos kumain ang 4-inch Bento; mga 8–12 party slice ang 6-inch na round. Tantiya ito at maaaring hindi tumukoy sa bawat vanilla format. Kumpirmahin ang sukat at flavour availability bago pumili.
+
+Tiyaking may puwang sa mesa para sa cake at kandila at may maghihiwa o maghahain. Ilagay sa nakasulat na quote ang napagkasunduang sukat at vanilla option.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano ug vanilla cake para sa gamay nga panagtapok sa Sugbo
-
-Pagsugod pinaagi sa pag-ihap sa mga tawo nga lagmit mopaambit sa cake. Alang sa duha o tulo ka mga tawo, ang 4-pulgada nga Bento sa White Cakes nagtanyag mga duha ka manggihatagon o tulo ka kasarangan nga pag-alagad. Ang usa ka gamay nga panagtapok sa pamilya mahimong magkinahanglan og usa ka mas dako nga cake kung ang tanan adunay usa ka bug-os nga hiwa; sultihi ang panaderya sa gidaghanon sa mga tigkaon ug cake ug pangutana kon unsa nga gidak-on ang angay.
-
-Ang vanilla makita sa White Cakes karon nga lista sa lami. Kumpirma nga kini anaa alang sa gihangyo nga petsa ug gidak-on sa cake. Kung ang panagtapok naglakip sa mga tawo nga adunay mga pagdili sa pagkaon, kontaka ang panaderya aron mangutana bahin sa aktwal nga mga sangkap ug pagpangandam; ayaw paghunahuna nga ang usa ka lami walay allergen base sa ngalan niini.
-
-Ipadala ang petsa, gidak-on, lami, mubo nga inskripsiyon, reference sa disenyo, ug delivery o pickup nga plano nga magkauban. Kumpirma ang quote ug availability sa dili pa mobayad. Ang made-to-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order. Kung giplano ang pagpadala, ilakip ang tibuuk nga adres, landmark, pagdawat kontak, bintana sa pagpadala, ug kumpirmasyon sa bayad.
-
-Itago ang mga han-ay sa bahin sa gipaambit nga giya sa gidak-on ug mga detalye sa menu sa kasamtangan nga giya sa lami aron sila magpabilin nga makanunayon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng vanilla cake para sa isang maliit na pagtitipon sa Cebu
-
-Magsimula sa pamamagitan ng pagbibilang ng mga taong malamang na magbahagi ng cake. Para sa dalawa o tatlong tao, ang 4-pulgadang Bento ng White Cakes ay nag-aalok ng humigit-kumulang dalawang mapagbigay o tatlong simpleng serving. Ang isang maliit na pagtitipon ng pamilya ay maaaring mangailangan ng isang mas malaking cake kung ang lahat ay magkakaroon ng isang buong slice; sabihin sa panaderya ang bilang ng mga kumakain ng cake at itanong kung anong sukat ang akma.
-
-Lumilitaw ang vanilla sa kasalukuyang listahan ng lasa ng White Cakes. Kumpirmahin na available ito para sa hiniling na petsa at laki ng cake. Kung kasama sa pagtitipon ang mga taong may mga paghihigpit sa pagkain, makipag-ugnayan sa panaderya upang magtanong tungkol sa mga aktwal na sangkap at paghahanda; huwag ipagpalagay na ang lasa ay walang allergen batay sa pangalan nito.
-
-Magpadala ng petsa, laki, lasa, isang maikling inskripsiyon, sanggunian sa disenyo, at plano sa paghahatid o pagkuha nang magkasama. Kumpirmahin ang quote at availability bago magbayad. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order. Kung pinlano ang paghahatid, isama ang buong address, landmark, contact sa pagtanggap, window ng paghahatid, at kumpirmasyon ng bayad.
-
-Panatilihin ang mga saklaw ng bahagi sa gabay sa nakabahaging laki at mga detalye ng menu sa kasalukuyang gabay sa lasa upang manatiling pare-pareho ang mga ito.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

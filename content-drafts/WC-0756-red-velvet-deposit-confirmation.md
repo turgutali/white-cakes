@@ -1,38 +1,39 @@
 ---
 id: WC-0756
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html; verify flavour, quote, and payment channel
 english_title: "What to confirm before paying a deposit for red velvet cake in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa red velvet cake sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa red velvet cake sa Cebu"
 ---
 
-## Confirm availability, product details, and the final quote first
+## English
 
-Ask whether red velvet is currently available for your date. Confirm the cake size, design, exact inscription, pickup or delivery plan, and what the flavour option includes. If you have allergy or ingredient questions, discuss them directly with the bakery before confirming.
+# What to confirm before paying a deposit for red velvet cake in Cebu
 
-Request the complete price in writing, including custom decoration and delivery. White Cakes states a 50% deposit confirms an agreed order; verify the payment amount and method against the current quote, then save the receipt. Wait for written confirmation that the date is secured.
+Before paying, make sure the quote names the red velvet product and confirms size, design, inscription, date, delivery address, and total. Ask whether the requested flavour is available on that date, rather than relying on an older menu post.
 
-Keep deposit steps in the central order guide and update the live flavour menu separately. Recheck both before publication.
+White Cakes’ published guidance says a 50% deposit follows agreement on final price and details. Verify the current payment channel directly, then save the quote and written payment acknowledgement together. Confirm how changes affect the booking.
+
+## Cebuano
+
+# Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa red velvet cake sa Cebu
+
+Sa dili pa mobayad, siguroha nga gihisgotan sa quote ang red velvet product, gidak-on, disenyo, inskripsiyon, petsa, delivery address ug total. Pangutan-a kon available ang flavour sa petsa imbes mosalig sa karaang menu post.
+
+Nag-ingon ang giya sa White Cakes nga 50% nga deposit human mouyon sa final nga presyo ug detalye. Kumpirmaha direkta ang kasamtangang paagi sa bayad, unya tipigi nga magkauban ang quote ug sinulat nga pagkaila sa bayad. Pangutan-a unsay epekto sa kausaban.
+
+## Tagalog
+
+# Ano ang dapat kumpirmahin bago magbayad ng deposito para sa red velvet cake sa Cebu
+
+Bago magbayad, tiyaking tinutukoy ng quote ang red velvet product at kinukumpirma ang sukat, design, inscription, petsa, delivery address, at kabuuan. Itanong kung available ang flavor sa petsa sa halip na umasa sa lumang menu post.
+
+Nasa gabay ng White Cakes ang 50% na deposito matapos mapagkasunduan ang pinal na presyo at detalye. Direktang kumpirmahin ang kasalukuyang payment channel at itago nang magkasama ang quote at nakasulat na pagkilala sa bayad. Itanong kung paano naaapektuhan ng pagbabago ang booking.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang pagkaanaa, mga detalye sa produkto, ug ang katapusang kinutlo una
-
-Pangutan-a kung ang red velvet anaa sa pagkakaron para sa imong date. Kumpirma ang gidak-on sa cake, disenyo, eksaktong inskripsiyon, pickup o plano sa paghatod, ug unsay gilakip sa opsyon sa lami. Kung naa kay mga pangutana nga allergy o sangkap, hisguti sila direkta sa panaderya sa dili pa mokumpirma.
-
-Paghangyo sa kompleto nga presyo sa pagsulat, lakip ang kostumbre nga dekorasyon ug paghatud. Ang White Cakes nag-ingon nga ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order; pamatud-i ang kantidad sa pagbayad ug pamaagi batok sa kasamtangan nga quote, dayon i-save ang resibo. Paghulat alang sa sinulat nga kumpirmasyon nga ang petsa gisiguro.
-
-Ipadayon ang mga lakang sa pagdeposito sa sentro nga giya sa order ug i-update ang live flavor menu nga gilain. Susiha pag-usab ang duha sa dili pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin muna ang availability, mga detalye ng produkto, at ang huling quote
-
-Tanungin kung kasalukuyang available ang red velvet para sa iyong date. Kumpirmahin ang laki ng cake, disenyo, eksaktong inskripsiyon, pickup o plano sa paghahatid, at kung ano ang kasama sa opsyon ng lasa. Kung mayroon kang mga tanong sa allergy o sangkap, talakayin ito nang direkta sa panaderya bago kumpirmahin.
-
-Hilingin ang kumpletong presyo sa pamamagitan ng pagsulat, kasama ang custom na dekorasyon at paghahatid. Ang White Cakes ay nagsasaad ng 50% na deposito na nagpapatunay sa isang napagkasunduang order; i-verify ang halaga at paraan ng pagbabayad laban sa kasalukuyang quote, pagkatapos ay i-save ang resibo. Maghintay para sa nakasulat na kumpirmasyon na ang petsa ay secured.
-
-Panatilihin ang mga hakbang sa pagdedeposito sa gitnang gabay sa pag-order at hiwalay na i-update ang live na flavor menu. Suriin muli ang pareho bago i-publish.
+- Verify current menu, ingredients, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

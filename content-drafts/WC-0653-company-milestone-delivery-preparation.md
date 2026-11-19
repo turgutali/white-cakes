@@ -1,44 +1,45 @@
 ---
 id: WC-0653
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
 english_title: "How to prepare for delivery of cake for a company milestone in Cebu"
 cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Paano maghanda para sa delivery ng cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
-## Prepare the office handoff for a company milestone cake
+## English
 
-Choose an office contact who can meet the driver during the agreed window. Provide the full building address, tower or entrance, receiving point, contact number, and visitor or loading instructions. Confirm that the office can accept the delivery and that the receiver will not be in a meeting.
+# How to prepare for delivery of cake for a company milestone in Cebu
 
-Ask White Cakes whether delivery is available for the specific address and confirm the fee and timing. Plan a stable, cool place for the cake to wait before the event; keep it away from direct sunlight and a hot vehicle. If it will be held for several hours, follow the bakery's storage guidance.
+Treat office delivery as a handoff plan. Confirm the full venue address, building or floor instructions, receiving hours, loading or security rules, and the name and phone number of someone who will answer. Share a delivery window with the event team and make sure the receiver can meet the cake without leaving it unattended.
 
-Include the event date, cake size, flavour, serving estimate, company message, and design reference with the order. Confirm the final quote and availability. White Cakes requires at least three days' notice, and a 50% deposit confirms the agreed order after delivery terms are settled.
+Ask the venue where the cake can wait before serving and whether it has a suitable refrigerator or a stable table away from sun and heat. Confirm who brings plates, a knife, and serving tools. Give the bakery the final address and contact in writing; do not assume a map pin carries all access instructions.
 
-Keep verified office handoff details in the central delivery guide. Do not claim building access or delivery guarantees that have not been confirmed.
+Delivery timing is a window, not an exact minute. Confirm coverage for the exact Cebu address and any applicable delivery terms before the order is finalized. If the event moves rooms or buildings, notify the bakery and obtain confirmation rather than forwarding an informal message.
+
+## Cebuano
+
+# Giunsa pag-andam sa delivery sa cake para sa milestone sa kompanya sa Cebu
+
+Isipa ang delivery sa opisina isip plano sa pag-turnover. Kumpirmaha ang kompleto nga address sa venue, instruksyon sa building o floor, oras sa pagdawat, lagda sa loading o security, ug ngalan ug numero sa motubag. Ipaambit ang delivery window sa event team ug siguroha nga matubag sa modawat ang cake imbes ibilin nga walay bantay.
+
+Pangutan-a ang venue asa ibutang ang cake sa dili pa i-serve ug adunay ba kini angay nga refrigerator o lig-on nga lamesa nga layo sa adlaw ug kainit. Kumpirmaha kinsa ang magdala og plato, kutsilyo ug serving tools. Ihatag sa panaderya sa sinulat ang final address ug contact; dili kompleto ang access instructions sa map pin lang.
+
+Window ang oras sa delivery, dili eksaktong minuto. Kumpirmaha ang coverage sa eksaktong address sa Cebu ug ang mga delivery term sa dili pa final ang order. Kon mobalhin og kwarto o building ang event, pahibaloa ang panaderya ug pangayo og kumpirmasyon imbes informal nga mensahe lang.
+
+## Tagalog
+
+# Paano maghanda para sa delivery ng cake para sa mahalagang okasyon ng kumpanya sa Cebu
+
+Ituring ang office delivery bilang planadong turnover. Kumpirmahin ang buong address ng venue, tagubilin sa building o floor, oras ng pagtanggap, loading o security rules, at pangalan at numero ng taong sasagot. Ibahagi sa event team ang delivery window at tiyaking may sasalubong sa cake para hindi ito maiwang walang nagbabantay.
+
+Itanong sa venue kung saan maaaring ilagay ang cake bago ihain at kung may angkop na refrigerator o matatag na mesa na malayo sa araw at init. Kumpirmahin kung sino ang magdadala ng plato, kutsilyo, at serving tools. Ibigay sa bakery nang nakasulat ang pinal na address at contact; hindi sapat ang map pin para sa lahat ng access instructions.
+
+Window ang oras ng delivery, hindi eksaktong minuto. Kumpirmahin ang coverage para sa eksaktong address sa Cebu at anumang delivery terms bago final ang order. Kung lilipat ng kuwarto o gusali ang event, ipaalam sa bakery at kumuha ng kumpirmasyon sa halip na mag-forward lang ng impormal na mensahe.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-andam sa handoff sa opisina alang sa usa ka milestone cake sa kompanya
-
-Pagpili og kontak sa opisina nga makigkita sa drayber atol sa gikasabutan nga bintana. Ihatag ang kompleto nga adres sa bilding, tore o entrada, punto sa pagdawat, numero sa kontak, ug mga panudlo sa bisita o pagkarga. Kumpirma nga ang opisina makadawat sa paghatod ug nga ang tigdawat dili moapil sa usa ka miting.
-
-Pangutan-a ang White Cakes kung magamit ba ang pagpadala alang sa piho nga adres ug kumpirmahi ang bayad ug oras. Pagplano og usa ka lig-on, bugnaw nga dapit alang sa cake nga maghulat sa dili pa ang panghitabo; ipahilayo kini sa direktang silaw sa adlaw ug init nga sakyanan. Kung kini ipahigayon sulod sa daghang oras, sunda ang giya sa pagtipig sa panaderya.
-
-Ilakip ang petsa sa panghitabo, gidak-on sa cake, lami, banabana sa pagserbisyo, mensahe sa kompanya, ug reference sa disenyo uban sa order. Kumpirma ang katapusang kinutlo ug pagkaanaa. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order pagkahuman nahusay ang mga termino sa pagpadala.
-
-Itago ang gi-verify nga mga detalye sa handoff sa opisina sa sentro nga giya sa pagpadala. Ayaw pag-claim sa pag-access sa building o mga garantiya sa paghatod nga wala pa makumpirma.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihanda ang handoff ng opisina para sa isang milestone cake ng kumpanya
-
-Pumili ng isang contact sa opisina na maaaring makipagkita sa driver sa panahon ng napagkasunduang window. Ibigay ang buong address ng gusali, tore o pasukan, receiving point, contact number, at mga tagubilin sa bisita o pag-load. Kumpirmahin na maaaring tanggapin ng opisina ang paghahatid at ang tatanggap ay hindi makakasama sa isang pulong.
-
-Tanungin ang White Cakes kung available ang delivery para sa partikular na address at kumpirmahin ang bayad at timing. Magplano ng matatag at malamig na lugar para maghintay ang cake bago ang kaganapan; ilayo ito sa direktang sikat ng araw at sa mainit na sasakyan. Kung ito ay gaganapin ng ilang oras, sundin ang gabay sa pag-iimbak ng panaderya.
-
-Isama ang petsa ng kaganapan, laki ng cake, lasa, pagtatantya ng paghahatid, mensahe ng kumpanya, at reference sa disenyo kasama ng order. Kumpirmahin ang huling quote at availability. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order pagkatapos mabayaran ang mga tuntunin sa paghahatid.
-
-Panatilihin ang na-verify na mga detalye ng handoff ng opisina sa gitnang gabay sa paghahatid. Huwag mag-claim ng access sa gusali o mga garantiya sa paghahatid na hindi pa nakumpirma.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

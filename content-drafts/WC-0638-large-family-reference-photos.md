@@ -1,38 +1,45 @@
 ---
 id: WC-0638
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Which reference photos help when ordering cake for a large family gathering in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa malaking pagtitipon ng pamilya sa Cebu"
+english_title: "Which Reference Photos Help When Ordering a Cake for a Large Family Gathering"
+cebuano_title: "Unsang Reference Photo ang Makatabang sa Pag-order og Cake para sa Dakong Tapok sa Pamilya"
+tagalog_title: "Aling Reference Photo ang Makatutulong sa Pag-order ng Cake para sa Malaking Pagtitipon ng Pamilya"
 ---
 
-## Send references that explain the look and the practical constraints
+## English
 
-For a large family gathering, choose one image that shows the overall style and, if needed, a second close-up for a specific detail such as lettering or a colour combination. Tell the bakery what you like in each photo; otherwise, the reference may suggest several conflicting directions. Also state the approximate number of people who will eat cake so the design conversation stays connected to size.
+# Which Reference Photos Help When Ordering a Cake for a Large Family Gathering
 
-Clarify which parts are inspiration and which are essential. A reference from another bakery should not be treated as a guarantee that the same finish, decoration, or dimensions can be reproduced. Ask how the idea could be adapted to the requested size, available production time, and your budget.
+Large gatherings often produce a long thread of family inspiration photos. Select a few that communicate different useful details: the overall shape, a colour palette, or a specific piping feature. Add a note to each photo and identify which details are essential versus optional.
 
-Include this checklist in the main custom-cake brief guide. A standalone story needs a real, permission-cleared example showing how a specific reference changed the finished cake.
+Ask the host where the cake will be displayed and how far away guests will view it. A full-cake photo can help with proportions; a close-up may be useful only if the detail will still be visible at the chosen size. Avoid references that demand more lettering or decoration than can fit.
+
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask what can be adapted and confirm the final design with one family contact. See the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang Reference Photo ang Makatabang sa Pag-order og Cake para sa Dakong Tapok sa Pamilya
+
+Kasagarang taas ang thread sa mga litrato nga inspirasyon sa pamilya sa dakong tapok. Pagpili og pipila nga nagpasabot sa nagkalain-laing mapuslanong detalye: kinatibuk-ang porma, kombinasyon sa kolor o partikular nga piping. Butangi og nota ang matag hulagway ug ilahi ang kinahanglan kumpara sa optional.
+
+Pangutan-a ang host asa ipakita ang cake ug unsa kalayo kini tan-awon sa bisita. Makatabang sa proporsiyon ang hulagway sa tibuok cake; mapuslanon lang ang close-up kon makita gihapon ang detalye sa napiling gidak-on. Likayi ang reference nga nangayo og sobra nga letra o dekorasyon nga dili moigo.
+
+Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsay mahimong ipasibo ug kumpirmaha ang final design uban sa usa ka family contact. Tan-awa ang [giya sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling Reference Photo ang Makatutulong sa Pag-order ng Cake para sa Malaking Pagtitipon ng Pamilya
+
+Madalas humaba ang thread ng family inspiration photos para sa malaking pagtitipon. Pumili ng iilang nagpapaliwanag ng magkakaibang kapaki-pakinabang na detalye: pangkalahatang hugis, palette ng kulay, o partikular na piping feature. Lagyan ng tala ang bawat larawan at tukuyin kung alin ang kailangang mapanatili at alin ang opsyonal.
+
+Tanungin ang host kung saan ididisplay ang cake at gaano kalayo ito titingnan ng mga bisita. Nakakatulong ang buong larawan ng cake para sa proporsyon; kapaki-pakinabang lang ang close-up kung makikita pa rin ang detalye sa napiling sukat. Iwasan ang references na nangangailangan ng mas maraming lettering o dekorasyon kaysa magkakasya.
+
+Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Itanong kung ano ang maaaring iangkop at kumpirmahin ang pinal na design kasama ang isang family contact. Tingnan ang [gabay sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipadala ang mga pakisayran nga nagpatin-aw sa hitsura ug sa praktikal nga mga pagpugong
-
-Alang sa usa ka dako nga panagtapok sa pamilya, pagpili og usa ka hulagway nga nagpakita sa kinatibuk-ang estilo ug, kon gikinahanglan, usa ka ikaduha nga close-up alang sa usa ka piho nga detalye sama sa letra o kombinasyon sa kolor. Sultihi ang panaderya kung unsa ang imong gusto sa matag litrato; kay kon dili, ang reperensiya mahimong mosugyot ug daghang magkasumpaki nga direksyon. Isulti usab ang gibanabana nga gidaghanon sa mga tawo nga mokaon sa cake aron ang panag-istoryahanay sa disenyo magpabilin nga konektado sa gidak-on.
-
-Klaroha unsa nga mga bahin ang inspirasyon ug unsa ang importante. Ang usa ka pakisayran gikan sa laing panaderya kinahanglan dili isipon nga usa ka garantiya nga ang parehas nga pagkahuman, dekorasyon, o mga sukat mahimong kopyahon. Pangutan-a kon sa unsang paagi ang ideya mahimong ipahiangay sa gihangyo nga gidak-on, magamit nga oras sa produksiyon, ug sa imong badyet.
-
-Ilakip kini nga checklist sa nag-unang custom-cake mubo nga giya. Ang usa ka standalone nga istorya nanginahanglan usa ka tinuod, gilimpyohan sa pagtugot nga pananglitan nga nagpakita kung giunsa ang usa ka piho nga pakisayran nagbag-o sa nahuman nga cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magpadala ng mga sanggunian na nagpapaliwanag sa hitsura at mga praktikal na hadlang
-
-Para sa isang malaking pagtitipon ng pamilya, pumili ng isang larawan na nagpapakita ng pangkalahatang istilo at, kung kinakailangan, isang pangalawang close-up para sa isang partikular na detalye gaya ng pagkakasulat o kumbinasyon ng kulay. Sabihin sa panaderya kung ano ang gusto mo sa bawat larawan; kung hindi, ang sanggunian ay maaaring magmungkahi ng ilang magkasalungat na direksyon. Sabihin din ang tinatayang bilang ng mga taong kakain ng cake upang manatiling konektado ang pag-uusap sa disenyo sa laki.
-
-Linawin kung aling mga bahagi ang inspirasyon at alin ang mahalaga. Ang isang reference mula sa ibang panaderya ay hindi dapat ituring bilang isang garantiya na ang parehong finish, dekorasyon, o mga sukat ay maaaring kopyahin. Itanong kung paano maiangkop ang ideya sa hinihiling na laki, magagamit na oras ng produksyon, at iyong badyet.
-
-Isama ang checklist na ito sa pangunahing custom-cake na maikling gabay. Ang isang standalone na kuwento ay nangangailangan ng isang tunay, na-clear na halimbawa ng pahintulot na nagpapakita kung paano binago ng isang partikular na sanggunian ang natapos na cake.
+- Confirm current size, menu, terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

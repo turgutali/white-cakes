@@ -1,44 +1,45 @@
 ---
 id: WC-0651
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html
 english_title: "What to ask about the price of cake for a company milestone in Cebu"
 cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
-## Request a quote for a company-milestone cake
+## English
 
-Provide the event date, size, flavour, number of colleagues expected to eat cake, design, inscription, and office delivery address. If the cake will use a company logo or branded colours, confirm the artwork is approved. Ask for the total for the exact design rather than assuming a standard menu price covers custom decoration.
+# What to ask about the price of cake for a company milestone in Cebu
 
-The current custom menu lists 6-inch cakes at ₱1,399 through January 15, 2027 and ₱1,799 from January 16. An 8-inch cake is ₱1,999 through January 15 and ₱2,599 afterward. These are temporary amounts; check the live menu before publishing or ordering. Confirm whether decoration and delivery change the quote.
+A useful company cake quote should make the scope understandable. Ask which size and design are included, how the inscription is handled, what the delivery charge covers, and whether venue-specific access affects delivery. Request the total and payment schedule in writing so finance and the event organizer use the same figure.
 
-Current size estimates are 8–12 party portions for 6 inches and 16–24 for 8 inches. Ask the bakery to match the size to the team's serving plan. Confirm the receiver, building access, delivery window, and fee. Made-to-order cakes require at least three days' notice; a 50% deposit confirms the agreed order.
+Clarify whether a 50% deposit is required after the final details and price are agreed, and when the remaining balance is due. Ask what changes would require a revised quote, such as changing the size, adding a tier, revising the lettering, or changing the delivery address. Never assume a reference photo represents the quoted price.
 
-Keep these date-sensitive amounts in the central price guide and update them when the menu changes.
+Price depends on the confirmed design and order details. Do not publish or circulate an old quote as a current menu price. Share the final written quote internally and identify who is authorized to approve it and pay, especially if the company requires procurement documentation.
+
+## Cebuano
+
+# Unsa ang ipangutana bahin sa presyo sa cake para sa milestone sa kompanya sa Cebu
+
+Ang maayong company cake quote kinahanglan klaro ang sakop. Pangutan-a unsang gidak-on ug disenyo ang apil, unsaon ang inskripsiyon, unsay apil sa delivery charge, ug makaapekto ba ang access sa venue. Pangayoa sa sinulat ang total ug schedule sa bayad aron pareho ang numero sa finance ug organizer.
+
+Kumpirmaha kon gikinahanglan ba ang 50% nga deposit human mouyon sa final nga detalye ug presyo, ug kanus-a bayran ang nahibilin. Pangutan-a unsang kausaban ang manginahanglan og bag-ong quote sama sa pag-usab sa gidak-on, pagdugang og tier, pag-ilis sa letra o address. Ayaw tuohi nga ang presyo sa reference photo mao usab ang quote.
+
+Magdepende ang presyo sa kumpirmadong disenyo ug detalye sa order. Ayaw ipatik o ipasa isip kasamtangang menu price ang karaang quote. Ipaambit sa kompanya ang kataposang sinulat nga quote ug klaroha kinsa ang awtorisadong moapruba ug mobayad, ilabina kon nanginahanglan og procurement record.
+
+## Tagalog
+
+# Ano ang dapat itanong tungkol sa presyo ng cake para sa mahalagang okasyon ng kumpanya sa Cebu
+
+Dapat malinaw sa company cake quote kung ano ang kasama. Itanong kung anong sukat at design ang sakop, paano gagawin ang inscription, ano ang kasama sa delivery charge, at kung may epekto sa delivery ang access sa venue. Hingin sa sulat ang kabuuan at iskedyul ng bayad para iisa ang gagamiting halaga ng finance at event organizer.
+
+Kumpirmahin kung kailangan ang 50% na deposito matapos mapagkasunduan ang pinal na detalye at presyo, at kung kailan babayaran ang natitira. Itanong kung aling pagbabago ang mangangailangan ng panibagong quote, gaya ng pagbabago sa sukat, pagdagdag ng tier, pagpapalit ng lettering, o paglipat ng delivery address. Huwag ipagpalagay na iyon din ang presyo ng reference photo.
+
+Nakadepende ang presyo sa kumpirmadong design at detalye ng order. Huwag ipakalat ang lumang quote bilang kasalukuyang menu price. Ibahagi sa kumpanya ang pinal na nakasulat na quote at tukuyin kung sino ang awtorisadong mag-apruba at magbayad, lalo na kung kailangan ng procurement record.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo ug quote para sa usa ka company-milestone cake
-
-Ihatag ang petsa sa panghitabo, gidak-on, lami, gidaghanon sa mga kauban nga gipaabot nga mokaon sa cake, disenyo, inskripsiyon, ug adres sa pagpadala sa opisina. Kung ang cake mogamit og logo sa kompanya o branded nga mga kolor, kumpirmahi nga aprobahan ang artwork. Pangutan-a ang kinatibuk-an alang sa eksaktong disenyo kay sa paghunahuna nga ang usa ka standard nga presyo sa menu naglangkob sa custom nga dekorasyon.
-
-Ang kasamtangang custom nga menu naglista ug 6-pulgada nga mga cake sa ₱1,399 hangtod sa Enero 15, 2027 ug ₱1,799 gikan sa Enero 16. Ang 8-pulgada nga cake maoy ₱1,999 hangtod sa Enero 15 ug ₱2,599 pagkahuman. Kini mga temporaryo nga kantidad; susiha ang live menu sa dili pa imantala o mag-order. Pagkumpirma kung ang dekorasyon ug paghatud nagbag-o sa kinutlo.
-
-Ang mga banabana sa gidak-on karon mao ang 8–12 ka bahin sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Hangyoa ang panaderya sa pagpares sa gidak-on sa plano sa pagserbisyo sa team. Kumpirma ang receiver, building access, delivery window, ug bayad. Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago kini nga mga kantidad nga sensitibo sa petsa sa sentro nga giya sa presyo ug i-update kini kung magbag-o ang menu.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humiling ng isang quote para sa isang kumpanya-milestone cake
-
-Ibigay ang petsa ng kaganapan, laki, lasa, bilang ng mga kasamahan na inaasahang makakain ng cake, disenyo, inskripsiyon, at address ng paghahatid ng opisina. Kung gagamit ang cake ng logo ng kumpanya o mga branded na kulay, kumpirmahin na naaprubahan ang artwork. Hilingin ang kabuuan para sa eksaktong disenyo sa halip na ipagpalagay na ang karaniwang presyo ng menu ay sumasaklaw sa custom na dekorasyon.
-
-Ang kasalukuyang custom na menu ay naglilista ng 6-inch na cake sa ₱1,399 hanggang Enero 15, 2027 at ₱1,799 mula Enero 16. Ang 8-inch na cake ay ₱1,999 hanggang Enero 15 at ₱2,599 pagkatapos. Ito ay mga pansamantalang halaga; tingnan ang live na menu bago mag-publish o mag-order. Kumpirmahin kung binago ng dekorasyon at paghahatid ang quote.
-
-Ang kasalukuyang mga pagtatantya ng laki ay 8–12 bahagi ng partido para sa 6 na pulgada at 16–24 para sa 8 pulgada. Hilingin sa panaderya na itugma ang laki sa plano ng paghahatid ng koponan. Kumpirmahin ang receiver, pag-access sa gusali, window ng paghahatid, at bayad. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang mga halagang ito na sensitibo sa petsa sa gitnang gabay sa presyo at i-update ang mga ito kapag nagbago ang menu.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

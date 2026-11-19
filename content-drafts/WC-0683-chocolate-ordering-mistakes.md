@@ -1,44 +1,45 @@
 ---
 id: WC-0683
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "Common ordering mistakes to avoid with chocolate cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa chocolate cake sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa chocolate cake sa Cebu"
+english_title: \"Common ordering mistakes to avoid with chocolate cake in Cebu\"
+cebuano_title: \"Mga kasagarang sayop sa pag-order nga likayan sa chocolate cake sa Cebu\"
+tagalog_title: \"Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa chocolate cake sa Cebu\"
 ---
 
-## Avoid common mix-ups when ordering chocolate cake
+## English
 
-Do not assume the flavour alone is enough for a quote. Include the event date, size, design, inscription, number of cake eaters, and pickup or delivery plan. White Cakes lists Chocolate on its current menu, but confirm it is available for the requested size and date.
+# Common ordering mistakes to avoid with chocolate cake in Cebu
 
-Avoid assuming a reference photo guarantees an exact cake or price. Describe which detail you want adapted and ask what is feasible. If the design includes a logo, character, or another baker's work, confirm that the bakery can offer an appropriate alternative rather than expecting a direct copy.
+A frequent chocolate cake ordering mistake is assuming that a flavour mentioned online is still offered in the same format. Ask what is currently available and whether the requested filling, frosting, and design can be combined. Confirm the answer in the quote instead of relying on a previous post.
 
-Do not wait until the last minute. Made-to-order cakes require at least three days' notice, and the date must be confirmed. For delivery, provide the full address, landmark, receiver's number, and access details. Confirm the delivery fee and window. The 50% deposit confirms the agreed order after design and terms are settled.
+Avoid choosing a size from a reference image or sending several contradictory designs. Provide the guest estimate, exact wording, event date, delivery point, and one approver. For a company order, verify brand permission before sending a logo and proofread text before deposit.
 
-These are practical checks, not documented customer mistakes. Put them in the main order guide and keep current Chocolate availability in the flavour menu.
+The final check should cover price, payment terms, delivery window, receiver, and storage plan. If anything changes, tell the bakery promptly and wait for its confirmation. Review the [Cebu ordering guide](/journal/how-to-order.html) before the order is finalized.
+
+## Cebuano
+
+# Mga kasagarang sayop sa pag-order nga likayan sa chocolate cake sa Cebu
+
+Kasagarang sayop sa pag-order og chocolate cake ang pagtuo nga ang lami nga gihisgotan online gitanyag gihapon sa parehas nga porma. Pangutan-a unsay available karon ug pwede ba ipares ang gusto nga filling, frosting ug disenyo. Ipakumpirma kini sa quote imbes mosalig sa karaang post.
+
+Likayi ang pagpili sa gidak-on base sa reference photo o pagpadala og daghang nagkasumpaking disenyo. Ihatag ang banabana sa bisita, eksaktong teksto, petsa sa event, drop-off point ug usa ka approver. Sa company order, kumpirmaha ang permiso sa brand ug basaha ang teksto sa dili pa mo-deposit.
+
+Susiha sa kataposan ang presyo, terms sa bayad, delivery window, modawat ug storage plan. Kon adunay mausab, pahibaloa dayon ang panaderya ug hulata ang kumpirmasyon. Basaha ang [giya sa pag-order sa Cebu](/journal/how-to-order.html) sa dili pa final ang order.
+
+## Tagalog
+
+# Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa chocolate cake sa Cebu
+
+Karaniwang pagkakamali sa pag-order ng chocolate cake ang pag-aakalang iniaalok pa rin sa parehong format ang flavor na nabanggit online. Itanong kung ano ang kasalukuyang available at kung maaaring pagsamahin ang hinihinging filling, frosting, at design. Ipasama ang kumpirmasyon sa quote sa halip na umasa sa lumang post.
+
+Iwasang pumili ng sukat batay sa reference photo o magpadala ng magkakasalungat na design. Ibigay ang tantiya ng bisita, eksaktong teksto, petsa ng event, drop-off point, at iisang approver. Para sa company order, kumpirmahin ang pahintulot sa brand at basahin muli ang teksto bago magdeposito.
+
+Suriin sa huli ang presyo, payment terms, delivery window, tatanggap, at storage plan. Kung may magbago, agad ipaalam sa bakery at hintayin ang kumpirmasyon. Basahin ang [gabay sa pag-order sa Cebu](/journal/how-to-order.html) bago i-finalize ang order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang kasagarang pagsagol sa dihang mo-order og chocolate cake
-
-Ayaw hunahunaa nga ang lami ra igo na alang sa usa ka kinutlo. Ilakip ang petsa sa panghitabo, gidak-on, disenyo, inskripsiyon, gidaghanon sa mga tigkaon og cake, ug plano sa pagkuha o paghatod. Gilista sa White Cakes ang Chocolate sa kasamtangan nga menu niini, apan kumpirmahi nga kini anaa alang sa gihangyo nga gidak-on ug petsa.
-
-Likayi ang paghunahuna nga ang usa ka reperensya nga litrato naggarantiya sa eksaktong cake o presyo. Ihulagway kung unsang detalye ang gusto nimong ipahiangay ug pangutana kung unsa ang mahimo. Kung ang disenyo naglakip sa usa ka logo, karakter, o laing trabaho sa panadero, kumpirmahi nga ang panaderya makahatag ug angay nga alternatibo kay sa magdahom ug direktang kopya.
-
-Ayaw paghulat hangtod sa katapusang minuto. Ang made-to-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo, ug ang petsa kinahanglang kumpirmahon. Para sa paghatod, ihatag ang tibuok adres, landmark, numero sa tigdawat, ug mga detalye sa pag-access. Kumpirma ang bayad sa pagpadala ug bintana. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order human sa disenyo ug mga termino nahusay.
-
-Kini mga praktikal nga pagsusi, dili dokumentado nga mga sayup sa kustomer. Ibutang kini sa main order guide ug ipadayon ang kasamtangan nga Chocolate available sa flavor menu.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasan ang mga karaniwang mix-up kapag nag-order ng chocolate cake
-
-Huwag ipagpalagay na ang lasa lamang ay sapat na para sa isang quote. Isama ang petsa ng kaganapan, laki, disenyo, inskripsiyon, bilang ng mga kumakain ng cake, at plano ng pickup o paghahatid. Inililista ng White Cakes ang Chocolate sa kasalukuyang menu nito, ngunit kumpirmahin na available ito para sa hiniling na laki at petsa.
-
-Iwasang ipagpalagay na ang isang reference na larawan ay ginagarantiyahan ang isang eksaktong cake o presyo. Ilarawan kung aling detalye ang gusto mong iakma at itanong kung ano ang magagawa. Kung ang disenyo ay may kasamang logo, karakter, o gawa ng ibang panadero, kumpirmahin na ang panaderya ay maaaring mag-alok ng angkop na alternatibo sa halip na umasa ng direktang kopya.
-
-Huwag maghintay hanggang sa huling minuto. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang petsa ay dapat kumpirmahin. Para sa paghahatid, ibigay ang buong address, landmark, numero ng tatanggap, at mga detalye ng pag-access. Kumpirmahin ang bayad sa paghahatid at window. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang disenyo at mga tuntunin.
-
-Ito ay mga praktikal na pagsusuri, hindi mga dokumentadong pagkakamali ng customer. Ilagay ang mga ito sa pangunahing gabay sa pagkakasunud-sunod at panatilihin ang kasalukuyang availability ng Chocolate sa menu ng lasa.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

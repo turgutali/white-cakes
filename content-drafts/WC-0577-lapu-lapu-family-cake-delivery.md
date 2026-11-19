@@ -1,44 +1,45 @@
 ---
 id: WC-0577
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /cake-delivery-lapu-lapu/ and /journal/cake-delivery-cebu.html
-english_title: "How to prepare for delivery of cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+english_title: "How to Prepare for Cake Delivery to a Lapu-Lapu Family Event"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Cake para sa Family Event sa Lapu-Lapu"
+tagalog_title: "Paano Maghanda para sa Delivery ng Cake sa Lapu-Lapu Family Event"
 ---
 
-## Prepare the Lapu-Lapu receiving point before the cake leaves the kitchen
+## English
 
-Give White Cakes the full address in Lapu-Lapu, a recognizable landmark, and the mobile number of the person who will accept the cake. If the celebration is inside a subdivision, condo, or event venue, include the correct entrance and arrange any access pass before delivery day. The bakery agrees a delivery window and confirms the address-based charge with the quote.
+# How to Prepare for Cake Delivery to a Lapu-Lapu Family Event
 
-Choose a receiver who can meet the driver during that window and move the cake to a suitable place. Buttercream cakes should not be left in direct sun or a hot car. If the cake will be held for several hours before serving, the bakery's guidance says to refrigerate it. Do not leave it unattended with someone who cannot keep it safe.
+Give the bakery the full address and a receiver’s working phone number. For a resort, subdivision, condominium, or private event venue, include the property name, gate or lobby, meeting point, and any instructions from the host. Confirm that the bakery can serve the exact location and date.
 
-In the order message, include the date, flavour, size, guest count, and exact inscription. At least three days' notice is requested, but the date must be confirmed by the bakery. If the cake will be served after a long programme, mention the serving time so the team can confirm the practical plan.
+White Cakes confirms a delivery window rather than an exact minute. Make sure the receiver can answer throughout that window, and have a backup contact if the family host is busy. If the cake must reach a specific room or event setup, clarify who will take it from the handoff point.
 
-Keep this local handover checklist on the Lapu-Lapu delivery page and shared cake-care information on the main Cebu delivery guide. A separate city-specific post should wait for a documented route or venue detail that changes the instructions.
+Reconfirm the route and access details if the venue changes. After receiving the cake, follow the bakery’s storage advice. See the [Lapu-Lapu cake delivery page](/cake-delivery-lapu-lapu/) and [Cebu delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Cake para sa Family Event sa Lapu-Lapu
+
+Ihatag sa panaderya ang kompleto nga address ug aktibong numero sa modawat. Para sa resort, subdivision, condo o private event venue, iapil ang ngalan sa property, gate o lobby, meeting point ug instruksyon sa host. Kumpirmaha nga makaserbisyo ang panaderya sa tukmang lugar ug petsa.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Siguroha nga makatubag ang modawat sa tibuok window ug adunay backup contact kon busy ang host sa pamilya. Kon kinahanglan madala ang cake sa espesipikong kwarto o event setup, klaroha kinsa ang mokuha niini gikan sa handoff point.
+
+Kumpirmaha pag-usab ang ruta ug access details kon mausab ang venue. Human madawat ang cake, sunda ang tambag sa panaderya sa pagtipig. Tan-awa ang [Lapu-Lapu cake delivery page](/cake-delivery-lapu-lapu/) ug [giya sa delivery sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Cake sa Lapu-Lapu Family Event
+
+Ibigay sa bakery ang buong address at aktibong numero ng tatanggap. Para sa resort, subdivision, condo, o pribadong event venue, isama ang pangalan ng property, gate o lobby, meeting point, at tagubilin mula sa host. Kumpirmahin na masaserbisyuhan ng bakery ang eksaktong lokasyon at petsa.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Tiyaking sasagot ang tatanggap sa buong window at may backup contact kung abala ang host ng pamilya. Kung kailangang makarating ang cake sa partikular na silid o event setup, linawin kung sino ang kukuha nito mula sa handoff point.
+
+Kumpirmahing muli ang ruta at access details kung magbago ang venue. Pagkatanggap ng cake, sundin ang payo ng bakery sa pag-iimbak. Tingnan ang [Lapu-Lapu cake delivery page](/cake-delivery-lapu-lapu/) at [gabay sa delivery sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Andama ang Lapu-Lapu receiving point sa dili pa mobiya ang cake sa kusina
-
-Ihatag sa White Cakes ang tibuok address sa Lapu-Lapu, usa ka mailhan nga landmark, ug ang mobile number sa tawo nga modawat sa cake. Kung ang selebrasyon naa sa sulod sa usa ka subdivision, condo, o venue sa kalihokan, iapil ang husto nga agianan ug ihikay ang bisan unsang access pass sa dili pa ang adlaw sa pagpadala. Ang panaderya miuyon sa usa ka delivery window ug nagpamatuod sa address-based nga bayad uban sa quote.
-
-Pagpili og usa ka tigdawat nga makahimamat sa drayber atol sa bintana ug ibalhin ang cake ngadto sa angay nga dapit. Ang mga cake sa buttercream kinahanglan dili ibilin sa direkta nga adlaw o sa init nga awto. Kung ang cake huptan sulod sa pipila ka oras sa dili pa i-serve, ang giya sa panaderya nag-ingon nga ibutang kini sa refrigerator. Ayaw kini ibilin nga wala maatiman sa usa ka tawo nga dili makatipig niini nga luwas.
-
-Sa mensahe sa order, ilakip ang petsa, lami, gidak-on, ihap sa bisita, ug eksaktong inskripsiyon. Labing menos tulo ka adlaw nga pahibalo ang gihangyo, apan ang petsa kinahanglang kumpirmahon sa panaderya. Kung ang cake isilbi pagkahuman sa taas nga programa, hisguti ang oras sa pagserbisyo aron makumpirma sa team ang praktikal nga plano.
-
-Ipabilin kining lokal nga handover checklist sa Lapu-Lapu delivery page ug ipaambit ang impormasyon sa pag-atiman sa cake sa main Cebu delivery guide. Ang usa ka bulag nga poste nga piho sa siyudad kinahanglan maghulat alang sa usa ka dokumentado nga ruta o detalye sa lugar nga nagbag-o sa mga panudlo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihanda ang Lapu-Lapu receiving point bago umalis ang cake sa kusina
-
-Ibigay sa White Cakes ang buong address sa Lapu-Lapu, isang nakikilalang landmark, at ang mobile number ng taong tatanggap ng cake. Kung ang pagdiriwang ay nasa loob ng isang subdivision, condo, o lugar ng kaganapan, isama ang tamang pasukan at ayusin ang anumang access pass bago ang araw ng paghahatid. Sumasang-ayon ang panaderya sa isang window ng paghahatid at kinukumpirma ang singil na nakabatay sa address kasama ang quote.
-
-Pumili ng isang receiver na maaaring makipagkita sa driver sa window na iyon at ilipat ang cake sa isang angkop na lugar. Ang mga buttercream cake ay hindi dapat iwan sa direktang araw o sa isang mainit na kotse. Kung ang cake ay hahawakan ng ilang oras bago ihain, sinasabi ng patnubay ng panaderya na palamigin ito. Huwag iwanan ito nang walang pag-aalaga sa isang taong hindi kayang panatilihin itong ligtas.
-
-Sa mensahe ng order, isama ang petsa, lasa, laki, bilang ng bisita, at eksaktong inskripsyon. Ang hindi bababa sa tatlong araw na paunawa ay hinihiling, ngunit ang petsa ay dapat kumpirmahin ng panaderya. Kung ihahain ang cake pagkatapos ng mahabang programa, banggitin ang oras ng paghahatid para makumpirma ng team ang praktikal na plano.
-
-Panatilihin ang checklist ng lokal na handover na ito sa page ng paghahatid ng Lapu-Lapu at ibinahagi ang impormasyon sa pangangalaga ng cake sa pangunahing gabay sa paghahatid ng Cebu. Ang isang hiwalay na post na partikular sa lungsod ay dapat maghintay para sa isang dokumentadong ruta o detalye ng lugar na nagbabago sa mga tagubilin.
+- Confirm current Lapu-Lapu address coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

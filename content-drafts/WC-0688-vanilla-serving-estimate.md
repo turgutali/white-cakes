@@ -1,38 +1,45 @@
 ---
 id: WC-0688
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html; verify current size ranges
 english_title: "How to estimate servings for vanilla cake in Cebu"
 cebuano_title: "Giunsa pagbanabana sa servings para sa vanilla cake sa Cebu"
 tagalog_title: "Paano tantiyahin ang servings para sa vanilla cake sa Cebu"
 ---
 
-## Choose portions based on the guest count, not the vanilla flavour
+## English
 
-Estimate who will actually take cake and whether you expect modest dessert slices or larger party portions. Tell the bakery if other desserts will be served and ask which size suits the group. The flavour does not change the number of servings a cake provides.
+# How to estimate servings for vanilla cake in Cebu
 
-Current guidance gives approximate ranges of 8–12 party slices for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. Confirm the current figures and expected cutting style directly with the bakery. Ask separately whether vanilla is available for your date.
+Count people likely to take vanilla cake, not everyone invited. A 6-inch round is roughly 8–12 party slices; an 8-inch round about 16–24; and a common 6+8-inch two-tier cake about 30–36. Treat these as estimates: height, finish, and cutting style affect portions.
 
-Keep serving counts in the central size guide and flavour availability in the flavour guide. A vanilla-specific size page would repeat information without helping readers decide more accurately.
+Tell the bakery whether a meal and other desserts will be served and if guests expect tasting slices or full portions. Ask which currently available size matches that scenario. A size chart cannot account for every event or vanilla cake configuration.
+
+Confirm the serving estimate and product availability in the quote. Check that the venue has enough display and cutting space. Use the [Cebu cake size guide](/journal/cake-sizes-cebu.html) as a starting point, then confirm with the bakery.
+
+## Cebuano
+
+# Giunsa pagbanabana sa servings para sa vanilla cake sa Cebu
+
+Ihap-a ang posibleng mokaon og vanilla cake, dili ang tanang giimbitar. Mga 8–12 ka party slice ang 6-inch nga round; 16–24 ang 8-inch; ug 30–36 ang kasagarang 6+8-inch nga two-tier. Banabana kini: makaapekto ang kataas, finish ug pamaagi sa paghiwa.
+
+Isulti sa panaderya kon adunay pagkaon ug laing dessert ug tilaw lang ba o tibuok serving ang gipaabot. Pangutan-a unsang kasamtangang gidak-on ang angay sa maong sitwasyon. Dili matubag sa size chart ang tanang event ug vanilla cake setup.
+
+Kumpirmaha sa quote ang servings ug availability sa produkto. Susiha kon adunay luna ang venue sa display ug paghiwa. Gamiton isip sinugdanan ang [giya sa gidak-on sa cake sa Cebu](/journal/cake-sizes-cebu.html), unya kumpirmaha sa panaderya.
+
+## Tagalog
+
+# Paano tantiyahin ang servings para sa vanilla cake sa Cebu
+
+Bilangin ang mga posibleng kakain ng vanilla cake, hindi lahat ng inimbitahan. Mga 8–12 party slice ang 6-inch na round; 16–24 ang 8-inch; at 30–36 ang karaniwang 6+8-inch na two-tier. Mga tantiya ito: nakaaapekto ang taas, finish, at paraan ng paghiwa.
+
+Sabihin sa bakery kung may pagkain at iba pang dessert at kung tikim lang o buong portion ang inaasahan. Itanong kung aling kasalukuyang sukat ang babagay sa sitwasyon. Hindi kayang saklawin ng size chart ang bawat event at vanilla cake setup.
+
+Kumpirmahin sa quote ang serving estimate at availability ng produkto. Tiyaking may sapat na espasyo ang venue para sa display at paghiwa. Gamitin ang [gabay sa sukat ng cake sa Cebu](/journal/cake-sizes-cebu.html) bilang panimula at kumpirmahin sa bakery.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pilia ang mga bahin base sa gidaghanon sa bisita, dili ang lami sa vanilla
-
-Pagbanabana kon kinsa ang aktuwal nga mokuha og cake ug kon ikaw nagdahom nga kasarangang mga hiwa sa dessert o mas dako nga parti nga bahin. Sultihi ang panaderya kung ang ubang mga dessert isilbi ug pangutana kung unsang gidak-on ang angay sa grupo. Ang lami dili makausab sa gidaghanon sa mga servings nga gihatag sa usa ka cake.
-
-Ang kasamtangan nga giya naghatag og gibanabana nga mga han-ay sa 8–12 ka mga hiwa sa partido alang sa 6 ka pulgada, 16–24 alang sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Kumpirma ang kasamtangan nga mga numero ug gipaabot nga estilo sa pagputol direkta sa panaderya. Pangutan-a og lain kon ang vanilla anaa alang sa imong date.
-
-Ipadayon ang pag-ihap sa pag-alagad sa sentro nga giya sa gidak-on ug pagkaanaa sa lami sa giya sa lami. Ang usa ka panid sa gidak-on nga espesipiko sa banilya magsubli sa impormasyon nga dili makatabang sa mga magbabasa sa pagdesisyon nga mas tukma.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng mga bahagi batay sa bilang ng bisita, hindi ang lasa ng vanilla
-
-Tantyahin kung sino ang aktwal na kukuha ng cake at kung inaasahan mo ang katamtamang mga hiwa ng dessert o mas malaking bahagi ng party. Sabihin sa panaderya kung iba pang dessert ang ihahain at itanong kung aling sukat ang nababagay sa grupo. Hindi binabago ng lasa ang bilang ng mga servings na ibinibigay ng isang cake.
-
-Ang kasalukuyang patnubay ay nagbibigay ng tinatayang hanay ng 8–12 party slice para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa 6+8-pulgada na two-tier na cake. Kumpirmahin ang kasalukuyang mga numero at inaasahang istilo ng pagputol nang direkta sa panaderya. Magtanong nang hiwalay kung available ang vanilla para sa iyong petsa.
-
-Panatilihin ang mga bilang ng paghahatid sa gabay sa gitnang laki at availability ng lasa sa gabay sa lasa. Uulitin ng page na tukoy sa laki ng vanilla ang impormasyon nang hindi tinutulungan ang mga mambabasa na magpasya nang mas tumpak.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

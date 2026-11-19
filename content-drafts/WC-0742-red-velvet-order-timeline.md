@@ -1,38 +1,39 @@
 ---
 id: WC-0742
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html; verify flavour availability
 english_title: "How to plan the order timeline for red velvet cake in Cebu"
 cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa red velvet cake sa Cebu"
 tagalog_title: "Paano planuhin ang oras ng pag-order para sa red velvet cake sa Cebu"
 ---
 
-## Confirm the date first, then allow time for the design and handoff details
+## English
 
-Choose the day and serving time before asking about a red velvet cake. Share the requested size, flavour, design, inscription, and whether you need delivery or pickup. Ask the bakery to confirm the current flavour availability and whether it can make the requested design for that date.
+# How to plan the order timeline for red velvet cake in Cebu
 
-White Cakes’ current guidance asks for at least three days’ notice for made-to-order cakes, but availability is not guaranteed until the order is confirmed. Detailed decoration or a busy occasion may require earlier planning. Once the bakery confirms the complete quote and details, follow its current deposit instructions; the stated process uses a 50% deposit to secure the booking.
+First confirm that the bakery currently offers the requested red velvet format for the event date. Then work back from serving time, leaving space for design approval, the written quote, payment, and delivery arrangements. White Cakes requests at least three days’ notice; a detailed design or busy date may need longer.
 
-Keep lead times, deposits, and flavour availability in the authoritative order and flavour guides. Recheck the live information before publishing so the seasonal details do not become stale.
+Send one complete brief rather than approving details in pieces: date, guest estimate, size, design, exact wording, venue, and receiver. Ask the bakery to confirm flavour, price, and delivery window together before calling the order booked.
+
+## Cebuano
+
+# Giunsa pagplano ang oras sa pag-order para sa red velvet cake sa Cebu
+
+Kumpirmaha una kon gitanyag karon sa panaderya ang red velvet format para sa petsa. Ihapon paatras gikan sa oras sa pag-serve ug bilini og panahon sa approval, quote, bayad ug delivery. Nangayo ang White Cakes og labing menos tulo ka adlaw nga pahibalo; mahimong dugay pa ang detalyadong disenyo o busy nga petsa.
+
+Ipadala ang kompleto nga brief: petsa, banabana sa bisita, gidak-on, disenyo, eksaktong teksto, venue ug modawat. Pangayo nga dungan kumpirmahon sa panaderya ang flavour, presyo ug delivery window sa dili pa isipon nga booked ang order.
+
+## Tagalog
+
+# Paano planuhin ang oras ng pag-order para sa red velvet cake sa Cebu
+
+Kumpirmahin muna kung kasalukuyang iniaalok ng bakery ang hinihinging red velvet format sa petsa. Magplano pabalik mula sa oras ng paghahain at maglaan para sa approval, quote, bayad, at delivery. Humihingi ang White Cakes ng hindi bababa sa tatlong araw na abiso; maaaring mas matagal ang detalyadong design o mataong petsa.
+
+Magpadala ng kumpletong brief: petsa, tantiya ng bisita, sukat, design, eksaktong teksto, venue, at tatanggap. Hilingin sa bakery na sabay kumpirmahin ang flavor, presyo, at delivery window bago ituring na booked ang order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma una ang petsa, dayon tugoti ang panahon alang sa mga detalye sa disenyo ug handoff
-
-Pilia ang adlaw ug oras sa pagserbisyo sa dili pa mangutana bahin sa usa ka red velvet cake. Ipakigbahin ang gipangayo nga gidak-on, lami, disenyo, inskripsiyon, ug kung kinahanglan nimo nga ipadala o kuhaon. Hangyoa ang panaderya sa pagkumpirma sa kasamtangan nga pagkaanaa sa lami ug kung mahimo ba niini ang gihangyo nga disenyo alang sa maong petsa.
-
-Ang kasamtangang giya sa White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa gihimo-sa-order nga mga cake, apan ang pagkaanaa dili garantiya hangtod makumpirma ang order. Ang detalyado nga dekorasyon o usa ka busy nga okasyon mahimong magkinahanglan og sayo nga pagplano. Kung makumpirma sa panaderya ang kompleto nga kinutlo ug mga detalye, sunda ang mga panudlo sa pagdeposito karon; ang gipahayag nga proseso naggamit ug 50% nga deposito aron masiguro ang booking.
-
-Ipadayon ang mga oras sa tingga, mga deposito, ug pagkaanaa sa lami sa awtoritatibo nga han-ay ug mga giya sa lami. Susiha pag-usab ang buhi nga impormasyon sa dili pa imantala aron ang mga seasonal nga mga detalye dili madaot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin muna ang petsa, pagkatapos ay maglaan ng oras para sa mga detalye ng disenyo at handoff
-
-Piliin ang araw at oras ng paghahatid bago magtanong tungkol sa isang red velvet cake. Ibahagi ang hiniling na laki, lasa, disenyo, inskripsiyon, at kung kailangan mo ng paghahatid o pag-pickup. Hilingin sa panaderya na kumpirmahin ang kasalukuyang pagkakaroon ng lasa at kung magagawa nito ang hiniling na disenyo para sa petsang iyon.
-
-Ang kasalukuyang patnubay ng White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, ngunit hindi ginagarantiyahan ang availability hanggang sa makumpirma ang order. Ang detalyadong dekorasyon o isang abalang okasyon ay maaaring mangailangan ng mas maagang pagpaplano. Kapag nakumpirma na ng panaderya ang kumpletong quote at mga detalye, sundin ang kasalukuyang mga tagubilin sa deposito nito; ang nakasaad na proseso ay gumagamit ng 50% na deposito para masigurado ang booking.
-
-Panatilihin ang mga oras ng lead, deposito, at availability ng lasa sa awtoritatibong pagkakasunud-sunod at mga gabay sa lasa. Suriin muli ang live na impormasyon bago i-publish para hindi masira ang mga napapanahong detalye.
+- Verify current menu, ingredients, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

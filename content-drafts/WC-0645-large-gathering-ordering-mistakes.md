@@ -1,44 +1,45 @@
 ---
 id: WC-0645
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "Common ordering mistakes to avoid with cake for a large family gathering in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa malaking pagtitipon ng pamilya sa Cebu"
+english_title: "Cake Ordering Mistakes to Avoid for a Large Family Gathering"
+cebuano_title: "Mga Sayop sa Pag-order og Cake nga Likayan para sa Dakong Tapok sa Pamilya"
+tagalog_title: "Mga Pagkakamali sa Pag-order ng Cake na Dapat Iwasan para sa Malaking Pagtitipon ng Pamilya"
 ---
 
-## Avoid ordering too small or too late for a large family event
+## English
 
-Do not use the invitation count as the only serving estimate. Ask how many relatives are likely to eat cake, whether another dessert will be served, and whether slices should be generous. White Cakes' current guide estimates 8–12 party portions for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. Ask the bakery to confirm the right configuration instead of extending those ranges yourself.
+# Cake Ordering Mistakes to Avoid for a Large Family Gathering
 
-Do not wait until the week of the event to ask about availability. Made-to-order cakes require at least three days' notice, and popular dates may fill earlier. Send the date, flavour, size, design reference, and delivery location together so the bakery can assess the request.
+Do not estimate the cake from the number of people invited alone. Confirm who will be present at serving time, how many other desserts are planned, and whether slices should be modest. A clear count helps avoid both shortage and unnecessary excess.
 
-Avoid assuming a detailed reference photo is a fixed quote. Confirm what details are feasible, the exact inscription, final price, and delivery fee. Provide a full address, landmark, and receiving contact for a family venue. The 50% deposit confirms the agreed order once all terms are settled.
+Avoid letting multiple relatives send conflicting instructions. Use one contact to approve the design, inscription, size, and payment. Confirm with the venue that outside cake is allowed and that someone can receive it during the bakery’s delivery window.
 
-This is a practical checklist, not a customer-failure story. Keep it in the main ordering guide unless a verified, anonymized case adds new value.
+Do not treat a past event photo as proof of current availability. Confirm the final quote, deposit, address, receiver, and current design capability in writing. See the [Cebu cake ordering guide](/journal/how-to-order.html).
+
+## Cebuano
+
+# Mga Sayop sa Pag-order og Cake nga Likayan para sa Dakong Tapok sa Pamilya
+
+Ayaw banabanaa ang cake base sa ihap sa giimbitar lang. Kumpirmaha kinsa ang naa sa oras sa pag-serve, pila ka laing dessert ang naa ug modest ba ang hiwa. Makatabang ang klarong ihap aron malikayan ang kulang o sobra nga cake.
+
+Likayi ang nagkasumpaking instruksyon gikan sa daghang paryente. Gamita ang usa ka contact nga moapruba sa disenyo, inskripsiyon, gidak-on ug bayad. Kumpirmaha sa venue nga gitugotan ang cake gikan sa gawas ug adunay modawat niini sulod sa delivery window sa panaderya.
+
+Ayaw isipon nga pamatuod sa kasamtangang availability ang daang litrato sa event. Kumpirmaha sa sinulat ang final quote, deposit, address, modawat ug kasamtangang kapasidad sa disenyo. Tan-awa ang [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Mga Pagkakamali sa Pag-order ng Cake na Dapat Iwasan para sa Malaking Pagtitipon ng Pamilya
+
+Huwag tantiyahin ang cake batay lang sa bilang ng inimbitahan. Kumpirmahin kung sino ang naroroon sa oras ng paghahain, ilan pang dessert ang ihahanda, at kung modest na hiwa ang kailangan. Nakakatulong ang malinaw na bilang para maiwasan ang kulang o sobra.
+
+Iwasan ang magkakasalungat na tagubilin mula sa maraming kamag-anak. Gumamit ng isang contact na mag-aapruba sa design, inscription, sukat, at bayad. Kumpirmahin sa venue na pinapayagan ang dalang cake at may tatanggap nito sa loob ng delivery window ng bakery.
+
+Huwag ituring na patunay ng kasalukuyang availability ang lumang larawan ng event. Kumpirmahin nang nakasulat ang pinal na quote, deposito, address, tatanggap, at kasalukuyang kakayahan sa design. Tingnan ang [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang pag-order nga gamay ra o ulahi na kaayo alang sa usa ka dako nga kalihokan sa pamilya
-
-Ayaw gamita ang ihap sa imbitasyon isip ang bugtong banabana sa pagserbisyo. Pangutan-a kung pila ka mga paryente ang lagmit mokaon sa cake, kung adunay lain nga dessert, ug kung ang mga hiwa kinahanglan nga manggihatagon. Ang kasamtangang giya sa White Cakes nagbanabana sa 8–12 ka bahin sa party alang sa 6 ka pulgada, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Hangyoa ang panaderya nga kumpirmahon ang husto nga pag-configure imbes nga i-extend ang mga han-ay sa imong kaugalingon.
-
-Ayaw paghulat hangtod sa semana sa kalihokan aron mangutana bahin sa pagkaanaa. Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang sikat nga mga petsa mahimong mapuno sa sayo pa. Ipadala ang petsa, lami, gidak-on, reperensiya sa disenyo, ug lokasyon sa paghatod aron masusi sa panaderya ang hangyo.
-
-Likayi ang paghunahuna nga ang usa ka detalyado nga pakisayran nga litrato usa ka piho nga kinutlo. Kumpirma kung unsang mga detalye ang mahimo, ang eksaktong inskripsiyon, katapusang presyo, ug bayad sa pagpadala. Paghatag og usa ka kompleto nga adres, landmark, ug pagdawat sa kontak alang sa usa ka lugar sa pamilya. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order sa higayon nga ang tanan nga mga termino masulbad.
-
-Kini usa ka praktikal nga checklist, dili usa ka istorya sa pagkapakyas sa kostumer. Itago kini sa panguna nga giya sa pag-order gawas kung ang usa ka gipamatud-an, wala mailhi nga kaso nagdugang bag-ong kantidad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasan ang pag-order ng masyadong maliit o huli na para sa isang malaking kaganapan ng pamilya
-
-Huwag gamitin ang bilang ng imbitasyon bilang ang tanging pagtatantya ng paghahatid. Itanong kung gaano karaming mga kamag-anak ang malamang na kumain ng cake, kung isa pang dessert ang ihahain, at kung ang mga hiwa ay dapat na mapagbigay. Tinatantya ng kasalukuyang gabay ng White Cakes ang 8–12 party portion para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa 6+8-pulgadang two-tier na cake. Hilingin sa panaderya na kumpirmahin ang tamang configuration sa halip na ikaw mismo ang mag-extend ng mga saklaw na iyon.
-
-Huwag maghintay hanggang sa linggo ng kaganapan para magtanong tungkol sa availability. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang mga sikat na petsa ay maaaring mapuno nang mas maaga. Ipadala ang petsa, lasa, laki, sanggunian sa disenyo, at lokasyon ng paghahatid nang magkasama upang masuri ng panaderya ang kahilingan.
-
-Iwasang ipagpalagay na ang isang detalyadong reference na larawan ay isang nakapirming quote. Kumpirmahin kung anong mga detalye ang magagawa, ang eksaktong inskripsiyon, huling presyo, at bayad sa paghahatid. Magbigay ng buong address, palatandaan, at pagtanggap ng contact para sa isang lugar ng pamilya. Kinukumpirma ng 50% na deposito ang napagkasunduang order kapag naayos na ang lahat ng mga tuntunin.
-
-Ito ay isang praktikal na checklist, hindi isang kuwento ng pagkabigo ng customer. Panatilihin ito sa pangunahing gabay sa pag-order maliban kung ang isang na-verify, hindi kilalang kaso ay nagdaragdag ng bagong halaga.
+- Confirm current size, menu, terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

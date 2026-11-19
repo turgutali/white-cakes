@@ -1,38 +1,45 @@
 ---
 id: WC-0592
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; coordinate the local recipient
-english_title: "How to choose a design for sending a cake to family in Cebu from abroad"
-cebuano_title: "Giunsa pagpili og disenyo para sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Paano pumili ng disenyo para sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "How to Choose a Cake Design for Family in Cebu from Abroad"
+cebuano_title: "Giunsa Pagpili sa Disenyo sa Cake para sa Pamilya sa Cebu Gikan sa Laing Nasod"
+tagalog_title: "Paano Pumili ng Design ng Cake para sa Pamilya sa Cebu Mula sa Ibang Bansa"
 ---
 
-## Ask your family in Cebu what would feel personal to them
+## English
 
-Before choosing a design from overseas, ask the local recipient or organizer what the family would enjoy. Select one colour, short message, or meaningful detail and send a reference that explains it. Mark which elements are essential and let the bakery confirm what it can adapt for the actual cake.
+# How to Choose a Cake Design for Family in Cebu from Abroad
 
-Share the requested size, flavour, date, serving estimate, exact wording, and local delivery address. Confirm the recipient’s phone number and make sure someone can receive the cake. Check the complete quote and current availability directly with the bakery rather than relying on an old menu or photo.
+If you are ordering from abroad, choose a design with the local recipient’s preferences in mind. Ask a family member in Cebu about colours, interests, and the celebration setting, especially if the cake will be a surprise. Decide which details they can help confirm without revealing the plan.
 
-Keep general design advice in the Cebu guide and handoff details in the delivery guide. Any customer story or photo needs explicit permission.
+Send a small set of references and explain the one or two features that matter. A clear message and one visual focus are easier to review remotely than a complex collage. Keep in mind that a reference does not guarantee exact reproduction or current seasonal availability.
+
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask the bakery how the idea can be adapted, then have the local recipient confirm the display and delivery arrangement. See [Cebu cake design ideas](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Disenyo sa Cake para sa Pamilya sa Cebu Gikan sa Laing Nasod
+
+Kon gikan ka sa laing nasod nag-order, pilia ang disenyo nga naghunahuna sa gusto sa lokal nga modawat. Pangutan-a ang sakop sa pamilya sa Cebu bahin sa kolor, interes ug setting sa selebrasyon, ilabi na kon surprise ang cake. Desisyoni unsang detalye ang ilang makatabang kumpirmahon nga dili mabuak ang plano.
+
+Magpadala og gamay nga koleksiyon sa reference ug ipasabut ang usa o duha ka importante nga bahin. Mas sayon susihon sa layo ang klarong mensahe ug usa ka biswal nga sentro kaysa komplikadong collage. Hinumdomi nga dili garantiya sa eksaktong pagkopya o kasamtangang seasonal availability ang reference.
+
+Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a ang panaderya unsaon pagpahiangay sa ideya, unya hangyoa ang lokal nga modawat nga kumpirmahon ang display ug delivery arrangement. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Design ng Cake para sa Pamilya sa Cebu Mula sa Ibang Bansa
+
+Kung mula ka sa ibang bansa nag-o-order, pumili ng design habang iniisip ang gusto ng lokal na tatanggap. Tanungin ang kapamilya sa Cebu tungkol sa kulay, interes, at setup ng selebrasyon, lalo na kung sorpresa ang cake. Pagpasyahan kung aling detalye ang maaari nilang kumpirmahin nang hindi nabubunyag ang plano.
+
+Magpadala ng maliit na set ng references at ipaliwanag ang isa o dalawang mahalagang feature. Mas madaling suriin nang malayuan ang malinaw na mensahe at isang visual focus kaysa komplikadong collage. Tandaan na hindi garantiya ng eksaktong pagkopya o kasalukuyang seasonal availability ang reference.
+
+Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Itanong sa bakery kung paano iaangkop ang ideya, saka hilingin sa lokal na tatanggap na kumpirmahin ang display at delivery arrangement. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangutan-a ang imong pamilya sa Cebu kung unsa ang ilang bation nga personal nila
-
-Sa dili pa mopili og disenyo gikan sa gawas sa nasud, pangutan-a ang lokal nga tigdawat o tig-organisar kon unsa ang malingaw sa pamilya. Pagpili og usa ka kolor, mubo nga mensahe, o makahuluganon nga detalye ug ipadala ang usa ka pakisayran nga nagpatin-aw niini. Markahan kung unsang mga elemento ang kinahanglanon ug tugoti ang panaderya sa pagkumpirma kung unsa ang mahimo niini nga ipahiangay sa aktuwal nga cake.
-
-Ipakigbahin ang gipangayo nga gidak-on, lami, petsa, banabana sa pagserbisyo, eksaktong pulong, ug lokal nga adres sa pagpadala. Kumpirma ang numero sa telepono sa nakadawat ug siguroha nga adunay makadawat sa cake. Susiha ang kompleto nga kinutlo ug kasamtangan nga anaa direkta sa panaderya imbes nga magsalig sa daan nga menu o litrato.
-
-Itago ang kinatibuk-ang tambag sa disenyo sa giya sa Cebu ug mga detalye sa handoff sa giya sa paghatud. Ang bisan unsang istorya o litrato sa kustomer nanginahanglan klaro nga pagtugot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tanungin ang iyong pamilya sa Cebu kung ano ang magiging personal sa kanila
-
-Bago pumili ng disenyo mula sa ibang bansa, tanungin ang lokal na tatanggap o tagapag-ayos kung ano ang ikatutuwa ng pamilya. Pumili ng isang kulay, maikling mensahe, o makabuluhang detalye at magpadala ng reference na nagpapaliwanag dito. Markahan kung aling mga elemento ang mahalaga at hayaan ang panaderya na kumpirmahin kung ano ang maaari nitong iakma para sa aktwal na cake.
-
-Ibahagi ang hiniling na laki, lasa, petsa, pagtatantya ng paghahatid, eksaktong salita, at lokal na address ng paghahatid. Kumpirmahin ang numero ng telepono ng tatanggap at tiyaking may makakatanggap ng cake. Direktang suriin ang kumpletong quote at kasalukuyang availability sa panaderya sa halip na umasa sa isang lumang menu o larawan.
-
-Panatilihin ang pangkalahatang payo sa disenyo sa gabay sa Cebu at mga detalye ng handoff sa gabay sa paghahatid. Ang anumang kuwento o larawan ng customer ay nangangailangan ng tahasang pahintulot.
+- Confirm current menu, payment, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

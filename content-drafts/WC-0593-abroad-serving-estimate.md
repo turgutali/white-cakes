@@ -1,38 +1,45 @@
 ---
 id: WC-0593
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html; coordinate the headcount with the local recipient
-english_title: "How to estimate servings for sending a cake to family in Cebu from abroad"
-cebuano_title: "Giunsa pagbanabana sa servings para sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Paano tantiyahin ang servings para sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html
+english_title: "How to Estimate Cake Servings When Ordering for Family in Cebu from Abroad"
+cebuano_title: "Giunsa Pagbanabana sa Servings Kon Mag-order para sa Pamilya sa Cebu Gikan sa Laing Nasod"
+tagalog_title: "Paano Tantiyahin ang Serving Kapag Umorder para sa Pamilya sa Cebu Mula sa Ibang Bansa"
 ---
 
-## Ask your family in Cebu how many people will actually share the cake
+## English
 
-If you are paying from abroad, ask the local host how many guests will be present at dessert time and whether other sweets are planned. Use that expected number—not the whole invitation list—to discuss cake size with the bakery. Decide whether the family wants modest slices or larger portions.
+# How to Estimate Cake Servings When Ordering for Family in Cebu from Abroad
 
-The current guide estimates 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and 30–36 from a 6+8-inch two-tier cake. These are approximate; confirm the suitable size and cutting style directly. Share the chosen size and delivery plan with the local receiver.
+Ask the local host how many people are expected to share the cake when it is served. The person placing an order from abroad may not know which relatives will attend, whether cake follows a meal, or if there will be other desserts. Confirm the guest estimate in Cebu before choosing a size.
 
-Keep serving ranges centralized and link from the overseas-order delivery guide. Never promise an exact yield based only on diameter.
+The published guide estimates two generous or three modest servings after a meal from a 4-inch Bento, 8–12 party slices from a 6-inch round, and 16–24 from an 8-inch round. A common 6+8-inch two-tier is estimated at 30–36. These are approximate and affected by design, height, and cutting.
+
+Share the local host’s estimate with the bakery and confirm the size for the actual order. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagbanabana sa Servings Kon Mag-order para sa Pamilya sa Cebu Gikan sa Laing Nasod
+
+Pangutan-a ang lokal nga host pila ang gilaoman nga mopaambit sa cake sa oras sa pag-serve. Basin wala mahibalo ang nag-order gikan sa laing nasod kon kinsang paryente ang motambong, human ba sa pagkaon ang cake o adunay laing dessert. Kumpirmaha ang ihap sa bisita sa Cebu sa dili pa mopili og gidak-on.
+
+Gibanabana sa gipatik nga giya nga adunay duha ka generous o tulo ka modest nga servings human mokaon ang 4-inch Bento, 8–12 ka party slice ang 6-inch round ug 16–24 ang 8-inch round. Gibanabana ang kasagarang 6+8-inch two-tier nga 30–36. Banabana kini ug maapektuhan sa disenyo, kataas ug paagi sa paghiwa.
+
+Ipaambit sa panaderya ang banabana sa lokal nga host ug kumpirmaha ang gidak-on para sa aktuwal nga order. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Tantiyahin ang Serving Kapag Umorder para sa Pamilya sa Cebu Mula sa Ibang Bansa
+
+Tanungin ang lokal na host kung ilan ang inaasahang magsasalo sa cake kapag inihain ito. Maaaring hindi alam ng nag-o-order mula sa ibang bansa kung sinong kamag-anak ang dadalo, kung pagkatapos ng kainan ang cake, o kung may iba pang dessert. Kumpirmahin sa Cebu ang tantiya ng bisita bago pumili ng sukat.
+
+Tinatantiya ng inilathalang gabay na may dalawang generous o tatlong modest na serving pagkatapos kumain ang 4-inch Bento, 8–12 party slice ang 6-inch round, at 16–24 ang 8-inch round. Tinatayang may 30–36 ang karaniwang 6+8-inch two-tier. Tantiya lang ito at naaapektuhan ng design, taas, at paghiwa.
+
+Ibahagi sa bakery ang tantiya ng lokal na host at kumpirmahin ang sukat para sa mismong order. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangutan-a ang imong pamilya sa Cebu kon pila ka tawo ang moambit sa cake
-
-Kung nagbayad ka gikan sa gawas sa nasud, pangutan-a ang lokal nga host kung pila ka mga bisita ang motambong sa oras sa dessert ug kung giplano ba ang ubang mga tam-is. Gamita kanang gipaabot nga numero—dili ang tibuok listahan sa imbitasyon—aron hisgutan ang gidak-on sa cake uban sa panaderya. Desisyuni kon gusto ba sa pamilya ang kasarangan nga mga hiwa o mas dagkong mga bahin.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices gikan sa 6-pulgada nga cake, 16–24 gikan sa 8-pulgada nga cake, ug 30–36 gikan sa 6+8-pulgada nga two-tier nga cake. Kini mga gibanabana; kumpirmahi ang angay nga gidak-on ug estilo sa pagputol direkta. Ipaambit ang gipili nga gidak-on ug plano sa pagpadala sa lokal nga tigdawat.
-
-Ipadayon nga sentralisado ang mga hanay sa pagserbisyo ug i-link gikan sa giya sa paghatud sa order sa gawas sa nasud. Ayaw gayud pagsaad ug eksaktong abot base lamang sa diyametro.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tanungin ang iyong pamilya sa Cebu kung gaano karaming tao ang aktwal na makibahagi sa cake
-
-Kung nagbabayad ka mula sa ibang bansa, tanungin ang lokal na host kung gaano karaming mga bisita ang naroroon sa oras ng dessert at kung ang iba pang mga sweets ay binalak. Gamitin ang inaasahang numerong iyon—hindi ang buong listahan ng imbitasyon—upang talakayin ang laki ng cake sa panaderya. Magpasya kung gusto ng pamilya ng katamtamang hiwa o mas malalaking bahagi.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice mula sa isang 6-inch na cake, 16–24 mula sa isang 8-inch na cake, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga ito ay tinatayang; direktang kumpirmahin ang angkop na laki at istilo ng pagputol. Ibahagi ang napiling laki at plano sa paghahatid sa lokal na tatanggap.
-
-Panatilihing sentralisado ang mga saklaw ng paghahatid at i-link mula sa gabay sa paghahatid ng order sa ibang bansa. Huwag kailanman mangako ng eksaktong ani batay lamang sa diameter.
+- Confirm current menu, payment, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

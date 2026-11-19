@@ -1,44 +1,45 @@
 ---
 id: WC-0572
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "What to include in a custom brief for cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+english_title: "What to Include in a Cake Brief for a Lapu-Lapu Family Event"
+cebuano_title: "Unsa ang Iapil sa Brief sa Cake para sa Family Event sa Lapu-Lapu"
+tagalog_title: "Ano ang Isasama sa Brief para sa Cake sa Lapu-Lapu Family Event"
 ---
 
-## Prepare a custom-cake brief for a Lapu-Lapu family event
+## English
 
-Start with the event date, number of people expected to eat cake, preferred size, and flavour. Include whether the cake is the main dessert or part of a larger meal. White Cakes estimates 8–12 party slices from 6 inches and 16–24 from 8 inches; these are planning ranges, so ask the bakery to confirm the right size.
+# What to Include in a Cake Brief for a Lapu-Lapu Family Event
 
-For design, choose a palette and one focal idea. Attach one reference photo and explain what should be adapted. If the family wants specific lettering, a motif, or a logo, send the exact wording or approved artwork. Ask what is feasible and request a quote for the actual work; a photo alone does not set the price.
+Include the date, serving time, estimated guests, size, flavour, exact inscription, and complete delivery address. For a house, condominium, or resort venue, specify the building or property name, entrance, meeting point, and the person authorized to receive the cake. Verify these details with the host.
 
-For a Lapu-Lapu delivery, provide the full address, landmark, local receiver's mobile number, and venue instructions. Confirm delivery availability, window, and fee. White Cakes requires at least three days' notice for made-to-order cakes. The 50% deposit confirms the agreed order once the design and logistics are settled.
+Describe the occasion and the recipient’s preferences. Choose one design priority and label which parts of a reference image matter. Mark what the bakery may adapt to fit the cake and its production methods. This is more useful than a long set of images without explanation.
 
-Use this local example in the general custom brief guide, with verified service-area details linked from the delivery page.
+Ask the bakery to confirm service for the precise Lapu-Lapu address and date. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm the final quote, deposit, and delivery window in writing. Use the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Brief sa Cake para sa Family Event sa Lapu-Lapu
+
+Iapil ang petsa, oras sa pag-serve, gibanabana nga bisita, gidak-on, flavour, eksaktong inskripsiyon ug kompleto nga delivery address. Para sa balay, condo o resort venue, isulti ang ngalan sa building o property, entrance, meeting point ug tawo nga awtorisadong modawat sa cake. Kumpirmaha kini sa host.
+
+Ihulagway ang okasyon ug gusto sa makadawat. Pagpili og usa ka prayoridad sa disenyo ug markahi unsang bahin sa reference image ang importante. Isulti unsay mahimong ipasibo sa panaderya aron mohaum sa cake ug paagi sa paghimo. Mas mapuslanon kini kaysa taas nga koleksiyon sa litrato nga walay pagpasabot.
+
+Pangutan-a ang panaderya kon makaserbisyo ba kini sa tukmang address sa Lapu-Lapu ug petsa. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha sa sinulat ang final quote, deposit ug delivery window. Gamita ang [giya sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Brief para sa Cake sa Lapu-Lapu Family Event
+
+Isama ang petsa, oras ng paghahain, tantiya ng bisita, sukat, flavour, eksaktong inscription, at buong delivery address. Para sa bahay, condo, o resort venue, tukuyin ang pangalan ng building o property, entrance, meeting point, at taong awtorisadong tumanggap ng cake. Kumpirmahin ito sa host.
+
+Ilarawan ang okasyon at gusto ng tatanggap. Pumili ng isang prayoridad sa design at markahan kung aling bahagi ng reference image ang mahalaga. Sabihin kung ano ang maaaring iangkop ng bakery para bumagay sa cake at paraan ng paggawa. Mas kapaki-pakinabang ito kaysa mahabang set ng larawang walang paliwanag.
+
+Itanong sa bakery kung masaserbisyuhan nito ang eksaktong address sa Lapu-Lapu at petsa. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin nang nakasulat ang pinal na quote, deposito, at delivery window. Gamitin ang [gabay sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-andam ug custom-cake brief para sa Lapu-Lapu family event
-
-Pagsugod sa petsa sa kalihokan, gidaghanon sa mga tawo nga gilauman nga mokaon sa cake, gusto nga gidak-on, ug lami. Ilakip kung ang cake mao ang panguna nga dessert o bahin sa usa ka mas dako nga pagkaon. Gibanabana sa White Cakes ang 8–12 ka hiwa sa party gikan sa 6 ka pulgada ug 16–24 gikan sa 8 ka pulgada; kini mga sakup sa pagplano, busa hangyoa ang panaderya nga kumpirmahon ang husto nga gidak-on.
-
-Alang sa disenyo, pagpili og palette ug usa ka focal idea. Ilakip ang usa ka reperensya nga litrato ug ipasabut kung unsa ang kinahanglan ipahiangay. Kung gusto sa pamilya ang espesipikong letra, motif, o logo, ipadala ang eksaktong pulong o giaprobahan nga artwork. Pangutan-a kung unsa ang mahimo ug paghangyo og usa ka kinutlo alang sa aktuwal nga trabaho; ang usa ka litrato lamang wala magtakda sa presyo.
-
-Alang sa pagpadala sa Lapu-Lapu, ihatag ang kompleto nga adres, landmark, mobile number sa lokal nga receiver, ug mga instruksyon sa lugar. Kumpirma ang pagkaanaa sa pagpadala, bintana, ug bayad. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order sa higayon nga ang disenyo ug logistics nahusay na.
-
-Gamita kining lokal nga pananglitan sa kinatibuk-ang custom nga mubu nga giya, nga adunay gipamatud-an nga mga detalye sa lugar sa serbisyo nga nalambigit gikan sa pahina sa paghatud.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Maghanda ng custom-cake brief para sa isang Lapu-Lapu family event
-
-Magsimula sa petsa ng kaganapan, bilang ng mga taong inaasahang kakain ng cake, gustong laki, at lasa. Isama kung ang cake ang pangunahing dessert o bahagi ng mas malaking pagkain. Tinatantya ng White Cakes ang 8–12 party slice mula sa 6 na pulgada at 16–24 mula sa 8 pulgada; ito ay mga saklaw ng pagpaplano, kaya hilingin sa panaderya na kumpirmahin ang tamang sukat.
-
-Para sa disenyo, pumili ng palette at isang focal idea. Maglakip ng isang reference na larawan at ipaliwanag kung ano ang dapat iakma. Kung gusto ng pamilya ng partikular na titik, motif, o logo, ipadala ang eksaktong salita o aprubadong likhang sining. Itanong kung ano ang magagawa at humiling ng isang quote para sa aktwal na gawain; ang isang larawan lamang ay hindi nagtatakda ng presyo.
-
-Para sa paghahatid sa Lapu-Lapu, ibigay ang buong address, palatandaan, numero ng mobile ng lokal na tatanggap, at mga tagubilin sa lugar. Kumpirmahin ang availability ng paghahatid, window, at bayad. Ang mga White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Kinukumpirma ng 50% na deposito ang napagkasunduang order kapag naayos na ang disenyo at logistik.
-
-Gamitin ang lokal na halimbawang ito sa pangkalahatang custom na maikling gabay, na may mga na-verify na detalye ng lugar ng serbisyo na naka-link mula sa pahina ng paghahatid.
+- Confirm current Lapu-Lapu address coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

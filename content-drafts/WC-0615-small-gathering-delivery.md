@@ -1,44 +1,45 @@
 ---
 id: WC-0615
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to prepare for delivery of cake for a small intimate gathering in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa gamay ug suod nga panagtigom sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa maliit at malapit na pagtitipon sa Cebu"
+english_title: "How to Prepare for Cake Delivery to a Small Cebu Gathering"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Cake para sa Gamay nga Tapok sa Cebu"
+tagalog_title: "Paano Maghanda para sa Delivery ng Cake para sa Maliit na Pagtitipon sa Cebu"
 ---
 
-## Prepare a simple receiving plan for an intimate gathering
+## English
 
-Even a small gathering needs someone ready to accept the cake. Give White Cakes the complete address, landmark, local mobile number, and gate or building instructions. Decide where the driver should meet the receiver and confirm the delivery window and fee for that location.
+# How to Prepare for Cake Delivery to a Small Cebu Gathering
 
-Choose a level, cool place to set the cake after arrival. Keep it out of direct sunlight and away from a hot car or appliance. If there will be several hours between delivery and serving, follow the bakery's refrigeration guidance and make sure the receiver knows how to handle the box. Avoid leaving a cake unattended in a lobby or outside a home.
+A small event can still have a tricky handoff if the host is preparing food or greeting guests. Name a receiver who can answer the phone and share the full address, entrance instructions, and meeting point with the bakery. If the event is at a café or restaurant, confirm outside-cake rules and where the cake may be placed.
 
-Include the event date, size, flavour, design, and short inscription with the delivery request. A 4-inch Bento serves two generous portions or three modest ones; for a larger group, ask about a size suited to the actual cake-eater count. White Cakes requires at least three days' notice. The 50% deposit confirms the agreed order.
+White Cakes confirms a delivery window rather than an exact minute. Keep the schedule flexible and make sure someone is available throughout the window. Provide a backup contact if the host cannot step away.
 
-Keep general instructions in the Cebu delivery guide and add location-specific details only when verified.
+After delivery, keep the cake on a stable surface and follow the bakery’s storage advice. If the location changes, get the updated arrangement confirmed before the event. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Cake para sa Gamay nga Tapok sa Cebu
+
+Mahimong lisod gihapon ang handoff sa gamay nga event kon nag-andam og pagkaon o nangumusta sa bisita ang host. Pagngalan og modawat nga makatubag sa telepono ug ipaambit sa panaderya ang kompleto nga address, instruksyon sa entrance ug meeting point. Kon café o restaurant ang venue, kumpirmaha ang lagda sa cake gikan sa gawas ug asa kini ibutang.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Flexible ang iskedyul ug kinahanglan adunay available sa tibuok window. Paghatag og backup contact kon dili makagawas ang host.
+
+Human sa delivery, ibutang ang cake sa lig-on nga surface ug sunda ang tambag sa panaderya sa pagtipig. Kon mausab ang lugar, kumpirmaha daan ang bag-ong arrangement. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Cake para sa Maliit na Pagtitipon sa Cebu
+
+Maaari pa ring maging mahirap ang handoff sa maliit na event kung naghahanda ng pagkain o bumabati ng bisita ang host. Magtalaga ng tatanggap na sasagot sa telepono at ibahagi sa bakery ang buong address, tagubilin sa entrance, at meeting point. Kung café o restaurant ang venue, kumpirmahin ang patakaran sa dalang cake at kung saan ito maaaring ilagay.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Panatilihing flexible ang iskedyul at tiyaking may taong available sa buong window. Magbigay ng backup contact kung hindi makaalis ang host.
+
+Pagkatapos ng delivery, ilagay ang cake sa matatag na ibabaw at sundin ang payo ng bakery sa pag-iimbak. Kung magbago ang lokasyon, kumpirmahin muna ang bagong arrangement bago ang event. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-andam og usa ka yano nga plano sa pagdawat alang sa usa ka suod nga panagtapok
-
-Bisan ang usa ka gamay nga panagtapok kinahanglan usa ka tawo nga andam nga modawat sa cake. Ihatag sa White Cakes ang kompleto nga adres, landmark, lokal nga numero sa mobile, ug mga instruksiyon sa gate o building. Pagdesisyon kung asa ang drayber kinahanglan makigtagbo sa tigdawat ug kumpirmahi ang bintana sa pagpadala ug bayad alang sa kana nga lokasyon.
-
-Pagpili usa ka lebel, bugnaw nga lugar aron ibutang ang cake pagkahuman sa pag-abot. Ipahilayo kini sa direktang kahayag sa adlaw ug layo sa init nga sakyanan o appliance. Kung adunay daghang oras tali sa paghatud ug pagserbisyo, sunda ang giya sa pagpabugnaw sa panaderya ug siguroha nga nahibal-an sa tigdawat kung giunsa pagdumala ang kahon. Likayi ang pagbilin ug cake nga wala maatiman sa lobby o sa gawas sa balay.
-
-Ilakip ang petsa sa panghitabo, gidak-on, lami, disenyo, ug mubo nga inskripsiyon uban sa hangyo sa pagpadala. Ang usa ka 4-pulgada nga Bento nagsilbi sa duha ka ubay-ubay nga mga bahin o tulo nga kasarangan; para sa mas dako nga grupo, pangutana bahin sa gidak-on nga haum sa aktuwal nga ihap sa cake-eater. Ang mga White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang mga kinatibuk-ang instruksyon sa giya sa paghatud sa Cebu ug idugang ang mga detalye nga piho sa lokasyon kung gipamatud-an.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Maghanda ng simpleng plano sa pagtanggap para sa isang matalik na pagtitipon
-
-Kahit isang maliit na pagtitipon ay nangangailangan ng isang taong handang tumanggap ng cake. Ibigay sa White Cakes ang kumpletong address, landmark, lokal na numero ng mobile, at mga tagubilin sa gate o gusali. Magpasya kung saan dapat makipagkita ang driver sa receiver at kumpirmahin ang delivery window at bayad para sa lokasyong iyon.
-
-Pumili ng isang antas, cool na lugar upang itakda ang cake pagkatapos ng pagdating. Ilayo ito sa direktang sikat ng araw at malayo sa mainit na kotse o appliance. Kung magkakaroon ng ilang oras sa pagitan ng paghahatid at paghahatid, sundin ang gabay sa pagpapalamig ng panaderya at tiyaking alam ng tatanggap kung paano pangasiwaan ang kahon. Iwasang mag-iwan ng cake nang hindi nakabantay sa lobby o sa labas ng bahay.
-
-Isama ang petsa ng kaganapan, laki, lasa, disenyo, at maikling inskripsiyon sa kahilingan sa paghahatid. Ang isang 4-pulgadang Bento ay naghahain ng dalawang masaganang bahagi o tatlong katamtaman; para sa mas malaking grupo, magtanong tungkol sa sukat na angkop sa aktwal na bilang ng kumakain ng cake. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang mga pangkalahatang tagubilin sa gabay sa paghahatid sa Cebu at magdagdag ng mga detalyeng partikular sa lokasyon kapag na-verify.
+- Confirm current availability and order-specific care guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

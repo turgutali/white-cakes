@@ -1,38 +1,45 @@
 ---
 id: WC-0597
-status: written-draft
-publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm product-specific storage with the baker
-english_title: "How to keep safe and cool until serving sending a cake to family in Cebu from abroad"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/buttercream-in-cebu-heat.html
+english_title: "How to Store a Cake for Cebu Family When You Ordered from Abroad"
+cebuano_title: "Giunsa Pagtipig sa Cake para sa Pamilya sa Cebu Kon Gikan sa Laing Nasod ang Nag-order"
+tagalog_title: "Paano Itabi ang Cake para sa Pamilya sa Cebu Kapag Mula sa Ibang Bansa ang Nag-order"
 ---
 
-## Arrange the recipient and storage plan before the cake arrives
+## English
 
-If you are ordering from abroad for family in Cebu, name a local recipient who can receive the cake and follow the bakery’s care instructions. Confirm the delivery address, available handoff window, and a local phone number. Ask the baker how to store that particular cake, how long it can remain at the venue, and when to bring it out before serving.
+# How to Store a Cake for Cebu Family When You Ordered from Abroad
 
-Avoid giving a generic refrigeration rule without checking the product. Buttercream finish, filling, room temperature, and transport time can change the right handling advice. The recipient should keep the box level, away from direct sun and heat, and follow the instructions supplied with the order. If plans change, contact the bakery for product-specific guidance.
+Ask the bakery for cake-specific storage guidance before delivery and pass it to the local receiver. Someone ordering from abroad may not be present to explain the plan, so include the instructions in the written order summary and ask the recipient to confirm receipt.
 
-Put verified advice in one care guide. International customers may need a clear local handoff plan, but a remote payer does not change the cake’s actual storage requirements.
+Tell the bakery how long the cake may wait before serving and whether it will be moved from the delivery point. Keep it on a stable, level surface away from direct sun and heat, and do not leave it in a parked vehicle. Follow the product-specific instructions rather than a general rule found online.
+
+If the family changes the serving time, ask the local contact to check with the bakery. See the [buttercream and Cebu heat guide](/journal/buttercream-in-cebu-heat.html), then rely on instructions for the exact cake ordered.
+
+## Cebuano
+
+# Giunsa Pagtipig sa Cake para sa Pamilya sa Cebu Kon Gikan sa Laing Nasod ang Nag-order
+
+Pangayo sa panaderya og instruksyon sa pagtipig nga espesipiko sa cake sa dili pa ang delivery ug ipasa kini sa lokal nga modawat. Basin wala ang nag-order gikan sa laing nasod sa pagpatin-aw sa plano, busa iapil ang instruksyon sa sinulat nga order summary ug hangyoa ang recipient nga mokumpirma sa pagdawat.
+
+Isulti sa panaderya unsa kadugay maghulat ang cake sa dili pa i-serve ug kon ibalhin ba kini gikan sa delivery point. Ibutang kini sa lig-on ug patag nga lugar nga layo sa direktang adlaw ug kainit, ug ayaw ibilin sa giparking nga sakyanan. Sunda ang instruksyon para sa produkto imbes kinatibuk-ang lagda nga makita online.
+
+Kon mausab sa pamilya ang oras sa pag-serve, hangyoa ang lokal nga contact nga mokonsulta sa panaderya. Tan-awa ang [giya sa buttercream ug kainit sa Cebu](/journal/buttercream-in-cebu-heat.html), dayon sundon ang instruksyon para sa eksaktong cake nga gi-order.
+
+## Tagalog
+
+# Paano Itabi ang Cake para sa Pamilya sa Cebu Kapag Mula sa Ibang Bansa ang Nag-order
+
+Humingi sa bakery ng tagubiling partikular sa cake bago ang delivery at ipasa ito sa lokal na tatanggap. Maaaring wala roon ang nag-order mula sa ibang bansa para ipaliwanag ang plano, kaya isama ang tagubilin sa nakasulat na order summary at hilingin sa tatanggap na kumpirmahing natanggap niya ito.
+
+Sabihin sa bakery kung gaano katagal maghihintay ang cake bago ihain at kung ililipat ito mula sa delivery point. Ilagay ito sa matatag at patag na lugar na malayo sa direktang araw at init, at huwag iwan sa nakaparadang sasakyan. Sundin ang tagubilin para sa produkto sa halip na pangkalahatang tuntuning nakita online.
+
+Kung magbago ang oras ng paghahain ng pamilya, hilingin sa lokal na contact na magtanong sa bakery. Tingnan ang [gabay sa buttercream at init sa Cebu](/journal/buttercream-in-cebu-heat.html), saka sundin ang tagubilin para sa eksaktong cake na inorder.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hikaya ang tigdawat ug plano sa pagtipig sa dili pa moabot ang cake
-
-Kung nag-order ka gikan sa gawas sa nasud alang sa pamilya sa Cebu, ngalan ang usa ka lokal nga nakadawat nga makadawat sa cake ug sunda ang mga panudlo sa pag-atiman sa panaderya. Kumpirma ang adres sa pagpadala, magamit nga handoff window, ug lokal nga numero sa telepono. Pangutan-a ang panadero kon unsaon paghipos ang maong cake, unsa kadugay kini magpabilin sa venue, ug kanus-a kini dad-on sa dili pa i-serve.
-
-Likayi ang paghatag ug generic nga lagda sa pagpabugnaw nga walay pagsusi sa produkto. Ang paghuman sa buttercream, pagpuno, temperatura sa kwarto, ug oras sa transportasyon makabag-o sa husto nga tambag sa pagdumala. Ang tigdawat kinahanglan nga itago ang lebel sa kahon, layo sa direkta nga adlaw ug init, ug sundon ang mga panudlo nga gihatag sa order. Kung mausab ang mga plano, kontaka ang panaderya alang sa giya nga piho sa produkto.
-
-Ibutang ang gipamatud-an nga tambag sa usa ka giya sa pag-atiman. Ang internasyonal nga mga kustomer mahimong magkinahanglan ug tin-aw nga lokal nga handoff nga plano, apan ang usa ka hilit nga tigbayad dili mag-usab sa aktuwal nga mga kinahanglanon sa pagtipig sa cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ayusin ang tatanggap at plano ng imbakan bago dumating ang cake
-
-Kung nag-order ka mula sa ibang bansa para sa pamilya sa Cebu, pangalanan ang isang lokal na tatanggap na maaaring tumanggap ng cake at sundin ang mga tagubilin sa pangangalaga ng panaderya. Kumpirmahin ang address ng paghahatid, available na handoff window, at isang lokal na numero ng telepono. Tanungin ang panadero kung paano iimbak ang partikular na cake, kung gaano katagal ito maaaring manatili sa venue, at kung kailan ito ilalabas bago ihain.
-
-Iwasang magbigay ng generic na panuntunan sa pagpapalamig nang hindi sinusuri ang produkto. Maaaring baguhin ng buttercream finish, filling, room temperature, at oras ng transportasyon ang tamang payo sa paghawak. Dapat panatilihin ng tatanggap ang antas ng kahon, malayo sa direktang araw at init, at sundin ang mga tagubiling ibinigay kasama ng order. Kung magbabago ang mga plano, makipag-ugnayan sa panaderya para sa gabay na partikular sa produkto.
-
-Ilagay ang napatunayang payo sa isang gabay sa pangangalaga. Maaaring kailanganin ng mga internasyonal na customer ang isang malinaw na lokal na handoff na plano, ngunit hindi binabago ng malayong nagbabayad ang aktwal na mga kinakailangan sa imbakan ng cake.
+- Confirm current menu, payment, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

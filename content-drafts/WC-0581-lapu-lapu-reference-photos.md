@@ -1,38 +1,45 @@
 ---
 id: WC-0581
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html; confirm Lapu-Lapu delivery independently
-english_title: "Which reference photos help when ordering cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
+english_title: "Which Reference Photos Help When Ordering a Lapu-Lapu Cake"
+cebuano_title: "Unsang Reference Photo ang Makatabang sa Pag-order og Cake sa Lapu-Lapu"
+tagalog_title: "Aling Reference Photo ang Makatutulong sa Pag-order ng Cake sa Lapu-Lapu"
 ---
 
-## Share one visual reference and clarify what the bakery should adapt
+## English
 
-For a family celebration in Lapu-Lapu, use one image to show the overall cake style and another only if it explains a separate detail such as lettering or colour. Tell the bakery which feature matters and which is inspiration. Avoid sending multiple unrelated designs without a clear priority.
+# Which Reference Photos Help When Ordering a Lapu-Lapu Cake
 
-Include the event date, serving estimate, size, flavour, exact message, full delivery address, and receiver’s contact. Ask whether the design fits the cake and whether delivery to the location is available. Confirm the route and fee rather than assuming every Lapu-Lapu address is covered.
+Pick references that each explain a distinct part of the cake. A full view can show shape and overall balance; a close-up can identify a piping or texture detail; a colour image can set the palette. Write one short note per image to say what the bakery should notice.
 
-Add reference advice to the central custom-brief guide. A location-specific case needs an actual approved reference-to-finished example and verified delivery facts.
+Avoid a large collage with conflicting styles. State which features are essential and which may be adapted for the chosen size. Include the occasion, serving date, exact message, flavour, and full Lapu-Lapu address in the written brief so design and delivery are considered together.
+
+References communicate preferences, not guaranteed duplication or delivery coverage. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask what is feasible, confirm the address separately, and review the final quote. See the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang Reference Photo ang Makatabang sa Pag-order og Cake sa Lapu-Lapu
+
+Pagpili og reference nga nagpasabot sa tagsa-tagsa ka bahin sa cake. Makapakita sa porma ug balanse ang hulagway sa tibuok cake; makatudlo sa piping o texture ang close-up; makapili sa palette ang litrato sa kolor. Butangi og mubo nga nota ang matag hulagway aron masayran sa panaderya unsay tan-awon.
+
+Likayi ang dakong collage nga nagsagol og nagkasumpaking estilo. Isulti unsang bahin ang kinahanglan ug unsay mahimong ipasibo sa napiling gidak-on. Iapil sa sinulat nga brief ang okasyon, petsa sa pag-serve, eksaktong mensahe, flavour ug kompleto nga address sa Lapu-Lapu aron dungan ikonsiderar ang disenyo ug delivery.
+
+Nagpasabot ang reference sa gusto, dili garantiya sa pagkopya o delivery coverage. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsay mahimo, kumpirmaha nga bulag ang address ug susiha ang final quote. Tan-awa ang [giya sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling Reference Photo ang Makatutulong sa Pag-order ng Cake sa Lapu-Lapu
+
+Pumili ng references na nagpapaliwanag ng magkakaibang bahagi ng cake. Naipapakita ng buong larawan ang hugis at pangkalahatang balanse; natutukoy ng close-up ang detalye sa piping o texture; naitatakda ng larawang may kulay ang palette. Lagyan ng maikling tala ang bawat larawan para malaman ng bakery kung ano ang dapat tingnan.
+
+Iwasan ang malaking collage na naghahalo ng magkakasalungat na estilo. Sabihin kung aling feature ang kailangang mapanatili at alin ang maaaring iangkop sa napiling sukat. Isama sa nakasulat na brief ang okasyon, petsa ng paghahain, eksaktong mensahe, flavour, at buong address sa Lapu-Lapu para sabay maisaalang-alang ang design at delivery.
+
+Ipinapaliwanag ng references ang gusto mo, hindi ginagarantiya ang pagkopya o delivery coverage. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Itanong kung ano ang posible, kumpirmahin nang hiwalay ang address, at suriin ang pinal na quote. Tingnan ang [gabay sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipakigbahin ang usa ka biswal nga pakisayran ug klaroha kung unsa ang kinahanglan nga ipahiangay sa panaderya
-
-Alang sa usa ka selebrasyon sa pamilya sa Lapu-Lapu, gamita ang usa ka imahen aron ipakita ang kinatibuk-ang istilo sa cake ug lain lang kung kini nagpatin-aw sa lahi nga detalye sama sa letra o kolor. Sultihi ang panaderya kung unsang bahin ang hinungdanon ug diin ang inspirasyon. Likayi ang pagpadala og daghang wala'y kalabutan nga mga disenyo nga walay klaro nga prayoridad.
-
-Ilakip ang petsa sa panghitabo, banabana sa pagserbisyo, gidak-on, lami, eksaktong mensahe, kompleto nga adres sa pagpadala, ug kontak sa tigdawat. Pangutan-a kon ang disenyo mohaom ba sa cake ug kon ang pagpadala sa lokasyon anaa ba. Kumpirma ang rota ug bayranan kay sa pag-isip nga matag address sa Lapu-Lapu sakop.
-
-Idugang ang pakisayran nga tambag sa sentro nga custom-mubo nga giya. Ang usa ka kaso nga espesipiko sa lokasyon nanginahanglan usa ka aktuwal nga giaprobahan nga reference-to-finished nga pananglitan ug gipamatud-an nga mga kamatuoran sa pagpadala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magbahagi ng isang visual na sanggunian at linawin kung ano ang dapat ibagay ng panaderya
-
-Para sa isang pagdiriwang ng pamilya sa Lapu-Lapu, gumamit ng isang larawan upang ipakita ang pangkalahatang istilo ng cake at isa pa lamang kung nagpapaliwanag ito ng hiwalay na detalye gaya ng pagkakasulat o kulay. Sabihin sa panaderya kung aling tampok ang mahalaga at kung alin ang inspirasyon. Iwasan ang pagpapadala ng maraming hindi nauugnay na disenyo nang walang malinaw na priyoridad.
-
-Isama ang petsa ng kaganapan, pagtatantya ng paghahatid, laki, lasa, eksaktong mensahe, buong address ng paghahatid, at contact ng tatanggap. Tanungin kung ang disenyo ay akma sa cake at kung ang paghahatid sa lokasyon ay magagamit. Kumpirmahin ang ruta at bayad sa halip na ipagpalagay na ang bawat address ng Lapu-Lapu ay sakop.
-
-Magdagdag ng reference na payo sa gitnang custom-brief na gabay. Ang isang kaso na tukoy sa lokasyon ay nangangailangan ng aktwal na naaprubahang reference-to-finished na halimbawa at na-verify na mga katotohanan sa paghahatid.
+- Confirm current Lapu-Lapu route coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

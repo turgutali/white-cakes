@@ -1,44 +1,39 @@
 ---
 id: WC-0744
-status: draft-needs-original-photo-case
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
 english_title: "How to choose a design for red velvet cake in Cebu"
 cebuano_title: "Giunsa pagpili og disenyo para sa red velvet cake sa Cebu"
 tagalog_title: "Paano pumili ng disenyo para sa red velvet cake sa Cebu"
 ---
 
-## Choose a Red Velvet design that reads clearly
+## English
 
-Decide on the mood before adding decoration: classic, playful, floral, or formal. Choose a main colour and one focal detail so the message and design do not compete. Ask White Cakes which finishes are available for the requested size and whether the design changes the quoted price.
+# How to choose a design for red velvet cake in Cebu
 
-Red Velvet appears on the current flavour list; confirm it is available for the event date and configuration. If you have a dietary question, ask the bakery directly about ingredients and preparation rather than relying on the flavour name. Send one reference photo and explain what should be adapted; do not assume exact reproduction.
+Choose a red velvet cake design based on the event and the confirmed product finish. Decide whether colour, lettering, or one decorative detail should lead; avoid adding so many elements that the inscription becomes hard to read. Ask the bakery which visual treatments are feasible at the chosen size.
 
-Include the event date, inscription, serving estimate, and delivery or pickup details. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Ask the bakery to confirm the size. Allow at least three days' notice; a 50% deposit confirms the agreed order.
+A photo may show a style, not a current menu item or exact replica promise. Confirm the selected red velvet format, design, and quote in writing. If company branding or a character is involved, verify usage permission before sending artwork.
 
-Use original, approved photos of real White Cakes Red Velvet cakes to illustrate a distinct design point. Otherwise, merge the advice into the central design guide.
+## Cebuano
+
+# Giunsa pagpili og disenyo para sa red velvet cake sa Cebu
+
+Pilia ang disenyo sa red velvet cake base sa event ug nakumpirmang finish. Desisyoni kon kolor, letra o usa ka dekorasyon ang unahon; likayi ang daghang detalye nga makapalisod sa pagbasa sa inskripsiyon. Pangutan-a unsang visual treatment ang mahimo sa gidak-on.
+
+Mahimong estilo lang ang litrato, dili kasamtangang produkto o saad nga eksaktong kopya. Kumpirmaha sa sinulat ang red velvet format, disenyo ug quote. Kon apil ang brand o karakter, kumpirmaha ang permiso sa dili pa ipadala ang artwork.
+
+## Tagalog
+
+# Paano pumili ng disenyo para sa red velvet cake sa Cebu
+
+Piliin ang design ng red velvet cake ayon sa event at kumpirmadong finish ng produkto. Magpasya kung kulay, lettering, o iisang dekorasyon ang mangunguna; iwasang magsiksik ng detalye na magpapahirap basahin ang inscription. Itanong sa bakery kung anong visual treatment ang posible sa napiling sukat.
+
+Maaaring estilo lang ang larawan, hindi kasalukuyang menu item o pangakong eksaktong kopya. Kumpirmahin sa sulat ang red velvet format, design, at quote. Kung may branding ng kumpanya o karakter, tiyakin ang pahintulot bago ipadala ang artwork.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili usa ka disenyo sa Red Velvet nga klaro nga mabasa
-
-Pagdesisyon sa mood sa dili pa idugang ang dekorasyon: classic, playful, floral, o pormal. Pagpili og usa ka nag-unang kolor ug usa ka focal nga detalye aron ang mensahe ug disenyo dili makigkompetensya. Pangutan-a ang White Cakes kung asa ang nahuman nga magamit alang sa gihangyo nga gidak-on ug kung ang disenyo nagbag-o sa gikutlo nga presyo.
-
-Ang Red Velvet makita sa karon nga lista sa lami; kumpirmahi nga kini magamit alang sa petsa sa panghitabo ug pag-configure. Kung naa kay pangutana sa pagkaon, pangutan-a ang bakery direkta bahin sa mga sagol ug pag-andam kaysa magsalig sa ngalan sa lami. Ipadala ang usa ka reperensya nga litrato ug ipasabut kung unsa ang angay nga ipahiangay; ayaw hunahunaa ang eksaktong pagpanganak.
-
-Ilakip ang petsa sa panghitabo, inskripsiyon, banabana sa pagserbisyo, ug mga detalye sa pagpadala o pagkuha. Ang kasamtangan nga mga banabana mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Hangyoa ang panaderya sa pagkumpirma sa gidak-on. Tugoti ang labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Gamita ang orihinal, giaprobahan nga mga litrato sa tinuod nga White Cakes nga Red Velvet nga mga cake aron iilustrar ang lahi nga disenyo nga punto. Kung dili, iusa ang tambag sa sentro nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng disenyo ng Red Velvet na malinaw na nagbabasa
-
-Magpasya sa mood bago magdagdag ng dekorasyon: klasiko, mapaglaro, mabulaklak, o pormal. Pumili ng pangunahing kulay at isang focal detail para hindi maglaban ang mensahe at disenyo. Tanungin ang White Cakes kung aling mga finish ang available para sa hiniling na laki at kung binago ng disenyo ang naka-quote na presyo.
-
-Lumilitaw ang Red Velvet sa kasalukuyang listahan ng lasa; kumpirmahin na available ito para sa petsa ng kaganapan at pagsasaayos. Kung mayroon kang tanong tungkol sa pandiyeta, direktang tanungin ang panaderya tungkol sa mga sangkap at paghahanda sa halip na umasa sa pangalan ng lasa. Magpadala ng isang reference na larawan at ipaliwanag kung ano ang dapat iakma; huwag ipagpalagay ang eksaktong pagpaparami.
-
-Isama ang petsa ng kaganapan, inskripsiyon, pagtatantya ng paghahatid, at mga detalye ng paghahatid o pagkuha. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Hilingin sa panaderya na kumpirmahin ang laki. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Gumamit ng orihinal at naaprubahang mga larawan ng mga totoong White Cakes na Red Velvet na cake upang ilarawan ang isang natatanging punto ng disenyo. Kung hindi, isama ang payo sa gitnang gabay sa disenyo.
+- Verify current menu, ingredients, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

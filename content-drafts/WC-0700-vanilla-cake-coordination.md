@@ -1,44 +1,45 @@
 ---
 id: WC-0700
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/vanilla-cake-cebu.html and /journal/cake-delivery-cebu.html
 english_title: "How to coordinate vanilla cake in Cebu"
 cebuano_title: "Giunsa pag-coordinate ang vanilla cake sa Cebu"
 tagalog_title: "Paano i-coordinate ang vanilla cake sa Cebu"
 ---
 
-## Coordinate the vanilla flavour and delivery as separate details
+## English
 
-Vanilla is one of the flavours listed for White Cakes custom cakes. Tell the bakery you want vanilla, then separately describe the format, size, outside design, and any filling or topping you expect. The flavour name does not automatically confirm those additions; ask whether each one is available for your date and chosen cake.
+# How to coordinate vanilla cake in Cebu
 
-Choose the size using the current serving guide and the number of people who will eat cake. Send the event date, exact inscription, and one reference image if you want a custom buttercream finish. The baker can confirm what fits the surface and provide the current quote.
+Coordinate one handoff contact at the bakery side and one at the venue. Share the exact Cebu address, building entry, receiving hours, and delivery window with the person who will meet the driver. Confirm the venue can accept a cake at that time.
 
-For delivery in Cebu City, Mandaue, or Lapu-Lapu, share the full address, landmark, receiver's mobile number, and entrance instructions. A person should meet the driver during the agreed delivery window. Keep the buttercream cake out of direct sun and hot cars; refrigerate it if it will wait several hours before serving.
+Ask the bakery for handling directions for the specific vanilla cake and give them to the receiver. Decide who moves it to storage or display and who brings serving supplies. Do not send several changing addresses through different staff chats.
 
-The date is not reserved until White Cakes confirms availability and the 50% deposit confirms the agreed order. Keep the flavour explanation on the vanilla page and shared delivery details on the central delivery guide rather than duplicating them in a separate coordination URL.
+Confirm coverage and terms for the exact drop-off point. If the venue or schedule changes, tell the bakery and wait for an acknowledgement before treating the new plan as confirmed. See the [delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa pag-coordinate ang vanilla cake sa Cebu
+
+Pagtudlo og usa ka contact sa panaderya ug usa sa venue alang sa turnover. Ipaambit sa modawat sa driver ang eksaktong address sa Cebu, entrada sa building, oras sa pagdawat ug delivery window. Kumpirmaha nga makadawat ang venue niana nga oras.
+
+Pangayo sa panaderya og instruksyon sa pagdumala sa partikular nga vanilla cake ug ihatag kini sa modawat. Desisyoni kinsa ang modala niini sa storage o display ug kinsa ang magdala sa gamit sa pag-serve. Ayaw ipadala ang nag-usab-usab nga address sa daghang staff chat.
+
+Kumpirmaha ang coverage ug terms sa eksaktong drop-off. Kon mausab ang venue o iskedyul, pahibaloa ang panaderya ug hulata ang pag-ila niini sa dili pa isipon nga kumpirmado ang plano. Tan-awa ang [giya sa delivery](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano i-coordinate ang vanilla cake sa Cebu
+
+Magtalaga ng isang contact sa bakery at isa sa venue para sa turnover. Ibahagi sa sasalubong sa driver ang eksaktong address sa Cebu, pasukan ng building, oras ng pagtanggap, at delivery window. Tiyaking matatanggap ng venue ang cake sa oras na iyon.
+
+Humingi sa bakery ng tagubilin sa paghawak sa partikular na vanilla cake at ibigay ito sa tatanggap. Tukuyin kung sino ang magdadala nito sa storage o display at kung sino ang magdadala ng serving supplies. Huwag magpadala ng pabago-bagong address sa magkakahiwalay na staff chat.
+
+Kumpirmahin ang coverage at terms para sa eksaktong drop-off. Kung magbago ang venue o iskedyul, ipaalam sa bakery at hintayin ang pagkilala nito bago ituring na kumpirmado ang bagong plano. Tingnan ang [gabay sa delivery](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## I-coordinate ang vanilla flavor ug delivery isip bulag nga mga detalye
-
-Ang Vanilla usa sa mga lami nga gilista alang sa White Cakes custom cakes. Sultihi ang panaderya nga gusto nimo ang vanilla, dayon ihulagway ang porma, gidak-on, disenyo sa gawas, ug bisan unsang pagpuno o topping nga imong gipaabot. Ang ngalan sa lami dili awtomatik nga nagpamatuod sa mga pagdugang; pangutan-a kung ang matag usa magamit alang sa imong petsa ug gipili nga cake.
-
-Pilia ang gidak-on gamit ang kasamtangan nga giya sa pag-alagad ug ang gidaghanon sa mga tawo nga mokaon sa cake. Ipadala ang petsa sa panghitabo, eksaktong inskripsiyon, ug usa ka reperensiya nga larawan kon gusto nimo ug custom nga buttercream finish. Ang panadero makakumpirma kung unsa ang mohaum sa nawong ug maghatag sa kasamtangan nga kinutlo.
-
-Para sa delivery sa Cebu City, Mandaue, o Lapu-Lapu, ipaambit ang kompleto nga adres, landmark, mobile number sa receiver, ug entrance instructions. Kinahanglang makigkita ang usa ka tawo sa drayber sa panahon sa gikasabotan nga bintana sa pagpadala. Itago ang buttercream nga cake gikan sa direkta nga adlaw ug init nga mga awto; pabugnawa kini kon kini maghulat pipila ka oras sa dili pa i-serve.
-
-Ang petsa wala gireserba hangtod ang White Cakes nagpamatuod sa pagkaanaa ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order. Ipadayon ang katin-awan sa lami sa panid sa banilya ug gipaambit ang mga detalye sa paghatud sa sentro nga giya sa paghatud imbes nga doblehon kini sa usa ka lahi nga URL sa koordinasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## I-coordinate ang vanilla flavor at delivery bilang magkahiwalay na detalye
-
-Ang vanilla ay isa sa mga lasa na nakalista para sa mga custom na cake ng White Cakes. Sabihin sa panaderya na gusto mo ng vanilla, pagkatapos ay hiwalay na ilarawan ang format, laki, disenyo sa labas, at anumang filling o topping na inaasahan mo. Hindi awtomatikong kinukumpirma ng pangalan ng lasa ang mga karagdagan na iyon; tanungin kung ang bawat isa ay magagamit para sa iyong petsa at napiling cake.
-
-Piliin ang laki gamit ang kasalukuyang gabay sa paghahatid at ang bilang ng mga taong kakain ng cake. Ipadala ang petsa ng kaganapan, eksaktong inskripsiyon, at isang reference na larawan kung gusto mo ng custom na buttercream finish. Maaaring kumpirmahin ng panadero kung ano ang akma sa ibabaw at ibigay ang kasalukuyang quote.
-
-Para sa paghahatid sa Cebu City, Mandaue, o Lapu-Lapu, ibahagi ang buong address, landmark, mobile number ng receiver, at mga tagubilin sa pagpasok. Dapat makipagkita ang isang tao sa driver sa panahon ng napagkasunduang delivery window. Panatilihin ang buttercream cake mula sa direktang araw at mainit na mga kotse; palamigin ito kung maghihintay ito ng ilang oras bago ihain.
-
-Ang petsa ay hindi nakalaan hangga't hindi kinukumpirma ng White Cakes ang pagkakaroon at ang 50% na deposito ay nagkukumpirma sa napagkasunduang order. Panatilihin ang paliwanag ng lasa sa pahina ng vanilla at nakabahaging mga detalye ng paghahatid sa gitnang gabay sa paghahatid sa halip na i-duplicate ang mga ito sa isang hiwalay na URL ng koordinasyon.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

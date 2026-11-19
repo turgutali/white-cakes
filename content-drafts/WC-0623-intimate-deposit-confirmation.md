@@ -1,38 +1,45 @@
 ---
 id: WC-0623
-status: written-draft
-publish_action: merge into /journal/how-to-order.html; verify current payment details
-english_title: "What to confirm before paying a deposit for cake for a small intimate gathering in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa gamay ug suod nga panagtigom sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa maliit at malapit na pagtitipon sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-order.html
+english_title: "What to Confirm Before Paying a Deposit for an Intimate Gathering Cake"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Cake sa Suod nga Tapok"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Cake sa Intimate na Pagtitipon"
 ---
 
-## Check the small-group size, date, message, and complete price first
+## English
 
-Before paying, confirm how many people will share the cake, the requested size, flavour, design, exact inscription, and event date. Tell the bakery whether the gathering is at home or another venue, and provide the receiving contact if delivery is needed. Ask what the full price includes.
+# What to Confirm Before Paying a Deposit for an Intimate Gathering Cake
 
-White Cakes’ stated process uses a 50% deposit to confirm an agreed order. Verify the amount and payment channel against the final written quote, including any delivery fee or custom decoration. Save the receipt and confirmation so the host has the same details.
+Before paying, confirm the date, size, flavour, design, exact inscription, final price, and delivery or pickup arrangement in writing. Even for a small event, the bakery needs a clear receiver and serving time. Check the spelling of any name or private phrase before approving the order.
 
-Keep the booking steps in the central order guide. An inquiry or a message about availability does not by itself reserve a slot.
+White Cakes’ published guidance says a 50% deposit follows agreement on the final price and details. Verify the current payment method and balance deadline directly with the bakery. Ask what happens if the date, address, or message changes, and keep the approved update with the order summary.
+
+For a surprise gathering, identify who may receive messages and whether the inscription should remain private. See the [Cebu cake order guide](/journal/how-to-order.html) for the remaining checklist.
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Cake sa Suod nga Tapok
+
+Sa dili pa mobayad, kumpirmaha sa sinulat ang petsa, gidak-on, flavour, disenyo, eksaktong inskripsiyon, final nga presyo ug delivery o pickup arrangement. Bisan gamay ang event, kinahanglan klaro sa panaderya ang modawat ug oras sa pag-serve. Susiha ang spelling sa ngalan o pribadong hugpong sa pulong sa dili pa moapruba.
+
+Nag-ingon ang gipatik nga giya sa White Cakes nga 50% nga deposit human magkasinabot sa final nga presyo ug detalye. Kumpirmaha diretso ang kasamtangang paagi sa bayad ug deadline sa balanse. Pangutan-a unsay mahitabo kon mausab ang petsa, address o mensahe, ug tipigi uban sa order summary ang giaprobahang update.
+
+Para sa surprise gathering, isulti kinsa ang makadawat sa mensahe ug kon kinahanglan sekreto ang inskripsiyon. Tan-awa ang [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html) para sa nahibiling checklist.
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Cake sa Intimate na Pagtitipon
+
+Bago magbayad, kumpirmahin nang nakasulat ang petsa, sukat, flavour, design, eksaktong inscription, pinal na presyo, at delivery o pickup arrangement. Kahit maliit ang event, kailangan ng bakery ng malinaw na tatanggap at oras ng paghahain. Suriin ang spelling ng pangalan o pribadong parirala bago aprubahan ang order.
+
+Sinasabi ng inilathalang gabay ng White Cakes na 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye. Kumpirmahin nang direkta ang kasalukuyang paraan ng bayad at deadline ng balanse. Itanong kung ano ang mangyayari kung magbago ang petsa, address, o mensahe, at itabi ang aprubadong update kasama ng order summary.
+
+Para sa surprise gathering, tukuyin kung sino ang maaaring makatanggap ng mensahe at kung dapat manatiling pribado ang inscription. Tingnan ang [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html) para sa natitirang checklist.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Susiha una ang gidak-on sa gamay nga grupo, petsa, mensahe, ug kompleto nga presyo
-
-Sa dili pa mobayad, kumpirmahi kung pila ka tawo ang mopaambit sa cake, ang gipangayo nga gidak-on, lami, disenyo, eksaktong inskripsiyon, ug petsa sa panghitabo. Sultihi ang panaderya kung ang panagtapok naa ba sa balay o lain nga lugar, ug hatagi ang nakadawat nga kontak kung kinahanglan ang pagpadala. Pangutan-a kung unsa ang gilakip sa tibuuk nga presyo.
-
-Ang gipahayag nga proseso sa White Cakes naggamit og 50% nga deposito aron pagkumpirma sa usa ka gikasabutan nga order. I-verify ang kantidad ug channel sa pagbayad batok sa katapusang sinulat nga quote, lakip ang bisan unsang bayad sa pagpadala o kostumbre nga dekorasyon. I-save ang resibo ug kumpirmasyon aron ang host adunay parehas nga mga detalye.
-
-Ipadayon ang mga lakang sa pag-book sa sentro nga giya sa order. Ang usa ka pangutana o usa ka mensahe bahin sa pagkaanaa wala sa kaugalingon nga nagreserba sa usa ka puwang.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tingnan muna ang laki, petsa, mensahe, at kumpletong presyo ng maliit na grupo
-
-Bago magbayad, kumpirmahin kung gaano karaming tao ang makakabahagi sa cake, ang hinihiling na laki, lasa, disenyo, eksaktong inskripsiyon, at petsa ng kaganapan. Sabihin sa panaderya kung ang pagtitipon ay nasa bahay o ibang lugar, at ibigay ang tatanggap na kontak kung kailangan ang paghahatid. Itanong kung ano ang kasama sa buong presyo.
-
-Ang nakasaad na proseso ng White Cakes ay gumagamit ng 50% na deposito upang kumpirmahin ang isang napagkasunduang order. I-verify ang halaga at channel ng pagbabayad laban sa huling nakasulat na quote, kasama ang anumang bayad sa paghahatid o custom na dekorasyon. I-save ang resibo at kumpirmasyon upang ang host ay may parehong mga detalye.
-
-Panatilihin ang mga hakbang sa pag-book sa gitnang gabay sa pag-order. Ang isang pagtatanong o isang mensahe tungkol sa kakayahang magamit ay hindi mismo nagrereserba ng isang puwang.
+- Confirm current order details and delivery arrangement before publication.
+- Cebuano and Tagalog drafts need native editorial review.

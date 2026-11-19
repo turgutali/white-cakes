@@ -1,38 +1,45 @@
 ---
 id: WC-0631
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to estimate servings for cake for a large family gathering in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa malaking pagtitipon ng pamilya sa Cebu"
+english_title: "How to Estimate Cake Servings for a Large Family Gathering in Cebu"
+cebuano_title: "Giunsa Pagbanabana sa Servings sa Cake para sa Dakong Tapok sa Pamilya sa Cebu"
+tagalog_title: "Paano Tantiyahin ang Serving ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu"
 ---
 
-## Estimate the people who will eat cake and account for other desserts
+## English
 
-Family gatherings can include guests who arrive at different times, so estimate how many people will be present when cake is cut. Tell the bakery whether the cake follows a meal and whether other sweets are planned. Decide whether you want modest portions or party slices and ask for a size recommendation.
+# How to Estimate Cake Servings for a Large Family Gathering in Cebu
 
-Current guidance estimates 8–12 party slices for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. These are approximate; confirm the likely yield with the bakery. For a group larger than those ranges, ask about another serving arrangement.
+Start with the people expected to be present when the cake is cut, not the total number invited. Ask the host whether cake is the only dessert, whether younger guests need smaller portions, and if people will arrive in stages. These details help distinguish a generous serving plan from a conservative one.
 
-Keep verified ranges in the central size guide and recheck them before publication.
+The size guide estimates 8–12 party slices from a 6-inch round, 16–24 from an 8-inch round, and 30–36 from a common 6+8-inch two-tier. These are approximate; design, height, and cutting affect the yield. Confirm the recommendation with the bakery for the actual cake.
+
+Keep the headcount and serving style in the order summary so family members do not plan from different numbers. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagbanabana sa Servings sa Cake para sa Dakong Tapok sa Pamilya sa Cebu
+
+Sugdi sa mga gilaoman nga motambong sa oras nga hiwaon ang cake, dili sa kinatibuk-ang ihap sa giimbitar. Pangutan-a ang host kon cake ra ba ang dessert, kinahanglan ba og mas gamay nga bahin ang bata ug mag-abot ba ang mga tawo sa lain-laing oras. Makatabang kini sa pagplano og mas daghan o mas konserbatibo nga servings.
+
+Gibanabana sa size guide ang 8–12 ka party slice gikan sa 6-inch round, 16–24 gikan sa 8-inch round ug 30–36 sa kasagarang 6+8-inch two-tier. Banabana kini; makaapekto sa yield ang disenyo, kataas ug paghiwa. Kumpirmaha sa panaderya ang rekomendasyon para sa aktuwal nga cake.
+
+Ibutang sa order summary ang headcount ug paagi sa pag-serve aron dili magplano ang mga paryente gamit ang lain-laing ihap. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Tantiyahin ang Serving ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu
+
+Magsimula sa mga inaasahang dadalo kapag hihiwaing ang cake, hindi sa kabuuang bilang ng inimbitahan. Tanungin ang host kung cake lang ang dessert, kung kailangan ng mas maliit na portion ang mga bata, at kung paisa-isa ang dating ng mga tao. Nakakatulong ito sa mas sagana o mas konserbatibong serving plan.
+
+Tinatantiya ng size guide ang 8–12 party slice mula sa 6-inch round, 16–24 mula sa 8-inch round, at 30–36 mula sa karaniwang 6+8-inch two-tier. Tantiya lang ito; nakaaapekto sa yield ang design, taas, at paghiwa. Kumpirmahin sa bakery ang rekomendasyon para sa mismong cake.
+
+Ilagay sa order summary ang headcount at paraan ng paghahain para hindi magkakaibang bilang ang gamitin ng mga kapamilya sa pagpaplano. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ibanabana ang mga tawo nga mokaon ug cake ug i-account ang ubang mga dessert
-
-Ang mga panagtapok sa pamilya mahimong maglakip sa mga bisita nga moabut sa lainlaing mga oras, busa banabanaa kung pila ang mga tawo nga motambong kung giputol ang cake. Sultihi ang panaderya kung ang cake nagsunod sa usa ka pagkaon ug kung ang ubang mga tam-is giplano ba. Pagdesisyon kung gusto nimo ang kasarangan nga mga bahin o mga hiwa sa partido ug pangayo og rekomendasyon sa gidak-on.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices sa 6 ka pulgada, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Kini mga gibanabana; kumpirmahi ang lagmit nga abot sa panaderya. Alang sa usa ka grupo nga mas dako pa sa mga range, pangutana bahin sa lain nga kahikayan sa pagserbisyo.
-
-Itago ang gipamatud-an nga mga han-ay sa sentro nga giya sa gidak-on ug susihon kini pag-usab sa dili pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang mga taong kakain ng cake at isaalang-alang ang iba pang mga dessert
-
-Maaaring kabilang sa mga pagtitipon ng pamilya ang mga bisitang darating sa iba't ibang oras, kaya tantiyahin kung gaano karaming tao ang dadalo kapag pinutol ang cake. Sabihin sa panaderya kung ang cake ay sumusunod sa isang pagkain at kung ang iba pang matamis ay binalak. Magpasya kung gusto mo ng katamtamang mga bahagi o party slice at humingi ng rekomendasyon sa laki.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa isang 6+8-pulgada na two-tier na cake. Ang mga ito ay tinatayang; kumpirmahin ang malamang na ani sa panaderya. Para sa isang pangkat na mas malaki kaysa sa mga hanay na iyon, magtanong tungkol sa isa pang kaayusan sa paghahatid.
-
-Panatilihin ang mga na-verify na saklaw sa gabay sa gitnang laki at suriin muli ang mga ito bago i-publish.
+- Confirm current order, serving, and care guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

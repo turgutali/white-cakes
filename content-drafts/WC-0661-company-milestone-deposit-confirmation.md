@@ -1,38 +1,45 @@
 ---
 id: WC-0661
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html; verify current payment method and company approval
 english_title: "What to confirm before paying a deposit for cake for a company milestone in Cebu"
 cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
-## Get the approved design and complete company order summary first
+## English
 
-Confirm the company event date, serving estimate, cake size, flavour, exact message, approved logo use, delivery address, and receiver’s contact. Request a complete quote that includes custom decoration and any building delivery charge. Assign one colleague to approve the order and coordinate the handoff.
+# What to confirm before paying a deposit for cake for a company milestone in Cebu
 
-White Cakes currently states a 50% deposit confirms an agreed order. Verify the amount and payment instructions in writing, then save the receipt and order summary. Do not assume a corporate inquiry reserves the date or guarantees office access.
+Before paying a company cake deposit, make sure the final scope is approved by the person authorized to spend the budget. Review the event date, cake size, flavour, design, exact inscription, delivery address, receiver, and written total. Verify that the quote reflects the latest version and that any procurement or invoice requirements are understood.
 
-Keep booking steps in the central order guide and verify company branding permission before production or publication.
+Confirm the deposit amount and when the balance is due. White Cakes’ published ordering guidance states a 50% deposit after the final price and details are agreed; verify the current payment instructions directly with the bakery. Ask how a material change is handled and whether it affects the quote or schedule.
+
+Keep the approved quote and payment record with the event file. Do not send payment based on an unconfirmed chat summary or a quote for a different design. Once payment is made, ask for written acknowledgment that records the date and agreed order details.
+
+## Cebuano
+
+# Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa milestone sa kompanya sa Cebu
+
+Sa dili pa mobayad og deposit para sa company cake, siguroha nga giaprubahan sa awtorisadong mogasto ang final scope. Repasoa ang petsa, gidak-on, lami, disenyo, eksaktong inskripsiyon, delivery address, modawat ug sinulat nga total. Tinoa nga pinakabag-ong bersyon ang quote ug klaro ang procurement o invoice requirements.
+
+Kumpirmaha ang kantidad sa deposit ug kanus-a bayran ang balanse. Nag-ingon ang giya sa pag-order sa White Cakes nga 50% nga deposit human mouyon sa final nga presyo ug detalye; kumpirmaha direkta sa panaderya ang kasamtangang paagi sa pagbayad. Pangutan-a unsaon pagdumala sa dako nga kausaban ug makaapekto ba kini sa quote o schedule.
+
+Tipigi ang giaprubahang quote ug record sa bayad uban sa event file. Ayaw pagbayad base lang sa wala makumpirmang chat summary o quote para sa lahi nga disenyo. Human mobayad, pangayo og sinulat nga pag-ila sa petsa ug gikasabotang detalye sa order.
+
+## Tagalog
+
+# Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu
+
+Bago magbayad ng deposito para sa company cake, tiyaking inaprubahan ng taong awtorisadong gumastos ang pinal na scope. Repasuhin ang petsa, sukat, flavor, design, eksaktong inscription, delivery address, tatanggap, at nakasulat na kabuuan. Tiyaking pinakabagong bersyon ang quote at malinaw ang procurement o invoice requirements.
+
+Kumpirmahin ang halaga ng deposito at kung kailan babayaran ang balanse. Nasa inilathalang gabay sa pag-order ng White Cakes ang 50% na deposito matapos mapagkasunduan ang pinal na presyo at detalye; direktang kumpirmahin sa bakery ang kasalukuyang paraan ng bayad. Itanong kung paano hahawakan ang malaking pagbabago at kung maaapektuhan nito ang quote o iskedyul.
+
+Itago ang aprubadong quote at record ng bayad kasama ng event file. Huwag magbayad batay lang sa hindi kumpirmadong chat summary o quote para sa ibang design. Pagkatapos magbayad, humingi ng nakasulat na pagkilala sa petsa at napagkasunduang detalye ng order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kuhaa una ang giaprobahan nga disenyo ug kompletoha una ang summary sa order sa kompanya
-
-Kumpirma ang petsa sa panghitabo sa kompanya, banabana sa pagserbisyo, gidak-on sa cake, lami, eksakto nga mensahe, gi-aprubahan nga paggamit sa logo, adres sa pagpadala, ug kontak sa tigdawat. Paghangyo og kompletong quote nga naglakip sa custom nga dekorasyon ug bisan unsang bayronon sa pagpadala sa bilding. Pagtudlo og usa ka kauban sa pag-apruba sa order ug pag-coordinate sa handoff.
-
-Ang White Cakes sa pagkakaron nag-ingon nga usa ka 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order. Tinoa ang kantidad ug mga instruksyon sa pagbayad sa pagsulat, dayon i-save ang resibo ug summary sa order. Ayaw paghunahuna nga ang usa ka kompanya nga pangutana nagreserba sa petsa o naggarantiya sa pag-access sa opisina.
-
-Ipadayon ang mga lakang sa pag-book sa sentro nga giya sa order ug i-verify ang pagtugot sa branding sa kompanya sa wala pa ang produksiyon o publikasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kunin ang inaprubahang disenyo at kumpletuhin muna ang buod ng order ng kumpanya
-
-Kumpirmahin ang petsa ng kaganapan ng kumpanya, pagtatantya ng paghahatid, laki ng cake, lasa, eksaktong mensahe, naaprubahang paggamit ng logo, address ng paghahatid, at contact ng tatanggap. Humiling ng kumpletong quote na may kasamang custom na dekorasyon at anumang singil sa paghahatid ng gusali. Magtalaga ng isang kasamahan upang aprubahan ang order at i-coordinate ang handoff.
-
-Ang White Cakes ay kasalukuyang nagsasaad ng 50% na deposito na nagpapatunay sa isang napagkasunduang order. I-verify ang halaga at mga tagubilin sa pagbabayad nang nakasulat, pagkatapos ay i-save ang buod ng resibo at order. Huwag ipagpalagay na ang isang corporate inquiry ay inilalaan ang petsa o ginagarantiyahan ang pag-access sa opisina.
-
-Panatilihin ang mga hakbang sa pag-book sa gitnang gabay sa pag-order at i-verify ang pahintulot sa pagba-brand ng kumpanya bago ang paggawa o paglalathala.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

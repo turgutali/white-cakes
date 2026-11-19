@@ -1,38 +1,45 @@
 ---
 id: WC-0624
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html; standalone case requires documented event details
-english_title: "How to coordinate cake for a small intimate gathering in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa gamay ug suod nga panagtigom sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa maliit at malapit na pagtitipon sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html
+english_title: "How to Coordinate Cake Delivery for an Intimate Cebu Gathering"
+cebuano_title: "Giunsa Pag-coordinate sa Delivery sa Cake para sa Suod nga Tapok sa Cebu"
+tagalog_title: "Paano I-coordinate ang Delivery ng Cake para sa Intimate na Pagtitipon sa Cebu"
 ---
 
-## Choose a receiver who can keep the handoff simple
+## English
 
-For a small gathering, give the bakery the exact address, requested handoff time, and the name and mobile number of someone who will be present. If the cake is going to a condo, restaurant, or private venue, include gate or reception instructions and identify where the receiver can meet the delivery.
+# How to Coordinate Cake Delivery for an Intimate Cebu Gathering
 
-Confirm whether the route is available and whether a fee applies. Ask how the specific cake should be handled after arrival and arrange a stable, level place for the box. If it is a surprise, use the organizer’s contact details rather than the guest of honour’s.
+For a small gathering, the host may be handling food and guests at the same time. Choose a separate receiver if needed, and give the bakery that person’s name, active phone number, full address, and entry instructions. Confirm where the cake should be handed over and who will place it on the display table.
 
-Add these steps to the shared delivery guide. A venue-specific case study should only use an actual order with route evidence and customer permission.
+White Cakes confirms a delivery window rather than an exact minute. Make sure the receiver can answer throughout it; a short guest list does not make the timing exact. If the cake is a surprise, tell the bakery which contact can receive updates without spoiling the moment.
+
+Reconfirm the address and serving time if plans shift. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) for the standard handoff details.
+
+## Cebuano
+
+# Giunsa Pag-coordinate sa Delivery sa Cake para sa Suod nga Tapok sa Cebu
+
+Sa gamay nga tapok, basin dungan nga moatiman sa pagkaon ug bisita ang host. Pagpili og laing modawat kon gikinahanglan ug ihatag sa panaderya ang iyang ngalan, aktibong numero, kompleto nga address ug instruksyon sa pagsulod. Kumpirmaha asa ihatag ang cake ug kinsa ang mobutang niini sa display table.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Siguroha nga makatubag ang modawat sa tibuok window; dili mahimong eksakto ang oras tungod lang sa mubo nga lista sa bisita. Kon surprise ang cake, isulti sa panaderya kinsang contact ang makadawat sa updates nga dili madaot ang higayon.
+
+Kumpirmaha pag-usab ang address ug oras sa pag-serve kon mausab ang plano. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html) para sa standard nga handoff details.
+
+## Tagalog
+
+# Paano I-coordinate ang Delivery ng Cake para sa Intimate na Pagtitipon sa Cebu
+
+Sa maliit na pagtitipon, maaaring sabay na asikasuhin ng host ang pagkain at mga bisita. Magtalaga ng ibang tatanggap kung kailangan at ibigay sa bakery ang pangalan, aktibong numero, buong address, at tagubilin sa pagpasok ng taong iyon. Kumpirmahin kung saan iaabot ang cake at kung sino ang maglalagay nito sa display table.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Tiyaking sasagot ang tatanggap sa buong window; hindi eksakto ang oras dahil lang maikli ang listahan ng bisita. Kung sorpresa ang cake, sabihin sa bakery kung aling contact ang maaaring makatanggap ng updates nang hindi nasisira ang sandali.
+
+Kumpirmahing muli ang address at oras ng paghahain kung magbago ang plano. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html) para sa karaniwang handoff details.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og tigdawat nga makapugong sa handoff nga simple
-
-Para sa gamay nga panagtapok, ihatag sa panaderya ang eksaktong adres, gihangyo nga oras sa paghatag, ug ang ngalan ug numero sa mobile sa usa nga motambong. Kung ang cake moadto sa usa ka condo, restawran, o pribado nga lugar, ilakip ang mga panudlo sa gate o reception ug ilha kung asa ang tigdawat makatagbo sa paghatud.
-
-Pagkumpirma kung ang ruta magamit ug kung adunay bayad. Pangutan-a kon unsaon pagdumala ang espesipikong keyk human sa pag-abot ug paghikay sa usa ka kuwadra, patag nga dapit alang sa kahon. Kung kini usa ka sorpresa, gamita ang mga detalye sa pagkontak sa organizer kaysa sa bisita sa dungog.
-
-Idugang kini nga mga lakang sa gipaambit nga giya sa pagpadala. Ang usa ka pagtuon sa kaso nga espesipiko sa lugar kinahanglan nga mogamit lamang sa usa ka aktuwal nga order nga adunay ebidensya sa ruta ug pagtugot sa kustomer.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng receiver na maaaring panatilihing simple ang handoff
-
-Para sa isang maliit na pagtitipon, ibigay sa panaderya ang eksaktong address, hiniling na oras ng handoff, at ang pangalan at numero ng mobile ng isang taong naroroon. Kung pupunta ang cake sa isang condo, restaurant, o pribadong lugar, isama ang mga tagubilin sa gate o reception at tukuyin kung saan maaaring matugunan ng receiver ang paghahatid.
-
-Kumpirmahin kung ang ruta ay magagamit at kung may bayad. Itanong kung paano dapat pangasiwaan ang partikular na cake pagkatapos ng pagdating at ayusin ang isang matatag at patag na lugar para sa kahon. Kung ito ay isang sorpresa, gamitin ang mga detalye ng contact ng organizer sa halip na ang panauhing pandangal.
-
-Idagdag ang mga hakbang na ito sa nakabahaging gabay sa paghahatid. Ang isang pag-aaral ng kaso na partikular sa lugar ay dapat gumamit lamang ng aktwal na order na may ebidensya ng ruta at pahintulot ng customer.
+- Confirm current order details and delivery arrangement before publication.
+- Cebuano and Tagalog drafts need native editorial review.

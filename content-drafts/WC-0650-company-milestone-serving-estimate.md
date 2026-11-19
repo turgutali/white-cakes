@@ -1,44 +1,45 @@
 ---
 id: WC-0650
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
 english_title: "How to estimate servings for cake for a company milestone in Cebu"
 cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Paano tantiyahin ang servings para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
-## Estimate servings for the colleagues who will join the celebration
+## English
 
-Count the employees expected to eat cake, not just the company headcount or full invite list. A short office program may serve small slices, while a team party may have other desserts. Tell White Cakes how the cake will be served and ask for a size recommendation.
+# How to estimate servings for cake for a company milestone in Cebu
 
-The current guide estimates 8–12 party slices from 6 inches, 16–24 from 8 inches, and 30–36 from a 6+8-inch two-tier cake. These figures are approximate. Confirm the actual cake-eater count and whether slices should be generous or small; do not assume the company size equals servings.
+Estimate servings from the people who will actually take cake, not the full employee headcount. Separate confirmed attendees from invitees, and consider whether the event includes other desserts or a meal. Ask whether slices can be modest or need to be generous; that changes how far a cake may stretch.
 
-Include the date, flavour, design, inscription, office delivery address, and receiving contact. Confirm building access and delivery fee. Made-to-order cakes need at least three days' notice; a 50% deposit confirms the agreed order.
+Use the bakery’s published guide only as an estimate: a 6-inch round cake is about 8–12 party slices, an 8-inch round about 16–24, and a common 6+8-inch two-tier cake about 30–36. Actual portions vary with cake height, design, and cutting. Confirm the appropriate size with the bakery using your event details.
 
-Keep this office example within the central size guide and link to corporate ordering details. Do not create a company-specific chart with unverified yields.
+For a large office event, also plan who will cut and serve the cake and whether the venue provides plates and utensils. Do not select a size from a photo alone: apparent scale is unreliable. If the count is uncertain, ask for options and their serving assumptions before approving the quote.
+
+## Cebuano
+
+# Giunsa pagbanabana sa servings para sa cake para sa milestone sa kompanya sa Cebu
+
+Banabanaa ang servings base sa mga tawo nga mokaon gayod, dili sa kinatibuk-ang ihap sa empleyado. Ilahi ang kumpirmadong motambong sa giimbitar lang, ug hunahunaa kon adunay laing dessert o pagkaon. Pangutan-a kon mahimo bang gagmay o dagko ang hiwa kay makaapekto kini sa kadaghan sa ma-serve.
+
+Gamita isip banabana ang giya sa panaderya: ang 6-inch nga round cake mga 8–12 ka party slice, ang 8-inch mga 16–24, ug ang kasagarang 6+8-inch nga two-tier mga 30–36. Magkalahi ang aktuwal nga serving depende sa kataas, disenyo ug paghiwa. Kumpirmaha sa panaderya ang angay nga gidak-on base sa detalye sa event.
+
+Sa dako nga office event, planoha usab kinsa ang mohiwa ug mo-serve ug kon adunay plato ug kubyertos ang venue. Ayaw pagpili og gidak-on base sa litrato lang kay dili kasaligan ang hitsura sa scale. Kon dili sigurado ang ihap, pangayo og mga kapilian ug serving assumptions sa dili pa aprobahan ang quote.
+
+## Tagalog
+
+# Paano tantiyahin ang servings para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu
+
+Tantiyahin ang servings batay sa mga taong talagang kakain, hindi sa kabuuang bilang ng empleyado. Ihiwalay ang kumpirmadong dadalo sa mga inimbitahan lang at isaalang-alang kung may iba pang dessert o pagkain. Itanong kung maliit o masaganang hiwa ang kailangan dahil naaapektuhan nito kung ilang tao ang mapagsisilbihan.
+
+Gamitin lamang bilang tantiya ang gabay ng bakery: humigit-kumulang 8–12 party slice ang 6-inch na round cake, 16–24 ang 8-inch, at 30–36 ang karaniwang 6+8-inch na two-tier cake. Nag-iiba ang aktuwal na serving ayon sa taas, design, at paraan ng paghiwa. Kumpirmahin sa bakery ang angkop na sukat batay sa detalye ng event.
+
+Para sa malaking office event, planuhin din kung sino ang maghihiwa at maghahain at kung may plato at kubyertos ang venue. Huwag pumili ng laki batay lang sa larawan dahil hindi maaasahan ang itsura ng scale. Kung hindi tiyak ang bilang, humingi ng mga opsyon at serving assumptions bago aprubahan ang quote.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagbanabana sa mga servings alang sa mga kauban nga moapil sa selebrasyon
-
-Pag-ihap sa mga empleyado nga gipaabot nga mokaon og cake, dili lang ang headcount sa kompanya o kompletong listahan sa imbitasyon. Ang usa ka mubo nga programa sa opisina mahimong magsilbi nga gagmay nga mga hiwa, samtang ang usa ka partido sa grupo mahimo nga adunay uban pang mga dessert. Sultihi ang White Cakes kung giunsa ang pag-alagad sa cake ug pangayo og rekomendasyon sa gidak-on.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices gikan sa 6 ka pulgada, 16–24 gikan sa 8 ka pulgada, ug 30–36 gikan sa 6+8-pulgada nga two-tier nga cake. Kini nga mga numero gibanabana. Kumpirma ang aktuwal nga ihap sa cake-eater ug kung ang mga hiwa kinahanglan nga manggihatagon o gamay; ayaw hunahunaa nga ang gidak-on sa kompanya parehas sa mga servings.
-
-Ilakip ang petsa, lami, disenyo, inskripsiyon, adres sa pagpadala sa opisina, ug pagdawat sa kontak. Kumpirma ang pag-access sa bilding ug bayad sa pagpadala. Ang hinimo-sa-pag-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago kini nga panig-ingnan sa opisina sulod sa sentro nga giya sa gidak-on ug sumpay sa mga detalye sa pag-order sa korporasyon. Ayaw paghimo ug tsart nga espesipiko sa kompanya nga adunay wala mapamatud-an nga abot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang mga serving para sa mga kasamahan na sasali sa pagdiriwang
-
-Bilangin ang mga empleyadong inaasahang makakain ng cake, hindi lamang ang bilang ng kumpanya o buong listahan ng imbitasyon. Ang isang maikling programa sa opisina ay maaaring maghatid ng maliliit na hiwa, habang ang isang team party ay maaaring magkaroon ng iba pang mga dessert. Sabihin sa White Cakes kung paano ihain ang cake at humingi ng rekomendasyon sa laki.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice mula sa 6 na pulgada, 16–24 mula sa 8 pulgada, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga figure na ito ay tinatayang. Kumpirmahin ang aktwal na bilang ng cake-eater at kung ang mga hiwa ay dapat na mapagbigay o maliit; huwag ipagpalagay na ang laki ng kumpanya ay katumbas ng mga servings.
-
-Isama ang petsa, lasa, disenyo, inskripsiyon, address ng paghahatid ng opisina, at pagtanggap ng contact. Kumpirmahin ang pag-access sa gusali at bayad sa paghahatid. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang halimbawang ito ng opisina sa loob ng gabay sa gitnang sukat at link sa mga detalye ng pag-order ng kumpanya. Huwag gumawa ng chart na partikular sa kumpanya na may hindi na-verify na mga ani.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

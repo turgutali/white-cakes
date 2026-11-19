@@ -1,38 +1,45 @@
 ---
 id: WC-0663
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; use approved logo and original photos only
 english_title: "Design details to consider for cake for a company milestone in Cebu"
 cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa milestone sa kompanya sa Cebu"
 tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu"
 ---
 
-## Give the milestone a clear focal point and approve company branding
+## English
 
-Choose what colleagues should notice first: the milestone year, a short message, the company name, or one brand colour. Keeping one focal point helps lettering remain clear. If a logo or trademark is requested, confirm the company has approved its use before sending it to the bakery.
+# Design details to consider for cake for a company milestone in Cebu
 
-Share a reference and explain what should be adapted. Confirm the cake size, servings, flavour, event date, budget, and delivery point separately. Ask whether the chosen detail fits the surface and the production schedule, and get the final quote and design in writing.
+A company milestone design has to work at the cake’s actual scale. Prioritize the occasion name or anniversary number, then decide whether a logo, colours, or short inscription adds useful context. Keep small details limited because tiny lettering and complex marks may not read clearly on a cake.
 
-Add this planning prompt to the shared design guide. A technique story needs an actual close-up and company permission; do not use a logo without approval.
+Ask how the selected design will be made and which parts can be piped by hand. White Cakes hand-pipes buttercream and does not provide edible printed logo sheets. Submit only approved artwork and ask what simplified treatment is feasible; do not promise exact brand reproduction before confirmation.
+
+Review the complete design description at the chosen size. Check spelling, contrast, visible placement, and any details the company does not want included. Written approval from one responsible contact helps prevent an unapproved logo or outdated anniversary figure from reaching production.
+
+## Cebuano
+
+# Mga detalye sa disenyo nga ikonsiderar para sa cake para sa milestone sa kompanya sa Cebu
+
+Kinahanglan mohaom sa aktuwal nga gidak-on sa cake ang disenyo sa company milestone. Unaha ang ngalan sa okasyon o numero sa anibersaryo, unya desisyoni kon makatabang ba ang logo, kolor o mubo nga inskripsiyon. Limitahi ang gagmay nga detalye kay mahimong dili mabasa ang nipis nga letra ug komplikadong marka.
+
+Pangutan-a unsaon paghimo sa napiling disenyo ug unsang bahin ang mapiping sa kamot. Kamot nga gipiping ang buttercream sa White Cakes ug wala kini maghatag og edible printed logo sheets. Ipadala lang ang aprubadong artwork ug pangutan-a unsang pinasimpleng pamaagi ang mahimo; ayaw mosaad og eksaktong brand reproduction sa wala pa kumpirmaha.
+
+Repasoa ang tibuok deskripsyon sa napiling gidak-on. Susiha ang spelling, contrast, makita nga puwesto ug mga detalye nga dili gustong iapil sa kompanya. Ang sinulat nga approval gikan sa usa ka responsable nga contact makatabang sa pagpugong nga magamit ang wala aprubahang logo o sayop nga numero sa anibersaryo.
+
+## Tagalog
+
+# Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa mahalagang okasyon ng kumpanya sa Cebu
+
+Dapat umubra sa aktuwal na laki ng cake ang design para sa company milestone. Unahin ang pangalan ng okasyon o numero ng anibersaryo, saka magpasya kung makatutulong ang logo, kulay, o maikling inscription. Limitahan ang maliliit na detalye dahil maaaring hindi mabasa ang manipis na lettering at komplikadong marka.
+
+Itanong kung paano gagawin ang napiling design at aling bahagi ang kayang i-pipe nang mano-mano. Mano-manong ipinipipe ng White Cakes ang buttercream at wala itong edible printed logo sheets. Ipadala lamang ang aprubadong artwork at itanong kung anong pinasimpleng paraan ang posible; huwag mangako ng eksaktong brand reproduction bago kumpirmahin.
+
+Repasuhin ang buong paglalarawan ng design sa napiling sukat. Suriin ang spelling, contrast, nakikitang puwesto, at mga detalyeng ayaw isama ng kumpanya. Nakakatulong ang nakasulat na approval mula sa iisang responsable na contact para maiwasan ang hindi aprubadong logo o maling bilang ng anibersaryo sa production.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hatagi ang milestone og klaro nga focal point ug aprubahan ang branding sa kompanya
-
-Pilia kung unsa ang una nga mamatikdan sa mga kauban: ang milestone nga tuig, usa ka mubo nga mensahe, ang ngalan sa kompanya, o usa ka kolor sa brand. Ang pagpabilin sa usa ka focal point makatabang sa letra nga magpabiling klaro. Kung gihangyo ang usa ka logo o marka sa pamatigayon, kumpirmahi nga giaprubahan sa kompanya ang paggamit niini sa wala pa ipadala kini sa panaderya.
-
-Ipaambit ang usa ka pakisayran ug ipasabut kung unsa ang angay nga ipahiangay. Kumpirma ang gidak-on sa cake, mga pagkaon, lami, petsa sa panghitabo, badyet, ug punto sa paghatod nga gilain. Pangutan-a kung ang gipili nga detalye mohaum sa nawong ug sa iskedyul sa produksiyon, ug kuhaa ang katapusang kinutlo ug disenyo sa pagsulat.
-
-Idugang kini nga pag-aghat sa pagplano sa gipaambit nga giya sa disenyo. Ang istorya sa teknik nanginahanglan usa ka aktuwal nga close-up ug pagtugot sa kompanya; ayaw paggamit ug logo nga walay pagtugot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bigyan ang milestone ng malinaw na focal point at aprubahan ang pagba-brand ng kumpanya
-
-Piliin kung ano ang dapat unang mapansin ng mga kasamahan: ang milestone na taon, isang maikling mensahe, ang pangalan ng kumpanya, o isang kulay ng brand. Ang pagpapanatiling isang focal point ay nakakatulong na manatiling malinaw ang pagkakasulat. Kung hihilingin ang isang logo o trademark, kumpirmahin na inaprubahan ng kumpanya ang paggamit nito bago ito ipadala sa panaderya.
-
-Magbahagi ng sanggunian at ipaliwanag kung ano ang dapat iakma. Kumpirmahin ang laki ng cake, mga serving, lasa, petsa ng kaganapan, badyet, at delivery point nang hiwalay. Itanong kung ang napiling detalye ay umaangkop sa ibabaw at sa iskedyul ng produksyon, at kunin ang huling quote at disenyo sa pamamagitan ng pagsulat.
-
-Idagdag ang prompt sa pagpaplano na ito sa nakabahaging gabay sa disenyo. Ang isang kuwento ng diskarte ay nangangailangan ng isang aktwal na close-up at pahintulot ng kumpanya; huwag gumamit ng logo nang walang pag-apruba.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

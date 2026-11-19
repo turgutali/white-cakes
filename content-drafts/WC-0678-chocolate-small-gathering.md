@@ -1,38 +1,45 @@
 ---
 id: WC-0678
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html; confirm current chocolate availability
-english_title: "Planning chocolate cake in Cebu"
-cebuano_title: "Pagplano sa chocolate cake sa Cebu"
-tagalog_title: "Pagpaplano ng chocolate cake sa Cebu"
+english_title: \"Planning chocolate cake in Cebu\"
+cebuano_title: \"Pagplano sa chocolate cake sa Cebu\"
+tagalog_title: \"Pagpaplano ng chocolate cake sa Cebu\"
 ---
 
-## Choose the portion size before settling on the flavour
+## English
 
-For a small gathering, count the people likely to eat cake and consider whether dessert follows a meal. Tell the bakery whether you want modest slices and if other desserts will be served. Then ask which cake size fits the group; choosing chocolate does not determine how many portions the cake provides.
+# Planning chocolate cake in Cebu
 
-The current guide describes the 4-inch Bento as about two generous or three modest servings. For larger sizes, the listed estimates are 8–12 party slices from 6 inches and 16–24 from 8 inches. These are approximate, so confirm the right size and current chocolate availability for your date.
+For a small gathering, begin with how many people will actually have a slice and whether another dessert is served. Decide if the chocolate cake is the centrepiece or one item among several; that changes the portion expectation. Share the count with the bakery rather than choosing from a photo.
 
-Keep portion advice in the central size guide and flavour availability in the flavour guide. Link the two pages instead of publishing another small-gathering page for a flavour variant.
+Ask which current chocolate size and format fits that count. Published estimates are approximate: a 6-inch round is around 8–12 party slices, while an 4-inch Bento is about 2 generous or 3 modest servings after a meal. Confirm the product-specific recommendation and availability.
+
+Leave room for cake display, candles, and cutting even at a small event. Confirm flavour, size, price, and delivery in the written order. Do not assume an online chocolate image represents a currently orderable product.
+
+## Cebuano
+
+# Pagplano sa chocolate cake sa Cebu
+
+Para sa gamay nga tapok, sugdi sa ihap sa tinuod nga mokaon ug kon adunay laing dessert. Desisyoni kon sentro sa selebrasyon ang chocolate cake o usa lang sa daghang pagkaon; makaapekto kini sa gidak-on sa hiwa. Ihatag ang ihap sa panaderya imbes mopili base sa litrato.
+
+Pangutan-a unsang kasamtangang chocolate size ug porma ang mohaom. Banabana lang ang giya: mga 8–12 ka party slice ang 6-inch nga round; mga 2 ka dagkong serving o 3 ka gagmay human mokaon ang 4-inch Bento. Kumpirmaha ang rekomendasyon ug availability para sa produkto.
+
+Bilini og luna ang display, kandila ug paghiwa bisan gamay ang event. Kumpirmaha sa sinulat nga order ang lami, gidak-on, presyo ug delivery. Ayaw pagtuo nga orderable karon ang chocolate cake tungod lang sa online photo.
+
+## Tagalog
+
+# Pagpaplano ng chocolate cake sa Cebu
+
+Para sa maliit na salu-salo, magsimula sa bilang ng talagang kakain at kung may ibang dessert. Magpasya kung sentro ng selebrasyon ang chocolate cake o isa lang sa maraming handa; naaapektuhan nito ang inaasahang laki ng slice. Ibigay ang bilang sa bakery sa halip na pumili batay sa larawan.
+
+Itanong kung aling kasalukuyang chocolate size at format ang babagay sa bilang. Tantiya lang ang gabay: mga 8–12 party slice ang 6-inch na round; mga 2 masaganang serving o 3 maliit pagkatapos kumain ang 4-inch Bento. Kumpirmahin ang rekomendasyon at availability para sa produkto.
+
+Maglaan pa rin ng lugar para sa display, kandila, at paghiwa kahit maliit ang event. Kumpirmahin sa nakasulat na order ang flavor, sukat, presyo, at delivery. Huwag ipagpalagay na mabibili ngayon ang chocolate cake dahil lang may online photo.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pilia ang gidak-on sa bahin sa dili pa ibutang ang lami
-
-Alang sa gamay nga panagtapok, ihap ang mga tawo nga lagmit mokaon sa cake ug hunahunaa kung ang dessert nagsunod sa usa ka pagkaon. Sultihi ang panaderya kung gusto nimo ang kasarangan nga mga hiwa ug kung ang ubang mga dessert isilbi. Dayon pangutana kon unsa nga gidak-on sa cake ang mohaum sa grupo; Ang pagpili sa tsokolate wala magtino kung pila ka bahin ang gihatag sa cake.
-
-Ang kasamtangan nga giya naghulagway sa 4-pulgada nga Bento nga mga duha ka manggihatagon o tulo ka kasarangan nga pag-alagad. Alang sa mas dagkong mga gidak-on, ang gilista nga mga banabana mao ang 8–12 party slices gikan sa 6 ka pulgada ug 16–24 gikan sa 8 ka pulgada. Kini mga gibanabana, busa kumpirmahi ang husto nga gidak-on ug kasamtangan nga pagkaanaa sa tsokolate alang sa imong petsa.
-
-Itago ang tambag sa bahin sa giya sa sentral nga gidak-on ug pagkaanaa sa lami sa giya sa lami. I-link ang duha ka panid imbis nga mag-publish ug lain nga gamay nga panid sa pagpundok alang sa usa ka variant sa lami.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Piliin ang laki ng bahagi bago ilagay sa lasa
-
-Para sa isang maliit na pagtitipon, bilangin ang mga taong malamang na kumain ng cake at isaalang-alang kung ang dessert ay sumusunod sa isang pagkain. Sabihin sa panaderya kung gusto mo ng katamtamang hiwa at kung iba pang dessert ang ihahain. Pagkatapos ay itanong kung aling sukat ng cake ang akma sa grupo; ang pagpili ng tsokolate ay hindi tumutukoy kung gaano karaming mga bahagi ang ibinibigay ng cake.
-
-Inilalarawan ng kasalukuyang gabay ang 4-inch na Bento bilang mga dalawang mapagbigay o tatlong katamtamang serving. Para sa mas malalaking sukat, ang mga nakalistang pagtatantya ay 8–12 party slice mula 6 na pulgada at 16–24 mula 8 pulgada. Ang mga ito ay tinatayang, kaya kumpirmahin ang tamang laki at kasalukuyang availability ng tsokolate para sa iyong petsa.
-
-Panatilihin ang payo sa bahagi sa gabay sa gitnang sukat at availability ng lasa sa gabay sa lasa. I-link ang dalawang page sa halip na mag-publish ng isa pang small-gathering page para sa isang variant ng flavor.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

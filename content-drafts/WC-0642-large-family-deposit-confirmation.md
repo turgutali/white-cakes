@@ -1,44 +1,45 @@
 ---
 id: WC-0642
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "What to confirm before paying a deposit for cake for a large family gathering in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa malaking pagtitipon ng pamilya sa Cebu"
+english_title: "What to Confirm Before Paying a Deposit for a Large Family Cake"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Cake sa Dakong Tapok sa Pamilya"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Cake sa Malaking Pagtitipon ng Pamilya"
 ---
 
-## Confirm size, design, and delivery before paying
+## English
 
-For a large family gathering, make sure the serving plan is agreed before sending the deposit. Confirm how many people will eat cake, whether there are other desserts, and which size White Cakes recommends. Current estimates are 8–12 party slices for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. These are approximate, so do not assume the cake will serve an exact number.
+# What to Confirm Before Paying a Deposit for a Large Family Cake
 
-Read the order confirmation for size, flavour, final design, inscription, and total price. If the design is based on a reference photo, confirm what White Cakes has agreed to adapt. Verify the full family venue address, landmark, receiver's mobile number, delivery window, and fee.
+Before paying for a large family cake, confirm the guest-based size, flavour, design, exact inscription, and full delivery plan. The order summary should name the event date, venue address, receiver, delivery window, final price, and deposit. Have one family contact approve the details so the bakery receives a consistent decision.
 
-White Cakes requires at least three days' notice for made-to-order cakes. Its current process uses a 50% deposit to confirm an agreed order. Follow the payment instructions in the current quote, save the receipt, and make sure the written details match the request.
+White Cakes’ published guidance says a 50% deposit follows agreement on the final price and details. Verify the current payment method and balance deadline directly with the bakery. Ask how a change in guest count or venue affects the order; do not assume the cake can be resized late in production.
 
-Keep serving and deposit information in the central ordering guide and recheck both when the bakery updates its process.
+Keep payment confirmation and the approved summary together, then share the delivery details with the host. See the [Cebu cake ordering guide](/journal/how-to-order.html).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Cake sa Dakong Tapok sa Pamilya
+
+Sa dili pa mobayad para sa dakong cake sa pamilya, kumpirmaha ang gidak-on base sa bisita, flavour, disenyo, eksaktong inskripsiyon ug kompleto nga delivery plan. Kinahanglan ilista sa order summary ang petsa, address sa venue, modawat, delivery window, final nga presyo ug deposit. Pagpili og usa ka family contact nga moapruba aron usa ra ang desisyon nga madawat sa panaderya.
+
+Nag-ingon ang gipatik nga giya sa White Cakes nga 50% nga deposit human magkasinabot sa final nga presyo ug detalye. Kumpirmaha diretso sa panaderya ang kasamtangang paagi sa bayad ug deadline sa balanse. Pangutan-a unsaon pag-apekto sa order sa kausaban sa gidaghanon sa bisita o venue; ayaw pagtuo nga mausab pa ang gidak-on sa ulahi sa production.
+
+Tipigi nga magkauban ang kumpirmasyon sa bayad ug giaprobahang summary, dayon ipaambit sa host ang delivery details. Tan-awa ang [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Cake sa Malaking Pagtitipon ng Pamilya
+
+Bago magbayad para sa malaking cake ng pamilya, kumpirmahin ang sukat batay sa bisita, flavour, design, eksaktong inscription, at buong delivery plan. Dapat nakasaad sa order summary ang petsa ng event, address ng venue, tatanggap, delivery window, pinal na presyo, at deposito. Magtalaga ng isang family contact na mag-aapruba para iisang desisyon ang matanggap ng bakery.
+
+Sinasabi ng inilathalang gabay ng White Cakes na 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye. Kumpirmahin nang direkta sa bakery ang kasalukuyang paraan ng bayad at deadline ng balanse. Itanong kung paano maaapektuhan ng pagbabago sa bilang ng bisita o venue ang order; huwag ipagpalagay na maaari pang palitan ang sukat sa bandang huli ng produksyon.
+
+Itabi nang magkasama ang kumpirmasyon ng bayad at aprubadong summary, saka ibahagi sa host ang delivery details. Tingnan ang [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang gidak-on, disenyo, ug paghatod sa dili pa mobayad
-
-Alang sa usa ka dako nga panagtapok sa pamilya, siguroha nga ang plano sa pagserbisyo nauyonan sa dili pa ipadala ang deposito. Kumpirma kung pila ka mga tawo ang mokaon sa cake, kung adunay uban nga mga dessert, ug unsa nga gidak-on ang girekomenda sa White Cakes. Ang kasamtangan nga mga banabana mao ang 8–12 ka party slices sa 6 ka pulgada, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Kini mga gibana-bana, busa ayaw hunahunaa nga ang cake magsilbi sa eksaktong numero.
-
-Basaha ang kumpirmasyon sa order alang sa gidak-on, lami, katapusang disenyo, inskripsiyon, ug kinatibuk-ang presyo. Kung ang disenyo gibase sa usa ka reperensya nga litrato, kumpirmahi kung unsa ang giuyonan sa White Cakes nga ipahiangay. I-verify ang tibuok address sa lugar sa pamilya, landmark, mobile number sa receiver, delivery window, ug bayad.
-
-Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake. Ang kasamtangang proseso niini naggamit ug 50% nga deposito aron pagkumpirma sa usa ka gikasabutan nga order. Sunda ang mga instruksyon sa pagbayad sa kasamtangan nga quote, i-save ang resibo, ug siguroha nga ang sinulat nga mga detalye mohaum sa hangyo.
-
-Ipadayon ang pag-alagad ug pagdeposito sa impormasyon sa sentral nga giya sa pag-order ug susiha pag-usab ang duha kung gi-update sa panaderya ang proseso niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang laki, disenyo, at paghahatid bago magbayad
-
-Para sa isang malaking pagtitipon ng pamilya, siguraduhin na ang plano sa paghahatid ay napagkasunduan bago ipadala ang deposito. Kumpirmahin kung gaano karaming tao ang kakain ng cake, kung may iba pang dessert, at kung anong laki ang inirerekomenda ng White Cakes. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa 6+8-pulgada na two-tier na cake. Ang mga ito ay tinatayang, kaya huwag ipagpalagay na ang cake ay maghahatid ng eksaktong numero.
-
-Basahin ang kumpirmasyon ng order para sa laki, lasa, huling disenyo, inskripsiyon, at kabuuang presyo. Kung ang disenyo ay batay sa isang reference na larawan, kumpirmahin kung ano ang napagkasunduan ng White Cakes na iakma. I-verify ang buong address ng venue ng pamilya, landmark, mobile number ng receiver, delivery window, at bayad.
-
-Ang mga White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Ang kasalukuyang proseso nito ay gumagamit ng 50% na deposito upang kumpirmahin ang isang napagkasunduang order. Sundin ang mga tagubilin sa pagbabayad sa kasalukuyang quote, i-save ang resibo, at tiyaking tumutugma ang mga nakasulat na detalye sa kahilingan.
-
-Panatilihin ang paghahatid at pagdeposito ng impormasyon sa gitnang gabay sa pag-order at muling suriin ang parehong kapag ina-update ng panaderya ang proseso nito.
+- Confirm current size, menu, terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0591
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html and /journal/cake-delivery-cebu.html
-english_title: "What to include in a custom brief for sending a cake to family in Cebu from abroad"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa pagpadala og cake sa pamilya sa Cebu gikan sa laing nasod"
-tagalog_title: "Ano ang isasama sa custom na brief para sa pagpapadala ng cake sa pamilya sa Cebu mula sa ibang bansa"
+english_title: "What to Include in a Cake Brief When Ordering for Family in Cebu from Abroad"
+cebuano_title: "Unsa ang Iapil sa Cake Brief Kon Mag-order para sa Pamilya sa Cebu Gikan sa Laing Nasod"
+tagalog_title: "Ano ang Isasama sa Cake Brief Kapag Umorder para sa Pamilya sa Cebu Mula sa Ibang Bansa"
 ---
 
-## Combine the design request with clear instructions for the local receiver
+## English
 
-Include the local event date, recipient’s preference, approximate servings, requested size, flavour, and exact message. Choose one organizer in Cebu who can approve the design and receive the order. Share the complete address, phone number, and any access instructions with the bakery.
+# What to Include in a Cake Brief When Ordering for Family in Cebu from Abroad
 
-Use one or two references and explain which feature matters. Ask what can be adapted and confirm the current quote, availability, delivery coverage, and handoff time directly. Share the written summary with the local receiver so they know the plan and can follow storage advice.
+A clear brief lets the bakery and local recipient confirm the same plan. Include the serving date and local Cebu time, guest estimate, preferred size and flavour, exact inscription, complete delivery address, and a local receiver’s active number. If the cake is a surprise, state who may receive updates and which details must stay private.
 
-Keep the reusable brief in the custom-cake guide and the local handoff in the delivery guide. Do not promise a service or payment option without checking it.
+Send one or two reference images with notes about the features you want. Ask the recipient locally about favourite colours or flavours if you are unsure, but do not leave final details open across multiple chats. Mark which design elements are essential and which can be adapted.
+
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm feasibility, final quote, payment instructions, and the delivery window with the bakery. See the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Cake Brief Kon Mag-order para sa Pamilya sa Cebu Gikan sa Laing Nasod
+
+Makatugot ang klarong brief sa panaderya ug modawat sa Cebu nga magkumpirma sa parehas nga plano. Iapil ang petsa ug lokal nga oras sa Cebu, banabana sa bisita, gusto nga gidak-on ug flavour, eksaktong inskripsiyon, kompleto nga delivery address ug aktibong numero sa lokal nga modawat. Kon surprise ang cake, isulti kinsa ang makadawat sa updates ug unsang detalye ang sekreto.
+
+Magpadala og usa o duha ka reference photo nga naay nota sa mga bahin nga gusto nimo. Pangutan-a ang modawat sa Cebu bahin sa paboritong kolor o flavour kon dili ka sigurado, apan ayaw pasagdi nga magpabiling bukas ang final details sa daghang chat. Markahi unsang detalye sa disenyo ang kinahanglan ug unsay mahimong ipasibo.
+
+Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha sa panaderya ang mahimo, final quote, instruksyon sa bayad ug delivery window. Tan-awa ang [giya sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Cake Brief Kapag Umorder para sa Pamilya sa Cebu Mula sa Ibang Bansa
+
+Nakakatulong ang malinaw na brief para mapagkasunduan ng bakery at lokal na tatanggap ang iisang plano. Isama ang petsa ng paghahain at lokal na oras sa Cebu, tantiya ng bisita, gustong sukat at flavour, eksaktong inscription, buong delivery address, at aktibong numero ng lokal na tatanggap. Kung sorpresa ang cake, sabihin kung sino ang maaaring makatanggap ng updates at aling detalye ang dapat manatiling pribado.
+
+Magpadala ng isa o dalawang reference photo na may tala tungkol sa mga feature na gusto mo. Tanungin ang tatanggap sa Cebu tungkol sa paboritong kulay o flavour kung hindi ka sigurado, pero huwag hayaang nakabukas ang final details sa maraming chat. Markahan kung aling bahagi ng design ang kailangang mapanatili at alin ang maaaring iangkop.
+
+Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin sa bakery ang kayang gawin, pinal na quote, tagubilin sa bayad, at delivery window. Tingnan ang [gabay sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Isagol ang hangyo sa disenyo nga adunay klaro nga mga panudlo alang sa lokal nga tigdawat
-
-Ilakip ang lokal nga petsa sa panghitabo, gusto sa nakadawat, gibanabana nga mga servings, gihangyo nga gidak-on, lami, ug eksakto nga mensahe. Pagpili og usa ka organizer sa Cebu nga makaaprobar sa disenyo ug makadawat sa order. Ipaambit ang kompleto nga adres, numero sa telepono, ug bisan unsang instruksyon sa pag-access sa panaderya.
-
-Gamit ug usa o duha ka reperensiya ug ipasabot kon unsang bahina ang importante. Pangutan-a kung unsa ang mahimo nga ipahiangay ug kumpirmahi ang karon nga kinutlo, pagkaanaa, sakup sa pagpadala, ug oras sa paghatag direkta. Ipakigbahin ang sinulat nga katingbanan sa lokal nga tigdawat aron mahibal-an nila ang plano ug makasunod sa tambag sa pagtipig.
-
-Ibutang ang magamit pag-usab nga mubo sa custom-cake guide ug ang lokal nga handoff sa delivery guide. Ayaw pagsaad og serbisyo o opsyon sa pagbayad nga walay pagsusi niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pagsamahin ang kahilingan sa disenyo na may malinaw na mga tagubilin para sa lokal na receiver
-
-Isama ang petsa ng lokal na kaganapan, kagustuhan ng tatanggap, tinatayang mga serving, hiniling na laki, lasa, at eksaktong mensahe. Pumili ng isang organizer sa Cebu na maaaring mag-apruba ng disenyo at tumanggap ng order. Ibahagi ang kumpletong address, numero ng telepono, at anumang mga tagubilin sa pag-access sa panaderya.
-
-Gumamit ng isa o dalawang sanggunian at ipaliwanag kung aling tampok ang mahalaga. Itanong kung ano ang maaaring iakma at direktang kumpirmahin ang kasalukuyang quote, availability, saklaw ng paghahatid, at oras ng handoff. Ibahagi ang nakasulat na buod sa lokal na receiver para malaman nila ang plano at makasunod sa payo sa storage.
-
-Panatilihin ang reusable brief sa custom-cake guide at ang lokal na handoff sa delivery guide. Huwag mangako ng serbisyo o opsyon sa pagbabayad nang hindi ito sinusuri.
+- Confirm current menu, payment, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

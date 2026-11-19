@@ -1,44 +1,45 @@
 ---
 id: WC-0671
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/chocolate-cake-cebu.html and /journal/choosing-a-flavor.html
-english_title: "How to choose a flavour for chocolate cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa chocolate cake sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa chocolate cake sa Cebu"
+english_title: \"How to choose a flavour for chocolate cake in Cebu\"
+cebuano_title: \"Giunsa pagpili sa lami para sa chocolate cake sa Cebu\"
+tagalog_title: \"Paano pumili ng flavor para sa chocolate cake sa Cebu\"
 ---
 
-## Requesting chocolate cake without assuming extra fillings
+## English
 
-Chocolate is one of the five flavours listed for White Cakes custom cakes, alongside vanilla, ube, mango, and red velvet. If chocolate is your preference, name it directly in the order enquiry and include the date, cake size, and guest count. The menu flavour confirms the cake flavour; it does not automatically promise a separate filling, frosting, fruit pieces, or topping.
+# How to choose a flavour for chocolate cake in Cebu
 
-If you have a specific chocolate profile in mind, explain it as a question rather than assuming it is part of the standard option. For example, you can ask whether a requested filling or topping is available for the chosen cake and date. Wait for the bakery's written confirmation before paying a deposit. If guests have different preferences, ask whether a larger format can be split; the 4-inch Bento is listed as one flavour, and any split for another size needs confirmation.
+“Chocolate” can mean different cake components: the sponge, filling, frosting, or a combination. Ask what the bakery’s current chocolate option refers to and which pairings are actually offered. Do not infer a menu item from a social post or assume every design can use every flavour.
 
-Choose the size using the published serving guide and tell the bakery whether the cake will follow a meal or be the main dessert. This helps the team answer the portion question without turning a flavour choice into an unsupported serving promise.
+Consider the event menu and guest preferences, then choose a first choice and an acceptable alternative if the preferred option is unavailable. For dietary or allergy concerns, request ingredient and handling information directly; never promise allergy safety without the bakery’s explicit confirmation.
 
-The central flavour guide should carry the shared ordering rules, while the chocolate page can answer flavour-specific questions only where White Cakes has verified information. Do not add claims about cocoa percentage, bitterness, ganache, or ingredients unless the bakery confirms them.
+Record the confirmed flavour in the order alongside size and design. If the company is deciding among flavours, ask for current options and a decision deadline before production is planned. See the [flavour selection guide](/journal/choosing-a-flavor.html).
+
+## Cebuano
+
+# Giunsa pagpili sa lami para sa chocolate cake sa Cebu
+
+Lahi-lahi ang pasabot sa “chocolate”: mahimong sponge, filling, frosting o kombinasyon. Pangutan-a unsay gipasabot sa kasamtangang chocolate option sa panaderya ug unsang pairing ang tinuod nga gitanyag. Ayaw ibase sa social post ang menu o pagtuo nga ang tanang disenyo mohaom sa tanang lami.
+
+Hunahunaa ang menu sa event ug gusto sa bisita, unya pilia ang una ug madawat nga alternatibo kon dili available ang gusto. Para sa dietary o allergy concern, pangayo direkta og impormasyon sa sangkap ug pagdumala; ayaw mosaad nga luwas sa allergy kon wala pa klarong kumpirmasyon sa panaderya.
+
+Irekord sa order ang nakumpirmang lami uban sa gidak-on ug disenyo. Kon nagpili pa ang kompanya, pangayo og kasamtangang kapilian ug deadline sa desisyon sa dili pa magsugod ang produksyon. Tan-awa ang [giya sa pagpili sa lami](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano pumili ng flavor para sa chocolate cake sa Cebu
+
+Magkakaiba ang maaaring ibig sabihin ng “chocolate”: sponge, filling, frosting, o kombinasyon. Itanong kung ano ang tinutukoy ng kasalukuyang chocolate option ng bakery at aling pairing ang talagang iniaalok. Huwag umasa sa social post para sa menu o ipagpalagay na bagay ang bawat flavor sa bawat design.
+
+Isaalang-alang ang menu ng event at kagustuhan ng bisita, saka pumili ng unang choice at katanggap-tanggap na alternatibo kung hindi available ang gusto. Para sa dietary o allergy concern, direktang humingi ng impormasyon sa sangkap at paghawak; huwag mangakong ligtas sa allergy kung walang tahasang kumpirmasyon ng bakery.
+
+Itala sa order ang kumpirmadong flavor kasama ng sukat at design. Kung namimili pa ang kumpanya, humingi ng kasalukuyang opsyon at deadline ng desisyon bago planuhin ang produksyon. Tingnan ang [gabay sa pagpili ng flavor](/journal/choosing-a-flavor.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Nangayo og chocolate cake nga walay pag-asumir og dugang nga mga fillings
-
-Ang tsokolate usa sa lima ka lami nga gilista alang sa White Cakes custom cakes, kauban ang vanilla, ube, mangga, ug red velvet. Kung tsokolate ang imong gusto, nganli kini direkta sa pangutana sa order ug ilakip ang petsa, gidak-on sa cake, ug ihap sa bisita. Ang lami sa menu nagpamatuod sa lami sa cake; kini dili awtomatik nga nagsaad sa usa ka bulag nga pagpuno, frosting, mga piraso sa prutas, o topping.
-
-Kung ikaw adunay usa ka piho nga profile sa tsokolate sa hunahuna, ipasabut kini ingon usa ka pangutana imbis nga maghunahuna nga kini bahin sa naandan nga kapilian. Pananglitan, makapangutana ka kung ang gihangyo nga pagpuno o topping magamit alang sa gipili nga cake ug petsa. Hulata ang sinulat nga kumpirmasyon sa panaderya sa dili pa mobayad og deposito. Kung ang mga bisita adunay lainlain nga gusto, pangutana kung ang usa ka mas dako nga format mahimong bahinon; ang 4-pulgada nga Bento gilista isip usa ka lami, ug ang bisan unsang split para sa lain nga gidak-on nagkinahanglan og kumpirmasyon.
-
-Pilia ang gidak-on gamit ang gimantala nga giya sa pag-alagad ug sultihi ang panaderya kon ang cake mosunod ba sa pagkaon o mahimong pangunang dessert. Makatabang kini sa team nga matubag ang pangutana sa bahin nga dili himuon ang pagpili sa lami nga dili suportado nga saad sa pagserbisyo.
-
-Ang sentro nga giya sa lami kinahanglan magdala sa gipaambit nga mga lagda sa pag-order, samtang ang panid sa tsokolate makatubag sa mga pangutana nga piho sa lami kung diin ang White Cakes adunay gipamatud-an nga kasayuran. Ayaw idugang ang mga pag-angkon bahin sa porsyento sa kakaw, kapaitan, ganache, o mga sangkap gawas kung gikumpirma kini sa panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humihiling ng chocolate cake nang hindi inaakala ang dagdag na palaman
-
-Ang tsokolate ay isa sa limang lasa na nakalista para sa mga custom na cake ng White Cakes, kasama ng vanilla, ube, mangga, at red velvet. Kung tsokolate ang gusto mo, direktang pangalanan ito sa order inquiry at isama ang petsa, laki ng cake, at bilang ng bisita. Kinukumpirma ng lasa ng menu ang lasa ng cake; hindi ito awtomatikong nangangako ng hiwalay na pagpuno, frosting, mga piraso ng prutas, o topping.
-
-Kung nasa isip mo ang isang partikular na profile ng tsokolate, ipaliwanag ito bilang isang tanong sa halip na ipagpalagay na bahagi ito ng karaniwang opsyon. Halimbawa, maaari mong tanungin kung available ang hiniling na pagpuno o topping para sa napiling cake at petsa. Maghintay para sa nakasulat na kumpirmasyon ng panaderya bago magbayad ng deposito. Kung may iba't ibang kagustuhan ang mga bisita, tanungin kung maaaring hatiin ang mas malaking format; ang 4-inch na Bento ay nakalista bilang isang lasa, at anumang hati para sa ibang laki ay nangangailangan ng kumpirmasyon.
-
-Piliin ang laki gamit ang naka-publish na gabay sa paghahatid at sabihin sa panaderya kung ang cake ay susunod sa pagkain o magiging pangunahing dessert. Nakakatulong ito sa team na sagutin ang tanong sa bahagi nang hindi ginagawang hindi sinusuportahang pangako sa paghahatid ang pagpipilian ng lasa.
-
-Ang pangunahing gabay sa lasa ay dapat maglaman ng mga nakabahaging panuntunan sa pag-order, habang ang pahina ng tsokolate ay makakasagot lamang sa mga tanong na partikular sa lasa kung saan ang White Cakes ay may na-verify na impormasyon. Huwag magdagdag ng mga claim tungkol sa porsyento ng cocoa, kapaitan, ganache, o mga sangkap maliban kung kinumpirma ito ng panaderya.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

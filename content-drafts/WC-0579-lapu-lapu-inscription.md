@@ -1,38 +1,45 @@
 ---
 id: WC-0579
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: "What to write on cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+english_title: "What to Write on a Cake for a Lapu-Lapu Family Celebration"
+cebuano_title: "Unsa ang Isulat sa Cake para sa Selebrasyon sa Pamilya sa Lapu-Lapu"
+tagalog_title: "Ano ang Isusulat sa Cake para sa Family Celebration sa Lapu-Lapu"
 ---
 
-## Choose a short family message that fits the design
+## English
 
-For a family celebration, decide whether the cake should name one person, welcome everyone, or mark the occasion. A brief greeting is easier to read and leaves space for decoration. If several family members want to be named, consider a group greeting instead of a crowded list.
+# What to Write on a Cake for a Lapu-Lapu Family Celebration
 
-Send exact wording and spelling to the bakery. Ask whether it fits the chosen size and design, and put a longer dedication on a card. If the cake will be delivered in Lapu-Lapu, confirm the address and route separately.
+Choose an inscription that makes sense to the recipient and the family occasion. A short greeting, a shared phrase, or one person’s name can be more meaningful than a long message. If the family is ordering from different households, appoint one person to collect and approve the wording.
 
-Add family wording examples to the shared message guide. A separate gallery should use real, permission-cleared cakes and explain distinct placement choices.
+Write the message exactly as it should appear, including spelling, punctuation, capitalization, and line breaks. Specify the language and keep the text within the space available on the chosen size. If it is a surprise, say who can see the inscription and receive bakery updates.
+
+White Cakes hand-pipes buttercream, so confirm how the words will fit before production. Review the final inscription in writing. See the [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Unsa ang Isulat sa Cake para sa Selebrasyon sa Pamilya sa Lapu-Lapu
+
+Pagpili og inskripsiyon nga mohaum sa makadawat ug okasyon sa pamilya. Mahimong mas makahuluganon ang mubo nga greeting, gipaambit nga pulong o ngalan sa usa ka tawo kaysa taas nga mensahe. Kon nag-order ang pamilya gikan sa lain-laing balay, pagtudlo og usa ka tawo nga mokolekta ug moapruba sa wording.
+
+Isulat ang mensahe sumala sa eksaktong hitsura nga gusto nimo, lakip ang spelling, punctuation, capitalization ug line breaks. Isulti ang pinulongan ug ipahaum ang teksto sa luna sa napiling gidak-on. Kon surprise kini, sultihi ang panaderya kinsa ang makakita sa inskripsiyon ug makadawat sa updates.
+
+Hand-piped buttercream ang gamit sa White Cakes, busa kumpirmaha unsaon pagpahaum sa pulong sa dili pa sugdan. Susiha sa sinulat ang final nga inskripsiyon. Tan-awa ang [giya sa mensahe sa cake sa Cebu](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Isusulat sa Cake para sa Family Celebration sa Lapu-Lapu
+
+Pumili ng inscription na babagay sa tatanggap at okasyon ng pamilya. Maaaring mas makahulugan ang maikling pagbati, pinagsasaluhang parirala, o pangalan ng isang tao kaysa mahabang mensahe. Kung magkakahiwalay na bahay ang mga umorder, magtalaga ng isang taong mangangalap at mag-aapruba ng wording.
+
+Isulat ang mensahe ayon sa eksaktong itsura nito sa cake, kasama ang spelling, punctuation, capitalization, at line breaks. Tukuyin ang wika at panatilihin ang text sa espasyong mayroon sa napiling sukat. Kung sorpresa ito, sabihin kung sino ang maaaring makakita sa inscription at makatanggap ng updates mula sa bakery.
+
+Hand-piped buttercream ang gamit ng White Cakes, kaya kumpirmahin kung paano magkakasya ang mga salita bago simulan. Suriin nang nakasulat ang pinal na inscription. Tingnan ang [gabay sa mensahe sa cake sa Cebu](/journal/birthday-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og mubo nga mensahe sa pamilya nga mohaum sa disenyo
-
-Alang sa usa ka selebrasyon sa pamilya, pagdesisyon kung ang cake kinahanglan nga magngalan sa usa ka tawo, abi-abi ang tanan, o markahan ang okasyon. Ang usa ka mubo nga pagtimbaya mas dali basahon ug nagbilin og luna alang sa dekorasyon. Kon daghang membro sa pamilya ang gustong hinganlan, ikonsiderar ang pagtimbaya sa grupo imbes nga lista nga daghang tawo.
-
-Ipadala ang eksaktong mga pulong ug spelling sa panaderya. Pangutan-a kung mohaum ba kini sa gipili nga gidak-on ug disenyo, ug pagbutang og mas taas nga dedikasyon sa usa ka kard. Kung ang cake ihatod sa Lapu-Lapu, kumpirmahi ang adres ug ruta nga gilain.
-
-Idugang ang mga pananglitan sa mga pulong sa pamilya ngadto sa gipaambit nga giya sa mensahe. Ang usa ka bulag nga gallery kinahanglan nga mogamit sa tinuod, gi-clear nga mga cake nga adunay pagtugot ug ipasabut ang lahi nga mga kapilian sa pagbutang.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng maikling mensahe ng pamilya na akma sa disenyo
-
-Para sa isang pagdiriwang ng pamilya, magpasya kung dapat pangalanan ng cake ang isang tao, tanggapin ang lahat, o markahan ang okasyon. Ang isang maikling pagbati ay mas madaling basahin at nag-iiwan ng espasyo para sa dekorasyon. Kung maraming miyembro ng pamilya ang gustong pangalanan, isaalang-alang ang isang grupong pagbati sa halip na isang masikip na listahan.
-
-Magpadala ng eksaktong mga salita at spelling sa panaderya. Itanong kung akma ito sa napiling laki at disenyo, at maglagay ng mas mahabang dedikasyon sa isang card. Kung ang cake ay ihahatid sa Lapu-Lapu, kumpirmahin ang address at ruta nang hiwalay.
-
-Magdagdag ng mga halimbawa ng pampamilyang salita sa gabay sa nakabahaging mensahe. Ang isang hiwalay na gallery ay dapat gumamit ng mga tunay, may pahintulot na mga cake at ipaliwanag ang mga natatanging pagpipilian sa placement.
+- Confirm current Lapu-Lapu route coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

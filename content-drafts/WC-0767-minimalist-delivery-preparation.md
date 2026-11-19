@@ -1,38 +1,39 @@
 ---
 id: WC-0767
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; confirm route and cake-specific care
 english_title: "How to prepare for delivery of minimalist cake in Cebu"
 cebuano_title: "Giunsa pag-andam sa delivery sa minimalist nga cake sa Cebu"
 tagalog_title: "Paano maghanda para sa delivery ng minimalist na cake sa Cebu"
 ---
 
-## Keep the delivery plan as simple as the cake brief
+## English
 
-Share the complete destination, requested handoff window, receiver’s name and phone number, and any building or gate instructions. Ask the bakery whether delivery to the location is available and confirm the fee and timing. If the cake is for an office or venue, specify the entrance where the receiver will meet it.
+# How to prepare for delivery of minimalist cake in Cebu
 
-Have someone take the cake promptly and follow handling instructions for the actual product. A minimalist appearance does not reveal the filling or frosting. Keep the box level, away from direct sun, and ask the bakery how it should be stored before serving.
+For a minimalist cake delivery, send the full address, building entrance, receiving hours, phone number, and agreed delivery window. Sparse decoration does not make the cake immune to movement or heat, so ask the bakery how it should be transported and who should receive it.
 
-Add general handoff advice to the Cebu delivery guide and link to the care page. Do not promise an unconfirmed route or arrival time.
+Arrange a level table or other appropriate holding spot and name a person to move it to display. Confirm route coverage for the exact Cebu destination and put access notes in writing rather than relying on a map pin.
+
+## Cebuano
+
+# Giunsa pag-andam sa delivery sa minimalist nga cake sa Cebu
+
+Para sa minimalist cake delivery, ihatag ang kompleto nga address, entrada sa building, oras sa pagdawat, numero ug delivery window. Dili pasabot nga dili maapektuhan sa lihok o kainit ang cake tungod sa simple nga dekorasyon; pangutan-a unsaon pagdala ug kinsa ang modawat.
+
+Pangandam og patag nga lamesa o angay nga holding spot ug pagtudlo og modala sa display. Kumpirmaha ang coverage sa eksaktong destinasyon sa Cebu ug isulat ang access notes imbes mosalig sa map pin.
+
+## Tagalog
+
+# Paano maghanda para sa delivery ng minimalist na cake sa Cebu
+
+Para sa delivery ng minimalist cake, ibigay ang buong address, pasukan ng building, oras ng pagtanggap, numero, at napagkasunduang delivery window. Hindi ibig sabihin na hindi maaapektuhan ng galaw o init ang cake dahil simple ang dekorasyon; itanong kung paano ito ihahatid at sino ang tatanggap.
+
+Maghanda ng patag na mesa o angkop na holding spot at magtalaga ng maglilipat nito sa display. Kumpirmahin ang coverage sa eksaktong destinasyon sa Cebu at isulat ang access notes sa halip na umasa sa map pin.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti ang plano sa pagpadala nga yano sama sa mubo nga cake
-
-Ipakigbahin ang kompleto nga destinasyon, gihangyo nga handoff nga bintana, ngalan sa tigdawat ug numero sa telepono, ug bisan unsang mga instruksyon sa building o gate. Pangutan-a ang panaderya kung magamit ba ang pagpadala sa lokasyon ug kumpirmahi ang bayad ug oras. Kung ang cake alang sa usa ka opisina o lugar, ipiho ang entrada diin ang tigdawat makigtagbo niini.
-
-Pakuhaa dayon ang usa ka tawo sa cake ug sunda ang mga instruksyon sa pagdumala para sa aktuwal nga produkto. Ang usa ka minimalist nga panagway wala magpadayag sa pagpuno o pagyelo. Ibutang ang lebel sa kahon, layo sa direkta nga adlaw, ug pangutan-a ang panaderya kung unsaon kini tipigan sa dili pa i-serve.
-
-Idugang ang kinatibuk-ang tambag sa handoff sa Cebu delivery guide ug link sa care page. Ayaw pagsaad og wala makumpirma nga ruta o oras sa pag-abot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing simple ang plano ng paghahatid gaya ng maikling cake
-
-Ibahagi ang kumpletong destinasyon, hiniling na handoff window, pangalan at numero ng telepono ng receiver, at anumang mga tagubilin sa gusali o gate. Tanungin ang panaderya kung available ang paghahatid sa lokasyon at kumpirmahin ang bayad at timing. Kung ang cake ay para sa isang opisina o venue, tukuyin ang pasukan kung saan ito sasalubungin ng receiver.
-
-Pakuhain kaagad ng isang tao ang cake at sundin ang mga tagubilin sa paghawak para sa aktwal na produkto. Ang isang minimalist na hitsura ay hindi nagpapakita ng pagpuno o pagyelo. Panatilihin ang antas ng kahon, malayo sa direktang araw, at tanungin ang panaderya kung paano ito dapat itabi bago ihain.
-
-Magdagdag ng pangkalahatang payo sa handoff sa gabay sa paghahatid sa Cebu at mag-link sa page ng pangangalaga. Huwag mangako ng hindi kumpirmadong ruta o oras ng pagdating.
+- Verify current menu, available finishes, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

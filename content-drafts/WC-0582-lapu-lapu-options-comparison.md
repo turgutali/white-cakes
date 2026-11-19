@@ -1,38 +1,45 @@
 ---
 id: WC-0582
-status: written-draft
-publish_action: merge into /journal/which-cake.html; confirm Lapu-Lapu delivery separately
-english_title: "How to compare options for cake for a Lapu-Lapu family celebration in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa selebrasyon sa pamilya sa Lapu-Lapu sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa pagdiriwang ng pamilya sa Lapu-Lapu sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/which-cake.html
+english_title: "How to Compare Cake Options for a Lapu-Lapu Family Event"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Cake para sa Family Event sa Lapu-Lapu"
+tagalog_title: "Paano Paghambingin ang mga Opsyon ng Cake para sa Lapu-Lapu Family Event"
 ---
 
-## Compare current cake options against the family’s serving plan
+## English
 
-Estimate the people who will share dessert and whether the cake follows a meal. Ask the bakery which current size and product suit that number, then confirm the expected portions. Compare decoration, flavour, and price for your requested date rather than assuming every product is available.
+# How to Compare Cake Options for a Lapu-Lapu Family Event
 
-If you need delivery in Lapu-Lapu, share the exact address and ask about route coverage, timing, and fees. A city name does not guarantee delivery to every subdivision, resort, or venue. Confirm the receiver’s phone number and entry instructions.
+Compare the options against the actual family plan: who will be present at serving time, what else is on the dessert table, where the cake will be displayed, and how it will reach the venue. A meal at home and a gathering at a resort may need different sizes or handoff arrangements.
 
-Update the existing product comparison page with verified options, then link to the size guide. Add Lapu-Lapu location details only when the bakery confirms them.
+Ask which flavours, sizes, and design methods are currently available for the date. Consider readability, transport, and display space in addition to appearance. Confirm that the bakery can serve the exact Lapu-Lapu address before comparing delivery-inclusive totals.
+
+Use written quotes with the same details—size, flavour, design, deposit, and delivery—to make a fair comparison. An older cake photo does not prove current availability. See the [which cake guide](/journal/which-cake.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Cake para sa Family Event sa Lapu-Lapu
+
+Itandi ang mga kapilian base sa tinuod nga plano sa pamilya: kinsa ang naa sa oras sa pag-serve, unsay laing dessert, asa ipakita ang cake ug unsaon pagdala niini sa venue. Lahi tingali ang gidak-on o handoff arrangement sa paniudto sa balay ug tapok sa resort.
+
+Pangutan-a unsang flavour, gidak-on ug pamaagi sa disenyo ang available karon sa petsa. Ikonsiderar ang pagkabasa, transportasyon ug display space, dugang sa hitsura. Kumpirmaha nga makaserbisyo ang panaderya sa tukmang address sa Lapu-Lapu sa dili pa itandi ang total nga apil ang delivery.
+
+Gamita ang sinulat nga quote nga parehas ang detalye—gidak-on, flavour, disenyo, deposit ug delivery—para patas ang pagtandi. Dili pamatuod sa kasamtangang availability ang daang litrato sa cake. Tan-awa ang [giya unsang cake ang pilion](/journal/which-cake.html).
+
+## Tagalog
+
+# Paano Paghambingin ang mga Opsyon ng Cake para sa Lapu-Lapu Family Event
+
+Ihambing ang mga opsyon ayon sa aktuwal na plano ng pamilya: sino ang naroroon sa oras ng paghahain, ano pa ang dessert, saan ididisplay ang cake, at paano ito dadalhin sa venue. Maaaring magkaiba ang sukat o handoff arrangement para sa kainan sa bahay at pagtitipon sa resort.
+
+Itanong kung aling flavour, sukat, at paraan ng design ang available ngayon sa petsa. Isaalang-alang ang pagiging nababasa, transportasyon, at display space bukod sa itsura. Kumpirmahin na masaserbisyuhan ng bakery ang eksaktong address sa Lapu-Lapu bago paghambingin ang kabuuang may delivery.
+
+Gumamit ng nakasulat na quote na pare-pareho ang detalye—sukat, flavour, design, deposito, at delivery—para patas ang paghahambing. Hindi patunay ng kasalukuyang availability ang lumang larawan ng cake. Tingnan ang [gabay kung aling cake ang pipiliin](/journal/which-cake.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang karon nga mga kapilian sa cake batok sa plano sa pagserbisyo sa pamilya
-
-Pagbanabana sa mga tawo nga mopaambit sa dessert ug kung ang cake nagsunod ba sa pagkaon. Pangutan-a ang panaderya kung unsang kasamtangang gidak-on ug produkto ang angay sa maong numero, dayon kumpirmahi ang gipaabot nga mga bahin. Itandi ang dekorasyon, lami, ug presyo alang sa imong gipangayo nga petsa imbes nga ang matag produkto anaa.
-
-Kung kinahanglan nimo nga ipadala sa Lapu-Lapu, ipaambit ang eksaktong adres ug pangutana bahin sa coverage sa ruta, oras, ug bayad. Ang ngalan sa siyudad dili garantiya sa paghatod sa matag subdivision, resort, o venue. Kumpirma ang numero sa telepono sa tigdawat ug mga instruksyon sa pagsulod.
-
-I-update ang kasamtangan nga panid sa pagtandi sa produkto nga adunay napamatud-an nga mga kapilian, dayon i-link sa giya sa gidak-on. Idugang lang ang mga detalye sa lokasyon sa Lapu-Lapu kung makumpirma na kini sa bakery.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing ang kasalukuyang mga pagpipilian sa cake laban sa plano ng paghahatid ng pamilya
-
-Tantyahin ang mga taong magbabahagi ng dessert at kung ang cake ay sumusunod sa pagkain. Tanungin ang panaderya kung aling laki at produkto ang nababagay sa numerong iyon, pagkatapos ay kumpirmahin ang mga inaasahang bahagi. Ihambing ang dekorasyon, lasa, at presyo para sa iyong hiniling na petsa sa halip na ipagpalagay na available ang bawat produkto.
-
-Kung kailangan mo ng paghahatid sa Lapu-Lapu, ibahagi ang eksaktong address at magtanong tungkol sa saklaw ng ruta, timing, at mga bayarin. Hindi ginagarantiya ng pangalan ng lungsod ang paghahatid sa bawat subdivision, resort, o venue. Kumpirmahin ang numero ng telepono ng tatanggap at mga tagubilin sa pagpasok.
-
-I-update ang kasalukuyang page ng paghahambing ng produkto gamit ang mga na-verify na opsyon, pagkatapos ay i-link sa gabay sa laki. Magdagdag lamang ng mga detalye ng lokasyon ng Lapu-Lapu kapag kinumpirma ito ng panaderya.
+- Confirm current Lapu-Lapu route coverage, venue access, and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,45 @@
 ---
 id: WC-0630
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html and /journal/cake-sizes-cebu.html
-english_title: "How to choose a design for cake for a large family gathering in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa malaking pagtitipon ng pamilya sa Cebu"
+english_title: "How to Choose a Cake Design for a Large Cebu Family Gathering"
+cebuano_title: "Giunsa Pagpili sa Disenyo sa Cake para sa Dakong Tapok sa Pamilya sa Cebu"
+tagalog_title: "Paano Pumili ng Design ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu"
 ---
 
-## Keep a large family cake design clear at table distance
+## English
 
-For a big family gathering, choose the cake size from the number of people who will eat cake, then shape the design around the available surface. A short message, a clear colour palette, and one main decorative detail are easier to see than many small elements. Send a reference photo and identify what matters most; White Cakes interprets custom requests in hand-piped buttercream and confirms what suits the selected size.
+# How to Choose a Cake Design for a Large Cebu Family Gathering
 
-The current serving guide estimates about 8–12 party slices from a 6-inch round, about 16–24 from an 8-inch round, and roughly 30–36 from a common 6-inch-plus-8-inch two-tier cake. These are planning ranges, not guaranteed counts. If there will be children, multiple desserts, or smaller slices after a meal, mention that when asking the bakery to recommend a format.
+For a large family event, design needs to work from a distance and still make sense up close. Choose a clear greeting or one visual idea that connects to the occasion. If relatives have different preferences, avoid combining every suggestion; agree on a main direction and let other details support it.
 
-Before confirming, send the date, size request, flavour, inscription, venue or delivery address, and who will receive the cake. The bakery asks for at least three days' notice and must confirm availability and final price. If the venue has an access gate or a designated cake table, provide the handover instructions early.
+Match the design to the size, display table, and serving plan. A longer inscription or larger decorative feature may need more cake surface. Tell the bakery whether the cake will be a centrepiece, photographed, or transported to a separate venue.
 
-This advice can extend the existing size and design guides. To publish a distinct large-family design case, add an approved photograph of a real White Cakes cake and explain a visible design choice; do not invent a past commission or use a generic product image as proof.
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Use references to explain the idea and ask how it can be adapted. Confirm the available size and final design before payment. See the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Disenyo sa Cake para sa Dakong Tapok sa Pamilya sa Cebu
+
+Para sa dakong family event, kinahanglan makita ang disenyo gikan sa layo ug masabtan gihapon sa duol. Pagpili og klarong greeting o usa ka biswal nga ideya nga konektado sa okasyon. Kon lain-lain ang gusto sa paryente, ayaw sagola ang tanang sugyot; pagkauyon sa pangunang direksiyon ug ipasuporta niini ang uban nga detalye.
+
+Ipares ang disenyo sa gidak-on, display table ug serving plan. Mahimong manginahanglan og mas dako nga surface ang taas nga inskripsiyon o dagkong dekorasyon. Sultihi ang panaderya kon centerpiece ba ang cake, kuhaan og litrato o dad-on sa laing venue.
+
+Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Gamita ang reference sa pagpasabot sa ideya ug pangutan-a unsaon pagpahiangay niini. Kumpirmaha ang available nga gidak-on ug final nga disenyo sa dili pa mobayad. Tan-awa ang [giya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Design ng Cake para sa Malaking Pagtitipon ng Pamilya sa Cebu
+
+Para sa malaking family event, kailangang makita mula sa malayo ang design at may saysay pa rin kapag malapitan. Pumili ng malinaw na pagbati o isang visual idea na konektado sa okasyon. Kung magkakaiba ang gusto ng mga kamag-anak, huwag pagsamahin ang lahat ng mungkahi; magkasundo sa pangunahing direksiyon at hayaang sumuporta rito ang ibang detalye.
+
+Itugma ang design sa sukat, display table, at serving plan. Maaaring mangailangan ng mas malaking ibabaw ang mahabang inscription o malaking dekorasyon. Sabihin sa bakery kung centerpiece ang cake, kukunan ng larawan, o dadalhin sa hiwalay na venue.
+
+Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Gamitin ang references para ipaliwanag ang ideya at itanong kung paano ito iaangkop. Kumpirmahin ang available na sukat at pinal na design bago magbayad. Tingnan ang [gabay sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itago ang usa ka dako nga disenyo sa cake sa pamilya nga tin-aw sa gilay-on sa lamesa
-
-Alang sa usa ka dako nga panagtapok sa pamilya, pilia ang gidak-on sa cake gikan sa gidaghanon sa mga tawo nga mokaon og cake, unya pormaha ang disenyo sa palibot sa anaa nga nawong. Ang usa ka mubo nga mensahe, usa ka tin-aw nga paleta sa kolor, ug usa ka panguna nga detalye sa dekorasyon mas dali makita kaysa daghang gagmay nga mga elemento. Pagpadala usa ka reperensya nga litrato ug ilha kung unsa ang labing hinungdanon; Gihubad sa White Cakes ang naandan nga mga hangyo sa hand-piped buttercream ug gikumpirma kung unsa ang angay sa gipili nga gidak-on.
-
-Ang kasamtangang giya sa pagserbisyo nagbanabana ug mga 8–12 ka party slices gikan sa 6-inch round, mga 16–24 gikan sa 8-inch round, ug halos 30–36 gikan sa komon nga 6-inch-plus-8-inch two-tier cake. Kini mga sakup sa pagplano, dili garantiya nga mga ihap. Kung adunay mga bata, daghang mga dessert, o gagmay nga mga hiwa pagkahuman sa pagpangaon, hisguti kana kung gihangyo ang panaderya nga magrekomenda sa usa ka pormat.
-
-Sa dili pa kumpirmahon, ipadala ang petsa, hangyo sa gidak-on, lami, inskripsiyon, lugar o adres sa pagpadala, ug kinsa ang makadawat sa cake. Nangayo ang panaderya og labing menos tulo ka adlaw nga pahibalo ug kinahanglang kumpirmahon ang pagkaanaa ug kataposang presyo. Kung ang venue adunay access gate o usa ka gitudlo nga lamesa sa cake, ihatag ang mga instruksyon sa handover sayo.
-
-Kini nga tambag makapalugway sa kasamtangan nga gidak-on ug mga giya sa disenyo. Aron mamantala ang usa ka lahi nga dako nga pamilya nga disenyo nga kaso, pagdugang usa ka aprobahan nga litrato sa usa ka tinuod nga White Cakes nga cake ug ipasabut ang usa ka makita nga kapilian sa disenyo; ayaw pag-imbento sa nangaging komisyon o paggamit og generic nga imahe sa produkto isip pruweba.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing malinaw ang malaking disenyo ng cake ng pamilya sa layo ng mesa
-
-Para sa isang malaking pagtitipon ng pamilya, piliin ang laki ng cake mula sa bilang ng mga taong kakain ng cake, pagkatapos ay hubugin ang disenyo sa paligid ng magagamit na ibabaw. Ang isang maikling mensahe, isang malinaw na paleta ng kulay, at isang pangunahing detalye ng dekorasyon ay mas madaling makita kaysa sa maraming maliliit na elemento. Magpadala ng reference na larawan at tukuyin kung ano ang pinakamahalaga; Binibigyang-kahulugan ng White Cakes ang mga custom na kahilingan sa hand-piped buttercream at kinukumpirma kung ano ang nababagay sa napiling laki.
-
-Ang kasalukuyang gabay sa paghahatid ay tinatantya ang tungkol sa 8–12 party slice mula sa isang 6-inch na round, mga 16–24 mula sa isang 8-inch na round, at humigit-kumulang 30–36 mula sa isang karaniwang 6-inch-plus-8-inch na two-tier na cake. Ito ay mga saklaw ng pagpaplano, hindi mga garantisadong bilang. Kung magkakaroon ng mga bata, maraming dessert, o mas maliliit na hiwa pagkatapos kumain, banggitin iyon kapag humihiling sa panaderya na magrekomenda ng format.
-
-Bago kumpirmahin, ipadala ang petsa, kahilingan sa laki, lasa, inskripsiyon, venue o address ng paghahatid, at kung sino ang tatanggap ng cake. Ang panaderya ay humihingi ng hindi bababa sa tatlong araw na paunawa at dapat kumpirmahin ang pagkakaroon at huling presyo. Kung ang venue ay may access gate o isang nakatalagang cake table, ibigay ang mga tagubilin sa handover nang maaga.
-
-Maaaring pahabain ng payong ito ang umiiral na mga gabay sa laki at disenyo. Upang mag-publish ng isang natatanging case ng malaking-pamilya na disenyo, magdagdag ng isang aprubadong larawan ng isang tunay na White Cakes cake at ipaliwanag ang isang nakikitang pagpipilian sa disenyo; huwag mag-imbento ng nakaraang komisyon o gumamit ng generic na larawan ng produkto bilang patunay.
+- Confirm current order, serving, and care guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0672
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; confirm route and product-specific care
-english_title: "How to prepare for delivery of chocolate cake in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa chocolate cake sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng chocolate cake sa Cebu"
+english_title: \"How to prepare for delivery of chocolate cake in Cebu\"
+cebuano_title: \"Giunsa pag-andam sa delivery sa chocolate cake sa Cebu\"
+tagalog_title: \"Paano maghanda para sa delivery ng chocolate cake sa Cebu\"
 ---
 
-## Share the destination and a reachable receiver before confirming delivery
+## English
 
-Provide the full address, requested handoff window, receiver’s name and mobile number, and any building or gate instructions. Ask whether the bakery can deliver to that location and confirm the fee and timing. Do not assume a chocolate cake has a different route or priority because of its flavour.
+# How to prepare for delivery of chocolate cake in Cebu
 
-Have someone receive it promptly, keep the box level, and follow the bakery’s instructions for the specific cake. If the event is outdoors or the cake will wait before serving, ask how it should be handled. The flavour name alone does not establish storage requirements.
+Plan the delivery handoff before ordering chocolate cake for an event. Provide the complete Cebu address, building and floor details, receiving hours, venue access rules, and a named contact whose phone will be reachable. Confirm that someone can accept the cake during the bakery’s delivery window.
 
-Keep logistics in the central delivery guide and product care in the heat guide. Confirm route coverage and handling advice directly.
+Ask the bakery how the specific cake should be transported and held. Keep the box level and away from direct sun or heat; arrange a suitable place at the venue and identify who will move it to the display table. Do not assume a map pin includes entry instructions.
+
+Delivery windows are not exact-minute appointments. Confirm service for the exact address and current delivery terms in writing. If the venue changes, get the bakery’s confirmation before treating the new drop-off point as arranged.
+
+## Cebuano
+
+# Giunsa pag-andam sa delivery sa chocolate cake sa Cebu
+
+Planoha ang pagdawat sa delivery sa dili pa mo-order og chocolate cake para sa event. Ihatag ang kompleto nga address sa Cebu, detalye sa building ug floor, oras sa pagdawat, lagda sa venue ug ngalan sa contact nga matubag sa telepono. Kumpirmaha nga adunay modawat sulod sa delivery window sa panaderya.
+
+Pangutan-a ang panaderya unsaon pagdala ug paghulat sa partikular nga cake. Ipatag ang kahon ug ipahilayo sa adlaw o kainit; pangandam og angay nga dapit sa venue ug pagtudlo kinsa ang mobalhin niini sa display table. Dili apil sa map pin ang tanang instruksyon sa pagsulod.
+
+Dili eksaktong-minuto nga appointment ang delivery window. Kumpirmaha sa sinulat ang serbisyo sa eksaktong address ug kasamtangang delivery terms. Kon mausab ang venue, pangayo sa panaderya og kumpirmasyon sa dili pa isipon nga na-arrange na ang bag-ong drop-off.
+
+## Tagalog
+
+# Paano maghanda para sa delivery ng chocolate cake sa Cebu
+
+Planuhin ang turnover ng delivery bago umorder ng chocolate cake para sa event. Ibigay ang buong address sa Cebu, detalye ng building at floor, oras ng pagtanggap, venue rules, at pangalan ng contact na masasagot sa telepono. Tiyaking may tatanggap sa loob ng delivery window ng bakery.
+
+Itanong sa bakery kung paano ihahatid at pansamantalang iingatan ang partikular na cake. Panatilihing pantay ang kahon at ilayo sa direktang araw o init; maghanda ng angkop na lugar sa venue at tukuyin kung sino ang maglilipat nito sa display table. Hindi ibinibigay ng map pin ang lahat ng entry instructions.
+
+Hindi appointment sa eksaktong minuto ang delivery window. Kumpirmahin sa sulat ang serbisyo para sa eksaktong address at kasalukuyang delivery terms. Kung magbago ang venue, hingin muna ang kumpirmasyon ng bakery bago ituring na nakaayos ang bagong drop-off point.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipaambit ang destinasyon ug usa ka maabot nga tigdawat sa dili pa kumpirmahon ang pagpadala
-
-Ihatag ang kompleto nga adres, gihangyo nga handoff window, ngalan sa tigdawat ug numero sa mobile, ug bisan unsang mga panudlo sa building o gate. Pangutan-a kon ang panaderya makadeliver ba sa maong lokasyon ug kumpirmahon ang bayronon ug timing. Ayaw isipa nga ang chocolate cake adunay lahi nga ruta o prayoridad tungod sa lami niini.
-
-Ipadawat dayon kini sa usa ka tawo, ipabilin ang lebel sa kahon, ug sunda ang mga instruksyon sa panaderya alang sa piho nga cake. Kon ang kalihokan anaa sa gawas o ang cake maghulat sa dili pa i-serve, pangutana kon unsaon kini pagdumala. Ang ngalan sa palami lamang wala magtukod sa mga kinahanglanon sa pagtipig.
-
-Itago ang logistik sa sentro nga giya sa pagpadala ug pag-atiman sa produkto sa giya sa kainit. Kumpirma ang pagsakop sa ruta ug direkta nga tambag sa pagdumala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ibahagi ang destinasyon at isang maaabot na receiver bago kumpirmahin ang paghahatid
-
-Ibigay ang buong address, hiniling na handoff window, pangalan ng tatanggap at numero ng mobile, at anumang mga tagubilin sa gusali o gate. Tanungin kung ang panaderya ay maaaring maghatid sa lokasyong iyon at kumpirmahin ang bayad at oras. Huwag ipagpalagay na ang chocolate cake ay may ibang ruta o priyoridad dahil sa lasa nito.
-
-Ipatanggap kaagad sa isang tao, panatilihin ang antas ng kahon, at sundin ang mga tagubilin ng panaderya para sa partikular na cake. Kung ang kaganapan ay nasa labas o ang cake ay maghihintay bago ihain, itanong kung paano ito dapat panghawakan. Ang pangalan ng lasa lamang ay hindi nagtatatag ng mga kinakailangan sa imbakan.
-
-Panatilihin ang logistik sa gitnang gabay sa paghahatid at pangangalaga ng produkto sa gabay sa init. Direktang kumpirmahin ang saklaw ng ruta at payo sa paghawak.
+- Verify current menu, availability, ordering terms, and delivery details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

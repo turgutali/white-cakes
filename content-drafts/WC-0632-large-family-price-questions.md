@@ -1,38 +1,45 @@
 ---
 id: WC-0632
-status: written-draft
-publish_action: merge into /journal/cake-prices-cebu.html; verify live menu and rates
-english_title: "What to ask about the price of cake for a large family gathering in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa dakong panagtigom sa pamilya sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa malaking pagtitipon ng pamilya sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-prices-cebu.html
+english_title: "What to Ask About the Price of a Cake for a Large Family Gathering"
+cebuano_title: "Unsa ang Pangutan-on Bahin sa Presyo sa Cake para sa Dakong Tapok sa Pamilya"
+tagalog_title: "Ano ang Itatanong Tungkol sa Presyo ng Cake para sa Malaking Pagtitipon ng Pamilya"
 ---
 
-## Ask for a quote that matches the guest count and serving style
+## English
 
-Tell the bakery how many people are likely to eat cake, whether other desserts are planned, and whether you want modest or party portions. Share the requested size, flavour, design, event date, and inscription. This lets the bakery quote the actual order rather than a generic starting price.
+# What to Ask About the Price of a Cake for a Large Family Gathering
 
-Ask what decoration is included and whether delivery to the family venue adds a fee. Confirm route coverage, full total, and deposit instructions in writing. Prices and options can change, so verify the live quote before paying rather than relying on an old post.
+A large cake quote depends on the size, design, flavour, inscription, and delivery setup. Send the bakery the event date, guest estimate, and full venue address, then ask it to confirm availability before comparing costs. A decorative two-tier request and a simpler round cake are not equivalent quote items.
 
-Keep current rates in the central price guide and link to the size page for portion estimates.
+Request a written total that explains custom decoration, delivery, deposit, and balance terms. White Cakes’ published guidance describes a 50% deposit after agreement on the final price and details; verify the current terms directly. If the budget is fixed, ask which size or design adjustment would best preserve the family’s priority.
+
+Compare complete quotes with the same serving need and delivery details. See the [Cebu cake price guide](/journal/cake-prices-cebu.html).
+
+## Cebuano
+
+# Unsa ang Pangutan-on Bahin sa Presyo sa Cake para sa Dakong Tapok sa Pamilya
+
+Nagdepende sa gidak-on, disenyo, flavour, inskripsiyon ug delivery setup ang quote sa dakong cake. Ipadala sa panaderya ang petsa sa event, banabana sa bisita ug kompleto nga address sa venue, dayon pangayo og kumpirmasyon sa availability sa dili pa itandi ang gasto. Dili parehas og quote item ang dekoratibong two-tier ug mas simple nga round cake.
+
+Pangayo og sinulat nga total nga nagpasabot sa custom decoration, delivery, deposit ug terms sa balanse. Naghulagway ang gipatik nga giya sa White Cakes og 50% nga deposit human magkasinabot sa final nga presyo ug detalye; kumpirmaha diretso ang kasamtangang terms. Kon pirmi ang budget, pangutan-a unsang gidak-on o kausaban sa disenyo ang labing makapabilin sa prayoridad sa pamilya.
+
+Itandi ang kompleto nga quote nga parehas og serving need ug delivery details. Tan-awa ang [giya sa presyo sa cake sa Cebu](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Ano ang Itatanong Tungkol sa Presyo ng Cake para sa Malaking Pagtitipon ng Pamilya
+
+Nakadepende sa sukat, design, flavour, inscription, at delivery setup ang quote para sa malaking cake. Ipadala sa bakery ang petsa ng event, tantiya ng bisita, at buong address ng venue, saka hilinging kumpirmahin ang availability bago maghambing ng gastos. Hindi magkapareho ang quote para sa dekoratibong two-tier at mas simpleng round cake.
+
+Humingi ng nakasulat na kabuuan na nagpapaliwanag sa custom decoration, delivery, deposito, at terms ng balanse. Inilalarawan ng inilathalang gabay ng White Cakes ang 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye; tiyakin nang direkta ang kasalukuyang terms. Kung nakapirmi ang budget, itanong kung anong sukat o pagbabago sa design ang pinakamakapananatili sa prayoridad ng pamilya.
+
+Paghambingin ang kumpletong quote na pareho ang serving need at delivery details. Tingnan ang [gabay sa presyo ng cake sa Cebu](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo og quote nga mohaum sa ihap sa bisita ug estilo sa pagserbisyo
-
-Sultihi ang panaderya kon pila ka tawo ang lagmit mokaon og cake, kon ang ubang mga dessert giplano ba, ug kon gusto nimo og kasarangan o party portion. Ipaambit ang gipangayo nga gidak-on, lami, disenyo, petsa sa panghitabo, ug inskripsiyon. Gitugotan niini ang panaderya nga mokutlo sa aktuwal nga order kaysa usa ka generic nga pagsugod nga presyo.
-
-Pangutan-a kung unsa nga dekorasyon ang gilakip ug kung ang paghatud sa lugar sa pamilya nagdugang bayad. Pagkumpirma sa coverage sa ruta, kinatibuk-ang kinatibuk-an, ug mga instruksyon sa pagdeposito sa pagsulat. Mahimong mabag-o ang mga presyo ug kapilian, busa susiha ang live quote sa dili pa magbayad kaysa magsalig sa usa ka karaan nga post.
-
-Ipadayon ang kasamtangan nga mga presyo sa sentro nga giya sa presyo ug i-link sa panid sa gidak-on alang sa mga banabana sa bahin.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humingi ng quote na tumutugma sa bilang ng bisita at istilo ng paghahatid
-
-Sabihin sa panaderya kung gaano karaming tao ang malamang na kumain ng cake, kung ang iba pang mga dessert ay binalak, at kung gusto mo ng katamtaman o party na mga bahagi. Ibahagi ang hiniling na laki, lasa, disenyo, petsa ng kaganapan, at inskripsyon. Nagbibigay-daan ito sa panaderya na i-quote ang aktwal na order sa halip na isang generic na panimulang presyo.
-
-Tanungin kung anong palamuti ang kasama at kung ang paghahatid sa lugar ng pamilya ay nagdaragdag ng bayad. Kumpirmahin ang saklaw ng ruta, buong kabuuan, at mga tagubilin sa deposito nang nakasulat. Maaaring magbago ang mga presyo at opsyon, kaya i-verify ang live na quote bago magbayad sa halip na umasa sa isang lumang post.
-
-Panatilihin ang mga kasalukuyang rate sa gitnang gabay sa presyo at i-link sa page ng laki para sa mga pagtatantya ng bahagi.
+- Confirm current order, serving, and care guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.
