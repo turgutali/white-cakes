@@ -1,44 +1,45 @@
 ---
 id: WC-0566
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /cake-delivery-mandaue/
-english_title: "What to confirm before paying a deposit for cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+english_title: "What to Confirm Before Paying a Deposit for a Mandaue Cake Order"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Cake Order sa Mandaue"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Mandaue Cake Order"
 ---
 
-## Confirm the order and Mandaue handover before the deposit
+## English
 
-Before paying, make sure the date, cake format, size, flavour, design, inscription, and price have all been confirmed by White Cakes. A 50% deposit confirms an agreed order; it should follow the bakery's availability reply and the quote for your actual design.
+# What to Confirm Before Paying a Deposit for a Mandaue Cake Order
 
-For a family celebration in Mandaue, share how many people will eat cake and use the current serving guide to choose a size. If delivery is requested, provide the full Mandaue address, landmark, receiver's mobile number, and subdivision or building access details. Ask for the delivery charge for that address and confirm the delivery window. Do not assume a driver can enter a gate or find a venue without instructions.
+Before paying, confirm the complete order and the delivery address. The written summary should show the date, size, flavour, design, exact inscription, final price, Mandaue address, receiver, and delivery window. Ask the bakery to confirm coverage for that specific location rather than relying on the city name alone.
 
-If the cake is for a home gathering, decide who will receive it and keep it out of direct sun and hot cars after delivery. Share any message spelling and custom design requirements before the order is final. If the cake needs to wait several hours, follow the bakery's buttercream-care guidance and refrigerate it.
+White Cakes’ published guidance describes a 50% deposit after agreement on the final price and details. Verify the current payment method, amount, and balance deadline directly with the bakery. If the address or event time changes, ask whether the arrangement can be updated and wait for confirmation.
 
-This checklist belongs in the common order guide with a link to the Mandaue delivery page for location details. A separate deposit article for each city would repeat the same payment rule without adding a distinct answer.
+Keep the payment record with the order summary, and make sure one person in the family approves changes. See the [Cebu cake order guide](/journal/how-to-order.html) and [Mandaue delivery page](/cake-delivery-mandaue/).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Cake Order sa Mandaue
+
+Sa dili pa mobayad, kumpirmaha ang kompleto nga order ug delivery address. Kinahanglan makita sa sinulat nga summary ang petsa, gidak-on, flavour, disenyo, eksaktong inskripsiyon, final nga presyo, address sa Mandaue, modawat ug delivery window. Pangayo sa panaderya og kumpirmasyon sa coverage sa tukmang lugar imbes mosalig sa ngalan sa siyudad lang.
+
+Naghulagway ang gipatik nga giya sa White Cakes og 50% nga deposit human magkasinabot sa final nga presyo ug detalye. Kumpirmaha diretso sa panaderya ang kasamtangang paagi ug kantidad sa bayad ug deadline sa balanse. Kon mausab ang address o oras sa event, pangutan-a kon mausab ba ang arrangement ug hulata ang kumpirmasyon.
+
+Tipigi nga magkauban ang record sa bayad ug order summary, ug siguroha nga usa ka tawo sa pamilya ang moapruba sa kausaban. Tan-awa ang [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html) ug [Mandaue delivery page](/cake-delivery-mandaue/).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Mandaue Cake Order
+
+Bago magbayad, kumpirmahin ang kumpletong order at delivery address. Dapat makita sa nakasulat na summary ang petsa, sukat, flavour, design, eksaktong inscription, pinal na presyo, address sa Mandaue, tatanggap, at delivery window. Hilinging kumpirmahin ng bakery ang coverage para sa partikular na lokasyon sa halip na umasa sa pangalan lang ng lungsod.
+
+Inilalarawan ng inilathalang gabay ng White Cakes ang 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye. Kumpirmahin nang direkta sa bakery ang kasalukuyang paraan at halaga ng bayad at deadline ng balanse. Kung magbago ang address o oras ng event, itanong kung maa-update ang arrangement at hintayin ang kumpirmasyon.
+
+Itabi nang magkasama ang payment record at order summary, at tiyaking isang tao sa pamilya ang mag-aapruba ng mga pagbabago. Tingnan ang [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html) at [Mandaue delivery page](/cake-delivery-mandaue/).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang order ug handover sa Mandaue sa dili pa ang deposito
-
-Sa dili pa mobayad, siguroha nga ang petsa, pormat sa cake, gidak-on, lami, disenyo, inskripsiyon, ug presyo kay nakumpirma na sa White Cakes. Ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order; kinahanglan nga mosunod kini sa tubag sa bakery ug ang kinutlo alang sa imong aktwal nga disenyo.
-
-Alang sa usa ka selebrasyon sa pamilya sa Mandaue, ipaambit kung pila ang mokaon sa cake ug gamita ang kasamtangan nga giya sa pagserbisyo aron makapili usa ka gidak-on. Kung gihangyo ang pagpadala, ihatag ang tibuuk nga adres sa Mandaue, landmark, numero sa mobile sa tigdawat, ug mga detalye sa pag-access sa subdivision o building. Pangayo alang sa bayad sa pagpadala alang sa kana nga adres ug kumpirmahi ang bintana sa pagpadala. Ayaw hunahunaa nga ang usa ka drayber makasulod sa usa ka ganghaan o makapangita usa ka lugar nga wala’y mga panudlo.
-
-Kung ang cake alang sa usa ka panagtapok sa balay, pagdesisyon kung kinsa ang makadawat niini ug itago kini gikan sa direkta nga adlaw ug init nga mga awto pagkahuman sa paghatud. Ipaambit ang bisan unsang mensahe sa spelling ug custom nga mga kinahanglanon sa disenyo sa dili pa matapos ang order. Kung ang cake kinahanglan nga maghulat daghang oras, sunda ang giya sa pag-atiman sa buttercream sa panaderya ug ibutang kini sa refrigerator.
-
-Kini nga checklist nahisakop sa common order guide nga adunay link sa Mandaue delivery page para sa mga detalye sa lokasyon. Ang usa ka lahi nga artikulo sa pagdeposito alang sa matag lungsod magbalikbalik sa parehas nga lagda sa pagbayad nga wala magdugang usa ka lahi nga tubag.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang order at Mandaue handover bago ang deposito
-
-Bago magbayad, siguraduhin na ang petsa, format ng cake, laki, lasa, disenyo, inskripsiyon, at presyo ay kinumpirma lahat ng White Cakes. Kinukumpirma ng 50% na deposito ang isang napagkasunduang order; dapat itong sundin ang sagot sa availability ng panaderya at ang quote para sa iyong aktwal na disenyo.
-
-Para sa isang pagdiriwang ng pamilya sa Mandaue, ibahagi kung ilang tao ang kakain ng cake at gamitin ang kasalukuyang gabay sa paghahatid upang pumili ng sukat. Kung hiniling ang paghahatid, ibigay ang buong Mandaue address, landmark, mobile number ng receiver, at mga detalye ng access sa subdivision o gusali. Hilingin ang singil sa paghahatid para sa address na iyon at kumpirmahin ang window ng paghahatid. Huwag ipagpalagay na ang isang driver ay maaaring pumasok sa isang gate o makahanap ng isang lugar na walang mga tagubilin.
-
-Kung ang cake ay para sa isang pagtitipon sa bahay, magpasya kung sino ang tatanggap nito at itago ito sa direktang araw at mainit na mga sasakyan pagkatapos ng paghahatid. Ibahagi ang anumang mga kinakailangan sa spelling ng mensahe at custom na disenyo bago maging pinal ang order. Kung kailangang maghintay ng ilang oras ang cake, sundin ang gabay sa pangangalaga ng buttercream ng panaderya at palamigin ito.
-
-Ang checklist na ito ay kabilang sa common order guide na may link sa page ng paghahatid ng Mandaue para sa mga detalye ng lokasyon. Uulitin ng isang hiwalay na artikulo ng deposito para sa bawat lungsod ang parehong tuntunin sa pagbabayad nang hindi nagdaragdag ng natatanging sagot.
+- Verify current Mandaue address coverage, service terms, and event details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

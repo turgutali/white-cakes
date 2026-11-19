@@ -1,38 +1,45 @@
 ---
 id: WC-0498
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html; verify holiday availability
-english_title: "How to estimate servings for Mother's Day cake in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa Mother's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html
+english_title: "How Much Cake to Order for Mother’s Day in Cebu"
+cebuano_title: "Pila ka Cake ang I-order para sa Mother’s Day sa Cebu"
+tagalog_title: "Gaano Karaming Cake ang O-orderin para sa Mother’s Day sa Cebu"
 ---
 
-## Count who will join the Mother’s Day meal and share dessert
+## English
 
-Estimate the number of people who will be present when cake is served, not everyone invited to the family gathering. Consider whether the meal includes other desserts and tell the bakery whether you want modest slices or party portions. Ask it to confirm which size suits the plan.
+# How Much Cake to Order for Mother’s Day in Cebu
 
-The current guide estimates 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and 30–36 from a 6+8-inch two-tier cake. These figures are approximate and should be checked with the bakery. Holiday product availability may vary.
+Start with the number of people expected to be present when dessert is served. The invitation count may differ from the actual group at the table. Decide whether cake is the only dessert and whether you expect modest slices after a meal or larger portions for a cake-centred gathering.
 
-Keep serving ranges in the central size guide and refresh Mother’s Day examples each year.
+White Cakes’ size guide gives approximate servings: about two generous or three modest servings after a meal for a 4-inch Bento; around 8–12 party slices from a 6-inch round; 16–24 from an 8-inch round; and 30–36 from a common 6+8-inch two-tier. The actual yield depends on height, design, and cutting.
+
+Share the serving context and venue setup with the bakery before choosing. If family members will arrive at different times, plan when the cake will be cut and whether portions should be set aside. Review the [Cebu cake size guide](/journal/cake-sizes-cebu.html) and confirm the final recommendation.
+
+## Cebuano
+
+# Pila ka Cake ang I-order para sa Mother’s Day sa Cebu
+
+Sugdi sa gidaghanon sa mga tawo nga gilaoman nga naa sa oras sa dessert. Mahimong lahi ang ihap sa imbitasyon kumpara sa aktuwal nga naa sa lamesa. Desisyoni kon cake ra ba ang dessert ug kon modest nga hiwa ba human mokaon o mas dagkong bahin para sa tapok nga cake ang sentro.
+
+Naghatag og banabana ang size guide sa White Cakes: mga duha ka generous o tulo ka modest nga servings human sa pagkaon para sa 4-inch Bento; mga 8–12 ka party slice sa 6-inch round; 16–24 sa 8-inch round; ug 30–36 sa kasagarang 6+8-inch two-tier. Magdepende ang tinuod nga yield sa kataas, disenyo ug paagi sa paghiwa.
+
+Ipaambit sa panaderya ang paagi sa pag-serve ug setup sa venue sa dili pa mopili. Kon lain-lain ang oras sa pag-abot sa pamilya, pagplano kanus-a hiwaon ang cake ug kon adunay bahin nga itagana. Susiha ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html) ug kumpirmaha ang final nga rekomendasyon.
+
+## Tagalog
+
+# Gaano Karaming Cake ang O-orderin para sa Mother’s Day sa Cebu
+
+Magsimula sa bilang ng mga taong inaasahang naroroon kapag oras na ng dessert. Maaaring magkaiba ang bilang ng inimbitahan at aktuwal na nasa mesa. Pagpasyahan kung cake lang ang dessert at kung modest na hiwa pagkatapos kumain o mas malaking portions para sa pagtitipong cake ang sentro ang kailangan.
+
+Nagbibigay ng tantiya ang size guide ng White Cakes: mga dalawang generous o tatlong modest na serving pagkatapos kumain para sa 4-inch Bento; mga 8–12 party slice mula sa 6-inch round; 16–24 mula sa 8-inch round; at 30–36 mula sa karaniwang 6+8-inch two-tier. Nakadepende ang aktuwal na yield sa taas, design, at paghiwa.
+
+Ibahagi sa bakery ang paraan ng paghahain at setup ng venue bago pumili. Kung magkakaiba ang oras ng dating ng pamilya, planuhin kung kailan hihiwaing ang cake at kung may servings na itatabi. Suriin ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) at kumpirmahin ang pinal na rekomendasyon.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-ihap kung kinsa ang moapil sa pagkaon sa Adlaw sa Inahan ug makigbahin sa dessert
-
-Pagbanabana sa gidaghanon sa mga tawo nga motambong sa diha nga ang cake nagsilbi, dili tanan nga gidapit sa panagtigum sa pamilya. Hunahunaa kung ang pagkaon naglakip sa ubang mga dessert ug sultihi ang panaderya kung gusto nimo ang kasarangan nga mga hiwa o mga bahin sa party. Pangutan-a kini aron makumpirma kung unsang gidak-on ang angay sa plano.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices gikan sa 6-pulgada nga cake, 16–24 gikan sa 8-pulgada nga cake, ug 30–36 gikan sa 6+8-pulgada nga two-tier nga cake. Kini nga mga numero gibanabana ug kinahanglan nga susihon sa panaderya. Ang pagkaanaa sa produkto sa holiday mahimong magkalainlain.
-
-Ipadayon ang mga han-ay sa pagserbisyo sa sentro nga giya sa gidak-on ug i-refresh ang mga ehemplo sa Mother's Day matag tuig.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bilangin kung sino ang sasali sa pagkain sa Araw ng mga Ina at makibahagi sa dessert
-
-Tantyahin ang bilang ng mga tao na naroroon kapag inihain ang cake, hindi lahat ay imbitado sa pagtitipon ng pamilya. Isaalang-alang kung ang pagkain ay may kasamang iba pang mga dessert at sabihin sa panaderya kung gusto mo ng katamtamang mga hiwa o mga bahagi ng party. Tanungin ito upang kumpirmahin kung aling sukat ang nababagay sa plano.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice mula sa isang 6-inch na cake, 16–24 mula sa isang 8-inch na cake, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga figure na ito ay tinatayang at dapat suriin sa panaderya. Maaaring mag-iba ang availability ng produkto sa holiday.
-
-Panatilihin ang mga hanay ng paghahatid sa gitnang gabay sa laki at i-refresh ang mga halimbawa ng Araw ng mga Ina bawat taon.
+- Recheck current seasonal availability and cake-specific service guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

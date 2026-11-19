@@ -1,38 +1,45 @@
 ---
 id: WC-0486
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html; keep surprise details private
-english_title: "Which reference photos help when ordering Valentine's cake in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa Valentine's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
+english_title: "Which Reference Photos Help with a Valentine’s Cake Order"
+cebuano_title: "Unsang Reference Photo ang Makatabang sa Valentine’s Cake Order"
+tagalog_title: "Aling Reference Photo ang Makatutulong sa Valentine’s Cake Order"
 ---
 
-## Share one clear visual idea without exposing a private surprise
+## English
 
-Choose a reference that shows the overall look or one specific detail, such as colour, lettering, or a flower. Tell the bakery what should be adapted and which elements are flexible. If the cake is a surprise, send the photo privately and avoid group messages the recipient may see.
+# Which Reference Photos Help with a Valentine’s Cake Order
 
-Include the date, size, flavour, guest estimate, exact inscription, and delivery or pickup plan. Choose one organizer who can approve the design and receive the order. Ask whether the requested look is available for the date and confirm the price in writing.
+Choose references that answer a specific question. One image might show the colour palette, another the lettering style, and a third the amount of floral detail. Add a short note to each image that says what you like; otherwise the bakery has to guess which parts are important.
 
-Add this checklist to the custom brief guide and link to surprise order advice. Any case study should use a real, permission-cleared reference-to-finished example.
+Send a small, coherent set rather than a collage of unrelated cakes. Include a full-cake view if proportions matter and a close-up if a texture or border is the priority. State what can be changed to fit the cake size, budget, or current production method.
+
+A reference does not guarantee exact duplication or current seasonal availability. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm the final interpretation, inscription, and price before production. For a reusable checklist, see the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang Reference Photo ang Makatabang sa Valentine’s Cake Order
+
+Pagpili og reference nga motubag sa partikular nga pangutana. Mahimong ipakita sa usa ka litrato ang kombinasyon sa kolor, sa lain ang estilo sa letra, ug sa ikatulo ang kadaghan sa detalye sa bulak. Butangi og mubo nga nota ang matag hulagway kon unsay ganahan nimo; kon dili, manghula ang panaderya sa importante nga bahin.
+
+Magpadala og gamay ug magkahiuyon nga koleksiyon imbes collage sa dili magkaparehas nga cake. Iapil ang hulagway sa tibuok cake kon importante ang proporsiyon ug close-up kon texture o border ang prayoridad. Isulti unsay mahimong usbon aron mohaum sa gidak-on, budget o kasamtangang paagi sa paghimo.
+
+Dili garantiya sa eksaktong pagkopya o seasonal availability ang reference. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha ang kataposang interpretasyon, inskripsiyon ug presyo sa dili pa sugdan. Tan-awa ang [giya sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling Reference Photo ang Makatutulong sa Valentine’s Cake Order
+
+Pumili ng reference na sumasagot sa partikular na tanong. Maaaring ipakita ng isang larawan ang palette ng kulay, ng isa ang estilo ng lettering, at ng ikatlo ang dami ng floral detail. Lagyan ng maikling tala ang bawat larawan tungkol sa gusto mo; kung wala nito, manghuhula ang bakery kung aling bahagi ang mahalaga.
+
+Magpadala ng maliit at magkakaugnay na set sa halip na collage ng magkakaibang cake. Isama ang buong larawan kung mahalaga ang proporsyon at close-up kung texture o border ang prayoridad. Sabihin kung ano ang maaaring baguhin para umayon sa sukat, budget, o kasalukuyang paraan ng paggawa.
+
+Hindi garantiya ng eksaktong pagkopya o kasalukuyang seasonal availability ang reference. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin ang pinal na interpretasyon, inscription, at presyo bago simulan. Tingnan ang [gabay sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipaambit ang usa ka tin-aw nga biswal nga ideya nga dili ibutyag ang usa ka pribado nga sorpresa
-
-Pagpili og reference nga nagpakita sa kinatibuk-ang hitsura o usa ka piho nga detalye, sama sa kolor, letra, o bulak. Sultihi ang panaderya kung unsa ang angay nga ipahiangay ug kung unsang mga elemento ang flexible. Kung ang cake usa ka sorpresa, ipadala ang litrato nga pribado ug likayi ang mga mensahe sa grupo nga makita sa nakadawat.
-
-Ilakip ang petsa, gidak-on, lami, banabana sa bisita, eksaktong inskripsiyon, ug plano sa pagpadala o pagkuha. Pagpili og usa ka organizer nga makaaprobar sa disenyo ug makadawat sa order. Pangutan-a kung ang gihangyo nga hitsura magamit alang sa petsa ug kumpirmahi ang presyo pinaagi sa pagsulat.
-
-Idugang kini nga checklist sa custom nga mubu nga giya ug link sa surprise order advice. Ang bisan unsang case study kinahanglang mogamit ug tinuod, giklaro sa pagtugot nga reference-to-finished nga pananglitan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magbahagi ng isang malinaw na visual na ideya nang hindi naglalantad ng pribadong sorpresa
-
-Pumili ng reference na nagpapakita ng pangkalahatang hitsura o isang partikular na detalye, gaya ng kulay, letra, o bulaklak. Sabihin sa panaderya kung ano ang dapat iakma at kung aling mga elemento ang nababaluktot. Kung ang cake ay isang sorpresa, ipadala ang larawan nang pribado at iwasan ang mga panggrupong mensahe na maaaring makita ng tatanggap.
-
-Isama ang petsa, laki, lasa, pagtatantya ng bisita, eksaktong inskripsiyon, at plano sa paghahatid o pagkuha. Pumili ng isang organizer na maaaring mag-apruba ng disenyo at tumanggap ng order. Tanungin kung ang hiniling na hitsura ay magagamit para sa petsa at kumpirmahin ang presyo sa pamamagitan ng pagsulat.
-
-Idagdag ang checklist na ito sa custom na maikling gabay at link sa payo sa sorpresang order. Ang anumang pag-aaral ng kaso ay dapat gumamit ng isang tunay, na-clear na pahintulot na sanggunian-sa-tapos na halimbawa.
+- Confirm current event-specific availability and terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

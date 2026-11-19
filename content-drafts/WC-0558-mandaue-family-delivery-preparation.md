@@ -1,44 +1,45 @@
 ---
 id: WC-0558
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to prepare for delivery of cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+english_title: "How to Prepare for Cake Delivery to a Mandaue Family Event"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Cake para sa Family Event sa Mandaue"
+tagalog_title: "Paano Maghanda para sa Delivery ng Cake sa Mandaue Family Event"
 ---
 
-## Prepare a Mandaue home or venue to receive the cake
+## English
 
-Choose a family member who can receive the cake and move it to a stable place. Send White Cakes the full Mandaue address, landmark, local mobile number, and any gate or building instructions. Confirm the delivery window and address-based fee for the exact location.
+# How to Prepare for Cake Delivery to a Mandaue Family Event
 
-If the gathering is at a home, make sure the driver can identify the entrance. If it is at a venue, tell the receiver where to meet the driver and where the cake should go. Do not leave it unattended at a gate or lobby. Keep the box away from direct sunlight and heat; follow the bakery's care advice if serving will be delayed.
+Provide the full delivery address, a reachable receiver, and the time the cake will be served. For a subdivision, apartment, or event venue, add the correct entrance, building or house number, and current access instructions. Confirm that the bakery covers the exact location rather than relying on “Mandaue” alone.
 
-Include the event date, size, flavour, design, inscription, and serving estimate in the order. Confirm availability and the final quote. White Cakes requires at least three days' notice, and a 50% deposit confirms the agreed order.
+White Cakes confirms a delivery window rather than an exact minute. Arrange for the receiver to stay available throughout that window and keep a backup contact in case the host is busy. If the event is at a relative’s home, make sure the person receiving the cake knows where it should be placed.
 
-Keep general logistics in the central delivery guide. Add Mandaue-specific route details only when they are verified from actual service.
+After handoff, follow the bakery’s storage advice. If the venue, receiver, or event time changes, update the bakery and wait for confirmation. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Cake para sa Family Event sa Mandaue
+
+Ihatag ang kompleto nga delivery address, ma-contact nga modawat ug oras sa pag-serve sa cake. Para sa subdivision, apartment o venue, iapil ang hustong entrance, numero sa building o balay ug kasamtangang instruksyon sa access. Kumpirmaha nga maabot sa panaderya ang tukmang lugar imbes magsalig sa “Mandaue” lang.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Siguroha nga available ang modawat sa tibuok window ug paghatag og backup contact kon busy ang host. Kon sa balay sa paryente ang event, siguroha nga nahibalo ang modawat asa ibutang ang cake.
+
+Human sa handoff, sunda ang tambag sa panaderya sa pagtipig. Kon mausab ang venue, modawat o oras sa event, i-update ang panaderya ug hulata ang kumpirmasyon. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Cake sa Mandaue Family Event
+
+Ibigay ang buong delivery address, naaabot na tatanggap, at oras ng paghahain ng cake. Para sa subdivision, apartment, o venue, isama ang tamang entrance, numero ng building o bahay, at kasalukuyang tagubilin sa access. Kumpirmahin na nasasaklaw ng bakery ang eksaktong lokasyon sa halip na “Mandaue” lang ang ibigay.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Tiyaking available ang tatanggap sa buong window at magbigay ng backup contact kung abala ang host. Kung bahay ng kamag-anak ang event, tiyaking alam ng tatanggap kung saan ilalagay ang cake.
+
+Pagkatapos ng handoff, sundin ang payo ng bakery sa pag-iimbak. Kung magbago ang venue, tatanggap, o oras ng event, i-update ang bakery at hintayin ang kumpirmasyon. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-andam ug balay o venue sa Mandaue aron makadawat sa cake
-
-Pagpili og sakop sa pamilya nga makadawat sa cake ug ibalhin kini sa usa ka stable nga dapit. Ipadala ang White Cakes sa tibuok Mandaue address, landmark, lokal nga mobile number, ug bisan unsang gate o building instructions. Kumpirma ang delivery window ug address-based fee para sa eksaktong lokasyon.
-
-Kung ang panagtapok anaa sa usa ka balay, siguroha nga ang drayber makaila sa agianan. Kung naa kini sa usa ka lugar, sultihi ang tigdawat kung asa makigkita sa drayber ug kung asa moadto ang cake. Ayaw kini ibilin nga wala mabantayi sa usa ka ganghaan o lobby. Ipahilayo ang kahon gikan sa direktang kahayag sa adlaw ug init; sunda ang tambag sa pag-atiman sa panaderya kung malangan ang pagserbisyo.
-
-Ilakip ang petsa sa panghitabo, gidak-on, lami, disenyo, inskripsiyon, ug banabana sa pagserbisyo sa han-ay. Kumpirma ang pagkaanaa ug ang katapusang kinutlo. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang kinatibuk-ang logistik sa sentral nga giya sa pagpadala. Idugang lang ang mga detalye sa ruta sa Mandaue kung na-verify na kini gikan sa aktwal nga serbisyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Maghanda ng tahanan o lugar sa Mandaue para tanggapin ang cake
-
-Pumili ng isang miyembro ng pamilya na maaaring tumanggap ng cake at ilipat ito sa isang matatag na lugar. Ipadala sa White Cakes ang buong Mandaue address, landmark, lokal na numero ng mobile, at anumang mga tagubilin sa gate o gusali. Kumpirmahin ang delivery window at bayad na nakabatay sa address para sa eksaktong lokasyon.
-
-Kung ang pagtitipon ay sa isang bahay, tiyaking matutukoy ng driver ang pasukan. Kung ito ay nasa isang venue, sabihin sa receiver kung saan makikilala ang driver at kung saan dapat pumunta ang cake. Huwag iwanan itong walang bantay sa isang gate o lobby. Ilayo ang kahon sa direktang sikat ng araw at init; sundin ang payo sa pangangalaga ng panaderya kung maaantala ang paghahatid.
-
-Isama ang petsa ng kaganapan, laki, lasa, disenyo, inskripsiyon, at pagtatantya ng paghahatid sa pagkakasunud-sunod. Kumpirmahin ang availability at ang huling quote. Nangangailangan ang White Cake ng hindi bababa sa tatlong araw na paunawa, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order.
-
-Panatilihin ang pangkalahatang logistik sa gitnang gabay sa paghahatid. Magdagdag lamang ng mga detalye ng rutang partikular sa Mandaue kapag na-verify ang mga ito mula sa aktwal na serbisyo.
+- Confirm current Mandaue address coverage and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

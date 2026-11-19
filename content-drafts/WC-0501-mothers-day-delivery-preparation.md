@@ -1,38 +1,45 @@
 ---
 id: WC-0501
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html; verify coverage and current care guidance
-english_title: "How to prepare for delivery of Mother's Day cake in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa Mother's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html
+english_title: "How to Prepare for Mother’s Day Cake Delivery in Cebu"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Mother’s Day Cake sa Cebu"
+tagalog_title: "Paano Maghanda para sa Delivery ng Mother’s Day Cake sa Cebu"
 ---
 
-## Coordinate a clear handoff for the family meal or surprise
+## English
 
-Give the bakery the exact address, event date, preferred handoff window, receiving person’s name and phone number, and any gate or building instructions. Ask whether delivery is available for the location and confirm the fee and timing. For a surprise, specify a coordinator contact who will not reveal the order to the recipient.
+# How to Prepare for Mother’s Day Cake Delivery in Cebu
 
-Have someone ready to receive the cake and follow the bakery’s instructions for storing that specific design. If the family meal is outdoors or the cake will arrive early, mention this when asking about care. Keep the box level and out of direct sun while it waits.
+Give the bakery the complete address and a receiver’s active phone number. For a condominium, restaurant, or gated home, include the entrance, building, floor, meeting point, and any current instructions for access. Ask the venue whether it can accept an outside cake and where it should wait before serving.
 
-Add the seasonal example to the central delivery and care guides. Confirm routes and holiday schedules before publishing a specific promise.
+White Cakes confirms a delivery window rather than an exact minute. Choose a receiver who can remain available during the whole window, and keep the event schedule flexible. If the cake is a surprise, tell the bakery which family member can receive calls and what details should stay private.
+
+When the cake arrives, place it on a level surface and follow the storage guidance given for that order. If the venue or delivery address changes, contact the bakery and wait for confirmation. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) for the regular handoff checklist.
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Mother’s Day Cake sa Cebu
+
+Ihatag sa panaderya ang kompleto nga address ug aktibong numero sa modawat. Para sa condo, restaurant o balay nga adunay gate, iapil ang entrance, building, floor, meeting point ug kasamtangang instruksyon sa access. Pangutan-a ang venue kon modawat ba kini og cake gikan sa gawas ug asa kini maghulat sa dili pa i-serve.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Pagpili og modawat nga available sa tibuok window ug flexible ang iskedyul sa event. Kon surprise ang cake, isulti sa panaderya kinsang sakop sa pamilya ang makadawat sa tawag ug unsang detalye ang sekreto.
+
+Sa pag-abot sa cake, ibutang kini sa patag nga lugar ug sunda ang instruksyon sa pagtipig para sa order. Kon mausab ang venue o delivery address, kontaka ang panaderya ug hulata ang kumpirmasyon. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Mother’s Day Cake sa Cebu
+
+Ibigay sa bakery ang buong address at aktibong numero ng tatanggap. Para sa condo, restaurant, o gated na bahay, isama ang entrance, building, floor, meeting point, at kasalukuyang tagubilin sa access. Tanungin ang venue kung tatanggap ito ng dalang cake at saan ito dapat maghintay bago ihain.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Pumili ng tatanggap na available sa buong window at panatilihing flexible ang iskedyul ng event. Kung sorpresa ang cake, sabihin sa bakery kung aling kapamilya ang maaaring tawagan at kung anong detalye ang dapat manatiling pribado.
+
+Pagdating ng cake, ilagay ito sa patag na lugar at sundin ang tagubilin sa pag-iimbak para sa order. Kung magbago ang venue o delivery address, kontakin ang bakery at hintayin ang kumpirmasyon. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-coordinate og klaro nga handoff para sa panihapon sa pamilya o surpresa
-
-Ihatag sa panaderya ang eksaktong adres, petsa sa panghitabo, gusto nga handoff window, pagdawat sa ngalan ug numero sa telepono sa tawo, ug bisan unsang gate o instruksyon sa building. Pangutan-a kung magamit ba ang pagpadala alang sa lokasyon ug kumpirmahi ang bayad ug oras. Alang sa usa ka surpresa, ipiho ang usa ka kontak sa coordinator nga dili ipadayag ang order sa nakadawat.
-
-Pag-andam og usa ka tawo sa pagdawat sa cake ug pagsunod sa mga instruksyon sa panaderya alang sa pagtipig nianang piho nga disenyo. Kung ang panihapon sa pamilya naa sa gawas o ang cake moabut og sayo, hisguti kini kung mangutana bahin sa pag-atiman. Hupti ang lebel sa kahon ug dili direkta nga adlaw samtang kini naghulat.
-
-Idugang ang seasonal nga pananglitan sa sentral nga paghatud ug mga giya sa pag-atiman. Kumpirma ang mga ruta ug mga iskedyul sa holiday sa dili pa imantala ang usa ka piho nga saad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-coordinate ng malinaw na handoff para sa pagkain ng pamilya o sorpresa
-
-Ibigay sa panaderya ang eksaktong address, petsa ng kaganapan, gustong handoff window, pagtanggap ng pangalan at numero ng telepono ng tao, at anumang mga tagubilin sa gate o gusali. Tanungin kung available ang paghahatid para sa lokasyon at kumpirmahin ang bayad at timing. Para sa isang sorpresa, tukuyin ang contact ng coordinator na hindi magbubunyag ng order sa tatanggap.
-
-Maghanda ng isang tao na tumanggap ng cake at sundin ang mga tagubilin ng panaderya para sa pag-iimbak ng partikular na disenyo. Kung ang pagkain ng pamilya ay nasa labas o ang cake ay darating nang maaga, banggitin ito kapag nagtatanong tungkol sa pangangalaga. Panatilihin ang antas ng kahon at malayo sa direktang araw habang naghihintay ito.
-
-Idagdag ang pana-panahong halimbawa sa gitnang mga gabay sa paghahatid at pangangalaga. Kumpirmahin ang mga ruta at iskedyul ng holiday bago mag-publish ng isang partikular na pangako.
+- Recheck current seasonal availability and cake-specific service guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

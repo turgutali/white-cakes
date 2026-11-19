@@ -1,38 +1,45 @@
 ---
 id: WC-0555
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to estimate servings for cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+english_title: "How to Estimate Cake Servings for a Mandaue Family Event"
+cebuano_title: "Giunsa Pagbanabana sa Servings sa Cake para sa Family Event sa Mandaue"
+tagalog_title: "Paano Tantiyahin ang Serving ng Cake para sa Mandaue Family Event"
 ---
 
-## Count the people who will eat cake and choose the slice size
+## English
 
-For a family event in Mandaue, estimate the number of guests who will still be present at dessert time. Tell the bakery if the cake follows a full meal and whether other desserts are served. These details help distinguish modest portions from larger party slices and make a size recommendation more useful.
+# How to Estimate Cake Servings for a Mandaue Family Event
 
-The current guide lists about 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and 30–36 from a 6+8-inch two-tier cake. These are approximate. Ask the bakery to confirm the expected servings and current options for your event date.
+Estimate servings from the people likely to be present when the cake is cut, not from the full family group chat. Include children and relatives arriving later only if they will share a portion. Decide whether dessert follows a meal and whether guests prefer modest or larger slices.
 
-Put the verified serving ranges in one central size guide. Link it from Mandaue service information only if the business confirms delivery coverage and the route details are current.
+The site’s size guide gives approximate references: a 4-inch Bento has about two generous or three modest servings after a meal; a 6-inch round about 8–12 party slices; an 8-inch round about 16–24; and a common 6+8-inch two-tier about 30–36. Design, height, and cutting affect the actual portions.
+
+Tell the bakery the expected count and serving style, then ask which current size fits. Do not rely on a serving chart alone for a custom-shaped cake. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagbanabana sa Servings sa Cake para sa Family Event sa Mandaue
+
+Ibanabana ang servings base sa mga gilaoman nga naa sa oras nga hiwaon ang cake, dili sa tibuok family group chat. Iapil ang mga bata ug paryente nga ulahi moabot kon mopaambit sila og bahin. Desisyoni kon human ba sa pagkaon ang dessert ug modest ba o dagkong hiwa ang gusto sa mga bisita.
+
+Naghatag og banabana ang size guide sa site: ang 4-inch Bento adunay mga duha ka generous o tulo ka modest nga servings human mokaon; ang 6-inch round mga 8–12 ka party slice; ang 8-inch round mga 16–24; ug ang kasagarang 6+8-inch two-tier mga 30–36. Makaapekto sa tinuod nga portions ang disenyo, kataas ug paghiwa.
+
+Isulti sa panaderya ang gilaoman nga ihap ug paagi sa pag-serve, unya pangutan-a unsang kasamtangang gidak-on ang angay. Ayaw mosalig sa serving chart lang para sa custom nga porma sa cake. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Tantiyahin ang Serving ng Cake para sa Mandaue Family Event
+
+Tantiyahin ang servings batay sa mga inaasahang naroroon kapag hihiwaing ang cake, hindi sa buong family group chat. Isama lang ang mga bata at kamag-anak na darating nang huli kung magsasalo sila ng portion. Pagpasyahan kung pagkatapos ng kainan ang dessert at kung modest o mas malaking hiwa ang gusto ng mga bisita.
+
+Nagbibigay ng tantiya ang size guide ng site: may mga dalawang generous o tatlong modest na serving pagkatapos kumain ang 4-inch Bento; mga 8–12 party slice ang 6-inch round; mga 16–24 ang 8-inch round; at mga 30–36 ang karaniwang 6+8-inch two-tier. Nakaaapekto sa aktuwal na portions ang design, taas, at paghiwa.
+
+Sabihin sa bakery ang inaasahang bilang at paraan ng paghahain, saka itanong kung aling kasalukuyang sukat ang babagay. Huwag umasa sa serving chart lang para sa custom na hugis ng cake. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipha ang mga tawo nga mokaon sa cake ug pilia ang gidak-on sa slice
-
-Alang sa usa ka family event sa Mandaue, banabanaa ang gidaghanon sa mga bisita nga anaa pa sa oras sa dessert. Sultihi ang panaderya kung ang cake nagsunod sa usa ka bug-os nga pagkaon ug kung ang ubang mga dessert gisilbi. Kini nga mga detalye makatabang sa pag-ila sa kasarangan nga mga bahin gikan sa dagkong mga hiwa sa partido ug paghimo sa rekomendasyon sa gidak-on nga mas mapuslanon.
-
-Ang kasamtangan nga giya naglista sa mga 8–12 ka party slices gikan sa 6-pulgada nga cake, 16–24 gikan sa 8-pulgada nga cake, ug 30–36 gikan sa 6+8-pulgada nga two-tier nga cake. Kini mga banabana. Hangyoa ang panaderya sa pagkumpirma sa gipaabot nga mga servings ug kasamtangan nga mga kapilian alang sa imong petsa sa panghitabo.
-
-Ibutang ang gipamatud-an nga mga han-ay sa pagserbisyo sa usa ka sentro nga giya sa gidak-on. I-link kini gikan sa impormasyon sa serbisyo sa Mandaue kung gikumpirma sa negosyo ang coverage sa pagpadala ug ang mga detalye sa ruta bag-o.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bilangin ang mga taong kakain ng cake at piliin ang laki ng slice
-
-Para sa isang family event sa Mandaue, tantyahin ang bilang ng mga bisita na dadalo pa rin sa oras ng dessert. Sabihin sa panaderya kung ang cake ay sumusunod sa isang buong pagkain at kung ang iba pang mga dessert ay inihahain. Nakakatulong ang mga detalyeng ito na makilala ang mga katamtamang bahagi mula sa mas malalaking party slice at gawing mas kapaki-pakinabang ang rekomendasyon sa laki.
-
-Ang kasalukuyang gabay ay naglilista ng mga 8–12 party slice mula sa isang 6-inch na cake, 16–24 mula sa isang 8-inch na cake, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga ito ay tinatayang. Hilingin sa panaderya na kumpirmahin ang inaasahang mga serving at kasalukuyang opsyon para sa petsa ng iyong kaganapan.
-
-Ilagay ang mga na-verify na hanay ng paghahatid sa isang gabay sa gitnang sukat. I-link ito mula sa impormasyon ng serbisyo ng Mandaue kung kinumpirma ng negosyo ang saklaw ng paghahatid at ang mga detalye ng ruta ay napapanahon.
+- Confirm current Mandaue address coverage and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

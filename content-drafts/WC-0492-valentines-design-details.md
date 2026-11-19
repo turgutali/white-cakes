@@ -1,38 +1,45 @@
 ---
 id: WC-0492
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; distinct portfolio entry requires actual approved image
-english_title: "Design details to consider for Valentine's cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Valentine's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "Design Details to Settle Before Ordering a Valentine’s Cake"
+cebuano_title: "Mga Detalye sa Disenyo nga Klarohon sa Dili pa Mag-order og Valentine’s Cake"
+tagalog_title: "Mga Detalye ng Design na Dapat Linawin Bago Mag-order ng Valentine’s Cake"
 ---
 
-## Choose a visual detail that suits the recipient and the message
+## English
 
-Before selecting colours or decorations, decide what the cake should say to the recipient. A short message, favourite flower, or shared reference can make the design personal. Pick one main visual direction and explain it with a reference image; too many unrelated inspirations make it harder to know what matters most.
+# Design Details to Settle Before Ordering a Valentine’s Cake
 
-Confirm the wording, size, flavour, date, and delivery plan separately. Ask the bakery which parts of the reference can be adapted to the requested cake and whether the lettering will remain readable. Get a current quote and availability confirmation before placing the deposit.
+Settle the design by ranking the decisions: cake shape and size, colour direction, main decoration, and inscription. Choose which one or two details are essential and where the baker can adapt. This is especially helpful when the surface is small or the brief combines several reference styles.
 
-Add the practical design advice to the existing Cebu design guide. Use a separate Valentine’s case only if original photos show a real, distinctive cake and the customer has approved publication.
+Consider readability, not just appearance. A long message may compete with flowers or other decoration; a short line may need a clear, open area. Think about where the cake will be displayed and whether a tall or delicate detail could be affected during delivery.
+
+Send the exact wording and references together, then ask what is feasible with the bakery’s current methods. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm the final design and quote before payment. See [cake design guidance for Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo nga Klarohon sa Dili pa Mag-order og Valentine’s Cake
+
+Klaroha ang disenyo pinaagi sa paghan-ay sa mga desisyon: porma ug gidak-on sa cake, direksiyon sa kolor, pangunang dekorasyon ug inskripsiyon. Pili-a ang usa o duha ka detalye nga kinahanglan mapabilin ug asa mahimong ipasibo sa baker. Makatabang kini kon gamay ang ibabaw o naghiusa ang brief og daghang estilo sa reference.
+
+Hunahunaa ang pagkabasa, dili lang ang hitsura. Mahimong mag-ilog sa luna ang taas nga mensahe ug dekorasyon sa bulak; ang mubo nga linya nanginahanglan og klarong open area. Hunahunaa asa ibutang ang cake ug kon maapektuhan ba sa delivery ang taas o delikadong detalye.
+
+Ipadala nga dungan ang eksaktong wording ug reference, dayon pangutan-a unsay mahimo gamit ang kasamtangang paagi sa panaderya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha ang final nga disenyo ug quote sa dili pa mobayad. Tan-awa ang [giya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Design na Dapat Linawin Bago Mag-order ng Valentine’s Cake
+
+Linawin ang design sa pamamagitan ng pag-ayos ng mga desisyon: hugis at sukat ng cake, direksiyon ng kulay, pangunahing dekorasyon, at inscription. Piliin kung aling isa o dalawang detalye ang kailangang mapanatili at kung saan maaaring mag-adjust ang baker. Nakakatulong ito kapag maliit ang ibabaw o pinagsasama ng brief ang ilang estilo ng reference.
+
+Isaalang-alang ang pagiging nababasa, hindi lang ang itsura. Maaaring mag-agawan sa espasyo ang mahabang mensahe at floral decoration; kailangan naman ng malinaw na open area ang maikling linya. Pag-isipan kung saan ididisplay ang cake at kung maaaring maapektuhan sa delivery ang matataas o marurupok na detalye.
+
+Ipadala nang sabay ang eksaktong wording at references, saka itanong kung ano ang posible gamit ang kasalukuyang paraan ng bakery. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin ang pinal na design at quote bago magbayad. Tingnan ang [gabay sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og biswal nga detalye nga haum sa nakadawat ug sa mensahe
-
-Sa dili pa mopili og mga kolor o mga dekorasyon, pagdesisyon kon unsa ang isulti sa cake ngadto sa nakadawat. Ang mubo nga mensahe, paborito nga bulak, o gipaambit nga pakisayran makahimo sa disenyo nga personal. Pagpili og usa ka nag-unang biswal nga direksyon ug ipasabut kini sa usa ka reference nga hulagway; daghan kaayo nga walay kalabutan nga mga inspirasyon nakapalisud sa pagkahibalo kung unsa ang labing hinungdanon.
-
-Kumpirma ang mga pulong, gidak-on, lami, petsa, ug plano sa pagpadala nga gilain. Pangutan-a ang panaderya kung unsang mga bahin sa reperensiya ang mahimong ipahiangay sa gihangyo nga cake ug kung ang letra ba magpabilin nga mabasa. Pagkuha usa ka karon nga kinutlo ug pagkumpirma sa pagkaanaa sa wala pa ibutang ang deposito.
-
-Idugang ang praktikal nga tambag sa disenyo sa kasamtangan nga giya sa disenyo sa Cebu. Gamit ug bulag nga Valentine's case lang kung ang orihinal nga mga litrato nagpakita ug tinuod, lahi nga cake ug giaprobahan sa kustomer ang publikasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng visual na detalye na nababagay sa tatanggap at sa mensahe
-
-Bago pumili ng mga kulay o dekorasyon, magpasya kung ano ang dapat sabihin ng cake sa tatanggap. Ang isang maikling mensahe, paboritong bulaklak, o nakabahaging sanggunian ay maaaring gawing personal ang disenyo. Pumili ng isang pangunahing visual na direksyon at ipaliwanag ito gamit ang isang reference na larawan; napakaraming walang kaugnayang inspirasyon ang nagpapahirap na malaman kung ano ang pinakamahalaga.
-
-Kumpirmahin ang mga salita, laki, lasa, petsa, at plano ng paghahatid nang hiwalay. Tanungin ang panaderya kung aling mga bahagi ng sanggunian ang maaaring iakma sa hiniling na cake at kung mananatiling nababasa ang letra. Kumuha ng kasalukuyang quote at kumpirmasyon sa availability bago ilagay ang deposito.
-
-Idagdag ang praktikal na payo sa disenyo sa kasalukuyang gabay sa disenyo ng Cebu. Gumamit lang ng hiwalay na Valentine's case kung ang mga orihinal na larawan ay nagpapakita ng tunay, natatanging cake at inaprubahan ng customer ang paglalathala.
+- Confirm current seasonal availability and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

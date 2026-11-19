@@ -1,44 +1,45 @@
 ---
 id: WC-0521
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: "How to keep safe and cool until serving Father's Day cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa Father's Day sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa Father's Day sa Cebu"
+english_title: "How to Keep a Father’s Day Cake Ready Until Serving"
+cebuano_title: "Giunsa Pagtipig sa Father’s Day Cake Hangtod I-serve"
+tagalog_title: "Paano Panatilihing Maayos ang Father’s Day Cake Hanggang Ihain"
 ---
 
-## Store a Father's Day cake until it is time to serve
+## English
 
-Plan where the cake will wait before the family meal. Keep the box level and away from direct sunlight, a hot car, or a warm appliance. If there is a long gap between delivery and serving, follow White Cakes' refrigeration guidance and ask whether the selected design needs any special handling.
+# How to Keep a Father’s Day Cake Ready Until Serving
 
-Choose a person to receive the cake and move it promptly to the planned storage spot. If it is delivered to a restaurant, office, or family venue, confirm that the venue can hold it safely and that the receiver will be available. Do not leave the cake unattended in an exposed place.
+When you confirm the order, ask how to store the specific cake and how long it can wait before serving. Mention whether it will arrive early, sit in an air-conditioned room, or be displayed outdoors. Advice can differ based on filling and decoration, so do not use a generic storage rule.
 
-When ordering, confirm the date, flavour, size, inscription, delivery window, and fee. White Cakes requires at least three days' notice for made-to-order cakes. The current 50% deposit confirms the agreed order after availability and terms are settled.
+Prepare a level, stable surface away from sun, heat, and busy walkways. Keep the cake protected until the table is ready and do not leave it in a parked car. If the serving time may shift, ask the bakery what to do before the event rather than improvising.
 
-Use one verified heat-care guide for all occasions. Add any product-specific handling exception only after the bakery confirms it.
+Tell the person receiving the cake the agreed instructions. For local context on buttercream, read the [Cebu heat guide](/journal/buttercream-in-cebu-heat.html), but follow the cake-specific advice from the bakery.
+
+## Cebuano
+
+# Giunsa Pagtipig sa Father’s Day Cake Hangtod I-serve
+
+Sa pagkumpirma sa order, pangutan-a unsaon pagtipig sa espesipikong cake ug unsa kadugay kini maghulat sa dili pa i-serve. Isulti kon sayo kini moabot, ibutang sa air-conditioned nga kwarto o ipakita sa gawas. Mahimong magkalahi ang tambag depende sa filling ug dekorasyon, busa ayaw paggamit og generic nga lagda.
+
+Andama ang patag ug lig-on nga surface nga layo sa adlaw, kainit ug agianan sa daghang tawo. Panalipdi ang cake hangtod andam ang lamesa ug ayaw ibilin sa giparking nga sakyanan. Kon mausab ang oras sa pag-serve, pangutan-a daan ang panaderya unsay buhaton imbes mag-improvise.
+
+Isulti sa modawat ang napagkasunduang instruksyon. Para sa lokal nga konteksto sa buttercream, basaha ang [giya sa kainit sa Cebu](/journal/buttercream-in-cebu-heat.html), apan sunda ang espesipikong tambag sa panaderya para sa cake.
+
+## Tagalog
+
+# Paano Panatilihing Maayos ang Father’s Day Cake Hanggang Ihain
+
+Kapag kinukumpirma ang order, itanong kung paano itatabi ang partikular na cake at gaano ito katagal maaaring maghintay bago ihain. Sabihin kung maagang darating ito, ilalagay sa naka-aircon na silid, o ididisplay sa labas. Maaaring mag-iba ang payo ayon sa filling at dekorasyon, kaya huwag gumamit ng generic na tuntunin.
+
+Maghanda ng patag at matatag na ibabaw na malayo sa araw, init, at mataong daanan. Protektahan ang cake hanggang handa na ang mesa at huwag iwan sa nakaparadang sasakyan. Kung maaaring magbago ang oras ng paghahain, itanong muna sa bakery ang gagawin sa halip na mag-improvise.
+
+Sabihin sa tatanggap ang napagkasunduang tagubilin. Para sa lokal na konteksto tungkol sa buttercream, basahin ang [gabay sa init sa Cebu](/journal/buttercream-in-cebu-heat.html), pero sundin ang partikular na payo ng bakery para sa cake.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Tipigi ang cake sa Father's Day hangtod nga panahon na sa pag-alagad
-
-Pagplano kon asa maghulat ang cake sa dili pa ang panihapon sa pamilya. Ibutang ang lebel sa kahon ug layo sa direkta nga kahayag sa adlaw, init nga awto, o init nga kasangkapan. Kung adunay taas nga gintang tali sa paghatud ug pagserbisyo, sunda ang giya sa pagpalamig sa White Cakes ug pangutana kung ang napili nga disenyo nanginahanglan bisan unsang espesyal nga pagdumala.
-
-Pagpili og usa ka tawo nga modawat sa cake ug ibalhin kini dayon ngadto sa giplano nga tipiganan. Kung ihatod kini sa usa ka restawran, opisina, o lugar sa pamilya, kumpirmahi nga ang lugar mahimo’g luwas nga ibutang kini ug nga ang tigdawat magamit. Ayaw ibilin ang cake nga wala maatiman sa usa ka nahayag nga lugar.
-
-Kung nag-order, kumpirmahi ang petsa, lami, gidak-on, inskripsiyon, bintana sa pagpadala, ug bayad. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga mga cake. Ang kasamtangan nga 50% nga deposito nagpamatuod sa gikasabutan nga order human sa pagkaanaa ug mga termino nahusay.
-
-Gamita ang usa ka napamatud-an nga giya sa pag-atiman sa init alang sa tanang okasyon. Idugang ang bisan unsang eksepsiyon sa pagdumala nga espesipiko sa produkto pagkahuman gikumpirma kini sa panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-imbak ng cake para sa Araw ng mga Ama hanggang sa oras na para maghain
-
-Planuhin kung saan maghihintay ang cake bago ang hapunan ng pamilya. Panatilihin ang antas ng kahon at malayo sa direktang sikat ng araw, isang mainit na kotse, o isang mainit na appliance. Kung may mahabang agwat sa pagitan ng paghahatid at paghahatid, sundin ang gabay sa pagpapalamig ng White Cakes at tanungin kung ang napiling disenyo ay nangangailangan ng anumang espesyal na paghawak.
-
-Pumili ng taong tatanggap ng cake at ilipat ito kaagad sa nakaplanong imbakan. Kung ihahatid ito sa isang restaurant, opisina, o venue ng pamilya, kumpirmahin na ligtas itong hawakan ng venue at magiging available ang receiver. Huwag iwanan ang cake na walang nag-aalaga sa isang nakalantad na lugar.
-
-Kapag nag-order, kumpirmahin ang petsa, lasa, laki, inskripsiyon, window ng paghahatid, at bayad. Ang mga White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake. Kinukumpirma ng kasalukuyang 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang availability at mga tuntunin.
-
-Gumamit ng isang na-verify na gabay sa pangangalaga sa init para sa lahat ng okasyon. Magdagdag lamang ng anumang pagbubukod sa pangangasiwa na partikular sa produkto pagkatapos kumpirmahin ito ng panaderya.
+- Confirm current availability and serving context before publication.
+- Cebuano and Tagalog drafts need native editorial review.

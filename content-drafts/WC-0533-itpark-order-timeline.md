@@ -1,44 +1,45 @@
 ---
 id: WC-0533
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for cake for an IT Park office celebration in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+english_title: "When to Order a Cake for an IT Park Office Celebration in Cebu"
+cebuano_title: "Kanus-a Mag-order og Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu"
+tagalog_title: "Kailan Mag-order ng Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu"
 ---
 
-## Build an IT Park cake order around the office schedule
+## English
 
-Check the event date and the time the cake needs to arrive, then ask White Cakes whether the production slot is available. Made-to-order cakes require at least three days' notice. For an office event with a fixed meeting or celebration, contact the bakery earlier and allow time to confirm building access.
+# When to Order a Cake for an IT Park Office Celebration in Cebu
 
-Send the office address, tower, entrance or receiving point, recipient's mobile number, and any visitor instructions. Choose a colleague who can meet the driver during the agreed window. Ask whether delivery to that location is available and confirm the fee. Do not assume the courier can enter a secured office floor or wait while the contact is unavailable.
+Start with the office event date and the time the team can pause to serve the cake. An office celebration may have a short break between meetings, so the delivery window and receiver matter as much as the design. Ask the bakery whether it can accept the date and deliver to the exact building or handoff point.
 
-Once the date is checked, send the serving estimate, flavour, design reference, and exact wording. Confirm the cake size and quote. White Cakes estimates 8–12 party slices for 6 inches and 16–24 for 8 inches; share how many people will actually eat cake. The 50% deposit confirms the agreed order after the details and delivery plan are settled.
+White Cakes’ general guidance asks for at least three days’ notice for made-to-order cakes. Treat this as a minimum planning reference, not a guaranteed slot. Contact the bakery earlier for a custom design, a large order, or a date with several team events.
 
-Use this as a venue-planning note in the central order timeline. Publish IT Park-specific access information only if verified from actual deliveries.
+Once availability is confirmed, finalize the guest count, size, flavour, message, total quote, deposit, building access instructions, receiver, and delivery window in writing. Confirm whether the office allows outside cake deliveries and who can meet the courier. See the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Kanus-a Mag-order og Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu
+
+Sugdi sa petsa sa office event ug oras nga makapahuway ang team aron i-serve ang cake. Mubo usahay ang break tali sa mga meeting, busa sama kaimportante sa disenyo ang delivery window ug modawat. Pangutan-a ang panaderya kon madawat ba ang petsa ug madeliver sa tukmang building o handoff point.
+
+Ang kinatibuk-ang giya sa White Cakes nangayo og labing menos tulo ka adlaw nga pahibalo para sa made-to-order nga cake. Minimum nga reference kini sa pagplano, dili garantiya sa slot. Kontaka og sayo pa para sa custom design, dakong order o petsa nga daghan og team event.
+
+Human makumpirma ang availability, klaroha sa sinulat ang ihap sa bisita, gidak-on, flavour, mensahe, total quote, deposit, instruksyon sa access sa building, modawat ug delivery window. Kumpirmaha kon modawat ba ang opisina og cake delivery gikan sa gawas ug kinsa ang makigkita sa courier. Tan-awa ang [giya sa oras sa pag-order og cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Kailan Mag-order ng Cake para sa Selebrasyon sa Opisina sa IT Park sa Cebu
+
+Magsimula sa petsa ng office event at oras kung kailan makapagpapahinga ang team para ihain ang cake. Maaaring maikli ang break sa pagitan ng meetings, kaya kasinghalaga ng design ang delivery window at tatanggap. Itanong sa bakery kung matatanggap nito ang petsa at maihahatid sa eksaktong building o handoff point.
+
+Humihingi ang pangkalahatang gabay ng White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake. Minimum na sanggunian ito sa pagpaplano, hindi garantisadong slot. Makipag-ugnayan nang mas maaga para sa custom design, malaking order, o petsang maraming team event.
+
+Kapag nakumpirma ang availability, linawin nang nakasulat ang bilang ng bisita, sukat, flavour, mensahe, kabuuang quote, deposito, tagubilin sa access ng building, tatanggap, at delivery window. Kumpirmahin kung tumatanggap ang opisina ng dalang cake at kung sino ang sasalubong sa courier. Tingnan ang [gabay sa timeline ng pag-order ng cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paghimo usa ka order sa cake sa IT Park sa palibot sa iskedyul sa opisina
-
-Susiha ang petsa sa panghitabo ug ang oras nga gikinahanglang moabot ang cake, dayon pangutan-a ang White Cakes kung anaa ba ang production slot. Ang hinimo nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo. Alang sa usa ka kalihokan sa opisina nga adunay usa ka piho nga miting o selebrasyon, kontaka ang panaderya sa sayo pa ug tugoti ang oras sa pagkumpirma sa pag-access sa bilding.
-
-Ipadala ang adres sa opisina, tore, entrance o receiving point, mobile number sa nakadawat, ug bisan unsang instruksyon sa bisita. Pagpili og kauban nga makigkita sa drayber atol sa gikasabotan nga bintana. Pangutan-a kung ang pagpadala sa kana nga lokasyon magamit ug kumpirmahi ang bayad. Ayaw paghunahuna nga ang courier makasulod sa usa ka luwas nga salog sa opisina o maghulat samtang ang kontak dili magamit.
-
-Kung masusi na ang petsa, ipadala ang banabana sa pagserbisyo, lami, pakisayran sa disenyo, ug eksaktong pulong. Kumpirma ang gidak-on sa cake ug kinutlo. Gibanabana sa White Cakes ang 8–12 ka party slices sa 6 ka pulgada ug 16–24 sa 8 ka pulgada; share kung pila ka tawo ang aktuwal nga mokaon ug cake. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order human ang mga detalye ug plano sa paghatod nahusay.
-
-Gamita kini isip nota sa pagplano sa lugar sa sentro nga timeline sa order. Imantala ang impormasyon sa pag-access nga espesipiko sa IT Park kung gipamatud-an gikan sa aktwal nga mga paghatod.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bumuo ng isang order ng cake sa IT Park ayon sa iskedyul ng opisina
-
-Tingnan ang petsa ng kaganapan at ang oras na kailangang dumating ang cake, pagkatapos ay tanungin ang White Cakes kung available ang production slot. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Para sa isang kaganapan sa opisina na may nakapirming pagpupulong o pagdiriwang, makipag-ugnayan sa panaderya nang mas maaga at maglaan ng oras upang kumpirmahin ang pag-access sa gusali.
-
-Ipadala ang address ng opisina, tore, pasukan o receiving point, numero ng mobile ng tatanggap, at anumang mga tagubilin sa bisita. Pumili ng isang kasamahan na maaaring makipagkita sa driver sa panahon ng napagkasunduang window. Tanungin kung available ang paghahatid sa lokasyong iyon at kumpirmahin ang bayad. Huwag ipagpalagay na ang courier ay maaaring pumasok sa isang secure na palapag ng opisina o maghintay habang hindi available ang contact.
-
-Kapag nasuri na ang petsa, ipadala ang pagtatantya ng paghahatid, lasa, sanggunian sa disenyo, at eksaktong salita. Kumpirmahin ang laki ng cake at quote. Tinatantya ng White Cakes ang 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada; ibahagi kung gaano karaming tao ang talagang kakain ng cake. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang mga detalye at plano sa paghahatid.
-
-Gamitin ito bilang tala sa pagpaplano ng lugar sa gitnang timeline ng order. Mag-publish lamang ng impormasyon sa access na partikular sa IT Park kung na-verify mula sa aktwal na mga paghahatid.
+- Verify office rules and current order availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

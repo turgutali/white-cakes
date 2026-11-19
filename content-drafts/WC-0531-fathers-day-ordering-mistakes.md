@@ -1,38 +1,45 @@
 ---
 id: WC-0531
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html and /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Common ordering mistakes to avoid with Father's Day cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa Father's Day sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa Father's Day sa Cebu"
+english_title: "Father’s Day Cake Ordering Mistakes to Avoid in Cebu"
+cebuano_title: "Mga Sayop sa Pag-order og Father’s Day Cake nga Likayan sa Cebu"
+tagalog_title: "Mga Pagkakamali sa Pag-order ng Father’s Day Cake na Dapat Iwasan sa Cebu"
 ---
 
-## Avoid vague themes, unconfirmed dates, and last-minute message changes
+## English
 
-“Something for Dad” is a starting point, not a complete design brief. Explain which interest, colour, or personal detail should appear and send one reference that supports it. Confirm the event date, size, flavour, exact inscription, and handoff location before expecting a final quote.
+# Father’s Day Cake Ordering Mistakes to Avoid in Cebu
 
-Use one family organizer to approve spelling and design so the bakery does not receive contradictory instructions. Ask about availability early for the holiday, confirm the full amount and delivery fee, and follow the current deposit process. Do not assume an inquiry reserves the date.
+One mistake is assuming an old Father’s Day post proves the same cake, price, or delivery schedule is available now. Confirm the exact date, current menu, and bakery capacity first. Holiday timing and venue access can change, so do not build the plan on last year’s details.
 
-Keep these reminders in the central ordering guide. A Father’s Day case study should be based on a real cake and permission-cleared details.
+A second mistake is sending several unrelated reference images without explaining the recipient’s interest or the design priority. Write the exact message, preferred size and flavour, and what can be adapted. Check spelling if family members send different versions of a name or phrase.
+
+Finally, confirm the complete quote, deposit terms, address, receiver, and delivery window in writing. White Cakes confirms a window rather than an exact minute. For the final review, use [how to order](/journal/how-to-order.html) and the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Mga Sayop sa Pag-order og Father’s Day Cake nga Likayan sa Cebu
+
+Usa ka sayop ang pagtuo nga pamatuod sa kasamtangang cake, presyo o iskedyul sa delivery ang daang Father’s Day post. Kumpirmaha una ang tukmang petsa, kasamtangang menu ug kapasidad sa panaderya. Mahimong mausab ang holiday timing ug access sa venue, busa ayaw ibase ang plano sa detalye sa miaging tuig.
+
+Ikaduhang sayop ang pagpadala og daghang reference photo nga walay pagpasabot sa interes sa makadawat o prayoridad sa disenyo. Isulat ang eksaktong mensahe, gusto nga gidak-on ug flavour, ug unsay mahimong ipasibo. Susiha ang spelling kon lain-lain ang bersiyon sa ngalan o pulong nga gipadala sa pamilya.
+
+Sa kataposan, kumpirmaha sa sinulat ang kompleto nga quote, deposit terms, address, modawat ug delivery window. Window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Gamita ang [giya sa pag-order](/journal/how-to-order.html) ug [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) sa kataposang pagsusi.
+
+## Tagalog
+
+# Mga Pagkakamali sa Pag-order ng Father’s Day Cake na Dapat Iwasan sa Cebu
+
+Isang pagkakamali ang pag-aakalang pinatutunayan ng lumang Father’s Day post ang kasalukuyang cake, presyo, o iskedyul ng delivery. Kumpirmahin muna ang eksaktong petsa, kasalukuyang menu, at kapasidad ng bakery. Maaaring magbago ang holiday timing at access sa venue, kaya huwag ibatay ang plano sa detalye noong nakaraang taon.
+
+Ikalawang pagkakamali ang magpadala ng maraming magkakaibang reference photo nang hindi ipinapaliwanag ang interes ng tatanggap o prayoridad sa design. Isulat ang eksaktong mensahe, gustong sukat at flavour, at mga bahaging maaaring iangkop. Suriin ang spelling kung magkakaiba ang bersyon ng pangalan o pariralang ipinadala ng pamilya.
+
+Panghuli, kumpirmahin nang nakasulat ang kumpletong quote, deposit terms, address, tatanggap, at delivery window. Window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Gamitin ang [gabay sa pag-order](/journal/how-to-order.html) at [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html) sa huling pagsusuri.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang dili klaro nga mga tema, wala makumpirma nga mga petsa, ug katapusan nga minuto nga pagbag-o sa mensahe
-
-Ang "Usa ka butang alang kang Papa" usa ka punto sa pagsugod, dili usa ka kompleto nga mubo nga disenyo. Ipasabut kung unsang interes, kolor, o personal nga detalye ang kinahanglan nga makita ug magpadala usa ka pakisayran nga nagsuporta niini. Kumpirma ang petsa sa panghitabo, gidak-on, lami, eksaktong inskripsiyon, ug lokasyon sa handoff sa dili pa magdahom ug kataposang kinutlo.
-
-Paggamit ug usa ka organizer sa pamilya aron aprobahan ang spelling ug disenyo aron ang panaderya dili makadawat sa nagkasumpaki nga mga instruksyon. Pangutan-a bahin sa pagkaanaa sa sayo alang sa holiday, kumpirmahi ang tibuuk nga kantidad ug bayad sa pagpadala, ug sunda ang karon nga proseso sa pagdeposito. Ayaw paghunahuna nga ang usa ka pangutana nagreserba sa petsa.
-
-Ibutang kini nga mga pahinumdom sa sentro nga giya sa pag-order. Usa ka Pagtuon sa kaso sa Adlaw sa Amahan kinahanglan nga ibase sa usa ka tinuod nga cake ug mga detalye nga gi-clear sa pagtugot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasan ang hindi malinaw na mga tema, hindi kumpirmadong petsa, at huling minutong pagbabago sa mensahe
-
-Ang "Something for Dad" ay isang panimulang punto, hindi isang kumpletong disenyo ng brief. Ipaliwanag kung aling interes, kulay, o personal na detalye ang dapat lumitaw at magpadala ng isang sanggunian na sumusuporta dito. Kumpirmahin ang petsa ng kaganapan, laki, lasa, eksaktong inskripsiyon, at lokasyon ng handoff bago umasa ng panghuling quote.
-
-Gumamit ng isang organizer ng pamilya para aprubahan ang spelling at disenyo para hindi makatanggap ang panaderya ng magkakasalungat na tagubilin. Magtanong tungkol sa availability nang maaga para sa holiday, kumpirmahin ang buong halaga at bayad sa paghahatid, at sundin ang kasalukuyang proseso ng deposito. Huwag ipagpalagay na ang isang pagtatanong ay nakalaan ang petsa.
-
-Itago ang mga paalala na ito sa gitnang gabay sa pag-order. Ang isang case study ng Father's Day ay dapat na nakabatay sa isang tunay na cake at mga detalyeng na-clear ng pahintulot.
+- Verify current holiday availability, terms, and route details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

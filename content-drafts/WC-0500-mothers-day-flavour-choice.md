@@ -1,38 +1,45 @@
 ---
 id: WC-0500
-status: written-draft
-publish_action: merge into /journal/choosing-a-flavor.html; verify live menu
-english_title: "How to choose a flavour for Mother's Day cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa Mother's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/choosing-a-flavor.html
+english_title: "How to Choose a Mother’s Day Cake Flavour in Cebu"
+cebuano_title: "Giunsa Pagpili sa Flavour sa Mother’s Day Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Flavour ng Mother’s Day Cake sa Cebu"
 ---
 
-## Choose a flavour your mother or recipient enjoys and check current availability
+## English
 
-Ask the person ordering with the family what the recipient prefers. If the cake will be shared by many people, consider familiar choices and any known dietary needs. White Cakes’ current flavours have included Chocolate, Vanilla, Ube, Mango, and Red Velvet; verify the live menu for the Mother’s Day date.
+# How to Choose a Mother’s Day Cake Flavour in Cebu
 
-Ask what the selected flavour includes and whether it is available in the requested size. If anyone has an allergy or restriction, discuss it directly with the bakery; a flavour name does not establish ingredient safety. Confirm the size, message, and handoff plan separately.
+Choose a flavour based on the recipient and the family members who will share the cake. A familiar favourite may be a safer choice for a mixed-age gathering, while a less familiar option can suit someone who enjoys trying new flavours. Think about whether cake follows a large meal and how much dessert the group expects.
 
-Keep the current flavour list in one maintained guide and add a short seasonal reminder there. Recheck menu and availability before each Mother’s Day season.
+Ask which flavours are currently available in the size and design you want. Do not infer the live menu from an old photo. If the recipient has an allergy or dietary restriction, tell the bakery and ask directly about what it can accommodate; never assume a cake is safe for that person without confirmation.
+
+Name a first choice and backup in the order brief. Confirm the final flavour with the bakery, along with size and serving plan. See [how to choose a cake flavour in Cebu](/journal/choosing-a-flavor.html) for additional general guidance.
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour sa Mother’s Day Cake sa Cebu
+
+Pilia ang flavour base sa makadawat ug mga sakop sa pamilya nga mopaambit sa cake. Mahimong mas luwas nga kapilian ang pamilyar nga paborito para sa grupo nga lain-lain og edad, samtang ang bag-ong lami mohaum sa tawo nga ganahan mosulay. Hunahunaa kon human sa bug-at nga pagkaon ang cake ug unsa kadaghan nga dessert ang gipaabot sa grupo.
+
+Pangutan-a unsang flavour ang available karon sa gusto nga gidak-on ug disenyo. Ayaw pagtuo nga mao gihapon ang menu base sa daang litrato. Kon adunay allergy o dietary restriction ang makadawat, isulti kini sa panaderya ug pangutan-a unsay ma-accommodate; ayaw pagtuo nga luwas ang cake kon wala makumpirma.
+
+Ibutang sa order brief ang unang gusto ug backup nga flavour. Kumpirmaha ang final nga flavour sa panaderya uban sa gidak-on ug serving plan. Tan-awa ang [pagpili sa flavour sa cake sa Cebu](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano Pumili ng Flavour ng Mother’s Day Cake sa Cebu
+
+Pumili ng flavour batay sa tatanggap at mga kapamilyang magsasalo sa cake. Maaaring mas ligtas na piliin ang pamilyar na paborito para sa grupong magkakaiba ang edad, samantalang babagay ang bagong lasa sa taong mahilig sumubok. Isaalang-alang kung pagkatapos ng mabigat na kainan ihahain ang cake at gaano karaming dessert ang inaasahan ng grupo.
+
+Itanong kung aling flavour ang available ngayon sa gustong sukat at design. Huwag ipalagay ang kasalukuyang menu mula sa lumang larawan. Kung may allergy o dietary restriction ang tatanggap, sabihin ito sa bakery at direktang itanong kung ano ang kaya nitong tugunan; huwag ipagpalagay na ligtas ang cake nang walang kumpirmasyon.
+
+Ilagay sa order brief ang unang gusto at backup na flavour. Kumpirmahin sa bakery ang pinal na flavour kasama ang sukat at serving plan. Tingnan ang [paano pumili ng flavour ng cake sa Cebu](/journal/choosing-a-flavor.html) para sa dagdag na pangkalahatang gabay.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og lami nga nalingaw sa imong inahan o nakadawat ug susiha ang kasamtangan nga anaa
-
-Pangutan-a ang tawo nga nag-order uban sa pamilya kung unsa ang gusto sa nakadawat. Kung ang cake ipaambit sa daghang mga tawo, hunahunaa ang pamilyar nga mga kapilian ug bisan unsang nahibal-an nga mga panginahanglanon sa pagkaon. Ang mga lami karon sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; i-verify ang live menu para sa petsa sa Mother's Day.
-
-Pangutan-a kung unsa ang gilakip sa gipili nga lami ug kung anaa ba kini sa gihangyo nga gidak-on. Kung adunay bisan kinsa nga adunay alerdyi o pagdili, hisguti kini direkta sa panaderya; ang usa ka ngalan sa palami wala magtukod og kaluwasan sa sangkap. Pagkumpirma sa gidak-on, mensahe, ug handoff nga plano nga gilain.
-
-Itago ang karon nga lista sa lami sa usa ka gipadayon nga giya ug pagdugang usa ka mubo nga pahinumdom sa panahon didto. Susiha pag-usab ang menu ug pagkaanaa sa dili pa ang matag panahon sa Adlaw sa Inahan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng lasa na tinatamasa ng iyong ina o tatanggap at tingnan ang kasalukuyang availability
-
-Tanungin ang taong nag-order kasama ang pamilya kung ano ang gusto ng tatanggap. Kung ang cake ay ibabahagi ng maraming tao, isaalang-alang ang mga pamilyar na pagpipilian at anumang kilalang mga pangangailangan sa pagkain. Kasama sa mga kasalukuyang lasa ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet; i-verify ang live na menu para sa petsa ng Mother's Day.
-
-Itanong kung ano ang kasama sa napiling lasa at kung available ito sa hiniling na laki. Kung ang sinuman ay may allergy o paghihigpit, talakayin ito nang direkta sa panaderya; ang pangalan ng lasa ay hindi nagtatatag ng kaligtasan ng sangkap. Kumpirmahin ang laki, mensahe, at handoff na plano nang hiwalay.
-
-Panatilihin ang kasalukuyang listahan ng lasa sa isang pinapanatili na gabay at magdagdag ng maikling pana-panahong paalala doon. Suriin muli ang menu at availability bago ang bawat season ng Mother's Day.
+- Recheck current seasonal availability and cake-specific service guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

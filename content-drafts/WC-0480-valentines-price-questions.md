@@ -1,44 +1,45 @@
 ---
 id: WC-0480
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: "What to ask about the price of Valentine's cake in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa Valentine's Day sa Cebu"
+english_title: "What to Ask About a Valentine’s Cake Price in Cebu"
+cebuano_title: "Unsa ang Pangutan-on Bahin sa Presyo sa Valentine’s Cake sa Cebu"
+tagalog_title: "Ano ang Itatanong Tungkol sa Presyo ng Valentine’s Cake sa Cebu"
 ---
 
-## Get a confirmed Valentine's cake price before ordering
+## English
 
-Provide the date, cake size, flavour, design, inscription, and delivery or pickup location when requesting a quote. Valentine's Day is a high-demand date, so check availability early. A custom design can differ from a menu listing; ask for the total price for the exact request rather than relying on an old screenshot.
+# What to Ask About a Valentine’s Cake Price in Cebu
 
-The current custom menu lists a 6-inch cake at ₱1,399 through January 15, 2027, then ₱1,799. An 8-inch cake is ₱1,999 through January 15 and ₱2,599 afterward. These are date-limited prices and must be checked against the live menu before publication. Custom details or delivery may affect the final quote.
+A useful price comparison starts with the same brief: date, size, flavour, design, inscription, and delivery location. Ask the bakery to confirm it can accept the date before comparing totals. Valentine’s availability and prices may change, so old menu screenshots or social posts are not reliable quotes.
 
-Ask whether the size suits the number of people who will eat cake. Current estimates are 8–12 party slices for 6 inches and 16–24 for 8 inches. Confirm the delivery address, receiving contact, timing, and fee. White Cakes requires at least three days' notice and uses a 50% deposit to confirm the agreed order.
+Request the complete price in writing and ask what it includes. Clarify delivery charges, deposit, balance due date, and whether a design adjustment changes the quote. White Cakes’ published guidance describes a 50% deposit after the final price and order details are agreed; verify current payment instructions directly with the bakery.
 
-Keep Valentine's pricing inside the central menu guide and update it when the bakery changes the rates.
+Compare equivalent cakes, not a headline starting price against a more detailed custom quote. If the budget is fixed, tell the bakery and ask which size or design adjustment could fit it. Review the [Cebu cake price guide](/journal/cake-prices-cebu.html) for the broader quote checklist.
+
+## Cebuano
+
+# Unsa ang Pangutan-on Bahin sa Presyo sa Valentine’s Cake sa Cebu
+
+Nagsugod ang mapuslanong pagtandi sa presyo sa parehas nga brief: petsa, gidak-on, flavour, disenyo, inskripsiyon ug delivery location. Pangayo og kumpirmasyon nga madawat sa panaderya ang petsa sa dili pa itandi ang total. Mahimong mausab ang Valentine’s availability ug presyo, busa dili kasaligan nga quote ang karaang screenshot sa menu o social post.
+
+Pangayo sa kompleto nga presyo sa sinulat ug pangutan-a unsay apil. Klaroha ang delivery fee, deposit, petsa sa pagbayad sa balanse ug kon mausab ba ang quote kon usbon ang disenyo. Nag-ingon ang gipatik nga giya sa White Cakes nga 50% nga deposit human magkasinabot sa final nga presyo ug detalye; kumpirmaha diretso sa panaderya ang kasamtangang paagi sa pagbayad.
+
+Itandi ang parehas nga klase sa cake, dili ang headline nga starting price batok sa detalyadong custom quote. Kon pirmi ang budget, isulti kini ug pangutan-a unsang gidak-on o kausaban sa disenyo ang mohaum. Tan-awa ang [giya sa presyo sa cake sa Cebu](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Ano ang Itatanong Tungkol sa Presyo ng Valentine’s Cake sa Cebu
+
+Nagsisimula ang makabuluhang paghahambing ng presyo sa parehong brief: petsa, sukat, flavour, design, inscription, at delivery location. Hilinging kumpirmahin muna ng bakery na matatanggap nito ang petsa bago ihambing ang kabuuan. Maaaring magbago ang Valentine’s availability at presyo, kaya hindi maaasahang quote ang lumang menu screenshot o social post.
+
+Hingin sa sulat ang kumpletong presyo at itanong kung ano ang kasama. Linawin ang delivery charge, deposito, petsa ng pagbabayad ng balanse, at kung magbabago ang quote kapag binago ang design. Sinasabi ng inilathalang gabay ng White Cakes na 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye; kumpirmahin nang direkta sa bakery ang kasalukuyang paraan ng bayad.
+
+Paghambingin ang magkatulad na cake, hindi ang headline na starting price laban sa mas detalyadong custom quote. Kung nakapirmi ang budget, sabihin ito at itanong kung anong sukat o pagbabago sa design ang babagay. Tingnan ang [gabay sa presyo ng cake sa Cebu](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagkuha usa ka kumpirmado nga presyo sa cake sa Valentine sa wala pa mag-order
-
-Ihatag ang petsa, gidak-on sa cake, lami, disenyo, inskripsiyon, ug lokasyon sa paghatud o pagkuha kung mangayo usa ka kinutlo. Ang Valentine's Day usa ka high-demand nga petsa, busa susiha og sayo ang availability. Ang usa ka naandan nga disenyo mahimong lahi sa usa ka listahan sa menu; pangayo alang sa kinatibuk-ang presyo alang sa eksaktong hangyo kay sa pagsalig sa usa ka daan nga screenshot.
-
-Ang kasamtangang custom nga menu naglista ug 6-pulgada nga cake sa ₱1,399 hangtod sa Enero 15, 2027, dayon ₱1,799. Ang 8-pulgada nga cake maoy ₱1,999 hangtod sa Enero 15 ug ₱2,599 pagkahuman. Kini ang mga presyo nga limitado sa petsa ug kinahanglan nga susihon batok sa live menu sa dili pa imantala. Ang mga custom nga detalye o paghatud mahimong makaapekto sa katapusang kinutlo.
-
-Pangutan-a kung ang gidak-on mohaum ba sa gidaghanon sa mga tawo nga mokaon sa cake. Ang kasamtangan nga mga banabana mao ang 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Pagkumpirma sa adres sa pagpadala, pagdawat sa kontak, oras, ug bayad. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo ug naggamit og 50% nga deposito aron makumpirma ang gikasabutan nga order.
-
-Ipadayon ang presyo sa Valentine sulod sa sentro nga giya sa menu ug i-update kini kung usbon sa panaderya ang mga presyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumuha ng kumpirmadong presyo ng cake ng Valentine bago mag-order
-
-Ibigay ang petsa, laki ng cake, lasa, disenyo, inskripsiyon, at lokasyon ng paghahatid o pickup kapag humihiling ng quote. Ang Araw ng mga Puso ay isang high-demand na petsa, kaya tingnan ang availability nang maaga. Ang isang pasadyang disenyo ay maaaring mag-iba mula sa isang listahan ng menu; humingi ng kabuuang presyo para sa eksaktong kahilingan sa halip na umasa sa isang lumang screenshot.
-
-Ang kasalukuyang custom na menu ay naglilista ng 6-pulgadang cake sa ₱1,399 hanggang Enero 15, 2027, pagkatapos ay ₱1,799. Ang 8-inch na cake ay ₱1,999 hanggang Enero 15 at ₱2,599 pagkatapos. Ito ay mga presyong limitado sa petsa at dapat suriin laban sa live na menu bago ilathala. Maaaring makaapekto sa huling quote ang mga custom na detalye o paghahatid.
-
-Itanong kung ang sukat ay angkop sa bilang ng mga taong kakain ng cake. Ang kasalukuyang mga pagtatantya ay 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Kumpirmahin ang address ng paghahatid, pagtanggap ng contact, timing, at bayad. Ang White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa at gumagamit ng 50% na deposito upang kumpirmahin ang napagkasunduang order.
-
-Panatilihin ang pagpepresyo ng Valentine sa loob ng gabay sa gitnang menu at i-update ito kapag binago ng panaderya ang mga rate.
+- Confirm current availability, terms, and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

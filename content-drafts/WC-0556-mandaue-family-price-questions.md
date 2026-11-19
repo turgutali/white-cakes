@@ -1,38 +1,45 @@
 ---
 id: WC-0556
-status: written-draft
-publish_action: merge into /journal/cake-prices-cebu.html and verify the current menu
-english_title: "What to ask about the price of cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-prices-cebu.html
+english_title: "What to Ask About Cake Prices for a Mandaue Family Event"
+cebuano_title: "Unsa ang Pangutan-on Bahin sa Presyo sa Cake para sa Family Event sa Mandaue"
+tagalog_title: "Ano ang Itatanong Tungkol sa Presyo ng Cake para sa Mandaue Family Event"
 ---
 
-## Ask for a complete quote based on the cake you actually need
+## English
 
-When comparing cake prices for a family celebration in Mandaue, specify the date, approximate number of servings, preferred flavour, and level of decoration. Ask whether the quoted amount includes the requested design and whether delivery to the exact address is available and charged separately. A base price alone may not describe the total order.
+# What to Ask About Cake Prices for a Mandaue Family Event
 
-The bakery’s posted prices and offers can change. Confirm the current quote directly before paying, including any design adjustments, delivery fee, and deposit amount. If the family has a fixed budget, say so early; the bakery can tell you which sizes or simpler decoration options fit the amount without implying that every custom request costs the same.
+Ask for a quote using the complete event details: date, size, flavour, design, inscription, and delivery address in Mandaue. Confirm the bakery can accept that date and address before comparing prices. A general location name does not confirm the delivery cost or coverage for a specific house or venue.
 
-Keep live prices in one maintained menu or price guide. This location-specific question can be answered there without creating a Mandaue page that repeats a city name around the same pricing information.
+Request the final total in writing and ask whether delivery, custom decoration, and packaging are included. Clarify the deposit, remaining balance, and what happens if the address or design changes. White Cakes’ published guidance describes a 50% deposit after final price and details are agreed; verify current terms before payment.
+
+Compare quotes for the same size and design complexity. If you have a budget limit, share it early and ask which adjustment would preserve the most important part of the plan. See the [Cebu cake price guide](/journal/cake-prices-cebu.html).
+
+## Cebuano
+
+# Unsa ang Pangutan-on Bahin sa Presyo sa Cake para sa Family Event sa Mandaue
+
+Pangayo og quote gamit ang kompleto nga detalye sa event: petsa, gidak-on, flavour, disenyo, inskripsiyon ug delivery address sa Mandaue. Kumpirmaha nga madawat sa panaderya ang petsa ug address sa dili pa itandi ang presyo. Dili makakumpirma sa bayad o coverage sa tukmang balay o venue ang ngalan sa lugar lang.
+
+Pangayo sa final nga total sa sinulat ug pangutan-a kon apil ang delivery, custom decoration ug packaging. Klaroha ang deposit, nahibiling balanse ug unsay mahitabo kon mausab ang address o disenyo. Nag-ingon ang gipatik nga giya sa White Cakes nga 50% nga deposit human magkasinabot sa final nga presyo ug detalye; kumpirmaha ang kasamtangang terms sa dili pa mobayad.
+
+Itandi ang quote para sa parehas nga gidak-on ug kakomplikado sa disenyo. Kon adunay limitasyon sa budget, isulti kini sa sayo ug pangutan-a unsang kausaban ang makapabilin sa labing importante nga bahin sa plano. Tan-awa ang [giya sa presyo sa cake sa Cebu](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Ano ang Itatanong Tungkol sa Presyo ng Cake para sa Mandaue Family Event
+
+Humingi ng quote gamit ang kumpletong detalye ng event: petsa, sukat, flavour, design, inscription, at delivery address sa Mandaue. Kumpirmahin muna na matatanggap ng bakery ang petsa at address bago maghambing ng presyo. Hindi kinukumpirma ng pangalan lang ng lugar ang delivery cost o coverage para sa partikular na bahay o venue.
+
+Hingin sa sulat ang pinal na kabuuan at itanong kung kasama ang delivery, custom decoration, at packaging. Linawin ang deposito, natitirang balanse, at mangyayari kung magbago ang address o design. Sinasabi ng inilathalang gabay ng White Cakes na 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye; tiyakin ang kasalukuyang terms bago magbayad.
+
+Paghambingin ang quote para sa magkaparehong sukat at antas ng komplikasyon ng design. Kung may limitasyon sa budget, sabihin ito nang maaga at itanong kung aling pagbabago ang magpapanatili sa pinakamahalagang bahagi ng plano. Tingnan ang [gabay sa presyo ng cake sa Cebu](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo ug kompletong quote base sa cake nga imong gikinahanglan
-
-Kung itandi ang mga presyo sa cake alang sa selebrasyon sa pamilya sa Mandaue, ipiho ang petsa, gibanabana nga gidaghanon sa mga servings, gusto nga lami, ug lebel sa dekorasyon. Pangutan-a kung ang gikutlo nga kantidad naglakip ba sa gihangyo nga disenyo ug kung ang pagpadala sa eksaktong adres magamit ug gilain nga bayad. Ang base nga presyo lamang dili mahimong maghulagway sa kinatibuk-ang order.
-
-Ang gi-post nga mga presyo ug mga tanyag sa panaderya mahimong mausab. Direkta nga kumpirmahi ang kasamtangan nga kinutlo sa dili pa mobayad, lakip ang bisan unsang mga pag-adjust sa disenyo, bayad sa pagpadala, ug kantidad sa deposito. Kung ang pamilya adunay gitakda nga badyet, isulti nga sayo; ang panaderya makasulti kanimo kung unsang mga gidak-on o mas simple nga mga kapilian sa dekorasyon ang mohaum sa kantidad nga wala magpasabot nga ang matag kostumbre nga hangyo parehas ra.
-
-Ipadayon ang mga buhi nga presyo sa usa ka gipadayon nga menu o giya sa presyo. Kini nga pangutana nga piho sa lokasyon mahimong matubag didto nga wala maghimo usa ka panid sa Mandaue nga gisubli ang usa ka ngalan sa lungsod sa parehas nga impormasyon sa pagpresyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humingi ng kumpletong quote batay sa cake na talagang kailangan mo
-
-Kapag naghahambing ng mga presyo ng cake para sa isang pagdiriwang ng pamilya sa Mandaue, tukuyin ang petsa, tinatayang bilang ng mga serving, gustong lasa, at antas ng dekorasyon. Itanong kung kasama sa naka-quote na halaga ang hiniling na disenyo at kung available at hiwalay na sinisingil ang paghahatid sa eksaktong address. Maaaring hindi ilarawan ng baseng presyo lamang ang kabuuang order.
-
-Maaaring magbago ang mga naka-post na presyo at alok ng panaderya. Direktang kumpirmahin ang kasalukuyang quote bago magbayad, kasama ang anumang mga pagsasaayos sa disenyo, bayad sa paghahatid, at halaga ng deposito. Kung ang pamilya ay may nakapirming badyet, sabihin nang maaga; masasabi sa iyo ng panaderya kung aling mga laki o mas simpleng pagpipilian sa dekorasyon ang akma sa halaga nang hindi ipinahihiwatig na magkapareho ang halaga ng bawat custom na kahilingan.
-
-Panatilihin ang mga live na presyo sa isang pinapanatili na menu o gabay sa presyo. Ang tanong na ito na partikular sa lokasyon ay masasagot doon nang hindi gumagawa ng pahina ng Mandaue na inuulit ang pangalan ng lungsod sa parehong impormasyon sa pagpepresyo.
+- Confirm current Mandaue address coverage and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

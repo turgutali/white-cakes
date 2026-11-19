@@ -1,44 +1,45 @@
 ---
 id: WC-0562
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Which reference photos help when ordering cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+english_title: "Which Reference Photos Help with a Mandaue Cake Order"
+cebuano_title: "Unsang Reference Photo ang Makatabang sa Cake Order sa Mandaue"
+tagalog_title: "Aling Reference Photo ang Makatutulong sa Cake Order sa Mandaue"
 ---
 
-## Use a reference photo to explain your Mandaue cake request
+## English
 
-Choose one image that shows the design feature the family likes. It may be the colour palette, a border, a floral detail, or the overall shape. Tell White Cakes which part to adapt and which parts are optional. If several family members have different examples, agree on one main direction before sending the brief.
+# Which Reference Photos Help with a Mandaue Cake Order
 
-References help explain an idea; they do not guarantee an exact copy. Ask which details are feasible for the chosen size and whether the design changes the quote. Do not send another baker's photo for public use without permission. For a family cake, also include the event date, guest serving estimate, flavour, and exact inscription.
+Send a small set of reference photos with a clear purpose. A full-cake view can explain shape and proportions; a close-up can show a border or texture; a colour image can set the palette. Add a note to each one describing the exact feature you want the baker to consider.
 
-For Mandaue delivery, provide the complete address, landmark, receiver's mobile number, and any gate or building instruction. Confirm the fee and agreed window. White Cakes' current size estimates are 8–12 party portions for 6 inches and 16–24 for 8 inches. Made-to-order cakes need at least three days' notice; a 50% deposit confirms the agreed order.
+Keep the references compatible. A board mixing several unrelated styles can obscure the family’s real preference. Include the cake size, flavour, event date, exact inscription, and full Mandaue delivery address in the written brief. If some detail can be simplified, say so.
 
-Keep these reference tips in the general custom brief guide. A local case study needs a real approved reference-to-finished example.
+References guide the discussion but do not guarantee exact copying or local delivery availability. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm what is feasible and the final quote. See the [custom cake brief guide](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang Reference Photo ang Makatabang sa Cake Order sa Mandaue
+
+Magpadala og gamay nga koleksiyon sa reference photo nga klaro ang katuyoan. Makatabang sa porma ug proporsiyon ang hulagway sa tibuok cake; makapakita sa border o texture ang close-up; makapili sa palette ang litrato sa kolor. Butangi og nota ang matag usa nga naghulagway sa tukmang detalye nga gusto nimo ikonsiderar sa baker.
+
+Himoa nga magkahiuyon ang mga reference. Mahimong tabunan sa board nga nagsagol og dili magkaparehas nga estilo ang tinuod nga gusto sa pamilya. Iapil sa sinulat nga brief ang gidak-on, flavour, petsa sa event, eksaktong inskripsiyon ug kompleto nga delivery address sa Mandaue. Isulti kon adunay detalye nga mapasimple.
+
+Giya sa panaghisgot ang reference, apan dili garantiya sa eksaktong pagkopya o delivery availability. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha unsay mahimo ug final quote. Tan-awa ang [giya sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling Reference Photo ang Makatutulong sa Cake Order sa Mandaue
+
+Magpadala ng maliit na set ng reference photos na may malinaw na layunin. Naipapaliwanag ng buong larawan ng cake ang hugis at proporsyon; naipapakita ng close-up ang border o texture; at naitatakda ng larawan ng kulay ang palette. Lagyan ng tala ang bawat isa tungkol sa eksaktong feature na nais mong isaalang-alang ng baker.
+
+Panatilihing magkakatugma ang references. Maaaring matakpan ng board na naghahalo ng magkakaibang estilo ang tunay na gusto ng pamilya. Isama sa nakasulat na brief ang sukat, flavour, petsa ng event, eksaktong inscription, at buong delivery address sa Mandaue. Sabihin kung may detalyeng maaaring pasimplehin.
+
+Gabay sa pag-uusap ang references pero hindi garantiya ng eksaktong pagkopya o delivery availability. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin kung ano ang posible at ang pinal na quote. Tingnan ang [gabay sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Gamit ug reference nga litrato para ipasabot ang imong hangyo sa cake sa Mandaue
-
-Pagpili og usa ka hulagway nga nagpakita sa disenyo nga gusto sa pamilya. Mahimo kini nga paleta sa kolor, usa ka utlanan, usa ka detalye sa bulak, o ang kinatibuk-ang porma. Sultihi ang White Cake kung unsang bahin ang ipahiangay ug unsang mga bahin ang opsyonal. Kung daghang mga membro sa pamilya adunay lainlaing mga pananglitan, magkauyon sa usa ka panguna nga direksyon sa dili pa ipadala ang mubo.
-
-Ang mga pakisayran makatabang sa pagpatin-aw sa usa ka ideya; dili nila garantiya ang eksaktong kopya. Pangutan-a kung unsang mga detalye ang mahimo alang sa gipili nga gidak-on ug kung ang disenyo nagbag-o sa kinutlo. Ayaw ipadala ang laing litrato sa panadero para magamit sa publiko nga walay pagtugot. Alang sa cake sa pamilya, ilakip usab ang petsa sa panghitabo, banabana sa pagserbisyo sa bisita, lami, ug eksakto nga inskripsiyon.
-
-Alang sa paghatud sa Mandaue, ihatag ang kompleto nga adres, landmark, numero sa mobile sa tigdawat, ug bisan unsang panudlo sa gate o building. Kumpirma ang bayad ug giuyonan nga bintana. Ang mga banabana sa gidak-on karon sa White Cakes mao ang 8–12 ka parti nga bahin sa 6 ka pulgada ug 16–24 sa 8 ka pulgada. Ang hinimo-sa-pag-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago kini nga mga tip sa pakisayran sa kinatibuk-ang naandan nga mubu nga giya. Ang usa ka lokal nga pagtuon sa kaso nanginahanglan usa ka tinuud nga giaprobahan nga reference-to-finished nga pananglitan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng reference na larawan para ipaliwanag ang iyong kahilingan sa cake sa Mandaue
-
-Pumili ng isang larawan na nagpapakita ng tampok na disenyo na gusto ng pamilya. Maaaring ito ay ang paleta ng kulay, isang hangganan, isang detalye ng bulaklak, o ang pangkalahatang hugis. Sabihin sa White Cake kung aling bahagi ang iaangkop at kung aling mga bahagi ang opsyonal. Kung ang ilang miyembro ng pamilya ay may iba't ibang halimbawa, sumang-ayon sa isang pangunahing direksyon bago ipadala ang brief.
-
-Tumutulong ang mga sanggunian na ipaliwanag ang isang ideya; hindi nila ginagarantiyahan ang eksaktong kopya. Itanong kung aling mga detalye ang magagawa para sa napiling laki at kung binago ng disenyo ang quote. Huwag magpadala ng larawan ng ibang panadero para sa pampublikong paggamit nang walang pahintulot. Para sa isang family cake, isama rin ang petsa ng kaganapan, pagtatantya ng paghahatid ng bisita, lasa, at eksaktong inskripsiyon.
-
-Para sa paghahatid sa Mandaue, ibigay ang kumpletong address, landmark, numero ng mobile ng receiver, at anumang tagubilin sa gate o gusali. Kumpirmahin ang bayad at napagkasunduang window. Ang kasalukuyang mga pagtatantya ng laki ng White Cakes ay 8–12 party portion para sa 6 na pulgada at 16–24 para sa 8 pulgada. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang mga reference na tip na ito sa pangkalahatang custom na maikling gabay. Ang isang lokal na case study ay nangangailangan ng isang tunay na naaprubahang reference-to-finished na halimbawa.
+- Verify current Mandaue address coverage, service terms, and event details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,45 @@
 ---
 id: WC-0564
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "Planning cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Pagplano sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+english_title: "Planning Cake Size for a Mandaue Family Meal"
+cebuano_title: "Pagplano sa Gidak-on sa Cake para sa Family Meal sa Mandaue"
+tagalog_title: "Pagpaplano ng Sukat ng Cake para sa Kainan ng Pamilya sa Mandaue"
 ---
 
-## Choose a cake size for the family members who will share it
+## English
 
-For a Mandaue family gathering, base the cake size on the people likely to take a slice, not everyone invited to the meal. Ask the host whether cake is the only dessert and whether slices will be small or generous. This gives the bakery a more useful serving estimate than a headcount alone.
+# Planning Cake Size for a Mandaue Family Meal
 
-White Cakes' current guide estimates 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and 30–36 from a 6+8-inch two-tier cake. These ranges vary with cutting style. If the family count is close to the upper end, confirm the plan with the bakery instead of assuming every slice will be identical.
+For a family meal, size the cake for the people expected to stay for dessert. If relatives may arrive late or leave early, ask the host how many are likely to be present at the moment of serving. Decide whether the cake is the only dessert and whether modest slices are expected after the meal.
 
-Include the date, flavour, design, exact inscription, and Mandaue delivery address in the enquiry. Share a landmark and the recipient's mobile number, then confirm delivery availability, window, and address-based fee. White Cakes requires at least three days' notice; the agreed order is secured with a 50% deposit after details and terms are confirmed.
+White Cakes’ guide estimates about two generous or three modest servings after a meal from a 4-inch Bento. Larger listed sizes have approximate party-slice ranges, but height, design, and cutting affect the yield. Use the guide as a starting point and confirm the intended portions with the bakery.
 
-The portion guidance is useful in the main size article. Add a separate Mandaue case only if a real local event or query provides distinct, verified information.
+Tell the bakery the guest range and meal context, then confirm which current size fits the table and design. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Pagplano sa Gidak-on sa Cake para sa Family Meal sa Mandaue
+
+Para sa family meal, pilia ang gidak-on base sa mga gilaoman nga magpabilin para sa dessert. Kon ulahi moabot o sayo mouli ang paryente, pangutan-a ang host pila ang lagmit naa sa oras sa pag-serve. Desisyoni kon cake ra ba ang dessert ug modest ba nga hiwa ang gipaabot human sa pagkaon.
+
+Gibanabana sa giya sa White Cakes nga adunay mga duha ka generous o tulo ka modest nga servings human mokaon ang 4-inch Bento. Ang dagkong gidak-on nga gilista adunay banabana nga party slices, apan makaapekto ang kataas, disenyo ug paghiwa sa yield. Gamita kini isip sinugdanan ug kumpirmaha ang portions sa panaderya.
+
+Isulti sa panaderya ang range sa bisita ug konteksto sa pagkaon, unya kumpirmaha unsang kasamtangang gidak-on ang mohaum sa lamesa ug disenyo. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Pagpaplano ng Sukat ng Cake para sa Kainan ng Pamilya sa Mandaue
+
+Para sa family meal, itakda ang sukat ng cake para sa mga inaasahang mananatili para sa dessert. Kung maaaring mahuli o maagang umuwi ang mga kamag-anak, itanong sa host kung ilan ang malamang na naroroon sa oras ng paghahain. Pagpasyahan kung cake lang ang dessert at kung modest na hiwa ang inaasahan pagkatapos kumain.
+
+Tinatantiya ng gabay ng White Cakes na may mga dalawang generous o tatlong modest na serving pagkatapos kumain ang 4-inch Bento. May tinatayang party-slice ranges ang mas malalaking nakalistang sukat, pero nakaaapekto sa yield ang taas, design, at paghiwa. Gamitin ito bilang panimula at kumpirmahin ang portions sa bakery.
+
+Sabihin sa bakery ang range ng bisita at konteksto ng kainan, saka kumpirmahin kung aling kasalukuyang sukat ang babagay sa mesa at design. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug gidak-on sa cake para sa mga sakop sa pamilya nga mopaambit niini
-
-Alang sa usa ka panagtapok sa pamilya sa Mandaue, ibase ang gidak-on sa cake sa mga tawo nga lagmit mokuha og hiwa, dili tanan nga giimbitar sa pagpangaon. Pangutan-a ang tagbalay kung ang cake mao ra ang dessert ug kung ang mga hiwa gamay ra o daghan. Kini naghatag sa panaderya og mas mapuslanong banabana sa pagserbisyo kay sa usa ka headcount lamang.
-
-Ang kasamtangang giya sa White Cakes nagbanabana sa 8–12 ka hiwa sa party gikan sa 6-pulgada nga cake, 16–24 gikan sa 8-pulgada nga cake, ug 30–36 gikan sa 6+8-pulgada nga duha-ka-tier nga cake. Kini nga mga han-ay lainlain sa istilo sa pagputol. Kung ang ihap sa pamilya hapit sa taas nga tumoy, kumpirmahi ang plano sa panaderya imbes nga maghunahuna nga ang matag hiwa parehas.
-
-Iapil ang petsa, lami, disenyo, eksaktong inskripsiyon, ug adres sa pagpadala sa Mandaue sa pangutana. Ipaambit ang usa ka timaan ug ang numero sa mobile sa nakadawat, dayon kumpirmahi ang pagkaandam sa pagpadala, bintana, ug bayad nga nakabase sa address. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang gikasabutan nga order gisiguro nga adunay 50% nga deposito pagkahuman nakumpirma ang mga detalye ug termino.
-
-Ang giya sa bahin mapuslanon sa panguna nga gidak-on nga artikulo. Pagdugang ug bulag nga kaso sa Mandaue kung ang tinuod nga lokal nga panghitabo o pangutana naghatag lahi, gipamatud-an nga kasayuran.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng laki ng cake para sa mga miyembro ng pamilya na magbabahagi nito
-
-Para sa isang pagtitipon ng pamilya sa Mandaue, ibabatay ang laki ng cake sa mga taong malamang na kumuha ng isang slice, hindi lahat ng imbitado sa pagkain. Tanungin ang host kung ang cake ay ang tanging dessert at kung ang mga hiwa ay magiging maliit o mapagbigay. Nagbibigay ito sa panaderya ng mas kapaki-pakinabang na pagtatantya sa paghahatid kaysa sa isang bilang lamang.
-
-Tinatantya ng kasalukuyang gabay ng White Cakes ang 8–12 party slice mula sa isang 6-inch na cake, 16–24 mula sa isang 8-inch na cake, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga saklaw na ito ay nag-iiba sa istilo ng paggupit. Kung ang bilang ng pamilya ay malapit sa itaas na dulo, kumpirmahin ang plano sa panaderya sa halip na ipagpalagay na ang bawat slice ay magkapareho.
-
-Isama ang petsa, lasa, disenyo, eksaktong inskripsiyon, at address ng paghahatid ng Mandaue sa tanong. Magbahagi ng landmark at mobile number ng tatanggap, pagkatapos ay kumpirmahin ang availability ng paghahatid, window, at bayad na nakabatay sa address. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; ang napagkasunduang order ay sinigurado ng 50% na deposito pagkatapos makumpirma ang mga detalye at tuntunin.
-
-Ang gabay sa bahagi ay kapaki-pakinabang sa pangunahing laki ng artikulo. Magdagdag lamang ng hiwalay na kaso ng Mandaue kung ang isang tunay na lokal na kaganapan o query ay nagbibigay ng natatanging, na-verify na impormasyon.
+- Verify current Mandaue address coverage, service terms, and event details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

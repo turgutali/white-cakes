@@ -1,38 +1,45 @@
 ---
 id: WC-0553
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html; confirm delivery address coverage
-english_title: "What to include in a custom brief for cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
+english_title: "What to Include in a Cake Brief for a Mandaue Family Event"
+cebuano_title: "Unsa ang Iapil sa Brief sa Cake para sa Family Event sa Mandaue"
+tagalog_title: "Ano ang Isasama sa Brief para sa Cake sa Mandaue Family Event"
 ---
 
-## Give the bakery one family idea and the address where it will be served
+## English
 
-Include the family celebration date, approximate servings, requested size, flavour, and delivery or pickup plan. For the design, choose one personal detail—such as a favourite colour, a short family greeting, or a shared symbol—and identify it as the priority. If relatives have different ideas, let one person send the combined brief.
+# What to Include in a Cake Brief for a Mandaue Family Event
 
-Share the full Mandaue address and ask whether delivery is available. Confirm the fee, handoff time, and receiver’s phone number. Send references only as inspiration unless you have confirmed that a specific feature is possible, and get the final design and quote in writing.
+Give the bakery the family event date, serving time, guest range, size preference, flavour, and exact inscription. The delivery address should identify the house, building, or venue clearly; add a landmark only as extra help, not as a substitute for the full address. Include the receiver’s phone number and any gate or entry instructions.
 
-Keep this as a location example in the shared custom-cake guide. Do not claim Mandaue service coverage without checking the current route.
+Describe who the cake is for and the design detail the family cares about most. One reference image with a note can be more useful than a collage of styles. Mark which elements are essential and which may be adapted to the size and production method.
+
+Ask the bakery to confirm it can deliver to the specific Mandaue address and date. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm current capabilities, final quote, deposit, and delivery window. Use the [custom cake brief checklist](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Brief sa Cake para sa Family Event sa Mandaue
+
+Ihatag sa panaderya ang petsa sa family event, oras sa pag-serve, range sa bisita, gusto nga gidak-on, flavour ug eksaktong inskripsiyon. Kinahanglan klaro sa delivery address ang balay, building o venue; dugang nga tabang lang ang landmark, dili puli sa kompleto nga address. Iapil ang numero sa modawat ug instruksyon sa gate o pagsulod.
+
+Ihulagway para kang kinsa ang cake ug unsang detalye sa disenyo ang labing importante sa pamilya. Mas mapuslanon usahay ang usa ka reference nga naay nota kaysa collage sa daghang estilo. Markahi unsang elemento ang kinahanglan ug unsay mahimong ipasibo sa gidak-on ug pamaagi sa paghimo.
+
+Pangutan-a ang panaderya kon madeliver ba niini sa espesipikong address sa Mandaue ug petsa. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha ang kasamtangang kapasidad, final quote, deposit ug delivery window. Gamita ang [checklist sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Brief para sa Cake sa Mandaue Family Event
+
+Ibigay sa bakery ang petsa ng family event, oras ng paghahain, range ng bisita, gustong sukat, flavour, at eksaktong inscription. Dapat malinaw sa delivery address ang bahay, building, o venue; dagdag na tulong lang ang landmark at hindi kapalit ng buong address. Isama ang numero ng tatanggap at tagubilin sa gate o pagpasok.
+
+Ilarawan kung para kanino ang cake at aling detalye ng design ang pinakamahalaga sa pamilya. Minsan mas kapaki-pakinabang ang isang reference na may tala kaysa collage ng maraming estilo. Markahan kung aling elemento ang kailangang panatilihin at alin ang maaaring iangkop sa sukat at paraan ng paggawa.
+
+Itanong sa bakery kung makapaghahatid ito sa partikular na address sa Mandaue at petsa. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin ang kasalukuyang kakayahan, pinal na quote, deposito, at delivery window. Gamitin ang [checklist para sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hatagi ang panaderya og usa ka ideya sa pamilya ug ang adres kung asa kini i-serve
-
-Ilakip ang petsa sa selebrasyon sa pamilya, gibanabana nga mga servings, gihangyo nga gidak-on, lami, ug plano sa pagpadala o pagkuha. Alang sa disenyo, pagpili og usa ka personal nga detalye—sama sa paborito nga kolor, mubo nga pagbati sa pamilya, o gipaambit nga simbolo—ug ilha kini isip prayoridad. Kung ang mga paryente adunay lahi nga mga ideya, tugoti ang usa ka tawo nga magpadala sa hiniusa nga mubo.
-
-I-share ang tibuok Mandaue address ug pangutana kung available ba ang delivery. Kumpirma ang bayad, oras sa paghatag, ug numero sa telepono sa tigdawat. Ipadala lamang ang mga pakisayran ingon nga inspirasyon gawas kung imong gikumpirma nga posible ang usa ka piho nga bahin, ug kuhaa ang katapusan nga disenyo ug kinutlo sa pagsulat.
-
-Hupti kini isip pananglitan sa lokasyon sa gipaambit nga custom-cake nga giya. Ayaw pag-claim sa serbisyo sa Mandaue nga dili susihon ang kasamtangan nga rota.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bigyan ang panaderya ng isang ideya ng pamilya at ang address kung saan ito ihahatid
-
-Isama ang petsa ng pagdiriwang ng pamilya, tinatayang mga serving, hiniling na laki, lasa, at plano sa paghahatid o pickup. Para sa disenyo, pumili ng isang personal na detalye—gaya ng paboritong kulay, maikling pampamilyang pagbati, o isang nakabahaging simbolo—at tukuyin ito bilang priyoridad. Kung ang mga kamag-anak ay may iba't ibang ideya, hayaan ang isang tao na magpadala ng pinagsamang brief.
-
-Ibahagi ang buong Mandaue address at itanong kung available ang delivery. Kumpirmahin ang bayad, oras ng handoff, at numero ng telepono ng tatanggap. Magpadala lamang ng mga sanggunian bilang inspirasyon maliban kung nakumpirma mong posible ang isang partikular na tampok, at makuha ang panghuling disenyo at quote sa pamamagitan ng pagsulat.
-
-Panatilihin ito bilang isang halimbawa ng lokasyon sa nakabahaging gabay sa custom-cake. Huwag i-claim ang saklaw ng serbisyo ng Mandaue nang hindi tinitingnan ang kasalukuyang ruta.
+- Confirm current Mandaue address coverage and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

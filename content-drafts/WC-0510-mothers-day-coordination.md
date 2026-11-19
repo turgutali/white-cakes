@@ -1,44 +1,45 @@
 ---
 id: WC-0510
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to coordinate Mother's Day cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa Mother's Day sa Cebu"
+english_title: "How to Coordinate a Mother’s Day Cake with Family and Venue"
+cebuano_title: "Giunsa Pag-coordinate sa Mother’s Day Cake uban sa Pamilya ug Venue"
+tagalog_title: "Paano I-coordinate ang Mother’s Day Cake sa Pamilya at Venue"
 ---
 
-## Coordinate Mother's Day cake delivery before the busy date
+## English
 
-Choose a local person who can receive the cake during the agreed window. If the cake is a surprise, make sure that person knows whether the recipient can be contacted. Give White Cakes the full address, landmark, recipient's mobile number, and building or gate instructions. Confirm the delivery fee and window for that location.
+# How to Coordinate a Mother’s Day Cake with Family and Venue
 
-Plan where the cake will be placed once it arrives. Keep it away from direct sunlight and heat, and follow the bakery's storage advice if it will wait for several hours. Do not assume that a driver can leave a cake with an unbriefed guard or change the delivery point on the day.
+Agree on one family contact who will handle the order and one receiver who will be available during delivery. This avoids conflicting messages about the design, payment, or serving time. If someone else is hosting, get the complete address and venue instructions before sending the order to the bakery.
 
-Send the date, size, flavour, design, short inscription, and serving estimate in one order message. Check availability early; made-to-order cakes require at least three days' notice. Confirm the final quote and handoff plan before paying the 50% deposit that secures the agreed order.
+Ask a restaurant or event venue whether it accepts outside cakes, where the cake can wait, and who is allowed to receive it. White Cakes confirms a delivery window rather than an exact minute, so make sure the receiver can answer throughout that period and keep the meal schedule flexible.
 
-Keep seasonal coordination steps in the general delivery guide. Publish special Mother's Day route or capacity rules only when White Cakes confirms them.
+Share the final order summary with only the people coordinating the celebration. For a surprise, decide who should receive updates and what must stay private. If the venue or time changes, contact the bakery and wait for confirmation. Review the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-coordinate sa Mother’s Day Cake uban sa Pamilya ug Venue
+
+Pagkauyon og usa ka contact sa pamilya nga moatiman sa order ug usa ka modawat nga available sa delivery. Makalikay kini sa nagkasumpaking mensahe bahin sa disenyo, bayad o oras sa pag-serve. Kon laing tawo ang host, pangayoa daan ang kompleto nga address ug instruksyon sa venue sa dili pa ipadala ang order sa panaderya.
+
+Pangutan-a ang restaurant o event venue kon modawat ba kini og cake gikan sa gawas, asa kini maghulat ug kinsa ang mahimong modawat. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; siguroha nga makatubag ang modawat sa tibuok panahon ug flexible ang iskedyul sa pagkaon.
+
+Ipaambit ang final nga order summary sa mga tawo lang nga nag-coordinate sa selebrasyon. Kon surprise, desisyoni kinsa ang makadawat sa updates ug unsay sekreto. Kon mausab ang venue o oras, kontaka ang panaderya ug hulata ang kumpirmasyon. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano I-coordinate ang Mother’s Day Cake sa Pamilya at Venue
+
+Magkasundo sa isang family contact na hahawak ng order at isang tatanggap na available sa oras ng delivery. Iniiwasan nito ang magkakasalungat na mensahe tungkol sa design, bayad, o oras ng paghahain. Kung ibang tao ang host, hingin muna ang buong address at tagubilin ng venue bago ipadala ang order sa bakery.
+
+Tanungin ang restaurant o event venue kung tumatanggap ito ng dalang cake, saan ito maaaring maghintay, at sino ang pinapayagang tumanggap. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto; tiyaking sasagot ang tatanggap sa buong panahong iyon at panatilihing flexible ang iskedyul ng kainan.
+
+Ibahagi ang pinal na order summary sa mga taong nag-uugnay sa selebrasyon lang. Kung sorpresa ito, pagpasiyahan kung sino ang tatanggap ng updates at ano ang dapat manatiling lihim. Kung magbago ang venue o oras, kontakin ang bakery at hintayin ang kumpirmasyon. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## I-coordinate ang paghatud sa cake sa Mother's Day sa wala pa ang busy nga petsa
-
-Pagpili og usa ka lokal nga tawo nga makadawat sa cake atol sa gikasabutan nga bintana. Kung ang cake usa ka sorpresa, siguroha nga ang tawo nahibal-an kung ang nakadawat mahimo nga makontak. Ihatag sa White Cakes ang kompleto nga adres, landmark, mobile number sa nakadawat, ug mga instruksiyon sa building o gate. Kumpirma ang bayad sa pagpadala ug bintana alang sa kana nga lokasyon.
-
-Planoha kung asa ibutang ang cake sa higayon nga kini moabut. Ipahilayo kini sa direkta nga kahayag sa adlaw ug init, ug sunda ang tambag sa pagtipig sa panaderya kung maghulat kini ug daghang oras. Ayaw hunahunaa nga ang usa ka drayber mahimo’g magbilin usa ka cake sa usa ka wala mailhi nga guwardiya o usbon ang punto sa pagpadala sa adlaw.
-
-Ipadala ang petsa, gidak-on, lami, disenyo, mubo nga inskripsiyon, ug banabana sa pagserbisyo sa usa ka mensahe sa order. Susiha ang pagkaanaa sa sayo; Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo. Kumpirma ang katapusang quote ug handoff nga plano sa dili pa mobayad sa 50% nga deposito nga nagsiguro sa gikasabutan nga order.
-
-Ipadayon ang seasonal nga mga lakang sa koordinasyon sa kinatibuk-ang giya sa paghatud. I-publish ang espesyal nga ruta sa Adlaw sa Inahan o mga lagda sa kapasidad lamang kung gikumpirma kini sa White Cakes.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## I-coordinate ang paghahatid ng cake para sa Araw ng Ina bago ang abalang petsa
-
-Pumili ng isang lokal na tao na maaaring tumanggap ng cake sa panahon ng napagkasunduang window. Kung sorpresa ang cake, tiyaking alam ng taong iyon kung maaaring makipag-ugnayan ang tatanggap. Ibigay sa White Cakes ang buong address, landmark, mobile number ng tatanggap, at mga tagubilin sa gusali o gate. Kumpirmahin ang bayad sa paghahatid at window para sa lokasyong iyon.
-
-Planuhin kung saan ilalagay ang cake kapag dumating na ito. Ilayo ito sa direktang sikat ng araw at init, at sundin ang payo ng imbakan ng panaderya kung maghihintay ito ng ilang oras. Huwag ipagpalagay na ang isang driver ay maaaring mag-iwan ng cake sa isang unbriefed guard o baguhin ang delivery point sa araw.
-
-Ipadala ang petsa, laki, lasa, disenyo, maikling inskripsiyon, at pagtatantya ng paghahatid sa isang mensahe ng order. Tingnan ang availability nang maaga; ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Kumpirmahin ang pinal na quote at handoff na plano bago bayaran ang 50% na deposito na nagsisiguro sa napagkasunduang order.
-
-Panatilihin ang mga pana-panahong hakbang sa koordinasyon sa pangkalahatang gabay sa paghahatid. Mag-publish ng espesyal na ruta ng Mother's Day o mga panuntunan sa kapasidad kapag kinumpirma ang mga ito ng White Cakes.
+- Verify current holiday availability and terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

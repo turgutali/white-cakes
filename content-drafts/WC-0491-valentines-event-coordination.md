@@ -1,38 +1,45 @@
 ---
 id: WC-0491
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html; confirm route and availability
-english_title: "How to coordinate Valentine's cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa Valentine's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html
+english_title: "How to Coordinate a Valentine’s Cake Surprise in Cebu"
+cebuano_title: "Giunsa Pag-coordinate sa Surprise nga Valentine’s Cake sa Cebu"
+tagalog_title: "Paano I-coordinate ang Surprise na Valentine’s Cake sa Cebu"
 ---
 
-## Keep the handoff plan simple and clear for the person receiving it
+## English
 
-Choose one person to coordinate the Valentine’s order and receive the cake. Share the complete address, recipient contact, requested handoff window, and any gate or building instructions. If the cake is a surprise, specify which number the bakery can call and avoid messages that could reveal the plan.
+# How to Coordinate a Valentine’s Cake Surprise in Cebu
 
-Confirm the size, flavour, design, inscription, total price, and delivery fee in writing. Ask whether the requested route and timing are available; do not assume holiday delivery operates like an ordinary day. The receiver should take the cake promptly and follow product-specific care instructions.
+A successful surprise needs clear roles. Decide who places the order, who can answer the bakery, who receives the cake, and who keeps the plan confidential. Give the bakery the receiver’s active phone number and explain whether a call or message could reveal the surprise.
 
-Add the coordination checklist to the central Cebu delivery guide. A separate Valentine’s location case needs a real documented handoff and customer approval.
+For a restaurant, hotel, or workplace, ask the venue first whether outside cakes are accepted, where they can be stored, and who is authorized to receive them. Share the exact handoff point and any entry instructions with the bakery. White Cakes confirms a delivery window rather than an exact minute, so schedule the reveal with enough flexibility.
+
+Agree with the receiver on a discreet backup plan in case the recipient arrives early or the venue changes the arrangement. Confirm the address, date, and communication preferences in writing. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) for general handoff details.
+
+## Cebuano
+
+# Giunsa Pag-coordinate sa Surprise nga Valentine’s Cake sa Cebu
+
+Kinahanglan og klarong papel ang matag usa aron molampos ang surprise. Desisyoni kinsa ang mo-order, kinsa ang motubag sa panaderya, kinsa ang modawat sa cake ug kinsa ang magtago sa plano. Ihatag sa panaderya ang aktibong numero sa modawat ug ipasabut kon makadaot ba sa surprise ang tawag o mensahe.
+
+Para sa restaurant, hotel o trabahoan, pangutan-a una ang venue kon modawat ba sila og cake gikan sa gawas, asa kini tipigan ug kinsa ang awtorisadong modawat. Ipaambit sa panaderya ang tukmang handoff point ug instruksyon sa pagsulod. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa flexible ang oras sa reveal.
+
+Pagkauyon og hilom nga backup plan sa modawat kon sayo moabot ang recipient o mausab ang arrangement sa venue. Kumpirmaha sa sinulat ang address, petsa ug gusto nga paagi sa komunikasyon. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano I-coordinate ang Surprise na Valentine’s Cake sa Cebu
+
+Kailangan ng malinaw na mga tungkulin para maging maayos ang sorpresa. Pagpasyahan kung sino ang mag-o-order, sasagot sa bakery, tatanggap ng cake, at maglilihim sa plano. Ibigay sa bakery ang aktibong numero ng tatanggap at ipaliwanag kung maaaring mabunyag ng tawag o mensahe ang sorpresa.
+
+Para sa restaurant, hotel, o trabaho, itanong muna sa venue kung tumatanggap sila ng dalang cake, saan ito maaaring itabi, at sino ang awtorisadong tumanggap. Ibahagi sa bakery ang eksaktong handoff point at tagubilin sa pagpasok. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya maglaan ng luwag sa oras ng reveal.
+
+Magkasundo sa isang discreet na backup plan kasama ang tatanggap kung maagang dumating ang pagbibigyan o baguhin ng venue ang arrangement. Kumpirmahin nang nakasulat ang address, petsa, at paraan ng komunikasyon. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti nga simple ug klaro ang handoff nga plano para sa tawo nga nakadawat niini
-
-Pagpili og usa ka tawo nga mag-coordinate sa order sa Valentine ug makadawat sa cake. Ipakigbahin ang kompleto nga adres, kontak sa nakadawat, gihangyo nga handoff window, ug bisan unsang mga panudlo sa ganghaan o building. Kung ang cake usa ka sorpresa, ipiho kung unsang numero ang mahimo tawagan sa panaderya ug likayi ang mga mensahe nga makapadayag sa plano.
-
-Kumpirma ang gidak-on, lami, disenyo, inskripsiyon, kinatibuk-ang presyo, ug bayad sa pagpadala sa pagsulat. Pangutan-a kung ang gihangyo nga ruta ug oras magamit; ayaw hunahunaa ang paghatud sa holiday naglihok sama sa usa ka ordinaryo nga adlaw. Kinahanglang dad-on dayon sa tigdawat ang cake ug sundon ang mga panudlo sa pag-atiman nga piho sa produkto.
-
-Idugang ang checklist sa koordinasyon sa giya sa paghatud sa sentro sa Sugbo. Ang usa ka bulag nga kaso sa lokasyon sa Valentine nanginahanglan usa ka tinuud nga dokumentado nga handoff ug pagtugot sa kustomer.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing simple at malinaw ang handoff plan para sa taong tumatanggap nito
-
-Pumili ng isang tao upang i-coordinate ang order ng Valentine at tanggapin ang cake. Ibahagi ang kumpletong address, contact ng tatanggap, hiniling na handoff window, at anumang mga tagubilin sa gate o gusali. Kung sorpresa ang cake, tukuyin kung aling numero ang maaaring tawagan ng panaderya at iwasan ang mga mensaheng maaaring magbunyag ng plano.
-
-Kumpirmahin ang laki, lasa, disenyo, inskripsiyon, kabuuang presyo, at bayad sa paghahatid nang nakasulat. Tanungin kung ang hiniling na ruta at oras ay magagamit; huwag ipagpalagay na ang paghahatid ng holiday ay gumagana tulad ng isang ordinaryong araw. Dapat kunin kaagad ng receiver ang cake at sundin ang mga tagubilin sa pangangalaga na partikular sa produkto.
-
-Idagdag ang checklist ng koordinasyon sa gabay sa paghahatid sa gitnang Cebu. Ang isang hiwalay na kaso ng lokasyon ng Valentine ay nangangailangan ng isang tunay na dokumentadong handoff at pag-apruba ng customer.
+- Confirm current seasonal availability and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

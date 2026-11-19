@@ -1,38 +1,45 @@
 ---
 id: WC-0542
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; confirm office delivery independently
-english_title: "How to match the design of cake for an IT Park office celebration in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "How to Match an Office Cake Design to an IT Park Celebration"
+cebuano_title: "Giunsa Pagpares sa Disenyo sa Office Cake ug sa Event sa IT Park"
+tagalog_title: "Paano Itugma ang Design ng Office Cake sa IT Park Event"
 ---
 
-## Use one office detail and keep the cake message easy to read
+## English
 
-For an office celebration, decide whether the cake should feature the colleague’s name, a short team message, or a company milestone. Pick one primary visual element and use a brand colour or logo only if approved. Share a reference and tell the bakery which feature is essential.
+# How to Match an Office Cake Design to an IT Park Celebration
 
-Confirm that the design fits the selected size and leaves room for the inscription. Include the date, flavour, serving estimate, building or tower, and recipient’s phone number. Ask about the access process and current delivery availability for the exact address.
+Match the design to the office event’s purpose: a team welcome, project completion, birthday, or company milestone. A short message and one visual cue may be enough. If the cake will be seen in a large break room, prioritize legibility and contrast over small details that disappear from a distance.
 
-Add design guidance to the general Cebu article. Any IT Park-specific portfolio story needs a real cake, original photo, and company permission; the location alone does not create a distinct article.
+Check the size, available table space, and time set aside for the celebration. If employees will take turns during shifts, a compact design can make cutting and serving easier. Tell the bakery whether the cake will remain in the office or be moved to another location.
+
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask how brand colours or a logo reference can be adapted, and confirm the design and access arrangements before ordering. See [Cebu cake design ideas](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpares sa Disenyo sa Office Cake ug sa Event sa IT Park
+
+Ipares ang disenyo sa katuyoan sa office event: welcome sa team, nahuman nga proyekto, birthday o milestone sa kompanya. Mahimong igo na ang mubo nga mensahe ug usa ka biswal nga detalye. Kon makita ang cake sa dakong break room, unaha ang pagkabasa ug contrast kaysa gagmayng detalye nga dili makita sa layo.
+
+Susiha ang gidak-on, luna sa lamesa ug oras nga igahin sa selebrasyon. Kon mag-ilis-ilis ang mga empleyado sa shift, mahimong mas sayon hiwaon ug i-serve ang compact nga disenyo. Sultihi ang panaderya kon magpabilin ba ang cake sa opisina o ibalhin sa laing lugar.
+
+Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsaon pagpahiangay sa brand colors o logo reference ug kumpirmaha ang disenyo ug access arrangement sa dili pa mo-order. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Itugma ang Design ng Office Cake sa IT Park Event
+
+Itugma ang design sa layunin ng office event: welcome sa team, pagtatapos ng proyekto, birthday, o milestone ng kumpanya. Maaaring sapat na ang maikling mensahe at isang visual detail. Kung makikita ang cake sa malaking break room, unahin ang pagiging malinaw at contrast kaysa maliliit na detalyeng hindi mapapansin mula sa malayo.
+
+Suriin ang sukat, espasyo sa mesa, at oras na inilaan para sa selebrasyon. Kung salitan ang mga empleyado sa shifts, maaaring mas madaling hiwain at ihain ang compact na design. Sabihin sa bakery kung mananatili ang cake sa opisina o ililipat sa ibang lugar.
+
+Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Itanong kung paano iaangkop ang brand colours o logo reference at kumpirmahin ang design at access arrangement bago umorder. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paggamit usa ka detalye sa opisina ug ipadayon ang mensahe sa cake nga dali basahon
-
-Alang sa usa ka selebrasyon sa opisina, pagdesisyon kung ang cake kinahanglan nga adunay ngalan sa kauban, usa ka mubo nga mensahe sa team, o usa ka milestone sa kompanya. Pagpili og usa ka nag-unang visual nga elemento ug gamita ang usa ka kolor sa brand o logo lamang kung aprobahan. Ipaambit ang usa ka pakisayran ug isulti sa panaderya kung unsang bahin ang hinungdanon.
-
-Kumpirma nga ang disenyo mohaum sa pinili nga gidak-on ug nagbilin ug lawak alang sa inskripsiyon. Ilakip ang petsa, lami, banabana sa pagserbisyo, bilding o tore, ug numero sa telepono sa nakadawat. Pangutan-a ang bahin sa proseso sa pag-access ug kasamtangan nga pagkaandam sa pagpadala alang sa eksaktong adres.
-
-Idugang ang giya sa disenyo sa kinatibuk-ang artikulo sa Sugbo. Ang bisan unsang istorya sa portfolio nga piho sa IT Park nanginahanglan usa ka tinuud nga cake, orihinal nga litrato, ug pagtugot sa kompanya; ang lokasyon lamang wala maghimo ug lahi nga artikulo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng isang detalye ng opisina at panatilihing madaling basahin ang mensahe ng cake
-
-Para sa isang pagdiriwang sa opisina, magpasya kung ang cake ay dapat itampok ang pangalan ng kasamahan, isang maikling mensahe ng koponan, o isang milestone ng kumpanya. Pumili ng isang pangunahing visual na elemento at gumamit lamang ng kulay o logo ng brand kung naaprubahan. Magbahagi ng reference at sabihin sa panaderya kung aling feature ang mahalaga.
-
-Kumpirmahin na ang disenyo ay umaangkop sa napiling laki at nag-iiwan ng puwang para sa inskripsiyon. Isama ang petsa, lasa, pagtatantya ng paghahatid, gusali o tore, at numero ng telepono ng tatanggap. Magtanong tungkol sa proseso ng pag-access at kasalukuyang availability ng paghahatid para sa eksaktong address.
-
-Magdagdag ng gabay sa disenyo sa pangkalahatang artikulo sa Cebu. Ang anumang kwentong portfolio na partikular sa IT Park ay nangangailangan ng tunay na cake, orihinal na larawan, at pahintulot ng kumpanya; ang lokasyon lamang ay hindi lumilikha ng isang natatanging artikulo.
+- Confirm building access and current coverage for the exact address before publication.
+- Cebuano and Tagalog drafts need native editorial review.

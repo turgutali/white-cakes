@@ -1,44 +1,45 @@
 ---
 id: WC-0509
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "What to confirm before paying a deposit for Mother's Day cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa Mother's Day sa Cebu"
+english_title: "What to Confirm Before Paying a Mother’s Day Cake Deposit"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit sa Mother’s Day Cake"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Mother’s Day Cake"
 ---
 
-## Confirm Mother's Day order details before paying
+## English
 
-Check date availability early, especially if the cake needs a custom design or delivery. White Cakes requires at least three days' notice for made-to-order cakes, but a holiday date may fill well before then. Wait for explicit confirmation that the requested slot is available.
+# What to Confirm Before Paying a Mother’s Day Cake Deposit
 
-Review the order summary: size, flavour, design, exact inscription, total price, and pickup or delivery plan. If it is a surprise, confirm who the bakery may contact and give a reliable local receiver's number. Verify the complete address, landmark, delivery window, and fee. Make sure the person receiving the cake knows where to store it.
+Before paying a deposit, confirm the bakery has accepted the requested date and that the details are settled. The written summary should include size, flavour, design, exact inscription, total price, delivery address or pickup plan, receiver, and delivery window.
 
-The current process uses a 50% deposit to confirm the agreed order. Follow the payment instructions in the quote and save the receipt. If any price or design detail is unclear, resolve it before sending payment; old seasonal posts may show expired rates.
+White Cakes’ published guidance says a 50% deposit is due after agreement on the final price and order details. Confirm the current payment channel, amount, due date, and balance terms directly with the bakery. Ask how a change in date, address, or design would affect the order and wait for the bakery’s written confirmation.
 
-Keep this holiday reminder in the central ordering guide and recheck the deposit process before publication.
+Keep the payment record with the order summary. If the cake is a surprise, clarify who can receive updates and whether the message can remain private. See the [Cebu cake order checklist](/journal/how-to-order.html) for the remaining details to settle.
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit sa Mother’s Day Cake
+
+Sa dili pa mobayad og deposit, kumpirmaha nga gidawat sa panaderya ang petsa ug nahuman na ang mga detalye. Kinahanglan iapil sa sinulat nga summary ang gidak-on, flavour, disenyo, eksaktong inskripsiyon, kinatibuk-ang presyo, delivery address o pickup plan, modawat ug delivery window.
+
+Nag-ingon ang gipatik nga giya sa White Cakes nga 50% nga deposit ang bayran human magkasinabot sa final nga presyo ug detalye sa order. Kumpirmaha diretso sa panaderya ang kasamtangang payment channel, kantidad, deadline ug terms sa balanse. Pangutan-a unsaon pag-apekto sa order sa kausaban sa petsa, address o disenyo ug hulata ang sinulat nga kumpirmasyon.
+
+Ipares ang record sa bayad ug order summary. Kon surprise ang cake, klaroha kinsa ang makadawat sa updates ug kon matago ba ang mensahe. Tan-awa ang [checklist sa pag-order og cake sa Cebu](/journal/how-to-order.html) para sa ubang detalye.
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Mother’s Day Cake
+
+Bago magbayad ng deposito, tiyaking tinanggap ng bakery ang petsa at napagpasiyahan na ang mga detalye. Dapat kasama sa nakasulat na summary ang sukat, flavour, design, eksaktong inscription, kabuuang presyo, delivery address o pickup plan, tatanggap, at delivery window.
+
+Sinasabi ng inilathalang gabay ng White Cakes na 50% na deposito ang babayaran matapos magkasundo sa pinal na presyo at mga detalye ng order. Kumpirmahin nang direkta sa bakery ang kasalukuyang payment channel, halaga, deadline, at terms ng balanse. Itanong kung paano maaapektuhan ang order ng pagbabago sa petsa, address, o design at hintayin ang nakasulat na kumpirmasyon.
+
+Itabi nang magkasama ang record ng bayad at order summary. Kung sorpresa ang cake, linawin kung sino ang maaaring makatanggap ng updates at kung maitatago ang mensahe. Tingnan ang [checklist sa pag-order ng cake sa Cebu](/journal/how-to-order.html) para sa iba pang kailangang ayusin.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang mga detalye sa order sa Mother's Day sa dili pa mobayad
-
-Susihon og sayo ang petsa nga magamit, labi na kung ang cake nanginahanglan usa ka naandan nga disenyo o paghatud. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga pag-order nga mga cake, apan ang petsa sa holiday mahimong mapuno una pa niana. Paghulat alang sa tin-aw nga pagkumpirma nga ang gihangyo nga slot magamit.
-
-Ribyuha ang summary sa order: gidak-on, lami, disenyo, eksaktong inskripsiyon, kinatibuk-ang presyo, ug plano sa pagkuha o paghatod. Kung sorpresa, kumpirmahi kung kinsa ang mahimong kontakon sa panaderya ug paghatag usa ka kasaligan nga numero sa lokal nga tigdawat. I-verify ang kompleto nga adres, landmark, delivery window, ug bayad. Siguroa nga ang tawo nga nakadawat sa cake nahibal-an kung asa kini ibutang.
-
-Ang kasamtangan nga proseso naggamit ug 50% nga deposito aron makumpirma ang gikasabutan nga order. Sunda ang mga instruksyon sa pagbayad sa quote ug i-save ang resibo. Kung ang bisan unsang detalye sa presyo o disenyo dili klaro, sulbaron kini sa dili pa ipadala ang bayad; Ang mga daan nga seasonal nga mga post mahimong magpakita sa mga expired nga rate.
-
-Itago kini nga pahinumdom sa holiday sa sentro nga giya sa pag-order ug susihon pag-usab ang proseso sa pagdeposito sa wala pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang mga detalye ng order para sa Araw ng Ina bago magbayad
-
-Tingnan nang maaga ang availability ng petsa, lalo na kung ang cake ay nangangailangan ng custom na disenyo o paghahatid. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, ngunit ang petsa ng holiday ay maaaring mapuno bago iyon. Maghintay ng tahasang kumpirmasyon na available ang hiniling na slot.
-
-Suriin ang buod ng order: laki, lasa, disenyo, eksaktong inskripsiyon, kabuuang presyo, at plano ng pickup o paghahatid. Kung ito ay isang sorpresa, kumpirmahin kung sino ang maaaring kontakin ng panaderya at magbigay ng isang maaasahang lokal na numero ng tatanggap. I-verify ang kumpletong address, landmark, delivery window, at bayad. Tiyaking alam ng taong tatanggap ng cake kung saan ito iimbak.
-
-Ang kasalukuyang proseso ay gumagamit ng 50% na deposito upang kumpirmahin ang napagkasunduang order. Sundin ang mga tagubilin sa pagbabayad sa quote at i-save ang resibo. Kung ang anumang detalye ng presyo o disenyo ay hindi malinaw, lutasin ito bago magpadala ng bayad; ang mga lumang pana-panahong post ay maaaring magpakita ng mga nag-expire na rate.
-
-Itago ang paalala sa holiday na ito sa gitnang gabay sa pag-order at suriin muli ang proseso ng pagdedeposito bago i-publish.
+- Verify current holiday availability and terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

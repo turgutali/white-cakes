@@ -1,38 +1,45 @@
 ---
 id: WC-0497
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; verify current seasonal products and use real approved photos
-english_title: "How to choose a design for Mother's Day cake in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa Mother's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "How to Choose a Mother’s Day Cake Design in Cebu"
+cebuano_title: "Giunsa Pagpili sa Disenyo sa Mother’s Day Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Design para sa Mother’s Day Cake sa Cebu"
 ---
 
-## Build the design around one detail that feels personal to the recipient
+## English
 
-Ask what colours, flowers, or styles the recipient likes, then choose one main idea. A short greeting with one meaningful detail can feel personal without crowding the cake. Share one reference and explain what the bakery can adapt to the current product and size.
+# How to Choose a Mother’s Day Cake Design in Cebu
 
-Confirm the exact message, event date, serving estimate, flavour, price, and handoff plan separately. Ask whether the seasonal design is available this year. If using a personal photo or a recognizable family detail, get permission before sharing it with the bakery or publishing a case study.
+Begin with the recipient’s preferences rather than assuming flowers are the only suitable theme. A favourite colour, a short message, or a simple motif can make the cake feel personal. Decide what guests should notice first, then keep other decoration from competing with that focal point.
 
-Add the advice to the central design guide and refresh seasonal examples annually. Use only real, approved cake photos.
+Match the design to the cake’s size and serving setup. A long inscription may be difficult to fit on a small surface, while intricate details can look crowded if too many elements are requested. Consider whether the cake will be displayed at home, transported to a restaurant, or shared at a larger family gathering.
+
+Use references to explain an idea, then ask how it can be adapted. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm which seasonal designs are currently feasible; do not present old product photos as proof of availability. See [cake design ideas in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Disenyo sa Mother’s Day Cake sa Cebu
+
+Sugdi sa gusto sa makadawat imbes magtuo nga bulak ra ang angay nga tema. Mahimong personal ang cake pinaagi sa paboritong kolor, mubo nga mensahe o simple nga motif. Desisyoni unsay unang mamatikdan sa mga bisita, dayon siguroha nga dili makig-ilog ang ubang dekorasyon niini.
+
+Ipares ang disenyo sa gidak-on sa cake ug paagi sa pag-serve. Mahimong lisod ipasulod ang taas nga inskripsiyon sa gamay nga ibabaw, samtang maghuot tan-awon ang daghang detalyado nga elemento. Hunahunaa kon ibutang ba ang cake sa balay, dad-on sa restaurant o ipaambit sa mas dakong panagtapok sa pamilya.
+
+Gamita ang reference sa pagpasabot sa ideya, dayon pangutan-a unsaon pagpahiangay niini. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha unsang seasonal design ang mahimo karon; ayaw gamita ang daang litrato isip pamatuod sa availability. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Design para sa Mother’s Day Cake sa Cebu
+
+Magsimula sa gusto ng tatanggap sa halip na ipalagay na bulak lang ang angkop na tema. Maaaring gawing personal ng paboritong kulay, maikling mensahe, o simpleng motif ang cake. Pagpasyahan kung ano ang unang mapapansin ng mga bisita, saka tiyaking hindi makikipag-agawan dito ang ibang dekorasyon.
+
+Itugma ang design sa sukat ng cake at paraan ng paghahain. Maaaring mahirap ipasok ang mahabang inscription sa maliit na ibabaw, samantalang nagmumukhang masikip ang maraming detalyadong elemento. Isaalang-alang kung ididisplay ang cake sa bahay, dadalhin sa restaurant, o pagsasaluhan sa mas malaking pagtitipon ng pamilya.
+
+Gamitin ang references para ipaliwanag ang ideya, saka itanong kung paano ito iaangkop. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin kung aling seasonal design ang kayang gawin ngayon; huwag gawing patunay ng availability ang lumang product photo. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paghimo sa disenyo sa palibot sa usa ka detalye nga gibati nga personal sa nakadawat
-
-Pangutan-a kung unsa nga mga kolor, bulak, o estilo ang gusto sa nakadawat, dayon pagpili og usa ka punoan nga ideya. Ang usa ka mubo nga pagtimbaya nga adunay usa ka makahuluganon nga detalye mahimong mabati nga personal nga wala’y pagpuno sa cake. Ipakigbahin ang usa ka reperensiya ug ipasabut kung unsa ang mahimo sa panaderya sa karon nga produkto ug gidak-on.
-
-Kumpirma ang eksaktong mensahe, petsa sa panghitabo, banabana sa pagserbisyo, lami, presyo, ug plano sa handoff nga gilain. Pangutan-a kon ang seasonal nga disenyo anaa ba karong tuiga. Kung mogamit ug personal nga litrato o mailhan nga detalye sa pamilya, pagpangayo og pagtugot sa dili pa kini ipaambit sa panaderya o pagmantala og case study.
-
-Idugang ang tambag sa sentro nga giya sa disenyo ug i-refresh ang mga seasonal nga pananglitan matag tuig. Gamita lamang ang tinuod, aprobado nga mga litrato sa cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Buuin ang disenyo sa paligid ng isang detalyeng personal sa tatanggap
-
-Itanong kung anong mga kulay, bulaklak, o istilo ang gusto ng tatanggap, pagkatapos ay pumili ng isang pangunahing ideya. Ang isang maikling pagbati na may isang makabuluhang detalye ay maaaring maging personal nang hindi sinisiksik ang cake. Magbahagi ng isang sanggunian at ipaliwanag kung ano ang maaaring iakma ng panaderya sa kasalukuyang produkto at laki.
-
-Kumpirmahin ang eksaktong mensahe, petsa ng kaganapan, pagtatantya ng paghahatid, lasa, presyo, at handoff na plano nang hiwalay. Itanong kung available ang pana-panahong disenyo sa taong ito. Kung gumagamit ng personal na larawan o isang makikilalang detalye ng pamilya, humingi ng pahintulot bago ito ibahagi sa panaderya o mag-publish ng case study.
-
-Idagdag ang payo sa gabay sa gitnang disenyo at i-refresh ang mga pana-panahong halimbawa taun-taon. Gumamit lamang ng tunay, naaprubahang mga larawan ng cake.
+- Recheck current seasonal availability and cake-specific service guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

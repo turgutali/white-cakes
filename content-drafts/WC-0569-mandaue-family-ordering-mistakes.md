@@ -1,38 +1,45 @@
 ---
 id: WC-0569
-status: written-draft
-publish_action: merge into /journal/how-to-order.html; verify Mandaue route separately
-english_title: "Common ordering mistakes to avoid with cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-order.html
+english_title: "Cake Ordering Mistakes to Avoid for a Mandaue Family Event"
+cebuano_title: "Mga Sayop sa Pag-order og Cake nga Likayan para sa Family Event sa Mandaue"
+tagalog_title: "Mga Pagkakamali sa Pag-order ng Cake na Dapat Iwasan para sa Mandaue Family Event"
 ---
 
-## Avoid assuming the delivery route, portion count, and design are already confirmed
+## English
 
-Share the full Mandaue address and ask whether the bakery can deliver there; a city name alone does not confirm coverage or fee. Estimate the people who will actually eat cake and ask the bakery to recommend a size instead of assuming the family headcount equals servings.
+# Cake Ordering Mistakes to Avoid for a Mandaue Family Event
 
-Send one clear design reference and explain what matters. Confirm the exact inscription, flavour, date, complete quote, and receiving contact in writing. Wait for the bakery to confirm the order and handoff before treating the date as booked.
+Do not assume “Mandaue” is enough information for delivery. Give the complete address and ask the bakery to confirm coverage for the exact date and location. If the event is at a relative’s home or a venue, confirm who can receive the cake and where it should be placed.
 
-Keep these steps in the main order guide and link to the size and delivery pages. Update local service details only after checking current coverage.
+Avoid choosing a size from the total invitation list alone. Count the people expected at serving time and explain whether cake follows a meal or is the main dessert. Published portions are estimates, so confirm the size with the bakery for the design and serving style.
+
+Do not rely on an old seasonal photo or estimated quote as confirmation of current availability. Finalize flavour, inscription, total price, deposit, and delivery window in writing. See the [Cebu cake ordering guide](/journal/how-to-order.html).
+
+## Cebuano
+
+# Mga Sayop sa Pag-order og Cake nga Likayan para sa Family Event sa Mandaue
+
+Ayaw pagtuo nga igo na ang “Mandaue” isip impormasyon sa delivery. Ihatag ang kompleto nga address ug pangayo sa panaderya og kumpirmasyon sa coverage para sa tukmang petsa ug lugar. Kon sa balay sa paryente o venue ang event, kumpirmaha kinsa ang modawat sa cake ug asa kini ibutang.
+
+Likayi ang pagpili sa gidak-on base lang sa tibuok lista sa giimbitar. Ihap ang gilaoman nga naa sa oras sa pag-serve ug ipasabut kon human ba sa pagkaon ang cake o pangunang dessert. Banabana ang gipatik nga portions, busa kumpirmaha sa panaderya ang gidak-on para sa disenyo ug paagi sa pag-serve.
+
+Ayaw salig sa daang seasonal photo o estimate nga quote isip kumpirmasyon sa kasamtangang availability. Tapusa sa sinulat ang flavour, inskripsiyon, total nga presyo, deposit ug delivery window. Tan-awa ang [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Mga Pagkakamali sa Pag-order ng Cake na Dapat Iwasan para sa Mandaue Family Event
+
+Huwag ipagpalagay na sapat na ang “Mandaue” bilang impormasyon sa delivery. Ibigay ang buong address at hilinging kumpirmahin ng bakery ang coverage sa eksaktong petsa at lokasyon. Kung bahay ng kamag-anak o venue ang event, tiyakin kung sino ang tatanggap ng cake at saan ito ilalagay.
+
+Iwasang pumili ng sukat batay lang sa buong listahan ng inimbitahan. Bilangin ang inaasahang naroroon sa oras ng paghahain at ipaliwanag kung pagkatapos ng kainan ang cake o pangunahing dessert. Tantiya lang ang inilathalang portions, kaya kumpirmahin sa bakery ang sukat para sa design at paraan ng paghahain.
+
+Huwag umasa sa lumang seasonal photo o tantiyang quote bilang kumpirmasyon ng kasalukuyang availability. Tapusin nang nakasulat ang flavour, inscription, kabuuang presyo, deposito, at delivery window. Tingnan ang [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang paghunahuna nga ang ruta sa paghatod, ihap sa bahin, ug disenyo kay nakumpirma na
-
-I-share ang kompleto nga address sa Mandaue ug pangutana kung makadeliver ba didto ang bakery; ang ngalan sa siyudad lamang wala magpamatuod sa coverage o bayad. Pagbanabana sa mga tawo nga mokaon gyud ug cake ug hangyoa ang panaderya sa pagrekomendar og gidak-on imbes nga isipon nga ang ihap sa pamilya katumbas sa mga pagkaon.
-
-Pagpadala usa ka klaro nga reference sa disenyo ug ipasabut kung unsa ang hinungdanon. Pagkumpirma sa eksaktong inskripsiyon, lami, petsa, kompleto nga kinutlo, ug pagdawat sa kontak pinaagi sa pagsulat. Paghulat alang sa panaderya sa pagkumpirma sa order ug handoff sa dili pa pagtratar sa petsa ingon nga booked.
-
-Itago kini nga mga lakang sa panguna nga giya sa pagkasunod-sunod ug i-link sa gidak-on ug mga panid sa pagpadala. I-update lamang ang mga detalye sa lokal nga serbisyo human masusi ang kasamtangang coverage.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasang ipagpalagay na ang ruta ng paghahatid, bilang ng bahagi, at disenyo ay nakumpirma na
-
-Ibahagi ang buong Mandaue address at tanungin kung ang panaderya ay makakapagdeliver doon; ang pangalan ng lungsod lamang ay hindi nagkukumpirma ng saklaw o bayad. Tantyahin ang mga taong aktwal na kakain ng cake at hilingin sa panaderya na magrekomenda ng laki sa halip na ipagpalagay na ang bilang ng pamilya ay katumbas ng mga serving.
-
-Magpadala ng isang malinaw na sanggunian sa disenyo at ipaliwanag kung ano ang mahalaga. Kumpirmahin ang eksaktong inskripsiyon, lasa, petsa, kumpletong quote, at pagtanggap ng contact nang nakasulat. Hintaying makumpirma ng panaderya ang order at handoff bago ituring ang petsa bilang na-book.
-
-Panatilihin ang mga hakbang na ito sa pangunahing gabay sa pagkakasunud-sunod at i-link sa laki at mga pahina ng paghahatid. I-update lamang ang mga detalye ng lokal na serbisyo pagkatapos suriin ang kasalukuyang saklaw.
+- Verify current Mandaue address coverage, service terms, and event details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

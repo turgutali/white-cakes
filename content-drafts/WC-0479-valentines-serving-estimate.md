@@ -1,44 +1,45 @@
 ---
 id: WC-0479
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to estimate servings for Valentine's cake in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa Valentine's Day sa Cebu"
+english_title: "How Much Cake to Order for Valentine’s Day in Cebu"
+cebuano_title: "Pila ka Cake ang I-order para sa Valentine’s Day sa Cebu"
+tagalog_title: "Gaano Karaming Cake ang O-orderin para sa Valentine’s Day sa Cebu"
 ---
 
-## Size a Valentine's cake for the actual plan
+## English
 
-Valentine's cake may be for two people, a family meal, or an office surprise. Decide who will actually share it. The 4-inch Bento provides about two generous portions or three modest servings. If colleagues or family will join, tell White Cakes the number of cake eaters and ask about a larger size.
+# How Much Cake to Order for Valentine’s Day in Cebu
 
-For other sizes, the current guide estimates 8–12 party slices for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. These are approximate ranges and can change with serving style. Tell the bakery whether the cake is the only dessert and whether you want full or small portions.
+Count the people who will actually share the cake and decide whether it follows a meal or serves as the main dessert. For a couple sharing a small celebration, the 4-inch Bento guide can be a starting point; White Cakes estimates about two generous or three modest servings after a meal. For a gathering, use the published estimates for larger sizes and tell the bakery the guest count.
 
-Check Valentine's availability early and include the date, flavour, design, inscription, and delivery contact. Confirm the final size, price, delivery window, and fee. White Cakes requires at least three days' notice; the 50% deposit confirms the agreed order.
+All serving numbers are approximate. The cake’s height, design, and cutting style affect portions, and a custom shape may not yield the same slices as a simple round. If the cake will be photographed before cutting or shared across two locations, include those details in your plan.
 
-Keep the portion figures in one central sizing guide and link from the seasonal page without duplicating the chart.
+Do not choose size solely from an online chart or a romantic photo. Ask the bakery which currently available size suits your guests and design, then confirm the order details. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html) for the current published estimates.
+
+## Cebuano
+
+# Pila ka Cake ang I-order para sa Valentine’s Day sa Cebu
+
+Ihap ang mga tawo nga mokaon gyud sa cake ug desisyoni kon human ba kini sa pagkaon o pangunang dessert. Para sa magtiayon nga magselebrar, mahimong sinugdanan ang giya sa 4-inch Bento; banabana sa White Cakes nga adunay mga duha ka generous o tulo ka modest nga servings human mokaon. Para sa tapok, gamita ang gipatik nga banabana sa dagkong gidak-on ug isulti sa panaderya ang ihap sa bisita.
+
+Banabana lamang ang tanang numero sa servings. Makaapekto ang kataas, disenyo ug paagi sa paghiwa, ug mahimong lahi ang portions sa custom nga porma kumpara sa simple nga round. Kon kuhaan una og litrato o ipaambit ang cake sa duha ka lugar, iapil kana sa plano.
+
+Ayaw pagpili sa gidak-on base lang sa online chart o romantikong litrato. Pangutan-a ang panaderya unsang kasamtangang gidak-on ang mohaum sa mga bisita ug disenyo, unya kumpirmaha ang detalye sa order. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Gaano Karaming Cake ang O-orderin para sa Valentine’s Day sa Cebu
+
+Bilangin ang mga taong talagang magsasalo sa cake at pagpasiyahan kung pagkatapos ito ng kainan o pangunahing dessert. Para sa mag-partner na may maliit na selebrasyon, maaaring panimula ang gabay sa 4-inch Bento; tinatantiya ng White Cakes na may mga dalawang generous o tatlong modest na serving pagkatapos kumain. Para sa pagtitipon, gamitin ang inilathalang tantiya para sa mas malalaking sukat at sabihin sa bakery ang bilang ng bisita.
+
+Tantiya lang ang lahat ng bilang ng serving. Nakaaapekto ang taas, design, at paraan ng paghiwa, at maaaring iba ang portions ng custom na hugis kumpara sa simpleng bilog. Kung kukunan muna ng larawan ang cake o pagsasaluhan ito sa dalawang lugar, isama iyon sa plano.
+
+Huwag pumili ng sukat batay lang sa online chart o romantikong larawan. Itanong sa bakery kung aling kasalukuyang sukat ang babagay sa bisita at design, saka kumpirmahin ang detalye ng order. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) para sa kasalukuyang inilathalang tantiya.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Gidak-on ang cake sa Valentine para sa aktuwal nga plano
-
-Ang cake sa Valentine mahimong para sa duha ka tawo, panihapon sa pamilya, o surpresa sa opisina. Desisyuni kung kinsa gyud ang mopaambit niini. Ang 4-pulgada nga Bento naghatag og mga duha ka ubay-ubay nga mga bahin o tulo ka kasarangan nga mga servings. Kung ang mga kauban o pamilya moapil, sultihi ang White Cakes sa gidaghanon sa mga mokaon og cake ug pangutana bahin sa mas dako nga gidak-on.
-
-Alang sa ubang mga gidak-on, ang kasamtangan nga giya nagbanabana sa 8–12 ka mga hiwa sa party alang sa 6 ka pulgada, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Kini mga gibanabana nga mga sakup ug mahimong mabag-o sa istilo sa pagserbisyo. Sultihi ang panaderya kung ang cake lang ang dessert ug kung gusto nimo puno o gagmay nga mga bahin.
-
-Susiha ang pagkaanaa sa Valentine's sayo ug ilakip ang petsa, lami, disenyo, inskripsiyon, ug kontak sa pagpadala. Kumpirma ang katapusang gidak-on, presyo, delivery window, ug bayad. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang mga numero sa bahin sa usa ka sentro nga giya sa pagsukod ug sumpay gikan sa seasonal nga panid nga walay pagdoble sa tsart.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Sukat ng Valentine's cake para sa aktwal na plano
-
-Ang Valentine's cake ay maaaring para sa dalawang tao, isang pagkain ng pamilya, o isang sorpresa sa opisina. Magpasya kung sino talaga ang magbabahagi nito. Ang 4-inch Bento ay nagbibigay ng halos dalawang masaganang bahagi o tatlong katamtamang serving. Kung sasali ang mga kasamahan o pamilya, sabihin sa White Cakes ang bilang ng mga kumakain ng cake at magtanong tungkol sa mas malaking sukat.
-
-Para sa iba pang laki, tinatantya ng kasalukuyang gabay ang 8–12 party slice para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa 6+8-pulgada na two-tier na cake. Ito ay mga tinatayang hanay at maaaring magbago sa istilo ng paghahatid. Sabihin sa panaderya kung ang cake lang ang panghimagas at kung gusto mo ng buo o maliliit na bahagi.
-
-Tingnan nang maaga ang availability ng Valentine at isama ang petsa, lasa, disenyo, inskripsiyon, at contact sa paghahatid. Kumpirmahin ang huling laki, presyo, palugit ng paghahatid, at bayad. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang mga figure ng bahagi sa isang gitnang gabay sa pagpapalaki at link mula sa pana-panahong pahina nang hindi duplicate ang chart.
+- Confirm current availability, terms, and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

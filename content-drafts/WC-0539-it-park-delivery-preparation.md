@@ -1,38 +1,45 @@
 ---
 id: WC-0539
-status: written-draft
-publish_action: merge into /journal/cake-delivery-cebu.html; confirm current IT Park route and access
-english_title: "How to prepare for delivery of cake for an IT Park office celebration in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html
+english_title: "How to Prepare for Cake Delivery to an IT Park Office in Cebu"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Cake ngadto sa Opisina sa IT Park sa Cebu"
+tagalog_title: "Paano Maghanda para sa Delivery ng Cake sa IT Park Office sa Cebu"
 ---
 
-## Give the bakery the tower, receiving contact, and building process
+## English
 
-Provide the office address, building or tower, unit or floor if needed, requested arrival window, and the receiving colleague’s phone number. Explain whether reception or security requires advance notice and where the receiver can meet the delivery. Ask the bakery to confirm route coverage, timing, and any fee.
+# How to Prepare for Cake Delivery to an IT Park Office in Cebu
 
-Have the colleague available to take the cake directly and follow the care instructions for the specific order. If it will wait before a meeting, ask the baker how to store it and when it should be served. Keep the box level and away from direct heat.
+Do not send only “IT Park” as the destination. Provide the full building name and address, floor or lobby meeting point, office contact, and any current access instructions. Ask the office host whether couriers can enter, whether a visitor pass is needed, and who is permitted to receive food deliveries.
 
-Add this checklist to the Cebu delivery guide. Do not imply every IT Park building or arrival time is supported without current confirmation.
+White Cakes confirms a delivery window rather than an exact minute. Make sure the receiver is free for the full window and has a phone nearby. If the event break is short, arrange a suitable handoff point and confirm that the cake can be brought to the serving room without violating building rules.
+
+If security, office hours, or the handoff location changes, update the bakery and wait for confirmation. Confirm actual coverage for the requested address; do not assume access to every building. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Cake ngadto sa Opisina sa IT Park sa Cebu
+
+Ayaw ibutang nga “IT Park” lang ang destinasyon. Ihatag ang kompleto nga ngalan ug address sa building, floor o meeting point sa lobby, contact sa opisina ug kasamtangang instruksyon sa access. Pangutan-a ang office host kon makasulod ba ang courier, kinahanglan ba og visitor pass ug kinsa ang mahimong modawat sa food delivery.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Siguroha nga libre ang modawat sa tibuok window ug duol kaniya ang telepono. Kon mubo ang break sa event, pag-andam og angay nga handoff point ug kumpirmaha nga madala ang cake sa serving room nga dili mosupak sa lagda sa building.
+
+Kon mausab ang security, oras sa opisina o handoff location, i-update ang panaderya ug hulata ang kumpirmasyon. Kumpirmaha ang tinuod nga coverage para sa address; ayaw pagtuo nga maka-access sa tanang building. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Cake sa IT Park Office sa Cebu
+
+Huwag “IT Park” lang ang ilagay na destinasyon. Ibigay ang buong pangalan at address ng building, floor o meeting point sa lobby, contact sa opisina, at kasalukuyang tagubilin sa access. Itanong sa office host kung makapapasok ang courier, kung kailangan ng visitor pass, at kung sino ang pinapayagang tumanggap ng food delivery.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Tiyaking walang ibang gagawin ang tatanggap sa buong window at malapit sa kanya ang telepono. Kung maikli ang event break, magtakda ng angkop na handoff point at kumpirmahing madadala ang cake sa silid-paghahainan nang hindi nilalabag ang patakaran ng building.
+
+Kung magbago ang security, oras ng opisina, o handoff location, i-update ang bakery at hintayin ang kumpirmasyon. Kumpirmahin ang aktuwal na coverage para sa address; huwag ipagpalagay na may access sa bawat building. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ihatag sa panaderya ang tore, pagdawat sa kontak, ug proseso sa pagtukod
-
-Ihatag ang adres sa opisina, bilding o tore, yunit o salog kung gikinahanglan, gihangyo nga bintana sa pag-abot, ug ang numero sa telepono sa kauban nga nakadawat. Ipasabut kung ang pagdawat o seguridad nanginahanglan daan nga pahibalo ug kung diin ang tigdawat makatagbo sa paghatud. Hangyoa ang panaderya sa pagkumpirma sa coverage sa ruta, timing, ug bisan unsang bayad.
-
-Himoa nga ang kauban nga anaa sa pagkuha sa cake direkta ug mosunod sa mga instruksyon sa pag-atiman alang sa piho nga han-ay. Kon kini maghulat sa dili pa ang usa ka miting, pangutan-a ang panadero kon unsaon kini pagtipig ug kanus-a kini angayng isilbi. Hupti ang lebel sa kahon ug layo sa direktang kainit.
-
-Idugang kini nga checklist sa Cebu delivery guide. Ayaw ipasabot ang matag IT Park building o oras sa pag-abot gisuportahan nga wala’y karon nga kumpirmasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ibigay sa panaderya ang tore, pagtanggap ng contact, at proseso ng pagtatayo
-
-Ibigay ang address ng opisina, gusali o tore, unit o sahig kung kinakailangan, hinihiling na window ng pagdating, at ang numero ng telepono ng tumatanggap na kasamahan. Ipaliwanag kung ang pagtanggap o seguridad ay nangangailangan ng paunang abiso at kung saan maaaring matugunan ng tatanggap ang paghahatid. Hilingin sa panaderya na kumpirmahin ang saklaw ng ruta, timing, at anumang bayad.
-
-Hayaan ang kasamahan na kunin ang cake nang direkta at sundin ang mga tagubilin sa pangangalaga para sa partikular na pagkakasunud-sunod. Kung maghihintay ito bago ang isang pulong, tanungin ang panadero kung paano ito iimbak at kung kailan ito dapat ihain. Panatilihin ang antas ng kahon at malayo sa direktang init.
-
-Idagdag ang checklist na ito sa Cebu delivery guide. Huwag ipahiwatig ang bawat gusali ng IT Park o oras ng pagdating ay sinusuportahan nang walang kasalukuyang kumpirmasyon.
+- Confirm building access, current bakery coverage, and event rules before publication.
+- Cebuano and Tagalog drafts need native editorial review.

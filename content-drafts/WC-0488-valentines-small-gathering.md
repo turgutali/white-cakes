@@ -1,38 +1,45 @@
 ---
 id: WC-0488
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html; verify current Valentine’s availability
-english_title: "Planning Valentine's cake in Cebu"
-cebuano_title: "Pagplano sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa Valentine's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html
+english_title: "Planning a Valentine’s Cake for Two in Cebu"
+cebuano_title: "Pagplano og Valentine’s Cake para sa Duha sa Cebu"
+tagalog_title: "Pagpaplano ng Valentine’s Cake para sa Dalawa sa Cebu"
 ---
 
-## Size the cake for the people sharing the Valentine’s celebration
+## English
 
-If the cake is for two, ask about the small Bento and confirm its current portion estimate. If it is for a family or office group, count the expected cake eaters and decide whether portions should be modest or party-size. Mention other desserts so the bakery can recommend a practical size.
+# Planning a Valentine’s Cake for Two in Cebu
 
-The 4-inch Bento is described as about two generous servings or three modest ones. Confirm this and current Valentine’s availability directly. Popular dates can fill early, so check the order timeline and delivery or pickup plan before settling the design.
+For a celebration for two, first decide whether you want a few modest slices after dinner or a larger dessert to share. The published guide estimates a 4-inch Bento at about two generous or three modest servings after a meal. Treat that as an estimate and confirm the selected cake’s size and design with the bakery.
 
-Keep portion advice in the central size guide and link to the holiday order page. Avoid a Valentine’s article that simply repeats the same product list.
+A small cake gives limited space for inscription and decoration. Choose the one detail that matters most: a name, short message, or a simple visual theme. If you plan to save a portion for later, ask the bakery how to store that specific cake rather than assuming a shelf life.
+
+Confirm the date, flavour, current availability, price, and delivery or pickup arrangement. A small guest count does not automatically mean the smallest design is available or suitable. Review the [Cebu cake size guide](/journal/cake-sizes-cebu.html) before finalizing the order.
+
+## Cebuano
+
+# Pagplano og Valentine’s Cake para sa Duha sa Cebu
+
+Para sa selebrasyon sa duha, desisyoni una kon gusto ba og pipila ka modest nga hiwa human sa panihapon o mas daghang dessert nga ipaambit. Banabana sa gipatik nga giya nga ang 4-inch Bento adunay mga duha ka generous o tulo ka modest nga servings human mokaon. Banabana lamang kini; kumpirmaha sa panaderya ang gidak-on ug disenyo sa napiling cake.
+
+Limitado ang luna sa gamay nga cake para sa inskripsiyon ug dekorasyon. Pagpili sa usa ka labing importante nga detalye: ngalan, mubo nga mensahe o simple nga biswal nga tema. Kon magtago og bahin para unya, pangutan-a ang panaderya unsaon pagtipig sa maong cake imbes magtuo sa shelf life.
+
+Kumpirmaha ang petsa, flavour, kasamtangang availability, presyo ug delivery o pickup arrangement. Dili pasabot nga available o angay dayon ang pinakagamay nga disenyo tungod kay duha ra ang bisita. Susiha ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html) sa dili pa tapuson ang order.
+
+## Tagalog
+
+# Pagpaplano ng Valentine’s Cake para sa Dalawa sa Cebu
+
+Para sa selebrasyon ng dalawa, pagpasiyahan muna kung ilang modest na hiwa pagkatapos ng hapunan ang gusto ninyo o mas malaking dessert na pagsasaluhan. Tinatantiya ng inilathalang gabay na may mga dalawang generous o tatlong modest na serving pagkatapos kumain ang 4-inch Bento. Tantiya lang ito; kumpirmahin sa bakery ang sukat at design ng napiling cake.
+
+Limitado ang espasyo ng maliit na cake para sa inscription at dekorasyon. Piliin ang pinakamahalagang detalye: pangalan, maikling mensahe, o simpleng visual theme. Kung magtatabi ng bahagi para sa ibang oras, itanong sa bakery kung paano itatabi ang partikular na cake sa halip na manghula tungkol sa shelf life.
+
+Kumpirmahin ang petsa, flavour, kasalukuyang availability, presyo, at delivery o pickup arrangement. Hindi awtomatikong available o angkop ang pinakamaliit na design dahil dalawa lang ang bisita. Suriin ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) bago tapusin ang order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Gidak-on ang cake alang sa mga tawo nga nag-ambit sa selebrasyon sa Valentine
-
-Kung ang cake para sa duha, pangutan-a ang bahin sa gamay nga Bento ug kumpirmahi ang karon nga gibanabana nga bahin niini. Kon kini alang sa usa ka grupo sa pamilya o opisina, ihap ang gipaabot nga mga makakaon og cake ug paghukom kon ang mga bahin kinahanglan nga kasarangan o gidak-on sa party. Hisguti ang ubang mga dessert aron ang panaderya makarekomendar og praktikal nga gidak-on.
-
-Ang 4-pulgada nga Bento gihulagway nga mga duha ka manggihatagon nga pag-alagad o tulo ka kasarangan. Kumpirma kini ug ang kasamtangan nga pagkaanaa sa Valentine direkta. Ang mga sikat nga petsa mahimong mapuno sa sayo, busa susiha ang timeline sa pag-order ug plano sa pagpadala o pag-pickup sa dili pa ihusay ang disenyo.
-
-Itago ang tambag sa bahin sa giya sa sentral nga gidak-on ug i-link sa panid sa order sa holiday. Likayi ang artikulo sa Valentine nga nagsubli lang sa samang listahan sa produkto.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Sukatin ang cake para sa mga taong nakikibahagi sa pagdiriwang ng Valentine
-
-Kung para sa dalawa ang cake, magtanong tungkol sa maliit na Bento at kumpirmahin ang kasalukuyang pagtatantya ng bahagi nito. Kung ito ay para sa isang grupo ng pamilya o opisina, bilangin ang inaasahang makakain ng cake at magpasya kung ang mga bahagi ay dapat na katamtaman o laki ng party. Banggitin ang iba pang mga dessert para makapagrekomenda ang panaderya ng praktikal na sukat.
-
-Ang 4-pulgadang Bento ay inilalarawan bilang mga dalawang masaganang serving o tatlong katamtaman. Direktang kumpirmahin ito at ang kasalukuyang availability ng Valentine. Maaaring mapuno nang maaga ang mga sikat na petsa, kaya tingnan ang timeline ng order at plano ng paghahatid o pickup bago ayusin ang disenyo.
-
-Panatilihin ang payo sa bahagi sa gabay sa gitnang sukat at i-link sa page ng order sa holiday. Iwasan ang isang artikulo ng Valentine na inuulit lang ang parehong listahan ng produkto.
+- Confirm current event-specific availability and terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

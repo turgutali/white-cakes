@@ -1,38 +1,45 @@
 ---
 id: WC-0544
-status: written-draft
-publish_action: merge into /journal/which-cake.html; confirm live products
-english_title: "How to compare options for cake for an IT Park office celebration in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/which-cake.html
+english_title: "How to Compare Cake Options for an IT Park Office Event"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Cake para sa Event sa Opisina sa IT Park"
+tagalog_title: "Paano Paghambingin ang mga Pagpipilian ng Cake para sa IT Park Office Event"
 ---
 
-## Compare practical fit for the office, not just the look
+## English
 
-For an IT Park gathering, estimate how many colleagues will attend and whether the cake is a quick meeting treat or the main dessert. Compare the available sizes against that serving plan, and ask the bakery to confirm approximate portions. Consider where the cake will be placed and whether a compact design is easier to set out in the office.
+# How to Compare Cake Options for an IT Park Office Event
 
-Then check flavour availability, inscription space, current price, and building delivery arrangements. Share the tower or unit, recipient’s phone number, reception process, and requested handoff time. Confirm any delivery charge before booking; office location alone does not guarantee a route or time.
+Compare office cake options by the event constraints: team size, break length, serving setup, budget, and building access. A cake served during a short shift handover has different needs from one set out for an all-hands gathering. Decide whether portions will be handed out at once or left for employees on later shifts.
 
-Update the existing comparison page with current product details and link to the size and delivery guides. Avoid an IT Park-specific product page unless it offers verified local information beyond a location keyword.
+Ask the bakery which sizes, flavours, and design approaches are available for the date and address. A larger cake may offer more portions but take more counter space; a simpler inscription may be easier to read during a quick break. Confirm whether outside food is allowed in the building.
+
+Compare written quotes that include the same serving need, custom details, deposit, and delivery arrangement. Do not assume a product in an old photo is available today. See the [which cake guide](/journal/which-cake.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Cake para sa Event sa Opisina sa IT Park
+
+Itandi ang mga kapilian sa cake sa opisina sumala sa limitasyon sa event: gidak-on sa team, gitas-on sa break, paagi sa pag-serve, budget ug access sa building. Lahi ang panginahanglan sa cake nga i-serve atol sa mubo nga shift handover kumpara sa cake nga ibutang para sa all-hands gathering. Desisyoni kon ihatag dayon ang portions o ibilin para sa sunod nga shift.
+
+Pangutan-a ang panaderya unsang gidak-on, flavour ug pamaagi sa disenyo ang available sa petsa ug address. Mas daghan og portions ang dako nga cake apan mas dako usab og kinahanglan nga counter space; mas sayon mabasa ang simple nga inskripsiyon sa mubo nga break. Kumpirmaha kon gitugotan ang pagkaon gikan sa gawas sa building.
+
+Itandi ang sinulat nga quote nga naglakip sa parehas nga servings, custom details, deposit ug delivery arrangement. Ayaw pagtuo nga available karon ang produkto sa daang litrato. Tan-awa ang [giya unsang cake ang pilion](/journal/which-cake.html).
+
+## Tagalog
+
+# Paano Paghambingin ang mga Pagpipilian ng Cake para sa IT Park Office Event
+
+Ihambing ang mga opsyon ng office cake ayon sa limitasyon ng event: laki ng team, haba ng break, paraan ng paghahain, budget, at access sa building. Iba ang pangangailangan ng cake na ihahain sa maikling shift handover kumpara sa ilalagay para sa all-hands gathering. Pagpasyahan kung ibibigay agad ang portions o magtatabi para sa susunod na shift.
+
+Itanong sa bakery kung aling sukat, flavour, at paraan ng design ang available sa petsa at address. Maaaring mas maraming portions ang malaking cake pero mas malaki rin ang kailangang counter space; maaaring mas madaling basahin sa maikling break ang simpleng inscription. Kumpirmahin kung pinapayagan ang pagkaing galing sa labas ng building.
+
+Paghambingin ang nakasulat na quote na may parehong serving need, custom details, deposito, at delivery arrangement. Huwag ipagpalagay na available ngayon ang produktong nasa lumang larawan. Tingnan ang [gabay kung aling cake ang pipiliin](/journal/which-cake.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang praktikal nga angay alang sa opisina, dili lang ang hitsura
-
-Alang sa usa ka panagtapok sa IT Park, banabanaa kung pila ka kauban ang motambong ug kung ang cake usa ka dali nga pagsugat sa miting o ang panguna nga dessert. Itandi ang magamit nga mga gidak-on batok sa plano sa pagserbisyo, ug hangyoa ang panaderya sa pagkumpirma sa gibanabana nga mga bahin. Hunahunaa kung asa ibutang ang cake ug kung ang usa ka compact nga disenyo mas sayon ​​​​nga ibutang sa opisina.
-
-Dayon susiha ang pagkaanaa sa lami, luna sa inskripsiyon, kasamtangan nga presyo, ug mga kahikayan sa paghatod sa bilding. Ipakigbahin ang tore o unit, numero sa telepono sa nakadawat, proseso sa pagdawat, ug gihangyo nga oras sa paghatag. Kumpirma ang bisan unsang bayad sa pagpadala sa dili pa mag-book; Ang lokasyon sa opisina lamang dili garantiya sa usa ka ruta o oras.
-
-I-update ang kasamtangan nga panid sa pagtandi sa kasamtangan nga mga detalye sa produkto ug i-link ang gidak-on ug mga giya sa pagpadala. Likayi ang usa ka panid sa produkto nga espesipiko sa IT Park gawas kon kini nagtanyag ug gipamatud-an nga lokal nga impormasyon lapas sa keyword sa lokasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing ang praktikal na akma para sa opisina, hindi lamang ang hitsura
-
-Para sa isang pagtitipon sa IT Park, tantiyahin kung ilang kasamahan ang dadalo at kung ang cake ay isang quick meeting treat o ang pangunahing dessert. Ihambing ang mga available na laki laban sa plano ng paghahatid na iyon, at hilingin sa panaderya na kumpirmahin ang mga tinatayang bahagi. Isaalang-alang kung saan ilalagay ang cake at kung ang isang compact na disenyo ay mas madaling itakda sa opisina.
-
-Pagkatapos ay tingnan ang availability ng lasa, espasyo ng inskripsiyon, kasalukuyang presyo, at mga kaayusan sa paghahatid ng gusali. Ibahagi ang tore o unit, numero ng telepono ng tatanggap, proseso ng pagtanggap, at hiniling na oras ng handoff. Kumpirmahin ang anumang singil sa paghahatid bago mag-book; Ang lokasyon ng opisina lamang ay hindi ginagarantiyahan ang isang ruta o oras.
-
-I-update ang kasalukuyang pahina ng paghahambing na may kasalukuyang mga detalye ng produkto at i-link sa laki at mga gabay sa paghahatid. Iwasan ang isang pahina ng produkto na partikular sa IT Park maliban kung nag-aalok ito ng na-verify na lokal na impormasyon na lampas sa isang keyword sa lokasyon.
+- Confirm building access and current coverage for the exact address before publication.
+- Cebuano and Tagalog drafts need native editorial review.

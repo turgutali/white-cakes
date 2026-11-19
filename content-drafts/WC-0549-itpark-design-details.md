@@ -1,44 +1,45 @@
 ---
 id: WC-0549
-status: draft-needs-original-closeup
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "Design details to consider for cake for an IT Park office celebration in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+english_title: "Office Cake Design Details to Decide for an IT Park Celebration"
+cebuano_title: "Mga Detalye sa Disenyo sa Office Cake nga Klarohon para sa Event sa IT Park"
+tagalog_title: "Mga Detalye ng Design ng Office Cake na Dapat Linawin para sa IT Park Event"
 ---
 
-## Choose cake details that work in an office setting
+## English
 
-Decide whether the IT Park office cake should carry the company's brand or mark a team milestone. A palette drawn from approved brand colours can be enough; a short message or small motif can make it feel celebratory. Ask the company contact which logo, wording, and visual details are approved before sending the brief.
+# Office Cake Design Details to Decide for an IT Park Celebration
 
-Send White Cakes one reference and identify the main feature to adapt. Ask whether the requested finish and lettering are feasible for the chosen size and what the quote includes. Do not assume that an online image is suitable for reproducing a company logo or that the bakery can copy a design exactly.
+Decide what the office cake needs to communicate before choosing decoration. It might mark a project launch, welcome a colleague, or recognize a team milestone. Pick one clear message or visual cue and consider how quickly people will see it during a short break.
 
-Include the office address, serving estimate, event date, flavour, and receiver's contact. Current estimates are 8–12 party portions for a 6-inch cake and 16–24 for an 8-inch cake. Confirm the size, delivery window, and building instructions. Allow at least three days' notice; the 50% deposit confirms the agreed order.
+The cake’s size limits lettering and decoration. A logo, department name, long message, and several colours may not all fit legibly. Confirm which details are essential and which can be simplified. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so ask how a brand reference can be adapted.
 
-Use an original close-up only if it shows real, approved White Cakes work and the design details are verified. Otherwise, place the advice in the general cake-design guide.
+Check the display surface, serving time, and route from the building entrance. Approve the final wording and design after the bakery confirms its current methods and delivery access. See the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo sa Office Cake nga Klarohon para sa Event sa IT Park
+
+Desisyoni unsay ipasabot sa office cake sa dili pa mopili og dekorasyon. Mahimong markahan niini ang project launch, pag-abiabi sa kauban o pagkilala sa milestone sa team. Pagpili og usa ka klarong mensahe o biswal nga detalye ug hunahunaa unsa kadali kini makita atol sa mubo nga break.
+
+Limitado sa gidak-on sa cake ang letra ug dekorasyon. Mahimong dili mabasa kon magdungan ang logo, ngalan sa departamento, taas nga mensahe ug daghang kolor. Kumpirmaha unsang detalye ang kinahanglan ug unsay mapasimple. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa pangutan-a unsaon pagpahiangay sa brand reference.
+
+Susiha ang display surface, oras sa pag-serve ug ruta gikan sa entrance sa building. Aprobahi ang final nga wording ug disenyo human makumpirma sa panaderya ang teknik ug access sa delivery. Tan-awa ang [giya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Design ng Office Cake na Dapat Linawin para sa IT Park Event
+
+Pagpasyahan kung ano ang kailangang ipahayag ng office cake bago pumili ng dekorasyon. Maaari nitong markahan ang project launch, bumati sa bagong katrabaho, o kumilala sa milestone ng team. Pumili ng isang malinaw na mensahe o visual cue at pag-isipan kung gaano kabilis ito makikita sa maikling break.
+
+Nililimitahan ng sukat ng cake ang lettering at dekorasyon. Maaaring hindi mabasa kung pagsasabayin ang logo, pangalan ng departamento, mahabang mensahe, at maraming kulay. Kumpirmahin kung aling detalye ang kailangang mapanatili at alin ang maaaring pasimplehin. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets, kaya itanong kung paano iaangkop ang brand reference.
+
+Suriin ang display surface, oras ng paghahain, at ruta mula sa entrance ng building. Aprubahan ang pinal na wording at design matapos kumpirmahin ng bakery ang kasalukuyang methods at delivery access. Tingnan ang [gabay sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pilia ang mga detalye sa cake nga magamit sa usa ka setting sa opisina
-
-Pagdesisyon kung ang cake sa opisina sa IT Park kinahanglan nga magdala sa tatak sa kompanya o markahan ang usa ka milestone sa team. Ang usa ka palette nga gikuha gikan sa gi-aprubahan nga mga kolor sa brand mahimong igo; ang usa ka mubo nga mensahe o gamay nga motif makapabati niini nga selebrasyon. Pangutan-a ang kompanya nga kontaka kung unsang logo, pulong, ug biswal nga mga detalye ang aprobahan sa dili pa ipadala ang mubo.
-
-Ipadala ang White Cake og usa ka reperensiya ug ilha ang nag-unang bahin nga ipahiangay. Pangutan-a kung ang gihangyo nga pagkahuman ug letra mahimo ba alang sa gipili nga gidak-on ug kung unsa ang gilakip sa kinutlo. Ayaw hunahunaa nga ang usa ka online nga imahe angay alang sa pagkopya sa usa ka logo sa kompanya o nga ang panaderya makakopya sa usa ka disenyo nga eksakto.
-
-Ilakip ang adres sa opisina, banabana sa pagserbisyo, petsa sa panghitabo, lami, ug kontak sa tigdawat. Ang kasamtangan nga mga banabana mao ang 8–12 ka parti nga bahin para sa 6-pulgada nga cake ug 16–24 para sa 8-pulgada nga cake. Kumpirma ang gidak-on, bintana sa pagpadala, ug mga instruksyon sa pagtukod. Tugoti ang labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Gamita lang ang orihinal nga close-up kung kini nagpakita sa tinuod, giaprobahan nga White Cakes nga trabaho ug ang mga detalye sa disenyo gipamatud-an. Kung dili, ibutang ang tambag sa kinatibuk-ang giya sa disenyo sa cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng mga detalye ng cake na gumagana sa isang setting ng opisina
-
-Magpasya kung ang cake ng opisina ng IT Park ay dapat magdala ng tatak ng kumpanya o markahan ang isang milestone ng koponan. Ang isang palette na iginuhit mula sa mga inaprubahang kulay ng tatak ay maaaring sapat; ang isang maikling mensahe o maliit na motif ay maaaring maging sanhi ng pagdiriwang. Tanungin ang contact ng kumpanya kung aling logo, mga salita, at mga visual na detalye ang naaprubahan bago ipadala ang brief.
-
-Magpadala ng White Cake ng isang reference at tukuyin ang pangunahing feature na iaangkop. Itanong kung ang hiniling na tapusin at pagkakasulat ay magagawa para sa napiling laki at kung ano ang kasama sa quote. Huwag ipagpalagay na ang isang online na imahe ay angkop para sa pagpaparami ng isang logo ng kumpanya o na ang panaderya ay maaaring kopyahin ang isang disenyo nang eksakto.
-
-Isama ang address ng opisina, pagtatantya ng paghahatid, petsa ng kaganapan, lasa, at contact ng tatanggap. Ang kasalukuyang mga pagtatantya ay 8–12 party portion para sa isang 6-inch na cake at 16–24 para sa isang 8-inch na cake. Kumpirmahin ang laki, delivery window, at mga tagubilin sa gusali. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Gumamit lang ng orihinal na close-up kung nagpapakita ito ng tunay, naaprubahang gawa ng White Cake at na-verify ang mga detalye ng disenyo. Kung hindi, ilagay ang payo sa pangkalahatang gabay sa disenyo ng cake.
+- Verify current building rules, bakery availability, and delivery access before publication.
+- Cebuano and Tagalog drafts need native editorial review.

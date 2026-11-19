@@ -1,44 +1,45 @@
 ---
 id: WC-0481
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/choosing-a-flavor.html
-english_title: "How to choose a flavour for Valentine's cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa Valentine's Day sa Cebu"
+english_title: "How to Choose a Valentine’s Cake Flavour in Cebu"
+cebuano_title: "Giunsa Pagpili sa Flavour sa Valentine’s Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Flavour ng Valentine’s Cake sa Cebu"
 ---
 
-## Choose a Valentine's cake flavour for the person receiving it
+## English
 
-Start with the recipient's known preference rather than choosing a flavour only for its colour in a photo. White Cakes' current menu includes Chocolate, Vanilla, Ube, Mango, and Red Velvet. Ask which flavours are available for the date, size, and design you want; availability can depend on the specific order.
+# How to Choose a Valentine’s Cake Flavour in Cebu
 
-If you do not know the recipient's favourite, consider the size of the gathering and whether the cake is the only dessert. For two people, the 4-inch Bento offers about two generous or three modest servings. For a larger group, share the cake-eater count and ask the bakery to recommend a size. Avoid claims about sweetness, ingredients, or pairings unless White Cakes has confirmed them.
+Choose a flavour for the person who will eat the cake, not just for a colour or name that looks romantic. Think about familiar preferences, whether the cake follows a meal, and how many people will share it. For two people, a flavour they both enjoy is more useful than choosing by appearance alone.
 
-Send the date, flavour preference, design reference, short inscription, and delivery or pickup plan. If the cake is a surprise, give a reliable local receiving contact. Valentine's dates should be checked early; the made-to-order minimum is three days. Confirm the final quote and order details before the 50% deposit.
+Ask which flavours are currently available for the selected size and date. Menus can change, and an old photo does not confirm that a flavour is still offered. If the recipient has an allergy or dietary restriction, tell the bakery and ask what it can safely accommodate; do not assume a particular cake is allergen-free without confirmation.
 
-Keep verified flavour information in the central guide instead of creating a separate holiday flavour page.
+Include the preferred flavour and any second choice in the written brief. Confirm the final selection with the bakery along with size, price, and delivery details. See [how to choose a cake flavour in Cebu](/journal/choosing-a-flavor.html) for more general decision guidance.
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour sa Valentine’s Cake sa Cebu
+
+Pilia ang flavour para sa mokaon sa cake, dili lang base sa kolor o ngalan nga romantiko tan-awon. Hunahunaa ang pamilyar nga gusto, kon human ba sa pagkaon ang cake ug pila ang mopaambit niini. Para sa duha ka tawo, mas mapuslanon ang flavour nga ganahan silang duha kaysa pagpili base sa hitsura lang.
+
+Pangutan-a unsang flavour ang available karon para sa gipili nga gidak-on ug petsa. Mausab ang menu ug dili pamatuod sa karon nga availability ang daang litrato. Kon adunay allergy o dietary restriction ang makadawat, isulti kini sa panaderya ug pangutan-a unsay luwas nga ma-accommodate; ayaw pagtuo nga allergen-free ang usa ka cake kon wala makumpirma.
+
+Iapil sa sinulat nga brief ang gusto nga flavour ug ikaduhang kapilian. Kumpirmaha sa panaderya ang kataposang pagpili uban sa gidak-on, presyo ug delivery details. Tan-awa ang [pagpili sa flavour sa cake sa Cebu](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano Pumili ng Flavour ng Valentine’s Cake sa Cebu
+
+Pumili ng flavour para sa kakain ng cake, hindi lang batay sa kulay o pangalang mukhang romantiko. Isaalang-alang ang pamilyar na panlasa, kung pagkatapos ng kainan ihahain ang cake, at kung ilan ang magsasalo nito. Para sa dalawa, mas kapaki-pakinabang ang flavour na pareho nilang gusto kaysa pumili batay lang sa hitsura.
+
+Itanong kung aling flavour ang available ngayon para sa napiling sukat at petsa. Nagbabago ang menu at hindi patunay ng kasalukuyang availability ang lumang larawan. Kung may allergy o dietary restriction ang tatanggap, sabihin ito sa bakery at itanong kung ano ang kaya nitong ligtas na tugunan; huwag ipagpalagay na allergen-free ang isang cake nang walang kumpirmasyon.
+
+Isama sa nakasulat na brief ang gustong flavour at pangalawang pagpipilian. Kumpirmahin sa bakery ang pinal na pagpili kasama ang sukat, presyo, at delivery details. Tingnan ang [paano pumili ng flavour ng cake sa Cebu](/journal/choosing-a-flavor.html) para sa pangkalahatang gabay.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug Valentine's cake flavor para sa tawo nga nakadawat niini
-
-Pagsugod sa nahibal-an nga gusto sa nakadawat kaysa pagpili sa usa ka lami alang lamang sa kolor niini sa usa ka litrato. Ang kasamtangang menu sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet. Pangutan-a kung unsang mga lami ang magamit alang sa petsa, gidak-on, ug disenyo nga gusto nimo; ang pagkaanaa mahimong magdepende sa piho nga order.
-
-Kung wala ka nahibal-an ang paborito sa nakadawat, hunahunaa ang gidak-on sa panagtapok ug kung ang cake mao ra ang dessert. Alang sa duha ka tawo, ang 4-pulgada nga Bento nagtanyag mga duha ka manggihatagon o tulo ka kasarangan nga pag-alagad. Para sa mas dako nga grupo, ipaambit ang ihap sa cake-eater ug hangyoa ang panaderya sa pagrekomendar og gidak-on. Likayi ang mga pag-angkon bahin sa katam-is, mga sangkap, o mga pares gawas kung gikumpirma kini sa White Cakes.
-
-Ipadala ang petsa, gusto sa lami, reperensiya sa disenyo, mubo nga inskripsiyon, ug plano sa pagpadala o pagkuha. Kung ang cake usa ka sorpresa, hatagi ang usa ka kasaligan nga kontak sa lokal nga nakadawat. Ang mga petsa sa Valentine kinahanglan nga susihon og sayo; ang made-to-order nga minimum mao ang tulo ka adlaw. Kumpirma ang katapusang kinutlo ug mga detalye sa pag-order sa wala pa ang 50% nga deposito.
-
-Itago ang gipamatud-an nga kasayuran sa lami sa sentro nga giya imbes nga maghimo usa ka lahi nga panid sa lami sa holiday.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng lasa ng cake ng Valentine para sa taong tatanggap nito
-
-Magsimula sa kilalang kagustuhan ng tatanggap sa halip na pumili ng lasa para lang sa kulay nito sa isang larawan. Kasama sa kasalukuyang menu ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet. Itanong kung aling mga lasa ang magagamit para sa petsa, laki, at disenyo na gusto mo; ang availability ay maaaring depende sa partikular na order.
-
-Kung hindi mo alam ang paborito ng tatanggap, isaalang-alang ang laki ng pagtitipon at kung ang cake ay ang tanging dessert. Para sa dalawang tao, ang 4-inch na Bento ay nag-aalok ng humigit-kumulang dalawang mapagbigay o tatlong katamtamang serving. Para sa mas malaking grupo, ibahagi ang bilang ng kumakain ng cake at hilingin sa panaderya na magrekomenda ng sukat. Iwasan ang mga pag-aangkin tungkol sa tamis, sangkap, o pagpapares maliban kung kinumpirma ng White Cakes ang mga ito.
-
-Ipadala ang petsa, kagustuhan sa lasa, sanggunian sa disenyo, maikling inskripsiyon, at plano sa paghahatid o pagkuha. Kung ang cake ay isang sorpresa, magbigay ng isang maaasahang lokal na tumatanggap ng contact. Dapat suriin nang maaga ang mga petsa ng Valentine; ang made-to-order na minimum ay tatlong araw. Kumpirmahin ang huling quote at mga detalye ng order bago ang 50% na deposito.
-
-Panatilihin ang na-verify na impormasyon ng lasa sa gitnang gabay sa halip na gumawa ng hiwalay na page ng lasa ng holiday.
+- Confirm current availability, terms, and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

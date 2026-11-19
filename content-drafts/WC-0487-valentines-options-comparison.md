@@ -1,38 +1,45 @@
 ---
 id: WC-0487
-status: written-draft
-publish_action: merge into /journal/which-cake.html and /journal/cake-sizes-cebu.html; verify seasonal availability
-english_title: "How to compare options for Valentine's cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa Valentine's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/which-cake.html
+english_title: "How to Compare Valentine’s Cake Options in Cebu"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Valentine’s Cake sa Cebu"
+tagalog_title: "Paano Paghambingin ang mga Opsyon para sa Valentine’s Cake sa Cebu"
 ---
 
-## Compare the serving size first, then the design and seasonal availability
+## English
 
-Decide whether the cake is for two people or a larger family or office group. Count likely cake eaters and ask the bakery which size fits; modest portions and party slices lead to different estimates. Then compare current flavours and designs available for the Valentine’s date.
+# How to Compare Valentine’s Cake Options in Cebu
 
-Consider inscription space, budget, and whether you need delivery or pickup. Ask about the exact handoff time and route, especially for a surprise. Confirm the total and booking status in writing; a past holiday photo does not guarantee the same product or availability.
+Compare options using the same event details: who will share the cake, when it will be served, where it will be displayed, and how it must be delivered. Then compare the currently available sizes, flavours, design approaches, and written quotes. A product photo alone does not show whether that cake can be made for your date.
 
-Update the shared product comparison with current options and link to the size and order guides. Avoid splitting the same comparison into separate holiday URLs.
+Think about what matters most. A compact cake may suit a private exchange; a larger gathering may call for more servings and table space. A simple design can make the message easier to read, while a more detailed custom request may require an earlier inquiry. Ask the bakery which options it can confirm rather than choosing from assumptions.
+
+Compare the full quote, including size, flavour, custom work, deposit, and delivery. If a seasonal bouquet or heart design appears in older content, confirm whether it is currently offered. Use the [which cake guide](/journal/which-cake.html) to structure the decision.
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Valentine’s Cake sa Cebu
+
+Itandi ang mga kapilian gamit ang parehas nga detalye sa event: kinsa ang mopaambit sa cake, kanus-a i-serve, asa ipakita ug unsaon paghatod. Dayon itandi ang kasamtangang available nga gidak-on, flavour, disenyo ug sinulat nga quote. Dili ipakita sa litrato lang kon mahimo ba ang cake sa imong petsa.
+
+Hunahunaa unsay labing importante. Mahimong mohaum ang compact nga cake sa pribadong paghatag; ang mas dakong tapok tingali nanginahanglan og dugang servings ug luna sa lamesa. Mas sayon basahon ang mensahe sa simple nga disenyo, samtang kinahanglan mangutana og sayo para sa detalyadong custom request. Pangutan-a ang panaderya sa kapilian nga makumpirma niini imbes mopili base sa pangagpas.
+
+Itandi ang tibuok quote, lakip ang gidak-on, flavour, custom work, deposit ug delivery. Kon makita sa daang content ang seasonal nga bouquet o heart design, kumpirmaha kon gitanyag pa ba kini karon. Gamita ang [giya sa pagpili og cake](/journal/which-cake.html) sa pagdesisyon.
+
+## Tagalog
+
+# Paano Paghambingin ang mga Opsyon para sa Valentine’s Cake sa Cebu
+
+Paghambingin ang mga opsyon gamit ang parehong detalye ng event: sino ang magsasalo sa cake, kailan ito ihahain, saan ito ididisplay, at paano ito ihahatid. Pagkatapos, ihambing ang kasalukuyang available na sukat, flavour, paraan ng design, at nakasulat na quote. Hindi ipinapakita ng product photo lang kung kayang gawin ang cake sa petsa mo.
+
+Pag-isipan kung ano ang pinakamahalaga. Maaaring bumagay ang compact na cake sa pribadong palitan; maaaring mangailangan ng mas maraming serving at espasyo sa mesa ang malaking pagtitipon. Mas madaling basahin ang mensahe sa simpleng design, samantalang kailangan ng mas maagang pagtatanong ang detalyadong custom request. Itanong sa bakery kung aling opsyon ang makukumpirma nito sa halip na pumili batay sa palagay.
+
+Ihambing ang buong quote kasama ang sukat, flavour, custom work, deposito, at delivery. Kung may seasonal bouquet o heart design sa lumang content, tiyakin kung iniaalok pa ito ngayon. Gamitin ang [gabay kung aling cake ang pipiliin](/journal/which-cake.html) para ayusin ang desisyon.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi una ang gidak-on sa pag-alagad, dayon ang disenyo ug seasonal nga pagkaanaa
-
-Pagdesisyon kung ang cake para sa duha ka tawo o mas dako nga grupo sa pamilya o opisina. Pag-ihap nga lagmit mokaon ug cake ug pangutan-a ang panaderya kon unsang gidak-on ang mohaom; kasarangan nga mga bahin ug mga hiwa sa partido mosangpot sa lain-laing mga banabana. Unya itandi ang kasamtangan nga mga lami ug mga disenyo nga magamit alang sa petsa sa Valentine.
-
-Hunahunaa ang inskripsiyon nga luna, badyet, ug kung kinahanglan nimo nga ipadala o kuhaon. Pangutana mahitungod sa eksaktong oras sa handoff ug ruta, ilabi na sa usa ka surpresa. Pagkumpirma sa kinatibuk-an ug status sa booking pinaagi sa pagsulat; ang miaging holiday nga litrato dili garantiya sa parehas nga produkto o pagkaanaa.
-
-I-update ang gipaambit nga pagtandi sa produkto sa kasamtangan nga mga kapilian ug i-link sa gidak-on ug mga giya sa order. Likayi ang pagbahin sa parehas nga pagtandi ngadto sa lain nga mga URL sa holiday.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing muna ang laki ng paghahatid, pagkatapos ay ang disenyo at pagiging available sa panahon
-
-Magpasya kung ang cake ay para sa dalawang tao o mas malaking grupo ng pamilya o opisina. Bilangin ang malamang na kumakain ng cake at tanungin ang panaderya kung aling sukat ang akma; Ang mga katamtamang bahagi at hiwa ng partido ay humahantong sa iba't ibang mga pagtatantya. Pagkatapos ay ihambing ang mga kasalukuyang lasa at disenyo na magagamit para sa petsa ng Valentine.
-
-Isaalang-alang ang inskripsyon na espasyo, badyet, at kung kailangan mo ng paghahatid o pagsundo. Magtanong tungkol sa eksaktong oras at ruta ng handoff, lalo na para sa isang sorpresa. Kumpirmahin ang kabuuan at katayuan ng booking sa pamamagitan ng sulat; hindi ginagarantiya ng isang nakaraang larawan sa holiday ang parehong produkto o availability.
-
-I-update ang ibinahaging paghahambing ng produkto sa mga kasalukuyang opsyon at i-link sa mga gabay sa laki at order. Iwasang hatiin ang parehong paghahambing sa magkakahiwalay na mga URL ng holiday.
+- Confirm current event-specific availability and terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

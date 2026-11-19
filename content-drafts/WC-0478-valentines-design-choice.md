@@ -1,44 +1,45 @@
 ---
 id: WC-0478
-status: draft-needs-original-photo-case
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "How to choose a design for Valentine's cake in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa Valentine's Day sa Cebu"
+english_title: "How to Choose a Valentine’s Cake Design in Cebu"
+cebuano_title: "Giunsa Pagpili sa Disenyo sa Valentine’s Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Design para sa Valentine’s Cake sa Cebu"
 ---
 
-## Choose a Valentine's design that feels personal
+## English
 
-Start with the recipient's preferences rather than assuming that every Valentine's cake needs the same colours or symbols. A favourite flower, a shared phrase, or a simple colour palette can make the cake feel personal. Choose one focal idea and keep the message brief enough to read clearly.
+# How to Choose a Valentine’s Cake Design in Cebu
 
-Send one reference photo and state which part you want White Cakes to adapt. Ask what is feasible for the chosen size and what the final design costs. Do not assume a reference image can be copied exactly or a particular seasonal decoration is available. Confirm the inscription with spelling checked.
+Start with the recipient’s taste rather than an assumption that every Valentine’s cake needs the same symbols. Decide whether the design should feel playful, understated, floral, or personal, then choose one main detail to carry that direction. A clear focal point is easier to communicate and can leave room for a short message.
 
-Plan the size based on the number of people sharing cake. The 4-inch Bento serves about two generous or three modest portions; larger gatherings may need a 6-inch or 8-inch cake. Check date availability early, share the delivery or pickup plan, and allow at least three days' notice. The 50% deposit confirms the agreed order.
+Match the design to the cake’s size and where it will be displayed. Several lines of text, intricate decoration, and multiple reference styles may compete for limited surface area. If the cake will travel or wait before serving, tell the bakery so it can advise on a suitable arrangement.
 
-Use original, permission-cleared White Cakes photos for a visual example. Otherwise, merge the advice into the existing design guide.
+Use photos to explain a mood or detail, then ask how it can be adapted to current methods. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm which seasonal options are currently available and approve the final design before production. For general guidance, see [cake design ideas in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Disenyo sa Valentine’s Cake sa Cebu
+
+Sugdi sa gusto sa makadawat imbes magtuo nga parehas ang simbolo sa tanang Valentine’s cake. Desisyoni kon playful, simple, floral o personal ang dating, dayon pagpili og usa ka detalye nga modala sa maong direksiyon. Mas sayon ipasabut ang klarong sentrong ideya ug mahimo pang magbilin og luna sa mubo nga mensahe.
+
+Ipares ang disenyo sa gidak-on sa cake ug lugar nga display-an. Mahimong mag-ilog sa limitado nga surface ang daghang linya sa teksto, detalyadong dekorasyon ug nagkalain-laing estilo sa reference. Kon biyaheon o hulaton ang cake sa dili pa i-serve, sultihi ang panaderya aron makahatag kini og angay nga tambag.
+
+Gamita ang litrato sa pagpasabot sa mood o detalye, dayon pangutan-a unsaon pagpahiangay niini sa kasamtangang teknik. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha unsang seasonal option ang available karon ug aprobahi ang kataposang disenyo sa dili pa sugdan. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Design para sa Valentine’s Cake sa Cebu
+
+Magsimula sa panlasa ng tatanggap sa halip na ipalagay na iisa ang simbolo ng lahat ng Valentine’s cake. Pagpasyahan kung playful, simple, floral, o personal ang dating, saka pumili ng isang pangunahing detalyeng magdadala ng direksiyon. Mas madaling ipaliwanag ang malinaw na focal point at maaari itong mag-iwan ng espasyo para sa maikling mensahe.
+
+Itugma ang design sa sukat ng cake at lugar ng display. Maaaring mag-agawan sa limitadong ibabaw ang maraming linya ng text, masalimuot na dekorasyon, at magkakaibang estilo ng reference. Kung bibiyahe o maghihintay ang cake bago ihain, sabihin ito sa bakery para makapagpayo ito ng angkop na ayos.
+
+Gamitin ang mga larawan para ipaliwanag ang mood o detalye, saka itanong kung paano ito iaangkop sa kasalukuyang technique. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin kung aling seasonal options ang available ngayon at aprubahan ang pinal na design bago simulan. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili usa ka disenyo sa Valentine nga gibati nga personal
-
-Pagsugod sa mga gusto sa nakadawat kaysa sa paghunahuna nga ang matag Valentine's cake nanginahanglan parehas nga mga kolor o simbolo. Ang usa ka paborito nga bulak, usa ka gipaambit nga hugpong sa mga pulong, o usa ka yano nga paleta sa kolor makahimo sa cake nga mobati nga personal. Pagpili og usa ka sentro nga ideya ug hupti nga mubo ang mensahe aron klaro nga mabasa.
-
-Ipadala ang usa ka reperensya nga litrato ug isulti kung unsang bahina ang gusto nimong ipahiangay sa White Cakes. Pangutan-a kung unsa ang mahimo alang sa gipili nga gidak-on ug unsa ang gasto sa katapusan nga disenyo. Ayaw paghunahuna nga ang usa ka reperensya nga imahe mahimong kopyahon nga eksakto o usa ka partikular nga seasonal nga dekorasyon ang magamit. Kumpirma ang inskripsiyon nga gisusi ang spelling.
-
-Pagplano sa gidak-on base sa gidaghanon sa mga tawo nga nakigbahin sa cake. Ang 4-pulgada nga Bento nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga mga bahin; ang dagkong mga panagtapok mahimong magkinahanglan ug 6-pulgada o 8-pulgada nga cake. Susihon og sayo ang petsa nga anaa, ipaambit ang delivery o pickup nga plano, ug tugoti ang labing menos tulo ka adlaw nga pahibalo. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Gamita ang orihinal, gi-clear nga permiso nga mga litrato sa White Cakes para sa biswal nga pananglitan. Kung dili, iusa ang tambag sa naglungtad nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng disenyo ng Valentine na personal
-
-Magsimula sa mga kagustuhan ng tatanggap sa halip na ipagpalagay na ang bawat cake ng Valentine ay nangangailangan ng parehong mga kulay o simbolo. Ang isang paboritong bulaklak, isang nakabahaging parirala, o isang simpleng paleta ng kulay ay maaaring gawing personal ang cake. Pumili ng isang focal idea at panatilihing maikli ang mensahe upang mabasa nang malinaw.
-
-Magpadala ng isang reference na larawan at sabihin kung aling bahagi ang gusto mong iakma ng White Cake. Itanong kung ano ang magagawa para sa napiling laki at kung ano ang halaga ng panghuling disenyo. Huwag ipagpalagay na ang isang reference na imahe ay maaaring kopyahin nang eksakto o isang partikular na pana-panahong dekorasyon ay magagamit. Kumpirmahin ang inskripsiyon na may naka-check na spelling.
-
-Planuhin ang laki batay sa bilang ng mga taong nagbabahagi ng cake. Ang 4-pulgadang Bento ay naghahain ng halos dalawang mapagbigay o tatlong katamtamang bahagi; ang malalaking pagtitipon ay maaaring mangailangan ng 6-pulgada o 8-pulgada na cake. Tingnan ang availability ng petsa nang maaga, ibahagi ang plano sa paghahatid o pag-pick up, at payagan ang hindi bababa sa tatlong araw na paunawa. Kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Gumamit ng orihinal, na-clear ng pahintulot na mga larawan ng White Cakes para sa isang visual na halimbawa. Kung hindi, isama ang payo sa umiiral nang gabay sa disenyo.
+- Confirm current availability, terms, and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0528
-status: written-draft
-publish_action: merge into /journal/how-to-order.html; verify current payment instructions and holiday availability
-english_title: "What to confirm before paying a deposit for Father's Day cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa Father's Day sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa Father's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-order.html
+english_title: "What to Confirm Before Paying a Father’s Day Cake Deposit"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit sa Father’s Day Cake"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Father’s Day Cake"
 ---
 
-## Confirm the Father’s Day order and recipient contact before paying
+## English
 
-Check the event date, cake size, flavour, design, exact message, full price, and delivery or pickup plan. For a surprise, choose an organizer whose phone number can be used without contacting the recipient. Ask about the current holiday schedule and whether the requested handoff is available.
+# What to Confirm Before Paying a Father’s Day Cake Deposit
 
-White Cakes currently states that a 50% deposit confirms an agreed order. Verify the amount and payment channel with the final written quote, including any delivery or custom-design charge. Save the receipt and wait for written confirmation of the booking.
+Ask for a written order summary before paying. It should state the confirmed date, size, flavour, design, exact inscription, final price, venue address, receiver, and delivery window. Check the spelling of names and any hobby or team reference that could be interpreted in different ways.
 
-Keep payment steps in the central order guide and refresh Father’s Day availability before publishing seasonal details.
+White Cakes’ published guide says a 50% deposit follows agreement on the final price and details. Confirm the current payment method and balance deadline directly with the bakery. Ask how a change in serving date or address affects the reservation, and keep the bakery’s written confirmation with the payment record.
+
+If multiple family members are contributing, choose one person to approve the final order. This keeps payment, design, and delivery messages consistent. See the [Cebu cake order guide](/journal/how-to-order.html) for the other details to confirm.
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit sa Father’s Day Cake
+
+Pangayo og sinulat nga order summary sa dili pa mobayad. Kinahanglan isulat niini ang kumpirmadong petsa, gidak-on, flavour, disenyo, eksaktong inskripsiyon, final nga presyo, address sa venue, modawat ug delivery window. Susiha ang spelling sa mga ngalan ug bisan unsang reference sa hobby o team nga mahimong masabtan sa lain-laing paagi.
+
+Nag-ingon ang gipatik nga giya sa White Cakes nga 50% nga deposit human magkasinabot sa final nga presyo ug detalye. Kumpirmaha diretso ang kasamtangang paagi sa bayad ug deadline sa balanse. Pangutan-a unsaon pag-apekto sa reservation sa kausaban sa petsa o address ug tipigi uban sa record sa bayad ang sinulat nga kumpirmasyon.
+
+Kon daghang sakop sa pamilya ang motampo, pagpili og usa ka tawo nga moapruba sa final nga order. Makatabang kini nga magkahiuyon ang mensahe bahin sa bayad, disenyo ug delivery. Tan-awa ang [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Father’s Day Cake
+
+Humingi ng nakasulat na order summary bago magbayad. Dapat nakasaad dito ang kumpirmadong petsa, sukat, flavour, design, eksaktong inscription, pinal na presyo, address ng venue, tatanggap, at delivery window. Suriin ang spelling ng mga pangalan at anumang reference sa hobby o team na maaaring iba-iba ang pagkaunawa.
+
+Sinasabi ng inilathalang gabay ng White Cakes na 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye. Kumpirmahin nang direkta sa bakery ang kasalukuyang paraan ng bayad at deadline ng balanse. Itanong kung paano maaapektuhan ng pagbabago sa petsa o address ang reservation at itabi ang nakasulat na kumpirmasyon kasama ng payment record.
+
+Kung maraming kapamilya ang mag-aambag, magtalaga ng isang taong mag-aapruba sa pinal na order. Pinagkakaisa nito ang mga mensahe tungkol sa bayad, design, at delivery. Tingnan ang [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang order sa Adlaw sa Amahan ug kontak sa nakadawat sa dili pa mobayad
-
-Susiha ang petsa sa panghitabo, gidak-on sa cake, lami, disenyo, eksaktong mensahe, bug-os nga presyo, ug plano sa pagpadala o pagkuha. Alang sa usa ka sorpresa, pagpili og organizer kansang numero sa telepono mahimong magamit nga dili makontak ang nakadawat. Pangutan-a ang mahitungod sa kasamtangan nga iskedyul sa holiday ug kon ang gipangayo nga handoff anaa.
-
-Ang White Cakes sa pagkakaron nag-ingon nga ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order. I-verify ang kantidad ug channel sa pagbayad gamit ang katapusang sinulat nga quote, lakip ang bisan unsang bayad sa pagpadala o custom-design. I-save ang resibo ug hulata ang sinulat nga kumpirmasyon sa booking.
-
-Ipadayon ang mga lakang sa pagbayad sa sentro nga giya sa order ug i-refresh ang pagkaanaa sa Adlaw sa Amahan sa dili pa imantala ang mga seasonal nga detalye.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang order ng Father's Day at contact ng tatanggap bago magbayad
-
-Tingnan ang petsa ng kaganapan, laki ng cake, lasa, disenyo, eksaktong mensahe, buong presyo, at plano sa paghahatid o pagkuha. Para sa isang sorpresa, pumili ng organizer na ang numero ng telepono ay maaaring gamitin nang hindi nakikipag-ugnayan sa tatanggap. Magtanong tungkol sa kasalukuyang iskedyul ng holiday at kung ang hiniling na handoff ay magagamit.
-
-Kasalukuyang sinasabi ng White Cakes na ang 50% na deposito ay nagpapatunay sa isang napagkasunduang order. I-verify ang halaga at channel ng pagbabayad gamit ang panghuling nakasulat na quote, kasama ang anumang bayad sa paghahatid o custom-design. I-save ang resibo at hintayin ang nakasulat na kumpirmasyon ng booking.
-
-Panatilihin ang mga hakbang sa pagbabayad sa gitnang gabay sa pag-order at i-refresh ang availability ng Father's Day bago i-publish ang mga napapanahong detalye.
+- Verify current holiday availability, terms, and route details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

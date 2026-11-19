@@ -1,44 +1,45 @@
 ---
 id: WC-0511
-status: draft-needs-original-closeup
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "Design details to consider for Mother's Day cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Mother's Day sa Cebu"
+english_title: "Mother’s Day Cake Design Details to Decide Before Ordering"
+cebuano_title: "Mga Detalye sa Disenyo sa Mother’s Day Cake nga Desisyunan sa Dili pa Mag-order"
+tagalog_title: "Mga Detalye ng Design ng Mother’s Day Cake na Dapat Pagpasyahan Bago Umorder"
 ---
 
-## Make a Mother's Day cake design feel personal
+## English
 
-Think about what the recipient likes before choosing flowers or colours by default. A favourite palette, a family phrase, or one small motif may make the cake more personal than a generic holiday decoration. Keep the inscription short and send the exact wording so the bakery can check that it fits the design.
+# Mother’s Day Cake Design Details to Decide Before Ordering
 
-If you want hand-piped flowers or another detailed finish, attach one reference and explain what you want adapted. Ask White Cakes to confirm the technique, size, and price; a reference does not promise an exact copy. Decide how many people will share the cake and confirm the size using the current serving guide.
+Before ordering, decide what the recipient should notice first: the message, a favourite colour, or a simple floral detail. Pick one main feature and treat the rest as supporting decoration. This helps prevent a small cake surface from becoming crowded with several competing ideas.
 
-Mother's Day dates can be busy. Check availability early and allow at least three days for made-to-order work. Confirm flavour, date, delivery or pickup, receiving contact, and the final quote before paying the 50% deposit that secures the agreed order.
+Check the exact wording, cake size, and where the cake will be displayed. A long message may need a larger open area; detailed decoration can require simplifying the inscription. If the cake will travel to a restaurant or family home, tell the bakery so the design can account for the handoff.
 
-Add original close-up photos only when they show real White Cakes work and have permission. Without a specific approved design example, keep these ideas in the shared cake-design guide.
+Use reference images to show mood and individual details, not as a promise of exact reproduction. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask which methods and seasonal options are available, then approve the final design and quote. See [cake design guidance in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo sa Mother’s Day Cake nga Desisyunan sa Dili pa Mag-order
+
+Sa dili pa mo-order, desisyoni unsay unang mamatikdan sa makadawat: mensahe, paboritong kolor o simple nga detalye sa bulak. Pagpili og usa ka pangunang bahin ug ipasuporta lang niini ang ubang dekorasyon. Makatabang kini nga dili huot tan-awon ang gamay nga ibabaw sa cake tungod sa daghang nag-ilog nga ideya.
+
+Susiha ang eksaktong wording, gidak-on sa cake ug lugar nga display-an. Mahimong manginahanglan og mas dakong luna ang taas nga mensahe; mahimong pasimplehon ang inskripsiyon kon detalyado ang dekorasyon. Kon dad-on ang cake sa restaurant o balay sa pamilya, sultihi ang panaderya aron ikonsiderar ang handoff.
+
+Gamita ang reference photo sa pagpakita sa mood ug tagsa-tagsa ka detalye, dili isip saad nga eksaktong kopyahon. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsang teknik ug seasonal option ang available, unya aprobahi ang disenyo ug quote. Tan-awa ang [giya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Design ng Mother’s Day Cake na Dapat Pagpasyahan Bago Umorder
+
+Bago umorder, pagpasiyahan kung ano ang unang mapapansin ng tatanggap: mensahe, paboritong kulay, o simpleng floral detail. Pumili ng isang pangunahing feature at gawing pansuporta rito ang ibang dekorasyon. Nakakaiwas ito na magmukhang siksik ang maliit na ibabaw ng cake dahil sa magkakumpitensiyang ideya.
+
+Suriin ang eksaktong wording, sukat ng cake, at lugar ng display. Maaaring mangailangan ng mas malaking bakanteng espasyo ang mahabang mensahe; maaaring kailangang pasimplehin ang inscription kapag detalyado ang dekorasyon. Kung dadalhin ang cake sa restaurant o bahay ng pamilya, sabihin ito sa bakery para maisaalang-alang ang handoff.
+
+Gamitin ang reference images para ipakita ang mood at mga indibidwal na detalye, hindi bilang pangako ng eksaktong pagkopya. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Itanong kung aling methods at seasonal options ang available, saka aprubahan ang pinal na design at quote. Tingnan ang [gabay sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Himua nga personal ang disenyo sa cake sa Mother's Day
-
-Hunahunaa kung unsa ang gusto sa nakadawat sa dili pa pagpili sa mga bulak o mga kolor nga default. Ang usa ka paborito nga palette, usa ka hugpong sa mga pulong sa pamilya, o usa ka gamay nga motif mahimong maghimo sa cake nga mas personal kaysa usa ka pangkaraniwang dekorasyon sa holiday. Hupti nga mubo ang inskripsiyon ug ipadala ang eksaktong mga pulong aron masusi sa panaderya nga mohaom kini sa disenyo.
-
-Kung gusto nimo ang mga bulak nga adunay tubo o lain nga detalyado nga pagkahuman, ilakip ang usa ka pakisayran ug ipasabut kung unsa ang gusto nimo ipahiangay. Pangutan-a ang White Cake sa pagkumpirma sa teknik, gidak-on, ug presyo; ang usa ka reperensiya wala magsaad ug eksaktong kopya. Pagdesisyon kon pila ka tawo ang moambit sa cake ug kumpirmahi ang gidak-on gamit ang kasamtangang giya sa pagserbisyo.
-
-Mahimong busy ang mga petsa sa Mother's Day. Susiha ang pagkaanaa sa sayo ug tugoti ang labing menos tulo ka adlaw alang sa hinimo-sa-pag-order nga trabaho. Kumpirma ang lami, petsa, delivery o pickup, pagdawat sa kontak, ug ang katapusang quote sa dili pa mobayad sa 50% nga deposito nga nagsiguro sa gikasabutan nga order.
-
-Idugang ang orihinal nga close-up nga mga litrato lamang kung kini nagpakita sa tinuod nga White Cake nga nagtrabaho ug adunay pagtugot. Kung walay espesipikong giaprobahan nga panig-ingnan sa disenyo, ibutang kini nga mga ideya sa gipaambit nga giya sa disenyo sa cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gawing personal ang disenyo ng cake para sa Araw ng Ina
-
-Isipin kung ano ang gusto ng tatanggap bago pumili ng mga bulaklak o kulay bilang default. Ang isang paboritong palette, isang parirala ng pamilya, o isang maliit na motif ay maaaring gawing mas personal ang cake kaysa sa isang pangkaraniwang dekorasyon ng holiday. Panatilihing maikli ang inskripsiyon at ipadala ang eksaktong mga salita upang masuri ng panaderya na akma ito sa disenyo.
-
-Kung gusto mo ng mga hand-piped na bulaklak o isa pang detalyadong finish, mag-attach ng isang reference at ipaliwanag kung ano ang gusto mong iakma. Tanungin ang White Cake upang kumpirmahin ang pamamaraan, laki, at presyo; ang isang sanggunian ay hindi nangangako ng eksaktong kopya. Magpasya kung ilang tao ang magbabahagi ng cake at kumpirmahin ang laki gamit ang kasalukuyang gabay sa paghahatid.
-
-Maaaring maging abala ang mga petsa sa Araw ng mga Ina. Tingnan ang availability nang maaga at maglaan ng hindi bababa sa tatlong araw para sa ginawang order na trabaho. Kumpirmahin ang lasa, petsa, delivery o pickup, pagtanggap ng contact, at ang huling quote bago bayaran ang 50% na deposito na nagsisiguro sa napagkasunduang order.
-
-Magdagdag lang ng mga orihinal na close-up na larawan kapag nagpakita ang mga ito ng tunay na gawa ng White Cake at may pahintulot. Nang walang partikular na inaprubahang halimbawa ng disenyo, panatilihin ang mga ideyang ito sa nakabahaging gabay sa disenyo ng cake.
+- Check current seasonal availability and ordering terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

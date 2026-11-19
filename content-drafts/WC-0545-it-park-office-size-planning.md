@@ -1,38 +1,45 @@
 ---
 id: WC-0545
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "Planning cake for an IT Park office celebration in Cebu"
-cebuano_title: "Pagplano sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+english_title: "Planning Cake Size for a Small IT Park Team"
+cebuano_title: "Pagplano sa Gidak-on sa Cake para sa Gamay nga Team sa IT Park"
+tagalog_title: "Pagpaplano ng Sukat ng Cake para sa Maliit na Team sa IT Park"
 ---
 
-## Plan the office cake around the people who will be present
+## English
 
-For an IT Park office celebration, estimate how many coworkers will be in the room at serving time rather than using the company’s total headcount. Ask whether slices will be served during a meeting or after a meal, and whether other desserts are planned. Those details help the bakery recommend a practical size.
+# Planning Cake Size for a Small IT Park Team
 
-The current guide estimates 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and 30–36 from a 6+8-inch two-tier cake. Actual portions depend on how the cake is cut, so confirm the range with the bakery. For delivery, share the building, tower or unit, recipient’s mobile number, and reception or security process.
+For a small team, count the people likely to be in the office during the break when the cake is served. Include colleagues on leave or remote only if they will join in person or have another agreed arrangement. Decide whether each person will take a modest slice or whether the cake is the main treat for the event.
 
-Add an office-planning section to the central size and delivery guides. Do not imply a special IT Park delivery service unless the business has verified that route and arrangement.
+The 4-inch Bento guide estimates about two generous or three modest portions after a meal, while a 6-inch round is estimated at about 8–12 party slices. These are approximate and may not match every custom design. Ask the bakery which available size fits both the headcount and the table.
+
+Check office rules for outside cake and who will receive it. Confirm the final size, serving plan, and delivery window with the bakery. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Pagplano sa Gidak-on sa Cake para sa Gamay nga Team sa IT Park
+
+Para sa gamay nga team, ihap ang mga kauban nga lagmit naa sa opisina atol sa break nga i-serve ang cake. Iapil ang naka-leave o remote lang kon motunga sila personal o adunay laing nasabutang paagi. Desisyoni kon modest nga hiwa ba ang matag usa o ang cake ang pangunang treat sa event.
+
+Gibanabana sa giya sa 4-inch Bento ang mga duha ka generous o tulo ka modest nga bahin human mokaon, samtang gibanabana ang 6-inch round nga mga 8–12 ka party slice. Banabana lamang kini ug mahimong dili motakdo sa tanang custom design. Pangutan-a ang panaderya unsang available nga gidak-on ang mohaum sa ihap ug lamesa.
+
+Susiha ang lagda sa opisina sa cake gikan sa gawas ug kinsa ang modawat niini. Kumpirmaha sa panaderya ang gidak-on, serving plan ug delivery window. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Pagpaplano ng Sukat ng Cake para sa Maliit na Team sa IT Park
+
+Para sa maliit na team, bilangin ang mga katrabahong malamang na nasa opisina sa break kung kailan ihahain ang cake. Isama lang ang naka-leave o remote kung personal silang dadalo o may ibang napagkasunduang paraan. Pagpasyahan kung modest na hiwa ang kukunin ng bawat isa o kung pangunahing treat ang cake para sa event.
+
+Tinatantiya ng gabay sa 4-inch Bento ang mga dalawang generous o tatlong modest na serving pagkatapos kumain, samantalang tinatantiyang may mga 8–12 party slice ang 6-inch round. Tantiya lang ito at maaaring hindi bumagay sa lahat ng custom design. Itanong sa bakery kung aling available na sukat ang babagay sa bilang at mesa.
+
+Suriin ang patakaran ng opisina sa dalang cake at kung sino ang tatanggap nito. Kumpirmahin sa bakery ang sukat, serving plan, at delivery window. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha ang cake sa opisina sa palibot sa mga tawo nga motambong
-
-Para sa usa ka selebrasyon sa opisina sa IT Park, banabanaa kung pila ka mga kauban sa trabaho ang naa sa kwarto sa oras sa pagserbisyo kaysa gamiton ang kinatibuk-ang ihap sa kompanya. Pangutan-a kung ang mga hiwa isilbi sa panahon sa miting o pagkahuman sa pagpangaon, ug kung giplano ba ang ubang mga dessert. Kadtong mga detalye makatabang sa panaderya nga makarekomendar ug praktikal nga gidak-on.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices gikan sa 6-pulgada nga cake, 16–24 gikan sa 8-pulgada nga cake, ug 30–36 gikan sa 6+8-pulgada nga two-tier nga cake. Ang aktuwal nga mga bahin nagdepende kung giunsa pagputol ang cake, busa kumpirmahi ang range sa panaderya. Para sa paghatod, ipaambit ang bilding, tore o unit, mobile number sa nakadawat, ug proseso sa pagdawat o seguridad.
-
-Pagdugang og seksyon sa pagplano sa opisina sa sentral nga gidak-on ug mga giya sa paghatod. Ayaw ipasabot ang usa ka espesyal nga serbisyo sa paghatod sa IT Park gawas kung gipamatud-an sa negosyo kana nga ruta ug kahikayan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Planuhin ang cake ng opisina sa paligid ng mga taong naroroon
-
-Para sa isang pagdiriwang sa opisina ng IT Park, tantyahin kung ilang katrabaho ang nasa silid sa oras ng paghahatid sa halip na gamitin ang kabuuang bilang ng bilang ng kumpanya. Tanungin kung ang mga hiwa ay ihahain sa panahon ng isang pulong o pagkatapos ng pagkain, at kung ang iba pang mga dessert ay binalak. Ang mga detalyeng iyon ay nakakatulong sa panaderya na magrekomenda ng praktikal na sukat.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice mula sa isang 6-inch na cake, 16–24 mula sa isang 8-inch na cake, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga aktwal na bahagi ay nakasalalay sa kung paano pinutol ang cake, kaya kumpirmahin ang hanay sa panaderya. Para sa paghahatid, ibahagi ang gusali, tore o unit, numero ng mobile ng tatanggap, at proseso ng pagtanggap o seguridad.
-
-Magdagdag ng seksyon ng pagpaplano ng opisina sa gitnang laki at mga gabay sa paghahatid. Huwag magpahiwatig ng isang espesyal na serbisyo sa paghahatid ng IT Park maliban kung na-verify ng negosyo ang ruta at kaayusan na iyon.
+- Confirm building access and current coverage for the exact address before publication.
+- Cebuano and Tagalog drafts need native editorial review.

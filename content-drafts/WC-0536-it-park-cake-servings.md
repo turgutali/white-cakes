@@ -1,44 +1,45 @@
 ---
 id: WC-0536
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html and /journal/corporate-office-cakes-cebu.html
-english_title: "How to estimate servings for cake for an IT Park office celebration in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+english_title: "How to Estimate Cake Servings for an IT Park Office Event"
+cebuano_title: "Giunsa Pagbanabana sa Servings sa Cake para sa Event sa Opisina sa IT Park"
+tagalog_title: "Paano Tantiyahin ang Serving ng Cake para sa IT Park Office Event"
 ---
 
-## Estimate office-cake portions from the people who will actually join
+## English
 
-For an IT Park celebration, estimate servings from the colleagues who will be present at the cake table, not the full headcount of the company. White Cakes' size guide gives about 8–12 party slices from a 6-inch round, 16–24 from an 8-inch, and roughly 30–36 from a common 6-inch-plus-8-inch two-tier. A 4-inch Bento gives two generous or three modest slices. These are planning ranges; the slice size and cake design change the final count.
+# How to Estimate Cake Servings for an IT Park Office Event
 
-If colleagues will come in shifts, several Bento boxes may be easier to distribute than one cake on a shared table. Tell White Cakes the number of boxes and whether messages or flavours differ. Each cake is piped separately, and the kitchen must confirm that quantity for your date.
+Count the people who can actually step away when the cake is served, not the full company headcount. If the event is during staggered shifts, ask the organizer whether everyone will have a chance to take a portion or whether cake will be set aside for later. Decide whether slices should be modest after a meal or larger during a team celebration.
 
-Send the company name, date, guest estimate, cake format, flavour, and inscription. For tower delivery, include the building, lobby or floor instructions, landmark, and a named receiver's number. Someone should meet the driver during the agreed window and move the cake to a suitable place before serving.
+The published guide estimates about 8–12 party slices from a 6-inch round and 16–24 from an 8-inch round. A common 6+8-inch two-tier is estimated at 30–36. These ranges depend on height, design, and how the cake is cut.
 
-Keep portion estimates on the central size guide and link them from the IT Park corporate-order page. Do not create a separate serving chart for every office location; the size math is the same, while access details belong on the relevant delivery page.
+Share the serving plan and break-room setup with the bakery. Confirm which size is currently available and whether it can be delivered to the agreed office handoff point. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagbanabana sa Servings sa Cake para sa Event sa Opisina sa IT Park
+
+Ihap ang mga tawo nga makabiya gyud sa trabaho sa oras nga i-serve ang cake, dili ang kinatibuk-ang headcount sa kompanya. Kon staggered ang shift, pangutan-a ang organizer kon makakuha ba ang tanan og bahin o adunay itagana para sa ulahi. Desisyoni kon modest nga hiwa human sa pagkaon o mas dagkong bahin para sa selebrasyon sa team.
+
+Gibanabana sa gipatik nga giya ang mga 8–12 ka party slice sa 6-inch round ug 16–24 sa 8-inch round. Gibanabana ang kasagarang 6+8-inch two-tier nga 30–36 ka bahin. Magdepende kini sa kataas, disenyo ug paagi sa paghiwa.
+
+Ipaambit sa panaderya ang serving plan ug setup sa break room. Kumpirmaha unsang gidak-on ang available karon ug kon madeliver ba kini sa gisabotang handoff point sa opisina. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Tantiyahin ang Serving ng Cake para sa IT Park Office Event
+
+Bilangin ang mga taong talagang makaaalis sa trabaho kapag ihahain ang cake, hindi ang buong headcount ng kumpanya. Kung salitan ang shifts, itanong sa organizer kung makakakuha ang lahat ng portion o may itatabi para sa susunod. Pagpasyahan kung modest na hiwa pagkatapos kumain o mas malaking serving para sa selebrasyon ng team.
+
+Tinatantiya ng inilathalang gabay ang mga 8–12 party slice mula sa 6-inch round at 16–24 mula sa 8-inch round. Tinatayang may 30–36 na serving ang karaniwang 6+8-inch two-tier. Nakadepende ang mga range sa taas, design, at paraan ng paghiwa.
+
+Ibahagi sa bakery ang serving plan at setup ng break room. Kumpirmahin kung aling sukat ang available ngayon at kung maihahatid ito sa napagkasunduang handoff point sa opisina. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagbanabana sa mga bahin sa opisina-cake gikan sa mga tawo nga aktuwal nga moapil
-
-Alang sa usa ka selebrasyon sa IT Park, banabanaa ang mga servings gikan sa mga kauban nga motambong sa lamesa sa cake, dili ang tibuuk nga headcount sa kompanya. Ang giya sa gidak-on sa White Cakes naghatag ug mga 8–12 ka party slices gikan sa 6-pulgada nga lingin, 16–24 gikan sa 8-pulgada, ug halos 30–36 gikan sa komon nga 6-pulgada-plus-8-pulgada nga duha ka lebel. Ang 4-pulgada nga Bento naghatag og duha ka manggihatagon o tulo ka kasarangan nga mga hiwa. Kini mao ang mga han-ay sa pagplano; ang gidak-on sa slice ug ang disenyo sa cake nagbag-o sa katapusang ihap.
-
-Kung ang mga kauban sa trabaho magbalhinbalhin, daghang mga kahon sa Bento mahimong dali nga maapod-apod kaysa usa ka cake sa usa ka lamesa nga gipaambit. Sultihi ang White Cake sa gidaghanon sa mga kahon ug kung magkalahi ang mga mensahe o lami. Ang matag cake gilain nga gilain, ug kinahanglan nga kumpirmahon sa kusina kana nga gidaghanon alang sa imong petsa.
-
-Ipadala ang ngalan sa kompanya, petsa, banabana sa bisita, pormat sa cake, lami, ug inskripsiyon. Alang sa paghatod sa tore, iapil ang bilding, lobby o instruksyon sa salog, landmark, ug usa ka ginganlan nga numero sa tigdawat. Kinahanglan nga adunay makigkita sa drayber sa panahon sa gikasabutan nga bintana ug ibalhin ang cake sa usa ka angay nga lugar sa dili pa magsilbi.
-
-Itago ang mga banabana sa bahin sa giya sa sentral nga gidak-on ug i-link kini gikan sa panid sa order sa korporasyon sa IT Park. Ayaw paghimo og lahi nga tsart sa pagserbisyo alang sa matag lokasyon sa opisina; parehas ang gidak-on sa matematika, samtang ang mga detalye sa pag-access nahisakop sa may kalabutan nga panid sa pagpadala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang mga bahagi ng office-cake mula sa mga taong talagang sasali
-
-Para sa isang pagdiriwang ng IT Park, tantyahin ang mga serving mula sa mga kasamahan na naroroon sa talahanayan ng cake, hindi ang buong headcount ng kumpanya. Ang gabay sa laki ng White Cakes ay nagbibigay ng humigit-kumulang 8–12 party slice mula sa isang 6-inch round, 16–24 mula sa isang 8-inch, at humigit-kumulang 30–36 mula sa isang karaniwang 6-inch-plus-8-inch two-tier. Ang 4-inch na Bento ay nagbibigay ng dalawang mapagbigay o tatlong katamtamang hiwa. Ito ay mga saklaw ng pagpaplano; ang laki ng slice at disenyo ng cake ay nagbabago sa huling bilang.
-
-Kung palipat-lipat ang mga kasamahan, maaaring mas madaling ipamahagi ang ilang Bento box kaysa sa isang cake sa isang shared table. Sabihin sa White Cakes ang bilang ng mga kahon at kung nagkakaiba ang mga mensahe o lasa. Ang bawat cake ay hiwalay sa pipe, at dapat kumpirmahin ng kusina ang dami na iyon para sa iyong petsa.
-
-Ipadala ang pangalan ng kumpanya, petsa, pagtatantya ng bisita, format ng cake, lasa, at inskripsiyon. Para sa paghahatid ng tore, isama ang mga tagubilin sa gusali, lobby o sahig, palatandaan, at isang pinangalanang numero ng tatanggap. Dapat may makasalubong sa driver sa panahon ng napagkasunduang bintana at ilipat ang cake sa angkop na lugar bago ihain.
-
-Panatilihin ang mga pagtatantya ng bahagi sa gabay sa gitnang laki at i-link ang mga ito mula sa pahina ng corporate-order ng IT Park. Huwag gumawa ng hiwalay na chart ng paghahatid para sa bawat lokasyon ng opisina; ang laki ng matematika ay pareho, habang ang mga detalye ng pag-access ay nasa nauugnay na pahina ng paghahatid.
+- Verify office rules and current order availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

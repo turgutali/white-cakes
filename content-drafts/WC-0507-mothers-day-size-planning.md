@@ -1,44 +1,45 @@
 ---
 id: WC-0507
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "Planning Mother's Day cake in Cebu"
-cebuano_title: "Pagplano sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa Mother's Day sa Cebu"
+english_title: "Planning Cake Size for a Mother’s Day Meal in Cebu"
+cebuano_title: "Pagplano sa Gidak-on sa Cake para sa Mother’s Day Meal sa Cebu"
+tagalog_title: "Pagpaplano ng Sukat ng Cake para sa Kainan sa Mother’s Day sa Cebu"
 ---
 
-## Plan Mother's Day portions for the family
+## English
 
-Count the relatives who will actually eat cake and decide whether there are other desserts. A Mother's Day meal may include guests who do not want a full slice, while a cake-only celebration may need more. Tell White Cakes how you plan to serve it and ask for a size recommendation.
+# Planning Cake Size for a Mother’s Day Meal in Cebu
 
-Current estimates are 8–12 party portions for 6 inches, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. These are approximate ranges, not exact guarantees. For a small celebration for two or three, the 4-inch Bento may be enough; it serves two generously or three modestly.
+Size a cake for the people expected at dessert, not the total number invited. If relatives may leave before the cake is served, decide whether to reserve portions for them or plan only for guests still at the table. Also consider whether there will be other desserts after the meal.
 
-Holiday dates should be checked early. Include the date, flavour, design, inscription, and delivery or pickup plan. Confirm the current quote and delivery fee. White Cakes requires at least three days' notice for made-to-order cakes, and the 50% deposit confirms the agreed order.
+The published guide estimates a 4-inch Bento at about two generous or three modest servings after a meal. Larger listed sizes have approximate party-slice ranges, but cake height, design, and cutting method affect the result. Share the event context with the bakery and ask what available size fits.
 
-Keep portion estimates in the central size guide. Update them only when White Cakes confirms a change to cake sizes or serving guidance.
+A cake for a family meal may need a serving plan as much as a design plan. Confirm the size, date, flavour, price, and delivery arrangement together so the cake is appropriate for the table. Review the [Cebu cake size guide](/journal/cake-sizes-cebu.html) before ordering.
+
+## Cebuano
+
+# Pagplano sa Gidak-on sa Cake para sa Mother’s Day Meal sa Cebu
+
+Pilia ang gidak-on base sa mga gilaoman nga naa sa oras sa dessert, dili sa tanang giimbitar. Kon basin mouli na ang mga paryente sa dili pa i-serve ang cake, desisyoni kon magtagana ba og bahin para kanila o magplano lang para sa naa pa sa lamesa. Hunahunaa usab kon adunay laing dessert human sa pagkaon.
+
+Banabana sa gipatik nga giya nga adunay mga duha ka generous o tulo ka modest nga servings human mokaon ang 4-inch Bento. Ang ubang gilista nga gidak-on adunay banabana nga party slices, apan makaapekto ang kataas, disenyo ug paagi sa paghiwa. Ipaambit sa panaderya ang konteksto sa event ug pangutan-a unsang available nga gidak-on ang angay.
+
+Ang cake para sa paniudto sa pamilya nanginahanglan og serving plan sama sa design plan. Kumpirmaha dungan ang gidak-on, petsa, flavour, presyo ug delivery arrangement aron mohaum ang cake sa lamesa. Susiha ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html) sa dili pa mo-order.
+
+## Tagalog
+
+# Pagpaplano ng Sukat ng Cake para sa Kainan sa Mother’s Day sa Cebu
+
+Itakda ang sukat ayon sa mga inaasahang naroroon kapag oras na ng dessert, hindi sa lahat ng inimbitahan. Kung maaaring umalis ang mga kamag-anak bago ihain ang cake, pagpasiyahan kung magtatabi ng portions para sa kanila o magpaplano lang para sa mga nasa mesa pa. Isaalang-alang din kung may iba pang dessert pagkatapos kumain.
+
+Tinatantiya ng inilathalang gabay na may mga dalawang generous o tatlong modest na serving pagkatapos kumain ang 4-inch Bento. May tinatayang party-slice range ang iba pang nakalistang sukat, pero nakaaapekto ang taas, design, at paraan ng paghiwa. Ibahagi sa bakery ang konteksto ng event at itanong kung aling available na sukat ang babagay.
+
+Kailangan ng cake para sa salu-salo ng pamilya ng serving plan gaya ng design plan. Kumpirmahin nang sabay ang sukat, petsa, flavour, presyo, at delivery arrangement para bumagay ang cake sa mesa. Suriin ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) bago umorder.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Planoha ang mga bahin sa Mother's Day para sa pamilya
-
-Pag-ihap sa mga paryente nga mokaon gyud sa cake ug magdesisyon kung adunay uban pang mga dessert. Ang usa ka pagkaon sa Mother's Day mahimong maglakip sa mga bisita nga dili gusto sa usa ka bug-os nga hiwa, samtang ang usa ka selebrasyon nga cake lamang mahimong magkinahanglan ug dugang. Sultihi ang White Cakes kung giunsa nimo pagplano ang pag-alagad niini ug pangayo og rekomendasyon sa gidak-on.
-
-Ang karon nga mga banabana mao ang 8–12 ka parti nga bahin sa 6 ka pulgada, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga two-tier nga cake. Kini mga gibanabana nga mga sakup, dili eksakto nga mga garantiya. Alang sa gamay nga selebrasyon alang sa duha o tulo, ang 4-pulgada nga Bento mahimong igo na; kini nag-alagad sa duha nga madagayaon o tulo nga kasarangan.
-
-Ang mga petsa sa holiday kinahanglan nga susihon og sayo. Ilakip ang petsa, lami, disenyo, inskripsiyon, ug plano sa pagpadala o pagkuha. Kumpirma ang kasamtangan nga quote ug delivery fee. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga pag-order nga mga cake, ug ang 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang mga banabana sa bahin sa sentro nga giya sa gidak-on. I-update lang kini kung gikumpirma sa White Cakes ang pagbag-o sa mga gidak-on sa cake o giya sa pag-alagad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng mga bahagi para sa Araw ng Ina para sa pamilya
-
-Bilangin ang mga kamag-anak na talagang kakain ng cake at magpasya kung may iba pang panghimagas. Maaaring kasama sa pagkain sa Araw ng Ina ang mga bisitang ayaw ng isang buong slice, habang ang pagdiriwang na cake lang ay maaaring mangailangan ng higit pa. Sabihin sa White Cake kung paano mo ito pinaplanong ihain at humingi ng rekomendasyon sa laki.
-
-Ang kasalukuyang mga pagtatantya ay 8–12 party na bahagi para sa 6 na pulgada, 16–24 para sa 8 pulgada, at 30–36 para sa 6+8-pulgada na two-tier na cake. Ito ay mga tinatayang saklaw, hindi mga eksaktong garantiya. Para sa isang maliit na pagdiriwang para sa dalawa o tatlo, ang 4-pulgadang Bento ay maaaring sapat na; ito ay naglilingkod sa dalawa nang mapagbigay o tatlong mahinhin.
-
-Ang mga petsa ng bakasyon ay dapat suriin nang maaga. Isama ang petsa, lasa, disenyo, inskripsiyon, at plano sa paghahatid o pickup. Kumpirmahin ang kasalukuyang quote at bayad sa paghahatid. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, at ang 50% na deposito ay nagpapatunay sa napagkasunduang order.
-
-Panatilihin ang mga pagtatantya ng bahagi sa gabay sa gitnang laki. I-update lang ang mga ito kapag kinumpirma ng White Cakes ang pagbabago sa mga laki ng cake o gabay sa paghahatid.
+- Verify current holiday availability and terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

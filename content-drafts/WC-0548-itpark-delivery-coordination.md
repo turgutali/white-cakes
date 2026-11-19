@@ -1,44 +1,45 @@
 ---
 id: WC-0548
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html
-english_title: "How to coordinate cake for an IT Park office celebration in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+english_title: "How to Coordinate Cake Delivery for an IT Park Office Event"
+cebuano_title: "Giunsa Pag-coordinate sa Delivery sa Cake para sa Event sa Opisina sa IT Park"
+tagalog_title: "Paano I-coordinate ang Delivery ng Cake para sa IT Park Office Event"
 ---
 
-## Coordinate an IT Park cake handoff with the office contact
+## English
 
-Choose a colleague who can receive the cake and meet the driver at the correct building entrance. Send White Cakes the full tower or building address, landmark, recipient's mobile number, visitor instructions, and the receiving point. Confirm whether the building permits deliveries at the agreed time and ask about the route and fee.
+# How to Coordinate Cake Delivery for an IT Park Office Event
 
-Do not assume the driver can access a secured floor or wait while the contact is in a meeting. Share the confirmed window with the colleague and decide where the cake will be placed after delivery. Keep it away from direct sun and heat; follow the bakery's care advice if the cake will wait for several hours.
+Choose an office host who knows the building rules and can guide the receiver to the handoff point. Share the full address, tower or building name, office floor, contact number, and any visitor or loading instructions with the bakery. Verify those details with the office instead of assuming a courier can go directly to a desk.
 
-Include the event date, flavour, size, serving estimate, and inscription in the order request. Confirm the final design and quote. White Cakes requires at least three days' notice for made-to-order cakes, and its 50% deposit confirms the agreed order after all details are settled.
+White Cakes confirms a delivery window, not an exact minute. Keep the receiver available for that whole period and decide where the cake will go if the serving room is not ready. If building security needs advance notice, arrange it with the office host before delivery day.
 
-Use actual IT Park delivery observations only after verifying them. Keep general office handoff advice in the central Cebu delivery guide.
+If the building, receiver, or window changes, send the update to the bakery and wait for confirmation. Confirm that this precise address is within current coverage. See the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-coordinate sa Delivery sa Cake para sa Event sa Opisina sa IT Park
+
+Pagpili og office host nga nahibalo sa lagda sa building ug makatultol sa modawat ngadto sa handoff point. Ipaambit sa panaderya ang kompleto nga address, ngalan sa tower o building, floor sa opisina, numero sa contact ug instruksyon sa visitor o loading. Kumpirmaha kini sa opisina imbes magtuo nga makadala dayon ang courier sa desk.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Himoa nga available ang modawat sa tibuok panahon ug desisyoni asa ibutang ang cake kon dili pa andam ang serving room. Kon nanginahanglan og advance notice ang security, ayosa kini uban sa office host sa dili pa ang adlaw sa delivery.
+
+Kon mausab ang building, modawat o window, ipadala ang update sa panaderya ug hulata ang kumpirmasyon. Kumpirmaha nga apil sa kasamtangang coverage ang tukmang address. Tan-awa ang [giya sa delivery sa cake sa Cebu](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano I-coordinate ang Delivery ng Cake para sa IT Park Office Event
+
+Magtalaga ng office host na nakaaalam sa patakaran ng building at makapagtuturo sa tatanggap sa handoff point. Ibahagi sa bakery ang buong address, pangalan ng tower o building, floor ng opisina, contact number, at tagubilin para sa bisita o loading. Kumpirmahin ito sa opisina sa halip na ipalagay na maihahatid ng courier diretso sa desk.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Panatilihing available ang tatanggap sa buong panahon at pagpasiyahan kung saan ilalagay ang cake kung hindi pa handa ang silid-paghahainan. Kung kailangan ng advance notice para sa security ng building, ayusin ito kasama ng office host bago ang araw ng delivery.
+
+Kung magbago ang building, tatanggap, o window, ipadala ang update sa bakery at hintayin ang kumpirmasyon. Tiyaking sakop ng kasalukuyang coverage ang eksaktong address. Tingnan ang [gabay sa delivery ng cake sa Cebu](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-coordinate sa IT Park cake handoff sa kontak sa opisina
-
-Pagpili usa ka kauban nga makadawat sa cake ug pakigkita sa drayber sa husto nga entrada sa bilding. Ipadala ang White Cakes sa tibuok address sa torre o building, landmark, mobile number sa nakadawat, mga instruksyon sa bisita, ug ang receiving point. Kumpirma kung gitugotan ba sa building ang mga paghatod sa gikasabutan nga oras ug pangutana bahin sa ruta ug bayad.
-
-Ayaw isipa nga ang drayber maka-access sa usa ka luwas nga salog o maghulat samtang ang kontak anaa sa usa ka miting. Ipaambit ang nakumpirma nga bintana sa kauban ug pagdesisyon kung asa ibutang ang cake pagkahuman sa paghatud. Ipahilayo kini sa direkta nga adlaw ug init; sunda ang tambag sa pag-atiman sa panaderya kung ang cake maghulat ug daghang oras.
-
-Ilakip ang petsa sa panghitabo, lami, gidak-on, banabana sa pagserbisyo, ug inskripsiyon sa hangyo sa order. Kumpirma ang katapusan nga disenyo ug kinutlo. Ang mga White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo alang sa gihimo nga pag-order nga mga cake, ug ang 50% nga deposito niini nagpamatuod sa gikasabutan nga order pagkahuman nahusay ang tanan nga mga detalye.
-
-Gamita ang aktuwal nga mga obserbasyon sa paghatud sa IT Park pagkahuman sa pag-verify niini. Hupti ang kinatibuk-ang tambag sa handoff sa opisina sa giya sa pagpadala sa sentro sa Sugbo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-coordinate ng IT Park cake handoff sa contact sa opisina
-
-Pumili ng isang kasamahan na makakatanggap ng cake at makipagkita sa driver sa tamang pasukan ng gusali. Ipadala sa White Cakes ang buong address ng tore o gusali, landmark, mobile number ng tatanggap, mga tagubilin sa bisita, at ang receiving point. Kumpirmahin kung pinahihintulutan ng gusali ang mga paghahatid sa napagkasunduang oras at magtanong tungkol sa ruta at bayad.
-
-Huwag ipagpalagay na ang driver ay maaaring ma-access ang isang secure na palapag o maghintay habang ang contact ay nasa isang pulong. Ibahagi ang nakumpirmang window sa kasamahan at magpasya kung saan ilalagay ang cake pagkatapos ng paghahatid. Ilayo ito sa direktang araw at init; sundin ang payo sa pangangalaga ng panaderya kung maghihintay ang cake ng ilang oras.
-
-Isama ang petsa ng kaganapan, lasa, laki, pagtatantya ng paghahatid, at inskripsyon sa kahilingan ng order. Kumpirmahin ang huling disenyo at quote. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, at ang 50% na deposito nito ay nagkukumpirma sa napagkasunduang order pagkatapos ma-settle ang lahat ng detalye.
-
-Gumamit lamang ng aktwal na mga obserbasyon sa paghahatid ng IT Park pagkatapos ma-verify ang mga ito. Panatilihin ang pangkalahatang payo sa pagbibigay ng opisina sa gabay sa paghahatid sa gitnang Cebu.
+- Confirm building access and current coverage for the exact address before publication.
+- Cebuano and Tagalog drafts need native editorial review.

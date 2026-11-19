@@ -1,38 +1,45 @@
 ---
 id: WC-0538
-status: written-draft
-publish_action: merge into /journal/choosing-a-flavor.html; verify current menu
-english_title: "How to choose a flavour for cake for an IT Park office celebration in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/choosing-a-flavor.html
+english_title: "How to Choose a Cake Flavour for an IT Park Office Event"
+cebuano_title: "Giunsa Pagpili sa Flavour sa Cake para sa Event sa Opisina sa IT Park"
+tagalog_title: "Paano Pumili ng Flavour ng Cake para sa IT Park Office Event"
 ---
 
-## Choose for the team and confirm the current flavour options
+## English
 
-Ask the organizer which flavours colleagues enjoy and how many people will share the cake. White Cakes’ menu has included Chocolate, Vanilla, Ube, Mango, and Red Velvet; check what is available for the requested date. Consider whether the cake is served after lunch or as a quick meeting treat.
+# How to Choose a Cake Flavour for an IT Park Office Event
 
-Ask about allergies or dietary concerns directly and whether the bakery can accommodate them. A flavour name does not establish ingredient safety. Confirm size, design, message, and office delivery separately, including the tower, receiving contact, and building access process.
+Choose an office cake flavour with the people sharing it in mind. If the event includes several departments or shifts, a familiar option may be easier to serve across a mixed group. If the cake is for a smaller team, ask the organizer which preference is known rather than relying on a poll that no one has time to answer.
 
-Keep current options in one flavour guide and link it from the IT Park delivery checklist. Do not publish an office-specific flavour list that repeats the same menu.
+Confirm which flavours are currently available in the requested size and for the event date. Do not infer the current menu from an old office cake photo. If a team member has an allergy or dietary restriction, tell the bakery and ask what it can accommodate; do not describe the cake as safe for that person without direct confirmation.
+
+Include a first choice and backup flavour in the request, and confirm the final option with the bakery. Consider break timing and storage if slices will be served in shifts. See [how to choose a cake flavour in Cebu](/journal/choosing-a-flavor.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour sa Cake para sa Event sa Opisina sa IT Park
+
+Pilia ang flavour sa cake sa opisina nga hunahunaon ang mga mopaambit niini. Kon daghang departamento o shift ang apil, mahimong mas sayon i-serve ang pamilyar nga kapilian sa nagkalain-laing grupo. Kon gamay nga team lang, pangutan-a ang organizer unsay nahibaw-ang gusto imbes magsalig sa poll nga walay panahon tubagon.
+
+Kumpirmaha unsang flavour ang available karon sa gihangyong gidak-on ug petsa sa event. Ayaw pagtuo nga mao gihapon ang menu base sa daang litrato sa office cake. Kon adunay allergy o dietary restriction ang kauban, isulti kini sa panaderya ug pangutan-a unsay ma-accommodate; ayaw pag-ingon nga luwas kini para sa maong tawo kon wala makumpirma.
+
+Ibutang sa request ang unang pilion ug backup nga flavour, unya kumpirmaha ang final nga kapilian sa panaderya. Hunahunaa ang oras sa break ug pagtipig kon lain-lain ang shift sa pagkuha sa hiwa. Tan-awa ang [pagpili sa flavour sa cake sa Cebu](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano Pumili ng Flavour ng Cake para sa IT Park Office Event
+
+Pumili ng flavour ng office cake habang iniisip ang mga magsasalo rito. Kung maraming departamento o shift ang kasama, maaaring mas madaling ihain sa iba-ibang grupo ang pamilyar na opsyon. Kung maliit na team lang, itanong sa organizer kung anong gusto ang alam na nila sa halip na umasa sa poll na walang panahon sagutan.
+
+Kumpirmahin kung aling flavour ang available ngayon sa hinihinging sukat at petsa ng event. Huwag ipalagay ang kasalukuyang menu mula sa lumang larawan ng office cake. Kung may allergy o dietary restriction ang katrabaho, sabihin ito sa bakery at itanong kung ano ang kaya nitong tugunan; huwag sabihing ligtas ito para sa taong iyon nang walang direktang kumpirmasyon.
+
+Ilagay sa request ang unang flavour na gusto at backup, saka kumpirmahin ang pinal na opsyon sa bakery. Isaalang-alang ang oras ng break at pag-iimbak kung magkakaiba ang shift ng pagkuha ng hiwa. Tingnan ang [paano pumili ng flavour ng cake sa Cebu](/journal/choosing-a-flavor.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili alang sa team ug kumpirmahi ang kasamtangan nga mga kapilian sa lami
-
-Pangutan-a ang organizer kung unsa nga lami ang ganahan sa mga kauban ug pila ka tawo ang moambit sa cake. Ang menu sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; susiha kung unsa ang magamit alang sa gihangyo nga petsa. Hunahunaa kung ang cake gisilbi pagkahuman sa paniudto o ingon usa ka dali nga pagtambal sa miting.
-
-Pangutan-a ang mahitungod sa mga alerdyi o mga kabalaka sa pagkaon direkta ug kung ang panaderya maka-accommodate ba niini. Ang ngalan sa palami wala magtukod og kaluwasan sa sangkap. Pagkumpirma sa gidak-on, disenyo, mensahe, ug paghatud sa opisina nga gilain, lakip ang tore, pagdawat sa kontak, ug proseso sa pag-access sa pagtukod.
-
-Itago ang kasamtangan nga mga kapilian sa usa ka giya sa lami ug i-link kini gikan sa checklist sa pagpadala sa IT Park. Ayaw pagmantala ug lista sa lami nga espesipiko sa opisina nga nagsubli sa parehas nga menu.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili para sa koponan at kumpirmahin ang kasalukuyang mga pagpipilian sa lasa
-
-Tanungin ang tagapag-ayos kung aling mga lasa ang tinatamasa ng mga kasamahan at kung gaano karaming tao ang makibahagi sa cake. Kasama sa menu ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet; tingnan kung ano ang magagamit para sa hiniling na petsa. Isaalang-alang kung ang cake ay inihahain pagkatapos ng tanghalian o bilang isang mabilis na pagpupulong.
-
-Direktang magtanong tungkol sa mga allergy o mga alalahanin sa pandiyeta at kung kayang tanggapin ng panaderya ang mga ito. Ang pangalan ng lasa ay hindi nagtatatag ng kaligtasan ng sangkap. Kumpirmahin ang laki, disenyo, mensahe, at paghahatid ng opisina nang hiwalay, kasama ang tore, pagtanggap ng contact, at proseso ng pag-access sa gusali.
-
-Panatilihin ang mga kasalukuyang opsyon sa isang gabay sa lasa at i-link ito mula sa checklist ng paghahatid ng IT Park. Huwag mag-publish ng listahan ng lasa na tukoy sa opisina na umuulit sa parehong menu.
+- Confirm building access, current bakery coverage, and event rules before publication.
+- Cebuano and Tagalog drafts need native editorial review.

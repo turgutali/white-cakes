@@ -1,44 +1,35 @@
 ---
 id: WC-0513
-status: photo-case-framework
-publish_action: add to /journal/cake-designs-cebu.html only after a Mother's Day cake photo is approved
-english_title: "A photo-led design breakdown of Mother's Day cake in Cebu"
-cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa Mother's Day sa Cebu"
+status: evidence-gated-photo-case
+publish_action: add to /journal/cake-designs-cebu.html only after a real Mother’s Day cake photo, verified case details, image rights, and customer permission are approved
+evidence_required: completed order; original photo files; written customer permission; confirmed year, brief, design, size, flavour, and event details
+english_title: "A Mother’s Day Cake Design Case Study from Cebu"
+cebuano_title: "Usa ka Case Study sa Disenyo sa Mother’s Day Cake gikan sa Cebu"
+tagalog_title: "Case Study ng Design ng Mother’s Day Cake mula sa Cebu"
 ---
 
-## Explain the personal design choice in a Mother's Day cake
+## Evidence gate
 
-A photo-led Mother's Day story should show how the design connects to the person receiving the cake. Select an approved White Cakes photo of an actual Mother's Day cake and identify one visible decision: a colour, piped flower, short message, or finish. Explain why that detail was chosen and how it fits the cake size. Do not claim a specific customer story or preference without permission and a real order example.
+evidence_required: completed order; original photo files; written customer permission; confirmed year, brief, design, size, flavour, and event details
 
-White Cakes offers a floral Bouquet Cake, compact Bento, Signature Marble, and custom buttercream designs. The article can explain how the pictured format differs from the others, but the product facts and current prices should remain on their maintained pages. If the photo is a general product image and not a Mother's Day cake, label it as a product example rather than a commission for the holiday.
+This entry needs an actual White Cakes Mother’s Day order and approved images. Do not fill it with a hypothetical cake or describe a design as completed without an order record. Confirm photo rights and written permission, including what personal details may be shared.
 
-Any order advice should use the confirmed date, flavour, inscription, and delivery steps from the live guide. The bakery requests at least three days' notice, with holiday availability confirmed before the deposit.
+If the case is approved, describe only the documented brief, final design, size, flavour, inscription, and relevant event setup. Captions must match what each photo shows. Do not invent a family story, reaction, guest count, or holiday availability. Add a specific lesson about a real design decision only if the order notes or bakery team can verify it.
 
-Until a permission-cleared, occasion-specific photo exists, do not publish this as a case study. Keep general gift-design advice on the existing Mother's Day and cake-design pages.
+Without the evidence and permission, keep the case unpublished and add general advice to the canonical design guide instead. Cebuano and Tagalog translations should be written after the case facts are approved, then reviewed by native editors.
 
----
+## Cebuano
 
-## Cebuano translation (machine translated; editorial review pending)
+Kini nga entry nagkinahanglan og tinuod nga White Cakes Mother’s Day order ug giaprobahang mga litrato. Ayaw paghimo og hypothetical nga cake o pag-ingon nga nahuman na ang disenyo kon walay order record. Kumpirmaha ang katungod sa litrato ug sinulat nga pagtugot, lakip ang personal nga detalye nga mahimong ipaambit.
 
-## Ipasabot ang personal nga pagpili sa disenyo sa cake sa Mother's Day
+Kon aprubado ang kaso, ihulagway lamang ang dokumentadong brief, final nga disenyo, gidak-on, flavour, inskripsiyon ug setup sa event. Kinahanglan motakdo ang caption sa makita sa litrato. Ayaw pag-imbento og istorya sa pamilya, reaksyon, ihap sa bisita o holiday availability. Idugang ang leksyon sa tinuod nga desisyon sa disenyo kon masusi kini sa notes o team sa panaderya.
 
-Ang istorya sa Adlaw sa Inahan nga gipangulohan sa litrato kinahanglan magpakita kung giunsa ang pagkonektar sa disenyo sa tawo nga nakadawat sa cake. Pagpili ug aprobahan nga White Cakes nga litrato sa aktuwal nga Mother's Day cake ug ilha ang usa ka makita nga desisyon: usa ka kolor, piped nga bulak, mubo nga mensahe, o pagkahuman. Ipaathag kon ngaa ginpili ina nga detalye kag kon paano ini nagakabagay sa kadakuon sang cake. Ayaw pag-angkon sa usa ka piho nga istorya sa kostumer o gusto nga wala’y pagtugot ug usa ka tinuud nga pananglitan sa order.
+Kon kulang ang ebidensiya o pagtugot, ayaw imantala ang kaso ug idugang hinuon ang kinatibuk-ang tambag sa canonical design guide.
 
-Nagtanyag ang White Cakes og bulak nga Bouquet Cake, compact Bento, Signature Marble, ug custom buttercream nga mga disenyo. Ang artikulo makapatin-aw kon sa unsang paagi ang gihulagway nga format lahi sa uban, apan ang mga kamatuoran sa produkto ug kasamtangang mga presyo kinahanglang magpabilin sa ilang gihuptan nga mga panid. Kung ang litrato usa ka kinatibuk-ang imahe sa produkto ug dili usa ka cake sa Adlaw sa Inahan, markahi kini ingon usa ka pananglitan sa produkto kaysa usa ka komisyon alang sa holiday.
+## Tagalog
 
-Ang bisan unsang tambag sa pag-order kinahanglan mogamit sa gikumpirma nga petsa, lami, inskripsiyon, ug mga lakang sa pagpadala gikan sa live nga giya. Ang panaderya nangayo ug labing menos tulo ka adlaw nga pahibalo, nga adunay kumpirmasyon sa holiday sa wala pa ang deposito.
+Kailangan ng entry na ito ng tunay na White Cakes Mother’s Day order at aprubadong mga larawan. Huwag gumawa ng hypothetical na cake o sabihing natapos ang design kung walang order record. Kumpirmahin ang karapatan sa larawan at nakasulat na pahintulot, kasama ang mga personal na detalyeng maaaring ibahagi.
 
-Hangtud nga adunay usa ka permiso-cleared, espesipiko sa okasyon nga litrato anaa, ayaw kini imantala isip usa ka case study. Hupti ang kinatibuk-ang tambag sa disenyo sa regalo sa kasamtangan nga Mother's Day ug mga panid sa disenyo sa cake.
+Kung aprubado ang case, ilarawan lamang ang dokumentadong brief, pinal na design, sukat, flavour, inscription, at setup ng event. Dapat tumugma ang caption sa nakikita sa larawan. Huwag mag-imbento ng kuwento ng pamilya, reaksyon, bilang ng bisita, o holiday availability. Idagdag lang ang aral mula sa tunay na desisyon sa design kung mabe-verify ito sa notes o team ng bakery.
 
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ipaliwanag ang personal na pagpipiliang disenyo sa isang cake para sa Araw ng mga Ina
-
-Dapat ipakita ng isang kwentong Araw ng Ina na pinangungunahan ng larawan kung paano kumokonekta ang disenyo sa taong tumatanggap ng cake. Pumili ng isang aprubadong White Cakes na larawan ng isang aktwal na Mother's Day cake at tukuyin ang isang nakikitang desisyon: isang kulay, piped na bulaklak, maikling mensahe, o pagtatapos. Ipaliwanag kung bakit napili ang detalyeng iyon at kung paano ito umaangkop sa laki ng cake. Huwag mag-claim ng isang partikular na kuwento o kagustuhan ng customer nang walang pahintulot at isang tunay na halimbawa ng order.
-
-Nag-aalok ang White Cakes ng floral Bouquet Cake, compact Bento, Signature Marble, at mga custom na disenyo ng buttercream. Maaaring ipaliwanag ng artikulo kung paano naiiba ang nakalarawang format mula sa iba, ngunit ang mga katotohanan ng produkto at kasalukuyang mga presyo ay dapat manatili sa kanilang pinananatili na mga pahina. Kung ang larawan ay isang pangkalahatang larawan ng produkto at hindi isang cake para sa Araw ng mga Ina, lagyan ito ng label bilang isang halimbawa ng produkto sa halip na isang komisyon para sa holiday.
-
-Ang anumang payo sa pag-order ay dapat gumamit ng nakumpirma na petsa, lasa, inskripsiyon, at mga hakbang sa paghahatid mula sa live na gabay. Humihiling ang panaderya ng hindi bababa sa tatlong araw na paunawa, na may kumpirmadong availability sa holiday bago ang deposito.
-
-Hanggang sa may na-clear na pahintulot, larawang partikular sa okasyon, huwag i-publish ito bilang isang case study. Panatilihin ang pangkalahatang payo sa disenyo ng regalo sa mga kasalukuyang pahina ng Mother's Day at disenyo ng cake.
+Kung kulang ang ebidensiya o pahintulot, huwag ilathala ang case at idagdag na lang ang pangkalahatang payo sa canonical design guide.

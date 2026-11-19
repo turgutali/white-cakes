@@ -1,38 +1,45 @@
 ---
 id: WC-0514
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for Father's Day cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa Father's Day sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa Father's Day sa Cebu"
+english_title: "When to Order a Father’s Day Cake in Cebu"
+cebuano_title: "Kanus-a Mag-order og Father’s Day Cake sa Cebu"
+tagalog_title: "Kailan Mag-order ng Father’s Day Cake sa Cebu"
 ---
 
-## Allow time to approve the design before the family event
+## English
 
-Confirm the Father’s Day gathering date and who will collect or receive the cake. Decide on size, flavour, short message, and design direction early enough for the bakery to check availability. For a surprise, use one family coordinator who can approve the details without revealing the plan.
+# When to Order a Father’s Day Cake in Cebu
 
-White Cakes’ current guidance asks for at least three days’ notice for made-to-order cakes, and busy dates may need earlier inquiry. Ask for a written quote and final summary. The stated process uses a 50% deposit to confirm an order; verify the current payment instructions and wait for confirmation of the date.
+Begin with the day and time the cake will be served. Families may celebrate on a different date from the holiday itself, and a restaurant lunch has different delivery needs from a home gathering. Ask the bakery to confirm availability for the exact date before settling the design.
 
-Keep the timing advice in one maintained order guide. Review lead times before each holiday season so a calendar reminder does not become a stale promise.
+White Cakes’ general made-to-order guidance asks for at least three days’ notice. Use this as a minimum reference, not a guaranteed booking slot. Contact the bakery earlier for a custom design, larger cake, or date when many people may be ordering. Confirm current capacity and delivery coverage rather than relying on a previous year’s offer.
+
+After the bakery confirms the order, finalize size, flavour, inscription, total price, deposit, venue address, receiver, and delivery window in writing. See the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Kanus-a Mag-order og Father’s Day Cake sa Cebu
+
+Sugdi sa adlaw ug oras nga i-serve ang cake. Mahimong lahi ang petsa sa selebrasyon sa aktuwal nga holiday, ug lahi usab ang panginahanglan sa delivery sa paniudto sa restaurant kumpara sa tapok sa balay. Pangayo sa panaderya og kumpirmasyon sa availability sa tukmang petsa sa dili pa tapuson ang disenyo.
+
+Ang kinatibuk-ang giya sa White Cakes alang sa made-to-order cake nangayo og labing menos tulo ka adlaw nga pahibalo. Minimum nga reference kini, dili garantiya sa booking slot. Kontaka og sayo pa ang panaderya para sa custom design, mas dako nga cake o petsa nga daghan ang mag-order. Kumpirmaha ang kasamtangang kapasidad ug delivery coverage imbes mosalig sa offer sa miaging tuig.
+
+Human kumpirmahon sa panaderya ang order, klaroha sa sinulat ang gidak-on, flavour, inskripsiyon, total nga presyo, deposit, address sa venue, modawat ug delivery window. Tan-awa ang [giya sa oras sa pag-order og cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Kailan Mag-order ng Father’s Day Cake sa Cebu
+
+Magsimula sa araw at oras kung kailan ihahain ang cake. Maaaring iba ang petsa ng selebrasyon sa mismong holiday, at iba rin ang pangangailangan sa delivery para sa tanghalian sa restaurant kumpara sa pagtitipon sa bahay. Hilingin sa bakery na kumpirmahin ang availability sa eksaktong petsa bago tapusin ang design.
+
+Humihingi ang pangkalahatang gabay ng White Cakes para sa made-to-order na cake ng hindi bababa sa tatlong araw na abiso. Minimum na sanggunian ito, hindi garantisadong booking slot. Makipag-ugnayan nang mas maaga para sa custom design, mas malaking cake, o petsang maraming maaaring umorder. Kumpirmahin ang kasalukuyang kapasidad at delivery coverage sa halip na umasa sa alok noong nakaraang taon.
+
+Kapag nakumpirma na ng bakery ang order, linawin nang nakasulat ang sukat, flavour, inscription, kabuuang presyo, deposito, address ng venue, tatanggap, at delivery window. Tingnan ang [gabay sa timeline ng pag-order ng cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hatagi og panahon nga aprobahan ang disenyo sa dili pa ang kalihokan sa pamilya
-
-Kumpirma ang petsa sa panagtapok sa Adlaw sa Amahan ug kinsa ang mokolekta o makadawat sa cake. Pagdesisyon sa gidak-on, lami, mubo nga mensahe, ug direksyon sa disenyo sa sayo nga igo aron masusi sa panaderya ang pagkaanaa. Para sa usa ka surpresa, gamita ang usa ka koordinetor sa pamilya nga makaaprobar sa mga detalye nga dili ibutyag ang plano.
-
-Ang kasamtangang giya sa White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa made-to-order nga mga cake, ug ang mga busy nga petsa mahimong magkinahanglan ug sayo nga pangutana. Pangayo og sinulat nga kinutlo ug katapusang summary. Ang gipahayag nga proseso naggamit sa 50% nga deposito aron makumpirma ang usa ka order; pamatud-i ang kasamtangan nga instruksyon sa pagbayad ug maghulat alang sa kumpirmasyon sa petsa.
-
-Itago ang tambag sa oras sa usa ka gipadayon nga giya sa order. Ribyuha ang mga oras sa pagpanguna sa dili pa ang matag holiday season aron ang usa ka pahinumdom sa kalendaryo dili mahimong usa ka lipas nga saad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magbigay ng oras upang aprubahan ang disenyo bago ang kaganapan ng pamilya
-
-Kumpirmahin ang petsa ng pagtitipon ng Father's Day at kung sino ang kukuha o tatanggap ng cake. Magpasya sa laki, lasa, maikling mensahe, at direksyon ng disenyo nang maaga upang masuri ng panaderya ang availability. Para sa isang sorpresa, gumamit ng isang coordinator ng pamilya na maaaring aprubahan ang mga detalye nang hindi inilalantad ang plano.
-
-Ang kasalukuyang patnubay ng White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake, at ang mga abalang petsa ay maaaring mangailangan ng mas maagang pagtatanong. Humingi ng nakasulat na quote at huling buod. Ang nakasaad na proseso ay gumagamit ng 50% na deposito upang kumpirmahin ang isang order; i-verify ang kasalukuyang mga tagubilin sa pagbabayad at maghintay para sa kumpirmasyon ng petsa.
-
-Panatilihin ang payo sa oras sa isang pinapanatili na gabay sa pagkakasunud-sunod. Suriin ang mga oras ng lead bago ang bawat holiday season upang ang isang paalala sa kalendaryo ay hindi maging isang lipas na pangako.
+- Verify current seasonal availability, rates, and service details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

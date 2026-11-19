@@ -1,44 +1,44 @@
 ---
 id: WC-0494
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
-english_title: "A photo-led design breakdown of Valentine's cake in Cebu"
-cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa Valentine's Day sa Cebu"
+status: evidence-gated-photo-case
+publish_action: create a case-specific URL only after a real Valentine’s order, original approved photos, verified order details, and customer permission; otherwise merge only a general design lesson into /journal/valentines-bouquet-cake-cebu.html
+evidence_required: completed order record; original image files; photo rights and customer permission; approved brief, design, size, flavour, inscription, and delivery details
+english_title: "A Valentine’s Cake Design Case Study from Cebu"
+cebuano_title: "Usa ka Case Study sa Disenyo sa Valentine’s Cake gikan sa Cebu"
+tagalog_title: "Case Study ng Disenyo ng Valentine’s Cake mula sa Cebu"
 ---
 
-## Valentine's cake case-study framework
+## Evidence gate
 
-**This needs a real White Cakes order and permission.** Select an actual Valentine's cake with a verified order record and original photos. Confirm the customer has approved the images and any message, venue, recipient, or surprise details. Do not reveal a surprise or identify the recipient without explicit consent.
+This is a case-study slot, not a customer story to invent. Use only a real White Cakes Valentine’s order supported by the order record, original photos, and written permission to publish. Confirm what the customer permits you to identify; omit names, venue, and personal messages unless each is approved.
 
-Explain one real design decision that can help readers: how the palette was selected, how the message fitted the cake, or how the design reflected the recipient. Use only details documented in the order or confirmed by the bakery. Do not invent a customer story, reaction, delivery time, or seasonal availability claim.
+Describe the actual brief and the design decision visible in the approved images. Verify the cake size, flavour, inscription, year, and delivery details from the order record. Do not invent a customer reaction, guest count, romantic outcome, or product availability. Captions must accurately describe the image and clarify if it shows a past custom order.
 
-Use original full-cake and detail photos with accurate captions. Verify current size, flavour, prices, and serving details before adding them. Link to the current design, custom brief, order, and delivery guides. The case must add a distinct lesson beyond a Valentine's gallery or generic design advice.
+The finished story should explain a useful decision beyond the gallery—for example, how the message fit a small surface or how the design was adapted to hand-piped buttercream—only when the notes support it. If evidence or permission is missing, do not publish this entry; improve the canonical guide with general advice instead.
 
-If there is no approved project and permission, leave this framework unpublished and update the existing seasonal and design pages instead.
+## Cebuano
+
+## Kinahanglan nga ebidensiya
+
+Slot kini para sa case study, dili istorya sa kustomer nga imbentohon. Gamita lamang ang tinuod nga Valentine’s order sa White Cakes nga gisuportahan sa order record, orihinal nga litrato ug sinulat nga pagtugot sa pagmantala. Kumpirmaha unsay gitugotan sa kustomer nga mailhan; tangtanga ang ngalan, venue ug personal nga mensahe gawas kon tagsa-tagsa kining giaprobahan.
+
+Ihulagway ang aktuwal nga brief ug desisyon sa disenyo nga makita sa giaprobahang mga litrato. Susiha sa order record ang gidak-on, flavour, inskripsiyon, tuig ug delivery details. Ayaw pag-imbento og reaksyon sa kustomer, ihap sa bisita, resulta sa romansa o availability sa produkto. Kinahanglan tukma ang caption ug klaro kon nangaging custom order ang litrato.
+
+Kinahanglan ipasabut sa nahuman nga istorya ang mapuslanong desisyon lapas sa gallery—pananglitan, giunsa pagpahaum sa mensahe sa gamay nga luna o pagpasibo sa disenyo sa hand-piped buttercream—kon suportado lang kini sa notes. Kon kulang ang ebidensiya o pagtugot, ayaw imantala kini; pauswaga hinuon ang canonical guide gamit ang kinatibuk-ang tambag.
+
+## Tagalog
+
+## Kailangang ebidensiya
+
+Slot ito para sa case study, hindi kuwentong customer na iimbentuhin. Gumamit lamang ng tunay na White Cakes Valentine’s order na suportado ng order record, orihinal na mga larawan, at nakasulat na pahintulot na ilathala. Kumpirmahin kung ano ang pinapayagan ng customer na kilalanin; alisin ang pangalan, venue, at personal na mensahe maliban kung hiwa-hiwalay na aprubado ang mga ito.
+
+Ilarawan ang totoong brief at desisyong nakikita sa aprubadong mga larawan. Tiyakin sa order record ang sukat, flavour, inscription, taon, at delivery details. Huwag mag-imbento ng reaksyon ng customer, bilang ng bisita, kinalabasan ng romansa, o availability ng produkto. Dapat tumpak ang caption at linawin kung dating custom order ang ipinapakita ng larawan.
+
+Dapat magpaliwanag ang tapos na kuwento ng kapaki-pakinabang na desisyon lampas sa gallery—halimbawa, kung paano nagkasya ang mensahe sa maliit na espasyo o paano iniangkop ang design sa hand-piped buttercream—kung sinusuportahan lang ito ng notes. Kung kulang ang ebidensiya o pahintulot, huwag ilathala ang entry na ito; pagbutihin na lang ang canonical guide gamit ang pangkalahatang payo.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Balangkas sa pagtuon sa case-study sa cake sa Valentine
-
-**Nagkinahanglan kini og tinuod nga order ug pagtugot sa White Cakes.** Pagpili ug aktuwal nga Valentine's cake nga adunay napamatud-an nga rekord sa order ug orihinal nga mga litrato. Kumpirma nga giaprobahan sa kustomer ang mga imahe ug bisan unsang mensahe, lugar, nakadawat, o mga detalye sa sorpresa. Ayaw pagpadayag og katingala o pag-ila sa nakadawat nga walay klaro nga pagtugot.
-
-Ipasabut ang usa ka tinuud nga desisyon sa disenyo nga makatabang sa mga magbabasa: kung giunsa gipili ang palette, giunsa ang mensahe nga nahiangay sa cake, o kung giunsa ang disenyo nagpakita sa nakadawat. Gamita lang ang mga detalye nga nadokumento sa order o gikumpirma sa panaderya. Ayaw pag-imbento og istorya sa kostumer, reaksyon, oras sa pagpadala, o pag-angkon sa panahon nga magamit.
-
-Gamita ang orihinal nga full-cake ug detalye nga mga litrato nga adunay tukma nga mga caption. Tinoa ang kasamtangan nga gidak-on, lami, presyo, ug mga detalye sa pag-alagad sa dili pa kini idugang. Pag-link sa kasamtangan nga disenyo, custom nga mubo, order, ug mga giya sa paghatod. Ang kaso kinahanglan nga magdugang usa ka lahi nga leksyon nga lapas sa usa ka Valentine's gallery o generic nga tambag sa disenyo.
-
-Kung walay giaprobahan nga proyekto ug pagtugot, ibilin kini nga gambalay nga dili mamantala ug i-update ang kasamtangan nga seasonal ug disenyo nga mga panid.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Balangkas ng case-study ng cake ng Valentine
-
-**Nangangailangan ito ng totoong order at pahintulot ng White Cakes.** Pumili ng aktwal na Valentine's cake na may na-verify na record ng order at mga orihinal na larawan. Kumpirmahin na inaprubahan ng customer ang mga larawan at anumang mga detalye ng mensahe, lugar, tatanggap, o sorpresa. Huwag magbunyag ng sorpresa o tukuyin ang tatanggap nang walang tahasang pahintulot.
-
-Ipaliwanag ang isang tunay na desisyon sa disenyo na makakatulong sa mga mambabasa: kung paano napili ang palette, kung paano nilagyan ng mensahe ang cake, o kung paano ipinakita ng disenyo ang tatanggap. Gamitin lamang ang mga detalyeng nakadokumento sa pagkakasunud-sunod o nakumpirma ng panaderya. Huwag mag-imbento ng kuwento ng customer, reaksyon, oras ng paghahatid, o seasonal availability na claim.
-
-Gumamit ng orihinal na full-cake at mga detalyeng larawan na may tumpak na mga caption. I-verify ang kasalukuyang laki, lasa, presyo, at mga detalye ng paghahatid bago idagdag ang mga ito. Mag-link sa kasalukuyang disenyo, custom na brief, order, at mga gabay sa paghahatid. Ang kaso ay dapat magdagdag ng natatanging aral na lampas sa Valentine's gallery o generic na payo sa disenyo.
-
-Kung walang naaprubahang proyekto at pahintulot, iwanan ang framework na ito na hindi nai-publish at i-update na lang ang mga kasalukuyang seasonal at disenyong page.
+- Requires a real approved case and image rights; otherwise remains unpublished.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0554
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; confirm local delivery details separately
-english_title: "How to choose a design for cake for a Mandaue family celebration in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa selebrasyon sa pamilya sa Mandaue sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa pagdiriwang ng pamilya sa Mandaue sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "How to Choose a Cake Design for a Mandaue Family Celebration"
+cebuano_title: "Giunsa Pagpili sa Disenyo sa Cake para sa Selebrasyon sa Pamilya sa Mandaue"
+tagalog_title: "Paano Pumili ng Design ng Cake para sa Family Celebration sa Mandaue"
 ---
 
-## Choose a design the family can recognize and the bakery can confirm
+## English
 
-Start with the reason for the gathering and the person or family detail the cake should celebrate. Pick one visual direction—a colour palette, a flower, or a short inscription—and explain which feature matters most. If relatives share several ideas, ask one person to combine them into a simple brief.
+# How to Choose a Cake Design for a Mandaue Family Celebration
 
-Send the requested date, size, flavour, serving estimate, and Mandaue delivery address. Confirm that delivery is available for that exact location, then ask the bakery how the design can fit the chosen size and budget. Get the final wording and price in writing before confirming the order.
+Choose a design that makes sense for the person or milestone being celebrated. A family gathering may include different ages and preferences, so one personal detail—such as a short message or familiar colour—can connect the cake to the occasion without relying on a crowded design.
 
-Add general design guidance to the Cebu design page. A Mandaue portfolio case needs a real approved cake photo and verified location details; the city name alone is not unique value.
+Think about where the cake will be served. A dining table at home, a restaurant buffet, and a shared community venue may offer different display space and lighting. Keep lettering readable and account for transport if the cake will move from the delivery point before serving.
+
+Send references with notes and ask how the idea can be adapted. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm current design capability and availability for the Mandaue address. See [cake design ideas in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Disenyo sa Cake para sa Selebrasyon sa Pamilya sa Mandaue
+
+Pagpili og disenyo nga mohaum sa tawo o milestone nga gisaulog. Mahimong lain-lain ang edad ug gusto sa mga sakop sa pamilya, busa makakonektar sa okasyon ang usa ka personal nga detalye—sama sa mubo nga mensahe o pamilyar nga kolor—nga dili kinahanglan pun-on ang cake sa dekorasyon.
+
+Hunahunaa asa i-serve ang cake. Lahi ang display space ug suga sa lamesa sa balay, buffet sa restaurant ug gipaambit nga venue sa komunidad. Himoa nga mabasa ang letra ug ikonsiderar ang transportasyon kon ibalhin pa ang cake gikan sa delivery point.
+
+Magpadala og reference nga naay nota ug pangutan-a unsaon pagpahiangay sa ideya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha ang kasamtangang kapasidad sa disenyo ug availability para sa address sa Mandaue. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Design ng Cake para sa Family Celebration sa Mandaue
+
+Pumili ng design na babagay sa taong o milestone na ipinagdiriwang. Maaaring magkakaiba ang edad at gusto ng mga kapamilya, kaya maaaring iugnay ng isang personal na detalye—gaya ng maikling mensahe o pamilyar na kulay—ang cake sa okasyon nang hindi ito pinupuno ng dekorasyon.
+
+Pag-isipan kung saan ihahain ang cake. Magkaiba ang display space at ilaw sa mesa sa bahay, buffet ng restaurant, at pinagsasaluhang venue ng komunidad. Panatilihing nababasa ang lettering at isaalang-alang ang transportasyon kung ililipat pa ang cake mula sa delivery point.
+
+Magpadala ng references na may tala at itanong kung paano iaangkop ang ideya. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin ang kasalukuyang kakayahan sa design at availability para sa address sa Mandaue. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug disenyo nga mailhan sa pamilya ug makumpirma sa panaderya
-
-Pagsugod sa hinungdan sa panagtapok ug ang detalye sa tawo o pamilya sa cake kinahanglan nga saulogon. Pagpili og usa ka biswal nga direksyon—usa ka color palette, usa ka bulak, o usa ka mubo nga inskripsiyon—ug ipasabut kung unsang feature ang labing importante. Kon ang mga paryente mopaambit og pipila ka mga ideya, hangyoa ang usa ka tawo sa paghiusa niini ngadto sa usa ka yano nga mubo.
-
-Ipadala ang gipangayo nga petsa, gidak-on, lami, banabana sa pagserbisyo, ug address sa pagpadala sa Mandaue. Pagmatuod nga ang pagpadala magamit alang sa eksakto nga lokasyon, dayon pangutana sa panaderya kung giunsa ang disenyo nga mohaum sa gipili nga gidak-on ug badyet. Kuhaa ang katapusang mga pulong ug presyo sa pagsulat sa dili pa kumpirmahon ang order.
-
-Idugang ang kinatibuk-ang giya sa disenyo sa panid sa disenyo sa Sugbo. Ang kaso sa portfolio sa Mandaue nanginahanglan usa ka tinuod nga aprubado nga litrato sa cake ug gipamatud-an nga mga detalye sa lokasyon; ang ngalan sa siyudad lamang dili talagsaon nga bili.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng disenyo na makikilala ng pamilya at makumpirma ng panaderya
-
-Magsimula sa dahilan ng pagtitipon at ang detalye ng tao o pamilya na dapat ipagdiwang ng cake. Pumili ng isang visual na direksyon—isang color palette, isang bulaklak, o isang maikling inskripsiyon—at ipaliwanag kung aling feature ang pinakamahalaga. Kung ang mga kamag-anak ay nagbabahagi ng ilang ideya, hilingin sa isang tao na pagsamahin ang mga ito sa isang simpleng brief.
-
-Ipadala ang hiniling na petsa, laki, lasa, pagtatantya ng paghahatid, at address ng paghahatid sa Mandaue. Kumpirmahin na available ang paghahatid para sa eksaktong lokasyong iyon, pagkatapos ay tanungin ang panaderya kung paano magkasya ang disenyo sa napiling laki at badyet. Kunin ang huling salita at presyo nang nakasulat bago kumpirmahin ang order.
-
-Magdagdag ng pangkalahatang gabay sa disenyo sa pahina ng disenyo ng Cebu. Ang isang Mandaue portfolio case ay nangangailangan ng isang tunay na aprubadong larawan ng cake at na-verify na mga detalye ng lokasyon; ang pangalan ng lungsod lamang ay hindi natatanging halaga.
+- Confirm current Mandaue address coverage and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

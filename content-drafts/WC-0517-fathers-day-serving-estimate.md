@@ -1,44 +1,45 @@
 ---
 id: WC-0517
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to estimate servings for Father's Day cake in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa Father's Day sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa Father's Day sa Cebu"
+english_title: "How to Estimate Father’s Day Cake Servings in Cebu"
+cebuano_title: "Giunsa Pagbanabana sa Servings sa Father’s Day Cake sa Cebu"
+tagalog_title: "Paano Tantiyahin ang Serving ng Father’s Day Cake sa Cebu"
 ---
 
-## Estimate Father's Day cake portions for the family
+## English
 
-Ask how many people will actually eat cake and whether it is the only dessert. A family barbecue may include other sweets, while a small celebration at home may serve full slices to everyone. Tell White Cakes whether you expect small portions or generous party slices.
+# How to Estimate Father’s Day Cake Servings in Cebu
 
-The current guide estimates 8–12 party slices for a 6-inch cake, 16–24 for 8 inches, and 30–36 for a 6+8-inch two-tier cake. These are ranges, not exact yields. For a private moment for two or three people, the 4-inch Bento may be enough. Confirm the size with the bakery.
+Estimate the portions for the people who will be there when the cake is cut. A family lunch may include guests who leave before dessert, while a reunion may add relatives beyond the original count. Ask the organizer for a realistic number and decide whether cake is the only dessert.
 
-Include the Father's Day date, flavour, design, and delivery plan with the order request. Check availability early and ask whether the selected flavour is available for that size. Allow at least three days' notice; the 50% deposit confirms the agreed order after size, price, and handoff are settled.
+The published size guide gives approximate counts: a 6-inch round is about 8–12 party slices, an 8-inch round about 16–24, and a common 6+8-inch two-tier about 30–36. A 4-inch Bento is estimated at two generous or three modest servings after a meal. Actual portions depend on height, design, and cutting style.
 
-Keep portion information consistent in the central sizing guide and link to current seasonal ordering details.
+Share the setting and serving style with the bakery before choosing. Confirm the size is currently available and fits the planned display space. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html) for the estimates and their limitations.
+
+## Cebuano
+
+# Giunsa Pagbanabana sa Servings sa Father’s Day Cake sa Cebu
+
+Ibanabana ang portions para sa mga tawo nga naa sa oras nga hiwaon ang cake. Mahimong adunay bisita sa paniudto sa pamilya nga mouli sa dili pa dessert, samtang makadugang og paryente sa reunion lapas sa unang ihap. Pangayo sa organizer og realistic nga numero ug desisyoni kon cake ra ba ang dessert.
+
+Naghatag og banabana ang gipatik nga size guide: mga 8–12 ka party slice ang 6-inch round, 16–24 ang 8-inch round ug 30–36 ang kasagarang 6+8-inch two-tier. Gibanabana ang 4-inch Bento nga adunay duha ka generous o tulo ka modest nga servings human mokaon. Magdepende ang tinuod nga portions sa kataas, disenyo ug paagi sa paghiwa.
+
+Ipaambit sa panaderya ang setting ug paagi sa pag-serve sa dili pa mopili. Kumpirmaha nga available karon ang gidak-on ug mohaum sa display space. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html) para sa banabana ug limitasyon niini.
+
+## Tagalog
+
+# Paano Tantiyahin ang Serving ng Father’s Day Cake sa Cebu
+
+Tantiyahin ang portions para sa mga taong naroroon kapag hihiwaing ang cake. Maaaring may bisitang aalis bago dessert sa tanghalian ng pamilya, samantalang maaaring dumami ang kamag-anak sa reunion lampas sa unang bilang. Humingi sa organizer ng makatotohanang bilang at pagpasiyahan kung cake lang ang dessert.
+
+Nagbibigay ng tantiya ang inilathalang size guide: mga 8–12 party slice ang 6-inch round, 16–24 ang 8-inch round, at 30–36 ang karaniwang 6+8-inch two-tier. Tinatayang may dalawang generous o tatlong modest na serving pagkatapos kumain ang 4-inch Bento. Nakadepende ang aktuwal na portions sa taas, design, at paraan ng paghiwa.
+
+Ibahagi sa bakery ang setup at paraan ng paghahain bago pumili. Kumpirmahin na available ngayon ang sukat at kasya sa display space. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) para sa mga tantiya at limitasyon nito.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagbanabana sa mga bahin sa cake sa Adlaw sa Amahan para sa pamilya
-
-Pangutan-a kon pila ka tawo ang aktuwal nga mokaon sa cake ug kung kini ra ba ang dessert. Ang usa ka barbecue sa pamilya mahimong maglakip sa ubang mga tam-is, samtang ang usa ka gamay nga selebrasyon sa balay mahimong magsilbi nga puno nga mga hiwa sa tanan. Sultihi ang White Cake kung nagdahom ka og gagmay nga mga bahin o ubay-ubay nga mga hiwa sa party.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices para sa 6-pulgada nga cake, 16–24 sa 8 ka pulgada, ug 30–36 alang sa 6+8-pulgada nga duha ka lebel nga cake. Kini mga sakup, dili eksakto nga abot. Alang sa usa ka pribado nga higayon alang sa duha o tulo ka mga tawo, ang 4-pulgada nga Bento mahimong igo na. Kumpirma ang gidak-on sa panaderya.
-
-Ilakip ang petsa sa Adlaw sa Amahan, lami, disenyo, ug plano sa pagpadala uban sa hangyo sa pag-order. Susiha og sayo ang pagkaanaa ug pangutan-a kung ang gipili nga lami magamit alang sa kana nga gidak-on. Tugoti ang labing menos tulo ka adlaw nga pahibalo; ang 50% nga deposito nagpamatuod sa gikasabutan nga order human sa gidak-on, presyo, ug handoff nahusay.
-
-Hupti nga makanunayon ang impormasyon sa bahin sa sentral nga giya sa pagsukod ug i-link sa kasamtangang seasonal nga mga detalye sa pag-order.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang mga bahagi ng cake para sa Araw ng Ama para sa pamilya
-
-Itanong kung gaano karaming tao ang talagang kakain ng cake at kung ito lang ang dessert. Ang isang barbecue ng pamilya ay maaaring may kasamang iba pang mga matamis, habang ang isang maliit na pagdiriwang sa bahay ay maaaring maghatid ng buong hiwa sa lahat. Sabihin sa White Cake kung inaasahan mo ang maliliit na bahagi o masaganang hiwa ng party.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice para sa isang 6-inch na cake, 16–24 para sa 8 pulgada, at 30–36 para sa isang 6+8-inch na two-tier na cake. Ang mga ito ay mga saklaw, hindi eksaktong mga ani. Para sa isang pribadong sandali para sa dalawa o tatlong tao, maaaring sapat na ang 4-pulgadang Bento. Kumpirmahin ang laki sa panaderya.
-
-Isama ang petsa ng Father's Day, lasa, disenyo, at plano sa paghahatid sa kahilingan ng order. Tingnan ang availability nang maaga at tanungin kung available ang napiling lasa para sa ganoong laki. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang laki, presyo, at handoff.
-
-Panatilihing pare-pareho ang impormasyon ng bahagi sa gitnang gabay sa pagpapalaki at i-link sa kasalukuyang mga detalye ng pana-panahong pag-order.
+- Verify current seasonal availability, rates, and service details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

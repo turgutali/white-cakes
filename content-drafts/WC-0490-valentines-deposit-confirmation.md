@@ -1,38 +1,45 @@
 ---
 id: WC-0490
-status: written-draft
-publish_action: merge into /journal/how-to-order.html; verify current rates and payment method
-english_title: "What to confirm before paying a deposit for Valentine's cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa Valentine's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-order.html
+english_title: "What to Confirm Before Paying a Deposit for a Valentine’s Cake"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Valentine’s Cake"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Valentine’s Cake"
 ---
 
-## Confirm the holiday date, complete quote, and recipient plan first
+## English
 
-Before paying, check the event date, size, flavour, design, exact message, and pickup or delivery address. If the cake is a surprise, use a coordinator’s phone number and tell the bakery which person may be contacted. Ask whether the requested Valentine’s handoff window is available.
+# What to Confirm Before Paying a Deposit for a Valentine’s Cake
 
-Request the full current price, including decoration and any delivery fee. White Cakes states a 50% deposit confirms an agreed order; verify the payment channel and amount with the final written quote. Save the receipt and order summary. Do not treat a social-media inquiry as a confirmed booking.
+Before paying, make sure the order has a confirmed date and a written final quote. Check the cake size, flavour, design description, exact inscription, delivery or pickup address, receiver, and requested handoff window. A social message with an estimated price is not a complete order summary if key details are still undecided.
 
-Keep payment steps in the central order guide and recheck seasonal availability before publication.
+White Cakes’ published order guidance describes a 50% deposit after the final price and details are agreed. Verify the current payment method, deposit instructions, and balance deadline directly with the bakery. Ask what happens if you need to change the message, address, or event date, and wait for written confirmation of any change.
+
+For a surprise, confirm who may receive updates and whether the bakery can keep the inscription private. Keep the receipt and approved order summary together. For the general checklist, see [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili pa Mobayad og Deposit para sa Valentine’s Cake
+
+Sa dili pa mobayad, siguroha nga kumpirmado ang petsa ug adunay sinulat nga final quote. Susiha ang gidak-on, flavour, paghulagway sa disenyo, eksaktong inskripsiyon, delivery o pickup address, modawat ug gitinguhang handoff window. Dili kompleto nga summary sa order ang chat nga estimate ra ang presyo kon wala pa mahibaloi ang ubang detalye.
+
+Nag-ingon ang gipatik nga order guide sa White Cakes nga 50% nga deposit human magkasinabot sa final nga presyo ug detalye. Kumpirmaha diretso sa panaderya ang kasamtangang paagi sa bayad, instruksyon sa deposit ug deadline sa balanse. Pangutan-a unsay mahitabo kon usbon ang mensahe, address o petsa, ug hulata ang sinulat nga kumpirmasyon sa kausaban.
+
+Kon surprise, kumpirmaha kinsa ang makadawat sa updates ug kon matago ba sa panaderya ang inskripsiyon. Ipares ang resibo ug giaprobahang order summary. Tan-awa ang [giya sa pag-order og cake sa Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Valentine’s Cake
+
+Bago magbayad, tiyaking kumpirmado ang petsa at may nakasulat na pinal na quote. Suriin ang sukat, flavour, paglalarawan ng design, eksaktong inscription, delivery o pickup address, tatanggap, at gustong handoff window. Hindi kumpletong order summary ang chat na tantiya pa lang ang presyo kung hindi pa napagpapasyahan ang ibang detalye.
+
+Sinasabi ng inilathalang order guide ng White Cakes na 50% na deposito pagkatapos magkasundo sa pinal na presyo at detalye. Kumpirmahin nang direkta sa bakery ang kasalukuyang paraan ng bayad, tagubilin sa deposito, at deadline ng balanse. Itanong kung ano ang mangyayari kung kailangang baguhin ang mensahe, address, o petsa, at hintayin ang nakasulat na kumpirmasyon ng pagbabago.
+
+Kung sorpresa ito, tiyakin kung sino ang maaaring makatanggap ng updates at kung maitatago ng bakery ang inscription. Itabi nang magkasama ang resibo at aprubadong order summary. Tingnan ang [gabay sa pag-order ng cake sa Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma una ang petsa sa holiday, kompleto nga quote, ug plano sa tigdawat
-
-Sa dili pa mobayad, susiha ang petsa sa panghitabo, gidak-on, lami, disenyo, eksaktong mensahe, ug adres sa pagkuha o paghatod. Kung ang cake usa ka sorpresa, gamita ang numero sa telepono sa coordinator ug sultihi ang panaderya kung kinsa nga tawo ang mahimong makontak. Pangutan-a kon ang gipangayo nga Valentine's handoff window anaa ba.
-
-Paghangyo sa tibuuk nga presyo karon, lakip ang dekorasyon ug bisan unsang bayad sa pagpadala. Ang White Cakes nag-ingon nga ang 50% nga deposito nagpamatuod sa usa ka gikasabutan nga order; pamatud-i ang channel sa pagbayad ug kantidad nga adunay katapusang sinulat nga kinutlo. I-save ang resibo ug summary sa order. Ayaw isipa ang usa ka pangutana sa social-media nga usa ka kumpirmadong booking.
-
-Ipadayon ang mga lakang sa pagbayad sa sentral nga giya sa order ug susihon pag-usab ang panahon nga magamit sa dili pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin muna ang petsa ng holiday, kumpletong quote, at plano ng tatanggap
-
-Bago magbayad, tingnan ang petsa ng kaganapan, laki, lasa, disenyo, eksaktong mensahe, at pickup o delivery address. Kung sorpresa ang cake, gumamit ng numero ng telepono ng coordinator at sabihin sa panaderya kung sinong tao ang maaaring makontak. Itanong kung available ang hiniling na window ng handoff ng Valentine.
-
-Hilingin ang buong kasalukuyang presyo, kabilang ang dekorasyon at anumang bayad sa paghahatid. Ang White Cakes ay nagsasaad ng 50% na deposito na nagpapatunay sa isang napagkasunduang order; i-verify ang channel ng pagbabayad at halaga gamit ang huling nakasulat na quote. I-save ang resibo at buod ng order. Huwag ituring ang isang social-media na pagtatanong bilang isang kumpirmadong booking.
-
-Panatilihin ang mga hakbang sa pagbabayad sa gitnang gabay sa pag-order at suriin muli ang napapanahong kakayahang magamit bago i-publish.
+- Confirm current seasonal availability and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0499
-status: written-draft
-publish_action: merge into /journal/cake-prices-cebu.html; verify current Mother’s Day menu and rates
-english_title: "What to ask about the price of Mother's Day cake in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa Mother's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-prices-cebu.html
+english_title: "What to Ask About a Mother’s Day Cake Price in Cebu"
+cebuano_title: "Unsa ang Pangutan-on Bahin sa Presyo sa Mother’s Day Cake sa Cebu"
+tagalog_title: "Ano ang Itatanong Tungkol sa Presyo ng Mother’s Day Cake sa Cebu"
 ---
 
-## Get a current holiday quote for the exact size and design
+## English
 
-Share the Mother’s Day date, expected servings, preferred size, flavour, inscription, and design reference. Ask whether the bakery has availability and what the current quote includes. Confirm if custom flowers, lettering, or delivery to the family address adds to the total.
+# What to Ask About a Mother’s Day Cake Price in Cebu
 
-Seasonal rates and offers may change, so do not rely on last year’s menu or an old social post. Request the complete total in writing, confirm the accepted payment method and deposit, and save the order details. If you have a budget, share it before finalizing the decoration.
+Describe one complete order before asking for a quote: date, size, flavour, design, exact message, and delivery address. Ask whether the bakery can accept that date and whether the requested seasonal design is available. Prices and holiday capacity can change, so a previous menu is not a current quote.
 
-Keep live prices in the central Cebu price guide and refresh the holiday examples each year.
+Request the total in writing and ask what it includes. Confirm delivery charges, deposit, balance timing, and whether requested changes affect the price. White Cakes’ general guidance says a 50% deposit follows agreement on the final price and details; verify current payment terms directly before sending money.
+
+If the quote exceeds your budget, ask which adjustment would matter least to the design—size, decoration detail, or delivery setup—rather than removing an essential detail without discussion. Compare like-for-like confirmed quotes. See the [Cebu cake price guide](/journal/cake-prices-cebu.html).
+
+## Cebuano
+
+# Unsa ang Pangutan-on Bahin sa Presyo sa Mother’s Day Cake sa Cebu
+
+Ihulagway ang kompleto nga order sa dili pa mangayo og quote: petsa, gidak-on, flavour, disenyo, eksaktong mensahe ug delivery address. Pangutan-a kon madawat ba sa panaderya ang petsa ug available ba ang gihangyo nga seasonal design. Mahimong mausab ang presyo ug holiday capacity, busa dili kasamtangang quote ang daang menu.
+
+Pangayo sa total sa sinulat ug pangutan-a unsay apil. Kumpirmaha ang delivery fee, deposit, oras sa pagbayad sa balanse ug kon makaapekto ba sa presyo ang mga kausaban. Nag-ingon ang kinatibuk-ang giya sa White Cakes nga 50% nga deposit human magkasinabot sa final nga presyo ug detalye; kumpirmaha diretso ang kasamtangang terms sa dili pa magpadala og bayad.
+
+Kon molapas sa budget ang quote, pangutan-a unsang kausaban ang dili kaayo makaapekto sa disenyo—gidak-on, detalye sa dekorasyon o delivery setup—imbes kuhaon ang importante nga bahin nga walay panaghisgot. Itandi ang parehas ug kumpirmadong quote. Tan-awa ang [giya sa presyo sa cake sa Cebu](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Ano ang Itatanong Tungkol sa Presyo ng Mother’s Day Cake sa Cebu
+
+Ilarawan ang kumpletong order bago humingi ng quote: petsa, sukat, flavour, design, eksaktong mensahe, at delivery address. Itanong kung matatanggap ng bakery ang petsa at kung available ang hinihinging seasonal design. Maaaring magbago ang presyo at kapasidad tuwing holiday, kaya hindi kasalukuyang quote ang lumang menu.
+
+Hingin sa sulat ang kabuuang presyo at itanong kung ano ang kasama. Kumpirmahin ang delivery charge, deposito, oras ng pagbabayad ng balanse, at kung makaaapekto sa presyo ang mga pagbabago. Sinasabi ng pangkalahatang gabay ng White Cakes na 50% na deposito matapos magkasundo sa pinal na presyo at detalye; kumpirmahin nang direkta ang kasalukuyang terms bago magpadala ng bayad.
+
+Kung lampas sa budget ang quote, itanong kung aling pagbabago ang hindi gaanong makaaapekto sa design—sukat, detalye ng dekorasyon, o delivery setup—sa halip na alisin ang mahalagang bahagi nang walang usapan. Paghambingin ang magkakatulad at kumpirmadong quote. Tingnan ang [gabay sa presyo ng cake sa Cebu](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagkuha ug kasamtangan nga holiday quote para sa eksaktong gidak-on ug disenyo
-
-Ipaambit ang petsa sa Adlaw sa Inahan, gipaabot nga mga pagkaon, gipalabi nga gidak-on, lami, inskripsiyon, ug reference sa disenyo. Pangutan-a kung ang panaderya adunay magamit ug kung unsa ang gilakip sa karon nga kinutlo. Kumpirma kung ang naandan nga mga bulak, sulat, o paghatud sa adres sa pamilya makadugang sa kinatibuk-an.
-
-Mahimong magbag-o ang mga seasonal nga rate ug mga tanyag, busa ayaw pagsalig sa menu sa miaging tuig o usa ka karaan nga post sa sosyal. Paghangyo sa kompleto nga total sa pagsulat, kumpirmahi ang gidawat nga paagi sa pagbayad ug pagdeposito, ug i-save ang mga detalye sa order. Kon duna kay budget, ipaambit kini sa dili pa mahuman ang dekorasyon.
-
-Ipadayon ang mga buhi nga presyo sa giya sa presyo sa sentro sa Sugbo ug i-refresh ang mga pananglitan sa holiday matag tuig.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumuha ng kasalukuyang holiday quote para sa eksaktong laki at disenyo
-
-Ibahagi ang petsa ng Araw ng Ina, inaasahang mga serving, gustong laki, lasa, inskripsiyon, at sanggunian sa disenyo. Itanong kung may availability ang panaderya at kung ano ang kasama sa kasalukuyang quote. Kumpirmahin kung ang mga custom na bulaklak, sulat, o paghahatid sa address ng pamilya ay nagdaragdag sa kabuuan.
-
-Maaaring magbago ang mga seasonal na rate at alok, kaya huwag umasa sa menu ng nakaraang taon o sa isang lumang social post. Hilingin ang kumpletong kabuuan nang nakasulat, kumpirmahin ang tinatanggap na paraan ng pagbabayad at deposito, at i-save ang mga detalye ng order. Kung may budget ka, ibahagi ito bago i-finalize ang dekorasyon.
-
-Panatilihin ang mga live na presyo sa gabay sa presyo sa gitnang Cebu at i-refresh ang mga halimbawa ng holiday bawat taon.
+- Recheck current seasonal availability and cake-specific service guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

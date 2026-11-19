@@ -1,11 +1,13 @@
 ---
 id: WC-0551
-status: framework-needs-real-case-and-permission
-publish_action: create case-specific URL only after asset review
+status: evidence-gated-photo-case
+publish_action: do not publish or create a case-specific URL until a real IT Park office order, original photo rights, verified details, and company/customer permission are approved; otherwise merge only a general lesson into /journal/corporate-office-cakes-cebu.html
 english_title: "A photo-led design breakdown of cake for an IT Park office celebration in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa selebrasyon sa opisina sa IT Park sa Cebu"
 ---
+
+evidence_required: completed office order record; original photos; customer and company permission; verified design and delivery details
 
 ## IT Park office-cake case-study framework
 
@@ -21,6 +23,8 @@ If there is no approved image or documented decision, keep this framework unpubl
 
 ## Cebuano translation (machine translated; editorial review pending)
 
+evidence_required: completed office order record; original photos; customer and company permission; verified design and delivery details
+
 ## IT Park office-cake case-study framework
 
 **Ayaw pagmantala nga walay tinuod, giaprobahan nga proyekto sa cake sa opisina.** Pagpili ug napamatud-an nga order sa White Cakes nga ihatod sa opisina sa IT Park ug kumpirmahi ang mga detalye sa order sa panaderya. Lig-on nga pagtugot sa pagmantala sa mga litrato ug bisan unsang ngalan sa kompanya, logo, o mailhan nga empleyado. Kuhaa ang pribadong impormasyon sa kontak ug ayaw ibutyag ang usa ka piho nga salog o detalye sa seguridad.
@@ -32,6 +36,8 @@ Gamita ang orihinal nga mga litrato nga adunay mga kapsyon nga naghulagway laman
 Kung walay aprobahan nga hulagway o dokumentado nga desisyon, ipabilin kini nga gambalay nga dili mamantala. Idugang hinuon ang gipamatud-an nga mga kamatuoran sa paghatod sa opisina ngadto sa giya sa sentro sa Sugbo.
 
 ## Tagalog translation (machine translated; editorial review pending)
+
+evidence_required: completed office order record; original photos; customer and company permission; verified design and delivery details
 
 ## IT Park office-cake case-study framework
 

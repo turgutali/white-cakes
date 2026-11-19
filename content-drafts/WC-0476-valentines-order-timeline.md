@@ -1,44 +1,45 @@
 ---
 id: WC-0476
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for Valentine's cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa Valentine's Day sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa Valentine's Day sa Cebu"
+english_title: "How Early to Order a Valentine’s Cake in Cebu"
+cebuano_title: "Kanus-a Mag-order Og Valentine’s Cake sa Cebu"
+tagalog_title: "Kailan Dapat Mag-order ng Valentine’s Cake sa Cebu"
 ---
 
-## Plan Valentine's cake early enough to confirm date and delivery
+## English
 
-Check the date with White Cakes well before Valentine's Day. Made-to-order cakes need at least three days' notice, but a popular date may fill earlier. Ask for availability before arranging the surprise or promising a delivery time.
+# How Early to Order a Valentine’s Cake in Cebu
 
-Prepare the order details together: cake size, flavour, design reference, exact inscription, number of people sharing it, and pickup or delivery address. If it is a surprise, state who the bakery may contact and give a reliable local receiver's number. Confirm the delivery window and fee for that address.
+Begin with the date and time you plan to serve the cake, then ask whether the bakery can accept that date. Valentine’s orders can overlap with other celebrations and delivery demand, so do not treat last year’s cutoff or a past post as a current schedule. If the design is custom or the date is important, contact the bakery well before the minimum lead time.
 
-Ask White Cakes to confirm the final design and quote in writing. For two people, the 4-inch Bento serves about two generous or three modest portions; larger groups should discuss another size. The 50% deposit confirms the agreed order after availability and terms are clear.
+White Cakes’ general guidance asks for at least three days’ notice for made-to-order cakes. That is a planning minimum, not a guarantee of a slot. Once availability is confirmed, agree on size, flavour, design, exact inscription, total price, deposit, delivery address, and a delivery window in writing.
 
-Keep seasonal timing in one authoritative order guide. Do not publish a Valentine's cutoff date unless the bakery confirms it for that year.
+Plan the handoff around the actual celebration. A surprise at a restaurant, home, or workplace needs a receiver who can answer during the confirmed window. If the plan changes, reconfirm the order rather than assuming the bakery has seen the update. See the [Cebu cake ordering timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Kanus-a Mag-order Og Valentine’s Cake sa Cebu
+
+Sugdi sa petsa ug oras nga gusto nimo i-serve ang cake, dayon pangutan-a kon madawat ba sa panaderya ang maong petsa. Mahimong motakdo ang Valentine’s orders sa ubang selebrasyon ug daghang delivery, busa ayaw isipon nga mao gihapon ang cutoff o iskedyul sa miaging tuig. Kon custom ang disenyo o importante ang petsa, kontaka ang panaderya sa sayo pa kaysa minimum nga lead time.
+
+Ang kinatibuk-ang giya sa White Cakes nangayo og labing menos tulo ka adlaw nga pahibalo alang sa made-to-order nga cake. Minimum kini sa pagplano, dili garantiya nga adunay slot. Human makumpirma ang availability, magkauyon sa gidak-on, flavour, disenyo, eksaktong inskripsiyon, kinatibuk-ang presyo, deposit, delivery address ug delivery window sa sinulat.
+
+Iplano ang pagdawat sumala sa aktuwal nga selebrasyon. Ang surprise sa restaurant, balay o trabahoan nanginahanglan og modawat nga makatubag sulod sa kumpirmadong window. Kon mausab ang plano, kumpirmaha pag-usab ang order imbes magtuo nga nakita na sa panaderya ang update. Tan-awa ang [giya sa oras sa pag-order og cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Kailan Dapat Mag-order ng Valentine’s Cake sa Cebu
+
+Magsimula sa petsa at oras kung kailan mo gustong ihain ang cake, saka itanong kung matatanggap ng bakery ang petsang iyon. Maaaring magsabay ang Valentine’s orders sa iba pang selebrasyon at maraming delivery, kaya huwag ipalagay na pareho pa rin ang cutoff o iskedyul noong nakaraang taon. Kung custom ang design o mahalaga ang petsa, makipag-ugnayan nang mas maaga kaysa minimum lead time.
+
+Humihingi ang pangkalahatang gabay ng White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake. Minimum ito sa pagpaplano, hindi garantiya ng puwesto. Kapag nakumpirma ang availability, pag-usapan nang nakasulat ang sukat, flavour, design, eksaktong inscription, kabuuang presyo, deposito, delivery address, at delivery window.
+
+Planuhin ang handoff ayon sa mismong selebrasyon. Kailangan ng sorpresa sa restaurant, bahay, o trabaho ng tatanggap na makasasagot sa loob ng kumpirmadong window. Kung magbago ang plano, kumpirmahin muli ang order sa halip na ipalagay na nakita na ng bakery ang update. Tingnan ang [gabay sa timeline ng pag-order ng cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano og Valentine's cake og sayo aron makumpirma ang petsa ug delivery
-
-Susiha ang petsa sa White Cakes sa dili pa ang Valentine's Day. Ang hinimo-sa-pag-order nga mga cake nagkinahanglan ug labing menos tulo ka adlaw nga pahibalo, apan ang usa ka popular nga petsa mahimong mapuno sa sayo pa. Pangayo alang sa pagkaanaa sa dili pa ihikay ang sorpresa o pagsaad sa oras sa pagpadala.
-
-Pag-andam sa mga detalye sa pag-order: gidak-on sa cake, lami, reference sa disenyo, eksaktong inskripsiyon, gidaghanon sa mga tawo nga nagpaambit niini, ug adres sa pagkuha o paghatod. Kung kini usa ka katingala, isulti kung kinsa ang mahimo nga kontakon sa panaderya ug paghatag usa ka kasaligan nga numero sa lokal nga tigdawat. Kumpirma ang delivery window ug bayad alang niana nga adres.
-
-Pangutan-a ang White Cakes sa pagkumpirma sa katapusang disenyo ug kinutlo pinaagi sa pagsulat. Alang sa duha ka tawo, ang 4-pulgada nga Bento nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga mga bahin; mas dako nga mga grupo kinahanglan nga maghisgot sa lain nga gidak-on. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order human ang pagkaanaa ug ang mga termino klaro.
-
-Ipadayon ang seasonal timing sa usa ka awtoritatibo nga giya sa order. Ayaw pag-publish ug Valentine's cutoff date gawas kon ang panaderya nagpamatuod niini alang nianang tuiga.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng Valentine's cake nang maaga upang kumpirmahin ang petsa at paghahatid
-
-Suriin ang petsa na may White Cake bago ang Araw ng mga Puso. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, ngunit ang isang sikat na petsa ay maaaring mapuno nang mas maaga. Humingi ng availability bago ayusin ang sorpresa o mangako ng oras ng paghahatid.
-
-Ihanda ang mga detalye ng order nang magkasama: laki ng cake, lasa, sanggunian sa disenyo, eksaktong inskripsiyon, bilang ng mga taong nagbabahagi nito, at address ng pickup o delivery. Kung ito ay isang sorpresa, sabihin kung sino ang maaaring kontakin ng panaderya at magbigay ng isang maaasahang lokal na numero ng tatanggap. Kumpirmahin ang window ng paghahatid at bayad para sa address na iyon.
-
-Hilingin sa White Cakes na kumpirmahin ang huling disenyo at quote sa pamamagitan ng pagsulat. Para sa dalawang tao, ang 4-inch na Bento ay naghahain ng halos dalawang mapagbigay o tatlong katamtamang bahagi; dapat pag-usapan ng malalaking grupo ang isa pang sukat. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ng availability at malinaw ang mga tuntunin.
-
-Panatilihin ang pana-panahong timing sa isang makapangyarihang gabay sa pagkakasunud-sunod. Huwag mag-publish ng petsa ng cutoff ng Valentine maliban kung kinumpirma ito ng panaderya para sa taong iyon.
+- Confirm current availability, terms, and event-specific details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

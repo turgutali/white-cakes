@@ -1,38 +1,45 @@
 ---
 id: WC-0530
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; technique examples require real approved photos
-english_title: "Design details to consider for Father's Day cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Father's Day sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Father's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "Father’s Day Cake Design Details to Decide Before Ordering"
+cebuano_title: "Mga Detalye sa Disenyo sa Father’s Day Cake nga Desisyunan sa Dili pa Mag-order"
+tagalog_title: "Mga Detalye ng Design ng Father’s Day Cake na Dapat Pagpasyahan Bago Umorder"
 ---
 
-## Choose one detail that feels personal to the person receiving it
+## English
 
-A Father’s Day cake might reference a favourite hobby, a family greeting, or a simple colour preference. Ask the family which detail matters most and use that as the focal point. Share one reference and explain what should be adapted; avoid combining unrelated themes just to fill the surface.
+# Father’s Day Cake Design Details to Decide Before Ordering
 
-Confirm the name or message, size, flavour, serving estimate, date, and delivery plan. Ask whether the design fits the cake and current schedule. If a company logo or licensed character is involved, confirm permission and what the bakery can create.
+Choose the design priority before collecting references: a readable message, a hobby-related element, or a specific colour direction. One main idea helps the bakery make a coherent design and keeps the cake from becoming a collection of unrelated symbols.
 
-Add this prompt to the general design guide. A separate close-up article needs original photos showing a real and distinct hand-finished technique.
+Then check practical fit. The size limits lettering space; the venue affects how visible the design needs to be; and transport may affect tall decorations. Send a full-cake reference for proportion and a detail photo only when the texture or piping is important. Mark which elements are optional.
+
+White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask how a team logo or graphic idea could be represented without assuming it can be printed. Confirm feasibility, current availability, and the final design in writing. See [Cebu cake design guidance](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo sa Father’s Day Cake nga Desisyunan sa Dili pa Mag-order
+
+Pilia ang prayoridad sa disenyo sa dili pa mangolekta og reference: mabasang mensahe, detalye nga may kalabotan sa hobby o direksiyon sa kolor. Makatabang ang usa ka sentrong ideya sa panaderya sa paghimo og magkahiuyon nga disenyo ug makalikay nga mahimong koleksiyon lang sa dili magkaparehas nga simbolo ang cake.
+
+Dayon susiha ang praktikal nga pagpahaum. Limitado sa gidak-on ang luna para sa letra; makaapekto ang venue sa kalayo nga kinahanglan makita ang disenyo; ug mahimong maapektuhan sa transportasyon ang taas nga dekorasyon. Magpadala og reference sa tibuok cake para sa proporsiyon ug detalye nga litrato kon importante ang texture o piping. Markahi unsang bahin ang optional.
+
+Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsaon pagrepresentar sa logo sa team o graphic nga ideya nga dili magtuo nga ma-print kini. Kumpirmaha sa sinulat ang mahimo, kasamtangang availability ug final nga disenyo. Tan-awa ang [giya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Design ng Father’s Day Cake na Dapat Pagpasyahan Bago Umorder
+
+Piliin ang prayoridad sa design bago mangalap ng references: nababasang mensahe, elementong kaugnay ng hobby, o partikular na direksiyon ng kulay. Nakakatulong ang isang pangunahing ideya para makabuo ang bakery ng magkakaugnay na design at hindi maging koleksiyon ng magkakaibang simbolo ang cake.
+
+Pagkatapos, suriin ang praktikal na pagkakabagay. Nililimitahan ng sukat ang espasyo para sa lettering; nakaaapekto ang venue sa layo kung saan kailangang makita ang design; at maaaring maapektuhan ng transportasyon ang matataas na dekorasyon. Magpadala ng buong cake reference para sa proporsyon at detail photo lang kung mahalaga ang texture o piping. Markahan ang mga bahaging puwedeng alisin.
+
+Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Itanong kung paano maipapakita ang logo ng team o graphic idea nang hindi ipinapalagay na maaaring i-print ito. Kumpirmahin nang nakasulat ang kayang gawin, kasalukuyang availability, at pinal na design. Tingnan ang [gabay sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og usa ka detalye nga gibati nga personal sa tawo nga nakadawat niini
-
-Ang cake sa Adlaw sa Amahan mahimong maghisgot sa usa ka paborito nga kalingawan, usa ka pagtimbaya sa pamilya, o usa ka yano nga gusto sa kolor. Pangutan-a ang pamilya kon unsa nga detalye ang labing importante ug gamita kana isip sentro. Ipaambit ang usa ka reperensya ug ipasabut kung unsa ang kinahanglan nga ipahiangay; likayi ang paghiusa sa wala'y kalabutan nga mga tema aron lang mapuno ang nawong.
-
-Kumpirma ang ngalan o mensahe, gidak-on, lami, banabana sa pagserbisyo, petsa, ug plano sa pagpadala. Pangutan-a kon ang disenyo mohaum ba sa cake ug sa kasamtangang eskedyul. Kung naapil ang logo sa kompanya o lisensyado nga karakter, kumpirmahi ang pagtugot ug kung unsa ang mahimo sa panaderya.
-
-Idugang kini nga prompt sa kinatibuk-ang giya sa disenyo. Ang usa ka bulag nga close-up nga artikulo nanginahanglan orihinal nga mga litrato nga nagpakita sa usa ka tinuod ug lahi nga teknik nga nahuman sa kamot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng isang detalye na parang personal sa taong tumatanggap nito
-
-Ang cake ng Father's Day ay maaaring tumutukoy sa isang paboritong libangan, pagbati ng pamilya, o isang simpleng kagustuhan sa kulay. Tanungin ang pamilya kung aling detalye ang pinakamahalaga at gamitin iyon bilang focal point. Magbahagi ng isang sanggunian at ipaliwanag kung ano ang dapat iakma; iwasan ang pagsasama-sama ng hindi nauugnay na mga tema para lamang punan ang ibabaw.
-
-Kumpirmahin ang pangalan o mensahe, laki, lasa, pagtatantya ng paghahatid, petsa, at plano ng paghahatid. Itanong kung ang disenyo ay akma sa cake at kasalukuyang iskedyul. Kung may kasamang logo ng kumpanya o lisensyadong karakter, kumpirmahin ang pahintulot at kung ano ang maaaring gawin ng panaderya.
-
-Idagdag ang prompt na ito sa pangkalahatang gabay sa disenyo. Ang isang hiwalay na close-up na artikulo ay nangangailangan ng mga orihinal na larawan na nagpapakita ng isang tunay at natatanging hand-finished technique.
+- Verify current holiday availability, terms, and route details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0502
-status: written-draft
-publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm cake-specific advice
-english_title: "How to keep safe and cool until serving Mother's Day cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa Mother's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/buttercream-in-cebu-heat.html
+english_title: "How to Store a Mother’s Day Cake Until Serving in Cebu"
+cebuano_title: "Giunsa Pagtipig sa Mother’s Day Cake Hangtod I-serve sa Cebu"
+tagalog_title: "Paano Itabi ang Mother’s Day Cake Hanggang Ihain sa Cebu"
 ---
 
-## Ask how to care for the cake between delivery and the family meal
+## English
 
-Before Mother’s Day, ask the bakery for handling instructions for the cake you ordered. The advice may depend on its filling, frosting, and decoration. Tell the baker when the cake is expected to arrive, when it will be served, and whether the room is warm or air-conditioned.
+# How to Store a Mother’s Day Cake Until Serving in Cebu
 
-Arrange for someone to receive the cake promptly, keep the box level, and protect it from direct sun and heat. Follow the product-specific instructions about refrigeration and when to bring it out. If the meal time changes or the cake must wait longer, contact the bakery for advice rather than guessing.
+Plan storage with the bakery when confirming the order, especially if the cake will arrive well before the family meal. Ask for instructions for the specific cake and its decoration; storage recommendations can differ. Also tell the bakery whether the venue is outdoors, air-conditioned, or requires the cake to wait in transit.
 
-Add confirmed instructions to the central heat-care guide. Do not make a universal storage-time claim for every cake based on a holiday label.
+Prepare a stable, level place away from direct sunlight, heat sources, and heavy foot traffic. Keep the cake protected until the table is ready, and do not leave it in a parked car. If the serving time changes, follow the bakery’s advice rather than applying an unverified room-temperature limit.
+
+Share any storage instructions with the person receiving the cake so the plan survives a busy family gathering. For general local context, see the [buttercream and Cebu heat guide](/journal/buttercream-in-cebu-heat.html), then follow the order-specific instructions.
+
+## Cebuano
+
+# Giunsa Pagtipig sa Mother’s Day Cake Hangtod I-serve sa Cebu
+
+Iplano ang pagtipig uban sa panaderya sa pagkumpirma sa order, ilabi na kon sayo kaayo moabot ang cake sa dili pa ang panihapon sa pamilya. Pangayo og instruksyon para sa espesipikong cake ug dekorasyon kay mahimong magkalahi ang rekomendasyon. Isulti usab kon outdoor ba ang venue, air-conditioned o hulaton ang cake samtang ibiyahe.
+
+Andama ang lig-on ug patag nga lugar nga layo sa direktang adlaw, init nga kagamitan ug daghang moagi. Panalipdi ang cake hangtod andam na ang lamesa ug ayaw ibilin sa giparking nga sakyanan. Kon mausab ang oras sa pag-serve, sunda ang tambag sa panaderya imbes mogamit og wala masusi nga limitasyon sa room temperature.
+
+Ipaambit ang instruksyon sa pagtipig sa modawat aron masunod gihapon ang plano bisan busy ang panagtapok sa pamilya. Para sa lokal nga kinatibuk-ang impormasyon, tan-awa ang [giya sa buttercream ug kainit sa Cebu](/journal/buttercream-in-cebu-heat.html), unya sunda ang instruksyon para sa order.
+
+## Tagalog
+
+# Paano Itabi ang Mother’s Day Cake Hanggang Ihain sa Cebu
+
+Planuhin ang pag-iimbak kasama ng bakery kapag kinukumpirma ang order, lalo na kung darating nang matagal bago ang salu-salo ng pamilya. Humingi ng tagubilin para sa partikular na cake at dekorasyon dahil maaaring magkaiba ang rekomendasyon. Sabihin din kung outdoor, naka-aircon, o kailangang maghintay habang inililipat ang cake sa venue.
+
+Maghanda ng matatag at patag na lugar na malayo sa direktang araw, pinagmumulan ng init, at maraming dumaraan. Protektahan ang cake hanggang handa na ang mesa at huwag iwan sa nakaparadang sasakyan. Kung magbago ang oras ng paghahain, sundin ang payo ng bakery sa halip na gumamit ng hindi beripikadong room-temperature limit.
+
+Ibahagi ang tagubilin sa pag-iimbak sa tatanggap para masunod ang plano kahit abala ang pagtitipon ng pamilya. Para sa pangkalahatang lokal na konteksto, tingnan ang [gabay sa buttercream at init sa Cebu](/journal/buttercream-in-cebu-heat.html), saka sundin ang tagubilin para sa order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangutan-a kung giunsa pag-atiman ang cake taliwala sa paghatud ug pagkaon sa pamilya
-
-Sa wala pa ang Adlaw sa Inahan, pangutan-a ang panaderya alang sa pagdumala sa mga panudlo alang sa cake nga imong gi-order. Ang tambag mahimong magdepende sa pagpuno niini, pagyelo, ug dekorasyon. Sultihi ang panadero kon kanus-a moabot ang cake, kanus-a kini i-serve, ug kon init ba o air-con ang kwarto.
-
-Paghan-ay alang sa usa ka tawo nga makadawat dayon sa cake, ipadayon ang lebel sa kahon, ug panalipdan kini gikan sa direkta nga adlaw ug init. Sunda ang mga instruksyon nga espesipiko sa produkto bahin sa pagpabugnaw ug kanus-a kini ipagawas. Kung magbag-o ang oras sa pagpangaon o kinahanglan nga maghulat og dugay ang cake, kontaka ang panaderya alang sa tambag kaysa pagtag-an.
-
-Idugang ang gikumpirma nga mga panudlo sa sentro nga giya sa pag-atiman sa init. Ayaw paghimo usa ka unibersal nga pag-angkon sa oras sa pagtipig alang sa matag cake nga gibase sa label sa holiday.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magtanong kung paano aalagaan ang cake sa pagitan ng paghahatid at pagkain ng pamilya
-
-Bago ang Araw ng Ina, tanungin ang panaderya para sa mga tagubilin sa paghawak para sa cake na iyong na-order. Ang payo ay maaaring depende sa pagpuno, pagyelo, at dekorasyon nito. Sabihin sa panadero kung kailan inaasahang darating ang cake, kung kailan ito ihahain, at kung ang silid ay mainit o naka-air condition.
-
-Ayusin para sa isang tao na makatanggap kaagad ng cake, panatilihin ang antas ng kahon, at protektahan ito mula sa direktang araw at init. Sundin ang mga tagubiling partikular sa produkto tungkol sa pagpapalamig at kung kailan ito ilalabas. Kung magbago ang oras ng pagkain o dapat maghintay ng mas matagal ang cake, makipag-ugnayan sa panaderya para sa payo sa halip na hulaan.
-
-Magdagdag ng mga kumpirmadong tagubilin sa gitnang gabay sa pangangalaga sa init. Huwag gumawa ng unibersal na storage-time na claim para sa bawat cake batay sa isang holiday label.
+- Recheck current seasonal availability and cake-specific service guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0504
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; publish a separate case only with a real cake and customer permission
-english_title: "How to match the design of Mother's Day cake in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa Mother's Day sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa Mother's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html
+english_title: "How to Match a Mother’s Day Cake Design to the Celebration"
+cebuano_title: "Giunsa Pagpares ang Disenyo sa Mother’s Day Cake sa Selebrasyon"
+tagalog_title: "Paano Itugma ang Design ng Mother’s Day Cake sa Selebrasyon"
 ---
 
-## Choose a design that reflects the recipient, not only the holiday
+## English
 
-Start with the person receiving the cake. A favourite colour, flower, or shared family detail can make the design feel personal without requiring a complicated theme. Decide whether the cake should look elegant, playful, or minimal, then send one or two references that show that direction.
+# How to Match a Mother’s Day Cake Design to the Celebration
 
-Tell the bakery which feature must remain and where it can adapt the reference to suit the cake’s shape and size. If adding a name or short message, check the exact spelling and keep the wording brief enough to read clearly. Confirm the flavour and serving count separately; decoration does not indicate what is inside.
+Start with how the cake will be given and shared. A private gift can highlight a personal message or the recipient’s favourite colour; a cake for a family table may need a greeting that everyone can see. The design should reflect the person being celebrated rather than relying only on a generic holiday theme.
 
-Add this occasion as a short example in the existing Cebu design guide. A standalone Mother’s Day portfolio story needs an actual finished cake, original photography, and permission to publish the image and any identifying details.
+Check the size, display surface, and transport. A long inscription can use much of a small cake’s top, while fragile or tall details may need changes for travel. Decide which one feature should stand out and let other decoration support it.
+
+Send references that show the intended mood, then ask the bakery how to adapt the idea. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Confirm current seasonal availability and approve the final design before payment. See [cake design ideas in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpares ang Disenyo sa Mother’s Day Cake sa Selebrasyon
+
+Sugdi sa paagi sa paghatag ug pagpaambit sa cake. Mahimong ipasiugda sa pribadong regalo ang personal nga mensahe o paboritong kolor sa makadawat; ang cake para sa lamesa sa pamilya tingali nanginahanglan og greeting nga makita sa tanan. Kinahanglan magpakita ang disenyo sa gisaulog nga tawo, dili generic nga holiday theme lang.
+
+Susiha ang gidak-on, display surface ug transportasyon. Mahimong makuha sa taas nga inskripsiyon ang dakong bahin sa ibabaw sa gamay nga cake, samtang kinahanglan usbon ang delikado o taas nga detalye para sa biyahe. Desisyoni unsang usa ka bahin ang dapat mopakita ug ipasuporta lang ang uban nga dekorasyon.
+
+Magpadala og reference nga nagpakita sa mood nga gusto, dayon pangutan-a ang panaderya unsaon pagpahiangay sa ideya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Kumpirmaha ang kasamtangang seasonal availability ug aprobahi ang disenyo sa dili pa mobayad. Tan-awa ang [mga ideya sa disenyo sa cake sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Itugma ang Design ng Mother’s Day Cake sa Selebrasyon
+
+Magsimula sa paraan ng pagbibigay at pagsasalo sa cake. Maaaring itampok ng pribadong regalo ang personal na mensahe o paboritong kulay ng tatanggap; maaaring kailangan naman ng cake para sa mesa ng pamilya ang pagbating makikita ng lahat. Dapat ipakita ng design ang taong ipinagdiriwang, hindi lang generic na holiday theme.
+
+Suriin ang sukat, display surface, at transportasyon. Maaaring kunin ng mahabang inscription ang malaking bahagi ng ibabaw ng maliit na cake, habang maaaring kailangang baguhin ang marurupok o matataas na detalye para sa biyahe. Pagpasyahan kung aling isang feature ang dapat mangibabaw at hayaang sumuporta rito ang ibang dekorasyon.
+
+Magpadala ng references na nagpapakita ng gustong mood, saka itanong sa bakery kung paano iaangkop ang ideya. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Kumpirmahin ang kasalukuyang seasonal availability at aprubahan ang design bago magbayad. Tingnan ang [mga ideya sa design ng cake sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili usa ka disenyo nga nagpakita sa nakadawat, dili lamang sa holiday
-
-Pagsugod sa tawo nga nakadawat sa cake. Ang usa ka paborito nga kolor, bulak, o gipaambit nga detalye sa pamilya makahimo sa disenyo nga mobati nga personal nga wala magkinahanglan og usa ka komplikado nga tema. Desisyuni kung ang cake kinahanglan nga tan-awon nga elegante, dula, o gamay, dayon ipadala ang usa o duha nga mga pakisayran nga nagpakita niana nga direksyon.
-
-Sultihi ang panaderya kung unsang feature ang kinahanglang magpabilin ug asa kini makapahaom sa reference aron mohaum sa porma ug gidak-on sa cake. Kung magdugang ug ngalan o mubo nga mensahe, susiha ang eksaktong espeling ug hupti nga mubo ang mga pulong aron mabasa nga klaro. Pagkumpirma sa lami ug pag-alagad nga giihap nga gilain; Ang dekorasyon wala magpakita kung unsa ang naa sa sulod.
-
-Idugang kini nga okasyon isip usa ka mubo nga pananglitan sa kasamtangan nga giya sa disenyo sa Cebu. Ang usa ka standalone nga istorya sa portfolio sa Mother's Day nanginahanglan usa ka aktuwal nga natapos nga cake, orihinal nga litrato, ug pagtugot sa pagmantala sa imahe ug bisan unsang mga detalye nga nagpaila.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng disenyo na sumasalamin sa tatanggap, hindi lamang sa holiday
-
-Magsimula sa taong tumatanggap ng cake. Ang isang paboritong kulay, bulaklak, o nakabahaging detalye ng pamilya ay maaaring gawing personal ang disenyo nang hindi nangangailangan ng kumplikadong tema. Magpasya kung ang cake ay dapat magmukhang elegante, mapaglaro, o minimal, pagkatapos ay magpadala ng isa o dalawang sanggunian na nagpapakita ng direksyong iyon.
-
-Sabihin sa panaderya kung aling feature ang dapat manatili at kung saan nito maaaring iakma ang reference upang umangkop sa hugis at sukat ng cake. Kung nagdaragdag ng pangalan o maikling mensahe, suriin ang eksaktong spelling at panatilihing maikli ang mga salita upang mabasa nang malinaw. Kumpirmahin nang hiwalay ang lasa at serving; ang palamuti ay hindi nagpapahiwatig kung ano ang nasa loob.
-
-Idagdag ang okasyong ito bilang maikling halimbawa sa kasalukuyang gabay sa disenyo ng Cebu. Ang isang standalone na kwento ng portfolio ng Mother's Day ay nangangailangan ng isang aktwal na natapos na cake, orihinal na photography, at pahintulot upang i-publish ang larawan at anumang mga detalye ng pagkakakilanlan.
+- Verify current holiday availability and terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

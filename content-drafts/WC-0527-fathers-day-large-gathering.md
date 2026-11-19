@@ -1,38 +1,45 @@
 ---
 id: WC-0527
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html; verify holiday availability
-english_title: "How to plan Father's Day cake in Cebu"
-cebuano_title: "Giunsa pagplano ang cake para sa Father's Day sa Cebu"
-tagalog_title: "Paano planuhin ang cake para sa Father's Day sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html
+english_title: "How to Plan Father’s Day Cake for a Large Gathering in Cebu"
+cebuano_title: "Giunsa Pagplano sa Father’s Day Cake para sa Dakong Tapok sa Cebu"
+tagalog_title: "Paano Magplano ng Father’s Day Cake para sa Malaking Pagtitipon sa Cebu"
 ---
 
-## Use the family gathering headcount to choose a practical cake size
+## English
 
-Estimate how many people will be at dessert time and whether the cake follows a full meal. Tell the bakery if other sweets are planned and whether you want modest or party slices. A family lunch may require a different size than a short celebration with only a few relatives.
+# How to Plan Father’s Day Cake for a Large Gathering in Cebu
 
-Current guidance estimates 8–12 party slices from a 6-inch cake and 16–24 from an 8-inch cake; a 6+8-inch two-tier cake is estimated at 30–36. These ranges are approximate. Confirm the serving plan and current Father’s Day availability with the bakery.
+For a large gathering, estimate the people who will be present when the cake is cut rather than counting every invitee. Ask whether cake is the only dessert, whether guests will arrive in stages, and whether portions should be modest after a meal. These details affect the useful size more than the event name.
 
-Keep verified portions in the central size guide and link to seasonal ordering advice. Recheck the current schedule each year.
+The site estimates around 8–12 party slices from a 6-inch round, 16–24 from an 8-inch round, and 30–36 from a common 6+8-inch two-tier. They are approximate; design, height, and cutting change yield. Confirm the current available option and serving estimate with the bakery.
+
+Check the venue’s table space, receiver, access instructions, and time between delivery and serving. A large cake also needs a clear display and cutting plan. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html) before confirming the final order.
+
+## Cebuano
+
+# Giunsa Pagplano sa Father’s Day Cake para sa Dakong Tapok sa Cebu
+
+Para sa dakong tapok, banabana ang mga tawo nga naa sa oras nga hiwaon ang cake imbes ihapong tanan ang giimbitar. Pangutan-a kon cake ra ba ang dessert, mag-abot ba ang mga bisita sa lain-laing oras ug modest ba ang portions human mokaon. Mas makaapekto kini sa angay nga gidak-on kaysa ngalan sa event.
+
+Gibanabana sa site ang mga 8–12 ka party slice sa 6-inch round, 16–24 sa 8-inch round ug 30–36 sa kasagarang 6+8-inch two-tier. Dili eksakto ang numero; mausab ang yield tungod sa disenyo, kataas ug paagi sa paghiwa. Kumpirmaha sa panaderya ang kasamtangang kapilian ug serving estimate.
+
+Susiha ang luna sa lamesa, modawat, instruksyon sa access ug oras tali sa delivery ug pag-serve sa venue. Nanginahanglan usab ang dakong cake og klarong display ug cutting plan. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html) sa dili pa kumpirmahon ang order.
+
+## Tagalog
+
+# Paano Magplano ng Father’s Day Cake para sa Malaking Pagtitipon sa Cebu
+
+Para sa malaking pagtitipon, tantiyahin ang mga taong naroroon kapag hihiwaing ang cake sa halip na bilangin ang lahat ng inimbitahan. Itanong kung cake lang ang dessert, kung paisa-isa ang dating ng bisita, at kung modest na portions ang gusto pagkatapos kumain. Mas nakaaapekto ito sa angkop na sukat kaysa pangalan ng event.
+
+Tinatantiya ng site ang mga 8–12 party slice mula sa 6-inch round, 16–24 mula sa 8-inch round, at 30–36 mula sa karaniwang 6+8-inch two-tier. Hindi eksakto ang mga bilang; nagbabago ang yield ayon sa design, taas, at paghiwa. Kumpirmahin sa bakery ang kasalukuyang opsyon at serving estimate.
+
+Suriin ang espasyo sa mesa, tatanggap, tagubilin sa access, at pagitan ng delivery at paghahain sa venue. Kailangan din ng malaking cake ng malinaw na display at cutting plan. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) bago kumpirmahin ang order.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Gamita ang family gathering headcount para makapili ug praktikal nga gidak-on sa cake
-
-Pagbanabana kon pila ka tawo ang naa sa oras sa dessert ug kung ang cake nagsunod sa usa ka bug-os nga pagkaon. Sultihi ang panaderya kung ang ubang mga tam-is giplano ug kung gusto nimo ang kasarangan o mga hiwa sa party. Ang paniudto sa pamilya mahimong magkinahanglan ug lahi nga gidak-on kay sa mubo nga selebrasyon nga adunay pipila lang ka paryente.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices gikan sa 6-inch nga cake ug 16–24 gikan sa 8-inch nga cake; ang usa ka 6+8-pulgada nga two-tier nga cake gibanabana nga 30–36. Kini nga mga han-ay gibanabana. Kumpirma ang plano sa pag-alagad ug ang anaa karon nga Father's Day sa panaderya.
-
-Ipadayon ang napamatud-an nga mga bahin sa sentro nga giya sa gidak-on ug i-link sa us aka seasonal nga tambag sa pag-order. Susiha pag-usab ang kasamtangan nga eskedyul matag tuig.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gamitin ang family gathering headcount para pumili ng praktikal na sukat ng cake
-
-Tantyahin kung ilang tao ang pupunta sa oras ng dessert at kung ang cake ay sumusunod sa isang buong pagkain. Sabihin sa panaderya kung ang iba pang mga sweets ay binalak at kung gusto mo ng katamtaman o party slice. Ang tanghalian ng pamilya ay maaaring mangailangan ng ibang sukat kaysa sa maikling pagdiriwang na may kakaunting kamag-anak lamang.
-
-Tinatantya ng kasalukuyang patnubay ang 8–12 party slice mula sa isang 6-inch na cake at 16–24 mula sa isang 8-inch na cake; ang isang 6+8-inch na two-tier na cake ay tinatantya sa 30–36. Ang mga saklaw na ito ay tinatayang. Kumpirmahin ang plano sa paghahatid at kasalukuyang availability ng Father's Day sa panaderya.
-
-Panatilihin ang mga na-verify na bahagi sa gabay sa gitnang sukat at i-link sa pana-panahong payo sa pag-order. Suriin muli ang kasalukuyang iskedyul bawat taon.
+- Confirm current availability and serving context before publication.
+- Cebuano and Tagalog drafts need native editorial review.
