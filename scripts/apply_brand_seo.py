@@ -147,8 +147,14 @@ SITEMAP_PAGES = [
     ("/wedding-cakes-cebu/", "monthly", "0.85"),
     ("/corporate-cake-orders-cebu/", "monthly", "0.85"),
     ("/cake-delivery-cebu-city/", "monthly", "0.85"),
+    ("/cake-delivery-cebu-city-ceb/", "monthly", "0.85"),
+    ("/cake-delivery-cebu-city-tagalog/", "monthly", "0.85"),
     ("/cake-delivery-mandaue/", "monthly", "0.85"),
+    ("/cake-delivery-mandaue-ceb/", "monthly", "0.85"),
+    ("/cake-delivery-mandaue-tagalog/", "monthly", "0.85"),
     ("/cake-delivery-lapu-lapu/", "monthly", "0.85"),
+    ("/cake-delivery-lapu-lapu-ceb/", "monthly", "0.85"),
+    ("/cake-delivery-lapu-lapu-tagalog/", "monthly", "0.85"),
     ("/christmas-cakes-cebu/", "weekly", "0.9"),
     ("/order/", "monthly", "0.95"),
     ("/about/", "monthly", "0.8"),
@@ -1165,6 +1171,8 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 - [Birthday cakes]({BASE}/birthday-cakes-cebu/) — Birthday cakes made to order.
 - [Birthday cakes in Cebuano]({BASE}/birthday-cakes-cebu-ceb/) — Birthday cake sizes, flavours, and ordering details in Cebuano.
 - [Birthday cakes in Tagalog]({BASE}/birthday-cakes-cebu-tagalog/) — Birthday cake sizes, flavours, and ordering details in Tagalog.
+- [Cake delivery in Cebuano]({BASE}/cake-delivery-cebu-city-ceb/) — Delivery coverage and handoff details for Cebu City, Mandaue, and Lapu-Lapu in Cebuano.
+- [Cake delivery in Tagalog]({BASE}/cake-delivery-cebu-city-tagalog/) — Delivery coverage and handoff details for Cebu City, Mandaue, and Lapu-Lapu in Tagalog.
 - [Anniversary cakes]({BASE}/anniversary-cakes-cebu/) — Anniversary and gift cakes.
 - [Wedding cakes]({BASE}/wedding-cakes-cebu/) — Intimate wedding and engagement cakes.
 - [Corporate orders]({BASE}/corporate-cake-orders-cebu/) — Office and corporate cake orders.
