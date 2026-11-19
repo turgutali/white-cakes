@@ -1,38 +1,45 @@
 ---
 id: WC-0461
-status: written-draft
-publish_action: merge into /journal/cake-prices-cebu.html; verify current seasonal menu
-english_title: "What to ask about the price of Sinulog cake in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa Sinulog sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-prices-cebu.html; confirm current price and order terms
+english_title: "Questions to Ask About the Price of a Sinulog Cake in Cebu"
+cebuano_title: "Mga Pangutana Bahin sa Presyo sa Sinulog Cake sa Cebu"
+tagalog_title: "Mga Dapat Itanong Tungkol sa Presyo ng Sinulog Cake sa Cebu"
 ---
 
-## Ask for a current quote that includes the event design and delivery
+## English
 
-When requesting a Sinulog cake quote, share the event date, size, serving estimate, flavour, design reference, and exact message. Ask whether the bakery offers the requested decorations for that date and whether the quote includes them. If you need delivery to a venue or gathering location, confirm route availability, handoff time, and fee separately.
+# Questions to Ask About the Price of a Sinulog Cake in Cebu
 
-Seasonal demand can affect availability, and current prices may differ from older social posts. Request the complete total in writing before paying, including any custom work or delivery charge. Ask which deposit confirms the order and save the receipt with the final details.
+A festival theme does not have one fixed price. Before comparing quotes, describe the same order to each bakery: serving date, size, flavour, design references, inscription, and delivery address. Ask which parts affect the price and whether the requested design is feasible for that date.
 
-Keep live rates in the maintained price guide and the current seasonal product information on the relevant product page. Do not create a Sinulog price page with unverified or outdated amounts.
+Request a written total that states what is included. Confirm whether delivery is quoted separately, the deposit amount, when the balance is due, and how changes to the brief affect the final cost. White Cakes’ published guidance says a 50% deposit is due after the final price and details are agreed; verify the current terms with the bakery before paying. Do not infer current rates from an old post or photo.
+
+Sinulog dates can coincide with busy operations and changing access. Ask whether the bakery can take the order and deliver to the exact location, but avoid treating traffic or seasonal availability as a standard surcharge unless the bakery confirms it. A useful comparison is a confirmed quote for an equivalent cake, not an unverified “starting at” figure. See the [Cebu cake price guide](/journal/cake-prices-cebu.html) for the general quote checklist.
+
+## Cebuano
+
+# Mga Pangutana Bahin sa Presyo sa Sinulog Cake sa Cebu
+
+Walay usa ka pirming presyo ang festival theme. Sa dili pa itandi ang mga quote, ihulagway ang parehas nga order sa matag panaderya: petsa sa pag-serve, gidak-on, flavour, reference sa disenyo, inskripsiyon ug delivery address. Pangutan-a unsang bahin ang makaapekto sa presyo ug kon mahimo ba ang disenyo sa maong petsa.
+
+Pangayo og sinulat nga total ug ipatin-aw unsay apil. Kumpirmaha kon lahi ang bayad sa delivery, kantidad sa deposit, kanus-a bayran ang nahibilin ug unsaon pag-usab sa presyo kon mausab ang brief. Sumala sa gipatik nga giya sa White Cakes, 50% nga deposit ang bayran human magkauyon sa kataposang presyo ug detalye; susiha gihapon ang kasamtangang terms sa panaderya sa dili pa mobayad. Ayaw pagbanabana sa kasamtangang rate gikan sa daang post o litrato.
+
+Mahimong busy ang operasyon ug mausab ang access sa mga petsa sa Sinulog. Pangutan-a kon madawat ba ang order ug madeliver sa tukmang lugar, apan ayaw pagtuo nga adunay standard nga traffic o seasonal surcharge gawas kon kumpirmahon sa panaderya. Itandi ang kumpirmadong quote para sa parehas nga cake, dili ang wala pa masusi nga “starting at” nga presyo. Tan-awa ang [giya sa presyo sa cake sa Cebu](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Mga Dapat Itanong Tungkol sa Presyo ng Sinulog Cake sa Cebu
+
+Walang iisang nakapirming presyo ang festival theme. Bago paghambingin ang mga quote, ilarawan ang parehong order sa bawat bakery: petsa ng paghahain, sukat, flavour, design references, inscription, at delivery address. Itanong kung aling bahagi ang nakaaapekto sa presyo at kung kayang gawin ang design sa petsang iyon.
+
+Humingi ng nakasulat na kabuuang presyo na nagsasaad kung ano ang kasama. Kumpirmahin kung hiwalay ang delivery, halaga ng deposito, kailan babayaran ang balanse, at paano makaaapekto sa presyo ang pagbabago ng brief. Ayon sa inilathalang gabay ng White Cakes, 50% na deposito ang babayaran matapos mapagkasunduan ang pinal na presyo at detalye; tiyakin pa rin ang kasalukuyang terms sa bakery bago magbayad. Huwag hulaan ang kasalukuyang rate mula sa lumang post o larawan.
+
+Maaaring matao ang operasyon at magbago ang access sa mga petsa ng Sinulog. Itanong kung matatanggap ang order at maihahatid sa eksaktong lokasyon, pero huwag ipalagay na may karaniwang traffic o seasonal surcharge maliban kung kumpirmahin ito ng bakery. Ihambing ang kumpirmadong quote para sa magkatulad na cake, hindi ang hindi pa nabe-verify na “starting at” na presyo. Tingnan ang [gabay sa presyo ng cake sa Cebu](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo alang sa usa ka karon nga kinutlo nga naglakip sa disenyo sa panghitabo ug paghatud
-
-Kung mangayo ug Sinulog cake quote, ipaambit ang petsa sa panghitabo, gidak-on, banabana sa pagserbisyo, lami, reference sa disenyo, ug eksaktong mensahe. Pangutan-a kon ang panaderya nagtanyag ba sa gipangayo nga mga dekorasyon alang niana nga petsa ug kon ang kinutlo naglakip ba niini. Kung kinahanglan nimo nga ipadala sa usa ka lugar o lokasyon sa panagtapok, kumpirmahi ang pagkaanaa sa ruta, oras sa paghatag, ug bayad nga gilain.
-
-Ang seasonal nga panginahanglan mahimong makaapekto sa pagkaanaa, ug ang kasamtangan nga mga presyo mahimong lahi sa mas daan nga mga social post. Hangyoa ang kompleto nga total sa pagsulat sa dili pa mobayad, lakip ang bisan unsang naandan nga trabaho o bayad sa pagpadala. Pangutan-a kung unsang deposito ang nagpamatuod sa order ug i-save ang resibo nga adunay katapusang mga detalye.
-
-Ipadayon ang mga live rates sa gipadayon nga giya sa presyo ug ang karon nga seasonal nga impormasyon sa produkto sa may kalabutan nga panid sa produkto. Ayaw paghimo og panid sa presyo sa Sinulog nga adunay wala mapamatud-an o karaan nga kantidad.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humingi ng kasalukuyang quote na kinabibilangan ng disenyo at paghahatid ng kaganapan
-
-Kapag humihiling ng isang Sinulog cake quote, ibahagi ang petsa ng kaganapan, laki, pagtatantya ng paghahatid, lasa, sanggunian sa disenyo, at eksaktong mensahe. Tanungin kung nag-aalok ang panaderya ng mga hiniling na dekorasyon para sa petsang iyon at kung kasama sa quote ang mga ito. Kung kailangan mo ng paghahatid sa isang lugar o lokasyon ng pagtitipon, kumpirmahin ang availability ng ruta, oras ng handoff, at bayad nang hiwalay.
-
-Ang pana-panahong demand ay maaaring makaapekto sa availability, at ang kasalukuyang mga presyo ay maaaring mag-iba mula sa mas lumang mga social post. Hilingin ang kumpletong kabuuan nang nakasulat bago magbayad, kasama ang anumang custom na trabaho o singil sa paghahatid. Tanungin kung aling deposito ang nagkukumpirma ng order at i-save ang resibo kasama ang mga huling detalye.
-
-Panatilihin ang mga live na rate sa pinapanatili na gabay sa presyo at ang kasalukuyang napapanahong impormasyon ng produkto sa nauugnay na page ng produkto. Huwag lumikha ng pahina ng presyo ng Sinulog na may hindi na-verify o hindi napapanahong mga halaga.
+- Check all price, deposit, and delivery terms against current bakery policy.
+- Cebuano and Tagalog drafts need native editorial review.

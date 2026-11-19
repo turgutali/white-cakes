@@ -1,38 +1,46 @@
 ---
 id: WC-0460
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html; verify event schedule and serving estimates
-english_title: "How to estimate servings for Sinulog cake in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa Sinulog sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html; confirm guest count and serving context
+english_title: "How to Estimate Cake Servings for a Sinulog Gathering in Cebu"
+cebuano_title: "Giunsa Pagbanabana sa Servings sa Cake para sa Tapok sa Sinulog sa Cebu"
+tagalog_title: "Paano Tantiyahin ang Serving ng Cake para sa Pagtitipon ng Sinulog sa Cebu"
 ---
 
-## Count who will actually have cake after the event activity
+## English
 
-Sinulog plans may include people moving between venues or joining at different times. Estimate how many guests will be present when the cake is cut, and whether the event has a meal or other desserts. Tell the bakery whether you expect modest slices or party portions and ask for a size recommendation.
+# How to Estimate Cake Servings for a Sinulog Gathering in Cebu
 
-The current guide estimates 8–12 party slices for a 6-inch cake, 16–24 for an 8-inch cake, and 30–36 for a 6+8-inch two-tier cake. These figures are approximate and should be confirmed. Also confirm that the requested size and design are available for the event date.
+Estimate servings from the event plan rather than from the festival name. Count the people who will actually be present when the cake is served, then decide whether it is the only dessert or one of several. A small slice after a full meal is different from a generous slice at a cake-centred celebration.
 
-Keep the seasonal example in the central size guide and recheck current product options before each Sinulog season.
+White Cakes’ published size guide gives approximate figures: a 4-inch Bento serves about two generous or three modest portions after a meal; a 6-inch round yields around 8–12 party slices; an 8-inch round around 16–24; and a common 6+8-inch two-tier cake around 30–36. These are estimates, not guaranteed portions. Cake height, design, and how it is cut affect the result.
+
+For a Sinulog event, also account for staggered arrival, a separate dessert table, and whether some guests may leave before serving. Share the guest count and serving style with the bakery, then ask which current size fits. Do not order solely from a generic online serving chart. See the [Cebu cake size guide](/journal/cake-sizes-cebu.html) and confirm the final size with the bakery.
+
+## Cebuano
+
+# Giunsa Pagbanabana sa Servings sa Cake para sa Tapok sa Sinulog sa Cebu
+
+Ibanabana ang servings base sa plano sa event, dili sa ngalan sa festival. Ihap ang mga tawo nga presente gyud sa oras sa pag-serve ug tinoa kon mao ra ba ang cake nga panghimagas o usa sa daghan. Lahi ang gamay nga hiwa human sa bug-at nga pagkaon sa dagkong hiwa sa selebrasyon nga cake ang sentro.
+
+Ang gipatik nga size guide sa White Cakes naghatag og banabana: ang 4-inch Bento adunay mga duha ka generous o tulo ka modest nga bahin human sa pagkaon; ang 6-inch round mga 8–12 ka party slice; ang 8-inch mga 16–24; ug kasagarang 6+8-inch nga two-tier mga 30–36. Banabana kini, dili garantiya. Makaapekto ang kataas, disenyo ug paagi sa paghiwa.
+
+Para sa Sinulog event, hunahunaa usab ang lahi-lahing oras sa pag-abot, laing dessert table ug mga bisitang basin mouli na sa dili pa i-serve ang cake. Ipaambit sa panaderya ang gidaghanon sa bisita ug paagi sa pag-serve, unya pangutan-a unsang kasamtangang gidak-on ang angay. Ayaw pag-order base lang sa generic nga serving chart online. Tan-awa ang [size guide sa cake sa Cebu](/journal/cake-sizes-cebu.html) ug kumpirmaha ang kataposang gidak-on.
+
+## Tagalog
+
+# Paano Tantiyahin ang Serving ng Cake para sa Pagtitipon ng Sinulog sa Cebu
+
+Tantiyahin ang serving batay sa plano ng event, hindi sa pangalan ng festival. Bilangin ang mga talagang naroroon kapag ihahain ang cake at tukuyin kung ito lang ang dessert o isa sa marami. Iba ang maliit na hiwa pagkatapos ng mabigat na pagkain sa mas malaking hiwa sa selebrasyong cake ang sentro.
+
+Nagbibigay ng tantiya ang inilathalang size guide ng White Cakes: ang 4-inch Bento ay humigit-kumulang dalawang generous o tatlong modest na serving pagkatapos kumain; ang 6-inch round ay mga 8–12 party slice; ang 8-inch ay mga 16–24; at ang karaniwang 6+8-inch na two-tier ay mga 30–36. Tantiya ang mga ito, hindi garantiya. Nakaaapekto ang taas, disenyo, at paraan ng paghiwa.
+
+Para sa Sinulog event, isaalang-alang din ang magkakaibang oras ng pagdating, hiwalay na dessert table, at posibilidad na may umalis bago ihain ang cake. Ibigay sa bakery ang bilang ng bisita at paraan ng paghahain, saka itanong kung aling kasalukuyang sukat ang babagay. Huwag umorder batay lang sa generic na serving chart online. Tingnan ang [size guide ng cake sa Cebu](/journal/cake-sizes-cebu.html) at kumpirmahin ang huling sukat.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-ihap kung kinsa ang tinuod nga adunay cake pagkahuman sa kalihokan sa kalihokan
-
-Ang mga plano sa Sinulog mahimong maglakip sa mga tawo nga mobalhin sa taliwala sa mga lugar o moapil sa lainlaing mga oras. Pagbanabana kon pila ka mga bisita ang motambong kung ang cake giputol, ug kung ang kalihokan adunay pagkaon o uban pang mga dessert. Sultihi ang panaderya kung nagdahom ka nga kasarangan nga mga hiwa o mga bahin sa party ug pangayo og rekomendasyon sa gidak-on.
-
-Ang kasamtangan nga giya nagbanabana sa 8–12 ka party slices para sa 6-pulgada nga cake, 16–24 para sa 8-pulgada nga cake, ug 30–36 para sa 6+8-pulgada nga duha-ka-tier nga cake. Kini nga mga numero gibanabana ug kinahanglan nga kumpirmahon. Pagmatuod usab nga ang gipangayo nga gidak-on ug disenyo anaa alang sa petsa sa panghitabo.
-
-Itago ang seasonal nga pananglitan sa sentro nga giya sa gidak-on ug susiha pag-usab ang kasamtangang mga opsyon sa produkto sa dili pa ang matag panahon sa Sinulog.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Bilangin kung sino talaga ang magkakaroon ng cake pagkatapos ng aktibidad ng kaganapan
-
-Maaaring kabilang sa mga plano ng Sinulog ang mga taong lumilipat sa pagitan ng mga lugar o sumasali sa iba't ibang oras. Tantyahin kung gaano karaming mga bisita ang naroroon kapag ang cake ay pinutol, at kung ang kaganapan ay may pagkain o iba pang mga dessert. Sabihin sa panaderya kung inaasahan mo ang mga katamtamang hiwa o bahagi ng party at humingi ng rekomendasyon sa laki.
-
-Tinatantya ng kasalukuyang gabay ang 8–12 party slice para sa isang 6-inch na cake, 16–24 para sa isang 8-inch na cake, at 30–36 para sa isang 6+8-inch na two-tier na cake. Ang mga bilang na ito ay tinatayang at dapat kumpirmahin. Kumpirmahin din na ang hiniling na laki at disenyo ay magagamit para sa petsa ng kaganapan.
-
-Panatilihin ang pana-panahong halimbawa sa gitnang gabay sa laki at suriin muli ang mga kasalukuyang opsyon sa produkto bago ang bawat panahon ng Sinulog.
+- Serving numbers are estimates and must retain their stated context.
+- Confirm the current size menu before publication.
+- Cebuano and Tagalog drafts need native editorial review.

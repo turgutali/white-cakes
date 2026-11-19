@@ -1,44 +1,45 @@
 ---
 id: WC-0464
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html
-english_title: "How to keep safe and cool until serving Sinulog cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa Sinulog sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa Sinulog sa Cebu"
+english_title: "How to Keep a Sinulog Cake Safe Until Serving in Cebu"
+cebuano_title: "Giunsa Pagtipig nga Luwas ang Sinulog Cake Hangtod I-serve sa Cebu"
+tagalog_title: "Paano Panatilihing Ligtas ang Sinulog Cake Hanggang Ihain sa Cebu"
 ---
 
-## Keep a Sinulog cake cool around the event schedule
+## English
 
-Plan where the cake will be stored after delivery. Keep it level and away from direct sunlight, a hot vehicle, and warm equipment. If the celebration involves moving between venues or there is a long wait before serving, ask White Cakes for care instructions for the specific cake.
+# How to Keep a Sinulog Cake Safe Until Serving in Cebu
 
-Do not leave the cake outdoors in heat or assume a generic room-temperature limit applies. Arrange an indoor or shaded holding place and refrigeration if the bakery recommends it. Choose a person who can receive the cake and move it promptly.
+Ask the bakery how the specific cake should be stored and how long it can wait before serving. Do this when the order is confirmed, especially if delivery will happen before guests arrive or the event is outdoors. Storage instructions depend on the cake and its decoration, so avoid applying a generic rule to every order.
 
-For festival delivery, confirm the route, handoff window, and fee with the bakery, since traffic or venue access may differ. Share the full address, landmark, and receiver's mobile number. White Cakes requires at least three days' notice; a 50% deposit confirms the agreed order.
+Choose a level, stable place away from direct sun, heat sources, and accidental contact. Keep the cake in its box until the display is ready, unless the bakery gives different instructions. Do not leave it in a parked vehicle or carry it through a crowded area if another handoff arrangement is possible.
 
-Keep verified care guidance in the central heat guide and add Sinulog route instructions only when confirmed by White Cakes.
+At a Sinulog gathering, serving time may shift. Ask the bakery what to do if the schedule is delayed and who to contact with a storage question. Do not state a safe room-temperature duration or refrigeration instruction unless it is confirmed for that cake. See the [buttercream and Cebu heat guide](/journal/buttercream-in-cebu-heat.html) and follow the order-specific advice.
+
+## Cebuano
+
+# Giunsa Pagtipig nga Luwas ang Sinulog Cake Hangtod I-serve sa Cebu
+
+Pangutan-a ang panaderya unsaon pagtipig sa maong cake ug unsa kadugay kini maghulat sa dili pa i-serve. Buhata kini sa pagkumpirma sa order, ilabi na kon sayo ihatud sa wala pa moabot ang bisita o sa gawas ang event. Nagdepende sa cake ug dekorasyon ang instruksyon, busa ayaw gamita ang usa ka generic nga lagda para sa tanan.
+
+Pilia ang patag ug lig-on nga lugar nga layo sa direktang adlaw, init nga kagamitan ug posibleng pagkabangga. Ibilin sa kahon ang cake hangtod andam na ang display, gawas kon lahi ang giingon sa panaderya. Ayaw ibilin sa giparking nga sakyanan o dad-a sa daghang tawo kon adunay laing paagi sa handoff.
+
+Mahimong mausab ang oras sa pag-serve sa tapok sa Sinulog. Pangutan-a ang panaderya unsay buhaton kon malangan ang iskedyul ug kinsa ang kontakon kon adunay pangutana sa pagtipig. Ayaw pagbutang og oras sa room temperature o instruksyon sa refrigerator kon wala kini makumpirma para sa maong cake. Tan-awa ang [giya sa buttercream ug kainit sa Cebu](/journal/buttercream-in-cebu-heat.html).
+
+## Tagalog
+
+# Paano Panatilihing Ligtas ang Sinulog Cake Hanggang Ihain sa Cebu
+
+Tanungin ang bakery kung paano itatabi ang partikular na cake at gaano ito katagal maaaring maghintay bago ihain. Gawin ito kapag kumpirmado na ang order, lalo na kung ihahatid bago dumating ang mga bisita o outdoor ang event. Nakadepende sa cake at dekorasyon ang tagubilin, kaya huwag gumamit ng iisang pangkalahatang tuntunin para sa lahat.
+
+Pumili ng patag at matatag na lugar na malayo sa direktang araw, pinagmumulan ng init, at posibleng pagkakabangga. Iwan ang cake sa kahon hanggang handa na ang display, maliban kung iba ang tagubilin ng bakery. Huwag iwan sa nakaparadang sasakyan o dalhin sa mataong lugar kung may ibang paraan ng handoff.
+
+Maaaring magbago ang oras ng paghahain sa pagtitipon ng Sinulog. Itanong sa bakery ang gagawin kung maantala ang iskedyul at kung sino ang kokontakin para sa tanong tungkol sa pag-iimbak. Huwag magtakda ng ligtas na oras sa room temperature o refrigerator instruction kung hindi ito kinumpirma para sa cake na iyon. Tingnan ang [gabay sa buttercream at init sa Cebu](/journal/buttercream-in-cebu-heat.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti ang usa ka Sinulog cake nga cool sa palibot sa eskedyul sa kalihokan
-
-Pagplano kon asa ibutang ang cake human sa paghatod. Ipabilin kini nga patag ug layo sa direktang kahayag sa adlaw, init nga sakyanan, ug init nga kagamitan. Kung ang selebrasyon naglakip sa pagbalhin sa taliwala sa mga lugar o adunay taas nga paghulat sa dili pa magsilbi, pangutan-a ang White Cakes alang sa mga panudlo sa pag-atiman alang sa piho nga cake.
-
-Ayaw ibilin ang cake sa gawas sa init o hunahunaa ang usa ka kasagaran nga limitasyon sa temperatura sa kwarto magamit. Paghan-ay og usa ka sulod o shaded holding place ug refrigeration kon ang panaderya nagrekomenda niini. Pagpili og usa ka tawo nga makadawat sa cake ug ibalhin kini dayon.
-
-Para sa paghatod sa festival, kumpirmahi ang rota, handoff window, ug bayad sa panaderya, tungod kay ang trapiko o venue access mahimong magkalahi. Ipakigbahin ang kompleto nga adres, landmark, ug numero sa mobile sa tigdawat. Ang White Cake nanginahanglan labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Itago ang gipamatud-an nga giya sa pag-atiman sa sentro nga giya sa kainit ug idugang ang mga panudlo sa ruta sa Sinulog kung gikumpirma sa White Cakes.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing cool ang isang Sinulog cake sa iskedyul ng kaganapan
-
-Planuhin kung saan itatabi ang cake pagkatapos ng paghahatid. Panatilihin itong patag at malayo sa direktang sikat ng araw, mainit na sasakyan, at mainit na kagamitan. Kung ang pagdiriwang ay nagsasangkot ng paglipat sa pagitan ng mga lugar o may mahabang paghihintay bago ihain, tanungin ang White Cake para sa mga tagubilin sa pangangalaga para sa partikular na cake.
-
-Huwag iwanan ang cake sa labas sa init o ipagpalagay na may naaangkop na limitasyon sa temperatura ng kuwarto. Ayusin ang isang panloob o may kulay na holding place at pagpapalamig kung inirerekomenda ito ng panaderya. Pumili ng taong makakatanggap ng cake at ilipat ito kaagad.
-
-Para sa paghahatid ng festival, kumpirmahin ang ruta, handoff window, at bayad sa panaderya, dahil maaaring mag-iba ang trapiko o pag-access sa lugar. Ibahagi ang buong address, landmark, at numero ng mobile ng receiver. Ang mga White Cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Panatilihin ang na-verify na gabay sa pangangalaga sa gitnang gabay sa init at magdagdag ng mga tagubilin sa ruta ng Sinulog kapag nakumpirma ng White Cakes.
+- Confirm current event-specific details and service availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

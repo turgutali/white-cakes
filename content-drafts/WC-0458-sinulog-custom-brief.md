@@ -1,38 +1,45 @@
 ---
 id: WC-0458
-status: written-draft
-publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html; verify current seasonal design options
-english_title: "What to include in a custom brief for Sinulog cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa Sinulog sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html; verify seasonal options
+english_title: "What to Include in a Sinulog Cake Brief for a Cebu Bakery"
+cebuano_title: "Unsa ang Iapil sa Brief sa Sinulog Cake para sa Panaderya sa Cebu"
+tagalog_title: "Ano ang Isasama sa Brief para sa Sinulog Cake sa Cebu"
 ---
 
-## Describe the festival-inspired idea and the exact event handoff
+## English
 
-Include the event date, serving estimate, cake size, flavour, preferred colours, and exact inscription. Choose one main Sinulog-inspired detail and send a reference image that explains it. Mark which parts are essential and which the bakery may adapt to the cake and production schedule.
+# What to Include in a Sinulog Cake Brief for a Cebu Bakery
 
-Provide the full venue address, receiver’s phone number, and access instructions. Ask whether the seasonal design and route are available, then confirm the total quote and handoff window. In a crowded festival period, do not assume delivery access to every street or event venue.
+A useful brief turns a festival idea into decisions a baker can confirm. Begin with the actual serving date and time, the number of guests you hope to serve, the venue, and whether the cake must arrive during a restricted-access period. Say whether the cake is for a family meal, a workplace gathering, or another kind of event; that changes how it will be displayed and handed over.
 
-Keep this checklist in the shared custom-brief guide and verify current seasonal products and delivery coverage before publishing.
+Choose one visual priority: for example, a colour direction, a short message, or a single festival-inspired motif. Attach one or two reference images and point to the detail you like in each. Mark what is essential and what can be adapted. Do not assume a reference can be copied exactly or that a past seasonal design is currently offered.
+
+Include preferred size and flavour, exact spelling and capitalization for the inscription, complete address, receiver’s name and active phone number, and any entry instructions. Ask the bakery to confirm feasibility, total price, deposit, and delivery window before treating the brief as an accepted order. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets; ask how a graphic idea could be adapted. Use the broader [custom cake brief checklist](/journal/how-to-brief-a-custom-cake-cebu.html) for non-seasonal orders too.
+
+## Cebuano
+
+# Unsa ang Iapil sa Brief sa Sinulog Cake para sa Panaderya sa Cebu
+
+Ang maayong brief motabang sa panaderya nga masusi ang ideya ug mga detalye. Sugdi sa tukmang petsa ug oras sa pag-serve, gidaghanon sa bisita nga gusto nimo serbisyohan, venue, ug kon kinahanglan ihatud ang cake samtang limitado ang access. Isulti kon para ba kini sa paniudto sa pamilya, tapok sa trabahoan o laing event kay makaapekto kini sa display ug pagdawat.
+
+Pagpili og usa ka pangunang biswal nga gusto: pananglitan, kolor, mubo nga mensahe o usa ka motif nga dinasig sa festival. Idugtong ang usa o duha ka reference photo ug itudlo kon unsang detalye ang ganahan nimo sa matag usa. Markahi kon unsa ang kinahanglan sundon ug unsa ang mahimong ipasibo. Ayaw pagtuo nga eksaktong makopya ang reference o nga gitanyag karon ang daang seasonal design.
+
+Iapil ang gusto nga gidak-on ug flavour, eksaktong spelling ug capitalization sa inskripsiyon, kompleto nga address, ngalan ug aktibong numero sa modawat, ug instruksyon sa pagsulod. Pangayo og kumpirmasyon sa mahimo, kinatibuk-ang presyo, deposit ug delivery window sa dili pa isipon nga nadawat na ang order. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets; pangutan-a kon unsaon pagpasibo sa graphic nga ideya. Tan-awa ang [checklist sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Brief para sa Sinulog Cake sa Cebu
+
+Tinutulungan ng malinaw na brief ang bakery na suriin ang ideya at mga detalye. Magsimula sa eksaktong petsa at oras ng paghahain, dami ng bisitang nais mong mapagsilbihan, venue, at kung kailangang dumating ang cake habang limitado ang access. Sabihin kung para ito sa salu-salo ng pamilya, pagtitipon sa trabaho, o ibang event dahil nakaaapekto iyon sa display at handoff.
+
+Pumili ng isang pangunahing visual priority: halimbawa, direksiyon ng kulay, maikling mensahe, o iisang motif na inspirasyon ng festival. Maglakip ng isa o dalawang reference photo at ituro ang detalyeng gusto mo sa bawat isa. Markahan kung ano ang dapat mapanatili at ano ang maaaring iangkop. Huwag ipagpalagay na eksaktong makokopya ang reference o iniaalok pa ngayon ang lumang seasonal design.
+
+Isama ang nais na sukat at flavour, eksaktong spelling at capitalization ng inscription, buong address, pangalan at aktibong numero ng tatanggap, at tagubilin sa pagpasok. Hilinging kumpirmahin ng bakery ang kayang gawin, kabuuang presyo, deposito, at delivery window bago ituring na tanggap ang order. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets; itanong kung paano iaangkop ang graphic idea. Tingnan ang [checklist para sa custom cake brief](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ihulagway ang ideya nga dinasig sa pista ug ang eksaktong handoff sa panghitabo
-
-Ilakip ang petsa sa panghitabo, banabana sa pagserbisyo, gidak-on sa cake, lami, gusto nga mga kolor, ug eksakto nga inskripsiyon. Pagpili og usa ka nag-unang Sinulog-inspired nga detalye ug ipadala ang usa ka reference nga hulagway nga nagpatin-aw niini. Markahan kung unsang mga bahin ang kinahanglanon ug kung diin ang panaderya mahimong mopahiangay sa cake ug iskedyul sa produksiyon.
-
-Ihatag ang tibuok adres sa lugar, numero sa telepono sa tigdawat, ug mga instruksyon sa pag-access. Pangutan-a kon ang seasonal nga disenyo ug ruta anaa ba, unya kumpirmahi ang kinatibuk-ang kinutlo ug handoff nga bintana. Sa panahon sa kapistahan nga puno sa tawo, ayaw hunahunaa ang paghatud sa pag-access sa matag dalan o lugar sa kalihokan.
-
-Ibutang kini nga checklist sa gipaambit nga custom-mubo nga giya ug pamatud-i ang kasamtangan nga seasonal nga mga produkto ug delivery coverage sa dili pa imantala.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ilarawan ang ideyang inspirasyon ng festival at ang eksaktong handoff ng kaganapan
-
-Isama ang petsa ng kaganapan, pagtatantya ng paghahatid, laki ng cake, lasa, mga gustong kulay, at eksaktong inskripsiyon. Pumili ng isang pangunahing detalyeng inspirasyon ng Sinulog at magpadala ng reference na larawan na nagpapaliwanag dito. Markahan kung aling mga bahagi ang mahalaga at kung saan ang panaderya ay maaaring umangkop sa cake at iskedyul ng produksyon.
-
-Ibigay ang buong address ng venue, numero ng telepono ng tatanggap, at mga tagubilin sa pag-access. Itanong kung available ang pana-panahong disenyo at ruta, pagkatapos ay kumpirmahin ang kabuuang quote at handoff window. Sa isang masikip na panahon ng pagdiriwang, huwag ipagpalagay ang paghahatid ng access sa bawat kalye o lugar ng kaganapan.
-
-Panatilihin ang checklist na ito sa nakabahaging custom-brief na gabay at i-verify ang mga kasalukuyang napapanahong produkto at saklaw ng paghahatid bago i-publish.
+- Verify which festival-inspired options are currently feasible before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,38 +1,45 @@
 ---
 id: WC-0462
-status: written-draft
-publish_action: merge into /journal/choosing-a-flavor.html; verify current availability
-english_title: "How to choose a flavour for Sinulog cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa Sinulog sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/choosing-a-flavor.html; verify current flavour availability
+english_title: "How to Choose a Cake Flavour for a Sinulog Gathering in Cebu"
+cebuano_title: "Giunsa Pagpili sa Flavour sa Cake para sa Tapok sa Sinulog sa Cebu"
+tagalog_title: "Paano Pumili ng Lasa ng Cake para sa Pagtitipon ng Sinulog sa Cebu"
 ---
 
-## Choose the flavour independently from the festival design
+## English
 
-A Sinulog-inspired cake can use festive colours or a theme, but those visuals do not decide the flavour. Start with the people who will eat it and ask about current options for the event date. White Cakes’ listed flavours have included Chocolate, Vanilla, Ube, Mango, and Red Velvet; confirm the current menu and availability before you choose.
+# How to Choose a Cake Flavour for a Sinulog Gathering in Cebu
 
-If the cake is for a group, mention other desserts and any dietary concerns. Ask the bakery directly about ingredients and allergy accommodations; colour and flavour names are not enough to establish safety. Confirm portions, inscription, design, and delivery separately from the flavour choice.
+Choose flavour for the people eating the cake and the way the event is served. If the gathering includes a full meal, a lighter slice may suit the menu; if cake is the main dessert, ask how the available flavours pair with the rest of the table. Consider known preferences and dietary needs, but do not assume a bakery can accommodate an allergy or special diet without direct confirmation.
 
-Keep this seasonal note in the central flavour guide and link it from the Sinulog order-planning content. Do not make a separate festival flavour page with an unverified menu.
+For a mixed group, ask which flavours are currently available and whether one cake can offer more than one flavour. A familiar choice can make ordering simpler, while a less familiar option may fit a specific celebration better. Availability can change, so use the current menu or ask the bakery rather than relying on a past photo or a search snippet.
+
+Tell the bakery the event date, size, preferred flavour, and serving context when requesting a quote. Ask how the cake should be stored and how long it can wait before serving, especially if the festival schedule means it will be delivered ahead of time. The flavour decision should work with both the guests and the handoff plan. See [how to choose a cake flavour in Cebu](/journal/choosing-a-flavor.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour sa Cake para sa Tapok sa Sinulog sa Cebu
+
+Pilia ang flavour base sa mokaon sa cake ug paagi sa pag-serve sa event. Kon adunay bug-os nga paniudto, mahimong angay ang mas gaan nga hiwa; kon cake ang pangunang dessert, pangutan-a unsang available nga flavour ang motakdo sa ubang pagkaon. Hunahunaa ang nahibaw-ang gusto ug dietary needs, apan ayaw pagtuo nga maka-accommodate ang panaderya og allergy o espesyal nga pagkaon kon wala kini direktang makumpirma.
+
+Para sa grupo nga lain-lain ang gusto, pangutan-a unsang flavour ang available karon ug kon mahimong adunay labaw sa usa ka flavour ang usa ka cake. Makapasayon ang pamilyar nga kapilian, samtang mas angay sa usa ka selebrasyon ang bag-ong lami. Mausab ang availability, busa gamita ang kasamtangang menu o pangutan-a ang panaderya imbes mosalig sa daang litrato o search snippet.
+
+Isulti ang petsa sa event, gidak-on, gusto nga flavour ug paagi sa pag-serve sa dihang mangayo og quote. Pangutan-a unsaon pagtipig sa cake ug unsa kadugay kini maghulat sa dili pa i-serve, ilabi na kon sayo ihatud tungod sa iskedyul sa festival. Kinahanglan ang flavour mohaum sa mga bisita ug handoff plan. Tan-awa ang [pagpili og flavour sa cake sa Cebu](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano Pumili ng Lasa ng Cake para sa Pagtitipon ng Sinulog sa Cebu
+
+Pumili ng flavour ayon sa mga kakain at paraan ng paghahain sa event. Kung may buong kainan, maaaring bumagay ang mas magaang hiwa; kung cake ang pangunahing dessert, itanong kung aling available na flavour ang babagay sa iba pang pagkain. Isaalang-alang ang alam na gusto at dietary needs, pero huwag ipagpalagay na kayang tugunan ng bakery ang allergy o espesyal na diyeta nang walang direktang kumpirmasyon.
+
+Para sa grupong iba-iba ang gusto, itanong kung aling flavour ang available ngayon at kung maaaring magkaroon ng higit sa isang flavour ang cake. Nakapagpapadali ng order ang pamilyar na pagpipilian, samantalang maaaring mas bumagay ang hindi pa natitikman sa partikular na selebrasyon. Nagbabago ang availability, kaya gamitin ang kasalukuyang menu o magtanong sa bakery sa halip na umasa sa lumang larawan o search snippet.
+
+Sabihin ang petsa ng event, sukat, gustong flavour, at paraan ng paghahain kapag humihingi ng quote. Itanong kung paano itatabi ang cake at gaano ito katagal maaaring maghintay bago ihain, lalo na kung maagang ihahatid dahil sa iskedyul ng festival. Dapat umayon ang flavour sa mga bisita at sa handoff plan. Tingnan ang [paano pumili ng flavour ng cake sa Cebu](/journal/choosing-a-flavor.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pilia ang lami nga independente gikan sa disenyo sa festival
-
-Ang sinulog-inspired nga cake mahimong mogamit ug festive nga mga kolor o tema, apan kadtong mga biswal wala magdesisyon sa lami. Pagsugod sa mga tawo nga mokaon niini ug pangutana bahin sa karon nga mga kapilian alang sa petsa sa kalihokan. Ang nalista nga mga lami sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet; kumpirmahi ang kasamtangan nga menu ug anaa sa dili pa ikaw mopili.
-
-Kung ang cake para sa usa ka grupo, hisguti ang ubang mga dessert ug bisan unsang mga problema sa pagkaon. Pangutan-a ang panaderya direkta mahitungod sa mga sagol ug mga allergy accommodation; Ang mga ngalan sa kolor ug lami dili igo aron matukod ang kaluwasan. Kumpirma ang mga bahin, inskripsiyon, disenyo, ug paghatud nga bulag sa pagpili sa lami.
-
-Ibutang kini nga seasonal note sa sentro nga giya sa lami ug i-link kini gikan sa Sinulog order-planning content. Ayaw paghimo usa ka lahi nga panid sa lami sa festival nga adunay wala mapamatud-an nga menu.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Piliin ang lasa nang hiwalay mula sa disenyo ng festival
-
-Ang isang Sinulog-inspired na cake ay maaaring gumamit ng mga maligaya na kulay o isang tema, ngunit ang mga visual na iyon ay hindi nagpapasya sa lasa. Magsimula sa mga taong kakain nito at magtanong tungkol sa mga kasalukuyang opsyon para sa petsa ng kaganapan. Kasama sa mga nakalistang lasa ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet; kumpirmahin ang kasalukuyang menu at availability bago ka pumili.
-
-Kung ang cake ay para sa isang grupo, banggitin ang iba pang mga dessert at anumang mga alalahanin sa pandiyeta. Direktang tanungin ang panaderya tungkol sa mga sangkap at allergy accommodation; Ang mga pangalan ng kulay at lasa ay hindi sapat upang maitaguyod ang kaligtasan. Kumpirmahin ang mga bahagi, inskripsiyon, disenyo, at paghahatid nang hiwalay sa napiling lasa.
-
-Itago ang pana-panahong tala na ito sa gitnang gabay sa lasa at i-link ito mula sa nilalaman ng pagpaplano ng order ng Sinulog. Huwag gumawa ng hiwalay na page ng lasa ng festival na may hindi na-verify na menu.
+- Verify the live flavour menu and current storage guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

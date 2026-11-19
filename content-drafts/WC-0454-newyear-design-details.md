@@ -1,44 +1,51 @@
 ---
 id: WC-0454
-status: draft-needs-original-closeup
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "Design details to consider for New Year cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa Bag-ong Tuig sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa Bagong Taon sa Cebu"
+english_title: "Design Details to Consider for a New Year Cake in Cebu"
+cebuano_title: "Mga Detalye sa Disenyo nga Ikonsiderar para sa New Year Cake sa Cebu"
+tagalog_title: "Mga Detalye ng Disenyong Dapat Isaalang-alang para sa New Year Cake sa Cebu"
 ---
 
-## Choose a New Year cake focal detail before adding decoration
+## English
 
-New Year's tables can already have a lot happening, so decide whether the cake should blend into the spread or act as its centrepiece. Choose one focal detail—colour, a short inscription, or a simple festive motif—and keep optional decoration secondary. Tell White Cakes where the cake will be displayed so it can advise on scale.
+# Design Details to Consider for a New Year Cake in Cebu
 
-Send one reference and explain which part to adapt. Ask whether the design is available for the chosen size and flavour and what the confirmed quote includes. Do not assume a seasonal motif is stocked or that a photo can be copied exactly.
+Decide which moment the cake is for: a midnight countdown, a New Year’s Day meal, or a gathering later in the week. The occasion affects the wording, display, and delivery time. If the year appears on the cake, check it against the serving date before approving the design.
 
-Include the serving plan and event date. Current estimates are 8–12 portions for 6 inches and 16–24 for 8 inches. These are approximate. Check holiday availability early, allow at least three days' notice, and confirm delivery or pickup details before paying the 50% deposit.
+Choose one main visual element, such as a colour palette, a short greeting, or a restrained celebratory motif. Keep enough open space for the message to be legible. A small cake may not accommodate several lines and detailed decorations at once, so identify the highest priority.
 
-An original close-up should represent a real White Cakes cake and have image permission. Otherwise, add general styling advice to the existing design guide.
+Use references to communicate an idea, not to assume exact reproduction. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask how a countdown number, clock, or graphic can be adapted with current techniques and which seasonal options are available for the date.
+
+Consider the display surface and route from delivery to serving. Tall or delicate decorations may need adjustment if the cake travels or waits before the event. Provide the date, size, flavour, exact message, and handoff plan with the design brief. For general design guidance, see the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo nga Ikonsiderar para sa New Year Cake sa Cebu
+
+Desisyoni para sa unsang higayon ang cake: midnight countdown, panihapon sa unang adlaw sa Bag-ong Tuig o tapok sa ulahing bahin sa semana. Makaapekto sa wording, display ug oras sa delivery ang okasyon. Kung ibutang ang tuig sa cake, susiha kini batok sa petsa sa pag-serve sa dili pa moaprubar sa disenyo.
+
+Pagpili og usa ka pangunang visual element sama sa kolor, mubo nga greeting o simple nga celebratory motif. Pagbilin og igong luna aron mabasa ang mensahe. Mahimong dili maigo sa gamay nga cake ang daghang linya ug detalyadong dekorasyon dungan, busa tinoa ang pinakaimportante.
+
+Gamita ang reference sa pagpaambit sa ideya, dili sa pagtuo nga eksaktong makopya kini. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsaon pagpasibo sa countdown number, clock o graphic gamit ang kasamtangang teknik ug unsang seasonal options ang available sa petsa.
+
+Hunahunaa ang display surface ug ruta gikan sa delivery hangtod i-serve. Mahimong usbon ang taas o delikadong dekorasyon kon biyaheon o hulaton ang cake. Iapil sa design brief ang petsa, gidak-on, flavour, eksaktong mensahe ug handoff plan. Para sa kinatibuk-ang giya, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Disenyong Dapat Isaalang-alang para sa New Year Cake sa Cebu
+
+Pagpasiyahan kung para sa aling sandali ang cake: midnight countdown, kainan sa unang araw ng Bagong Taon, o pagtitipon sa bandang huli ng linggo. Nakaaapekto ang okasyon sa wording, display, at oras ng delivery. Kung ilalagay ang taon sa cake, tiyakin ito ayon sa petsa ng paghahain bago aprubahan ang design.
+
+Pumili ng iisang pangunahing visual element gaya ng palette ng kulay, maikling pagbati, o banayad na celebratory motif. Mag-iwan ng sapat na espasyo para mabasa ang mensahe. Maaaring hindi magkasya sa maliit na cake ang maraming linya at detalyadong dekorasyon nang sabay, kaya tukuyin ang pinakamahalagang bahagi.
+
+Gamitin ang references para ipaliwanag ang ideya, hindi para ipalagay ang eksaktong pagkopya. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets. Itanong kung paano iaangkop ang countdown number, orasan, o graphic gamit ang kasalukuyang technique at kung anong seasonal options ang available sa petsa.
+
+Isaalang-alang ang display surface at ruta mula delivery hanggang paghahain. Maaaring kailangang baguhin ang matataas o marurupok na dekorasyon kung ibibiyahe o maghihintay ang cake. Isama sa design brief ang petsa, sukat, flavour, eksaktong mensahe, at handoff plan. Para sa pangkalahatang gabay, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug Bag-ong Tuig nga cake focal detail sa dili pa magdugang og dekorasyon
-
-Ang mga lamesa sa Bag-ong Tuig mahimo nang adunay daghang mga panghitabo, busa pagdesisyon kung ang cake kinahanglan nga magsagol sa pagkaylap o molihok ingon nga sentro niini. Pagpili og usa ka focal nga detalye—kolor, mubo nga inskripsiyon, o usa ka yano nga festive motif—ug ipadayon ang opsyonal nga dekorasyon nga ikaduha. Sultihi ang mga White Cake kung asa ipakita ang cake aron makatambag kini sa sukod.
-
-Pagpadala ug usa ka reperensiya ug ipasabut kung unsang bahina ang ipahiangay. Pangutan-a kung ang disenyo anaa ba alang sa gipili nga gidak-on ug lami ug unsa ang gilakip sa gikumpirma nga kinutlo. Ayaw isipa nga ang usa ka seasonal nga motif adunay stock o nga ang usa ka litrato mahimong kopyahon sa eksakto.
-
-Ilakip ang plano sa pagserbisyo ug petsa sa panghitabo. Ang kasamtangan nga mga banabana mao ang 8–12 ka bahin alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Kini mga banabana. Susihon og sayo ang pagkaandam sa holiday, tugoti ang labing menos tulo ka adlaw nga pahibalo, ug kumpirmahi ang mga detalye sa pagpadala o pagkuha sa dili pa magbayad sa 50% nga deposito.
-
-Ang orihinal nga close-up kinahanglan magrepresentar sa usa ka tinuod nga White Cakes nga cake ug adunay pagtugot sa imahe. Kung dili, idugang ang kinatibuk-ang tambag sa pag-istilo sa kasamtangan nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng New Year cake focal detail bago magdagdag ng dekorasyon
-
-Ang mga talahanayan ng Bagong Taon ay maaaring magkaroon ng maraming nangyayari, kaya magpasya kung ang cake ay dapat ihalo sa spread o magsilbing sentro nito. Pumili ng isang focal detail—kulay, isang maikling inskripsiyon, o isang simpleng festive motif—at panatilihing pangalawa ang opsyonal na dekorasyon. Sabihin sa White Cakes kung saan ipapakita ang cake para makapagbigay ito ng payo sa sukat.
-
-Magpadala ng isang sanggunian at ipaliwanag kung aling bahagi ang iaangkop. Itanong kung available ang disenyo para sa napiling laki at lasa at kung ano ang kasama sa nakumpirmang quote. Huwag ipagpalagay na ang isang pana-panahong motif ay may stock o na ang isang larawan ay maaaring eksaktong kopyahin.
-
-Isama ang plano sa paghahatid at petsa ng kaganapan. Ang kasalukuyang mga pagtatantya ay 8–12 bahagi para sa 6 pulgada at 16–24 para sa 8 pulgada. Ang mga ito ay tinatayang. Tingnan ang availability ng holiday nang maaga, magbigay ng hindi bababa sa tatlong araw na paunawa, at kumpirmahin ang mga detalye ng paghahatid o pagkuha bago bayaran ang 50% na deposito.
-
-Ang isang orihinal na close-up ay dapat na kumakatawan sa isang tunay na White Cakes cake at may pahintulot ng imahe. Kung hindi, magdagdag ng pangkalahatang payo sa pag-istilo sa umiiral nang gabay sa disenyo.
+- Verify current seasonal options and design methods before publication.
+- Cebuano and Tagalog drafts need native editorial review.

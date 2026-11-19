@@ -1,38 +1,45 @@
 ---
 id: WC-0459
-status: written-draft
-publish_action: merge into /journal/cake-designs-cebu.html; seasonal photo examples need permission
-english_title: "How to choose a design for Sinulog cake in Cebu"
-cebuano_title: "Giunsa pagpili og disenyo para sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Paano pumili ng disenyo para sa cake para sa Sinulog sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html; use seasonal examples only with permission
+english_title: "How to Choose a Sinulog-Inspired Cake Design in Cebu"
+cebuano_title: "Giunsa Pagpili og Disenyo sa Cake nga Dinasig sa Sinulog sa Cebu"
+tagalog_title: "Paano Pumili ng Disenyong Inspirasyon ng Sinulog para sa Cake sa Cebu"
 ---
 
-## Choose a festival-inspired detail that stays readable on the cake
+## English
 
-Decide whether the design should reflect a colour palette, a short festival greeting, or another visual detail. Select one focal idea and send a reference image that explains it. Ask the bakery which parts can be adapted to the cake size and which seasonal decorations are actually available.
+# How to Choose a Sinulog-Inspired Cake Design in Cebu
 
-Confirm the event date, serving estimate, flavour, message, total price, and handoff plan separately. For crowded festival locations, provide the exact delivery point and a reachable receiver, then confirm route availability and timing. Do not assume the bakery can access every event area.
+Choose a design by deciding what guests should notice first. It might be the event message, a colour combination, or one festival-inspired symbol. One clear focal point usually communicates better than trying to fit every reference, colour, and decoration onto the cake. The cake’s size and shape also limit how much text and detail remain readable.
 
-Add the design prompt to the central Cebu guide and verify seasonal products before publishing. Use only actual approved photos of prior Sinulog cakes.
+Think about the setting. A cake displayed on a crowded buffet, carried between locations, or served outdoors may need simpler, sturdier decoration than one kept on a stable indoor table. Tell the bakery where it will be placed and how it will travel after delivery. Keep the inscription short, check the spelling, and confirm the serving date if the year is written on the cake.
+
+Use reference photos to explain a mood or a specific detail, then invite the baker to adapt it to current techniques. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Ask which elements are feasible now and confirm the design before payment. Do not represent a previous year’s cake as a current product without confirmation. For general principles, see [custom cake design ideas in Cebu](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagpili og Disenyo sa Cake nga Dinasig sa Sinulog sa Cebu
+
+Pilia ang disenyo pinaagi sa pagdesisyon kon unsay unang mamatikdan sa mga bisita: mensahe sa event, kombinasyon sa kolor o usa ka simbolo nga dinasig sa festival. Mas klaro kasagarang ipahayag ang usa ka sentrong ideya kaysa ipuno ang cake sa tanang reference, kolor ug dekorasyon. Limitado usab sa gidak-on ug porma sa cake ang mabasang teksto ug detalye.
+
+Hunahunaa ang lugar. Ang cake nga ibutang sa puno nga buffet, dad-on sa laing lugar o i-serve sa gawas tingali nanginahanglan og mas simple ug lig-on nga dekorasyon kaysa cake nga magpabilin sa lig-on nga lamesa sulod sa balay. Isulti sa panaderya asa kini ibutang ug unsaon pagdala human sa delivery. Himoa nga mubo ang inskripsiyon, susiha ang spelling, ug kumpirmaha ang petsa kon ibutang ang tuig.
+
+Gamita ang reference photo sa pagpasabot sa mood o partikular nga detalye, dayon tugoti ang baker nga ipasibo kini sa kasamtangang teknik. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Pangutan-a unsang elemento ang mahimo karon ug kumpirmaha ang disenyo sa dili pa mobayad. Ayaw ipakita ang cake sa miaging tuig nga mura kini og kasamtangang produkto kon wala pa makumpirma. Tan-awa ang [mga ideya sa custom cake design sa Cebu](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Paano Pumili ng Disenyong Inspirasyon ng Sinulog para sa Cake sa Cebu
+
+Pumili ng design sa pamamagitan ng pagpapasya kung ano ang unang mapapansin ng mga bisita: mensahe ng event, kombinasyon ng kulay, o iisang simbolong inspirasyon ng festival. Mas malinaw kadalasan ang iisang focal point kaysa subukang ilagay sa cake ang lahat ng reference, kulay, at dekorasyon. Nililimitahan din ng sukat at hugis ng cake kung gaano karaming teksto at detalye ang mananatiling nababasa.
+
+Isaalang-alang ang lugar. Ang cake na ilalagay sa punong buffet, dadalhin sa ibang lugar, o ihahain sa labas ay maaaring mangailangan ng mas simple at matibay na dekorasyon kaysa sa cake na mananatili sa matatag na mesa sa loob. Sabihin sa bakery kung saan ito ilalagay at paano ito dadalhin pagkatapos ng delivery. Panatilihing maikli ang inscription, suriin ang spelling, at tiyakin ang petsa kung ilalagay ang taon sa cake.
+
+Gamitin ang reference photo para ipaliwanag ang mood o partikular na detalye, at hayaang iangkop iyon ng baker sa kasalukuyang technique. Hand-piped buttercream ang gamit ng White Cakes at wala itong edible printed logo sheets. Itanong kung aling elemento ang kayang gawin ngayon at kumpirmahin ang design bago magbayad. Huwag ipakitang kasalukuyang produkto ang cake noong nakaraang taon nang walang kumpirmasyon. Para sa pangkalahatang prinsipyo, tingnan ang [mga ideya sa custom cake design sa Cebu](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili usa ka detalye nga dinasig sa pista nga nagpabiling mabasa sa cake
-
-Pagdesisyon kung ang disenyo kinahanglan nga magpakita sa usa ka paleta sa kolor, usa ka mubo nga pagtimbaya sa pista, o uban pang biswal nga detalye. Pagpili og usa ka focal idea ug ipadala ang usa ka reference nga hulagway nga nagpatin-aw niini. Pangutan-a ang panaderya kung unsang mga bahin ang mahimong ipahiangay sa gidak-on sa cake ug kung unsang mga seasonal nga dekorasyon ang tinuod nga magamit.
-
-Kumpirma ang petsa sa panghitabo, banabana sa pagserbisyo, lami, mensahe, kinatibuk-ang presyo, ug plano sa handoff nga gilain. Para sa naghuot nga mga lokasyon sa festival, ihatag ang eksaktong delivery point ug usa ka maabot nga receiver, unya kumpirmahi ang pagkaanaa sa ruta ug timing. Ayaw hunahunaa nga ang panaderya maka-access sa matag lugar sa kalihokan.
-
-Idugang ang design prompt sa sentro sa Cebu nga giya ug pamatud-i ang seasonal nga mga produkto sa dili pa imantala. Gamita lang ang aktuwal nga aprubado nga mga letrato sa naunang Sinulog cakes.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng detalyeng inspirasyon ng festival na mananatiling nababasa sa cake
-
-Magpasya kung ang disenyo ay dapat magpakita ng isang paleta ng kulay, isang maikling pagbati sa pagdiriwang, o isa pang visual na detalye. Pumili ng isang focal idea at magpadala ng reference na larawan na nagpapaliwanag dito. Tanungin ang panaderya kung aling mga bahagi ang maaaring iakma sa laki ng cake at kung aling mga pana-panahong dekorasyon ang aktwal na magagamit.
-
-Kumpirmahin ang petsa ng kaganapan, pagtatantya ng paghahatid, lasa, mensahe, kabuuang presyo, at handoff na plano nang hiwalay. Para sa masikip na lokasyon ng festival, ibigay ang eksaktong delivery point at isang maaabot na receiver, pagkatapos ay kumpirmahin ang availability ng ruta at timing. Huwag ipagpalagay na maa-access ng panaderya ang bawat lugar ng kaganapan.
-
-Idagdag ang prompt ng disenyo sa gabay sa gitnang Cebu at i-verify ang mga napapanahong produkto bago i-publish. Gumamit lamang ng mga aktwal na inaprubahang larawan ng mga naunang Sinulog cake.
+- Confirm the feasibility of any proposed seasonal motif before publication.
+- Cebuano and Tagalog drafts need native editorial review.

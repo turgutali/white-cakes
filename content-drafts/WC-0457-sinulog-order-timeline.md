@@ -1,38 +1,46 @@
 ---
 id: WC-0457
-status: written-draft
-publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html; verify current Sinulog schedule and availability
-english_title: "How to plan the order timeline for Sinulog cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa Sinulog sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html; verify current Sinulog date, availability, and access
+english_title: "How to Plan a Sinulog Cake Order Timeline in Cebu"
+cebuano_title: "Giunsa Pagplano ang Oras sa Pag-order og Sinulog Cake sa Cebu"
+tagalog_title: "Paano Planuhin ang Timeline ng Pag-order ng Sinulog Cake sa Cebu"
 ---
 
-## Confirm the festival date, venue access, and handoff before choosing details
+## English
 
-Tell the bakery the actual event date, serving time, and exact location. Sinulog activity can change access around venues, so provide a reachable receiver and any current entry instructions. Ask whether the bakery has availability for the requested date and can deliver to that point.
+# How to Plan a Sinulog Cake Order Timeline in Cebu
 
-White Cakes’ general guidance calls for at least three days’ notice for made-to-order cakes; inquire earlier for a seasonal date and custom design. Confirm the size, flavour, message, full quote, route, and deposit process in writing. Do not assume festival traffic or access will be the same each year.
+Start with the date the cake will be served, not the festival’s headline day. A family lunch, office gathering, and event after a parade can fall on different dates and have different access constraints. Write down the serving time, venue, and the latest time someone can receive the cake.
 
-Keep the core lead time in the central order guide and year-specific route notes in a reviewed seasonal update.
+White Cakes’ general guidance asks for at least three days’ notice for made-to-order cakes. Treat that as a minimum planning reference, not a promise of availability: ask earlier for a busy festival period, a custom design, or a large cake. Sinulog schedules, road access, and bakery capacity can change by year, so confirm all three for the actual date.
+
+Once the bakery confirms it can take the order, agree on size, flavour, design, inscription, final quote, deposit, and a delivery window. Keep a named receiver reachable during that window and allow time before serving for safe placement. If the event location changes, get the new route and delivery arrangement confirmed in writing. For the bakery’s standard lead-time guidance, see [how far ahead to order a cake in Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano ang Oras sa Pag-order og Sinulog Cake sa Cebu
+
+Sugdi sa petsa nga i-serve ang cake, dili lang sa pinakadakong adlaw sa festival. Lahi-lahi ang petsa ug access sa paniudto sa pamilya, tapok sa opisina, ug event human sa parada. Isulat ang oras sa pag-serve, venue, ug pinakalate nga oras nga makadawat ang usa ka tawo.
+
+Ang kinatibuk-ang giya sa White Cakes naghangyo og labing menos tulo ka adlaw nga pahibalo para sa made-to-order nga cake. Minimum nga reference kini sa pagplano, dili garantiya nga available: pangutana og mas sayo kon busy ang festival period, custom ang disenyo o dako ang cake. Mausab kada tuig ang iskedyul sa Sinulog, access sa dalan ug kapasidad sa panaderya, busa kumpirmaha silang tulo para sa tukmang petsa.
+
+Human kumpirmahon sa panaderya nga madawat ang order, magkauyon sa gidak-on, flavour, disenyo, inskripsiyon, final nga presyo, deposit ug delivery window. Siguroha nga ma-contact ang ginganlang modawat sulod sa maong window ug magbilin og oras sa dili pa i-serve. Kon mausab ang venue, kumpirmaha sa sinulat ang bag-ong ruta ug delivery arrangement. Tan-awa ang [giya sa pag-order og cake daan sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Paano Planuhin ang Timeline ng Pag-order ng Sinulog Cake sa Cebu
+
+Magsimula sa petsa kung kailan ihahain ang cake, hindi lang sa pangunahing araw ng festival. Maaaring magkaiba ang petsa at limitasyon sa access para sa salu-salo ng pamilya, pagtitipon sa opisina, o event pagkatapos ng parada. Itala ang oras ng paghahain, venue, at pinakahuling oras na may tatanggap.
+
+Humihingi ang pangkalahatang gabay ng White Cakes ng hindi bababa sa tatlong araw na abiso para sa made-to-order na cake. Minimum na sanggunian ito sa pagpaplano, hindi garantiya ng availability: magtanong nang mas maaga kung matao ang festival period, custom ang design, o malaki ang cake. Nagbabago taon-taon ang iskedyul ng Sinulog, access sa kalsada, at kapasidad ng bakery, kaya kumpirmahin ang tatlo para sa mismong petsa.
+
+Kapag nakumpirma ng bakery na matatanggap ang order, pag-usapan ang sukat, flavour, design, inscription, pinal na quote, deposito, at delivery window. Tiyaking maaabot ang itinalagang tatanggap sa buong window at maglaan ng oras bago ihain. Kung magbago ang venue, kumpirmahin nang nakasulat ang bagong ruta at delivery arrangement. Tingnan ang [gabay kung gaano kaaga mag-order ng cake sa Cebu](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Kumpirma ang petsa sa festival, pag-access sa lugar, ug paghatag sa dili pa mopili sa mga detalye
-
-Isulti sa panaderya ang aktuwal nga petsa sa panghitabo, oras sa pagserbisyo, ug eksaktong lokasyon. Ang kalihokan sa Sinulog mahimong makausab sa pag-access sa palibot sa mga lugar, busa paghatag og usa ka maabot nga tigdawat ug bisan unsang kasamtangang instruksyon sa pagsulod. Pangutan-a kung ang panaderya adunay magamit alang sa gihangyo nga petsa ug makahatud sa kana nga punto.
-
-Ang kinatibuk-ang giya sa White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa mga hinimo-sa-pag-order nga mga cake; pangutana sa sayo pa alang sa usa ka seasonal nga petsa ug custom nga disenyo. Kumpirma ang gidak-on, lami, mensahe, bug-os nga quote, ruta, ug proseso sa pagdeposito sa pagsulat. Ayaw hunahunaa nga ang trapiko sa pista o ang pag-access parehas matag tuig.
-
-Ipadayon ang kinauyokan nga oras sa tingga sa sentral nga giya sa order ug mga nota sa ruta nga piho sa tuig sa usa ka gisusi nga seasonal update.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Kumpirmahin ang petsa ng festival, pag-access sa lugar, at handoff bago pumili ng mga detalye
-
-Sabihin sa panaderya ang aktwal na petsa ng kaganapan, oras ng paghahatid, at eksaktong lokasyon. Maaaring baguhin ng aktibidad ng Sinulog ang pag-access sa paligid ng mga lugar, kaya magbigay ng naaabot na receiver at anumang kasalukuyang mga tagubilin sa pagpasok. Tanungin kung ang panaderya ay may kakayahang magamit para sa hiniling na petsa at maaaring maghatid sa puntong iyon.
-
-Ang pangkalahatang patnubay ng White Cakes ay nangangailangan ng hindi bababa sa tatlong araw na paunawa para sa mga made-to-order na cake; magtanong nang mas maaga para sa isang pana-panahong petsa at pasadyang disenyo. Kumpirmahin ang laki, lasa, mensahe, buong quote, ruta, at proseso ng deposito nang nakasulat. Huwag ipagpalagay na ang trapiko o pag-access sa festival ay magiging pareho bawat taon.
-
-Panatilihin ang pangunahing lead time sa gitnang gabay sa pagkakasunud-sunod at mga tala ng ruta na partikular sa taon sa isang nasuri na pana-panahong pag-update.
+- Recheck year-specific Sinulog dates, road restrictions, venue access, and current bakery availability.
+- Confirm current order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

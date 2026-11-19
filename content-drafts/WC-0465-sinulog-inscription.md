@@ -1,44 +1,45 @@
 ---
 id: WC-0465
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html
-english_title: "What to write on Sinulog cake in Cebu"
-cebuano_title: "Unsa ang isulat sa ibabaw sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Ano ang isusulat sa ibabaw ng cake para sa Sinulog sa Cebu"
+english_title: "What to Write on a Sinulog Cake in Cebu"
+cebuano_title: "Unsa ang Isulat sa Sinulog Cake sa Cebu"
+tagalog_title: "Ano ang Isusulat sa Sinulog Cake sa Cebu"
 ---
 
-## Keep the Sinulog cake message short and clear
+## English
 
-Choose one brief greeting or event phrase rather than a long paragraph. If the cake has a festival-inspired design, a short line leaves room for decoration and is easier to read. These are wording suggestions, not text from actual White Cakes orders.
+# What to Write on a Sinulog Cake in Cebu
 
-Send the final wording in one message with spelling, punctuation, and capitalization checked. If you want Cebuano or Tagalog, ask a fluent speaker to verify the phrasing and tone. Confirm with White Cakes that the text fits the chosen size and design.
+Start with the cake’s purpose: a family greeting, a team celebration, or a message for guests at a shared event. A short line is easier to read and leaves more room for decoration. If the cake is small, choose the most meaningful words instead of adding a date, greeting, names, and slogan all together.
 
-Include the event date, flavour, serving estimate, and pickup or delivery plan. If delivery is planned during Sinulog, share the full address, landmark, receiver's mobile number, and access instructions, then confirm whether the route and window are available. Allow at least three days' notice and secure the agreed order with the 50% deposit.
+Send the exact text with spelling, punctuation, and capitalization already checked. Make clear whether the message should be in English, Cebuano, or Tagalog, and whether any wording is confidential until delivery. If the year or event date appears on the cake, verify it against the serving date. Avoid wording that implies an official partnership or endorsement unless that is true and approved.
 
-Add sample phrases to the central message guide. Publish a Sinulog inscription gallery only if original, permission-cleared examples provide distinct value.
+Ask the bakery whether the requested text fits the chosen cake and design. White Cakes hand-pipes buttercream, so confirm how the message will be rendered and approve the final wording before production. Browse the [Cebu cake message guide](/journal/birthday-cake-message-ideas-cebu.html) for more general inscription advice.
+
+## Cebuano
+
+# Unsa ang Isulat sa Sinulog Cake sa Cebu
+
+Sugdi sa katuyoan sa cake: pangumusta sa pamilya, selebrasyon sa team o mensahe para sa mga bisita sa panag-ambit nga event. Mas sayon basahon ang mubo nga linya ug mas daghan og luna para sa dekorasyon. Kon gamay ang cake, pilia ang labing makahuluganon nga mga pulong imbes idugang tanan ang petsa, greeting, ngalan ug slogan.
+
+Ipadala ang eksaktong teksto nga nasusi na ang spelling, punctuation ug capitalization. Isulti kon English, Cebuano o Tagalog ang mensahe ug kon kinahanglan sekreto kini hangtod ma-deliver. Kon ibutang ang tuig o petsa sa event, susiha kini batok sa adlaw sa pag-serve. Likayi ang wording nga nagpasabot og opisyal nga partnership o endorsement kon dili kini tinuod ug aprubado.
+
+Pangutan-a ang panaderya kon moigo ba ang teksto sa napiling gidak-on ug disenyo. Hand-piped buttercream ang gamit sa White Cakes, busa kumpirmaha unsaon pagsulat ug aprobahi ang kataposang mensahe sa dili pa sugdan. Tan-awa ang [giya sa mensahe sa cake sa Cebu](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Isusulat sa Sinulog Cake sa Cebu
+
+Magsimula sa layunin ng cake: pagbati para sa pamilya, selebrasyon ng team, o mensahe para sa mga bisita sa pagtitipon. Mas madaling basahin ang maikling linya at nag-iiwan ito ng espasyo para sa dekorasyon. Kung maliit ang cake, piliin ang pinakamakahulugang mga salita sa halip na pagsamahin ang petsa, pagbati, mga pangalan, at slogan.
+
+Ipadala ang eksaktong text na nasuri na ang spelling, punctuation, at capitalization. Sabihin kung English, Cebuano, o Tagalog ang mensahe at kung dapat itong manatiling sikreto hanggang delivery. Kung ilalagay ang taon o petsa ng event, tiyakin ito ayon sa araw ng paghahain. Iwasan ang wording na nagpapahiwatig ng opisyal na partnership o endorsement kung hindi ito totoo at aprubado.
+
+Itanong sa bakery kung kasya ang text sa napiling sukat at design. Hand-piped buttercream ang gamit ng White Cakes, kaya kumpirmahin kung paano isusulat ang mensahe at aprubahan ang pinal na wording bago simulan ang paggawa. Tingnan ang [gabay sa mensahe sa cake sa Cebu](/journal/birthday-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti nga mubo ug klaro ang mensahe sa Sinulog cake
-
-Pagpili og usa ka mubo nga pagtimbaya o hugpong sa mga panghitabo kay sa taas nga paragraph. Kung ang cake adunay disenyo nga giinspirar sa pista, ang usa ka mubo nga linya magbilin ug lawak alang sa dekorasyon ug mas sayon ​​basahon. Kini mga sugyot sa mga pulong, dili teksto gikan sa aktwal nga mga order sa White Cakes.
-
-Ipadala ang kataposang mga pulong sa usa ka mensahe nga gisusi ang spelling, punctuation, ug capitalization. Kung gusto nimo ang Cebuano o Tagalog, hangyoa ang usa ka larino nga mamumulong aron susihon ang hugpong sa mga pulong ug tono. Kumpirma sa White Cake nga ang teksto mohaum sa gipili nga gidak-on ug disenyo.
-
-Ilakip ang petsa sa panghitabo, lami, banabana sa pagserbisyo, ug plano sa pagkuha o paghatud. Kung giplano ang paghatod atol sa Sinulog, ipaambit ang kompleto nga adres, landmark, numero sa mobile sa receiver, ug mga instruksyon sa pag-access, dayon kumpirmahi kung anaa ang rota ug bintana. Tugoti ang labing menos tulo ka adlaw nga pahibalo ug luwasa ang gikasabutan nga order gamit ang 50% nga deposito.
-
-Idugang ang mga sampol nga hugpong sa mga pulong sa sentro nga giya sa mensahe. Pag-publish ug Sinulog inscription gallery lang kung ang orihinal, permiso-cleared nga mga pananglitan naghatag og lahi nga bili.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing maikli at malinaw ang mensahe ng Sinulog cake
-
-Pumili ng isang maikling pagbati o parirala ng kaganapan sa halip na isang mahabang talata. Kung ang cake ay may festival-inspired na disenyo, ang isang maikling linya ay nag-iiwan ng silid para sa dekorasyon at mas madaling basahin. Ito ay mga mungkahi sa mga salita, hindi text mula sa aktwal na mga order ng White Cakes.
-
-Ipadala ang panghuling salita sa isang mensahe na may tsek ang spelling, bantas, at capitalization. Kung gusto mo ng Cebuano o Tagalog, hilingin sa isang matatas na tagapagsalita na i-verify ang parirala at tono. Kumpirmahin gamit ang White Cake na akma ang text sa napiling laki at disenyo.
-
-Isama ang petsa ng kaganapan, lasa, pagtatantya ng paghahatid, at plano ng pickup o paghahatid. Kung pinlano ang paghahatid sa panahon ng Sinulog, ibahagi ang buong address, landmark, mobile number ng receiver, at mga tagubilin sa pag-access, pagkatapos ay kumpirmahin kung available ang ruta at window. Magbigay ng hindi bababa sa tatlong araw na paunawa at i-secure ang napagkasunduang order gamit ang 50% na deposito.
-
-Magdagdag ng mga sample na parirala sa gabay sa gitnang mensahe. Mag-publish lamang ng Sinulog inscription gallery kung ang orihinal, na-clear ng pahintulot na mga halimbawa ay nagbibigay ng natatanging halaga.
+- Confirm current event-specific details and service availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,45 @@
 ---
 id: WC-0468
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html
-english_title: "How to compare options for Sinulog cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa Sinulog sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa Sinulog sa Cebu"
+english_title: "How to Compare Cake Options for a Sinulog Gathering in Cebu"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Cake para sa Tapok sa Sinulog sa Cebu"
+tagalog_title: "Paano Paghambingin ang mga Pagpipilian sa Cake para sa Pagtitipon ng Sinulog sa Cebu"
 ---
 
-## Compare Sinulog cake options with route and serving needs in mind
+## English
 
-Start with the serving plan. Current White Cakes estimates are 8–12 party portions from 6 inches, 16–24 from 8 inches, and 30–36 from a 6+8-inch two-tier cake. The figures are approximate. Tell the bakery how many people will actually eat cake and whether there are other desserts.
+# How to Compare Cake Options for a Sinulog Gathering in Cebu
 
-Next, compare the design scope. A simple festival colour palette may be different work from a detailed custom symbol or lettering. Send one reference and ask which parts are feasible and what the quote includes. Confirm that the requested flavour is available on the date.
+Compare cakes against the event requirements rather than choosing from photos alone. First list the number of guests who will be present at serving time, the role of the cake among other desserts, the display space, and the delivery location. Then compare available sizes, flavours, design approaches, and confirmed prices for that same brief.
 
-Sinulog may affect city access and delivery timing. Share the exact address, landmark, receiving contact, and venue instructions. Ask the bakery to confirm whether delivery is available, the window, and fee. Check the date early; made-to-order cakes require at least three days' notice. A 50% deposit secures the agreed order once the design and logistics are confirmed.
+A larger cake may offer more portions but require more table space and a different handoff plan. A simpler design may make a short message easier to read. If the event has restricted access or a firm program, delivery feasibility and the confirmed window may matter as much as decoration. Ask the bakery which options are available for the actual date.
 
-Keep current product and pricing data in the shared choice guide. Add festival delivery rules only after White Cakes verifies them.
+Use a written quote to compare like with like: size, flavour, design, inscription, deposit, and delivery terms. Do not treat old Sinulog images or general online serving estimates as proof of availability. The [which cake should I choose guide](/journal/which-cake.html) covers the same comparison method for other Cebu occasions.
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Cake para sa Tapok sa Sinulog sa Cebu
+
+Itandi ang mga cake base sa kinahanglanon sa event, dili sa litrato lang. Una, ilista ang gidaghanon sa bisitang naa sa oras sa pag-serve, papel sa cake taliwala sa ubang dessert, luna sa display ug lugar sa delivery. Dayon itandi ang available nga gidak-on, flavour, pamaagi sa disenyo ug kumpirmadong presyo gamit ang parehas nga brief.
+
+Mas daghan og bahin ang mas dako nga cake, apan nanginahanglan kini og luna sa lamesa ug lahi nga handoff plan. Mas sayon basahon ang mubo nga mensahe sa simple nga disenyo. Kon limitado ang access o hugot ang programa, sama kaimportante sa dekorasyon ang mahimo nga delivery ug kumpirmadong window. Pangutan-a ang panaderya unsang kapilian ang available sa aktuwal nga petsa.
+
+Gamita ang sinulat nga quote aron patas ang pagtandi: gidak-on, flavour, disenyo, inskripsiyon, deposit ug delivery terms. Ayaw isipon nga pamatuod sa availability ang daang Sinulog photo o generic nga serving estimate online. Tan-awa ang [giya unsang cake ang pilion](/journal/which-cake.html) para sa susamang pagtandi sa ubang okasyon sa Cebu.
+
+## Tagalog
+
+# Paano Paghambingin ang mga Pagpipilian sa Cake para sa Pagtitipon ng Sinulog sa Cebu
+
+Ihambing ang mga cake ayon sa pangangailangan ng event, hindi sa mga larawan lang. Una, ilista ang bilang ng bisitang naroroon sa oras ng paghahain, papel ng cake sa iba pang dessert, espasyo sa display, at lugar ng delivery. Pagkatapos, ihambing ang available na sukat, flavour, paraan ng design, at kumpirmadong presyo gamit ang parehong brief.
+
+Maaaring mas maraming serving ang malaking cake pero mangailangan ito ng mas maluwag na mesa at ibang handoff plan. Mas madaling basahin ang maikling mensahe sa simpleng design. Kung limitado ang access o mahigpit ang programa, kasinghalaga ng dekorasyon ang delivery feasibility at kumpirmadong window. Itanong sa bakery kung aling opsyon ang available sa mismong petsa.
+
+Gumamit ng nakasulat na quote para patas ang paghahambing: sukat, flavour, design, inscription, deposito, at delivery terms. Huwag ituring na patunay ng availability ang lumang Sinulog photo o pangkalahatang serving estimate online. Tingnan ang [gabay kung aling cake ang pipiliin](/journal/which-cake.html) para sa parehong paraan ng paghahambing sa ibang okasyon sa Cebu.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi ang mga opsyon sa Sinulog cake uban sa ruta ug mga panginahanglan sa pag-alagad sa hunahuna
-
-Pagsugod sa plano sa pagserbisyo. Ang kasamtangang White Cakes nga gibanabana mao ang 8–12 ka parti nga bahin gikan sa 6 ka pulgada, 16–24 gikan sa 8 ka pulgada, ug 30–36 gikan sa 6+8-pulgada nga two-tier nga cake. Ang mga numero gibanabana. Sultihi ang panaderya kon pila ka tawo ang aktuwal nga mokaon ug cake ug kon duna bay ubang mga dessert.
-
-Sunod, itandi ang laraw sa laraw. Ang usa ka yano nga paleta sa kolor sa festival mahimong lahi nga trabaho gikan sa usa ka detalyado nga kostumbre nga simbolo o letra. Pagpadala ug usa ka reperensiya ug pangutan-a kung unsang mga bahin ang mahimo ug unsa ang gilakip sa kinutlo. Kumpirma nga ang gipangayo nga palami anaa sa petsa.
-
-Ang Sinulog mahimong makaapekto sa pag-access sa siyudad ug timing sa paghatod. Ipaambit ang eksaktong adres, landmark, pagdawat sa kontak, ug mga instruksyon sa lugar. Pangutan-a ang panaderya nga kumpirmahon kung magamit ba ang pagpadala, bintana, ug bayad. Susiha ang petsa sayo; Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo. Ang usa ka 50% nga deposito nagsiguro sa gikasabutan nga order sa higayon nga ang disenyo ug logistik makumpirma.
-
-Itago ang kasamtangan nga datos sa produkto ug presyo sa gipaambit nga giya sa pagpili. Idugang ang mga lagda sa paghatod sa festival human lang mapamatud-an kini sa White Cakes.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ihambing ang mga pagpipilian sa Sinulog cake sa ruta at mga pangangailangan sa paghahatid sa isip
-
-Magsimula sa plano ng paghahatid. Ang kasalukuyang mga pagtatantya ng White Cakes ay 8–12 party portion mula sa 6 na pulgada, 16–24 mula sa 8 pulgada, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ang mga numero ay tinatayang. Sabihin sa panaderya kung gaano karaming tao ang talagang kakain ng cake at kung may iba pang mga dessert.
-
-Susunod, ihambing ang saklaw ng disenyo. Ang isang simpleng paleta ng kulay ng festival ay maaaring iba ang gawa mula sa isang detalyadong custom na simbolo o titik. Magpadala ng isang sanggunian at itanong kung aling mga bahagi ang magagawa at kung ano ang kasama sa quote. Kumpirmahin na ang hiniling na lasa ay magagamit sa petsa.
-
-Maaaring makaapekto ang Sinulog sa pag-access sa lungsod at tiyempo ng paghahatid. Ibahagi ang eksaktong address, landmark, pagtanggap ng contact, at mga tagubilin sa lugar. Hilingin sa panaderya na kumpirmahin kung available ang paghahatid, ang bintana, at bayad. Tingnan ang petsa nang maaga; ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Sinisiguro ng 50% na deposito ang napagkasunduang order kapag nakumpirma na ang disenyo at logistik.
-
-Panatilihin ang kasalukuyang data ng produkto at pagpepresyo sa nakabahaging gabay sa pagpili. Magdagdag lamang ng mga panuntunan sa paghahatid ng festival pagkatapos ma-verify ang mga ito ng White Cakes.
+- Confirm current event-specific details and service availability before publication.
+- Cebuano and Tagalog drafts need native editorial review.
