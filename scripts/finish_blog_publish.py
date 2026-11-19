@@ -30,6 +30,7 @@ CROSSLINKS = {
     ],
     "birthday-cakes-cebu": [
         ("debut-cake-cebu.html",),
+        ("60th-birthday-cake-cebu.html",),
         ("first-birthday-sinulog-cake-cebu.html",),
         ("congratulations-cake-cebu.html",),
         ("what-is-a-bento-cake.html",),
