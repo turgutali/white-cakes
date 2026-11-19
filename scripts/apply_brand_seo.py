@@ -132,6 +132,8 @@ COLLECTION = [
 SITEMAP_PAGES = [
     ("/", "weekly", "1.0"),
     ("/bento-cakes-cebu/", "monthly", "0.9"),
+    ("/bento-cakes-cebu-ceb/", "monthly", "0.9"),
+    ("/bento-cakes-cebu-tagalog/", "monthly", "0.9"),
     ("/bouquet-cakes-cebu/", "monthly", "0.9"),
     ("/custom-cakes-cebu/", "monthly", "0.9"),
     ("/birthday-cakes-cebu/", "monthly", "0.85"),
@@ -1146,6 +1148,8 @@ Orders need at least three days' notice. Tell us the design, flavour, date, word
 - [About]({BASE}/about/) — Facts: name, kitchen, delivery areas, and contact.
 - [Order]({BASE}/order/) — Design a cake and send the order.
 - [Bento cakes]({BASE}/bento-cakes-cebu/) — 4-inch bento cakes.
+- [Bento cakes in Cebuano]({BASE}/bento-cakes-cebu-ceb/) — Product, price, and delivery details in Cebuano.
+- [Bento cakes in Tagalog]({BASE}/bento-cakes-cebu-tagalog/) — Product, price, and delivery details in Tagalog.
 - [Bouquet cakes]({BASE}/bouquet-cakes-cebu/) — Piped bouquet-style buttercream cakes.
 - [Custom cakes]({BASE}/custom-cakes-cebu/) — Signature Marble and custom celebration cakes.
 - [Birthday cakes]({BASE}/birthday-cakes-cebu/) — Birthday cakes made to order.

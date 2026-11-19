@@ -2,7 +2,7 @@
 
 ## Current verified state (2026-11-19)
 
-- The live sitemap contains 211 unique URLs, including 193 Journal articles (excluding the `/journal/` index). This includes seven newly completed topics translated into Cebuano and Tagalog (14 URLs), bringing the Journal to 65 English, 64 Cebuano, and 64 Tagalog articles: 64 complete three-language topic groups plus one English-only birthday-message page. The newly added articles checked after deployment returned HTTP 200 and declared their own canonical URLs. This establishes fetchability for those checked URLs, not that Google has crawled or indexed them.
+- The live sitemap contains 213 unique URLs, including 193 Journal articles (excluding the `/journal/` index). This includes seven newly completed topics translated into Cebuano and Tagalog (14 URLs) and localized Cebuano and Tagalog Bento service pages (2 URLs), bringing the Journal to 65 English, 64 Cebuano, and 64 Tagalog articles: 64 complete three-language topic groups plus one English-only birthday-message page. The newly added articles checked after deployment returned HTTP 200 and declared their own canonical URLs. This establishes fetchability for those checked URLs, not that Google has crawled or indexed them.
 - The public robots file permits Googlebot, Bingbot, OAI-SearchBot, GPTBot, ClaudeBot, and PerplexityBot. `llms.txt` lists the current service areas, prices, key pages, and Journal articles.
 - On 2026-11-19, after the journal content work was live, IndexNow accepted seven updated article URLs in one request (HTTP 200). The follow-up Cebuano pricing update changed `/journal/asa-magpa-order-cake-cebu.html` and `/journal/`; IndexNow accepted both in one request (HTTP 200). After the order-wizard image description update, IndexNow accepted `/order/` (HTTP 200). These notifications inform IndexNow-participating engines; they are not Google indexing requests or guarantees.
 - After the 2026-11-19 trilingual content deployment, IndexNow accepted 175 changed canonical URLs in one request (HTTP 200). This is a notification only, not a crawl or indexing guarantee.
@@ -11,9 +11,9 @@
 
 ## Google Search Console
 
-The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the final 197-URL sitemap was successfully resubmitted from Brave. Search Console reports `Success` and 197 discovered pages. This confirms sitemap processing and discovery, not that every page is indexed or ranking.
+The property is signed in under `info@thewhitecakes.com`. On 2026-11-19, the final 197-URL sitemap was successfully resubmitted from Brave. Search Console reported `Success` and 197 discovered pages. The live sitemap now has 213 URLs; the property has not been manually resubmitted since those new URLs were published. This confirms prior sitemap processing and discovery, not that every page is indexed or ranking.
 
-The Page indexing report was still processing. The latest three-month Performance report showed 14 impressions, 0 clicks, 0% CTR, and average position 14.8, with data only through 2026-11-16. This sample is too small to support a broad demand forecast.
+The Page indexing report was still processing. The latest Performance report, checked in the signed-in info@thewhitecakes.com property on 2026-11-19, showed 36 impressions, 2 clicks, 5.6% CTR, and average position 11.9 for the displayed 2026-11-14–17 dates. Its seven visible queries were all Bento-related: “bento cakes,” “bento cake bakery,” “bento cake cebu,” “affordable bento cakes near me,” “bento cake meaning,” “what is a bento cake,” and “what is bento cakes.” The small query count and one- or two-impression rows are directional only, not a demand forecast. This makes the existing Bento product page and language guides the best current on-site cluster to strengthen.
 
 URL Inspection results on 2026-11-19:
 
