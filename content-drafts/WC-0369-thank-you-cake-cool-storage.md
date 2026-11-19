@@ -1,38 +1,51 @@
 ---
 id: WC-0369
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html; confirm advice for the ordered product
-english_title: "How to keep safe and cool until serving thank-you cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake isip pasalamat sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake bilang pasasalamat sa Cebu"
+english_title: "How to Keep a Thank-You Cake Safe and Cool Until Serving in Cebu"
+cebuano_title: "Giunsa Pagpabiling Luwas ug Bugnaw ang Thank-You Cake hangtod I-serve sa Cebu"
+tagalog_title: "Paano Panatilihing Ligtas at Malamig ang Thank-You Cake Hanggang Ihain sa Cebu"
 ---
 
-## Ask how this cake should be stored before the thank-you event
+## English
 
-The right care depends on the cake’s filling, frosting, and decoration, so ask White Cakes for instructions for the exact order. Tell the bakery how long the cake may wait before serving and whether the venue is warm or air-conditioned. Arrange for someone to receive it promptly and keep the box level, away from direct sun.
+# How to Keep a Thank-You Cake Safe and Cool Until Serving in Cebu
 
-Do not use a generic refrigeration or room-temperature time for every cake. Follow the baker’s directions and contact the bakery if the event schedule changes or the cake will be held longer than expected. If the cake travels between venues, ask how to secure it during the trip.
+Decide where the cake will wait after delivery and before the thank-you moment. A shaded indoor location is generally easier to manage than a sunny table, warm car, or open-air area. Ask the bakery for storage instructions for the specific product; fillings and decorations can have different requirements.
 
-Keep this advice in the single Cebu heat-care guide. Product-specific handling information should be confirmed before publication and updated when the bakery changes its instructions.
+If the cake is going to an office or event venue, confirm in advance who will receive it and whether a suitable storage space is available. Do not assume reception staff can refrigerate the cake or keep it level unless they have agreed. Share any handling instructions with the person responsible for the order.
+
+Avoid leaving the cake in a vehicle or moving it repeatedly between warm and cool locations. If it will be displayed outdoors or the schedule changes, ask the bakery how to handle that situation. Do not guess a safe holding time based on appearance alone.
+
+Keep the cake level and follow the bakery’s advice until serving. White Cakes confirms a delivery window rather than an exact minute, so coordinate a receiver and allow time before the presentation. For local heat considerations, see the [buttercream cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Cebuano
+
+# Giunsa Pagpabiling Luwas ug Bugnaw ang Thank-You Cake hangtod I-serve sa Cebu
+
+Desisyoni asa maghulat ang cake human ma-deliver ug sa dili pa ang pagpasalamat. Mas sayon atimanon ang landong nga lugar sulod sa balay kaysa lamesa nga initan sa adlaw, init nga sakyanan o open-air nga luna. Pangayo og storage instructions sa panaderya para sa espesipikong produkto; mahimong lahi ang kinahanglan sa filling ug dekorasyon.
+
+Kung ipadala sa opisina o venue sa event ang cake, kumpirmaha daan kinsa ang modawat ug kon adunay angay nga storage space. Ayaw pagtuo nga ma-refrigerate o mapatag kini sa reception staff kon wala sila mouyon. Ipaambit ang mga instruksyon sa pag-atiman sa responsable sa order.
+
+Likayi ang pagbilin sa cake sa sakyanan o sige og balhin tali sa init ug bugnaw nga lugar. Kung ipakita kini sa gawas o mausab ang iskedyul, pangutan-a ang panaderya unsaon pag-atiman niini. Ayaw tagna ang luwas nga oras base lang sa hitsura.
+
+Ibutang nga patag ug sunda ang tambag sa panaderya hangtod i-serve. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa pag-coordinate og modawat ug hatagi og panahon sa dili pa ipresentar. Para sa kainit sa lugar, tan-awa ang [buttercream cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Tagalog
+
+# Paano Panatilihing Ligtas at Malamig ang Thank-You Cake Hanggang Ihain sa Cebu
+
+Pagpasiyahan kung saan maghihintay ang cake pagkatapos ng delivery at bago ang pasasalamat. Mas madaling pangasiwaan ang may-lilim na lugar sa loob kaysa mesang nasisikatan ng araw, mainit na sasakyan, o open-air na espasyo. Humingi ng storage instructions sa bakery para sa partikular na produkto; maaaring magkaiba ang pangangailangan ng filling at dekorasyon.
+
+Kung sa opisina o event venue ihahatid ang cake, kumpirmahin nang maaga kung sino ang tatanggap at kung may angkop na storage space. Huwag ipalagay na ilalagay ito sa refrigerator o pananatilihing patag ng reception staff kung hindi sila pumayag. Ibahagi ang mga tagubilin sa paghawak sa taong responsable sa order.
+
+Iwasang iwan ang cake sa sasakyan o paulit-ulit na ilipat sa pagitan ng mainit at malamig na lugar. Kung ipapakita ito sa labas o magbago ang schedule, itanong sa bakery kung paano ito hahawakan. Huwag hulaan ang ligtas na oras batay lang sa itsura.
+
+Panatilihing patag ang cake at sundin ang payo ng bakery hanggang ihain. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya magtalaga ng tatanggap at maglaan ng oras bago ang presentation. Para sa init sa lugar, tingnan ang [buttercream cake care guide](/journal/buttercream-in-cebu-heat.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangutan-a kung giunsa kini nga cake kinahanglan tipigan sa dili pa ang pasalamat nga kalihokan
-
-Ang husto nga pag-atiman nagdepende sa pagpuno, pagyelo, ug dekorasyon sa cake, busa pangutan-a ang White Cakes alang sa mga instruksyon alang sa eksaktong pagkahan-ay. Sultihi ang panaderya kung unsa ka dugay ang cake mahimong maghulat sa dili pa i-serve ug kung ang lugar init o air-conditioned. Paghan-ay alang sa usa ka tawo nga makadawat niini dayon ug ibutang ang lebel sa kahon, layo sa direkta nga adlaw.
-
-Ayaw gamita ang usa ka generic nga refrigerasyon o oras sa temperatura sa kwarto alang sa matag cake. Sunda ang mga direksyon sa panadero ug kontaka ang panaderya kon ang eskedyul sa kalihokan mausab o ang cake mas dugay kay sa gipaabot. Kung ang cake mobiyahe tali sa mga lugar, pangutana kung giunsa kini pagsiguro sa pagbiyahe.
-
-Itago kini nga tambag sa usa ka giya sa pag-atiman sa kainit sa Cebu. Ang impormasyon sa pagdumala nga espesipiko sa produkto kinahanglang kumpirmahon sa dili pa imantala ug ma-update kon ang panaderya mag-usab sa mga instruksiyon niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itanong kung paano dapat itabi ang cake na ito bago ang kaganapang pasasalamat
-
-Ang tamang pangangalaga ay nakasalalay sa pagpuno, pagyelo, at dekorasyon ng cake, kaya humingi ng mga tagubilin sa White Cake para sa eksaktong pagkakasunud-sunod. Sabihin sa panaderya kung gaano katagal maaaring maghintay ang cake bago ihain at kung ang lugar ay mainit o naka-air condition. Ayusin para sa isang tao na makatanggap nito kaagad at panatilihin ang antas ng kahon, malayo sa direktang araw.
-
-Huwag gumamit ng generic na pagpapalamig o oras sa temperatura ng silid para sa bawat cake. Sundin ang mga direksyon ng panadero at makipag-ugnayan sa panaderya kung nagbabago ang iskedyul ng kaganapan o ang cake ay gaganapin nang mas matagal kaysa sa inaasahan. Kung ang cake ay naglalakbay sa pagitan ng mga lugar, tanungin kung paano ito i-secure sa panahon ng biyahe.
-
-Panatilihin ang payong ito sa iisang Cebu heat-care guide. Ang impormasyon sa pangangasiwa na partikular sa produkto ay dapat kumpirmahin bago ilathala at i-update kapag binago ng panaderya ang mga tagubilin nito.
+- Confirm product-specific storage guidance before publication.
+- Cebuano and Tagalog drafts need native editorial review.

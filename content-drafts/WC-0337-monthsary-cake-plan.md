@@ -1,44 +1,51 @@
 ---
 id: WC-0337
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to plan monthsary cake in Cebu"
-cebuano_title: "Giunsa pagplano ang cake para sa monthsary sa Cebu"
-tagalog_title: "Paano planuhin ang cake para sa monthsary sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/monthsary-cakes-cebu.html and /journal/how-to-order.html
+english_title: "A Simple Plan for Ordering a Monthsary Cake in Cebu"
+cebuano_title: "Yano nga Plano sa Pag-order og Monthsary Cake sa Cebu"
+tagalog_title: "Simpleng Plano sa Pag-order ng Monthsary Cake sa Cebu"
 ---
 
-## Plan a monthsary cake for the actual gathering
+## English
 
-For a small celebration, decide first how many people will share cake. A compact design can work well for two people, but a 4-inch Bento serves about two generous portions or three modest ones. If friends or family will join, tell the bakery the number of cake eaters and ask whether a larger size is a better fit.
+# A Simple Plan for Ordering a Monthsary Cake in Cebu
 
-White Cakes' guide estimates around 8–12 party slices from a 6-inch cake and 16–24 from an 8-inch cake. These are not exact guarantees; slice size and the rest of the dessert menu matter. Send the date, preferred flavour, design reference, and exact inscription together so the bakery can advise without multiple rounds of clarification.
+Use a small plan to keep a monthsary cake from becoming a last-minute surprise with no confirmed receiver. First agree on the date and whether the celebration is for two or includes friends. Decide when you will share the cake, where it will be received, and who can help if the plan changes.
 
-Made-to-order cakes require at least three days' notice. Check availability for the date and confirm pickup or delivery details, including the full address, landmark, receiving mobile number, delivery window, and fee. A 50% deposit confirms the agreed order after the design and terms are settled.
+Then choose the cake around the moment. A 4-inch Bento is intended for about two generous or three modest portions after a meal. For friends joining, check the current size guide and ask the bakery which product fits the guest count. Pick a current-menu flavour, then decide whether the message should show names, a month number, or a short phrase. One clear design detail usually gives the decorator enough direction.
 
-Do not create another page that repeats the size chart. Add the small-gathering example to the central serving guide and keep the portion estimates consistent across the site.
+If you are ordering a recurring cake, note what you want to repeat and what should change this month. Confirm that the date and product are available each time; last month’s order does not guarantee the same design, price, or schedule. White Cakes’ current ordering information requests at least three days’ notice, and earlier contact may be needed for a busy date or more involved decoration.
+
+Send the complete brief at once: date, size, flavour, exact inscription, design reference, pickup or delivery, full address, and receiver’s mobile number. Ask for the total price and payment terms in writing. Before paying the current 50% deposit, check that the confirmation reflects the date and message you intend. For more detail, see the [monthsary cake guide](/journal/monthsary-cakes-cebu.html) and [cake ordering guide](/journal/how-to-order.html).
+
+## Cebuano
+
+# Yano nga Plano sa Pag-order og Monthsary Cake sa Cebu
+
+Gamita ang yano nga plano aron dili mahimong last-minute surprise ang monthsary cake nga walay nakumpirmang modawat. Kumpirmaha una ang petsa ug kung para ba sa duha ang selebrasyon o apil ang higala. Desisyoni kanus-a ninyo i-share ang cake, asa kini dawaton ug kinsa ang makatabang kon mausab ang plano.
+
+Pagpili dayon sa cake base sa higayon. Para sa 4-inch Bento, mga duha ka dagkong o tulo ka gagmay nga serving human sa pagkaon ang tuyo. Kung moapil ang higala, susiha ang kasamtangang size guide ug pangutan-a ang panaderya unsang produkto ang mohaom sa gidaghanon sa bisita. Pagpili og flavour sa kasamtangang menu ug desisyoni kung ibutang ba ang ngalan, ihap sa bulan o mubo nga pulong. Kasagarang igo na ang usa ka klarong detalye sa disenyo aron masabtan sa decorator.
+
+Kung kada bulan mag-order, timan-i unsay sublion ug unsay usbon karon. Kumpirmaha matag higayon ang availability sa petsa ug produkto; dili garantiya sa parehas nga disenyo, presyo o iskedyul ang order sa miaging bulan. Nangayo ang kasamtangang ordering information sa White Cakes og labing menos tulo ka adlaw nga pahibalo, ug mahimong kinahanglan og mas sayo nga pagkontak para sa busy nga petsa o komplikadong dekorasyon.
+
+Ipadala dayon ang kompletong brief: petsa, gidak-on, flavour, eksaktong inskripsiyon, reference sa disenyo, pickup o delivery, kompletong address ug mobile number sa modawat. Pangayoa sa sinulat ang tibuok presyo ug kondisyon sa bayad. Sa dili pa mobayad sa kasamtangang 50% nga deposito, susiha nga motakdo ang kumpirmasyon sa petsa ug mensahe nga imong gusto. Para sa dugang detalye, tan-awa ang [monthsary cake guide](/journal/monthsary-cakes-cebu.html) ug [cake ordering guide](/journal/how-to-order.html).
+
+## Tagalog
+
+# Simpleng Plano sa Pag-order ng Monthsary Cake sa Cebu
+
+Gumamit ng simpleng plano para hindi mauwi sa last-minute surprise na walang kumpirmadong tatanggap ang monthsary cake. Kumpirmahin muna ang petsa at kung para sa dalawa ang selebrasyon o may kasamang mga kaibigan. Pagpasiyahan kung kailan pagsasaluhan ang cake, saan ito tatanggapin, at sino ang tutulong kung magbago ang plano.
+
+Pagkatapos, piliin ang cake ayon sa sandali. Para sa 4-inch Bento, layunin nito ang mga dalawang generous o tatlong modest na portion pagkatapos kumain. Kung sasama ang mga kaibigan, tingnan ang kasalukuyang size guide at itanong sa bakery kung aling produkto ang babagay sa bilang ng bisita. Pumili ng flavour mula sa kasalukuyang menu, saka pagpasiyahan kung pangalan, bilang ng buwan, o maikling parirala ang ilalagay. Karaniwang sapat na ang isang malinaw na detalye ng disenyo para magabayan ang decorator.
+
+Kung umuulit ang order bawat buwan, itala kung ano ang uulitin at ano ang babaguhin sa buwang ito. Kumpirmahin sa bawat pagkakataon kung available ang petsa at produkto; hindi garantiya ng parehong disenyo, presyo, o schedule ang order noong nakaraang buwan. Humihingi ang kasalukuyang ordering information ng White Cakes ng hindi bababa sa tatlong araw na notice, at maaaring kailanganin ang mas maagang pag-contact para sa busy na petsa o mas masalimuot na dekorasyon.
+
+Ipadala nang sabay-sabay ang buong brief: petsa, sukat, flavour, eksaktong inscription, design reference, pickup o delivery, buong address, at mobile number ng tatanggap. Hingin sa sulat ang buong presyo at payment terms. Bago magbayad ng kasalukuyang 50% deposit, tiyaking tugma ang confirmation sa petsa at mensaheng gusto mo. Para sa dagdag na detalye, tingnan ang [monthsary cake guide](/journal/monthsary-cakes-cebu.html) at [cake ordering guide](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano ug monthsary cake para sa aktuwal nga panagtapok
-
-Alang sa usa ka gamay nga selebrasyon, pagdesisyon una kung pila ka tawo ang makigbahin sa cake. Ang usa ka compact nga disenyo mahimong maayo alang sa duha ka tawo, apan ang usa ka 4-pulgada nga Bento nagsilbi mga duha ka ubay-ubay nga mga bahin o tulo nga kasarangan. Kung ang mga higala o pamilya moapil, sultihi ang panaderya sa gidaghanon sa mga mokaon og cake ug pangutana kon ang mas dako nga gidak-on mas angay.
-
-Gibanabana sa giya sa White Cakes ang mga 8–12 ka hiwa sa party gikan sa 6-pulgada nga cake ug 16–24 gikan sa 8-pulgada nga cake. Dili kini eksakto nga mga garantiya; gidak-on sa slice ug ang nahabilin sa dessert menu hinungdanon. Ipadala ang petsa, gusto nga lami, reference sa disenyo, ug eksakto nga inskripsiyon aron makatambag ang panaderya nga walay daghang mga hugna sa pagpatin-aw.
-
-Ang hinimo nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo. Susihon ang pagkaanaa alang sa petsa ug kumpirmahi ang mga detalye sa pagkuha o paghatud, lakip ang tibuuk nga adres, landmark, pagdawat nga numero sa mobile, bintana sa pagpadala, ug bayad. Ang usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order human ang disenyo ug mga termino nahusay.
-
-Ayaw paghimo og laing panid nga nagsubli sa tsart sa gidak-on. Idugang ang gamay nga panagtapok nga panig-ingnan sa sentro nga giya sa pag-alagad ug ipadayon ang mga banabana sa bahin nga makanunayon sa tibuok site.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng monthsary cake para sa aktwal na pagtitipon
-
-Para sa isang maliit na pagdiriwang, magpasya muna kung gaano karaming tao ang makibahagi sa cake. Ang isang compact na disenyo ay maaaring gumana nang maayos para sa dalawang tao, ngunit ang isang 4-inch na Bento ay naghahain ng halos dalawang masaganang bahagi o tatlong maliit na bahagi. Kung sasali ang mga kaibigan o pamilya, sabihin sa panaderya ang bilang ng mga kumakain ng cake at tanungin kung mas bagay ang mas malaking sukat.
-
-Tinatantya ng gabay ng White Cakes ang humigit-kumulang 8–12 party slice mula sa isang 6-inch na cake at 16–24 mula sa isang 8-inch na cake. Ang mga ito ay hindi eksaktong mga garantiya; laki ng slice at ang natitirang bahagi ng dessert menu ay mahalaga. Ipadala ang petsa, gustong lasa, sanggunian sa disenyo, at eksaktong inskripsiyon nang magkasama upang makapagbigay ng payo ang panaderya nang walang maraming paglilinaw.
-
-Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Suriin ang availability para sa petsa at kumpirmahin ang mga detalye ng pagkuha o paghahatid, kabilang ang buong address, landmark, pagtanggap ng mobile number, delivery window, at bayad. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang disenyo at mga tuntunin.
-
-Huwag gumawa ng isa pang page na inuulit ang size chart. Idagdag ang halimbawa ng maliit na pagtitipon sa gabay sa gitnang paghahatid at panatilihing pare-pareho ang mga pagtatantya ng bahagi sa buong site.
+- Reconfirm current lead time, availability, deposit terms, and delivery instructions before publication.
+- Cebuano and Tagalog drafts need native editorial review.

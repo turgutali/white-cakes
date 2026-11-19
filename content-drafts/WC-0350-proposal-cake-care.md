@@ -1,44 +1,51 @@
 ---
 id: WC-0350
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/buttercream-in-cebu-heat.html and /journal/proposal-cake-cebu.html
-english_title: "How to keep safe and cool until serving proposal cake in Cebu"
-cebuano_title: "Giunsa pagpabiling luwas ug bugnaw hangtod i-serve ang cake para sa proposal sa Cebu"
-tagalog_title: "Paano panatilihing ligtas at malamig hanggang ihain ang cake para sa proposal sa Cebu"
+english_title: "How to Keep a Proposal Cake Safe and Cool Until Serving in Cebu"
+cebuano_title: "Giunsa Pagpabiling Luwas ug Bugnaw ang Proposal Cake hangtod I-serve sa Cebu"
+tagalog_title: "Paano Panatilihing Ligtas at Malamig ang Proposal Cake Hanggang Ihain sa Cebu"
 ---
 
-## Keep the proposal cake cool while you arrange the moment
+## English
 
-Plan the handover so the cake does not wait in the sun while the proposal is being set up. Choose a receiver who knows when the delivery window is and where to keep the box. White Cakes' handling guidance says buttercream cakes should stay out of direct sun and hot cars; if they will be held for several hours, refrigerate them. Do not leave the cake unattended at a gate or with someone who cannot keep it in a suitable place.
+# How to Keep a Proposal Cake Safe and Cool Until Serving in Cebu
 
-For a surprise, use the buyer's number for order questions and give the recipient or venue contact's number only for delivery coordination. Confirm the exact address, landmark, entrance, and a person who can receive the cake. If the proposal takes place at a restaurant or venue, check its access and storage arrangements in advance.
+Plan where the cake will wait between handoff and the proposal reveal. A shaded indoor space is generally easier to manage than a sunny table, a parked vehicle, or an outdoor area. Ask the bakery for storage guidance for the specific cake and follow it; do not assume every filling or decoration has the same temperature needs.
 
-Send the event date, cake size, flavour, short inscription, and delivery details together. A 4-inch Bento is small and has limited message space; ask whether the wording fits. White Cakes requests at least three days' notice and confirms availability before the order is booked.
+Coordinate with the receiver or venue staff before delivery. Tell them when the cake is expected, where it should be kept, and who may move it. Keep the cake level and away from direct sunlight, heat sources, and unnecessary handling. If refrigeration is recommended, confirm that the venue has suitable space and that the cake can be placed there safely.
 
-Add this practical handling note to the shared cake-care guide and proposal page. Do not promise that a delivery can remain secret; coordinate directly with the person who can accept it.
+Avoid leaving the cake in a vehicle while waiting for the reveal. If the event location changes or the cake will be outdoors, ask the bakery how to handle that situation before confirming the plan. Do not improvise storage instructions based only on the weather or the cake’s appearance.
+
+Set a realistic reveal buffer because White Cakes confirms a delivery window, not an exact minute. The person receiving the cake should check the label, move it carefully, and follow the bakery’s advice until serving. For Cebu heat and buttercream care, see the [cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Cebuano
+
+# Giunsa Pagpabiling Luwas ug Bugnaw ang Proposal Cake hangtod I-serve sa Cebu
+
+Pagplano asa maghulat ang cake tali sa pagdawat ug oras sa proposal reveal. Mas sayon atimanon ang lugar sulod sa balay nga landong kaysa lamesa nga initan sa adlaw, sakyanang giparking, o outdoor nga lugar. Pangayo og storage guidance sa panaderya para sa espesipikong cake ug sunda kini; ayaw pagtuo nga pareho ang panginahanglan sa tanang filling ug dekorasyon.
+
+Makig-coordinate sa modawat o staff sa venue sa dili pa ang delivery. Sultihi sila kanus-a gipaabot ang cake, asa kini ibutang ug kinsa ang mahimong mobalhin niini. Ibutang nga patag ug layo sa direktang adlaw, tinubdan sa kainit ug dili kinahanglan nga paghawid. Kung girekomendar ang refrigeration, kumpirmaha nga adunay angay nga luna ang venue ug luwas kini ibutang didto.
+
+Likayi ang pagbilin sa cake sa sakyanan samtang naghulat sa reveal. Kung mausab ang lugar o outdoor ang event, pangutan-a ang panaderya unsaon pag-atiman niini sa dili pa mokumpirma sa plano. Ayaw paghimo og storage instructions base lang sa panahon o hitsura sa cake.
+
+Pagbutang og realistiko nga buffer sa reveal kay delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Susiha sa modawat ang label, ibalhin kini pag-ayo ug sunda ang tambag sa panaderya hangtod i-serve. Para sa kainit sa Cebu ug pag-atiman sa buttercream, tan-awa ang [cake care guide](/journal/buttercream-in-cebu-heat.html).
+
+## Tagalog
+
+# Paano Panatilihing Ligtas at Malamig ang Proposal Cake Hanggang Ihain sa Cebu
+
+Pagplanuhan kung saan maghihintay ang cake mula handoff hanggang proposal reveal. Mas madaling pangasiwaan ang may-lilim na lugar sa loob kaysa mesang nasisikatan ng araw, nakaparadang sasakyan, o outdoor na lugar. Humingi ng storage guidance sa bakery para sa partikular na cake at sundin ito; huwag ipalagay na pare-pareho ang pangangailangan ng lahat ng filling at dekorasyon.
+
+Makipag-coordinate sa tatanggap o staff ng venue bago ang delivery. Sabihin kung kailan inaasahan ang cake, saan ito ilalagay, at sino ang maaaring maglipat nito. Panatilihing patag at ilayo sa direktang sikat ng araw, pinagmumulan ng init, at hindi kailangang paghawak. Kung inirerekomenda ang refrigeration, tiyaking may angkop na espasyo ang venue at ligtas itong mailalagay roon.
+
+Iwasang iwan ang cake sa sasakyan habang hinihintay ang reveal. Kung magbabago ang lokasyon o outdoor ang event, itanong muna sa bakery kung paano ito hahawakan bago kumpirmahin ang plano. Huwag mag-imbento ng storage instruction batay lang sa panahon o itsura ng cake.
+
+Maglaan ng makatotohanang palugit bago ang reveal dahil delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Dapat tingnan ng tatanggap ang label, maingat na ilipat ang cake, at sundin ang payo ng bakery hanggang ihain. Para sa init sa Cebu at pag-aalaga sa buttercream, tingnan ang [cake care guide](/journal/buttercream-in-cebu-heat.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hupti nga cool ang proposal nga cake samtang imong gihikay ang higayon
-
-Planoha ang paghatag aron ang cake dili maghulat sa adlaw samtang ang proposal gipahimutang. Pagpili og tigdawat nga nahibalo kon kanus-a ang delivery window ug asa ibutang ang kahon. Ang giya sa pagdumala sa White Cakes nag-ingon nga ang buttercream nga mga cake kinahanglan nga dili direkta nga adlaw ug init nga mga sakyanan; kon kini ipahigayon sulod sa daghang oras, pabugnawa sila. Ayaw ibilin ang cake nga wala maatiman sa usa ka ganghaan o sa usa nga dili makatago niini sa usa ka angay nga lugar.
-
-Alang sa usa ka surpresa, gamita ang numero sa pumapalit alang sa mga pangutana sa pag-order ug hatagi ang nakadawat o numero sa kontak sa lugar alang lamang sa koordinasyon sa pagpadala. Kumpirma ang eksaktong adres, landmark, entrance, ug usa ka tawo nga makadawat sa cake. Kung ang sugyot mahitabo sa usa ka restawran o lugar, susiha daan ang mga kahikayan sa pag-access ug pagtipig niini.
-
-Ipadala ang petsa sa panghitabo, gidak-on sa cake, lami, mubo nga inskripsiyon, ug mga detalye sa pagpadala. Ang usa ka 4-pulgada nga Bento gamay ug adunay limitado nga espasyo sa mensahe; pangutana kon haom ba ang mga pulong. Ang mga White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo ug gikumpirma ang pagkaanaa sa wala pa ma-book ang order.
-
-Idugang kining praktikal nga nota sa pagdumala sa gipaambit nga giya sa pag-atiman sa cake ug panid sa sugyot. Ayaw pagsaad nga ang paghatud mahimong magpabilin nga sekreto; makig-coordinate direkta sa tawo nga makadawat niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Panatilihing cool ang proposal cake habang inaayos mo ang sandali
-
-Planuhin ang handover upang ang cake ay hindi maghintay sa araw habang ang panukala ay itinatakda. Pumili ng receiver na nakakaalam kung kailan ang delivery window at kung saan ilalagay ang kahon. Ang gabay sa pangangasiwa ng White Cakes ay nagsasabing ang mga buttercream cake ay dapat manatili sa labas ng direktang araw at mainit na mga sasakyan; kung sila ay gaganapin ng ilang oras, palamigin ang mga ito. Huwag iwanan ang cake nang walang pag-aalaga sa isang tarangkahan o sa isang taong hindi kayang itago ito sa isang angkop na lugar.
-
-Para sa isang sorpresa, gamitin ang numero ng mamimili para sa mga katanungan sa pag-order at ibigay ang numero ng contact ng tatanggap o venue para lamang sa koordinasyon sa paghahatid. Kumpirmahin ang eksaktong address, landmark, pasukan, at isang taong makakatanggap ng cake. Kung ang panukala ay magaganap sa isang restaurant o venue, suriin nang maaga ang access at storage arrangement nito.
-
-Ipadala ang petsa ng kaganapan, laki ng cake, lasa, maikling inskripsiyon, at mga detalye ng paghahatid nang magkasama. Ang 4-inch na Bento ay maliit at may limitadong espasyo sa mensahe; itanong kung akma ang mga salita. Humihiling ang White Cakes ng hindi bababa sa tatlong araw na paunawa at kinukumpirma ang availability bago ma-book ang order.
-
-Idagdag ang praktikal na tala sa paghawak sa nakabahaging gabay sa pangangalaga ng cake at pahina ng panukala. Huwag ipangako na ang isang paghahatid ay maaaring manatiling lihim; direktang makipag-ugnayan sa taong makakatanggap nito.
+- Confirm cake-specific storage advice with the bakery before publication.
+- Cebuano and Tagalog drafts need native editorial review.

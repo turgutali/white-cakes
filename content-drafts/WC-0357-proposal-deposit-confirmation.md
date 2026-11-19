@@ -1,38 +1,51 @@
 ---
 id: WC-0357
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html; verify current deposit instructions
-english_title: "What to confirm before paying a deposit for proposal cake in Cebu"
-cebuano_title: "Unsa ang kumpirmahon sa dili pa mobayad og deposit para sa cake para sa proposal sa Cebu"
-tagalog_title: "Ano ang dapat kumpirmahin bago magbayad ng deposito para sa cake para sa proposal sa Cebu"
+english_title: "What to Confirm Before Paying a Deposit for a Proposal Cake in Cebu"
+cebuano_title: "Unsa ang Kumpirmahon sa Dili Pa Mobayad og Deposit para sa Proposal Cake sa Cebu"
+tagalog_title: "Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Proposal Cake sa Cebu"
 ---
 
-## Protect the surprise by confirming the full order with one organizer
+## English
 
-Before sending a deposit, confirm the cake date, delivery or pickup address, recipient contact plan, size, flavour, design, inscription, and complete price. Choose a coordinator whose phone number can be used without contacting the person being surprised. If the proposal venue has access rules, share them with the bakery in advance.
+# What to Confirm Before Paying a Deposit for a Proposal Cake in Cebu
 
-White Cakes’ stated process uses a 50% deposit to confirm the agreed order. Verify the exact amount and payment channel with the final quote, then keep the receipt and order summary. Do not assume an inquiry has reserved production or that a requested handoff time is available until the bakery confirms it.
+Before paying a proposal cake deposit, make sure the bakery and organizer are working from the same final order. Confirm the event date, cake size, flavour, design direction, exact inscription, and delivery or pickup arrangement. If the proposal is a surprise, also check which contact person can receive messages without revealing it.
 
-Add the privacy and confirmation steps to the central order guide. Keep surprise details out of messages or notifications the recipient may see.
+Ask for the final price in writing and clarify what it includes. Confirm any delivery charge for the full address and ask how changes to size or design affect the quote. Do not pay based on an informal estimate if key choices are still open.
+
+The current ordering guide says a 50% deposit is collected after the final price and details have been agreed. Confirm the current percentage, payment channel, balance due date, and any change or cancellation terms directly with White Cakes. Keep the payment receipt and written confirmation together.
+
+The final confirmation should identify who will receive the cake and how the bakery will contact them during the delivery window. Review all spellings and numbers, especially names, phone contacts, and the address. For the complete order sequence, see [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Unsa ang Kumpirmahon sa Dili Pa Mobayad og Deposit para sa Proposal Cake sa Cebu
+
+Sa dili pa mobayad og deposit para sa proposal cake, siguroha nga pareho ang pinal nga order nga gigamit sa panaderya ug organizer. Kumpirmaha ang petsa, gidak-on, flavour, direksiyon sa disenyo, eksaktong inskripsiyon ug delivery o pickup. Kung surprise ang proposal, susiha usab kinsa ang contact person nga makadawat og mensahe nga dili kini mabutyag.
+
+Pangayoa sa sinulat ang pinal nga presyo ug klaroha unsay apil niini. Kumpirmaha ang delivery charge para sa kompleto nga address ug pangutan-a unsay epekto sa quote kon mausab ang gidak-on o disenyo. Ayaw mobayad base sa dili pinal nga banabana kon wala pa mahuman ang importanteng desisyon.
+
+Ang kasamtangang ordering guide nag-ingon nga 50% nga deposit kolektahon human mouyon sa pinal nga presyo ug detalye. Kumpirmaha direkta sa White Cakes ang kasamtangang porsiyento, paagi sa pagbayad, petsa sa balanse, ug terms sa kausaban o pagkansela. Tipigi ang resibo uban sa sinulat nga kumpirmasyon.
+
+Kinahanglan mailhan sa pinal nga kumpirmasyon ang modawat ug paagi sa pagkontak kaniya sulod sa delivery window. Susiha ang tanang spelling ug numero, ilabi na ang ngalan, phone contact ug address. Para sa tibuok proseso sa order, tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Ano ang Dapat Kumpirmahin Bago Magbayad ng Deposit para sa Proposal Cake sa Cebu
+
+Bago magbayad ng deposit para sa proposal cake, tiyaking iisang pinal na order ang hawak ng bakery at organizer. Kumpirmahin ang petsa, sukat, flavour, direksiyon ng design, eksaktong inscription, at delivery o pickup arrangement. Kung sorpresa ang proposal, tiyakin din kung aling contact person ang puwedeng makatanggap ng mensahe nang hindi ito nabubunyag.
+
+Hingin sa sulat ang pinal na presyo at linawin kung ano ang kasama rito. Kumpirmahin ang delivery charge para sa buong address at itanong kung paano makaaapekto sa quote ang pagbabago ng sukat o design. Huwag magbayad batay sa impormal na estimate kung hindi pa napagpapasyahan ang mahahalagang detalye.
+
+Sinasabi ng kasalukuyang ordering guide na 50% deposit ang kinokolekta matapos mapagkasunduan ang pinal na presyo at detalye. Direktang kumpirmahin sa White Cakes ang kasalukuyang porsiyento, paraan ng pagbabayad, takdang petsa ng natitirang bayad, at terms sa pagbabago o pagkansela. Itago nang magkasama ang resibo at nakasulat na confirmation.
+
+Dapat tukuyin sa pinal na confirmation kung sino ang tatanggap sa cake at paano siya kokontakin ng bakery sa delivery window. Suriin ang spelling at mga numero, lalo na ang pangalan, contact number, at address. Para sa buong proseso ng pag-order, tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Panalipdi ang sorpresa pinaagi sa pagkumpirma sa tibuuk nga order sa usa ka organizer
-
-Sa dili pa magpadala ug deposito, kumpirmahi ang petsa sa cake, delivery o pickup address, plano sa kontak sa nakadawat, gidak-on, lami, disenyo, inskripsiyon, ug kompletong presyo. Pagpili og coordinator kansang numero sa telepono mahimong magamit nga dili makontak ang tawo nga nakurat. Kung ang lugar sa sugyot adunay mga lagda sa pag-access, ipaambit kini sa panaderya daan.
-
-Ang gipahayag nga proseso sa White Cakes naggamit og 50% nga deposito aron pagkumpirma sa gikasabutan nga order. I-verify ang eksaktong kantidad ug channel sa pagbayad gamit ang katapusang quote, unya itago ang resibo ug summary sa order. Ayaw hunahunaa nga ang usa ka pangutana adunay gireserba nga produksiyon o nga ang usa ka gihangyo nga oras sa paghatag magamit hangtod makumpirma kini sa panaderya.
-
-Idugang ang mga lakang sa pagkapribado ug pagkumpirma sa sentro nga giya sa order. Itago ang mga detalye sa sorpresa sa mga mensahe o mga pahibalo nga mahimong makita sa nakadawat.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Protektahan ang sorpresa sa pamamagitan ng pagkumpirma ng buong order sa isang organizer
-
-Bago magpadala ng deposito, kumpirmahin ang petsa ng cake, delivery o pickup address, contact plan ng tatanggap, laki, lasa, disenyo, inskripsiyon, at kumpletong presyo. Pumili ng coordinator na ang numero ng telepono ay maaaring gamitin nang hindi nakikipag-ugnayan sa taong nagulat. Kung ang lugar ng panukala ay may mga panuntunan sa pag-access, ibahagi ang mga ito sa panaderya nang maaga.
-
-Ang nakasaad na proseso ng White Cakes ay gumagamit ng 50% na deposito upang kumpirmahin ang napagkasunduang order. I-verify ang eksaktong halaga at channel ng pagbabayad gamit ang huling quote, pagkatapos ay panatilihin ang buod ng resibo at order. Huwag ipagpalagay na ang isang pagtatanong ay nagreserba ng produksyon o ang hiniling na oras ng handoff ay magagamit hanggang sa makumpirma ito ng panaderya.
-
-Idagdag ang privacy at mga hakbang sa pagkumpirma sa gitnang gabay sa order. Panatilihin ang mga detalye ng sorpresa sa mga mensahe o notification na maaaring makita ng tatanggap.
+- Reconfirm all deposit, payment, and change terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

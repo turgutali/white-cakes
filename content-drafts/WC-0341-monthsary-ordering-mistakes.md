@@ -1,38 +1,51 @@
 ---
 id: WC-0341
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "Common ordering mistakes to avoid with monthsary cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa monthsary sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa monthsary sa Cebu"
+english_title: "Common Monthsary Cake Ordering Mistakes to Avoid in Cebu"
+cebuano_title: "Mga Kasagarang Sayop sa Pag-order og Monthsary Cake nga Likayan sa Cebu"
+tagalog_title: "Mga Karaniwang Pagkakamali sa Pag-order ng Monthsary Cake na Dapat Iwasan sa Cebu"
 ---
 
-## Avoid leaving the size, message, or surprise receiver undecided
+## English
 
-Even a small monthsary cake needs a clear order plan. Decide how many people will share it and confirm the size instead of assuming every Bento serves the same way. Send the exact message and spelling, and choose one organizer to approve the design if the cake is a surprise.
+# Common Monthsary Cake Ordering Mistakes to Avoid in Cebu
 
-Confirm the date, current flavour, full price, and pickup or delivery location. Ask whether the bakery can make the requested design and wait for written availability confirmation. Provide a private contact who can receive the cake without revealing the surprise.
+Monthsary orders are often small, but a few missing details can still disrupt the plan. The first common mistake is asking for a design without stating the date, size, flavour preference, serving need, and delivery or pickup plan. Give the bakery the occasion and constraints in one message so it can tell you what is feasible.
 
-Add these checks to the central order guide and link to the size and message pages. Do not create a duplicate page for a simple occasion-specific checklist.
+Another mistake is sending several reference photos without saying what to take from each one. Identify the preferred colour, lettering, shape, or decorative element, and name anything you do not want. References guide a design; they do not automatically confirm that every detail or material can be reproduced.
+
+Do not leave the inscription until the last moment. Send the exact text and check spelling, names, and date. Also avoid treating a delivery window as a precise appointment time. Arrange for a receiver to be available, share a backup contact, and make sure a venue will accept an outside cake before ordering delivery there.
+
+Finally, wait for the written quote and final details before paying a deposit. The current ordering guide says a 50% deposit is collected after the price and order details are agreed; confirm the current terms with the bakery. Keep the confirmation that lists the design, size, flavour, date, address, payment, and handoff instructions. For the full process, see [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Mga Kasagarang Sayop sa Pag-order og Monthsary Cake nga Likayan sa Cebu
+
+Bisan gamay ang monthsary order, mahimong madaot ang plano tungod sa kulang nga detalye. Kasagarang sayop ang pagpangayo og disenyo nga walay petsa, gidak-on, gusto nga flavour, panginahanglan sa servings, ug plano sa delivery o pickup. Isulat sa usa ka mensahe ang okasyon ug mga limitasyon aron maingon sa panaderya kung mahimo ba ang request.
+
+Sayop usab ang pagpadala og daghang reference photo nga walay pagpasabot unsay kuhaon sa matag usa. Tinoa ang gustong kolor, letra, porma o dekorasyon ug isulti kung unsay dili gusto. Giya ang reference sa disenyo; dili kini awtomatikong kumpirmasyon nga masundog ang matag detalye o materyal.
+
+Ayaw hulata ang ulahing higayon sa paghatag sa inskripsiyon. Ipadala ang eksaktong teksto ug susiha ang spelling, ngalan ug petsa. Ayaw sab isipon nga tukmang oras sa appointment ang delivery window. Pag-andam og modawat nga tawo, ihatag ang backup contact, ug kumpirmaha nga modawat ang venue og cake gikan sa gawas sa dili pa magpa-deliver didto.
+
+Sa kataposan, hulata ang sinulat nga quote ug pinal nga detalye sa dili pa mobayad og deposit. Sumala sa kasamtangang ordering guide, 50% nga deposit ang kolektahon human mouyon sa presyo ug detalye; kumpirmaha gihapon ang bag-ong terms sa panaderya. Tipigi ang kumpirmasyon nga naglista sa disenyo, gidak-on, flavour, petsa, address, bayad ug handoff instructions. Para sa tibuok proseso, tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Mga Karaniwang Pagkakamali sa Pag-order ng Monthsary Cake na Dapat Iwasan sa Cebu
+
+Kahit maliit ang monthsary order, puwedeng masira ang plano dahil sa kulang na detalye. Karaniwang pagkakamali ang paghingi ng design nang hindi binibigay ang petsa, sukat, gustong flavour, dami ng servings, at plano sa delivery o pickup. Ilagay sa iisang mensahe ang okasyon at mga limitasyon para masabi ng bakery kung kaya ang request.
+
+Isa pang pagkakamali ang pagpapadala ng maraming reference photo nang hindi sinasabi kung ano ang kukunin sa bawat isa. Tukuyin ang gustong kulay, lettering, hugis, o dekorasyon at sabihin kung ano ang ayaw mo. Gabay lamang sa disenyo ang reference; hindi nito awtomatikong kinukumpirma na magagawa ang bawat detalye o materyal.
+
+Huwag ipagpaliban ang inscription. Ipadala ang eksaktong text at tingnan ang spelling, pangalan, at petsa. Huwag ding ituring na eksaktong appointment time ang delivery window. Magtalaga ng tatanggap, magbigay ng backup contact, at tiyaking tumatanggap ng dalang cake ang venue bago magpa-deliver doon.
+
+Panghuli, hintayin ang nakasulat na quote at pinal na detalye bago magbayad ng deposit. Ayon sa kasalukuyang ordering guide, 50% deposit ang kinokolekta matapos mapagkasunduan ang presyo at detalye; kumpirmahin pa rin ang kasalukuyang terms sa bakery. Itago ang confirmation na naglilista ng design, sukat, flavour, petsa, address, bayad, at handoff instructions. Para sa buong proseso, tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi nga biyaan ang gidak-on, mensahe, o sorpresa nga tigdawat nga wala makadesisyon
-
-Bisan ang gamay nga monthsary cake nanginahanglan usa ka klaro nga plano sa pag-order. Pagdesisyon kung pila ka tawo ang mopaambit niini ug kumpirmahi ang gidak-on imbis nga maghunahuna nga ang matag Bento nagserbisyo sa parehas nga paagi. Ipadala ang eksaktong mensahe ug spelling, ug pagpili og usa ka organizer aron aprobahan ang disenyo kon ang cake usa ka surpresa.
-
-Kumpirma ang petsa, kasamtangan nga lami, bug-os nga presyo, ug lokasyon sa pagkuha o paghatud. Pangutan-a kung ang panaderya makahimo ba sa gihangyo nga disenyo ug maghulat alang sa sinulat nga kumpirmasyon sa pagkaanaa. Paghatag ug pribado nga kontak nga makadawat sa cake nga dili ibutyag ang katingala.
-
-Idugang kini nga mga tseke sa sentral nga giya sa order ug i-link sa gidak-on ug mga panid sa mensahe. Ayaw paghimo ug duplicate nga panid para sa usa ka simple nga checklist nga espesipiko sa okasyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasang iwanang walang pasya ang laki, mensahe, o tatanggap ng sorpresa
-
-Kahit na ang isang maliit na monthsary cake ay nangangailangan ng isang malinaw na plano ng pagkakasunud-sunod. Magpasya kung ilang tao ang magbabahagi nito at kumpirmahin ang laki sa halip na ipagpalagay na ang bawat Bento ay nagsisilbi sa parehong paraan. Ipadala ang eksaktong mensahe at spelling, at pumili ng isang organizer upang aprubahan ang disenyo kung ang cake ay isang sorpresa.
-
-Kumpirmahin ang petsa, kasalukuyang lasa, buong presyo, at lokasyon ng pickup o paghahatid. Itanong kung magagawa ng panaderya ang hiniling na disenyo at maghintay para sa nakasulat na kumpirmasyon sa pagkakaroon. Magbigay ng pribadong contact na makakatanggap ng cake nang hindi ibinubunyag ang sorpresa.
-
-Idagdag ang mga pagsusuring ito sa gitnang gabay sa pagkakasunud-sunod at i-link sa laki at mga pahina ng mensahe. Huwag gumawa ng duplicate na page para sa isang simpleng checklist na partikular sa okasyon.
+- Reconfirm current deposit and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

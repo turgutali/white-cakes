@@ -1,38 +1,51 @@
 ---
 id: WC-0370
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/birthday-cake-message-ideas-cebu.html; gallery requires original examples
-english_title: "What to write on thank-you cake in Cebu"
-cebuano_title: "Unsa ang isulat sa ibabaw sa cake isip pasalamat sa Cebu"
-tagalog_title: "Ano ang isusulat sa ibabaw ng cake bilang pasasalamat sa Cebu"
+english_title: "What to Write on a Thank-You Cake in Cebu"
+cebuano_title: "Unsa ang Isulat sa Thank-You Cake sa Cebu"
+tagalog_title: "Ano ang Isusulat sa Thank-You Cake sa Cebu"
 ---
 
-## Choose a short thank-you message that fits the cake
+## English
 
-Cake lettering has limited space. Start with the recipient’s name or a brief phrase such as “Thank you, Ma’am,” “Salamat kaayo,” or “Maraming salamat.” If the cake is for a team, decide whether the message should address one person, the whole group, or a specific contribution. Short text is easier to read from across a table.
+# What to Write on a Thank-You Cake in Cebu
 
-Before confirming the order, send the exact wording with spelling, capitalization, and punctuation. Tell the bakery which words must appear and which can be omitted if the design area is small. A longer note can go on a separate card rather than crowding the cake.
+A thank-you cake message should name the appreciation without turning the cake into a long note. Start by deciding who will read it: one recipient, a team, a family, or guests at a public event. A short line that fits that audience is easier to read and keeps the design open.
 
-Do not present sample wording as a customer order or a photographed cake unless it is real and approved. Add this advice to the existing message-ideas guide; a separate gallery would need original, varied examples that show how the lettering works on different cake surfaces.
+Possible directions include a direct thank-you, a person’s name, the team or occasion, or a few words that reflect why you are grateful. Use language the recipient will understand. If the cake is for a workplace, check spelling of the person’s name and any company wording with the organizer before sending it to the bakery.
+
+Keep the message private if the cake is intended as a surprise. Tell the bakery which contact person may see the inscription and who should receive delivery updates. Send the final wording in writing, including punctuation, capitalization, names, and any date. Ask whether the requested text fits the cake size and hand-piped lettering style.
+
+White Cakes hand-pipes buttercream, so confirm the available lettering instead of assuming printed text. For related message choices, see the [Cebu cake message ideas guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Cebuano
+
+# Unsa ang Isulat sa Thank-You Cake sa Cebu
+
+Ang mensahe sa thank-you cake angay mopahayag sa pasalamat nga dili mahimong taas kaayong sulat. Sugdi sa pagdesisyon kinsa ang mobasa niini: usa ka modawat, team, pamilya o mga bisita sa publikong event. Mas sayon basahon ang mubo nga linya nga mohaom sa maong mga tawo ug magbilin og limpyo nga luna sa disenyo.
+
+Mahimong diretsong pasalamat, ngalan sa tawo, ngalan sa team o okasyon, o pipila ka pulong bahin sa rason sa pagpasalamat. Gamita ang pinulongan nga masabtan sa modawat. Kung para sa trabaho ang cake, kumpirmaha sa organizer ang spelling sa ngalan ug teksto sa kompanya sa dili pa ipadala sa panaderya.
+
+Tipigi nga sekreto ang mensahe kon surprise ang cake. Sultihi ang panaderya kinsa ang puwedeng makakita sa inskripsiyon ug kinsa ang modawat sa update sa delivery. Ipadala sa sinulat ang pinal nga teksto, apil punctuation, capitalization, ngalan ug petsa. Pangutan-a kon mohaom ba ang mensahe sa gidak-on ug hand-piped lettering.
+
+Hand-piped buttercream ang gamit sa White Cakes, busa kumpirmaha ang lettering nga mahimo imbes magtuo nga printed ang teksto. Para sa may kalabotang ideya, tan-awa ang [Cebu cake message ideas guide](/journal/birthday-cake-message-ideas-cebu.html).
+
+## Tagalog
+
+# Ano ang Isusulat sa Thank-You Cake sa Cebu
+
+Dapat maipahayag ng thank-you cake message ang pasasalamat nang hindi nagiging mahabang liham. Magsimula sa pagpapasya kung sino ang babasa nito: isang tatanggap, team, pamilya, o mga bisita sa pampublikong event. Mas madaling basahin ang maikling linyang bagay sa audience at mas malinis tingnan ang design.
+
+Maaaring direktang pasasalamat, pangalan ng tao, team o okasyon, o ilang salitang nagpapaliwanag kung bakit ka nagpapasalamat. Gumamit ng wikang maiintindihan ng tatanggap. Kung para sa trabaho ang cake, tiyakin sa organizer ang spelling ng pangalan at anumang wording ng kumpanya bago ipadala sa bakery.
+
+Panatilihing pribado ang mensahe kung sorpresa ang cake. Sabihin sa bakery kung sinong contact ang maaaring makakita sa inscription at kung sino ang tatanggap ng delivery updates. Ipadala nang nakasulat ang pinal na wording kasama ang punctuation, capitalization, pangalan, at petsa. Itanong kung kasya ang text sa sukat at hand-piped lettering.
+
+Hand-piped buttercream ang gamit ng White Cakes, kaya kumpirmahin ang available na lettering sa halip na ipalagay na printed ang text. Para sa mga kaugnay na ideya, tingnan ang [Cebu cake message ideas guide](/journal/birthday-cake-message-ideas-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og mubo nga mensahe sa pasalamat nga mohaum sa cake
-
-Ang pagsulat sa cake adunay limitado nga espasyo. Pagsugod sa ngalan sa nakadawat o usa ka mubo nga hugpong sa mga pulong sama sa "Salamat, Ma'am," "Salamat kaayo," o "Maraming salamat." Kon ang cake para sa usa ka team, paghukom kon ang mensahe kinahanglan ba nga maghisgot sa usa ka tawo, sa tibuok grupo, o sa usa ka piho nga kontribusyon. Ang mubo nga teksto mas sayon ​​basahon gikan sa tabok sa lamesa.
-
-Sa dili pa kumpirmahi ang han-ay, ipadala ang eksaktong mga pulong nga adunay spelling, capitalization, ug punctuation. Sultihi ang panaderya kung unsa nga mga pulong ang kinahanglan nga makita ug kung unsa ang mahimo nga tangtangon kung ang lugar sa disenyo gamay. Ang usa ka taas nga nota mahimong moadto sa usa ka bulag nga kard kaysa sa pagpuno sa cake.
-
-Ayaw ipresentar ang sample nga pulong ingon usa ka order sa kostumer o usa ka litrato nga cake gawas kung kini tinuod ug giaprubahan. Idugang kini nga tambag sa kasamtangan nga mensahe-ideya nga giya; ang usa ka bulag nga gallery magkinahanglan ug orihinal, lainlain nga mga pananglitan nga nagpakita kung giunsa ang mga letra molihok sa lainlaing mga ibabaw sa cake.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng maikling mensahe ng pasasalamat na akma sa cake
-
-Limitado ang espasyo ng cake lettering. Magsimula sa pangalan ng tatanggap o isang maikling parirala tulad ng "Salamat, Ma'am," "Salamat talaga," o "Maraming salamat." Kung ang cake ay para sa isang pangkat, magpasya kung ang mensahe ay dapat tumugon sa isang tao, sa buong grupo, o isang partikular na kontribusyon. Ang maikling teksto ay mas madaling basahin mula sa isang talahanayan.
-
-Bago kumpirmahin ang pagkakasunud-sunod, ipadala ang eksaktong mga salita na may spelling, capitalization, at bantas. Sabihin sa panaderya kung aling mga salita ang dapat lumabas at alin ang maaaring tanggalin kung maliit ang lugar ng disenyo. Ang isang mas mahabang tala ay maaaring pumunta sa isang hiwalay na card sa halip na siksikan ang cake.
-
-Huwag magpakita ng sample na salita bilang isang order ng customer o isang nakunan ng larawan maliban kung ito ay totoo at naaprubahan. Idagdag ang payong ito sa umiiral na gabay sa mga ideya ng mensahe; ang isang hiwalay na gallery ay mangangailangan ng orihinal, iba't ibang mga halimbawa na nagpapakita kung paano gumagana ang pagkakasulat sa iba't ibang mga ibabaw ng cake.
+- Confirm current lettering options and size constraints before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,51 @@
 ---
 id: WC-0347
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html
-english_title: "What to ask about the price of proposal cake in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake para sa proposal sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake para sa proposal sa Cebu"
+english_title: "What to Ask About the Price of a Proposal Cake in Cebu"
+cebuano_title: "Unsa ang Ipangutana Bahin sa Presyo sa Proposal Cake sa Cebu"
+tagalog_title: "Ano ang Dapat Itanong Tungkol sa Presyo ng Proposal Cake sa Cebu"
 ---
 
-## Ask for a proposal-cake quote that fits your plan
+## English
 
-Share the date, number of people who will eat cake, preferred size, flavour, design, and delivery or pickup location. If the proposal is a surprise, explain who should receive the cake and whether the bakery should avoid contacting the recipient. Ask for the total price for your exact design, since a custom motif or inscription may affect the quote.
+# What to Ask About the Price of a Proposal Cake in Cebu
 
-White Cakes' current custom menu lists 6-inch cakes at ₱1,399 through January 15, 2027 and ₱1,799 from January 16; 8-inch cakes are ₱1,999 through January 15 and ₱2,599 afterward. These are time-limited figures. Check the current menu before using them, and ask whether a particular custom detail or delivery adds a charge.
+Ask for a quote using the details that affect the cake: event date, size or serving range, flavour preference, design references, inscription, and delivery or pickup location. If any of these are undecided, state what is flexible and request a price range only if the bakery can provide one. A quote based on an incomplete brief may change when the final design is agreed.
 
-Confirm the size against the serving estimate: 8–12 party slices for 6 inches and 16–24 for 8 inches. For only two or three servings, ask whether a 4-inch Bento is more suitable. Allow at least three days' notice and confirm availability and terms before paying the 50% deposit that secures the order.
+Ask what the quoted price includes and which requested details may change it. For example, clarify whether the quote covers the selected size and design, and whether delivery is priced separately for your address. Avoid assuming that a photo reference, custom lettering, or a special finish has no effect on the final quote; have the bakery confirm what it can make and price.
 
-Keep current amounts in one price guide and label effective dates. Do not publish temporary rates as permanent.
+Before paying, request the final amount and terms in writing: deposit percentage, balance due date, payment method, and what happens if the event details change. The current site guide says a 50% deposit is collected after the final price and details are agreed. Confirm that policy directly because terms can change.
+
+Keep the written confirmation alongside the cake brief so the price refers to the same date, size, flavour, design, and handoff arrangement. Compare like with like if you are considering a different size or simpler decoration. For more context, see [Cebu cake prices and ordering](/journal/cake-prices-cebu.html).
+
+## Cebuano
+
+# Unsa ang Ipangutana Bahin sa Presyo sa Proposal Cake sa Cebu
+
+Pangayo og quote pinaagi sa mga detalye nga makaapekto sa cake: petsa sa event, gidak-on o range sa servings, gusto nga flavour, reference sa disenyo, inskripsiyon, ug lugar sa delivery o pickup. Kung wala pa matino ang uban niini, isulti unsay flexible ug pangayo lang og price range kon makahatag ang panaderya. Mahimong mausab ang quote nga gibase sa kulang nga brief kon mouyon na sa pinal nga disenyo.
+
+Pangutan-a unsay apil sa presyo ug unsang request ang mahimong makausab niini. Pananglitan, klaroha kung apil ba ang napiling gidak-on ug disenyo ug kung lahi ang delivery fee para sa inyong address. Ayaw pagtuo nga walay epekto sa presyo ang reference photo, custom lettering o espesyal nga finish; pakuha og kumpirmasyon sa mahimo ug gasto niini.
+
+Sa dili pa mobayad, pangayoa sa sinulat ang pinal nga kantidad ug terms: porsiyento sa deposit, petsa sa bayranan sa balanse, paagi sa pagbayad, ug unsay mahitabo kon mausab ang detalye sa event. Ang kasamtangang site guide nag-ingon nga 50% nga deposit human mouyon sa pinal nga presyo ug detalye. Kumpirmaha kini direkta kay mausab ang policy.
+
+Tipigi ang sinulat nga kumpirmasyon uban sa cake brief aron pareho ang petsa, gidak-on, flavour, disenyo ug handoff arrangement nga gibasehan sa presyo. Ikompara ang parehas nga detalye kon naghunahuna ka sa laing gidak-on o mas yano nga dekorasyon. Para sa dugang konteksto, tan-awa ang [Cebu cake prices and ordering](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Ano ang Dapat Itanong Tungkol sa Presyo ng Proposal Cake sa Cebu
+
+Humingi ng quote gamit ang mga detalyeng nakaaapekto sa cake: petsa ng event, sukat o range ng servings, gustong flavour, design references, inscription, at lokasyon ng delivery o pickup. Kung may hindi pa napagpapasyahan, sabihin kung ano ang flexible at humingi lamang ng price range kung makapagbibigay ang bakery. Maaaring magbago ang quote na nakabatay sa kulang na brief kapag napagkasunduan na ang pinal na disenyo.
+
+Itanong kung ano ang kasama sa quote at kung aling request ang maaaring magpabago rito. Halimbawa, linawin kung kasama ang napiling sukat at design at kung hiwalay ang delivery para sa address mo. Huwag ipalagay na walang epekto sa presyo ang reference photo, custom lettering, o espesyal na finish; ipasuri sa bakery kung ano ang kaya at magkano ito.
+
+Bago magbayad, hingin sa sulat ang pinal na halaga at terms: porsiyento ng deposit, petsa ng natitirang bayad, paraan ng pagbabayad, at proseso kung magbago ang detalye ng event. Sinasabi ng kasalukuyang site guide na 50% deposit ang ibinibigay matapos mapagkasunduan ang pinal na presyo at detalye. Kumpirmahin ito nang direkta dahil maaaring magbago ang policy.
+
+Itago ang nakasulat na confirmation kasama ng cake brief para iisang petsa, sukat, flavour, design, at handoff arrangement ang batayan ng presyo. Ihambing ang magkaparehong detalye kung isinasaalang-alang mo ang ibang sukat o mas simpleng dekorasyon. Para sa dagdag na konteksto, tingnan ang [Cebu cake prices and ordering](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo og proposal-cake quote nga mohaum sa imong plano
-
-Ipakigbahin ang petsa, gidaghanon sa mga tawo nga mokaon sa cake, gusto nga gidak-on, lami, disenyo, ug delivery o pickup nga dapit. Kung ang sugyot usa ka sorpresa, ipasabut kung kinsa ang makadawat sa cake ug kung kinahanglan ba nga likayan sa panaderya ang pagkontak sa nakadawat. Pangayo alang sa kinatibuk-ang presyo alang sa imong eksaktong disenyo, tungod kay ang usa ka naandan nga motif o inskripsiyon mahimong makaapekto sa kinutlo.
-
-Ang kasamtangang custom nga menu sa White Cakes naglista ug 6-pulgada nga mga cake sa ₱1,399 hangtod sa Enero 15, 2027 ug ₱1,799 gikan sa Enero 16; Ang 8-pulgada nga mga cake maoy ₱1,999 hangtod sa Enero 15 ug ₱2,599 pagkahuman. Kini ang mga numero nga limitado sa oras. Susiha ang kasamtangan nga menu sa dili pa gamiton kini, ug pangutan-a kung ang usa ka partikular nga custom nga detalye o delivery makadugang og bayad.
-
-Kumpirma ang gidak-on batok sa banabana sa pag-alagad: 8–12 ka hiwa sa partido alang sa 6 ka pulgada ug 16–24 alang sa 8 ka pulgada. Para lang sa duha o tulo ka servings, pangutana kung ang 4-pulgada nga Bento mas angay. Tugoti ang labing menos tulo ka adlaw nga pahibalo ug kumpirmahi ang pagkaanaa ug mga termino sa dili pa magbayad sa 50% nga deposito nga nagsiguro sa order.
-
-Itago ang kasamtangan nga kantidad sa usa ka giya sa presyo ug label ang epektibo nga mga petsa. Ayaw pagmantala sa temporaryo nga mga presyo ingon nga permanente.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humingi ng proposal-cake quote na akma sa iyong plano
-
-Ibahagi ang petsa, bilang ng mga taong kakain ng cake, gustong laki, lasa, disenyo, at lokasyon ng paghahatid o pagkuha. Kung sorpresa ang panukala, ipaliwanag kung sino ang dapat tumanggap ng cake at kung dapat iwasan ng panaderya na makipag-ugnayan sa tatanggap. Hilingin ang kabuuang presyo para sa iyong eksaktong disenyo, dahil maaaring makaapekto sa quote ang custom na motif o inskripsiyon.
-
-Ang kasalukuyang custom na menu ng White Cakes ay naglilista ng 6-inch na cake sa ₱1,399 hanggang Enero 15, 2027 at ₱1,799 mula Enero 16; Ang 8-inch na cake ay ₱1,999 hanggang Enero 15 at ₱2,599 pagkatapos. Ito ay mga bilang na limitado sa oras. Suriin ang kasalukuyang menu bago gamitin ang mga ito, at tanungin kung ang isang partikular na custom na detalye o paghahatid ay nagdaragdag ng singil.
-
-Kumpirmahin ang laki laban sa pagtatantya ng paghahatid: 8–12 party slice para sa 6 na pulgada at 16–24 para sa 8 pulgada. Para sa dalawa o tatlong serving lang, tanungin kung mas angkop ang isang 4-inch na Bento. Pahintulutan ang hindi bababa sa tatlong araw na paunawa at kumpirmahin ang pagkakaroon at mga tuntunin bago bayaran ang 50% na deposito na nagsisiguro sa order.
-
-Panatilihin ang mga kasalukuyang halaga sa isang gabay sa presyo at lagyan ng label ang mga petsang epektibo. Huwag mag-publish ng mga pansamantalang rate bilang permanente.
+- Reconfirm current pricing, delivery fees, and payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

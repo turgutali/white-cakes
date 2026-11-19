@@ -1,38 +1,51 @@
 ---
 id: WC-0368
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-delivery-cebu.html; check route and handoff details
-english_title: "How to prepare for delivery of thank-you cake in Cebu"
-cebuano_title: "Giunsa pag-andam sa delivery sa cake isip pasalamat sa Cebu"
-tagalog_title: "Paano maghanda para sa delivery ng cake bilang pasasalamat sa Cebu"
+english_title: "How to Prepare for Delivery of a Thank-You Cake in Cebu"
+cebuano_title: "Giunsa Pag-andam sa Delivery sa Thank-You Cake sa Cebu"
+tagalog_title: "Paano Maghanda para sa Delivery ng Thank-You Cake sa Cebu"
 ---
 
-## Make sure someone can receive the cake at the agreed location
+## English
 
-Provide the complete delivery address, event or handoff time, recipient’s name and reachable phone number, and any entry instructions. If the cake is going to an office or organization, tell the bakery where the receiver will meet the delivery and whether reception or security needs advance notice. Confirm the route, timing, and fee directly.
+# How to Prepare for Delivery of a Thank-You Cake in Cebu
 
-Have the receiver take the cake promptly and follow the baker’s handling directions for the specific product. Keep the box level and away from direct sunlight while it waits. If the thank-you event is outdoors or the schedule is flexible, mention that when asking about storage.
+Prepare the delivery handoff by confirming the full address, venue or building name, access instructions, and the name and phone number of the person receiving the cake. If the recipient will be surprised, use the organizer’s contact details and explain who should get calls or messages from the bakery.
 
-Keep general handoff advice in the central Cebu delivery guide. Do not invent a standard delivery window or claim every location is covered.
+White Cakes confirms a delivery window, not an exact arrival minute. Make sure someone can receive the order throughout that window and provide a backup contact. For an office or event venue, ask whether reception staff can accept food deliveries and where the cake can be held. Do not assume staff will refrigerate or move it without agreement.
+
+Send useful directions such as gate access, floor, unit, parking limitations, and a recognizable landmark. Review these details with the receiver in advance so they know when to expect the driver. If the address or schedule changes, notify the bakery and get confirmation that the update was received.
+
+At handoff, check the order label and move the cake carefully to the planned display or storage area. Keep it level and follow the bakery’s product-specific advice. For more on service areas and delivery coordination, use the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Cebuano
+
+# Giunsa Pag-andam sa Delivery sa Thank-You Cake sa Cebu
+
+Andama ang delivery handoff pinaagi sa pagkumpirma sa kompleto nga address, ngalan sa venue o building, instruksyon sa pagsulod, ug ngalan ug numero sa modawat sa cake. Kung surprise ang pagdawat, gamita ang contact sa organizer ug isulti kinsa ang tawagan o mensahean sa panaderya.
+
+Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Siguroha nga adunay modawat sulod sa tibuok window ug ihatag ang backup contact. Para sa opisina o venue sa event, pangutan-a kon modawat ba ang reception og delivery sa pagkaon ug asa tipigan ang cake. Ayaw pagtuo nga i-refrigerate o ibalhin kini sa staff nga walay sabot.
+
+Ipadala ang mapuslanong direksiyon sama sa gate access, floor, unit, limitasyon sa parking ug mailhang landmark. Hisgoti kini daan sa modawat aron mahibalo siya kanus-a paaboton ang driver. Kung mausab ang address o iskedyul, pahibaloa ang panaderya ug pangayo og kumpirmasyon nga nadawat ang update.
+
+Sa handoff, susiha ang label sa order ug ibalhin pag-ayo ang cake sa giplanong display o storage area. Ibutang nga patag ug sunda ang tambag sa panaderya para sa maong produkto. Para sa service areas ug delivery coordination, gamita ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
+
+## Tagalog
+
+# Paano Maghanda para sa Delivery ng Thank-You Cake sa Cebu
+
+Ihanda ang delivery handoff sa pamamagitan ng pagkumpirma sa buong address, pangalan ng venue o building, tagubilin sa pagpasok, at pangalan at numero ng tatanggap ng cake. Kung sorpresa ang pagtanggap, gamitin ang contact details ng organizer at sabihin kung sino ang tatawagan o imi-message ng bakery.
+
+Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Tiyaking may tatanggap sa buong window at magbigay ng backup contact. Para sa opisina o event venue, itanong kung tumatanggap ang reception ng food deliveries at kung saan maaaring ilagay ang cake. Huwag ipalagay na ilalagay ito sa refrigerator o ililipat ng staff nang walang usapan.
+
+Ipadala ang mahahalagang direksiyon gaya ng gate access, floor, unit, limitasyon sa parking, at madaling makilalang landmark. I-review ito nang maaga kasama ng tatanggap para alam niya kung kailan darating ang driver. Kung magbago ang address o schedule, ipaalam sa bakery at humingi ng kumpirmasyon na natanggap ang update.
+
+Sa handoff, tingnan ang order label at maingat na ilipat ang cake sa planong display o storage area. Panatilihin itong patag at sundin ang payo ng bakery para sa partikular na produkto. Para sa service areas at delivery coordination, gamitin ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Siguradoha nga adunay makadawat sa cake sa gikasabotan nga lokasyon
-
-Ihatag ang kompleto nga adres sa pagpadala, panghitabo o oras sa paghatag, ngalan sa nakadawat ug makontak nga numero sa telepono, ug bisan unsang mga panudlo sa pagsulod. Kung ang cake moadto sa usa ka opisina o organisasyon, sultihi ang panaderya kung asa ang tigdawat makigtagbo sa paghatod ug kung ang pagdawat o seguridad kinahanglan nga abante nga pahibalo. Direkta nga kumpirmahi ang ruta, oras, ug bayad.
-
-Ipakuha dayon sa tigdawat ang cake ug sunda ang mga direksyon sa pagdumala sa panadero alang sa piho nga produkto. Ibutang ang lebel sa kahon ug layo sa direkta nga kahayag sa adlaw samtang kini naghulat. Kung ang kalihokan sa pasalamat naa sa gawas o ang iskedyul flexible, hisguti kana kung mangutana bahin sa pagtipig.
-
-Itago ang kinatibuk-ang tambag sa paghatag sa giya sa paghatud sa sentro sa Sugbo. Ayaw pag-imbento og standard nga delivery window o pag-angkon nga ang matag lokasyon nasakup.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tiyaking may makakatanggap ng cake sa napagkasunduang lokasyon
-
-Ibigay ang kumpletong address ng paghahatid, kaganapan o oras ng handoff, pangalan ng tatanggap at makontak na numero ng telepono, at anumang mga tagubilin sa pagpasok. Kung pupunta ang cake sa isang opisina o organisasyon, sabihin sa panaderya kung saan sasagutin ng receiver ang paghahatid at kung kailangan ng reception o seguridad ng maagang abiso. Direktang kumpirmahin ang ruta, timing, at bayad.
-
-Ipakuha kaagad sa receiver ang cake at sundin ang mga direksyon sa paghawak ng panadero para sa partikular na produkto. Panatilihin ang antas ng kahon at malayo sa direktang sikat ng araw habang naghihintay ito. Kung ang kaganapan ng pasasalamat ay nasa labas o ang iskedyul ay flexible, banggitin iyon kapag nagtatanong tungkol sa storage.
-
-Panatilihin ang pangkalahatang handoff na payo sa gitnang gabay sa paghahatid ng Cebu. Huwag mag-imbento ng karaniwang window ng paghahatid o i-claim na ang bawat lokasyon ay sakop.
+- Verify current delivery coverage, handoff, and product care details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

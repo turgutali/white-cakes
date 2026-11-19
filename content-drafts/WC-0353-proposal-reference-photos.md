@@ -1,38 +1,51 @@
 ---
 id: WC-0353
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Which reference photos help when ordering proposal cake in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake para sa proposal sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake para sa proposal sa Cebu"
+english_title: "Which Reference Photos Help When Ordering a Proposal Cake in Cebu"
+cebuano_title: "Unsang mga Reference Photo ang Makatabang sa Pag-order og Proposal Cake sa Cebu"
+tagalog_title: "Aling mga Reference Photo ang Makakatulong sa Pag-order ng Proposal Cake sa Cebu"
 ---
 
-## Use one private, clear reference to communicate the proposal cake idea
+## English
 
-Choose a reference that shows the overall style and explain the specific feature you want adapted, such as a colour, short message, or focal decoration. Avoid sending a large set of unrelated photos. If the image reveals the proposal plan, share it privately with the bakery and the organizer only.
+# Which Reference Photos Help When Ordering a Proposal Cake in Cebu
 
-Include the event date, size, flavour, serving estimate, exact inscription, and delivery or pickup location. Name the person who can approve the final design and receive the cake without contacting the recipient. Ask what can be adapted and confirm the quote in writing.
+Useful reference photos make one design decision easier to understand. Choose one image for the overall shape or layout, and a second only if it shows a different detail such as lettering or colour. A small, focused set gives the bakery a clearer direction than a long scroll of mixed styles.
 
-Add this advice to the shared custom brief guide. A separate story requires an approved reference-to-finished example from a real order.
+For each photo, write what you want the bakery to notice: the palette, the position of the message, the size of a motif, or the balance between decoration and open space. Also say what is not required. This prevents the bakery from treating every visible feature as part of the request.
+
+Include the cake size or serving range and explain where the cake will be displayed. A design that looks suitable in a close-up photo may need to change for a small table, a public reveal, or a delivery route. Ask the bakery which elements can be adapted with its current methods. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so do not assume exact reproduction or a printed finish.
+
+Send the references together with the date, flavour preference, exact wording, venue, and delivery plan. Ask for confirmation of what the bakery understood before the design is finalized. See [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) for the rest of the order brief.
+
+## Cebuano
+
+# Unsang mga Reference Photo ang Makatabang sa Pag-order og Proposal Cake sa Cebu
+
+Makatabang ang reference photo kon mas sayon masabtan pinaagi niini ang usa ka desisyon sa disenyo. Pagpili og usa ka litrato para sa kinatibuk-ang porma o layout, ug ikaduha lang kon nagpakita kini og laing detalye sama sa lettering o kolor. Mas klaro ang direksiyon sa pipila ka gipiling litrato kaysa taas nga lista sa nagkalainlaing estilo.
+
+Isulat sa matag litrato unsay gusto nimong makita sa panaderya: kombinasyon sa kolor, puwesto sa mensahe, gidak-on sa motif, o balanse sa dekorasyon ug walay sulod nga luna. Isulti usab unsay dili kinahanglan. Makatabang kini aron dili isipon sa panaderya nga tanang makita nga bahin apil sa request.
+
+Iapil ang gidak-on o range sa servings ug ipasabot asa ipakita ang cake. Ang disenyo nga nindot sa close-up nga litrato mahimong kinahanglan usbon para sa gamay nga lamesa, publikong reveal o ruta sa delivery. Pangutan-a ang panaderya unsang bahin ang mapahiangay sa kasamtangang pamaagi. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa ayaw pagtuo nga eksaktong makopya o printed ang finish.
+
+Ipadala dungan ang mga reference, petsa, flavour preference, eksaktong mensahe, venue ug delivery plan. Pangayo og kumpirmasyon sa pagsabot sa panaderya sa dili pa pinalon ang disenyo. Tan-awa ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) para sa ubang detalye sa order.
+
+## Tagalog
+
+# Aling mga Reference Photo ang Makakatulong sa Pag-order ng Proposal Cake sa Cebu
+
+Kapaki-pakinabang ang reference photo kapag nililinaw nito ang isang design decision. Pumili ng isang larawan para sa pangkalahatang hugis o layout, at magdagdag lamang ng pangalawa kung ibang detalye ang ipinapakita nito gaya ng lettering o kulay. Mas malinaw ang direksiyon sa maliit at piniling set kaysa mahabang halo-halong listahan ng estilo.
+
+Sa bawat larawan, isulat kung ano ang dapat mapansin ng bakery: palette, puwesto ng mensahe, laki ng motif, o balanse ng dekorasyon at bakanteng espasyo. Sabihin din kung ano ang hindi kailangan. Nakakatulong ito para hindi ipalagay ng bakery na bahagi ng request ang bawat nakikitang detalye.
+
+Ibigay ang sukat o range ng servings at ipaliwanag kung saan ilalagay ang cake. Maaaring kailangang iangkop ang design na maganda sa close-up photo para sa maliit na mesa, pampublikong reveal, o delivery route. Itanong kung aling elemento ang mababago gamit ang kasalukuyang paraan ng bakery. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya huwag ipalagay na eksaktong magagaya ito o printed ang finish.
+
+Ipadala ang references kasama ng petsa, flavour preference, eksaktong wording, venue, at delivery plan. Humingi ng kumpirmasyon sa pagkaunawa ng bakery bago gawing pinal ang design. Tingnan ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) para sa iba pang detalye ng order brief.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Paggamit og usa ka pribado, tin-aw nga pakisayran aron ipahibalo ang ideya sa sugyot nga cake
-
-Pagpili og reperensya nga nagpakita sa kinatibuk-ang estilo ug ipasabut ang piho nga bahin nga gusto nimong ipahiangay, sama sa kolor, mubo nga mensahe, o focal nga dekorasyon. Likayi ang pagpadala ug dako nga hugpong sa walay kalabutan nga mga litrato. Kung ang imahe nagpadayag sa plano sa sugyot, ipaambit kini sa pribado sa panaderya ug sa organizer lamang.
-
-Ilakip ang petsa sa panghitabo, gidak-on, lami, banabana sa pagserbisyo, eksaktong inskripsiyon, ug lokasyon sa pagpadala o pagkuha. Ngalan ang tawo nga makaaprobar sa katapusang disenyo ug makadawat sa cake nga dili makontak ang nakadawat. Pangutan-a kung unsa ang mahimong ipahiangay ug kumpirmahi ang kinutlo pinaagi sa pagsulat.
-
-Idugang kini nga tambag sa gipaambit nga custom nga mubo nga giya. Ang usa ka bulag nga istorya nanginahanglan usa ka aprobahan nga reference-to-finished nga pananglitan gikan sa usa ka tinuod nga order.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gumamit ng isang pribado at malinaw na sanggunian para ipaalam ang ideya ng proposal ng cake
-
-Pumili ng reference na nagpapakita ng pangkalahatang istilo at ipaliwanag ang partikular na feature na gusto mong iakma, gaya ng kulay, maikling mensahe, o focal na dekorasyon. Iwasang magpadala ng malaking hanay ng mga hindi nauugnay na larawan. Kung ipinapakita ng larawan ang plano ng panukala, ibahagi ito nang pribado sa panaderya at sa organizer lamang.
-
-Isama ang petsa ng kaganapan, laki, lasa, pagtatantya ng paghahatid, eksaktong inskripsiyon, at lokasyon ng paghahatid o pagkuha. Pangalanan ang taong maaaring mag-apruba sa huling disenyo at tumanggap ng cake nang hindi nakikipag-ugnayan sa tatanggap. Itanong kung ano ang maaaring iakma at kumpirmahin ang sipi sa pagsulat.
-
-Idagdag ang payong ito sa nakabahaging custom na maikling gabay. Ang isang hiwalay na kuwento ay nangangailangan ng isang aprubadong reference-to-finished na halimbawa mula sa isang tunay na order.
+- Confirm current design methods before publication.
+- Cebuano and Tagalog drafts need native editorial review.

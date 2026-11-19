@@ -1,44 +1,51 @@
 ---
 id: WC-0372
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "Which reference photos help when ordering thank-you cake in Cebu"
-cebuano_title: "Unsang mga litrato nga reference ang makatabang sa pag-order og cake isip pasalamat sa Cebu"
-tagalog_title: "Aling mga reference photo ang makatutulong sa pag-order ng cake bilang pasasalamat sa Cebu"
+english_title: "Which Reference Photos Help When Ordering a Thank-You Cake in Cebu"
+cebuano_title: "Unsang mga Reference Photo ang Makatabang sa Pag-order og Thank-You Cake sa Cebu"
+tagalog_title: "Aling mga Reference Photo ang Makakatulong sa Pag-order ng Thank-You Cake sa Cebu"
 ---
 
-## Choose one reference that clarifies the thank-you cake
+## English
 
-Pick a photo that demonstrates one part of the design you want: a colour, lettering style, flower, or overall layout. Tell White Cakes which feature matters most and what can change. A single, clear example usually makes a better brief than several images with unrelated ideas.
+# Which Reference Photos Help When Ordering a Thank-You Cake in Cebu
 
-If the cake is a personal gift, the recipient's preference may be more useful than copying an online design. Ask the bakery which elements it can adapt and what the quote includes. A reference is not a promise of exact reproduction, and you should not post someone else's cake photo as your own without permission.
+Choose reference photos that explain one decision at a time. One image may show the overall shape, while another can clarify lettering, a colour palette, or the amount of decoration. A few well-labelled examples are more helpful than a large folder of designs with no notes.
 
-Include the event date, size, flavour, short inscription, serving count, and pickup or delivery plan. The 4-inch Bento is planned for two generous or three modest servings; larger groups may need a bigger size. Confirm availability, design, and price before paying. White Cakes requires at least three days' notice and a 50% deposit to confirm the agreed order.
+Write a short caption for each photo: what should be borrowed, what is optional, and what should not be copied. This might be the spacing around a message, a simple motif, or the contrast between two colours. Tell the bakery whether you want an original interpretation rather than a replica.
 
-Keep these tips in the central custom-brief guide and use approved original photos for any public reference-to-finished example.
+Include a photo of the event space only if it helps explain the table, display area, or setting. Avoid sending private images of the recipient unless you have permission and the image genuinely informs the design. If you share any image for publication later, confirm the rights separately from using it as a private reference.
+
+Ask which parts can be created with the bakery’s current methods. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets. Send references with the date, size, flavour, inscription, and delivery plan so the bakery can assess the whole request. For the full brief, see [how to brief a custom cake](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsang mga Reference Photo ang Makatabang sa Pag-order og Thank-You Cake sa Cebu
+
+Pagpili og reference photo nga nagpatin-aw sa usa ka desisyon matag higayon. Mahimong ipakita sa usa ang kinatibuk-ang porma, samtang ang lain makapatin-aw sa lettering, kombinasyon sa kolor o gidaghanon sa dekorasyon. Mas mapuslanon ang pipila ka litrato nga adunay klarong label kaysa daghang disenyo nga walay nota.
+
+Isulat ang mubo nga caption sa matag litrato: unsay sundon, unsay optional ug unsay dili kopyahon. Mahimong espasyo palibot sa mensahe, yano nga motif o kalainan sa duha ka kolor. Sultihi ang panaderya kon gusto nimo og kaugalingong interpretasyon imbes replica.
+
+Iapil lang ang litrato sa lugar sa event kon makatabang kini sa pagpasabot sa lamesa, display area o setting. Ayaw pagpadala og pribadong litrato sa modawat gawas kon adunay pagtugot ug makatabang gyud kini sa disenyo. Kung gamiton ang litrato sa publikasyon sa umaabot, lahi nga pagtugot ang kumpirmahon gawas sa paggamit niini isip pribadong reference.
+
+Pangutan-a unsang bahin ang mahimo sa kasamtangang pamaagi sa panaderya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets. Ipadala ang reference uban sa petsa, gidak-on, flavour, inskripsiyon ug delivery plan aron masusi ang tibuok request. Para sa kompletong brief, tan-awa ang [how to brief a custom cake](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Aling mga Reference Photo ang Makakatulong sa Pag-order ng Thank-You Cake sa Cebu
+
+Pumili ng reference photos na nagpapaliwanag ng tig-iisang desisyon. Maaaring ipakita ng isang larawan ang pangkalahatang hugis, samantalang maaaring linawin ng isa pa ang lettering, palette ng kulay, o dami ng dekorasyon. Mas kapaki-pakinabang ang ilang larawang may malinaw na label kaysa malaking folder ng design na walang tala.
+
+Sumulat ng maikling caption para sa bawat larawan: ano ang maaaring hiramin, ano ang optional, at ano ang hindi dapat kopyahin. Maaaring ito ang pagitan sa paligid ng mensahe, simpleng motif, o contrast ng dalawang kulay. Sabihin sa bakery kung gusto mo ng sariling interpretasyon sa halip na replika.
+
+Isama lamang ang larawan ng event space kung makakatulong itong ipaliwanag ang mesa, display area, o setting. Iwasang magpadala ng pribadong larawan ng tatanggap maliban kung may pahintulot at talagang makakatulong ito sa design. Kung gagamitin sa publikasyon ang larawan sa hinaharap, hiwalay na kumpirmahin ang karapatan dito bukod sa pribadong paggamit bilang reference.
+
+Itanong kung aling bahagi ang magagawa gamit ang kasalukuyang pamamaraan ng bakery. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets. Ipadala ang references kasama ng petsa, sukat, flavour, inscription, at delivery plan para masuri ng bakery ang buong request. Para sa kumpletong brief, tingnan ang [how to brief a custom cake](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og usa ka pakisayran nga nagpatin-aw sa cake sa pasalamat
-
-Pagpili og litrato nga nagpakita sa usa ka bahin sa disenyo nga imong gusto: usa ka kolor, estilo sa letra, bulak, o kinatibuk-ang layout. Sultihi ang mga White Cake kung unsa nga bahin ang labing hinungdanon ug kung unsa ang mabag-o. Ang usa, tin-aw nga panig-ingnan kasagaran naghimo sa usa ka mas maayo nga mubo kaysa daghang mga imahe nga adunay wala’y kalabutan nga mga ideya.
-
-Kung ang cake usa ka personal nga regalo, ang gusto sa nakadawat mahimong mas mapuslanon kaysa pagkopya sa usa ka online nga disenyo. Pangutan-a ang panaderya kung unsang mga elemento ang mahimo niini nga ipahiangay ug kung unsa ang gilakip sa kinutlo. Ang usa ka pakisayran dili usa ka saad sa eksakto nga pagkopya, ug dili nimo kinahanglan nga i-post ang litrato sa cake sa uban nga imong kaugalingon nga wala’y pagtugot.
-
-Ilakip ang petsa sa panghitabo, gidak-on, lami, mubo nga inskripsiyon, ihap sa pag-alagad, ug plano sa pagkuha o paghatod. Ang 4-pulgada nga Bento giplano alang sa duha ka manggihatagon o tulo ka kasarangan nga pag-alagad; mas dako nga mga grupo mahimong magkinahanglan og mas dako nga gidak-on. Kumpirma ang pagkaanaa, disenyo, ug presyo sa dili pa mobayad. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo ug usa ka 50% nga deposito aron makumpirma ang gikasabutan nga order.
-
-Itago kini nga mga tip sa sentro nga custom-mubo nga giya ug gamita ang giaprobahan nga orihinal nga mga litrato para sa bisan unsang public reference-to-finished nga pananglitan.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng isang sanggunian na nagpapaliwanag sa cake ng pasasalamat
-
-Pumili ng larawan na nagpapakita ng isang bahagi ng disenyo na gusto mo: isang kulay, istilo ng pagkakasulat, bulaklak, o pangkalahatang layout. Sabihin sa White Cakes kung aling feature ang pinakamahalaga at kung ano ang maaaring magbago. Ang isang solong, malinaw na halimbawa ay karaniwang gumagawa ng isang mas mahusay na brief kaysa sa ilang mga larawan na may mga hindi nauugnay na ideya.
-
-Kung ang cake ay isang personal na regalo, ang kagustuhan ng tatanggap ay maaaring maging mas kapaki-pakinabang kaysa sa pagkopya ng isang online na disenyo. Tanungin ang panaderya kung aling mga elemento ang maaari nitong iakma at kung ano ang kasama sa quote. Ang isang sanggunian ay hindi isang pangako ng eksaktong pagpaparami, at hindi ka dapat mag-post ng larawan ng cake ng ibang tao bilang iyong sarili nang walang pahintulot.
-
-Isama ang petsa ng kaganapan, laki, lasa, maikling inskripsiyon, bilang ng paghahatid, at plano ng pickup o paghahatid. Ang 4-inch Bento ay binalak para sa dalawang mapagbigay o tatlong katamtamang serving; ang mas malalaking grupo ay maaaring mangailangan ng mas malaking sukat. Kumpirmahin ang availability, disenyo, at presyo bago magbayad. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na paunawa at 50% na deposito upang kumpirmahin ang napagkasunduang order.
-
-Panatilihin ang mga tip na ito sa gitnang custom-brief na gabay at gumamit ng naaprubahang orihinal na mga larawan para sa anumang pampublikong reference-to-finished na halimbawa.
+- Confirm current design methods and image-use permissions before publication.
+- Cebuano and Tagalog drafts need native editorial review.

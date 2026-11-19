@@ -1,44 +1,51 @@
 ---
 id: WC-0336
-status: written-draft
-publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "Planning monthsary cake in Cebu"
-cebuano_title: "Pagplano sa cake para sa monthsary sa Cebu"
-tagalog_title: "Pagpaplano ng cake para sa monthsary sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-sizes-cebu.html and /journal/monthsary-cakes-cebu.html
+english_title: "Planning a Monthsary Cake for a Small Gathering in Cebu"
+cebuano_title: "Pagplano og Monthsary Cake para sa Gamay nga Tapok sa Cebu"
+tagalog_title: "Pagpaplano ng Monthsary Cake para sa Maliit na Pagtitipon sa Cebu"
 ---
 
-## Choose a monthsary cake for a small celebration
+## English
 
-If the cake is for two, the 4-inch Bento may fit the plan: it serves about two generous portions or three modest servings. If a few friends will join, count how many people will actually take cake and ask whether a 6-inch size is more suitable. Do not order by the number invited if the group expects only a taste.
+# Planning a Monthsary Cake for a Small Gathering in Cebu
 
-White Cakes estimates 8–12 party slices from a 6-inch cake and 16–24 from an 8-inch cake. These are approximate ranges; a small gathering may choose larger slices than an event with multiple desserts. Tell the bakery whether you want to share a full slice or serve small portions.
+For a small monthsary gathering, decide who is coming before you choose the cake size. A cake shared by a couple after dinner has a different purpose from a surprise with two or three friends. Count the people likely to eat cake, note whether other desserts are planned, and decide whether you want full slices or a few bites to share.
 
-For a personal design, send a short inscription, preferred flavour, colour, and one clear reference. Confirm the date, availability, final price, and pickup or delivery details. Made-to-order cakes need at least three days' notice. The 50% deposit confirms the agreed order once the design and terms are set.
+White Cakes’ current guide estimates that a 4-inch Bento provides about two generous or three modest portions after a meal. A 6-inch round is estimated at 8–12 party slices. These are approximate ranges; height, design, and cutting style change the result. If you are inviting a few friends, tell the bakery the guest count and how you plan to serve it, then ask whether a Bento or 6-inch cake is more suitable.
 
-Keep the small-gathering portion example in the shared sizing guide so its figures stay consistent across the site.
+Keep the design in proportion to the gathering. Two names, a month number, and one small detail may be enough. If you want a longer message or a detailed theme, ask whether the chosen size has room for it. White Cakes uses hand-piped buttercream, so confirm the workable design and inscription length before placing the order.
+
+Plan where the cake will be received and set down. For a home gathering, identify a stable table away from direct sun and heat. For a restaurant, check whether outside cake is allowed and who will receive it. For a surprise, appoint a discreet person to handle the bakery call and delivery. Confirm the full quote, date, flavour, and handoff before paying. See the [cake-size guide](/journal/cake-sizes-cebu.html) and [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Cebuano
+
+# Pagplano og Monthsary Cake para sa Gamay nga Tapok sa Cebu
+
+Para sa gamay nga monthsary gathering, desisyoni una kinsa ang moanhi sa dili pa mopili sa gidak-on. Lahi ang cake nga i-share sa magtiayon human sa panihapon ug ang surprise uban sa duha o tulo ka higala. Ihapa ang gipaabot nga mokaon, timan-i kung adunay laing dessert ug desisyoni kung tibuok serving ba o gamayng tilaw lang ang inyong gusto.
+
+Nagbanabana ang kasamtangang giya sa White Cakes nga ang 4-inch Bento adunay mga duha ka dagkong o tulo ka gagmay nga serving human sa pagkaon. Mga 8–12 ka party slice ang banabana sa 6-inch round. Banabana kini; makaapekto ang kataas, disenyo ug estilo sa paghiwa. Kung mag-imbitar og pipila ka higala, isulti sa panaderya ang ihap sa bisita ug paagi sa pag-serve, dayon pangutan-a kung mas angay ba ang Bento o 6-inch nga cake.
+
+Ihaom ang disenyo sa gidak-on sa tapok. Mahimong igo na ang duha ka ngalan, ihap sa bulan ug usa ka gamay nga detalye. Kung taas nga mensahe o komplikadong theme ang gusto nimo, pangutan-a kung igo ba ang luna sa napiling gidak-on. Hand-piped buttercream ang gamit sa White Cakes, busa kumpirmaha ang mahimo nga disenyo ug gitas-on sa inskripsiyon sa dili pa mag-order.
+
+Iplano asa dawaton ug ibutang ang cake. Para sa tapok sa balay, pagpili og lig-on nga lamesa nga layo sa adlaw ug kainit. Para sa restaurant, susiha kung pwede ang cake gikan sa gawas ug kinsa ang modawat. Para sa surprise, pagtudlo og sekretong tawo nga moatiman sa tawag sa panaderya ug delivery. Kumpirmaha ang quote, petsa, flavour ug handoff sa dili pa mobayad. Tan-awa ang [cake-size guide](/journal/cake-sizes-cebu.html) ug [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Tagalog
+
+# Pagpaplano ng Monthsary Cake para sa Maliit na Pagtitipon sa Cebu
+
+Para sa maliit na monthsary gathering, tukuyin muna kung sino ang darating bago pumili ng sukat ng cake. Iba ang cake na pagsasaluhan ng mag-partner pagkatapos ng hapunan kumpara sa sorpresang kasama ang dalawa o tatlong kaibigan. Bilangin ang malamang na kakain, alamin kung may iba pang dessert, at pagpasiyahan kung buong slice o kaunting tikim lang ang gusto ninyo.
+
+Tinatantiya ng kasalukuyang guide ng White Cakes na mga dalawang generous o tatlong modest na portion pagkatapos kumain ang makukuha sa 4-inch Bento. Tinatayang 8–12 party slices naman ang 6-inch round. Mga tantiya ang mga ito; nagbabago ang resulta ayon sa taas, disenyo, at paraan ng paghiwa. Kung mag-iimbita ka ng ilang kaibigan, sabihin sa bakery ang bilang ng bisita at paano mo ito ihahain, saka itanong kung mas babagay ang Bento o 6-inch na cake.
+
+Panatilihing akma ang disenyo sa laki ng pagtitipon. Maaaring sapat na ang dalawang pangalan, bilang ng buwan, at isang maliit na detalye. Kung gusto mo ng mahabang mensahe o detalyadong theme, itanong kung may puwang ang napiling sukat. Hand-piped buttercream ang gamit ng White Cakes, kaya kumpirmahin ang posibleng disenyo at haba ng inscription bago mag-order.
+
+Planuhin kung saan tatanggapin at ilalagay ang cake. Para sa pagtitipon sa bahay, pumili ng matatag na mesa na malayo sa araw at init. Para sa restaurant, alamin kung pinapayagan ang dalang cake at kung sino ang tatanggap. Para sa sorpresa, magtalaga ng discreet na taong hahawak sa tawag ng bakery at delivery. Kumpirmahin ang buong quote, petsa, flavour, at handoff bago magbayad. Tingnan ang [cake-size guide](/journal/cake-sizes-cebu.html) at [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili ug monthsary cake para sa gamay nga selebrasyon
-
-Kung ang cake para sa duha, ang 4-pulgada nga Bento mahimong mohaum sa plano: nagsilbi kini mga duha ka ubay-ubay nga mga bahin o tulo ka kasarangan nga mga servings. Kon pipila ka mga higala ang moapil, ihap kon pila ka tawo ang aktuwal nga mokuha og cake ug pangutana kon ang 6-pulgada nga gidak-on mas angay. Ayaw pag-order pinaagi sa numero nga giimbitar kung ang grupo nagpaabut lamang sa usa ka lami.
-
-Gibanabana sa White Cakes ang 8–12 ka party slices gikan sa 6-inch nga cake ug 16–24 gikan sa 8-inch nga cake. Kini mao ang gibana-bana nga mga han-ay; ang usa ka gamay nga panagtapok mahimong mopili og mas dagkong mga hiwa kay sa usa ka panghitabo nga adunay daghang mga dessert. Sultihi ang panaderya kung gusto nimo ipaambit ang usa ka bug-os nga hiwa o i-serve ang gagmay nga mga bahin.
-
-Para sa personal nga desinyo, magpadala ug mubo nga inskripsiyon, gusto nga lami, kolor, ug usa ka tin-aw nga reperensiya. Kumpirma ang petsa, pagkaanaa, katapusang presyo, ug mga detalye sa pagkuha o paghatud. Ang gihimo nga mga cake kinahanglan nga labing menos tulo ka adlaw nga pahibalo. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order sa higayon nga ang disenyo ug mga termino gitakda.
-
-Hupti ang pananglitan sa gamay nga pagpundok nga bahin sa gipaambit nga giya sa pagsukod aron ang mga numero niini magpabilin nga makanunayon sa tibuok site.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng monthsary cake para sa isang maliit na pagdiriwang
-
-Kung ang cake ay para sa dalawa, ang 4-inch na Bento ay maaaring magkasya sa plano: ito ay naghahain ng halos dalawang masaganang bahagi o tatlong katamtamang serving. Kung sasali ang ilang kaibigan, bilangin kung ilang tao ang aktwal na kukuha ng cake at tanungin kung mas angkop ang 6 na pulgadang sukat. Huwag mag-order ayon sa numerong inimbitahan kung ang inaasahan ng grupo ay isang lasa lamang.
-
-Tinatantya ng White Cakes ang 8–12 party slice mula sa isang 6-inch na cake at 16–24 mula sa isang 8-inch na cake. Ito ay mga tinatayang saklaw; ang isang maliit na pagtitipon ay maaaring pumili ng mas malalaking hiwa kaysa sa isang kaganapan na may maraming dessert. Sabihin sa panaderya kung gusto mong ibahagi ang isang buong slice o maghatid ng maliliit na bahagi.
-
-Para sa isang personal na disenyo, magpadala ng isang maikling inskripsiyon, ginustong lasa, kulay, at isang malinaw na sanggunian. Kumpirmahin ang petsa, availability, pinal na presyo, at mga detalye ng pagkuha o paghahatid. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa. Kinukumpirma ng 50% na deposito ang napagkasunduang order kapag naitakda na ang disenyo at mga tuntunin.
-
-Panatilihin ang halimbawang bahagi ng maliit na pagtitipon sa nakabahaging gabay sa pagpapalaki upang manatiling pare-pareho ang mga numero nito sa buong site.
+- Serving estimates are approximate and from the current guide; verify size, design space, restaurant policy, and delivery before publication.
+- Cebuano and Tagalog drafts need native editorial review.

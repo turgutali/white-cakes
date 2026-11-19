@@ -1,38 +1,51 @@
 ---
 id: WC-0359
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-designs-cebu.html; standalone portfolio entry only with an original approved photo
-english_title: "Design details to consider for proposal cake in Cebu"
-cebuano_title: "Mga detalye sa disenyo nga ikonsiderar para sa cake para sa proposal sa Cebu"
-tagalog_title: "Mga detalye ng disenyo na dapat isaalang-alang para sa cake para sa proposal sa Cebu"
+english_title: "Design Details to Consider for a Proposal Cake in Cebu"
+cebuano_title: "Mga Detalye sa Disenyo nga Ikonsiderar para sa Proposal Cake sa Cebu"
+tagalog_title: "Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Proposal Cake sa Cebu"
 ---
 
-## Make a proposal cake feel personal without making the design hard to read
+## English
 
-A proposal cake is usually seen at close range, so one clear personal detail can matter more than several competing decorations. When requesting a custom design, share the proposal setting, the recipient’s favourite colours, and one meaningful reference such as a shared place or hobby. Explain which detail is essential and which ones are optional.
+# Design Details to Consider for a Proposal Cake in Cebu
 
-Send reference images as direction, not as a promise of an exact copy. The baker can advise which shapes, lettering, and buttercream details suit the cake size and the available time. If the cake will be carried to the proposal location, mention the route and timing so the design and handoff plan can be considered together.
+Proposal cake design begins with the reveal setting. Decide whether the cake will be seen by two people or a group, whether its message should be private, and how much display space is available. These answers help determine the shape, lettering size, and amount of decoration.
 
-Keep the proposal idea, final design, and actual cake details distinct in any portfolio story. Publish a case study only after the cake exists and the customer has approved its image and identifying details. Otherwise, add the general briefing advice to the existing Cebu design guide.
+Choose one focal idea. It could be a short question, a meaningful colour, or a subtle visual reference. Too many competing motifs can make a small cake harder to read. Send a focused reference and describe the detail to adapt, rather than asking the bakery to combine several complete designs.
+
+Check the inscription early. Provide exact text and confirm spelling, names, punctuation, and capitalization. Ask the bakery which hand-piped lettering it can provide and how much space the selected design leaves. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so plan around available methods.
+
+Consider transportation and venue conditions. Tall or delicate elements may need adjustment if the cake will travel or wait before the reveal. Ask the bakery how the proposed decoration and size affect handling, and confirm storage instructions. For a broader design checklist, see the [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Cebuano
+
+# Mga Detalye sa Disenyo nga Ikonsiderar para sa Proposal Cake sa Cebu
+
+Magsugod ang disenyo sa proposal cake sa lugar sa reveal. Desisyoni kon duha ba ka tawo o grupo ang makakita niini, sekreto ba ang mensahe ug pila ang luna sa display. Makatabang kini sa pagpili sa porma, kadak-on sa letra ug gidaghanon sa dekorasyon.
+
+Pagpili og usa ka sentrong ideya. Mahimong mubo nga pangutana, makahuloganong kolor o malumo nga visual reference. Makalisod basahon ang gamay nga cake kon daghan kaayong motif nga nag-ilog sa atensiyon. Pagpadala og klarong reference ug isaysay unsang detalye ang ipasibo imbes hangyoon ang panaderya nga kombinahon ang daghang kompleto nga disenyo.
+
+Susiha daan ang inskripsiyon. Ihatag ang eksaktong teksto ug kumpirmaha ang spelling, ngalan, punctuation ug capitalization. Pangutan-a unsang hand-piped lettering ang mahimo ug pila ka luna ang mabilin sa napiling disenyo. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa pagplano base sa available nga pamaagi.
+
+Hunahunaa ang pagdala ug kahimtang sa venue. Mahimong usbon ang taas o delikadong detalye kon biyaheon o hulaton ang cake sa dili pa ang reveal. Pangutan-a ang panaderya sa epekto sa dekorasyon ug gidak-on sa pagdala ug kumpirmaha ang storage instructions. Para sa mas lapad nga checklist, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
+
+## Tagalog
+
+# Mga Detalye ng Disenyong Dapat Isaalang-alang para sa Proposal Cake sa Cebu
+
+Nagsisimula ang disenyo ng proposal cake sa lugar ng reveal. Pagpasiyahan kung dalawa lang o grupo ang makakakita rito, kung dapat pribado ang mensahe, at gaano kalaki ang display space. Nakakatulong ang mga sagot na ito sa pagpili ng hugis, laki ng lettering, at dami ng dekorasyon.
+
+Pumili ng iisang focal idea. Maaari itong maikling tanong, makahulugang kulay, o banayad na visual reference. Maaaring mahirap basahin ang maliit na cake kung maraming motif ang nag-aagawan ng pansin. Magpadala ng piling reference at ilarawan ang detalyeng iaangkop sa halip na hilinging pagsamahin ng bakery ang maraming buong design.
+
+Suriin nang maaga ang inscription. Ibigay ang eksaktong text at tiyakin ang spelling, pangalan, punctuation, at capitalization. Itanong kung anong hand-piped lettering ang kaya ng bakery at gaano kalaking espasyo ang maiiwan ng napiling design. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya magplano batay sa available na paraan.
+
+Isaalang-alang ang biyahe at kondisyon ng venue. Maaaring kailangang baguhin ang matataas o marurupok na detalye kung ibibiyahe o maghihintay ang cake bago ang reveal. Itanong sa bakery kung paano naaapektuhan ng dekorasyon at sukat ang paghawak at kumpirmahin ang storage instructions. Para sa mas malawak na checklist, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Himoa nga personal ang usa ka proposal nga cake nga dili lisod basahon ang disenyo
-
-Ang usa ka proposal nga cake kasagarang makita sa duol, mao nga ang usa ka tin-aw nga personal nga detalye mahimong mas importante kay sa daghang mga dekorasyon nga nakigkompetensya. Kung mangayo ug custom nga disenyo, ipaambit ang setting sa proposal, paborito nga mga kolor sa nakadawat, ug usa ka makahuluganon nga pakisayran sama sa gipaambit nga lugar o kalingawan. Ipatin-aw kung unsang detalye ang kinahanglanon ug hain ang opsyonal.
-
-Ipadala ang reference nga mga hulagway isip direksyon, dili isip usa ka saad sa eksaktong kopya. Ang panadero makatambag kung unsang mga porma, letra, ug mga detalye sa buttercream ang angay sa gidak-on sa cake ug sa magamit nga oras. Kon ang cake dad-on ngadto sa proposal nga lokasyon, hisguti ang rota ug timing aron ang disenyo ug handoff nga plano makonsiderar nga magkauban.
-
-Ipadayon ang ideya sa sugyot, katapusan nga disenyo, ug aktuwal nga mga detalye sa cake nga lahi sa bisan unsang istorya sa portfolio. Imantala ang usa ka case study pagkahuman lang sa cake ug giaprobahan sa kustomer ang imahe niini ug mga detalye sa pag-ila. Kung dili, idugang ang kinatibuk-ang tambag sa pagpahibalo sa kasamtangan nga giya sa disenyo sa Cebu.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Gawing personal ang isang proposal cake nang hindi ginagawang mahirap basahin ang disenyo
-
-Ang isang proposal cake ay kadalasang nakikita sa malapitan, kaya ang isang malinaw na personal na detalye ay maaaring mas mahalaga kaysa sa ilang nakikipagkumpitensyang dekorasyon. Kapag humihiling ng custom na disenyo, ibahagi ang setting ng panukala, mga paboritong kulay ng tatanggap, at isang makabuluhang sanggunian tulad ng isang nakabahaging lugar o libangan. Ipaliwanag kung aling detalye ang mahalaga at alin ang opsyonal.
-
-Magpadala ng mga reference na larawan bilang direksyon, hindi bilang isang pangako ng eksaktong kopya. Maaaring payuhan ng panadero kung aling mga hugis, titik, at mga detalye ng buttercream ang nababagay sa laki ng cake at sa magagamit na oras. Kung ang cake ay dadalhin sa lokasyon ng panukala, banggitin ang ruta at tiyempo upang maisaalang-alang ang disenyo at handoff na plano.
-
-Panatilihing naiiba ang ideya ng panukala, panghuling disenyo, at aktwal na mga detalye ng cake sa anumang kwentong portfolio. Mag-publish ng case study pagkatapos lang magkaroon ng cake at inaprubahan ng customer ang larawan nito at mga detalye ng pagkakakilanlan. Kung hindi, idagdag ang pangkalahatang payo sa briefing sa kasalukuyang gabay sa disenyo ng Cebu.
+- Confirm current lettering and handling details before publication.
+- Cebuano and Tagalog drafts need native editorial review.

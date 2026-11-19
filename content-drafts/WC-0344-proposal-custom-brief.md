@@ -1,44 +1,51 @@
 ---
 id: WC-0344
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "What to include in a custom brief for proposal cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake para sa proposal sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake para sa proposal sa Cebu"
+english_title: "What to Include in a Custom Brief for a Proposal Cake in Cebu"
+cebuano_title: "Unsa ang Iapil sa Custom Brief para sa Proposal Cake sa Cebu"
+tagalog_title: "Ano ang Isasama sa Custom Brief para sa Proposal Cake sa Cebu"
 ---
 
-## Brief a proposal cake without revealing the surprise
+## English
 
-Start with the date, time the cake is needed, number of people who will share it, preferred size, flavour, and pickup or delivery location. If it is a surprise, state who White Cakes may contact and provide a trusted local receiver's mobile number. The bakery still needs clear delivery instructions so the cake reaches the right person.
+# What to Include in a Custom Brief for a Proposal Cake in Cebu
 
-For design, describe the recipient's preference in a few words and send one reference image. Identify which detail matters most and what can be adapted. Include the exact inscription in its final form; ask a friend or family member to check the wording if needed. Confirm that the design and message fit the selected cake size and ask for a final quote.
+A useful proposal cake brief tells the bakery what the cake must do in the event and which details are flexible. Start with the event date, needed serving range, venue or delivery address, and the time by which the cake must be ready. Include a contact person who can answer questions while the organizer is busy.
 
-If only two people will share it, the 4-inch Bento offers about two generous or three modest portions. Larger groups need a serving estimate from White Cakes. Confirm date availability and at least three days' notice. The 50% deposit confirms the agreed order after design, price, and handoff terms are settled.
+Describe the design in a few specific points: the overall mood, preferred colours, one or two reference images, and the feature that matters most. Explain what can change if the reference cannot be recreated exactly. Add the inscription as exact text, including punctuation, spelling, and capitalization. If the wording must stay private, say who may see it and how the bakery should contact you.
 
-Keep this scenario in the central custom brief guide and avoid claiming special surprise handling unless the bakery confirms it.
+List the flavour preference and any dietary or ingredient questions clearly, but ask the bakery to confirm what it can accommodate. Do not assume a photo proves that a particular finish, material, or decoration is available. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets; the brief should ask for a feasible interpretation using current techniques.
+
+Before the order is final, request a written summary of size, flavour, design, inscription, price, payment terms, date, delivery window or pickup arrangement, and receiver details. This creates one reference everyone can use if the proposal plan changes. For a structured order checklist, see [how to brief a custom cake](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Cebuano
+
+# Unsa ang Iapil sa Custom Brief para sa Proposal Cake sa Cebu
+
+Ang maayong proposal cake brief mosulti sa panaderya sa papel sa cake sa event ug sa mga detalye nga flexible pa. Sugdi sa petsa, gikinahanglang gidak-on sa servings, venue o delivery address, ug oras nga kinahanglan nang andam ang cake. Iapil ang contact person nga makatubag sa pangutana samtang busy ang organizer.
+
+Ihulagway ang disenyo pinaagi sa pipila ka espesipikong punto: kinatibuk-ang mood, paboritong kolor, usa o duha ka reference nga litrato, ug pinakaimportanteng bahin. Ipasabot unsay mahimong usbon kon dili eksaktong mahimo ang reference. Ibutang ang inskripsiyon isip eksaktong teksto, apil ang punctuation, spelling ug capitalization. Kung sekreto ang mensahe, isulti kinsa ang puwedeng makakita ug unsaon pagkontak sa panaderya.
+
+Isulat ang flavour preference ug mga pangutana bahin sa pagkaon o sangkap, apan hangyoa ang panaderya sa pagkumpirma kon mahimo kini. Ayaw hunahunaa nga ang litrato nagpasabot nga available ang usa ka finish, materyal o dekorasyon. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets; hangyoa sa brief ang mahimo nga interpretasyon gamit ang kasamtangang teknik.
+
+Sa dili pa pinal ang order, pangayo og sinulat nga summary sa gidak-on, flavour, disenyo, inskripsiyon, presyo, terms sa bayad, petsa, delivery window o pickup, ug detalye sa modawat. Usa kini ka reference nga magamit sa tanan kon mausab ang plano sa proposal. Para sa checklist, tan-awa ang [how to brief a custom cake](/journal/how-to-brief-a-custom-cake-cebu.html).
+
+## Tagalog
+
+# Ano ang Isasama sa Custom Brief para sa Proposal Cake sa Cebu
+
+Sinasabi ng mahusay na proposal cake brief sa bakery kung ano ang papel ng cake sa event at kung aling detalye ang puwedeng baguhin. Magsimula sa petsa, kailangang range ng servings, venue o delivery address, at oras na dapat handa na ang cake. Magbigay ng contact person na makakasagot sa mga tanong habang abala ang organizer.
+
+Ilarawan ang design gamit ang ilang tiyak na punto: pangkalahatang mood, gustong mga kulay, isa o dalawang reference photo, at pinakamahalagang feature. Ipaliwanag kung ano ang puwedeng baguhin kung hindi eksaktong magaya ang reference. Ilagay ang inscription bilang eksaktong text kasama ang punctuation, spelling, at capitalization. Kung kailangang manatiling pribado ang mensahe, sabihin kung sino ang puwedeng makakita at paano ka kokontakin ng bakery.
+
+Ilista nang malinaw ang flavour preference at mga tanong tungkol sa pagkain o sangkap, pero hilingin sa bakery na kumpirmahin kung kaya nito. Huwag ipalagay na ibig sabihin ng isang larawan ay available ang partikular na finish, materyal, o dekorasyon. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets; humiling sa brief ng posibleng interpretasyon gamit ang kasalukuyang mga technique.
+
+Bago gawing pinal ang order, humingi ng nakasulat na summary ng sukat, flavour, design, inscription, presyo, payment terms, petsa, delivery window o pickup arrangement, at detalye ng tatanggap. Nagbibigay ito ng iisang reference sa lahat kung magbago ang plano ng proposal. Para sa checklist, tingnan ang [how to brief a custom cake](/journal/how-to-brief-a-custom-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Mubo nga proposal nga cake nga wala ibutyag ang katingala
-
-Pagsugod sa petsa, oras nga gikinahanglan ang cake, gidaghanon sa mga tawo nga mopaambit niini, gusto nga gidak-on, lami, ug lokasyon sa pagkuha o paghatod. Kung kini usa ka sorpresa, isulti kung kinsa ang White Cakes nga mahimong makontak ug maghatag usa ka kasaligan nga lokal nga tigdawat nga numero sa mobile. Ang panaderya nagkinahanglan gihapon og klaro nga mga instruksyon sa pagpadala aron ang cake makaabot sa husto nga tawo.
-
-Alang sa disenyo, ihulagway ang gusto sa nakadawat sa pipila ka mga pulong ug ipadala ang usa ka reperensya nga imahe. Ilha kung unsa nga detalye ang labing hinungdanon ug kung unsa ang mahimong ipahiangay. Ilakip ang eksaktong inskripsiyon sa kataposang porma niini; hangyoa ang usa ka higala o sakop sa pamilya sa pagsusi sa mga pulong kon gikinahanglan. Pagmatuod nga ang disenyo ug mensahe mohaum sa pinili nga gidak-on sa cake ug pangayo og katapusang kinutlo.
-
-Kung duha ra ka tawo ang mopaambit niini, ang 4-pulgada nga Bento nagtanyag mga duha ka manggihatagon o tulo ka kasarangan nga bahin. Ang mas dagkong mga grupo nanginahanglan usa ka banabana sa pagserbisyo gikan sa White Cakes. Kumpirma ang pagkaanaa sa petsa ug labing menos tulo ka adlaw nga pahibalo. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order pagkahuman sa disenyo, presyo, ug mga termino sa handoff nahusay.
-
-Itago kini nga senaryo sa sentro nga kostumbre nga mubo nga giya ug likayi ang pag-angkon nga espesyal nga pagdumala sa sorpresa gawas kung gikumpirma kini sa panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Maikling isang proposal cake nang hindi inilalantad ang sorpresa
-
-Magsimula sa petsa, oras na kailangan ang cake, bilang ng mga taong magbabahagi nito, gustong laki, lasa, at lokasyon ng pickup o paghahatid. Kung ito ay isang sorpresa, sabihin kung sino ang White Cakes na maaaring makipag-ugnayan at magbigay ng isang pinagkakatiwalaang lokal na numero ng mobile na receiver. Ang panaderya ay nangangailangan pa rin ng malinaw na mga tagubilin sa paghahatid upang ang cake ay makarating sa tamang tao.
-
-Para sa disenyo, ilarawan ang kagustuhan ng tatanggap sa ilang salita at magpadala ng isang reference na larawan. Tukuyin kung aling detalye ang pinakamahalaga at kung ano ang maaaring iakma. Isama ang eksaktong inskripsiyon sa huling anyo nito; hilingin sa isang kaibigan o miyembro ng pamilya na suriin ang mga salita kung kinakailangan. Kumpirmahin na ang disenyo at mensahe ay akma sa napiling laki ng cake at humingi ng panghuling quote.
-
-Kung dalawang tao lamang ang magbabahagi nito, ang 4-inch na Bento ay nag-aalok ng halos dalawang mapagbigay o tatlong katamtamang bahagi. Ang mas malalaking grupo ay nangangailangan ng pagtatantya sa paghahatid mula sa White Cakes. Kumpirmahin ang availability ng petsa at hindi bababa sa tatlong araw na paunawa. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos mabayaran ang mga tuntunin sa disenyo, presyo, at handoff.
-
-Panatilihin ang sitwasyong ito sa gitnang custom na maikling gabay at iwasang mag-claim ng espesyal na paghawak ng sorpresa maliban kung kumpirmahin ito ng panaderya.
+- Confirm current ingredient handling and design capabilities before publication.
+- Cebuano and Tagalog drafts need native editorial review.

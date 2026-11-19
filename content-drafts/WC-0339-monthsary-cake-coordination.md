@@ -1,44 +1,51 @@
 ---
 id: WC-0339
-status: written-draft
-publish_action: merge into /journal/anniversary-cake-message-ideas-cebu.html and /journal/cake-delivery-cebu.html
-english_title: "How to coordinate monthsary cake in Cebu"
-cebuano_title: "Giunsa pag-coordinate ang cake para sa monthsary sa Cebu"
-tagalog_title: "Paano i-coordinate ang cake para sa monthsary sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-delivery-cebu.html and /journal/monthsary-cakes-cebu.html
+english_title: "Coordinating a Monthsary Cake Surprise in Cebu"
+cebuano_title: "Pag-coordinate sa Monthsary Cake Surprise sa Cebu"
+tagalog_title: "Pag-coordinate ng Monthsary Cake Surprise sa Cebu"
 ---
 
-## Coordinate a monthsary cake without leaving the recipient guessing
+## English
 
-Choose the date and who will receive the cake before placing the order. If it is a surprise, give White Cakes the buyer's contact for questions and a separate number for the Cebu receiver. Share the recipient's full address, a landmark, and any gate or lobby instruction. A person should be available during the agreed delivery window to accept the box.
+# Coordinating a Monthsary Cake Surprise in Cebu
 
-Select the cake format based on how many people will share it. The 4-inch Bento has two generous or three modest servings and room for a short message; a larger family gathering needs a size discussion using the current portion guide. Signature Marble offers a defined 6-inch look, while Bouquet Cake has a floral finish quoted according to the requested scale. Ask the bakery to confirm the right format and current price.
+A monthsary surprise is easier when the bakery, receiver, and event plan all have one clear point of contact. Decide who will place the order, who will pay, and who can receive the cake. If those are different people, share the written confirmation with each person so nobody is working from an old message.
 
-Send the exact inscription and spelling, flavour, date, and one design reference. White Cakes asks for at least three days' notice and confirms availability before the date is reserved. Keep the cake out of direct sun and hot cars after delivery; refrigerate it if it will be held for several hours.
+Choose the time and location before you order. For a home surprise, confirm that someone will be there during the delivery window. For a restaurant or café, check whether outside cake is allowed and whether staff can receive it before the couple arrives. If you plan to meet outdoors, consider how the cake will be carried and where it can be placed safely.
 
-This coordination advice can live in the existing anniversary-message and delivery guides. A separate monthsary logistics page would only be warranted if the bakery documents a distinct local delivery issue that changes the advice.
+Keep the surprise private in practical ways. Use a personal contact number or email that your partner cannot see, and ask the receiver not to leave the cake in a visible spot. Tell the bakery whether it should contact the receiver or organizer, and provide a backup number in case the first contact is unavailable. White Cakes confirms a delivery window, not an exact arrival minute, so do not build the reveal around a precise time.
+
+Share one final order summary: date, flavour, size, inscription, design, address, handoff person, and payment status. Confirm storage instructions and who will bring the cake out. After delivery, check the label and message before revealing it. For route and handoff details, see the [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) and [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Cebuano
+
+# Pag-coordinate sa Monthsary Cake Surprise sa Cebu
+
+Mas sayon ang monthsary surprise kon adunay usa ka klarong contact para sa panaderya, modawat ug plano sa event. Desisyoni kinsa ang mo-order, mobayad ug modawat sa cake. Kung lahi-lahi kini nga tawo, ipaambit sa tanan ang sinulat nga kumpirmasyon aron dili maggamit og daang mensahe.
+
+Pagpili sa oras ug lugar sa dili pa mo-order. Para sa surprise sa balay, kumpirmaha nga adunay tawo didto sulod sa delivery window. Para sa restaurant o café, pangutan-a kung pwede ang cake gikan sa gawas ug kung modawat ba ang staff sa dili pa moabot ang magtiayon. Kung magtagbo sa gawas, hunahunaa unsaon pagdala sa cake ug asa kini ibutang nga luwas.
+
+Tipigi ang surprise pinaagi sa praktikal nga paagi. Gamita ang personal nga numero o email nga dili makita sa partner, ug hangyoa ang modawat nga dili ibilin ang cake sa klarong makita nga dapit. Sultihi ang panaderya kung modawat ba o organizer ang kontakon ug ihatag ang backup number kon dili available ang una. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes, busa ayaw ibase sa tukmang oras ang reveal.
+
+Ipaambit ang usa ka pinal nga order summary: petsa, flavour, gidak-on, inskripsiyon, disenyo, address, modawat ug kahimtang sa bayad. Kumpirmaha ang instruksyon sa pagtipig ug kinsa ang mopagawas sa cake. Human ma-deliver, susiha ang label ug mensahe sa dili pa ipakita. Para sa ruta ug handoff, tan-awa ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) ug [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Tagalog
+
+# Pag-coordinate ng Monthsary Cake Surprise sa Cebu
+
+Mas madaling isagawa ang monthsary surprise kapag may iisang malinaw na contact para sa bakery, tatanggap, at event plan. Pagpasiyahan kung sino ang mag-o-order, magbabayad, at tatanggap sa cake. Kung magkakaibang tao ang mga ito, ibahagi sa bawat isa ang nakasulat na confirmation para walang gumamit ng lumang mensahe.
+
+Piliin ang oras at lokasyon bago mag-order. Para sa surprise sa bahay, tiyaking may naroon sa loob ng delivery window. Para sa restaurant o café, alamin kung pinapayagan ang dalang cake at kung matatanggap ito ng staff bago dumating ang mag-partner. Kung magkikita sa labas, pag-isipan kung paano dadalhin ang cake at saan ito ligtas na ilalagay.
+
+Panatilihing lihim ang sorpresa sa praktikal na paraan. Gumamit ng personal na contact number o email na hindi nakikita ng partner mo, at sabihan ang tatanggap na huwag iwan ang cake sa lugar na madaling makita. Sabihin sa bakery kung tatanggap o organizer ang dapat kontakin at magbigay ng backup number kung hindi available ang una. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya huwag ibatay sa tiyak na oras ang reveal.
+
+Ibahagi ang iisang pinal na order summary: petsa, flavour, sukat, inscription, disenyo, address, tatanggap, at payment status. Kumpirmahin ang storage instruction at kung sino ang maglalabas ng cake. Pagkatapos ng delivery, tingnan ang label at mensahe bago ipakita. Para sa ruta at handoff details, tingnan ang [Cebu cake delivery guide](/journal/cake-delivery-cebu.html) at [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pag-coordinate sa usa ka monthsary cake nga dili biyaan ang nakadawat sa pagtag-an
-
-Pilia ang petsa ug kinsa ang makadawat sa cake sa dili pa ibutang ang order. Kung surpresa, hatagi ang White Cakes sa kontak sa pumapalit alang sa mga pangutana ug lahi nga numero alang sa receiver sa Sugbo. Ipakigbahin ang kompleto nga adres sa nakadawat, usa ka timaan, ug bisan unsang panudlo sa ganghaan o lobby. Ang usa ka tawo kinahanglan nga magamit sa panahon sa gikasabutan nga bintana sa pagpadala aron dawaton ang kahon.
-
-Pilia ang pormat sa cake base sa pila ka tawo ang mopaambit niini. Ang 4-pulgada nga Bento adunay duha ka manggihatagon o tulo ka kasarangan nga pag-alagad ug lawak alang sa usa ka mubo nga mensahe; ang usa ka dako nga panagtapok sa pamilya nagkinahanglan og usa ka gidak-on nga diskusyon gamit ang kasamtangan nga giya sa bahin. Ang Signature Marble nagtanyag usa ka gipiho nga 6-pulgada nga hitsura, samtang ang Bouquet Cake adunay usa ka floral finish nga gikutlo sumala sa gihangyo nga sukod. Hangyoa ang panaderya sa pagkumpirma sa husto nga format ug kasamtangan nga presyo.
-
-Ipadala ang eksaktong inskripsiyon ug spelling, lami, petsa, ug usa ka reperensiya sa disenyo. Ang White Cakes nangayo og labing menos tulo ka adlaw nga pahibalo ug nagpamatuod nga anaa sa dili pa ang petsa gireserba. Hupti ang cake gikan sa direkta nga adlaw ug init nga mga sakyanan human sa delivery; pabugnawa kini kon kini ipahigayon sulod sa pipila ka oras.
-
-Kini nga tambag sa koordinasyon mahimong mabuhi sa naglungtad nga anibersaryo-mensahe ug mga giya sa paghatud. Ang usa ka separado nga monthsary logistics nga panid magarantiya lamang kung ang panaderya nagdokumento sa usa ka lahi nga lokal nga isyu sa pagpadala nga nagbag-o sa tambag.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Mag-coordinate ng monthsary cake nang hindi umaalis sa tatanggap na hulaan
-
-Piliin ang petsa at kung sino ang tatanggap ng cake bago maglagay ng order. Kung ito ay isang sorpresa, bigyan ang White Cakes ng contact ng mamimili para sa mga katanungan at isang hiwalay na numero para sa Cebu receiver. Ibahagi ang buong address ng tatanggap, isang palatandaan, at anumang tagubilin sa gate o lobby. Dapat na available ang isang tao sa panahon ng napagkasunduang delivery window upang tanggapin ang kahon.
-
-Piliin ang format ng cake batay sa kung gaano karaming tao ang magbabahagi nito. Ang 4-pulgadang Bento ay may dalawang mapagbigay o tatlong katamtamang serving at puwang para sa isang maikling mensahe; ang isang mas malaking pagtitipon ng pamilya ay nangangailangan ng isang sukat na talakayan gamit ang kasalukuyang gabay sa bahagi. Nag-aalok ang Signature Marble ng tinukoy na 6-inch na hitsura, habang ang Bouquet Cake ay may floral finish na sinipi ayon sa hiniling na sukat. Hilingin sa panaderya na kumpirmahin ang tamang format at kasalukuyang presyo.
-
-Ipadala ang eksaktong inskripsiyon at spelling, lasa, petsa, at isang sanggunian sa disenyo. Ang White Cakes ay humihingi ng hindi bababa sa tatlong araw na paunawa at kinukumpirma ang pagkakaroon bago ang petsa ay nakalaan. Panatilihin ang cake sa direktang araw at mainit na mga kotse pagkatapos ng paghahatid; palamigin ito kung ito ay gaganapin ng ilang oras.
-
-Ang payo sa koordinasyon na ito ay maaaring mabuhay sa umiiral na anibersaryo-mensahe at mga gabay sa paghahatid. Ang isang hiwalay na monthsary logistics page ay magiging warrant lamang kung ang panaderya ay nagdodokumento ng isang natatanging lokal na isyu sa paghahatid na nagbabago sa payo.
+- Confirm current delivery window, receiver instructions, and storage advice before publication.
+- Cebuano and Tagalog drafts need native editorial review.

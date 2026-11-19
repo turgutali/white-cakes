@@ -1,38 +1,51 @@
 ---
 id: WC-0366
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-prices-cebu.html; verify current rate and product details
-english_title: "What to ask about the price of thank-you cake in Cebu"
-cebuano_title: "Unsa ang ipangutana bahin sa presyo sa cake isip pasalamat sa Cebu"
-tagalog_title: "Ano ang dapat itanong tungkol sa presyo ng cake bilang pasasalamat sa Cebu"
+english_title: "What to Ask About the Price of a Thank-You Cake in Cebu"
+cebuano_title: "Unsa ang Ipangutana Bahin sa Presyo sa Thank-You Cake sa Cebu"
+tagalog_title: "Ano ang Dapat Itanong Tungkol sa Presyo ng Thank-You Cake sa Cebu"
 ---
 
-## Request a complete quote for the cake and its delivery
+## English
 
-When asking about a thank-you cake price, share the date, size, flavour, serving estimate, design, and exact message. If it will be delivered to an office or event, provide the full address and ask whether that route is available. Confirm if the quote includes lettering, custom decoration, and any delivery charge.
+# What to Ask About the Price of a Thank-You Cake in Cebu
 
-Ask for the current total in writing; prices and menu options can change. If you have a budget, mention it before the design is finalized and ask which current option fits. Confirm the deposit amount and payment instructions before sending money.
+To get a useful thank-you cake quote, send the date, size or serving range, flavour preference, design idea, message, and delivery or pickup details. Say whether the design is simple or custom and identify the details that must stay. The more complete the brief, the easier it is for the bakery to explain the price for the actual request.
 
-Keep rates in the maintained price guide and link to the order page for payment steps. Do not create a separate thank-you pricing page that can become outdated.
+Ask what is included in the quoted amount. Confirm whether delivery is separate for your address, whether a particular decoration changes the price, and whether the quote covers the requested size and inscription. A photo reference can guide the conversation, but it does not establish that a finish is available or included.
+
+Before sending payment, ask for the final price and current terms in writing. Confirm the deposit, balance due date, payment method, and how a change in date or design is handled. The current site guide describes a 50% deposit once price and order details are agreed; verify that this remains the policy.
+
+Keep the quote with the written order summary so the price corresponds to the same cake everyone has approved. For current ordering context, see [Cebu cake prices](/journal/cake-prices-cebu.html).
+
+## Cebuano
+
+# Unsa ang Ipangutana Bahin sa Presyo sa Thank-You Cake sa Cebu
+
+Para makakuha og mapuslanong quote sa thank-you cake, ipadala ang petsa, gidak-on o range sa servings, flavour preference, ideya sa disenyo, mensahe ug detalye sa delivery o pickup. Isulti kon simple ba o custom ang disenyo ug unsang detalye ang kinahanglan magpabilin. Mas kompleto nga brief, mas sayon ipasabot sa panaderya ang presyo sa tinuod nga request.
+
+Pangutan-a unsay apil sa kantidad. Kumpirmaha kon lahi ang delivery sa inyong address, kon mausab ang presyo tungod sa dekorasyon ug kon sakop sa quote ang gidak-on ug inskripsiyon. Makatabang sa panaghisgot ang reference photo, apan dili kini pamatuod nga available o apil ang usa ka finish.
+
+Sa dili pa magbayad, pangayo sa sinulat ang pinal nga presyo ug kasamtangang terms. Kumpirmaha ang deposit, petsa sa balanse, paagi sa pagbayad ug proseso kon mausab ang petsa o disenyo. Gihulagway sa kasamtangang site guide ang 50% nga deposit human mouyon sa presyo ug detalye; susiha kon mao pa kini ang policy.
+
+Tipigi ang quote uban sa sinulat nga order summary aron ang presyo motakdo sa cake nga giuyonan sa tanan. Para sa kasamtangang konteksto sa pag-order, tan-awa ang [Cebu cake prices](/journal/cake-prices-cebu.html).
+
+## Tagalog
+
+# Ano ang Dapat Itanong Tungkol sa Presyo ng Thank-You Cake sa Cebu
+
+Para makakuha ng kapaki-pakinabang na quote para sa thank-you cake, ipadala ang petsa, sukat o range ng servings, flavour preference, ideya sa design, mensahe, at detalye ng delivery o pickup. Sabihin kung simple o custom ang design at aling detalye ang kailangang manatili. Kapag kumpleto ang brief, mas madaling maipaliwanag ng bakery ang presyo para sa aktuwal na request.
+
+Itanong kung ano ang kasama sa halaga. Kumpirmahin kung hiwalay ang delivery para sa address mo, kung may dekorasyong magpapabago ng presyo, at kung sakop ng quote ang hinihinging sukat at inscription. Makakatulong sa usapan ang reference photo, pero hindi nito pinatutunayan na available o kasama ang isang finish.
+
+Bago magbayad, hingin sa sulat ang pinal na presyo at kasalukuyang terms. Kumpirmahin ang deposit, takdang petsa ng natitirang bayad, paraan ng pagbabayad, at proseso kung magbago ang petsa o design. Inilalarawan ng kasalukuyang site guide ang 50% deposit kapag napagkasunduan na ang presyo at detalye; tiyaking ito pa rin ang policy.
+
+Itago ang quote kasama ng nakasulat na buod ng order para tumugma ang presyo sa cake na inaprubahan ng lahat. Para sa kasalukuyang konteksto ng pag-order, tingnan ang [Cebu cake prices](/journal/cake-prices-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pangayo ug kompletong quote para sa cake ug sa paghatud niini
-
-Kung mangutana bahin sa presyo sa cake sa pasalamat, ipaambit ang petsa, gidak-on, lami, banabana sa pagserbisyo, disenyo, ug eksakto nga mensahe. Kung ihatod kini sa usa ka opisina o kalihokan, ihatag ang kompleto nga adres ug pangutana kung magamit ba kana nga ruta. Kumpirma kung ang kinutlo naglakip sa letra, kostumbre nga dekorasyon, ug bisan unsang bayad sa pagpadala.
-
-Pangayo alang sa kasamtangan nga kinatibuk-an sa pagsulat; ang mga presyo ug mga opsyon sa menu mahimong mausab. Kung naa kay budget, hisguti kini sa dili pa mahuman ang desinyo ug pangutan-a kung unsang kasamtangan nga opsyon ang mohaum. Kumpirma ang kantidad sa deposito ug mga instruksiyon sa pagbayad sa dili pa magpadala ug kuwarta.
-
-Ipadayon ang mga rate sa gipadayon nga giya sa presyo ug i-link sa panid sa order alang sa mga lakang sa pagbayad. Ayaw paghimo ug bulag nga panid sa pagpresyo sa pasalamat nga mahimong karaan na.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Humiling ng kumpletong quote para sa cake at paghahatid nito
-
-Kapag nagtatanong tungkol sa presyo ng thank-you cake, ibahagi ang petsa, laki, lasa, pagtatantya ng paghahatid, disenyo, at eksaktong mensahe. Kung ihahatid ito sa isang opisina o kaganapan, ibigay ang buong address at tanungin kung available ang rutang iyon. Kumpirmahin kung ang quote ay may kasamang lettering, custom na dekorasyon, at anumang delivery charge.
-
-Hilingin ang kasalukuyang kabuuan sa pamamagitan ng pagsulat; maaaring magbago ang mga presyo at opsyon sa menu. Kung mayroon kang badyet, banggitin ito bago ma-finalize ang disenyo at itanong kung aling kasalukuyang opsyon ang akma. Kumpirmahin ang halaga ng deposito at mga tagubilin sa pagbabayad bago magpadala ng pera.
-
-Panatilihin ang mga rate sa pinapanatili na gabay sa presyo at i-link sa page ng order para sa mga hakbang sa pagbabayad. Huwag gumawa ng hiwalay na pahina ng pagpepresyo ng pasasalamat na maaaring luma na.
+- Reconfirm current pricing, fees, and payment terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

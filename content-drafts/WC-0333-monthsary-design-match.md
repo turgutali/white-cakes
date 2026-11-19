@@ -1,44 +1,51 @@
 ---
 id: WC-0333
-status: draft-needs-original-photo-case
-publish_action: merge into /journal/cake-designs-cebu.html
-english_title: "How to match the design of monthsary cake in Cebu"
-cebuano_title: "Giunsa pagpares ang disenyo sa cake para sa monthsary sa Cebu"
-tagalog_title: "Paano itugma ang disenyo ng cake para sa monthsary sa Cebu"
+status: human-written-trilingual-draft
+publish_action: merge into /journal/cake-designs-cebu.html and /journal/monthsary-cakes-cebu.html
+english_title: "Matching a Monthsary Cake Design to Your Cebu Plan"
+cebuano_title: "Pagpahiangay sa Disenyo sa Monthsary Cake sa Inyong Plano sa Cebu"
+tagalog_title: "Pagtutugma ng Disenyo ng Monthsary Cake sa Plano Ninyo sa Cebu"
 ---
 
-## Match a monthsary cake design to the couple
+## English
 
-Choose a detail that feels personal to the couple rather than relying on a generic romantic motif. A shared colour, a brief phrase, or a small symbol can be enough. For a 4-inch Bento, keep the design particularly focused so the inscription and decoration have room.
+# Matching a Monthsary Cake Design to Your Cebu Plan
 
-Send one reference photo and explain what the bakery should adapt. Ask White Cakes whether the design works on the selected size and what it will cost. Do not assume an image can be copied exactly. Provide the final wording with spelling checked and confirm it fits the surface.
+Let the way you plan to give the cake guide its design. If you will share it after dinner at home, a short message and one small detail may feel more personal than an elaborate theme. If you are bringing it to a restaurant or meeting your partner outdoors, choose a design and packaging that are practical to carry and easy to reveal without a long setup.
 
-If only two people will share the cake, the 4-inch Bento offers about two generous servings or three modest ones. If friends join, tell the bakery the actual count and ask about another size. Include the event date, flavour, and delivery or pickup plan. Allow at least three days' notice; a 50% deposit confirms the agreed order.
+Think about the moment you want to create. A private gift can use a phrase only the two of you understand, while a cake shared with friends should have a message that makes sense to the group. If it is a surprise, avoid adding a detail about a private plan or a location your partner does not know about. Make the cake feel thoughtful without making the reveal awkward.
 
-Use approved original photos for a specific monthsary design case. Otherwise, add the useful small-cake advice to the existing design guide.
+You can keep a recurring design detail across months—such as one colour, border, or lettering style—and change the message or small motif each time. That gives the cakes a recognizable thread without making every month look identical. If you are choosing a special design for a milestone, tell the bakery what that month means to you and prioritize the one detail that represents it.
+
+White Cakes uses hand-piped buttercream, so ask what the bakery can create at the chosen size. A reference image is a direction, not a promise of an exact copy. Confirm the message, colour, date, flavour, and delivery or pickup plan in the quote. For more design advice, see the [Cebu cake design guide](/journal/cake-designs-cebu.html) and [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Cebuano
+
+# Pagpahiangay sa Disenyo sa Monthsary Cake sa Inyong Plano sa Cebu
+
+Ipasunod ang disenyo sa paagi nga ihatag ang cake. Kung i-share kini human sa panihapon sa balay, mahimong mas personal ang mubo nga mensahe ug usa ka gamay nga detalye kaysa komplikadong tema. Kung dad-on sa restaurant o makigkita sa partner sa gawas, pagpili og disenyo ug packaging nga sayon dad-on ug dali ipakita nga walay taas nga pagpangandam.
+
+Hunahunaa ang higayon nga gusto nimo buhaton. Mahimong adunay pulong nga kamo ra duha makasabot para sa pribadong regalo; kon i-share sa higala, angay nga masabtan sa grupo ang mensahe. Kung surprise, ayaw ibutang ang detalye sa pribadong plano o lugar nga wala pa mahibaloi sa partner. Himoang mahunahunaon ang cake nga dili lisod ang reveal.
+
+Mahimo nimong sublion ang usa ka detalye matag bulan—sama sa kolor, border o estilo sa letra—ug usbon ang mensahe o gamay nga motif. Makahimo kini og mailhang koneksiyon nga dili parehas tan-awon ang cake kada bulan. Kung espesyal nga disenyo para sa milestone ang pilion, isulti sa panaderya unsay kahulogan sa bulan ug unaha ang usa ka detalye nga nagrepresentar niini.
+
+Hand-piped buttercream ang gamit sa White Cakes, busa pangutan-a unsay mahimo sa napiling gidak-on. Direksiyon lang ang reference image, dili saad nga eksaktong makopya. Kumpirmaha sa quote ang mensahe, kolor, petsa, flavour ug delivery o pickup. Para sa dugang giya sa disenyo, tan-awa ang [Cebu cake design guide](/journal/cake-designs-cebu.html) ug [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
+
+## Tagalog
+
+# Pagtutugma ng Disenyo ng Monthsary Cake sa Plano Ninyo sa Cebu
+
+Iayon ang disenyo sa paraan ng pagbibigay mo ng cake. Kung pagsasaluhan ito pagkatapos ng hapunan sa bahay, maaaring mas personal ang maikling mensahe at isang maliit na detalye kaysa komplikadong theme. Kung dadalhin sa restaurant o magkikita kayo ng partner mo sa labas, pumili ng disenyong at packaging na madaling dalhin at i-reveal nang hindi kailangan ng mahabang paghahanda.
+
+Pag-isipan ang sandaling gusto mong likhain. Maaaring gumamit ng pariralang kayong dalawa lang ang nakaaalam para sa pribadong regalo, samantalang dapat maintindihan ng grupo ang mensahe kung pagsasaluhan ito ng mga kaibigan. Kung sorpresa, huwag ilagay ang detalye ng pribadong plano o lokasyong hindi pa alam ng partner mo. Gawing pinag-isipan ang cake nang hindi nagiging alanganin ang reveal.
+
+Maaari ninyong panatilihin ang isang paulit-ulit na detalye bawat buwan—gaya ng kulay, border, o lettering style—at palitan ang mensahe o maliit na motif. Nagbibigay ito ng makikilalang ugnayan nang hindi nagmumukhang pare-pareho ang cake bawat buwan. Kung espesyal na disenyo para sa milestone ang pipiliin, sabihin sa bakery kung ano ang kahulugan ng buwang iyon at unahin ang isang detalyeng kumakatawan dito.
+
+Hand-piped buttercream ang gamit ng White Cakes, kaya itanong kung ano ang magagawa nito sa napiling sukat. Direksiyon lang ang reference image, hindi pangako ng eksaktong paggaya. Kumpirmahin sa quote ang mensahe, kulay, petsa, flavour, at delivery o pickup plan. Para sa dagdag na design advice, tingnan ang [Cebu cake design guide](/journal/cake-designs-cebu.html) at [monthsary cake guide](/journal/monthsary-cakes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipares ang usa ka monthsary cake nga disenyo sa magtiayon
-
-Pagpili og usa ka detalye nga gibati nga personal sa magtiayon imbes nga magsalig sa usa ka generic nga romantikong motibo. Ang usa ka gipaambit nga kolor, usa ka mubo nga hugpong sa mga pulong, o usa ka gamay nga simbolo mahimong igo na. Alang sa usa ka 4-pulgada nga Bento, ipadayon ang disenyo nga labi nga nakapunting aron ang inskripsiyon ug dekorasyon adunay lugar.
-
-Pagpadala ug usa ka reperensya nga litrato ug ipasabut kung unsa ang kinahanglan nga ipahiangay sa panaderya. Pangutan-a ang mga White Cakes kung ang disenyo magamit sa pinili nga gidak-on ug unsa ang gasto niini. Ayaw hunahunaa nga ang usa ka imahe mahimong kopyahon nga eksakto. Ihatag ang katapusan nga mga pulong nga gisusi ang spelling ug kumpirmahi nga kini mohaum sa nawong.
-
-Kon duha lang ka tawo ang moambit sa cake, ang 4-pulgada nga Bento nagtanyag ug mga duha ka manggihatagon nga serving o tulo ka kasarangan. Kung ang mga higala moapil, isulti sa panaderya ang aktuwal nga ihap ug pangutana bahin sa lain nga gidak-on. Ilakip ang petsa sa panghitabo, lami, ug plano sa pagpadala o pagkuha. Tugoti ang labing menos tulo ka adlaw nga pahibalo; usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order.
-
-Gamita ang giaprobahan nga orihinal nga mga litrato para sa usa ka partikular nga monthsary nga disenyo nga kaso. Kung dili, idugang ang mapuslanon nga tambag sa gamay nga cake sa naglungtad nga giya sa disenyo.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Itugma ang disenyo ng monthsary cake sa mag-asawa
-
-Pumili ng detalyeng personal sa mag-asawa sa halip na umasa sa isang generic na romantikong motif. Ang isang nakabahaging kulay, isang maikling parirala, o isang maliit na simbolo ay maaaring sapat na. Para sa isang 4-inch na Bento, panatilihing partikular na nakatutok ang disenyo upang magkaroon ng espasyo ang inskripsiyon at dekorasyon.
-
-Magpadala ng isang reference na larawan at ipaliwanag kung ano ang dapat ibagay ng panaderya. Tanungin ang White Cakes kung gumagana ang disenyo sa napiling laki at kung ano ang halaga nito. Huwag ipagpalagay na eksaktong makopya ang isang imahe. Ibigay ang panghuling salita na may check sa spelling at kumpirmahin na akma ito sa ibabaw.
-
-Kung dalawang tao lang ang magsasalo sa cake, ang 4-inch na Bento ay nag-aalok ng halos dalawang masaganang serving o tatlong katamtaman. Kung sumali ang mga kaibigan, sabihin sa panaderya ang aktwal na bilang at magtanong tungkol sa isa pang sukat. Isama ang petsa ng kaganapan, lasa, at plano ng paghahatid o pickup. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order.
-
-Gumamit ng aprubadong orihinal na mga larawan para sa isang partikular na monthsary na kaso ng disenyo. Kung hindi, idagdag ang kapaki-pakinabang na payo sa maliit na cake sa umiiral na gabay sa disenyo.
+- Confirm design methods, packaging, product availability, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

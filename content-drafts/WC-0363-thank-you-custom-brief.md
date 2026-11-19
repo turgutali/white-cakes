@@ -1,38 +1,51 @@
 ---
 id: WC-0363
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-brief-a-custom-cake-cebu.html
-english_title: "What to include in a custom brief for thank-you cake in Cebu"
-cebuano_title: "Unsa ang iapil sa custom nga brief para sa cake isip pasalamat sa Cebu"
-tagalog_title: "Ano ang isasama sa custom na brief para sa cake bilang pasasalamat sa Cebu"
+english_title: "What to Include in a Custom Brief for a Thank-You Cake in Cebu"
+cebuano_title: "Unsa ang Iapil sa Custom Brief para sa Thank-You Cake sa Cebu"
+tagalog_title: "Ano ang Isasama sa Custom Brief para sa Thank-You Cake sa Cebu"
 ---
 
-## Explain who is being thanked and what the cake should communicate
+## English
 
-State whether the cake is for one person, a team, or a family. Include the event date, guest estimate, requested size, flavour, delivery or pickup plan, and budget. Choose a short message or one personal detail that communicates the thanks and share a reference if it clarifies the look.
+# What to Include in a Custom Brief for a Thank-You Cake in Cebu
 
-Mark which parts are essential and which the bakery may adapt. Confirm the exact inscription and ask whether it fits the chosen size. For office or school orders, get approval before using a logo or sharing a photo publicly.
+A thank-you cake brief should explain who is being thanked, where the cake will be presented, and what the design needs to communicate. You do not need to share private details; a simple description such as “for a departing teammate” or “for our family host” may be enough to guide tone and wording.
 
-Keep the reusable checklist in the custom-brief guide and link to the message, size, and ordering pages for the other decisions.
+Include the event date, expected servings, delivery address or pickup plan, and a contact person. State whether the cake will be served after a meal or as the main dessert. Provide the exact inscription and identify the preferred language. Check every name and spelling in writing before the bakery starts.
+
+For a custom design, send one or two reference images and explain what you want adapted: colour, lettering, a simple motif, or the overall mood. Separate must-have elements from flexible ideas. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets, so ask which interpretation fits its available methods.
+
+Request a final written summary of size, flavour, design, message, price, payment terms, date, and delivery handoff. This keeps the order clear if several people are organizing the thank-you. Use [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) for the broader checklist.
+
+## Cebuano
+
+# Unsa ang Iapil sa Custom Brief para sa Thank-You Cake sa Cebu
+
+Kinahanglan isaysay sa thank-you cake brief kinsa ang pasalamatan, asa ipresentar ang cake ug unsay ipasabot sa disenyo. Dili kinahanglan ipaambit ang pribadong detalye; igo na tingali ang yano nga paghulagway sama sa “para sa kauban sa trabaho nga mobiya” o “para sa host sa among pamilya.”
+
+Iapil ang petsa sa event, gipaabot nga servings, delivery address o pickup plan ug contact person. Isulti kon i-serve ba ang cake human sa pagkaon o mao ba kini ang pangunang dessert. Ihatag ang eksaktong inskripsiyon ug pilia ang pinulongan. Susiha sa sinulat ang spelling sa matag ngalan sa dili pa magsugod ang panaderya.
+
+Para sa custom nga disenyo, pagpadala og usa o duha ka reference photo ug ipasabot unsay ipasibo: kolor, lettering, yano nga motif o kinatibuk-ang mood. Ilahi ang kinahanglan gyud sa flexible nga ideya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets, busa pangutan-a unsang interpretasyon ang mohaom sa available nga pamaagi.
+
+Pangayo og pinal nga sinulat nga summary sa gidak-on, flavour, disenyo, mensahe, presyo, terms sa bayad, petsa ug delivery handoff. Makatabang kini nga klaro ang order kon daghang tawo ang nag-organize sa pasalamat. Gamita ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) para sa kinatibuk-ang checklist.
+
+## Tagalog
+
+# Ano ang Isasama sa Custom Brief para sa Thank-You Cake sa Cebu
+
+Dapat ipaliwanag sa thank-you cake brief kung sino ang pinasasalamatan, saan ihaharap ang cake, at ano ang kailangang ipahiwatig ng design. Hindi kailangang magbahagi ng pribadong detalye; maaaring sapat na ang simpleng paglalarawan gaya ng “para sa katrabahong aalis” o “para sa host ng pamilya namin.”
+
+Isama ang petsa ng event, inaasahang servings, delivery address o pickup plan, at contact person. Sabihin kung ihahain ang cake pagkatapos kumain o ito ang pangunahing dessert. Ibigay ang eksaktong inscription at piliin ang gustong wika. Suriin sa sulat ang spelling ng bawat pangalan bago magsimula ang bakery.
+
+Para sa custom na design, magpadala ng isa o dalawang reference photo at ipaliwanag kung ano ang iaangkop: kulay, lettering, simpleng motif, o pangkalahatang mood. Ihiwalay ang kailangang-kailangan sa mga flexible na ideya. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets, kaya itanong kung aling interpretasyon ang kaya gamit ang available na paraan.
+
+Humingi ng pinal na nakasulat na buod ng sukat, flavour, design, mensahe, presyo, payment terms, petsa, at delivery handoff. Nililinaw nito ang order kung maraming taong nag-aayos ng pasasalamat. Gamitin ang [how to brief a custom cake in Cebu](/journal/how-to-brief-a-custom-cake-cebu.html) para sa mas malawak na checklist.
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Ipasabot kung kinsa ang gipasalamatan ug unsa ang kinahanglan ipahibalo sa cake
-
-Isulti kung ang cake para sa usa ka tawo, team, o pamilya. Ilakip ang petsa sa panghitabo, banabana sa bisita, gihangyo nga gidak-on, lami, plano sa pagpadala o pagkuha, ug badyet. Pagpili og usa ka mubo nga mensahe o usa ka personal nga detalye nga nagpahayag sa pasalamat ug ipaambit ang usa ka pakisayran kung kini nagpatin-aw sa hitsura.
-
-Markahi kon unsa nga mga bahin ang gikinahanglan ug diin ang panaderya mahimong mohaum. Kumpirma ang eksaktong inskripsiyon ug pangutan-a kung mohaum ba kini sa gipili nga gidak-on. Para sa mga order sa opisina o eskwelahan, pagkuha og pagtugot sa dili pa mogamit og logo o magpaambit og litrato sa publiko.
-
-Itago ang magamit pag-usab nga checklist sa custom-mubo nga giya ug sumpay sa mensahe, gidak-on, ug mga pahina sa pag-order alang sa ubang mga desisyon.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ipaliwanag kung sino ang pinasasalamatan at kung ano ang dapat sabihin ng cake
-
-Sabihin kung ang cake ay para sa isang tao, isang pangkat, o isang pamilya. Isama ang petsa ng kaganapan, pagtatantya ng bisita, hiniling na laki, lasa, plano ng paghahatid o pagkuha, at badyet. Pumili ng maikling mensahe o isang personal na detalye na nagpapahayag ng pasasalamat at magbahagi ng reference kung nililinaw nito ang hitsura.
-
-Markahan kung aling mga bahagi ang mahalaga at kung alin ang maaaring iangkop ng panaderya. Kumpirmahin ang eksaktong inskripsiyon at tanungin kung ito ay akma sa napiling laki. Para sa mga order sa opisina o paaralan, kumuha ng pag-apruba bago gumamit ng logo o magbahagi ng larawan sa publiko.
-
-Panatilihin ang reusable na checklist sa custom-brief na gabay at link sa mensahe, laki, at mga pahina ng pag-order para sa iba pang mga desisyon.
+- Confirm current design capabilities and order terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

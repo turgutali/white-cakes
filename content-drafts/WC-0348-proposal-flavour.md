@@ -1,44 +1,51 @@
 ---
 id: WC-0348
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/choosing-a-flavor.html
-english_title: "How to choose a flavour for proposal cake in Cebu"
-cebuano_title: "Giunsa pagpili sa lami para sa cake para sa proposal sa Cebu"
-tagalog_title: "Paano pumili ng flavor para sa cake para sa proposal sa Cebu"
+english_title: "How to Choose a Flavour for a Proposal Cake in Cebu"
+cebuano_title: "Giunsa Pagpili sa Flavour para sa Proposal Cake sa Cebu"
+tagalog_title: "Paano Pumili ng Flavour para sa Proposal Cake sa Cebu"
 ---
 
-## Choose a proposal-cake flavour both people will enjoy
+## English
 
-If the proposal cake is for two, choose a flavour with the recipient in mind rather than picking only for the photograph. White Cakes' current menu includes Chocolate, Vanilla, Ube, Mango, and Red Velvet. Ask which flavours are available for the size and design you want when you confirm the order; do not assume every option is available for every configuration.
+# How to Choose a Flavour for a Proposal Cake in Cebu
 
-Think about how the cake will be served. A richer flavour may suit a small slice after dinner, while a lighter choice may work better if the cake is part of a larger dessert spread. If you are unsure, describe the meal and the recipient's known preferences to the bakery and ask for a recommendation. Do not invent a pairing rule as though it were a bakery guarantee.
+Choose a proposal cake flavour around the people who will share it and the rest of the meal. If the cake is for two, a familiar favourite can make the moment personal. For a larger gathering, ask the organizer about guests’ preferences and whether the cake will be the only dessert.
 
-For the order, include the date, size, exact inscription, design reference, and delivery or pickup plan. A 4-inch Bento provides about two generous or three modest servings; choose a larger cake if more people will share. Allow at least three days' notice and wait for availability and the confirmed quote before paying the 50% deposit.
+Start with flavours currently listed by the bakery rather than assuming an option is available. The White Cakes site features cake flavour information, but the current menu and availability should be confirmed directly when you order. If you are choosing between two options, ask whether the bakery can explain the difference in taste and how each pairs with the planned occasion.
 
-Keep proposal examples under the main flavour guide unless search data shows a separate intent and the site has original evidence to support it.
+Mention dietary restrictions or ingredient concerns before confirming. Ask the bakery what it can accommodate and how it handles the relevant ingredients; do not infer allergy safety from a flavour name or photograph. If you cannot verify a restriction, choose an option only after getting a clear answer from the bakery.
+
+Pair flavour and size with the serving plan. A cake that will be cut into many small portions may be experienced differently from a dessert shared by two, so tell the bakery how it will be served. Include your flavour choice or preferred alternatives in the written brief alongside date, design, size, inscription, and delivery details. See the [Cebu cake flavour guide](/journal/choosing-a-flavor.html).
+
+## Cebuano
+
+# Giunsa Pagpili sa Flavour para sa Proposal Cake sa Cebu
+
+Pilia ang flavour sa proposal cake base sa mga tawo nga mopaambit niini ug sa nahibiling pagkaon. Kung para sa duha ang cake, mahimong personal ang higayon pinaagi sa pamilyar nga paborito. Para sa mas dakong panagtapok, pangutan-a ang organizer sa gusto sa mga bisita ug kon cake ra ba ang dessert.
+
+Sugdi sa mga flavour nga kasamtangang gilista sa panaderya imbes magtuo nga available ang usa ka kapilian. Adunay impormasyon bahin sa flavour sa site sa White Cakes, apan kumpirmaha direkta ang bag-ong menu ug availability sa pag-order. Kung duha ka kapilian ang gitandi, pangutan-a ang panaderya sa kalainan sa lami ug unsay angay sa okasyon.
+
+Isulti ang mga dietary restriction o kabalaka sa sangkap sa dili pa mokumpirma. Pangutan-a unsay mahimo sa panaderya ug giunsa pagdumala ang mga sangkap; ayaw pag-ingon nga luwas kini para sa allergy base lang sa ngalan sa flavour o litrato. Kung dili makumpirma ang restriction, pagpili lang human makadawat og klarong tubag.
+
+Ipares ang flavour ug gidak-on sa plano sa servings. Lahi ang kasinatian sa cake nga hiwaon ngadto sa daghang gagmayng parte kumpara sa dessert nga bahinon sa duha, busa sultihi ang panaderya unsaon kini pag-serve. Ibutang ang flavour o alternatibo sa sinulat nga brief uban sa petsa, disenyo, gidak-on, inskripsiyon ug delivery details. Tan-awa ang [Cebu cake flavour guide](/journal/choosing-a-flavor.html).
+
+## Tagalog
+
+# Paano Pumili ng Flavour para sa Proposal Cake sa Cebu
+
+Piliin ang flavour ng proposal cake batay sa mga taong magsasalo nito at sa iba pang ihahain. Kung para sa dalawa ang cake, maaaring gawing personal ang sandali ng pamilyar na paborito. Para sa mas malaking pagtitipon, tanungin ang organizer tungkol sa gusto ng mga bisita at kung cake lang ang dessert.
+
+Magsimula sa mga flavour na kasalukuyang nakalista ng bakery sa halip na ipalagay na available ang isang opsyon. May impormasyon tungkol sa cake flavour sa site ng White Cakes, pero direktang kumpirmahin ang kasalukuyang menu at availability kapag mag-o-order. Kung namimili sa dalawang opsyon, itanong ang pagkakaiba ng lasa at kung alin ang bagay sa okasyong pinaplano.
+
+Sabihin ang mga dietary restriction o alalahanin sa sangkap bago mag-confirm. Itanong kung ano ang kayang ibigay ng bakery at paano nito hinahawakan ang mga kaugnay na sangkap; huwag ipalagay na ligtas ito para sa allergy batay lang sa pangalan ng flavour o larawan. Kung hindi makumpirma ang restriction, pumili lamang matapos makatanggap ng malinaw na sagot.
+
+Itugma ang flavour at sukat sa plano ng servings. Iba ang karanasan sa cake na hahatiin sa maraming maliliit na bahagi kaysa dessert na paghahatian ng dalawa, kaya sabihin sa bakery kung paano ito ihahain. Ilagay sa nakasulat na brief ang flavour o mga alternatibo kasama ng petsa, design, sukat, inscription, at delivery details. Tingnan ang [Cebu cake flavour guide](/journal/choosing-a-flavor.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagpili og proposal-cake nga lami nga matagamtaman sa duha ka tawo
-
-Kung ang proposal nga cake para sa duha, pilia ang lami nga naa sa hunahuna sa nakadawat imbes nga pilion lang ang litrato. Ang kasamtangang menu sa White Cakes naglakip sa Chocolate, Vanilla, Ube, Mango, ug Red Velvet. Pangutan-a kung unsang mga lami ang magamit alang sa gidak-on ug disenyo nga gusto nimo kung gikumpirma nimo ang order; ayaw hunahunaa nga ang matag kapilian magamit alang sa matag pag-configure.
-
-Hunahunaa kon unsaon pagsilbi ang cake. Ang mas lami nga lami mahimong mohaum sa usa ka gamay nga hiwa human sa panihapon, samtang ang mas gaan nga pagpili mahimong mas maayo kung ang cake kabahin sa usa ka mas dako nga dessert spread. Kung dili ka sigurado, ihulagway ang pagkaon ug ang nahibal-an nga gusto sa nakadawat sa panaderya ug pangayo og rekomendasyon. Ayaw pag-imbento og lagda sa pagpares nga daw garantiya kini sa panaderya.
-
-Alang sa pag-order, ilakip ang petsa, gidak-on, eksaktong inskripsiyon, reference sa disenyo, ug plano sa pagpadala o pagkuha. Ang usa ka 4-pulgada nga Bento naghatag og mga duha ka manggihatagon o tulo ka kasarangan nga pag-alagad; pagpili og mas dako nga cake kon daghang tawo ang moambit. Tugoti ang labing menos tulo ka adlaw nga pahibalo ug paghulat alang sa pagkaanaa ug ang gikumpirma nga kinutlo sa dili pa magbayad sa 50% nga deposito.
-
-Itago ang mga pananglitan sa sugyot ubos sa nag-unang giya sa lami gawas kung ang datos sa pagpangita nagpakita sa usa ka bulag nga katuyoan ug ang site adunay orihinal nga ebidensya nga nagsuporta niini.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Pumili ng proposal-cake flavor na magugustuhan ng parehong tao
-
-Kung ang proposal cake ay para sa dalawa, pumili ng lasa na nasa isip ng tatanggap sa halip na pumili lamang para sa litrato. Kasama sa kasalukuyang menu ng White Cakes ang Chocolate, Vanilla, Ube, Mango, at Red Velvet. Tanungin kung aling mga lasa ang magagamit para sa laki at disenyo na gusto mo kapag kinumpirma mo ang order; huwag ipagpalagay na ang bawat opsyon ay magagamit para sa bawat pagsasaayos.
-
-Isipin kung paano ihain ang cake. Ang isang mas masarap na lasa ay maaaring maging angkop sa isang maliit na hiwa pagkatapos ng hapunan, habang ang isang mas magaan na pagpipilian ay maaaring mas mahusay kung ang cake ay bahagi ng isang mas malaking dessert spread. Kung hindi ka sigurado, ilarawan ang pagkain at ang mga kilalang kagustuhan ng tatanggap sa panaderya at humingi ng rekomendasyon. Huwag mag-imbento ng panuntunan sa pagpapares na parang ito ay garantiya sa panaderya.
-
-Para sa order, isama ang petsa, laki, eksaktong inskripsiyon, sanggunian sa disenyo, at plano sa paghahatid o pagkuha. Ang isang 4-inch na Bento ay nagbibigay ng halos dalawang mapagbigay o tatlong katamtamang serving; pumili ng mas malaking cake kung mas maraming tao ang magsasalo. Magbigay ng hindi bababa sa tatlong araw na paunawa at hintayin ang pagkakaroon at ang nakumpirmang quote bago bayaran ang 50% na deposito.
-
-Panatilihin ang mga halimbawa ng panukala sa ilalim ng pangunahing gabay sa lasa maliban kung ang data ng paghahanap ay nagpapakita ng hiwalay na layunin at ang site ay may orihinal na ebidensya upang suportahan ito.
+- Verify current flavours, availability, and ingredient handling before publication.
+- Cebuano and Tagalog drafts need native editorial review.

@@ -1,44 +1,51 @@
 ---
 id: WC-0362
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for thank-you cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake isip pasalamat sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake bilang pasasalamat sa Cebu"
+english_title: "How to Plan the Order Timeline for a Thank-You Cake in Cebu"
+cebuano_title: "Giunsa Pagplano sa Timeline sa Pag-order og Thank-You Cake sa Cebu"
+tagalog_title: "Paano Planuhin ang Timeline ng Pag-order ng Thank-You Cake sa Cebu"
 ---
 
-## Give a thank-you cake enough time to be made to order
+## English
 
-White Cakes requests at least three days' notice for a cake. That is a minimum to ask about availability, not a guarantee that every date is open. If you want to thank someone on a Saturday, send the enquiry by Wednesday or earlier, especially when the date is near a holiday or the design needs detailed piping. Wait for the bakery's reply before treating the cake as reserved.
+# How to Plan the Order Timeline for a Thank-You Cake in Cebu
 
-Include the details that affect the decision: event date, recipient or occasion, cake style, flavour, message, and the number of people who will share it. A 4-inch Bento is intended for two generous or three modest servings; a larger gathering may need a different size. For a gift delivery, include the recipient's full address, a landmark, and a reachable mobile number, then ask the recipient or venue to expect the agreed delivery window.
+Begin with when the thank-you cake needs to be served, then work backward to set the ordering steps. Allow time to choose the size, flavour, message, and design, and to confirm who will receive the cake. If the cake is part of a workplace or family gathering, include the person coordinating the venue in the plan.
 
-Choose wording that matches the reason for the thank-you and fits the cake top. Send the exact message rather than asking the baker to infer it from a reference picture. If the design should use a particular palette, share one clear reference and identify the detail you want interpreted.
+The current site guide recommends at least three days’ notice. More involved designs, larger cakes, and busy dates may need earlier contact. Ask White Cakes whether it can accept the requested date before promising the cake as part of the event. Lead time is guidance, not a reservation until the order is confirmed.
 
-The order is confirmed after availability and the details are agreed; the 50% deposit confirms the order. Use the existing Cebu lead-time guide for this sequence, and keep the recipient handover information in the delivery guide. A second page that only substitutes “thank-you” for another occasion would not add a separate answer.
+Once availability is confirmed, send one written brief with the date, serving range, design references, exact inscription, delivery or pickup details, and contact person. Review the quote and terms before paying. The current guide describes a 50% deposit after the final price and details are agreed; reconfirm the policy directly.
+
+For delivery, leave room around the serving time. White Cakes confirms a delivery window rather than an exact minute. Arrange for someone to receive the order and follow the bakery’s storage guidance until it is presented. See the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano sa Timeline sa Pag-order og Thank-You Cake sa Cebu
+
+Sugdi sa oras nga kinahanglan i-serve ang thank-you cake, dayon ihap paatras aron mabutang ang mga lakang sa pag-order. Hatagi og panahon ang pagpili sa gidak-on, flavour, mensahe ug disenyo, ug pagkumpirma kinsa ang modawat. Kung kabahin kini sa tapok sa trabaho o pamilya, ilakip sa plano ang nag-coordinate sa venue.
+
+Ang kasamtangang guide sa site nagrekomendar og labing menos tulo ka adlaw nga pahibalo. Mahimong manginahanglan og mas sayo nga pagkontak ang komplikadong disenyo, mas dako nga cake ug busy nga petsa. Pangutan-a ang White Cakes kon madawat ba ang petsa sa dili pa mosaad nga adunay cake sa event. Giya lang ang lead time hangtod makumpirma ang order.
+
+Human makumpirma ang availability, pagpadala og usa ka sinulat nga brief nga adunay petsa, range sa servings, reference sa disenyo, eksaktong inskripsiyon, detalye sa delivery o pickup ug contact person. Susiha ang quote ug terms sa dili pa mobayad. Ang kasamtangang guide nag-ingon nga 50% nga deposit human mouyon sa pinal nga presyo ug detalye; kumpirmaha direkta ang policy.
+
+Para sa delivery, pagbilin og panahon sa palibot sa oras sa pag-serve. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes. Pag-andam og modawat ug sunda ang storage guidance sa panaderya hangtod ipresentar ang cake. Tan-awa ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Paano Planuhin ang Timeline ng Pag-order ng Thank-You Cake sa Cebu
+
+Magsimula sa oras na kailangang ihain ang thank-you cake, saka magbilang paatras para maitakda ang mga hakbang sa pag-order. Maglaan ng panahon para pumili ng sukat, flavour, mensahe, at design at kumpirmahin kung sino ang tatanggap. Kung bahagi ito ng pagtitipon sa trabaho o pamilya, isama sa plano ang coordinator ng venue.
+
+Inirerekomenda ng kasalukuyang site guide ang hindi bababa sa tatlong araw na abiso. Maaaring mangailangan ng mas maagang pakikipag-ugnayan ang mas komplikadong design, mas malaking cake, at abalang petsa. Tanungin ang White Cakes kung kaya nito ang petsa bago ipangako ang cake bilang bahagi ng event. Gabay lamang ang lead time hanggang makumpirma ang order.
+
+Kapag nakumpirma ang availability, magpadala ng iisang nakasulat na brief na may petsa, range ng servings, design references, eksaktong inscription, detalye ng delivery o pickup, at contact person. Suriin ang quote at terms bago magbayad. Sinasabi ng kasalukuyang guide na 50% deposit matapos mapagkasunduan ang pinal na presyo at detalye; direktang kumpirmahin ang policy.
+
+Maglaan ng pagitan sa delivery at oras ng paghahain. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto. Magtalaga ng tatanggap at sundin ang storage guidance ng bakery hanggang iharap ang cake. Tingnan ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Hatagi ug thank-you nga cake nga igong panahon aron ma-order
-
-Ang White Cakes nangayo ug labing menos tulo ka adlaw nga pahibalo alang sa usa ka cake. Kana usa ka minimum nga pangutana bahin sa pagkaanaa, dili usa ka garantiya nga bukas ang matag petsa. Kung gusto nimong pasalamatan ang usa ka tawo sa Sabado, ipadala ang pangutana sa Miyerkules o sayo pa, labi na kung ang petsa duol sa holiday o ang disenyo nanginahanglan detalyado nga piping. Paghulat sa tubag sa panaderya sa dili pa itratar ang cake nga gireserba.
-
-Ilakip ang mga detalye nga makaapekto sa desisyon: petsa sa panghitabo, nakadawat o okasyon, estilo sa cake, lami, mensahe, ug ang gidaghanon sa mga tawo nga mopaambit niini. Ang usa ka 4-pulgada nga Bento gituyo alang sa duha ka manggihatagon o tulo ka kasarangan nga pag-alagad; ang usa ka mas dako nga panagtapok mahimong magkinahanglan ug lahi nga gidak-on. Alang sa paghatod sa regalo, iapil ang tibuok nga adres sa nakadawat, usa ka timaan, ug usa ka maabot nga numero sa mobile, dayon hangyoa ang nakadawat o lugar nga magpaabut sa gikasabutan nga bintana sa pagpadala.
-
-Pagpili og mga pulong nga mohaum sa rason sa pagpasalamat ug mohaum sa ibabaw sa cake. Ipadala ang eksakto nga mensahe imbes nga hangyoon ang panadero nga isulti kini gikan sa usa ka reperensya nga litrato. Kung ang disenyo kinahanglan nga mogamit sa usa ka partikular nga palette, ipaambit ang usa ka tin-aw nga pakisayran ug ilha ang detalye nga gusto nimo mahubad.
-
-Ang order gikumpirma human sa pagkaanaa ug ang mga detalye gikasabutan; ang 50% nga deposito nagpamatuod sa order. Gamita ang kasamtangan nga Cebu lead-time nga giya alang niini nga han-ay, ug ibutang ang tigdawat nga impormasyon sa paghatod sa giya sa paghatod. Ang ikaduha nga panid nga nag-ilis lamang sa "salamat" alang sa lain nga okasyon dili makadugang usa ka lahi nga tubag.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magbigay ng thank-you cake ng sapat na oras para makapag-order
-
-Ang White Cakes ay humihiling ng hindi bababa sa tatlong araw na paunawa para sa isang cake. Iyon ay isang minimum na magtanong tungkol sa availability, hindi isang garantiya na ang bawat petsa ay bukas. Kung gusto mong pasalamatan ang isang tao sa isang Sabado, ipadala ang pagtatanong sa Miyerkules o mas maaga, lalo na kapag ang petsa ay malapit sa holiday o ang disenyo ay nangangailangan ng detalyadong piping. Hintayin ang tugon ng panaderya bago ituring ang cake bilang nakalaan.
-
-Isama ang mga detalyeng makakaapekto sa desisyon: petsa ng kaganapan, tatanggap o okasyon, istilo ng cake, lasa, mensahe, at ang bilang ng mga taong magbabahagi nito. Ang 4-inch Bento ay inilaan para sa dalawang mapagbigay o tatlong katamtamang serving; ang isang mas malaking pagtitipon ay maaaring mangailangan ng ibang laki. Para sa paghahatid ng regalo, isama ang buong address ng tatanggap, isang palatandaan, at isang maaabot na numero ng mobile, pagkatapos ay hilingin sa tatanggap o lugar na asahan ang napagkasunduang palugit ng paghahatid.
-
-Pumili ng mga salita na tumutugma sa dahilan ng pasasalamat at akma sa tuktok ng cake. Ipadala ang eksaktong mensahe sa halip na hilingin sa panadero na ipahiwatig ito mula sa isang reference na larawan. Kung ang disenyo ay dapat gumamit ng isang partikular na palette, magbahagi ng isang malinaw na sanggunian at tukuyin ang detalyeng gusto mong bigyang kahulugan.
-
-Ang order ay nakumpirma pagkatapos ng pagkakaroon at ang mga detalye ay napagkasunduan; kinukumpirma ng 50% na deposito ang order. Gamitin ang umiiral nang Cebu lead-time na gabay para sa sequence na ito, at panatilihin ang impormasyon ng handover ng tatanggap sa gabay sa paghahatid. Ang pangalawang pahina na pinapalitan lamang ng "salamat" para sa isa pang okasyon ay hindi magdaragdag ng hiwalay na sagot.
+- Reconfirm lead time, deposit, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

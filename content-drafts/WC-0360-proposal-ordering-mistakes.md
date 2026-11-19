@@ -1,44 +1,51 @@
 ---
 id: WC-0360
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-to-order.html
-english_title: "Common ordering mistakes to avoid with proposal cake in Cebu"
-cebuano_title: "Mga kasagarang sayop sa pag-order nga likayan sa cake para sa proposal sa Cebu"
-tagalog_title: "Mga karaniwang pagkakamali sa pag-order na dapat iwasan sa cake para sa proposal sa Cebu"
+english_title: "Common Proposal Cake Ordering Mistakes to Avoid in Cebu"
+cebuano_title: "Mga Kasagarang Sayop sa Pag-order og Proposal Cake nga Likayan sa Cebu"
+tagalog_title: "Mga Karaniwang Pagkakamali sa Pag-order ng Proposal Cake na Dapat Iwasan sa Cebu"
 ---
 
-## Avoid common proposal-cake order problems
+## English
 
-Do not leave the date until the last minute. White Cakes requires at least three days' notice, and a weekend or holiday may need an earlier availability check. An enquiry about price does not reserve a production slot.
+# Common Proposal Cake Ordering Mistakes to Avoid in Cebu
 
-Avoid designing the cake without deciding who will receive it. For a surprise, give the bakery a trusted local contact and a clear instruction about who it may call. Provide the full address, landmark, and handoff details so the driver can complete delivery without revealing the plan to the wrong person.
+A proposal has enough moving parts without an unclear cake order. One mistake is contacting the bakery with only a reference image. Include the date, serving range, flavour preference, exact message, venue or delivery address, and who will receive the cake. If a detail is still open, mark it as flexible.
 
-Do not assume a reference photo is a fixed design or price. Send one image, explain the element you want, and confirm the feasible version and quote. Check the exact inscription, size, flavour, and serving plan. A 4-inch Bento serves about two generous or three modest portions; larger gatherings need a size check.
+Another mistake is assuming a design can be reproduced exactly. Explain what matters in the reference and ask how the bakery can interpret it. White Cakes hand-pipes buttercream and does not offer edible printed logo sheets; confirm current capabilities before making event plans around a particular finish.
 
-The 50% deposit confirms the agreed order after the details are clear. Use this checklist in the main order guide; do not present hypothetical problems as real customer stories.
+Do not leave the inscription or delivery contact to the last minute. Send exact wording in writing and verify every name and date. Arrange for a receiver to be present during the confirmed delivery window, and give a backup contact. If the venue is involved, check its outside-cake policy and holding arrangements ahead of time.
+
+Finally, avoid paying a deposit before the complete price and details are agreed. The site currently describes a 50% deposit after agreement; confirm current payment terms directly. Keep the written order summary and payment confirmation so everyone coordinates the same cake. See [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Cebuano
+
+# Mga Kasagarang Sayop sa Pag-order og Proposal Cake nga Likayan sa Cebu
+
+Daghan na og bahin ang proposal nga atimanon, busa likayi ang dili klarong cake order. Usa ka sayop ang pagkontak sa panaderya nga reference photo ra ang ihatag. Iapil ang petsa, range sa servings, flavour preference, eksaktong mensahe, venue o delivery address ug kinsa ang modawat. Kung wala pa matino ang detalye, markahi nga flexible pa kini.
+
+Sayop usab ang pagtuo nga eksaktong masundog ang disenyo. Ipasabot unsay importante sa reference ug pangutan-a unsaon kini paghubad sa panaderya. Hand-piped buttercream ang gamit sa White Cakes ug walay edible printed logo sheets; kumpirmaha ang kasamtangang kapasidad sa dili pa magplano sa finish.
+
+Ayaw hulata ang kataposang minuto sa inskripsiyon o delivery contact. Ipadala sa sinulat ang eksaktong mensahe ug susiha ang tanang ngalan ug petsa. Pag-andam og modawat sulod sa kumpirmadong delivery window ug ihatag ang backup contact. Kung apil ang venue, susiha daan ang lagda niini sa cake gikan sa gawas ug asa kini tipigan.
+
+Sa kataposan, ayaw mobayad og deposit sa dili pa magkauyon sa kompleto nga presyo ug detalye. 50% nga deposit human mouyon ang gihulagway sa site karon; kumpirmaha direkta ang bag-ong terms. Tipigi ang sinulat nga summary ug payment confirmation aron parehas nga cake ang gi-coordinate sa tanan. Tan-awa ang [how to order a cake in Cebu](/journal/how-to-order.html).
+
+## Tagalog
+
+# Mga Karaniwang Pagkakamali sa Pag-order ng Proposal Cake na Dapat Iwasan sa Cebu
+
+Marami nang kailangang asikasuhin sa proposal kaya iwasan ang hindi malinaw na cake order. Isang pagkakamali ang pakikipag-ugnayan sa bakery gamit lang ang reference photo. Isama ang petsa, range ng servings, flavour preference, eksaktong mensahe, venue o delivery address, at kung sino ang tatanggap. Kung hindi pa pinal ang detalye, markahan itong flexible.
+
+Isa pang pagkakamali ang pag-aakalang eksaktong magagaya ang design. Ipaliwanag kung ano ang mahalaga sa reference at itanong kung paano ito mabibigyang-kahulugan ng bakery. Hand-piped buttercream ang gamit ng White Cakes at wala silang edible printed logo sheets; kumpirmahin ang kasalukuyang kakayahan bago magplano ng event batay sa partikular na finish.
+
+Huwag ipagpaliban ang inscription o delivery contact. Ipadala nang nakasulat ang eksaktong mensahe at tiyakin ang bawat pangalan at petsa. Magtalaga ng tatanggap sa loob ng kumpirmadong delivery window at magbigay ng backup contact. Kung may venue, alamin nang maaga ang patakaran nito sa dalang cake at pag-iimbak.
+
+Panghuli, huwag magbayad ng deposit bago mapagkasunduan ang buong presyo at detalye. Inilalarawan ng site sa kasalukuyan ang 50% deposit matapos ang kasunduan; direktang kumpirmahin ang kasalukuyang payment terms. Itago ang nakasulat na buod ng order at payment confirmation para iisang cake ang inaasikaso ng lahat. Tingnan ang [how to order a cake in Cebu](/journal/how-to-order.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Likayi ang kasagarang mga problema sa pag-order sa sugyot-cake
-
-Ayaw ibilin ang petsa hangtod sa katapusang minuto. Ang White Cakes nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang katapusan sa semana o holiday mahimong magkinahanglan usa ka sayo nga pagsusi sa pagkaanaa. Ang pangutana bahin sa presyo wala magreserba ug puwang sa produksiyon.
-
-Likayi ang pagdesinyo sa cake nga walay pagdesisyon kon kinsa ang makadawat niini. Alang sa usa ka sorpresa, hatagi ang panaderya og usa ka kasaligan nga lokal nga kontak ug usa ka tin-aw nga panudlo kung kinsa ang mahimo nga tawagan niini. Ihatag ang tibuok nga adres, landmark, ug mga detalye sa handoff aron makompleto sa drayber ang paghatod nga dili ibutyag ang plano sa sayop nga tawo.
-
-Ayaw isipa nga ang usa ka reperensya nga litrato usa ka piho nga disenyo o presyo. Pagpadala usa ka imahe, ipasabut ang elemento nga gusto nimo, ug kumpirmahi ang mahimo nga bersyon ug kinutlo. Susiha ang eksaktong inskripsiyon, gidak-on, lami, ug plano sa pag-alagad. Ang usa ka 4-pulgada nga Bento nagsilbi mga duha ka manggihatagon o tulo ka kasarangan nga mga bahin; mas dako nga mga panagtapok nagkinahanglan sa usa ka gidak-on check.
-
-Ang 50% nga deposito nagpamatuod sa gikasabutan nga order human ang mga detalye klaro. Gamita kini nga checklist sa main order guide; ayaw ipakita ang hypothetical nga mga problema ingon tinuod nga istorya sa kustomer.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Iwasan ang mga karaniwang problema sa proposal-cake order
-
-Huwag iwanan ang petsa hanggang sa huling minuto. Nangangailangan ang White Cakes ng hindi bababa sa tatlong araw na abiso, at ang isang weekend o holiday ay maaaring mangailangan ng mas maagang pagsusuri sa availability. Ang isang pagtatanong tungkol sa presyo ay hindi nagrereserba ng puwang ng produksyon.
-
-Iwasan ang pagdidisenyo ng cake nang hindi nagpapasya kung sino ang tatanggap nito. Para sa isang sorpresa, bigyan ang panaderya ng isang pinagkakatiwalaang lokal na contact at isang malinaw na tagubilin tungkol sa kung sino ang maaaring tawagan nito. Ibigay ang buong address, landmark, at mga detalye ng handoff para makumpleto ng driver ang paghahatid nang hindi ibinubunyag ang plano sa maling tao.
-
-Huwag ipagpalagay na ang isang reference na larawan ay isang nakapirming disenyo o presyo. Magpadala ng isang larawan, ipaliwanag ang elementong gusto mo, at kumpirmahin ang magagawang bersyon at quote. Suriin ang eksaktong inskripsiyon, laki, lasa, at plano ng paghahatid. Ang isang 4-pulgadang Bento ay naghahain ng halos dalawang mapagbigay o tatlong katamtamang bahagi; ang malalaking pagtitipon ay nangangailangan ng sukat ng pagsusuri.
-
-Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos malinaw ang mga detalye. Gamitin ang checklist na ito sa pangunahing gabay sa pagkakasunud-sunod; huwag ipakita ang mga hypothetical na problema bilang totoong kwento ng customer.
+- Reconfirm payment and production capabilities before publication.
+- Cebuano and Tagalog drafts need native editorial review.

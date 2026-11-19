@@ -1,44 +1,51 @@
 ---
 id: WC-0346
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/cake-sizes-cebu.html
-english_title: "How to estimate servings for proposal cake in Cebu"
-cebuano_title: "Giunsa pagbanabana sa servings para sa cake para sa proposal sa Cebu"
-tagalog_title: "Paano tantiyahin ang servings para sa cake para sa proposal sa Cebu"
+english_title: "How to Estimate Servings for a Proposal Cake in Cebu"
+cebuano_title: "Giunsa Pagbanabana sa Servings para sa Proposal Cake sa Cebu"
+tagalog_title: "Paano Tantiyahin ang Servings para sa Proposal Cake sa Cebu"
 ---
 
-## Estimate proposal-cake servings for the people who will be there
+## English
 
-First decide who will share the cake. A proposal may be private for two people or include family and friends afterward, so the right size depends on the actual plan. If only two or three people will have cake, the 4-inch Bento is designed for two generous servings or three modest ones.
+# How to Estimate Servings for a Proposal Cake in Cebu
 
-For a larger gathering, White Cakes' current estimates are 8–12 party slices from a 6-inch cake, 16–24 from an 8-inch cake, and 30–36 from a 6+8-inch two-tier cake. These are ranges rather than guaranteed counts. Tell the bakery whether there will be other desserts and whether you want full slices or small portions.
+Estimate servings for a proposal cake from the people who will actually eat it, not simply the guest list. A private proposal for two may call for a small cake to share, while a family gathering after the proposal can need more portions. Decide whether cake is the only dessert and whether guests will receive party-size slices or smaller tasting portions.
 
-Share the event date, flavour, design, inscription, and whether the cake will be delivered or picked up. If a surprise is involved, provide a reliable local receiver and clear instructions. Allow at least three days' notice; a 50% deposit confirms the agreed order after availability and terms are settled.
+Use the published size guide as a starting point: White Cakes describes a 4-inch Bento as about two generous or three modest after-meal servings, a 6-inch round as approximately 8–12 party slices, and an 8-inch round as approximately 16–24. A common 6- plus 8-inch two-tier combination is estimated at about 30–36 party slices. These are estimates, not guaranteed counts; height, design, and cutting style affect portions.
 
-Keep the proposal context as a short section in the main sizing guide. Do not publish a separate guest-count chart with invented exact yields.
+For a proposal with an uncertain guest count, tell the bakery the expected range and ask which size is the practical fit. If the cake will be displayed but not served to everyone, say so. If you need extra portions, compare the cost and logistics of a larger cake with a separate dessert rather than choosing a size based on appearance alone.
+
+Confirm the size, serving assumption, and design together because decorative structure can affect the usable cake area. For the full chart and cutting context, see the [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagbanabana sa Servings para sa Proposal Cake sa Cebu
+
+Ibanabana ang servings sa proposal cake base sa mga tawo nga mokaon gyud niini, dili sa lista lang sa bisita. Ang pribadong proposal para sa duha mahimong gamay nga cake nga bahinon, samtang mas daghang tawo ang apilon kon adunay family gathering human sa proposal. Desisyoni kon cake ra ba ang dessert ug kon party-size o gagmay nga tasting portions ang ihatag.
+
+Gamita isip sinugdanan ang size guide sa site: gihulagway sa White Cakes ang 4-inch Bento nga mga duha ka dagkong o tulo ka gagmay nga serving human mokaon, ang 6-inch round nga mga 8–12 ka party slice, ug ang 8-inch round nga mga 16–24. Ang kasagarang kombinasyon nga duha ka tier nga 6 ug 8 pulgada gibanabana nga mga 30–36 ka party slice. Banabana kini, dili garantiya; makaapekto ang kataas, disenyo ug paagi sa paghiwa.
+
+Kung dili pa sigurado ang ihap sa bisita, sultihi ang panaderya sa gipaabot nga range ug pangutan-a unsang gidak-on ang praktikal. Kung ipakita lang ang cake ug dili pagkaon sa tanan, ipahibalo kini. Kung dugang servings ang kinahanglan, ikumpara ang gasto ug kahikayan sa mas dako nga cake batok sa laing dessert; ayaw pagpili base sa hitsura lang.
+
+Kumpirmaha dungan ang gidak-on, banabana sa servings ug disenyo kay mahimong makaapekto ang dekorasyon sa magamit nga bahin sa cake. Para sa tibuok chart ug paagi sa paghiwa, tan-awa ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
+
+## Tagalog
+
+# Paano Tantiyahin ang Servings para sa Proposal Cake sa Cebu
+
+Tantiyahin ang servings ng proposal cake batay sa mga taong kakain talaga nito, hindi lang sa listahan ng bisita. Maaaring maliit na cake na paghahatian ng dalawa ang kailangan sa pribadong proposal, samantalang mas maraming bahagi ang kailangan kung may pagtitipon ng pamilya pagkatapos. Pagpasiyahan kung cake lang ang dessert at kung party-size o maliliit na tasting portion ang ihahain.
+
+Gamitin bilang panimulang gabay ang nailathalang size guide: inilalarawan ng White Cakes ang 4-inch Bento na humigit-kumulang dalawang masaganang o tatlong katamtamang serving pagkatapos kumain, ang 6-inch round na tinatayang 8–12 party slice, at ang 8-inch round na tinatayang 16–24. Tinatayang 30–36 party slice naman ang karaniwang kombinasyong two-tier na 6 at 8 pulgada. Tantiya lamang ang mga ito, hindi garantisadong bilang; naaapektuhan ng taas, disenyo, at paraan ng paghiwa ang portions.
+
+Kung hindi pa tiyak ang dami ng bisita, sabihin sa bakery ang inaasahang range at itanong kung aling sukat ang praktikal. Sabihin kung ipapakita lang ang cake at hindi ito ihahain sa lahat. Kung kailangan ng dagdag na servings, ihambing ang gastos at logistics ng mas malaking cake sa hiwalay na dessert sa halip na pumili batay lang sa itsura.
+
+Kumpirmahin nang magkasama ang sukat, tantiya ng servings, at design dahil maaaring makaapekto ang dekorasyong istruktural sa bahaging mapaghahati. Para sa buong chart at paliwanag sa paghiwa, tingnan ang [Cebu cake size guide](/journal/cake-sizes-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagbanabana sa proposal-cake servings alang sa mga tawo nga anaa didto
-
-Pagdesisyon una kung kinsa ang mopaambit sa cake. Ang usa ka sugyot mahimong pribado alang sa duha ka tawo o maglakip sa pamilya ug mga higala pagkahuman, busa ang husto nga gidak-on nagdepende sa aktuwal nga plano. Kung duha o tulo lang ka tawo ang adunay cake, ang 4-pulgada nga Bento gidisenyo alang sa duha ka ubay-ubay nga mga servings o tulo nga kasarangan.
-
-Alang sa mas dako nga panagtapok, ang kasamtangang mga banabana sa White Cakes mao ang 8–12 ka hiwa sa partido gikan sa 6-pulgada nga cake, 16–24 gikan sa 8-pulgada nga cake, ug 30–36 gikan sa 6+8-pulgada nga duha-ka-tier nga cake. Kini mga sakup imbes nga garantiya nga mga ihap. Sultihi ang panaderya kung aduna bay ubang mga dessert ug kung gusto nimo ang bug-os nga mga hiwa o gagmay nga mga bahin.
-
-Ipaambit ang petsa sa panghitabo, lami, disenyo, inskripsiyon, ug kung ang cake ihatod o kuhaon. Kung adunay sorpresa, paghatag ug kasaligan nga lokal nga tigdawat ug tin-aw nga mga panudlo. Tugoti ang labing menos tulo ka adlaw nga pahibalo; ang usa ka 50% nga deposito nagpamatuod sa gikasabutan nga order human sa pagkaanaa ug mga termino nahusay.
-
-Hupti ang konteksto sa sugyot isip usa ka mubo nga seksyon sa nag-unang giya sa pagsukod. Ayaw pagmantala ug bulag nga tsart sa pag-ihap sa bisita nga adunay giimbento nga eksaktong abot.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Tantyahin ang proposal-cake servings para sa mga taong pupunta doon
-
-Magpasya muna kung sino ang magbabahagi ng cake. Ang isang panukala ay maaaring pribado para sa dalawang tao o isama ang pamilya at mga kaibigan pagkatapos, kaya ang tamang sukat ay nakasalalay sa aktwal na plano. Kung dalawa o tatlong tao lang ang magkakaroon ng cake, ang 4-inch na Bento ay idinisenyo para sa dalawang masaganang serving o tatlong simple.
-
-Para sa mas malaking pagtitipon, ang kasalukuyang mga pagtatantya ng White Cakes ay 8–12 party slice mula sa isang 6-inch na cake, 16–24 mula sa isang 8-inch na cake, at 30–36 mula sa isang 6+8-inch na two-tier na cake. Ito ay mga saklaw sa halip na mga garantisadong bilang. Sabihin sa panaderya kung may iba pang panghimagas at kung gusto mo ng buong hiwa o maliliit na bahagi.
-
-Ibahagi ang petsa ng kaganapan, lasa, disenyo, inskripsiyon, at kung ihahatid o kukunin ang cake. Kung may sorpresa, magbigay ng maaasahang lokal na receiver at malinaw na mga tagubilin. Pahintulutan ang hindi bababa sa tatlong araw na paunawa; kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang availability at mga tuntunin.
-
-Panatilihin ang konteksto ng panukala bilang isang maikling seksyon sa pangunahing gabay sa pagpapalaki. Huwag mag-publish ng hiwalay na chart ng bilang ng bisita na may mga naimbentong eksaktong resulta.
+- Confirm the size guide still matches current products before publication; estimates are not guaranteed portions.
+- Cebuano and Tagalog drafts need native editorial review.

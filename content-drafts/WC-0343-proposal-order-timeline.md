@@ -1,44 +1,51 @@
 ---
 id: WC-0343
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/how-far-ahead-to-order-a-cake-cebu.html
-english_title: "How to plan the order timeline for proposal cake in Cebu"
-cebuano_title: "Giunsa pagplano ang oras sa pag-order para sa cake para sa proposal sa Cebu"
-tagalog_title: "Paano planuhin ang oras ng pag-order para sa cake para sa proposal sa Cebu"
+english_title: "How to Plan the Order Timeline for a Proposal Cake in Cebu"
+cebuano_title: "Giunsa Pagplano ang Timeline sa Pag-order og Proposal Cake sa Cebu"
+tagalog_title: "Paano Planuhin ang Timeline ng Pag-order ng Proposal Cake sa Cebu"
 ---
 
-## Plan a proposal cake order while keeping the surprise on track
+## English
 
-Check the date with White Cakes as soon as you know when the proposal will happen. Made-to-order cakes require at least three days' notice, and a busy weekend or holiday should be checked even earlier. Wait for an availability confirmation before choosing a delivery time around the proposal.
+# How to Plan the Order Timeline for a Proposal Cake in Cebu
 
-Prepare the size, flavour, design reference, and exact inscription in advance. If it is a surprise, give the bakery a trusted local contact and explain who it can call. The delivery driver still needs a complete address, landmark, and receiving mobile number. Confirm the handoff window and fee if delivery is planned.
+A proposal cake sits inside a larger plan, so begin with the moment the cake needs to be ready and work backward. Allow time to settle the venue, guest count, design direction, wording, and delivery or pickup arrangement before sending the bakery a complete brief.
 
-Ask White Cakes to confirm the feasible design, price, and terms in writing. For two people, a 4-inch Bento is planned for two generous or three modest servings. If guests will join afterward, ask about a larger size. The 50% deposit confirms the agreed order after the details are settled.
+The site’s ordering guide recommends at least three days’ notice. A larger cake, detailed design, or busy date may need more lead time, so contact the bakery earlier when those apply. Notice is not a guarantee of availability; ask whether the requested date can be accommodated before making event commitments around the cake.
 
-Keep proposal timing as a short section of the central Cebu order guide. Do not imply a booking until the bakery confirms it.
+After the bakery confirms capacity, agree on the flavour, size, inscription, design, price, and handoff details in writing. The current ordering information describes a 50% deposit after the final price and details have been agreed. Confirm the current terms directly and keep the payment record with the order confirmation.
+
+Plan delivery with a buffer. White Cakes confirms a delivery window rather than an exact minute, so have a named receiver available and a backup contact ready. If the proposal is at a restaurant or venue, ask whether it accepts outside cakes and where staff can hold it. Keep the reveal time separate from the arrival estimate, and have a fallback plan if the event schedule changes. See the [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Cebuano
+
+# Giunsa Pagplano ang Timeline sa Pag-order og Proposal Cake sa Cebu
+
+Kabahin sa mas dako nga plano ang proposal cake, busa sugdi sa oras nga kinahanglan nang andam ang cake ug ihap paatras. Hatagi og panahon ang pagpili sa venue, ihap sa bisita, direksiyon sa disenyo, teksto, ug delivery o pickup sa dili pa magpadala sa panaderya og kompleto nga brief.
+
+Ang ordering guide sa site nagrekomendar og labing menos tulo ka adlaw nga pahibalo. Mahimong manginahanglan og mas sayo nga pag-order ang mas dako nga cake, detalyadong disenyo, o busy nga petsa; kontaka daan ang panaderya kon ingon niini. Dili garantiya sa availability ang sayong pahibalo, busa pangutan-a una kung madawat ang petsa sa dili pa maghimo og event commitment.
+
+Human makumpirma sa panaderya ang kapasidad, mouyon sa flavour, gidak-on, inskripsiyon, disenyo, presyo, ug handoff details pinaagi sa sinulat nga kumpirmasyon. Ang kasamtangang impormasyon nag-ingon nga 50% nga deposit human mouyon sa pinal nga presyo ug detalye. Kumpirmaha ang kasamtangang terms ug tipigi ang resibo uban sa order confirmation.
+
+Pagplano sa delivery nga adunay buffer. Delivery window, dili eksaktong minuto, ang kumpirmahon sa White Cakes; busa pag-andam og ginganlang modawat ug backup contact. Kung sa restaurant o venue ang proposal, pangutan-a kung modawat ba sila og cake gikan sa gawas ug asa kini tipigan sa staff. Lahi-a ang oras sa reveal sa banabana sa pag-abot ug pag-andam og laing plano kon mausab ang event schedule. Tan-awa ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
+
+## Tagalog
+
+# Paano Planuhin ang Timeline ng Pag-order ng Proposal Cake sa Cebu
+
+Bahagi ng mas malaking plano ang proposal cake, kaya magsimula sa oras na kailangan nang handa ang cake at magbilang paatras. Maglaan ng panahon para mapagpasyahan ang venue, bilang ng bisita, direksiyon ng design, wording, at delivery o pickup bago magpadala ng kumpletong brief sa bakery.
+
+Inirerekomenda ng ordering guide ng site ang hindi bababa sa tatlong araw na abiso. Maaaring mangailangan ng mas maagang pag-order ang mas malaking cake, detalyadong disenyo, o abalang petsa; makipag-ugnayan nang mas maaga kung kasama ang mga ito. Hindi garantiya ng availability ang maagang abiso, kaya itanong muna kung kaya ang petsa bago mag-commit sa event.
+
+Kapag nakumpirma na ng bakery ang kapasidad, pag-usapan at ipasulat ang flavour, sukat, inscription, design, presyo, at handoff details. Sinasabi ng kasalukuyang impormasyon sa pag-order na 50% deposit ang ibinibigay matapos mapagkasunduan ang pinal na presyo at detalye. Kumpirmahin ang kasalukuyang terms at itago ang payment record kasama ng order confirmation.
+
+Magplano ng delivery na may palugit. Delivery window ang kinukumpirma ng White Cakes, hindi eksaktong minuto, kaya magtalaga ng tatanggap at backup contact. Kung sa restaurant o venue gagawin ang proposal, itanong kung tumatanggap ito ng dalang cake at saan ito maaaring itago ng staff. Ihiwalay ang oras ng reveal sa tantiya ng dating at maghanda ng alternatibo kung magbago ang event schedule. Tingnan ang [Cebu cake order timeline guide](/journal/how-far-ahead-to-order-a-cake-cebu.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Pagplano og order nga cake sa proposal samtang gipadayon ang sorpresa sa dalan
-
-Susiha ang petsa sa White Cakes sa diha nga nahibal-an nimo kung kanus-a mahitabo ang proposal. Ang hinimo-sa-pag-order nga mga cake nanginahanglan labing menos tulo ka adlaw nga pahibalo, ug ang usa ka busy nga katapusan sa semana o holiday kinahanglan nga susihon bisan sa sayo pa. Paghulat alang sa usa ka kumpirmasyon sa pagkaanaa sa dili pa magpili usa ka oras sa pagpadala sa palibot sa sugyot.
-
-Andama daan ang gidak-on, lami, reference sa disenyo, ug eksaktong inskripsiyon. Kung kini usa ka sorpresa, hatagi ang panaderya og usa ka kasaligan nga lokal nga kontak ug ipasabut kung kinsa ang mahimo niini nga tawagan. Ang drayber sa paghatod nanginahanglan gihapon og kompleto nga adres, landmark, ug nakadawat nga numero sa mobile. Kumpirma ang handoff window ug bayad kung giplano ang pagpadala.
-
-Hangyoa ang White Cakes sa pagkumpirma sa mahimo nga disenyo, presyo, ug mga termino sa pagsulat. Alang sa duha ka tawo, usa ka 4-pulgada nga Bento ang giplano alang sa duha ka manggihatagon o tulo ka kasarangan nga pag-alagad. Kung ang mga bisita moapil pagkahuman, pangutana bahin sa usa ka mas dako nga gidak-on. Ang 50% nga deposito nagpamatuod sa gikasabutan nga order human masulbad ang mga detalye.
-
-Hupti ang timing sa proposal isip mubo nga seksyon sa giya sa order sa sentro sa Sugbo. Ayaw pagpasabot og booking hangtod nga makumpirma kini sa panaderya.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Magplano ng proposal cake order habang pinapanatili ang sorpresa sa track
-
-Suriin ang petsa sa White Cake sa sandaling malaman mo kung kailan mangyayari ang panukala. Ang mga made-to-order na cake ay nangangailangan ng hindi bababa sa tatlong araw na paunawa, at ang isang abalang katapusan ng linggo o holiday ay dapat suriin nang mas maaga. Maghintay ng kumpirmasyon sa availability bago pumili ng oras ng paghahatid sa paligid ng panukala.
-
-Ihanda nang maaga ang laki, lasa, sanggunian sa disenyo, at eksaktong inskripsiyon. Kung ito ay isang sorpresa, bigyan ang panaderya ng isang pinagkakatiwalaang lokal na contact at ipaliwanag kung sino ang matatawagan nito. Kailangan pa rin ng delivery driver ng kumpletong address, landmark, at receiving mobile number. Kumpirmahin ang handoff window at bayad kung ang paghahatid ay binalak.
-
-Hilingin sa White Cakes na kumpirmahin ang magagawang disenyo, presyo, at mga tuntunin sa pagsulat. Para sa dalawang tao, ang isang 4-inch na Bento ay binalak para sa dalawang mapagbigay o tatlong katamtamang serving. Kung sasali ang mga bisita pagkatapos, magtanong tungkol sa mas malaking sukat. Kinukumpirma ng 50% na deposito ang napagkasunduang order pagkatapos ma-settle ang mga detalye.
-
-Panatilihin ang timing ng panukala bilang isang maikling seksyon ng gabay sa pag-order sa gitnang Cebu. Huwag magpahiwatig ng booking hanggang sa makumpirma ito ng panaderya.
+- Reconfirm lead time, deposit, and delivery terms before publication.
+- Cebuano and Tagalog drafts need native editorial review.

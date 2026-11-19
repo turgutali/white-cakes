@@ -1,38 +1,51 @@
 ---
 id: WC-0354
-status: written-draft
+status: human-written-trilingual-draft
 publish_action: merge into /journal/which-cake.html and /journal/cake-sizes-cebu.html
-english_title: "How to compare options for proposal cake in Cebu"
-cebuano_title: "Giunsa pagtandi ang mga kapilian para sa cake para sa proposal sa Cebu"
-tagalog_title: "Paano paghambingin ang mga pagpipilian para sa cake para sa proposal sa Cebu"
+english_title: "How to Compare Proposal Cake Options in Cebu"
+cebuano_title: "Giunsa Pagtandi ang mga Kapilian sa Proposal Cake sa Cebu"
+tagalog_title: "Paano Ihambing ang mga Opsyon sa Proposal Cake sa Cebu"
 ---
 
-## Compare by who will share it and how the cake fits the proposal plan
+## English
 
-Decide whether the cake is for the couple alone or for family and friends who join afterward. A private moment may call for a smaller cake, while a larger gathering needs a different serving plan. Ask the bakery to confirm portions for the current options rather than choosing based on appearance alone.
+# How to Compare Proposal Cake Options in Cebu
 
-Compare design, inscription space, current flavours, price, and the handoff location. If the proposal is a surprise, consider which receiver can coordinate discreetly. Confirm whether delivery is available to the exact venue and what time can be supported.
+Compare proposal cake options against the event plan instead of choosing only by appearance. Start with the number of people who will eat cake, where it will be displayed, how it will reach the venue, and whether the message must stay private until the reveal. These needs help narrow the choice between a compact cake, a larger single tier, or a tiered design.
 
-Update the existing product and size pages with verified options, linking to the order guide for surprise planning. Do not split the same comparison into a proposal-only URL.
+Next compare the design brief. One option may leave more space for a readable inscription; another may better match the venue or a shared theme. Ask which version is feasible with the bakery’s current methods and what changes would affect the price or timing. A reference photo alone is not a confirmed quote or promise of exact replication.
+
+Compare total order details on the same basis: size, serving estimate, flavour, decoration, inscription, delivery, payment terms, and lead time. If you need more portions than the smaller option provides, ask whether a larger size or a separate dessert is the practical solution. Site serving counts are approximate and should be checked against your guest plan.
+
+Choose the option that fits the proposal logistics and budget, then get the agreed details in writing. For help matching cake size to guests, see the [Cebu cake size guide](/journal/cake-sizes-cebu.html); for broader selection, see [which cake should you choose?](/journal/which-cake.html).
+
+## Cebuano
+
+# Giunsa Pagtandi ang mga Kapilian sa Proposal Cake sa Cebu
+
+Itandi ang mga kapilian sa proposal cake base sa plano sa event, dili sa hitsura lang. Sugdi sa ihap sa mokaon sa cake, lugar nga pagbutangan niini, paagi sa pagdala sa venue, ug kon sekreto ba ang mensahe hangtod sa reveal. Makatabang kini pagpili tali sa compact nga cake, mas dako nga one-tier, o tiered nga disenyo.
+
+Sunod itandi ang design brief. Ang usa ka kapilian mahimong adunay mas daghang luna para sa mabasang inskripsiyon; ang lain mas mohaom sa venue o tema nga gipaambit. Pangutan-a unsang bersiyon ang mahimo sa kasamtangang pamaagi sa panaderya ug unsang kausaban ang makaapekto sa presyo o oras. Dili kumpirmadong quote o saad sa eksaktong kopya ang reference photo lang.
+
+Itandi ang tibuok order sa parehas nga basehan: gidak-on, banabana sa servings, flavour, dekorasyon, inskripsiyon, delivery, terms sa bayad ug lead time. Kung mas daghan og servings ang kinahanglan kaysa mahatag sa gamay nga kapilian, pangutan-a kung mas praktikal ang mas dako nga cake o laing dessert. Banabana ang serving counts sa site; susiha kini batok sa plano sa bisita.
+
+Pilia ang kapilian nga mohaom sa logistics ug budget sa proposal, dayon pangayo og sinulat nga kumpirmasyon sa napagkasabotan. Para sa gidak-on ug bisita, tan-awa ang [Cebu cake size guide](/journal/cake-sizes-cebu.html); para sa mas lapad nga pagpili, basaha ang [which cake should you choose?](/journal/which-cake.html).
+
+## Tagalog
+
+# Paano Ihambing ang mga Opsyon sa Proposal Cake sa Cebu
+
+Ihambing ang mga opsyon sa proposal cake ayon sa plano ng event sa halip na itsura lang. Magsimula sa bilang ng kakain ng cake, kung saan ito ipapakita, paano ito dadalhin sa venue, at kung dapat manatiling pribado ang mensahe hanggang sa reveal. Makakatulong ang mga ito para pumili sa compact na cake, mas malaking single tier, o tiered na design.
+
+Pagkatapos, ihambing ang design brief. Maaaring mas malaki ang espasyong mapaglalagyan ng inscription sa isang opsyon; maaaring mas bagay naman ang isa sa venue o pinagsasaluhang tema. Itanong kung aling bersiyon ang kaya gamit ang kasalukuyang pamamaraan ng bakery at anong pagbabago ang makaaapekto sa presyo o oras. Hindi garantiya ng quote o eksaktong pagkopya ang reference photo lamang.
+
+Ihambing ang buong order sa parehong batayan: sukat, tantiya ng servings, flavour, dekorasyon, inscription, delivery, payment terms, at lead time. Kung mas marami ang kailangang servings kaysa sa kaya ng mas maliit na opsyon, itanong kung mas praktikal ang mas malaking cake o hiwalay na dessert. Tantiya lamang ang serving counts sa site; itapat ito sa plano mo para sa mga bisita.
+
+Piliin ang opsyong babagay sa logistics at budget ng proposal, saka hingin sa sulat ang napagkasunduang detalye. Para itugma ang sukat sa dami ng bisita, tingnan ang [Cebu cake size guide](/journal/cake-sizes-cebu.html); para sa mas malawak na pagpili, basahin ang [which cake should you choose?](/journal/which-cake.html).
 
 ---
 
-## Cebuano translation (machine translated; editorial review pending)
+## Editorial notes
 
-## Itandi kung kinsa ang mopaambit niini ug kung giunsa ang cake mohaum sa plano sa proposal
-
-Desisyuni kung ang cake para lang sa magtiayon o para sa pamilya ug mga higala nga moapil pagkahuman. Ang usa ka pribado nga higayon mahimo’g magtawag alang sa usa ka gamay nga cake, samtang ang usa ka dako nga panagtapok kinahanglan usa ka lahi nga plano sa pagserbisyo. Hangyoa ang panaderya sa pagkumpirma sa mga bahin alang sa kasamtangan nga mga kapilian kay sa pagpili base sa hitsura lamang.
-
-Itandi ang disenyo, luna sa inskripsiyon, kasamtangang mga lami, presyo, ug ang dapit sa handoff. Kung ang sugyot usa ka sorpresa, hunahunaa kung kinsa nga tigdawat ang mahimo nga makig-coordinate sa maalamon nga paagi. Kumpirma kung ang pagpadala magamit sa eksakto nga lugar ug kung unsang orasa ang masuportahan.
-
-I-update ang naglungtad nga mga panid sa produkto ug gidak-on nga adunay napamatud-an nga mga kapilian, nga nag-link sa giya sa pag-order alang sa katingad-an nga pagplano. Ayaw bahina ang parehas nga pagtandi sa usa ka sugyot-lamang nga URL.
-
-## Tagalog translation (machine translated; editorial review pending)
-
-## Ikumpara kung sino ang magbabahagi nito at kung paano umaangkop ang cake sa plano ng panukala
-
-Magpasya kung ang cake ay para sa mag-asawang nag-iisa o para sa pamilya at mga kaibigan na sumali pagkatapos. Ang isang pribadong sandali ay maaaring tumawag para sa isang mas maliit na cake, habang ang isang mas malaking pagtitipon ay nangangailangan ng ibang plano sa paghahatid. Hilingin sa panaderya na kumpirmahin ang mga bahagi para sa kasalukuyang mga opsyon sa halip na pumili batay sa hitsura lamang.
-
-Paghambingin ang disenyo, espasyo ng inskripsiyon, kasalukuyang lasa, presyo, at lokasyon ng handoff. Kung ang panukala ay isang sorpresa, isaalang-alang kung aling tagatanggap ang maaaring makipag-ugnayan nang maingat. Kumpirmahin kung available ang paghahatid sa eksaktong lugar at kung anong oras ang maaaring suportahan.
-
-I-update ang mga kasalukuyang page ng produkto at laki na may mga na-verify na opsyon, na nagli-link sa gabay sa pag-order para sa sorpresang pagpaplano. Huwag hatiin ang parehong paghahambing sa isang proposal-only na URL.
+- Confirm current sizes, pricing, and serving estimates before publication.
+- Cebuano and Tagalog drafts need native editorial review.
