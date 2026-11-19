@@ -6,7 +6,8 @@ english_title: "How to Order a Cake for Family in Cebu from Abroad"
 cebuano_title: "Giunsa pag-order og cake para sa pamilya sa Cebu gikan sa laing nasod"
 tagalog_title: "Paano mag-order ng cake para sa pamilya sa Cebu mula sa ibang bansa"
 ---
-## Ordering cake from another country
+## English
+### Ordering cake from another country
 
 A remote order works best when the sender treats the bakery confirmation as the source of truth. Before paying, confirm the date in Cebu local time, the exact cake and message, the recipient’s Cebu contact number, the full delivery address, and who will receive the box. If sender and recipient are in different time zones, put every deadline and handoff time in Philippine time in the written order summary.
 
@@ -16,7 +17,8 @@ Use one message thread for the brief and keep the payment receipt separate from 
 
 Write the date, flavour choice from the current menu, short inscription, delivery address, landmark, recipient contact, and a backup contact if appropriate. Ask the bakery to confirm availability, current price, delivery fee, and any design limits in writing. This keeps the decision clear for the sender and the person receiving the cake.
 
-## Pag-order og cake gikan sa laing nasod
+## Cebuano
+### Pag-order og cake gikan sa laing nasod
 
 Mas hapsay ang remote order kung ang kumpirmasyon sa panaderya maoy basihan sa detalye. Sa dili pa mobayad, kumpirmaha ang petsa sa lokal nga oras sa Cebu, eksaktong cake ug mensahe, contact number sa recipient sa Cebu, kompletong delivery address, ug kinsa ang modawat sa kahon. Kung lahi ang time zone sa nagpadala ug recipient, isulat ang tanang deadline ug oras sa handoff sa oras sa Pilipinas.
 
@@ -26,7 +28,8 @@ Gamita ang usa ka message thread para sa brief ug tipigi nga bulag ang resibo sa
 
 Isulat ang petsa, flavour gikan sa kasamtangang menu, mubo nga mensahe, delivery address, landmark, contact sa recipient, ug laing contact kung angay. Pangayoa nga kumpirmahon sa panaderya ang availability, kasamtangang presyo, delivery fee, ug limitasyon sa disenyo. Makatabang kini nga klaro ang desisyon para sa nagpadala ug sa modawat.
 
-## Pag-order ng cake mula sa ibang bansa
+## Tagalog
+### Pag-order ng cake mula sa ibang bansa
 
 Mas maayos ang remote order kapag ang kumpirmasyon ng panaderya ang sinusunod na batayan. Bago magbayad, kumpirmahin ang petsa sa lokal na oras ng Cebu, eksaktong cake at mensahe, contact number ng tatanggap sa Cebu, buong delivery address, at kung sino ang tatanggap ng kahon. Kung magkaiba ang time zone ng nagpadala at tatanggap, ilagay sa nakasulat na order summary ang lahat ng deadline at oras ng handoff sa oras ng Pilipinas.
 

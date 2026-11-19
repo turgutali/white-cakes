@@ -6,7 +6,8 @@ english_title: "A photo-led design breakdown of mango cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa mango cake sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng mango cake sa Cebu"
 ---
-## Plan mango cake without inventing a customer story
+## English
+### Plan mango cake without inventing a customer story
 
 A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this mango cake, the main choice may be the colour palette and seasonal menu confirmation; write down what should remain recognizable and what is flexible before sending a reference.
 
@@ -16,7 +17,8 @@ A reference photo is a communication tool, not a promise of an exact copy. Point
 
 Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-## Planoha ang mango cake nga walay hinimong istorya sa customer
+## Cebuano
+### Planoha ang mango cake nga walay hinimong istorya sa customer
 
 Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining mango cake, mahimong pangunang pilion ang kolor ug pagkumpirma sa seasonal menu; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
 
@@ -26,7 +28,8 @@ Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong 
 
 Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
 
-## Planuhin ang mango cake nang walang kathang-isip na kuwento ng customer
+## Tagalog
+### Planuhin ang mango cake nang walang kathang-isip na kuwento ng customer
 
 Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa mango cake, maaaring pangunahing piliin ang kulay at pagkumpirma sa seasonal menu; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
 

@@ -6,7 +6,8 @@ english_title: "A photo-led design breakdown of New Year cake in Cebu"
 cebuano_title: "Usa ka breakdown sa disenyo sa litrato sa cake para sa Bag-ong Tuig sa Cebu"
 tagalog_title: "Paghimay sa disenyo sa larawan ng cake para sa Bagong Taon sa Cebu"
 ---
-## Plan New Year cake without inventing a customer story
+## English
+### Plan New Year cake without inventing a customer story
 
 A useful design guide can help a reader make a decision even when there is no published customer case. Begin with the occasion and the person being celebrated. Choose one visual priority, then limit supporting details so the cake reads clearly in the room and in a phone photo. For this New Year cake, the main choice may be the year-end palette and serving moment; write down what should remain recognizable and what is flexible before sending a reference.
 
@@ -16,7 +17,8 @@ A reference photo is a communication tool, not a promise of an exact copy. Point
 
 Send the event date, preferred size, flavour from the current menu, exact inscription, and one reference image. Ask for spelling and layout confirmation before the order is finalized. If a detail matters more than the rest, say so first. A general guide should explain these choices clearly; a real photo-led case can be added later only when the image and order details are verified and approved.
 
-## Planoha ang cake para sa Bag-ong Tuig nga walay hinimong istorya sa customer
+## Cebuano
+### Planoha ang cake para sa Bag-ong Tuig nga walay hinimong istorya sa customer
 
 Makatabang ang maayong giya sa disenyo sa pagpili bisan walay gipatik nga customer case. Sugdi sa okasyon ug sa tawo nga gisaulog. Pagpili og usa ka pangunang detalye, dayon limitahi ang ubang dekorasyon aron klaro tan-awon ang cake sa lugar ug sa litrato sa cellphone. Para niining cake para sa Bag-ong Tuig, mahimong pangunang pilion ang kolor sa katapusan sa tuig ug oras sa pag-serve; isulat unsay angay magpabilin nga mailhan ug unsay puwedeng usbon sa dili pa magpadala og reference.
 
@@ -26,7 +28,8 @@ Pangtabang sa pagpasabot ang reference photo, apan dili kini saad nga eksaktong 
 
 Ipadala ang petsa sa okasyon, gusto nga gidak-on, flavour gikan sa kasamtangang menu, eksaktong inskripsiyon ug usa ka reference image. Pangayoa nga kumpirmahon ang spelling ug layout sa dili pa final ang order. Kung mas importante ang usa ka detalye kaysa sa uban, isulti kini una. Kinahanglan klaro nga ipasabut sa kinatibuk-ang giya kining mga pagpili; mahimo lamang idugang unya ang tinuod nga photo-led case kon napamatud-an ug giaprobahan ang litrato ug detalye sa order.
 
-## Planuhin ang cake para sa Bagong Taon nang walang kathang-isip na kuwento ng customer
+## Tagalog
+### Planuhin ang cake para sa Bagong Taon nang walang kathang-isip na kuwento ng customer
 
 Makakatulong ang mahusay na design guide sa mambabasa kahit walang nailathalang customer case. Magsimula sa okasyon at sa taong ipinagdiriwang. Pumili ng isang pangunahing detalye, saka limitahan ang mga pantulong na dekorasyon para malinaw ang cake sa venue at sa kuha ng cellphone. Para sa cake para sa Bagong Taon, maaaring pangunahing piliin ang kulay sa pagtatapos ng taon at oras ng paghahain; isulat kung ano ang dapat manatiling makikilala at alin ang maaaring baguhin bago magpadala ng reference.
 
