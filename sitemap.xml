@@ -1082,4 +1082,14 @@
       <image:title>The 4-inch Bento is a small format; send the date and serving plan when asking to order.</image:title>
     </image:image>
   </url>
+  <url>
+    <loc>https://www.thewhitecakes.com/journal/paano-mag-order-cake-cebu.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://www.thewhitecakes.com/assets/signature-marble-cake-cebu.webp</image:loc>
+      <image:title>Signature Marble cake from The White Cakes in Cebu</image:title>
+    </image:image>
+  </url>
 </urlset>
