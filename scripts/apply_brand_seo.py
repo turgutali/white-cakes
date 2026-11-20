@@ -893,6 +893,16 @@ def patch_html(service_images: dict[str, list[dict]]) -> None:
                 )
             if extra:
                 html = html.replace("</head>", "\n".join(json_script(item) for item in extra) + "\n</head>", 1)
+        if "gtm.js?id=GTM-T4NPB5VF" not in html:
+            snippet = '''  <!-- Google Tag Manager -->
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-T4NPB5VF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
+  <!-- End Google Tag Manager -->'''
+            html = re.sub(r"(<head\b[^>]*>)", r"\1\n" + snippet, html, count=1, flags=re.I)
         path.write_text(html, encoding="utf-8")
         print("patched", rel)
 
